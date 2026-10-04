@@ -1,0 +1,64 @@
+SEGMENTO s130
+== SLIDE: Aula 38: rito sumário e revisão do PAD
+* Rito sumário: arts. 133 e 140
+* Três hipóteses: acumulação, abandono, inassiduidade habitual
+* Revisão do processo disciplinar: arts. 174 a 182
+* Depois: prazos, jurisprudência, instâncias e questões
+* Comissão de 2 servidores estáveis; defesa de 5 dias
+ANTONIO: Bem-vindos à aula trinta e oito, que fecha Direito Administrativo na parte de regime disciplinar, processo administrativo disciplinar e responsabilidades do servidor. Hoje veremos o rito sumário, a revisão do processo disciplinar, uma tabela mestra de prazos, a jurisprudência, a comunicabilidade das instâncias e, no fim, questões comentadas no estilo FCC.
+THALITA: Eu sou a Thalita, concurseira, e estou pronta para decorar prazos!
+FRANCISCA: Eu sou a Francisca, professora, e vou trazer a lei em paráfrase e exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC, e vou mostrar as pegadinhas.
+ANTONIO: Começamos pelo rito sumário, uma versão enxuta do processo administrativo disciplinar. Ele só serve para três situações em que a materialidade é objetiva e documental: acumulação ilegal de cargos, abandono de cargo e inassiduidade habitual.
+THALITA: Só essas três? E se o servidor cometer corrupção, por exemplo?
+BRUNO: Aí é PAD ordinário. Insubordinação grave, corrupção e improbidade exigem o rito ordinário. O rito sumário se aplica às três hipóteses e a nenhuma outra.
+FRANCISCA: Cada hipótese tem seu gatilho. Na acumulação ilegal, o servidor é notificado para optar em dez dias improrrogáveis e não se manifesta. No abandono de cargo, há ausência intencional por mais de trinta dias consecutivos. Na inassiduidade habitual, faltas sem causa justificada somam sessenta dias, interpoladamente, em doze meses.
+THALITA: Então no abandono é mais de trinta, e na inassiduidade são sessenta no ano, não precisam ser seguidos. Certo?
+BRUNO: Certíssimo, e a FCC troca isso. Escrever que o abandono é de trinta dias exatos, ou que a inassiduidade exige sessenta dias seguidos, é pegadinha.
+== SLIDE: Fases e prazos do rito sumário
+* Comissão: 2 servidores estáveis (art. 133, I)
+* Termo de indiciação em até 3 dias; defesa em 5 dias
+* Procedimento: 30 dias, prorrogáveis por até 15
+* Opção até o fim da defesa: boa-fé e exoneração do outro cargo
+* Má-fé comprovada: demissão
+FRANCISCA: Vamos às fases. A instauração é feita pela publicação do ato que constitui a comissão, já indicando autoria e materialidade. A comissão tem dois servidores estáveis. Depois vem a instrução sumária, com indiciação, defesa e relatório.
+THALITA: E os prazos?
+ANTONIO: O termo de indiciação é lavrado em até três dias após a publicação do ato que constituiu a comissão. A defesa escrita é de cinco dias. O relatório é conclusivo e segue à autoridade para julgamento. E o procedimento inteiro dura trinta dias, contados da publicação do ato da comissão, prorrogáveis por até quinze dias.
+BRUNO: Compare com o ordinário: lá são três servidores, defesa de dez dias e prazo de sessenta mais sessenta. No sumário: dois servidores, defesa de cinco dias, trinta mais até quinze. A banca inverte dois e três, ou aplica sessenta dias ao sumário.
+THALITA: Macete: sumário é pequeno, dois, cinco, trinta. O ordinário é grande, três, dez, sessenta.
+FRANCISCA: Um exemplo: Ana, servidora de um órgão federal, ocupa também cargo em outra autarquia federal, sem compatibilidade de horário. Notificada, não opta em dez dias, e instaura-se o rito sumário. Se Ana optar por um dos cargos até o último dia da defesa, presume-se boa-fé e o outro vínculo se encerra por exoneração. Se a defesa mostrar que a acumulação é lícita, arquiva-se. Se a má-fé for provada, a penalidade é demissão.
+== SLIDE: Julgamento, opção e má-fé no rito sumário
+* Julgamento: autoridade instauradora, prazo curto (conferir)
+* Notificação para optar: só na acumulação ilegal
+* Opção até o fim da defesa: boa-fé
+* Má-fé: demissão e comunicação aos órgãos de vinculação
+* Notificação de 10 dias não vale para abandono
+BRUNO: Mais três detalhes do rito sumário que caem em prova. Primeiro, o julgamento cabe à autoridade instauradora, em prazo curto: a lei fala em cinco dias após receber o processo, mas é bom conferir a redação vigente.
+THALITA: E aquela notificação de dez dias para optar vale para todas as hipóteses?
+ANTONIO: Não. A notificação é só na acumulação ilegal. No abandono e na inassiduidade, o gatilho é a ausência ou a falta, e não há opção.
+FRANCISCA: Segundo detalhe: se o servidor optar até o último dia da defesa, configura-se a boa-fé. Terceiro: se a má-fé for comprovada, a pena é demissão, destituição ou cassação quanto aos vínculos em acumulação ilegal, e os órgãos de vinculação são comunicados.
+THALITA: Então boa-fé, escolhe um cargo e sai do outro por exoneração; má-fé, demissão. Fixei!
+== SLIDE: Revisão do processo disciplinar
+* Cabimento: a qualquer tempo, a pedido ou de ofício (art. 174)
+* Exige fato novo ou circunstância nova
+* Ônus da prova: do requerente
+* Comissão revisora: 60 dias; julgamento em 20 dias
+* Nunca agrava a penalidade
+BRUNO: Passemos à revisão do processo disciplinar, o instrumento para corrigir uma decisão definitiva.
+THALITA: Quando pode ser pedida?
+ANTONIO: A qualquer tempo, a pedido ou de ofício. O fundamento são fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou a inadequação da penalidade. Quem pede é o servidor; se ele faleceu, está ausente ou desaparecido, a pessoa da família; em caso de incapacidade mental, o curador.
+FRANCISCA: O ônus da prova é do requerente. E a mera alegação de que a pena foi injusta não basta: é preciso trazer elementos novos, ainda não apreciados.
+THALITA: E quem decide? Para onde vai o pedido?
+BRUNO: O requerimento é dirigido ao Ministro de Estado ou autoridade equivalente, que, admitindo a revisão, constitui comissão nos moldes do artigo cento e quarenta e nove. O processo corre em apenso ao original. A comissão revisora tem sessenta dias para concluir, e o julgamento é feito pela autoridade que aplicou a penalidade, em vinte dias do recebimento.
+ANTONIO: Se procedente, a penalidade é tornada sem efeito e os direitos atingidos são restabelecidos. A destituição de cargo em comissão é convertida em exoneração. E nunca se pode agravar a penalidade.
+THALITA: Mnemônico da apostila: revisão, seis, dois, N. Sessenta dias da comissão, vinte do julgamento, e não agrava.
+== SLIDE: Pontos quentes e comparação com o PAD ordinário
+* Pegadinha: revisão que agrava a pena
+* PAD ordinário: 3 membros, defesa de 10 dias, 60 + 60
+* Sumário: 2 membros, defesa de 5 dias, 30 + até 15
+* Citação por edital: prazo de defesa de 15 dias (ordinário)
+* Próximo: tabela mestra de prazos
+FRANCISCA: Resumindo os pontos quentes da revisão: a qualquer tempo, fato novo ou circunstância nova, ônus do requerente e proibição de piorar a pena. Trocar qualquer um desses elementos torna a alternativa errada.
+BRUNO: Se a banca disser que a revisão pode agravar a penalidade, marque errado sem pensar. Isso é a reformatio in pejus, e a lei proíbe.
+THALITA: E sobre o ordinário, lembrando: três servidores estáveis, defesa de dez dias, ou vinte se houver dois ou mais indiciados, e sessenta dias prorrogáveis por mais sessenta. No sumário, as regras do rito sumário que acabamos de ver.
+ANTONIO: Isso. No ordinário, com citação por edital, o prazo de defesa é de quinze dias. Agora que você domina o contraste entre os ritos, vamos juntar todos os prazos numa tabela mestra, junto com a jurisprudência e a comunicabilidade das instâncias. Vamos lá!
