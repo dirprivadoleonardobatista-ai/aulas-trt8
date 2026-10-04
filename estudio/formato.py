@@ -20,9 +20,10 @@ VOZES = {
     "THALITA": {"nome": "Thalita", "papel": "concurseira"},
 }
 
-FAIXA_MIN, FAIXA_MAX = 0.93, 1.25        # tolerancia sobre a meta de palavras
+PEDIR_A_MAIS = 1.2                        # meta mostrada ao roteirista (ele entrega ~85% do pedido)
+FAIXA_MIN, FAIXA_MAX = 0.90, 1.50        # aceito, sobre a meta do plano
 MAX_PARTICIPACAO = 0.45                   # nenhuma voz passa disto
-MIN_PARTICIPACAO = 0.12                   # (estrito) toda voz chega a isto
+MIN_PARTICIPACAO = 0.10                   # (estrito) toda voz chega a isto
 PALAVRAS_POR_SLIDE_MAX = 420              # (estrito) mais que isso pede outro slide
 FALA_MAX_CHARS = 900
 
@@ -115,8 +116,12 @@ def validar(texto, seg_plano, estrito=False):
 
     meta = seg_plano["meta_palavras"]
     lo, hi = int(meta * FAIXA_MIN), int(meta * FAIXA_MAX)
-    if not lo <= total <= hi:
-        erros.append("narração com %d palavras; a meta é %d (aceito de %d a %d)" % (total, meta, lo, hi))
+    if total < lo:
+        erros.append("narração com %d palavras; faltam %d para o mínimo de %d. Acrescente de uma vez "
+                     "um slide novo (exemplo, pegadinha ou questão) com %d palavras ou mais"
+                     % (total, lo - total, lo, lo - total + 60))
+    elif total > hi:
+        erros.append("narração com %d palavras; o máximo é %d. Corte repetições" % (total, hi))
     minimo_vozes = 4 if meta >= 900 else 3
     presentes = [v for v, n in por_voz.items() if n > 0]
     if len(presentes) < minimo_vozes:

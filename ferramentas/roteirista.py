@@ -15,6 +15,7 @@ import json
 import os
 import subprocess
 import sys
+import time
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, RAIZ)
@@ -22,7 +23,8 @@ from estudio.formato import validar  # noqa: E402
 
 PASTA = os.path.join(RAIZ, "roteiros")
 CONTADOR = os.path.join(RAIZ, ".git", "roteirista_sessao.json")
-PUSH_A_CADA = 3
+PUSH_A_CADA = 2
+from estudio.formato import PEDIR_A_MAIS  # noqa: E402
 
 POSICAO = {
     "abertura": "PRIMEIRO segmento da aula: comece com ANTONIO dando as boas-vindas, dizendo o "
@@ -66,15 +68,24 @@ def contador(delta=0, zerar=False):
 
 
 def push():
+    """Envia os commits para o main. A sessao agendada abre o repositorio sem
+    branch (HEAD destacado), entao o destino vai sempre explicito."""
     if not git("config", "user.email", ok=True).stdout.strip():
         git("config", "user.email", "roteirista@aulas-trt8.local")
         git("config", "user.name", "Roteirista (Claude)")
-    r = git("push", "-u", "origin", "HEAD", ok=True)
+    r = None
+    for _ in range(4):
+        git("fetch", "-q", "origin", "main", ok=True)
+        git("rebase", "-q", "origin/main", ok=True)
+        r = git("push", "origin", "HEAD:refs/heads/main", ok=True)
+        if not r.returncode:
+            break
+    if r.returncode:                        # main bloqueado: vai para um branch, o Actions integra
+        nome = "refs/heads/claude/roteiros-%d" % int(time.time())
+        r = git("push", "origin", "HEAD:" + nome, ok=True)
     if r.returncode:
-        git("pull", "--rebase", "origin", git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip(), ok=True)
-        r = git("push", "-u", "origin", "HEAD", ok=True)
-    if r.returncode:
-        print("AVISO: push falhou: %s" % (r.stderr or r.stdout).strip()[:300])
+        print("ERRO GRAVE: push falhou: %s" % (r.stderr or r.stdout).strip()[:300])
+        print("Tente: git push origin HEAD:refs/heads/main")
         return False
     d = contador()
     d["commits_sem_push"] = 0
@@ -147,6 +158,7 @@ def pendentes(p, turno):
 
 def mostrar(seg, aula, total):
     meta = seg["meta_palavras"]
+    pedida = round(meta * PEDIR_A_MAIS / 10) * 10
     print("=" * 70)
     print("PRÓXIMO: %s  ->  escreva em roteiros/%s.txt (ferramenta Write)" % (seg["id"], seg["id"]))
     print("Aula %d de %d — %s (parte %d de %d da disciplina)" % (
@@ -158,8 +170,7 @@ def mostrar(seg, aula, total):
     if seg["seguinte"]:
         print("Próximo tema: " + seg["seguinte"])
     print("Posição: " + POSICAO[seg["posicao"]])
-    print("META: %d palavras faladas (aceito %d a %d), cerca de %d slides." % (
-        meta, int(meta * 0.93), int(meta * 1.25), max(2, round(meta / 330))))
+    print("META: %d palavras faladas, cerca de %d slides." % (pedida, max(2, round(pedida / 330))))
     print("=" * 70)
     print("FONTE (apostila):")
     print(seg["fonte"])

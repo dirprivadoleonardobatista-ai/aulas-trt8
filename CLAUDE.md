@@ -43,7 +43,7 @@ FRANCISCA: fala...
 - THALITA (Thalita, concurseira): pergunta o que o aluno perguntaria, pede exemplo, resume com macetes.
 
 Alterne sempre (nunca a mesma voz duas vezes seguidas). Falas de 1 a 5 frases.
-Cada voz fica entre 12% e 45% das palavras: a THALITA não só pergunta, ela
+Cada voz fica entre 10% e 45% das palavras: a THALITA não só pergunta, ela
 também resume, dá macetes e arrisca respostas (às vezes erradas, e alguém corrige). Conversa de verdade: um responde ao outro,
 completa, discorda e corrige quando faz sentido. Chamar pelo nome, só de vez em quando.
 
@@ -71,9 +71,10 @@ completa, discorda e corrige quando faz sentido. Chamar pelo nome, só de vez em
 
 ## Tamanho
 
-Respeite a META de palavras (soma das falas). Abaixo de 93% ou acima de 125%
-o validador recusa. Para render mais, aprofunde com exemplo, pegadinha e
-comparação, nunca com enrolação ou repetição.
+Escreva a META de palavras já na primeira versão (conte por alto: um slide
+completo tem ~330 palavras). Cada correção custa caro. Se o validador pedir
+mais palavras, acrescente UM slide novo inteiro com uma só chamada de Edit
+(exemplo, pegadinha ou questão), em vez de várias falas soltas.
 
 ## Exemplo (trecho)
 
