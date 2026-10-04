@@ -1,0 +1,181 @@
+SEGMENTO s055
+== SLIDE: Questão 1: fundamentos da República
+* Gabarito C: soberania, cidadania, valores sociais do trabalho e livre iniciativa
+* A: independência nacional é princípio do art. 4º
+* D: pluripartidarismo e livre concorrência não são fundamentos
+* E: desenvolvimento nacional é objetivo (art. 3º, II)
+BRUNO: Terminada a teoria, vamos treinar com questões comentadas estilo FCC. Questão um, de analista. O enunciado pede o que a Constituição aponta como fundamentos da República Federativa do Brasil, entre outros. As alternativas misturam fundamentos, princípios internacionais e objetivos.
+THALITA: Pausa para você pensar. Eu iria na letra A, porque soberania e pluralismo político estão ali, e eu sei que são fundamentos.
+FRANCISCA: Quase, Thalita, mas a letra A inclui a independência nacional, que é princípio das relações internacionais, no artigo quarto, inciso primeiro. Errada.
+ANTONIO: A letra B traz a cidadania e a dignidade da pessoa humana, que são fundamentos, mas também a prevalência dos direitos humanos, que é princípio do artigo quarto, inciso segundo. Errada também.
+BRUNO: A letra C traz soberania, cidadania e valores sociais do trabalho e da livre iniciativa. Artigo primeiro, incisos primeiro, segundo e quarto. Correta. Lembra do macete: SO, CI, DI, VA, PLU.
+THALITA: Entendi. E a D tem dignidade da pessoa humana, que é fundamento, mas aí vem pluripartidarismo.
+FRANCISCA: Exato. O fundamento é o pluralismo político, no inciso quinto. Pluripartidarismo é outra coisa, aparece no artigo dezessete. E livre concorrência é princípio da ordem econômica, artigo cento e setenta, inciso quatro.
+ANTONIO: Por fim, a letra E fala em cidadania e pluralismo político, que estão certos, mas inclui garantir o desenvolvimento nacional. Isso é objetivo fundamental, artigo terceiro, inciso segundo. Errada.
+THALITA: Então a banca pega um item de outro artigo e coloca no meio do certo.
+BRUNO: É a técnica clássica. Um intruso no meio de itens verdadeiros. Gabarito C.
+== SLIDE: Questão 2: objetivos fundamentais
+* Gabarito B: itens I e II reproduzem o art. 3º, III e IV
+* Item III é princípio internacional (art. 4º, IX)
+* Item IV troca "solidária" por "igualitária"
+* Macete: CON-GA-ERRA-PRO
+FRANCISCA: Questão dois, de técnico. Quatro itens, e o candidato deve dizer quais são objetivos fundamentais. O primeiro: erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. O segundo: promover o bem de todos, sem preconceitos. O terceiro: cooperação entre os povos para o progresso da humanidade. O quarto: construir uma sociedade livre, justa e igualitária.
+THALITA: Pausa para pensar. O primeiro e o segundo parecem iguais ao texto. O terceiro eu já ouvi hoje. O quarto parece estranho.
+BRUNO: Boa leitura. O primeiro e o segundo reproduzem o artigo terceiro, incisos terceiro e quarto. O terceiro item é princípio das relações internacionais, artigo quarto, inciso nove, porque começa com substantivo e fala em povos.
+ANTONIO: E o quarto item troca solidária por igualitária. O texto do artigo terceiro, inciso primeiro, fala em sociedade livre, justa e solidária.
+THALITA: Então só o um e o dois estão certos. Letra B.
+FRANCISCA: Correto. Agora as alternativas. A letra A inclui o item três, que é princípio internacional. Errada.
+BRUNO: A letra C junta o dois com o quatro, e o quatro é adulterado. Errada. A letra D inclui o um, o dois e o quatro, de novo com o quatro adulterado. Errada.
+ANTONIO: A letra E junta o três com o quatro, e os dois estão errados como objetivos. Errada.
+THALITA: Macete que eu uso: CON, GA, ERRA, PRO. Se o item começa com verbo, é artigo terceiro. Mas cuidado, porque o quatro começava com verbo e estava adulterado.
+BRUNO: Ótima observação. Verbo ajuda a localizar o artigo, mas depois confira cada palavra.
+== SLIDE: Questão 3: princípios das relações internacionais
+* Gabarito E: independência nacional, direitos humanos e solução pacífica
+* A: soberania é fundamento
+* B: asilo político, racismo e Estados
+* C: povos, não Estados; D: América Latina e comunidade de nações
+ANTONIO: Questão três. Segundo a Constituição, o Brasil se rege em suas relações internacionais por alguns princípios. As alternativas trazem pegadinhas de palavras trocadas. Leia com calma.
+THALITA: Pausa para você pensar. Eu marquei a letra A, porque soberania, não intervenção e defesa da paz são coisas que o Brasil defende.
+BRUNO: Ótimo palpite, mas errado. Soberania é fundamento do artigo primeiro. O princípio internacional é a independência nacional. A não intervenção e a defesa da paz estão certas, mas o intruso derruba a alternativa.
+FRANCISCA: A letra B fala em concessão de refúgio, repúdio ao terrorismo e à tortura e igualdade entre os povos. O texto fala em asilo político, repúdio ao terrorismo e ao racismo, e igualdade entre os Estados. Três trocas. Errada.
+THALITA: Nossa, três erros na mesma alternativa.
+ANTONIO: A letra C inverte os termos: fala em autodeterminação dos Estados e cooperação entre os Estados. O texto diz autodeterminação dos povos, inciso terceiro, e cooperação entre os povos, inciso nove. Errada.
+BRUNO: A letra D mistura a defesa da paz com o parágrafo único, mas troca América Latina por América do Sul, e comunidade latino-americana de nações por mercado comum. Errada.
+FRANCISCA: A letra E traz independência nacional, prevalência dos direitos humanos e solução pacífica dos conflitos. Artigo quarto, incisos primeiro, segundo e sétimo. Correta.
+THALITA: Então a chave é o vocabulário. Povos, Estados, asilo, racismo, América Latina.
+BRUNO: Isso mesmo. Guarde estas palavras exatas.
+== SLIDE: Questão 4: eficácia do art. 5º, XIII
+* Gabarito A: eficácia contida
+* O direito é exercido desde logo; a lei pode restringir
+* "Absoluta" é categoria de Maria Helena Diniz
+* Limitada e plena não se encaixam
+FRANCISCA: Questão quatro. O enunciado traz o artigo quinto, inciso treze: é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer. Pergunta a classificação de José Afonso da Silva.
+THALITA: Pausa para você pensar. Como o artigo diz que a lei vai estabelecer as qualificações, acho que é limitada de princípio institutivo.
+BRUNO: A pegadinha da banca é exatamente essa. A expressão que a lei estabelecer parece dependência. Mas o direito já existe e já pode ser exercido. A lei só vai restringir.
+ANTONIO: Por isso a resposta é a letra A: eficácia contida, aplicabilidade direta e imediata, mas possivelmente não integral. A lei não completa o direito, ela o contém.
+FRANCISCA: Vamos às erradas. A letra B diz limitada de princípio institutivo. Essa espécie organiza órgãos ou institutos, e o direito do artigo quinto, inciso treze, não organiza nada. Errada.
+THALITA: E a C, limitada programática, dependente de lei para produzir qualquer efeito?
+BRUNO: Duplamente errada. Não é programa a ser cumprido pelo Estado, e nem a limitada fica sem efeitos, porque tem eficácia negativa. Errada.
+ANTONIO: A letra D diz plena, insuscetível de restrição. Mas a própria norma admite restrição por lei. Errada.
+FRANCISCA: A letra E fala em eficácia absoluta, por ser direito fundamental intangível. Absoluta é categoria de Maria Helena Diniz, não de José Afonso da Silva, e só vale para as cláusulas pétreas, como o artigo sessenta, parágrafo quarto.
+THALITA: Então restringível é contida, e a pergunta pedia a classificação de José Afonso.
+BRUNO: Exatamente. Por isso a absoluta já caía fora.
+== SLIDE: Questão 5: normas de eficácia limitada
+* Gabarito D: revogam o incompatível e servem de parâmetro
+* A: têm eficácia negativa desde a promulgação
+* B: restringível equivale à contida
+* C e E: trocam institutiva e programática; há institutivas facultativas
+ANTONIO: Questão cinco, de oficial de justiça. O enunciado pede a afirmação correta sobre as normas de eficácia limitada. É uma questão de conceito, para ser resolvida por eliminação.
+THALITA: Pausa para você pensar. A letra A diz que não produzem nenhum efeito até a lei. Eu marcaria essa, porque limitada depende de lei.
+FRANCISCA: Esse é o erro mais popular. A limitada não produz os efeitos positivos plenos, mas produz eficácia negativa, também chamada paralisante, desde a promulgação. Letra A errada.
+ANTONIO: A letra B diz que correspondem, na classificação de Maria Helena Diniz, às normas de eficácia relativa restringível. Mas restringível equivale à contida. A limitada corresponde à relativa complementável. Errada.
+BRUNO: A letra C diz que as programáticas traçam esquemas gerais de estruturação de órgãos e entidades. Isso é a definição das institutivas, ou organizativas. Errada.
+THALITA: Agora entendi por que a D estava me chamando atenção. Ela diz que revogam a legislação anterior incompatível e servem de parâmetro para o controle.
+FRANCISCA: É a eficácia negativa, mesmo que pendente a lei regulamentadora. Letra D correta.
+ANTONIO: E a letra E diz que as institutivas são sempre impositivas. Mas existem as facultativas ou permissivas, como o artigo cento e vinte e cinco, parágrafo terceiro, em que a lei estadual poderá criar a Justiça Militar estadual.
+BRUNO: A palavra sempre, aliás, é sinal de alerta em qualquer alternativa de prova.
+THALITA: Anotei: sempre e nenhum, desconfie.
+== SLIDE: Questão 6: concordância prática
+* Gabarito C: evitar o sacrifício total de um dos bens
+* A unidade lê a Constituição como sistema
+* Justeza protege a repartição de funções
+* Máxima efetividade busca eficácia social; integrador busca integração política
+FRANCISCA: Questão seis, de analista. Um tribunal julgou um conflito entre a liberdade de informação jornalística e o direito à intimidade e coordenou os dois bens para evitar o sacrifício total de um deles. Qual princípio de interpretação ele aplicou?
+THALITA: Pausa para pensar. Eu diria máxima efetividade, porque ele deu eficácia aos dois direitos.
+BRUNO: Boa tentativa, mas a máxima efetividade busca o sentido de maior eficácia social para a norma. A expressão de ouro do enunciado é evitar o sacrifício total de um dos bens. Isso é marca da concordância prática, ou harmonização. Letra C correta.
+ANTONIO: Veja as erradas. A letra A, unidade da Constituição, impõe leitura sistêmica e sem contradições, mas não trata de coordenar bens em colisão em um caso concreto.
+FRANCISCA: A letra B, justeza ou conformidade funcional, protege o esquema de repartição de funções entre os Poderes. O intérprete não pode usurpar a função de outro.
+THALITA: E a E, efeito integrador?
+BRUNO: Privilegia a integração política e social. Palavra-chave: coesão. Nada a ver com colisão de direitos.
+ANTONIO: A banca gosta de usar as duplas que mencionamos: unidade contra concordância prática, máxima efetividade contra força normativa. Aqui a dupla era unidade contra concordância prática.
+THALITA: Macete: colisão de direitos igual a concordância prática.
+FRANCISCA: Perfeito. Colisão concreta, nenhum bem é totalmente sacrificado.
+== SLIDE: Questão 7: recepção e repristinação
+* Gabarito B: Lei X não recepcionada; Lei Y não volta sem previsão expressa
+* Não existe inconstitucionalidade superveniente
+* Repristinação só se expressa (LINDB, art. 2º, §3º)
+* Não recepção dispensa reserva de plenário
+ANTONIO: Questão sete, de técnico. A Lei Y, de mil novecentos e setenta e cinco, foi revogada expressamente pela Lei X, de mil novecentos e oitenta. Com a Constituição de oitenta e oito, a Lei X é materialmente incompatível, e a Lei Y seria compatível. O que acontece?
+THALITA: Pausa para pensar. Se a Lei X não vale mais, a Lei Y volta, né? Eu marcaria a letra C.
+BRUNO: Essa é a pegadinha. A letra C diz que a Lei Y é automaticamente repristinada. Mas no Brasil não existe repristinação tácita. Ela só ocorre se for expressa, como diz a Lei de Introdução, artigo segundo, parágrafo terceiro.
+FRANCISCA: A resposta é a letra B: a Lei X não foi recepcionada, e a Lei Y não volta a vigorar automaticamente, salvo disposição expressa. Não recepção equivale a revogação.
+THALITA: E a letra A, inconstitucionalidade superveniente?
+ANTONIO: O Supremo não admite essa figura. Norma anterior à Constituição que é incompatível é revogada, e não pode ser objeto de ADI. Cabe ADPF.
+BRUNO: A letra D diz que a Lei X é recepcionada com força de lei complementar. Mas só se recepciona a norma materialmente compatível. A Lei X é incompatível, então não é recepcionada.
+FRANCISCA: A letra E exige que o órgão fracionário submeta a não recepção ao plenário. Mas o juízo de não recepção não exige reserva de plenário, porque é juízo de revogação, e não de inconstitucionalidade.
+THALITA: Vou resumir. Lei antiga incompatível é revogada, ADI não cabe, e não precisa de pleno. E a repristinação só se tiver previsão expressa.
+== SLIDE: Questão 8: Súmula Vinculante 10
+* Gabarito D: viola a SV 10; cabe reclamação ao STF
+* Afastar a incidência da lei equivale a declarar a inconstitucionalidade
+* O art. 97 vale para todos os tribunais
+* Reserva de plenário é regra do controle difuso
+BRUNO: Questão oito, de analista. A turma do Tribunal Regional do Trabalho da Oitava Região deixou de aplicar dispositivo da CLT por considerá-lo incompatível com o artigo sétimo da Constituição, sem declarar expressamente a inconstitucionalidade, e sem precedente do pleno ou do Supremo. O que se pode dizer da decisão?
+THALITA: Pausa para pensar. Se a turma não disse inconstitucional, então a reserva de plenário não vale. Letra A.
+FRANCISCA: Era exatamente o que a Súmula Vinculante dez quis evitar. Ela diz que viola a cláusula de reserva de plenário a decisão que, embora não declare expressamente a inconstitucionalidade, afasta a incidência da lei, no todo ou em parte. Letra A errada.
+ANTONIO: A letra D está correta: a decisão viola a Súmula Vinculante dez, e cabe reclamação ao Supremo, com base no artigo cento e três A, parágrafo terceiro.
+BRUNO: A letra B diz que a reserva de plenário se aplica apenas aos tribunais superiores. Errado. O artigo noventa e sete fala em tribunais, todos eles.
+THALITA: E a C, que diz que o quórum de maioria absoluta é só no controle concentrado?
+FRANCISCA: A reserva de plenário é regra do controle difuso nos tribunais. Letra C errada.
+ANTONIO: A letra E diz que somente seria inválida se o dispositivo fosse anterior à Constituição. A lógica é inversa. Norma pré-constitucional comporta juízo de não recepção, que dispensa a reserva de plenário.
+THALITA: Fixei: afastou a lei por ofensa à Constituição, sem pleno e sem precedente, é Súmula Vinculante dez.
+BRUNO: E é muito cobrado em prova de tribunal do trabalho.
+== SLIDE: Questão 9: legitimados da ADI
+* Gabarito E: Mesa da CLDF e confederação sindical, com pertinência temática
+* A: Mesa do Congresso e Conselho Seccional não
+* B: Prefeito e Câmara Municipal não
+* C: central sindical não; D: AGU defende, não propõe
+FRANCISCA: Questão nove. Quem pode propor ADI no Supremo, segundo a Constituição? Esse é o tema de maior incidência da aula, e a banca monta alternativas com pessoas que parecem legitimadas, mas não são.
+THALITA: Pausa para pensar. Eu marcaria a D, o Advogado-Geral da União e o governador. A AGU é da União, então propõe.
+BRUNO: Ele não propõe, ele defende o ato impugnado, conforme o artigo cento e três, parágrafo terceiro. Letra D errada.
+ANTONIO: A letra A traz a Mesa do Congresso Nacional e o Conselho Seccional da OAB. Legitimadas são as Mesas do Senado e da Câmara separadamente, e só o Conselho Federal da OAB. Errada.
+FRANCISCA: A letra B traz o Prefeito de capital e a Mesa de Câmara Municipal. Nenhum consta do artigo cento e três. Errada.
+BRUNO: A letra C traz a central sindical, que não é legitimada, e o partido com representação em Assembleia Legislativa, mas o partido precisa ter representação no Congresso Nacional. Errada.
+THALITA: E a letra E?
+ANTONIO: A Mesa da Câmara Legislativa do Distrito Federal e a confederação sindical, ambas legitimadas especiais, com pertinência temática. Artigo cento e três, incisos quarto e nono. Correta.
+THALITA: Relembrando o macete: MeGoCo são os especiais. Mesa de Assembleia, Governador, Confederação.
+BRUNO: E lembrando o PaCo para capacidade postulatória: partido e confederação precisam de advogado.
+== SLIDE: Questão 10: Lei 9.868/1999
+* Gabarito A: instalação com 8 ministros e decisão com 6
+* B: modulação exige dois terços, não maioria absoluta
+* C: não cabe rescisória
+* D: cautelar é ex nunc; E: não se admite desistência
+ANTONIO: Questão dez, de oficial de justiça. Sobre a Lei nove mil oitocentos e sessenta e oito, de mil novecentos e noventa e nove. As alternativas trazem números, e é tema de decoreba.
+THALITA: Pausa para pensar. Eu lembro de oito para instalação e seis para decisão, então A.
+FRANCISCA: Isso mesmo. Artigos vinte e dois e vinte e três: a decisão só é tomada com pelo menos oito ministros presentes, e a inconstitucionalidade é proclamada se pelo menos seis se manifestarem nesse sentido. Letra A correta.
+ANTONIO: A letra B diz que a restrição dos efeitos depende da maioria absoluta. Errado. A modulação, do artigo vinte e sete, exige dois terços dos membros, que são oito votos.
+BRUNO: A letra C diz que a decisão é irrecorrível, mas cabe rescisória em dois anos. Não cabe rescisória, só embargos de declaração, conforme o artigo vinte e seis.
+FRANCISCA: A letra D diz que a cautelar é concedida, em regra, com efeito retroativo. Ao contrário: a regra é efeito ex nunc, salvo se o Tribunal conceder eficácia retroativa, artigo onze, parágrafo primeiro.
+THALITA: E a E, que admite desistência com concordância do Procurador-Geral?
+ANTONIO: Não se admite desistência, artigo quinto. Nem com concordância de ninguém.
+THALITA: Resumo dos números: instalar com oito, decidir com seis, modular com dois terços, que é oito.
+BRUNO: Isso. E guarde: mérito, em regra, retroage; cautelar, em regra, não.
+== SLIDE: Questão 11: ADPF contra lei municipal
+* Gabarito A: ADPF, que não cabe se houver outro meio eficaz
+* ADI não tem por objeto lei municipal
+* ADC só tem por objeto lei federal
+* Legitimados da ADPF são os mesmos da ADI
+FRANCISCA: Questão onze. O Município de Delta editou, em dois mil e dez, uma lei que, segundo um partido político com representação no Congresso, ofende diretamente preceitos fundamentais da Constituição Federal. O partido quer impugnar a lei em controle concentrado no Supremo. O que ele pode fazer?
+THALITA: Pausa para pensar. Como o partido é legitimado universal, eu mandaria uma ADI. Letra B.
+BRUNO: Cuidado. A legitimidade está certa, mas o objeto não: ADI no Supremo não tem por objeto lei municipal. O artigo cento e dois, inciso primeiro, alínea a, fala em lei federal ou estadual. Letra B errada.
+ANTONIO: A resposta é a letra A: o partido poderá ajuizar ADPF, que não será admitida se houver qualquer outro meio eficaz de sanar a lesividade. Lei nove mil oitocentos e oitenta e dois, artigo primeiro, parágrafo único, inciso primeiro, e artigo quarto, parágrafo primeiro.
+THALITA: E a C, a ADC, única via que admite lei municipal?
+FRANCISCA: Ao contrário. A ADC só tem por objeto lei ou ato normativo federal. Letra C errada.
+BRUNO: A letra D diz que a ADPF é privativa do Procurador-Geral da República. Os legitimados da ADPF são os mesmos da ADI, então o partido pode.
+ANTONIO: E a letra E diz que não há via concentrada, só o difuso. Há: a ADPF é exatamente a via concentrada cabível contra lei municipal em face da Constituição.
+THALITA: Macete: lei municipal ou norma anterior à Constituição no Supremo é ADPF.
+FRANCISCA: E sempre lembrando a subsidiariedade, que a banca adora.
+== SLIDE: Questão 12 e resumo relâmpago da aula
+* Gabarito D: itens II e III corretos
+* Item I falso: suspensão pelo Senado é discricionária
+* Item IV falso: Tema 484 admite normas de reprodução obrigatória
+* Aula: aplicabilidade, interpretação, controle e arts. 1º a 4º
+ANTONIO: Questão doze, de técnico. Quatro itens, e o candidato diz quais estão corretos. O primeiro diz que o Senado está obrigado a suspender a execução de lei declarada inconstitucional pelo Supremo em controle difuso. O segundo reproduz o artigo cento e vinte e cinco, parágrafo segundo. O terceiro diz que a suspensão pode alcançar lei municipal. O quarto diz que o Tribunal de Justiça não pode, em nenhuma hipótese, usar norma da Constituição Federal como parâmetro em controle abstrato de lei municipal.
+THALITA: Pausa para pensar. O primeiro eu marco certo, porque o artigo cinquenta e dois, inciso dez, diz que compete ao Senado suspender.
+BRUNO: Cuidado com a palavra obrigado. A suspensão pelo Senado é ato discricionário. Item um falso. Por isso as letras A e B, que o incluem, estão erradas.
+FRANCISCA: O item dois está correto, é o texto do artigo cento e vinte e cinco, parágrafo segundo. O item três também está certo, porque o artigo cinquenta e dois, inciso dez, alcança leis federais, estaduais e municipais.
+ANTONIO: O item quatro é falso. Pelo Tema quatrocentos e oitenta e quatro da repercussão geral, o Tribunal de Justiça pode usar normas da Constituição Federal de reprodução obrigatória como parâmetro. Por isso as letras C e E estão erradas. Gabarito D, itens dois e três.
+THALITA: Agora meu resumo relâmpago do que mais cai na FCC nesta aula. Primeiro: contida a lei restringe, limitada a lei completa, e limitada tem eficácia negativa. Segundo: concordância prática é colisão de direitos sem sacrifício total.
+BRUNO: Acrescento: norma anterior incompatível é revogada, não cabe ADI e não exige reserva de plenário.
+THALITA: Terceiro: afastar a lei sem pleno é Súmula Vinculante dez, cabe reclamação. Quarto: legitimados especiais são MeGoCo, e partido e confederação precisam de advogado. Quinto: instalar com oito, decidir com seis, modular com oito. Sexto: fundamentos são SO, CI, DI, VA, PLU; objetivos começam com verbo; princípios internacionais falam em povos, Estados, paz e asilo.
+FRANCISCA: E a ADPF é subsidiária e é a via para lei municipal e norma pré-constitucional.
+ANTONIO: Era isso, pessoal. Revisem as tabelas e até a próxima aula.
