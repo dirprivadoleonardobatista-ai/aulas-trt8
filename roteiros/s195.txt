@@ -1,0 +1,56 @@
+SEGMENTO s195
+== SLIDE: Mandado de segurança na Justiça do Trabalho
+* Protege direito líquido e certo, com prova pré-constituída (Lei 12.016/2009)
+* Prazo decadencial de 120 dias da ciência do ato (art. 23)
+* Ato de juiz do trabalho: TRT; ato de auditor fiscal do trabalho: Vara
+* Não cabe contra decisão com recurso com efeito suspensivo (OJ 92 SDI-2) nem transitada em julgado (Súm. 33)
+* Interlocutórias irrecorríveis (art. 893, § 1º) dão importância ao MS
+ANTONIO: Vimos o inquérito e a rescisória. Agora o mandado de segurança na Justiça do Trabalho. É ação constitucional para proteger direito líquido e certo contra ato ilegal ou abusivo de autoridade, pela Lei doze mil e dezesseis, de dois mil e nove.
+THALITA: E direito líquido e certo é o quê?
+FRANCISCA: É o comprovado de plano, por documento, sem dilação probatória. O prazo é decadencial de cento e vinte dias, contados da ciência do ato impugnado, artigo vinte e três.
+BRUNO: Na Justiça do Trabalho, quando o ato é de juiz do trabalho, a competência é do TRT. Quando é de auditor fiscal do trabalho, é da Vara do Trabalho, artigo cento e catorze, inciso quarto, da Constituição.
+THALITA: E contra ato judicial, cabe sempre?
+ANTONIO: Não. O mandado de segurança contra ato judicial é subsidiário. Não cabe quando houver recurso com efeito suspensivo, e a Orientação Jurisprudencial noventa e dois da SDI-dois amplia: não cabe contra decisão passível de reforma por recurso próprio, ainda que com efeito diferido. Também não cabe contra decisão transitada em julgado, Súmula trinta e três.
+FRANCISCA: Como as interlocutórias na Justiça do Trabalho são irrecorríveis de imediato, artigo oitocentos e noventa e três, parágrafo primeiro, o mandado de segurança ganha importância.
+THALITA: Cento e vinte dias para o MS, dois anos para a rescisória.
+== SLIDE: Súmulas e orientações do mandado de segurança
+* Súm. 414: tutela na sentença, recurso ordinário; antes da sentença, MS
+* Súm. 415 (prova pré-constituída), 416, 417 (penhora em dinheiro) e 418 (homologação de acordo)
+* OJ 64 e 65 (reintegração); OJ 98 (depósito prévio de honorários periciais)
+* Súm. 201: recurso ordinário ao TST em 8 dias
+BRUNO: Vamos às súmulas. A quatrocentos e catorze, inciso primeiro: a tutela provisória concedida na sentença não se impugna por mandado de segurança, mas por recurso ordinário, com pedido de efeito suspensivo ao tribunal, ao relator ou ao presidente ou vice-presidente do tribunal recorrido. Inciso segundo: antes da sentença, concedida ou indeferida, cabe mandado de segurança. Inciso terceiro: a superveniência da sentença faz o mandado perder o objeto.
+THALITA: Eu me atrapalho aqui. Antes da sentença é MS e na sentença é recurso ordinário?
+FRANCISCA: Isso. Mandado de segurança só quando não há recurso próprio. Na sentença, há recurso.
+ANTONIO: A quatrocentos e quinze: exigida prova pré-constituída, não se aplica a emenda do artigo trezentos e vinte e um do CPC se faltar documento indispensável na inicial. A quatrocentos e dezesseis: não fere direito líquido e certo o prosseguimento da execução quanto aos tópicos não especificados no agravo de petição.
+BRUNO: A quatrocentos e dezessete, inciso primeiro: não fere direito líquido e certo a penhora em dinheiro, que é prioritária na ordem do artigo oitocentos e trinta e cinco do CPC. Inciso segundo: em execução definitiva, o executado não tem direito a que o dinheiro penhorado fique no próprio banco. E a quatrocentos e dezoito: a homologação de acordo é faculdade do juiz, não há direito líquido e certo.
+FRANCISCA: Orientações da SDI-dois: a sessenta e quatro, não fere direito líquido e certo a tutela que determina a reintegração de empregado com estabilidade provisória, e a sessenta e cinco, a reintegração liminar de dirigente sindical. A noventa e oito: cabe mandado de segurança contra exigência de depósito prévio de honorários periciais. E, da decisão do TRT em mandado, cabe recurso ordinário ao TST em oito dias, Súmula duzentos e um.
+BRUNO: As pegadinhas da FCC: dizer que a tutela da sentença é atacável por MS, que a penhora em dinheiro em execução definitiva fere direito líquido e certo, ou que o juiz é obrigado a homologar o acordo. Todas erradas.
+THALITA: Macete: sentença, recurso ordinário; dinheiro penhorado, pode; acordo, o juiz decide se homologa.
+== SLIDE: Ação civil pública: legitimados e competência
+* Tutela direitos difusos, coletivos e individuais homogêneos (Lei 7.347/1985 e CDC)
+* Legitimados: MPT, Defensoria, entes públicos, associações e sindicatos (1 ano de constituição)
+* Competência pela extensão do dano (OJ 130 SDI-2)
+* Regional: qualquer Vara atingida; nacional: Varas das sedes dos TRTs; prevenção
+ANTONIO: Passamos à ação civil pública, instrumento de tutela de interesses difusos, coletivos e individuais homogêneos trabalhistas, com base na Lei sete mil trezentos e quarenta e sete, de mil novecentos e oitenta e cinco, e no Código de Defesa do Consumidor. O principal legitimado é o MPT, pelo artigo oitenta e três, inciso terceiro, da Lei Complementar setenta e cinco.
+THALITA: Quem mais pode propor?
+FRANCISCA: Pelo artigo quinto da lei: a Defensoria Pública, a União, os Estados, o Distrito Federal e os Municípios, autarquias, empresas públicas, fundações e sociedades de economia mista, e associações. Os sindicatos entram como associações, desde que constituídos há pelo menos um ano e com finalidade institucional pertinente. O requisito do tempo pode ser dispensado pelo juiz se houver manifesto interesse social.
+BRUNO: Só o Ministério Público, no caso o MPT, pode instaurar inquérito civil e firmar TAC com exclusividade de instrução.
+THALITA: E de quem é a competência? Qual Vara?
+ANTONIO: A Orientação Jurisprudencial cento e trinta da SDI-dois fixa a competência pela extensão do dano. Inciso primeiro: a competência se fixa pela extensão do dano. Segundo: dano de abrangência regional, mais de uma Vara, é de qualquer das Varas das localidades atingidas, ainda que vinculadas a TRTs distintos.
+FRANCISCA: Terceiro: dano suprarregional ou nacional, competência concorrente das Varas das sedes dos TRTs. Quarto: fica prevento o juízo a que a primeira ação for distribuída.
+THALITA: Dano local, a Vara do local; regional, qualquer Vara atingida; nacional, as Varas das capitais dos TRTs.
+BRUNO: A ação admite condenação em dinheiro, inclusive dano moral coletivo, e obrigação de fazer ou não fazer.
+== SLIDE: ACP: coisa julgada, dano moral coletivo e TAC
+* Tema 1075 STF: limitação territorial do art. 16 da LACP é inconstitucional
+* Dano moral coletivo: lesão a valores fundamentais da coletividade; dispensa prova de abalo individual
+* TAC firmado perante o MPT: título executivo extrajudicial (art. 876 CLT)
+* Próximo tema: sentença, embargos de declaração e coisa julgada
+FRANCISCA: A coisa julgada na ação civil pública: o Supremo, no Tema mil e setenta e cinco da repercussão geral, declarou inconstitucional a limitação territorial do artigo dezesseis da Lei da Ação Civil Pública. A sentença vale conforme a extensão do dano, e não pelos limites da competência do órgão que a proferiu.
+THALITA: Então se a decisão da Vara de Belém trata de dano nacional, ela vale no país inteiro?
+ANTONIO: Vale conforme a extensão do dano. Essa é a ideia central.
+BRUNO: O dano moral coletivo é a lesão injusta a valores fundamentais da coletividade de trabalhadores. Exemplos clássicos: trabalho análogo ao de escravo e trabalho infantil. E dispensa a prova de abalo individual.
+THALITA: Então não preciso provar que cada trabalhador sofreu, basta a lesão à coletividade.
+FRANCISCA: Isso. E o termo de ajustamento de conduta firmado perante o MPT é título executivo extrajudicial, executável na Justiça do Trabalho, artigo oitocentos e setenta e seis da CLT.
+BRUNO: Resumindo a ACP: MPT como principal legitimado, competência pela extensão do dano, coisa julgada conforme o dano, dano moral coletivo e TAC como título executivo.
+THALITA: Então encerrei o resumo. E agora, o que vem?
+ANTONIO: Agora vamos tratar da sentença, dos embargos de declaração e da coisa julgada.
