@@ -1,0 +1,61 @@
+SEGMENTO s091
+== SLIDE: Anulação x revogação: o artigo 53
+* Art. 53: deve anular; pode revogar
+* Anulação: ilegalidade; ex tunc; Administração e Judiciário
+* Revogação: conveniência; ex nunc; só a Administração
+* Positiva a Súmula 473 do STF
+ANTONIO: Tema central da aula: anulação e revogação. O artigo cinquenta e três da Lei nove mil setecentos e oitenta e quatro diz que a Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.
+THALITA: O verbo muda tudo, né?
+FRANCISCA: Muda. Deve anular, é dever. Pode revogar, é faculdade discricionária. A FCC inverte os verbos com frequência. O dispositivo positiva a Súmula quatrocentos e setenta e três do Supremo.
+BRUNO: Compare. Anulação atinge ato inválido, por vício de legalidade, e pode ser feita pela Administração, por autotutela, e pelo Judiciário, quando provocado. Efeitos ex tunc, ressalvados terceiros de boa-fé. Revogação atinge ato válido e discricionário, por conveniência e oportunidade, somente pela Administração que o praticou. O Judiciário só revoga os seus próprios atos administrativos. Efeitos ex nunc.
+THALITA: E direitos adquiridos?
+BRUNO: Ato nulo não gera direito adquirido. Na revogação, os direitos adquiridos devem ser respeitados.
+FRANCISCA: Indenização: na anulação, em regra não, mas pode haver para terceiro de boa-fé. Na revogação, pode haver, se atingir situação legítima. Quanto ao prazo, anulação tem cinco anos para atos favoráveis, salvo má-fé. Revogação não tem prazo, mas tem limites materiais.
+THALITA: Anulação: ilegalidade, ex tunc, dever. Revogação: mérito, ex nunc, faculdade.
+== SLIDE: Prazo decadencial do artigo 54
+* Atos favoráveis: cinco anos da prática do ato
+* Má-fé afasta a decadência
+* Efeitos contínuos: do primeiro pagamento
+* Súmula 633 do STJ; Tema 445; Súmula Vinculante 3
+ANTONIO: O artigo cinquenta e quatro, a decadência. Atinge atos de que decorram efeitos favoráveis aos destinatários. Prazo de cinco anos, contados da data em que o ato foi praticado. Comprovada má-fé do beneficiário, a decadência é afastada.
+FRANCISCA: Se os efeitos são patrimoniais e contínuos, o prazo conta da percepção do primeiro pagamento, parágrafo primeiro. E, no parágrafo segundo, qualquer medida de autoridade administrativa que importe impugnação à validade do ato interrompe a inércia, como a instauração formal de procedimento de revisão.
+THALITA: E para Estados e Municípios?
+BRUNO: A Súmula seiscentos e trinta e três do STJ: a lei federal se aplica subsidiariamente, se não houver norma local específica.
+ANTONIO: Exemplo: Ana, servidora, passou a receber uma gratificação ilegal em dez de março de dois mil e dezenove, de boa-fé. Em dois mil e vinte e cinco, a Administração descobre o erro. Como o primeiro pagamento foi em dez de março de dois mil e dezenove, o prazo se esgotou em dez de março de dois mil e vinte e quatro. A Administração não pode mais anular.
+FRANCISCA: Se houvesse prova de que Ana fraudou documentos, má-fé, a anulação seria possível a qualquer tempo.
+BRUNO: Duas decisões do Supremo ligadas ao tema. O Tema quatrocentos e quarenta e cinco: o Tribunal de Contas tem cinco anos para julgar a legalidade da concessão inicial de aposentadoria, reforma ou pensão, contados da chegada do processo à Corte, e vencido o prazo o ato se considera registrado. E a Súmula Vinculante três: nos processos perante o TCU, contraditório e ampla defesa, exceto na apreciação da legalidade de concessão inicial de aposentadoria, reforma e pensão.
+THALITA: Cinco anos, do primeiro pagamento, salvo má-fé.
+== SLIDE: Limites à revogação
+* Não se revogam atos vinculados nem consumados
+* Nem os que geraram direito adquirido
+* Nem os enunciativos, nem os preclusos
+* Ato ilegal: o caminho é a anulação
+ANTONIO: Limites à revogação. Alguns atos não podem ser revogados. Primeiro, os atos vinculados, porque não há juízo de conveniência a refazer. Segundo, os atos consumados, que já exauriram seus efeitos, porque nada resta a desfazer.
+FRANCISCA: Terceiro, os atos que geraram direitos adquiridos, pelo artigo cinquenta e três e pela Súmula quatrocentos e setenta e três. Quarto, os atos enunciativos, como certidão, atestado e parecer, porque seus efeitos decorrem da lei, não da vontade da Administração.
+THALITA: E os atos que a autoridade não tem mais competência para editar?
+BRUNO: Também não. Só quem tem competência para editar pode revogar. Quinto, atos integrantes de procedimento já ultrapassado, por preclusão. E sexto, atos ilegais: o caminho é a anulação, não a revogação.
+ANTONIO: A revogação pode ser expressa ou implícita, por ato posterior incompatível, e é sempre ato discricionário. E o Judiciário, no exercício da jurisdição, nunca revoga ato de outro Poder.
+THALITA: Vinculado, consumado, direito adquirido, enunciativo, preclusão, outra competência. Seis impedimentos. Deixa eu testar: a Administração revoga uma certidão porque achou inconveniente mantê-la. Pode? Não, porque certidão é ato enunciativo, e o efeito vem da lei. E se o ato for ilegal, ela não revoga, ela anula. Acertei o raciocínio?
+FRANCISCA: Acertou em cheio, Thalita.
+== SLIDE: Convalidação e conversão
+* Art. 55: defeitos sanáveis, sem lesão e sem prejuízo a terceiros
+* Sanáveis: competência não exclusiva e forma não essencial
+* Insanáveis: finalidade, motivo e objeto
+* Conversão: ato vira outro de categoria diversa
+ANTONIO: Convalidação é a correção, com efeitos retroativos, de ato com defeito sanável. O artigo cinquenta e cinco: em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração. Três requisitos cumulativos.
+THALITA: Quais vícios dá para sanar?
+FRANCISCA: Competência, se não for exclusiva: ocorre a ratificação pela autoridade competente. Forma, se não for essencial à validade. Não são convalidáveis a finalidade, porque o desvio de poder é insanável, o motivo, porque motivo inexistente ou falso não se corrige, e o objeto, em regra.
+BRUNO: Parte da doutrina, como Celso Antônio, sustenta que, presentes os requisitos, convalidar é dever. Mas para a FCC, a resposta segura é a letra da lei: convalidação pela própria Administração, e o verbo é "poderão".
+ANTONIO: Outras figuras. A reforma retira a parte inválida e mantém a válida, e vale para o objeto plúrimo. A conversão transforma o ato inválido em outro, de categoria diversa, cujos requisitos ele preenchia, e retroage à data do ato original. A confirmação mantém o ato inválido por segurança jurídica, sem corrigir o vício, e a estabilização pelo tempo é a decadência do artigo cinquenta e quatro.
+FRANCISCA: Exemplos. Convalidação: o Diretor de Secretaria aplicou advertência a servidor, quando a competência, não exclusiva, era do Diretor-Geral. Este ratifica o ato. Conversão: concessão de uso de bem público outorgada sem a autorização legislativa que a lei local exigia é convertida em permissão de uso, que dispensa aquela formalidade.
+THALITA: Convalidação, ex tunc, para competência e forma. Conversão, vira outro ato.
+== SLIDE: Pegadinhas da convalidação e próximo tema
+* Vício de finalidade não se convalida
+* Convalidação é ex tunc
+* Competência exclusiva não se ratifica
+* Convalidação não cabe se houver prejuízo a terceiros
+BRUNO: Pegadinhas da convalidação. Primeira: vício de finalidade pode ser convalidado. Errado. Segunda: a convalidação produz efeitos ex nunc. Errado: são ex tunc. Terceira: ato com vício de competência exclusiva pode ser ratificado. Errado. Quarta: convalidação é admitida ainda que cause prejuízo a terceiros. Errado.
+THALITA: Competência exclusiva não pode. E o motivo falso, nunca.
+FRANCISCA: Para a doutrina majoritária, a impugnação do ato pelo interessado, antes da convalidação, em regra impede convalidar. É tema doutrinário, de baixa incidência na FCC.
+ANTONIO: Fechamos o bloco do ato administrativo. Agora, a Lei nove mil setecentos e oitenta e quatro: abrangência, princípios e critérios, o administrado, competência, delegação e avocação, impedimento e suspeição, e forma, tempo e lugar dos atos. É o nosso próximo tema.
+THALITA: Já vou pegar o artigo onze e o artigo treze, que são os mais cobrados.
