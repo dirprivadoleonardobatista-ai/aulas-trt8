@@ -1,0 +1,68 @@
+SEGMENTO s218
+== SLIDE: Boas-vindas e modalidades das obrigações
+* Aula 64: obrigações, contratos, responsabilidade civil e empresa
+* Dar coisa certa: perda e deterioração (arts. 234 a 236)
+* Restituir: o credor suporta a perda sem culpa (arts. 238 a 240)
+* Coisa incerta: o gênero não perece (art. 246)
+* Fazer e não fazer (arts. 247 a 251)
+ANTONIO: Olá, pessoal, boas-vindas! Eu sou o Antônio e esta é a aula sessenta e quatro, de Direito Civil, sobre obrigações, contratos, responsabilidade civil e direito de empresa. Hoje vemos o direito das obrigações, depois contratos e responsabilidade civil, em seguida direito de empresa e, por fim, questões comentadas no estilo FCC.
+FRANCISCA: Oi, gente! Sou a Francisca, professora. Vou trazer a lei em paráfrase e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira. Vou perguntar o que o aluno perguntaria. Bora!
+ANTONIO: Comecemos pelas modalidades. Na obrigação de dar coisa certa, se a coisa se perde sem culpa do devedor, resolve-se a obrigação para ambas as partes. Com culpa, o devedor paga o equivalente mais perdas e danos, artigo duzentos e trinta e quatro. É a regra de que a coisa perece para o dono, res perit domino.
+THALITA: E se a coisa só se deteriora, não se perde?
+FRANCISCA: Sem culpa, o credor escolhe: resolve ou aceita a coisa com abatimento. Com culpa, pode exigir o equivalente ou aceitar no estado, com perdas e danos, artigos duzentos e trinta e cinco e duzentos e trinta e seis.
+BRUNO: Na obrigação de restituir é diferente. Perda sem culpa: o credor suporta a perda. Deterioração sem culpa: o credor recebe no estado, sem indenização. Com culpa, aplica-se a regra do equivalente mais perdas e danos.
+THALITA: Então no dar, sem culpa resolve; no restituir, o credor perde. Entendi.
+ANTONIO: Coisa incerta: antes da escolha, não se pode alegar perda nem por fortuito, porque o gênero não perece, artigo duzentos e quarenta e seis. A escolha é do devedor, salvo título em contrário, e ele não dá a pior nem é obrigado a dar a melhor.
+FRANCISCA: Na obrigação de fazer, impossível sem culpa, resolve-se. Com culpa, perdas e danos, e o fato fungível pode ser executado por terceiro à custa do devedor. Na de não fazer, se ficou impossível abster-se, extingue-se; com culpa, desfaz-se à custa do devedor, mais perdas e danos.
+BRUNO: Alternativa: escolha do devedor, se nada se ajustou. O credor não é obrigado a receber parte de uma e parte de outra. Se todas se impossibilitam por culpa do devedor, paga o valor da última que se perdeu, mais perdas e danos. Indivisível: cada codevedor deve o todo, e ela perde a indivisibilidade ao virar perdas e danos.
+
+== SLIDE: Solidariedade
+* Art. 265: solidariedade não se presume; vem da lei ou da vontade
+* Ativa: cada credor exige o todo
+* Passiva: credor cobra de um, de alguns ou de todos
+* Perdas e danos: só o culpado; juros de mora: todos
+* Regresso: quota do insolvente rateada entre todos
+FRANCISCA: Solidariedade, ponto muito cobrado. Artigo duzentos e sessenta e cinco: a solidariedade não se presume, resulta da lei ou da vontade das partes. A regra é o fracionamento da dívida.
+BRUNO: A FCC troca "não se presume" por "presume-se". Anote: a indivisibilidade vem do objeto, e a solidariedade vem do vínculo.
+THALITA: Como funciona a cobrança?
+ANTONIO: Na solidariedade ativa, cada credor exige o todo. Até ser demandado, o devedor paga a qualquer credor. Na passiva, o credor cobra de um, de alguns ou de todos, total ou parcialmente, e demandar um não é renúncia aos outros.
+FRANCISCA: Pagamento parcial ou remissão por um aproveita aos outros só até o valor pago ou perdoado. Morte de um devedor: o herdeiro paga só a sua quota, salvo se indivisível.
+BRUNO: Perdas e danos: todos respondem pelo equivalente, mas as perdas e danos, só o culpado. Juros de mora: todos respondem, ainda que a ação seja contra um só.
+THALITA: E as defesas? O devedor pode alegar a defesa de outro?
+FRANCISCA: Opõe as exceções comuns e as próprias, nunca as pessoais de outro codevedor, artigo duzentos e oitenta e um.
+ANTONIO: Regresso: quem pagou cobra a quota de cada um, e a do insolvente é rateada entre todos, inclusive os exonerados.
+BRUNO: Pegadinhas. Renúncia à solidariedade em favor de um devedor não libera os demais, que seguem solidários pelo saldo. Cláusula agravante ajustada por um não prejudica os outros sem consentimento. E se a dívida interessar só a um, ele responde pelo todo a quem pagou.
+THALITA: Deixa eu fechar esse bloco. Solidariedade só existe por lei ou por contrato, nunca se presume. Cada devedor pode ser cobrado pelo todo, mas as perdas e danos são só do culpado. A exceção pessoal de um não passa para o outro, e quem paga cobra a quota de cada um, rateando a do insolvente. É isso?
+
+== SLIDE: Transmissão e extinção das obrigações
+* Cessão de crédito: eficaz perante o devedor após notificação
+* Assunção de dívida: consentimento expresso; silêncio é recusa
+* Pagamento, consignação, sub-rogação, imputação, dação
+* Novação, compensação, confusão, remissão
+ANTONIO: Transmissão. Cessão de crédito dispensa anuência do devedor, mas só tem eficácia perante ele após notificação. O cedente oneroso garante a existência do crédito, não a solvência do devedor, salvo ajuste.
+THALITA: E a assunção de dívida?
+FRANCISCA: Exige consentimento expresso do credor, e o silêncio vale como recusa. As garantias dadas pelo devedor primitivo se extinguem, salvo assentimento do garantidor.
+BRUNO: Extinção: pagamento mais oito modos indiretos. No pagamento, o terceiro não interessado que paga em nome próprio reembolsa-se, mas não se sub-roga. O pagamento de boa-fé ao credor putativo vale. O lugar é o domicílio do devedor, salvo ajuste.
+ANTONIO: Consignação: depósito judicial ou bancário nas hipóteses legais, como recusa, mora do credor, dúvida e litígio. Sub-rogação legal: quem paga dívida do devedor comum, o adquirente de imóvel hipotecado e o terceiro interessado, limitada ao que desembolsou.
+FRANCISCA: Imputação: o devedor indica; se omisso, o credor; se ambos omissos, a lei, que manda pagar juros antes do capital. Dação: o credor aceita coisa diversa, e a evicção da coisa dada restabelece a obrigação primitiva.
+THALITA: E novação?
+BRUNO: Exige ânimo de novar. Extingue os acessórios e garantias, salvo ajuste. O fiador que não consentiu é exonerado, e obrigação nula não se nova. Compensação: dívidas recíprocas líquidas, vencidas e fungíveis, vedada em esbulho, furto, roubo, comodato, depósito, alimentos ou coisa impenhorável.
+ANTONIO: Confusão: credor e devedor na mesma pessoa, e cessando a confusão a obrigação renasce. Remissão: perdão aceito pelo devedor, e o perdão a um codevedor extingue só a sua quota.
+
+== SLIDE: Inadimplemento: mora, juros, cláusula penal e arras
+* Mora ex re e ex persona
+* Devedor em mora responde até por fortuito (art. 399)
+* Juros: taxa legal = Selic menos IPCA, piso zero
+* Cláusula penal: o juiz deve reduzir (art. 413)
+* Arras confirmatórias x penitenciais
+THALITA: Já na parte do inadimplemento: o que é mora ex re e ex persona?
+ANTONIO: Ex re: obrigação positiva e líquida com termo; o vencimento constitui em mora. Ex persona: sem termo, depende de interpelação. No ato ilícito, a mora é desde a prática.
+FRANCISCA: Devedor em mora responde até por caso fortuito, salvo provar ausência de culpa ou que o dano ocorreria de qualquer modo. Juros legais, sem convenção: taxa legal, que é a Selic menos o IPCA, e se negativa é zero, Lei catorze mil novecentos e cinco, de dois mil e vinte e quatro, com correção pelo IPCA. Confira a data de início dos efeitos dessas novas redações.
+BRUNO: Cláusula penal prefixa perdas e danos. Vai até o valor da obrigação principal e dispensa prova do prejuízo. Indenização suplementar, só se convencionada. A compensatória é alternativa do credor; a moratória cumula com a prestação.
+THALITA: E as arras?
+ANTONIO: Arras confirmatórias confirmam o negócio e dispensam prova do prejuízo, mas admitem indenização suplementar se provado prejuízo maior. As penitenciais permitem o arrependimento e não admitem indenização suplementar, Súmula quatrocentos e doze do STF.
+BRUNO: Pegadinha do artigo quatrocentos e treze: o juiz deve reduzir a pena se a obrigação foi cumprida em parte ou se o valor for manifestamente excessivo. A FCC troca "deve" por "pode".
+THALITA: Então o macete é: cláusula penal, o juiz deve reduzir se for excessiva ou se a obrigação foi cumprida em parte; arras penitenciais, sem indenização suplementar; arras confirmatórias, com suplemento se provado prejuízo maior. Vou escrever isso no caderno.
+FRANCISCA: Vimos obrigações. Agora, na sequência, os contratos e a responsabilidade civil.
