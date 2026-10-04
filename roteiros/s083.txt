@@ -1,0 +1,123 @@
+SEGMENTO s083
+== SLIDE: Regime jurídico-administrativo: supremacia e indisponibilidade
+* Binômio: prerrogativas e sujeições
+* Supremacia do interesse público: cláusulas exorbitantes, polícia
+* Indisponibilidade: licitar, concurso, motivar, prestar contas
+* Interesse primário x secundário
+ANTONIO: Vimos como a Administração se organiza. Agora, as regras que a governam. O regime jurídico-administrativo se resume em um binômio: prerrogativas, que decorrem da supremacia do interesse público, e sujeições, que decorrem da indisponibilidade do interesse público. Para Celso Antônio Bandeira de Mello, são as pedras de toque do regime.
+THALITA: E por que existem os dois?
+FRANCISCA: Um confere poderes à Administração, o outro impõe limites, porque o administrador gere coisa alheia, a coisa da coletividade.
+BRUNO: Nas prerrogativas, a prova cobra: cláusulas exorbitantes nos contratos, como alteração e rescisão unilaterais; presunção de legitimidade e autoexecutoriedade dos atos; desapropriação, requisição e servidão; prazos processuais diferenciados e regime de precatórios; poder de polícia.
+FRANCISCA: Nas sujeições: dever de licitar, dever de realizar concurso público, dever de motivar e de prestar contas, vedação de renúncia de receitas e de alienação sem autorização, e legalidade estrita, só age se a lei autorizar.
+THALITA: Macete: supremacia dá poder, indisponibilidade dá dever.
+ANTONIO: E outra distinção essencial: interesse público primário e secundário. O primário é o da coletividade. O secundário é o patrimonial do Estado como pessoa jurídica.
+BRUNO: Só o primário goza de supremacia. O secundário só é legítimo quando coincide com o primário.
+FRANCISCA: Por isso o advogado público não pode sustentar tese contrária ao interesse primário apenas para economizar recursos.
+THALITA: Entendi, dinheiro do cofre não vale mais que o interesse da coletividade.
+== SLIDE: Legalidade e impessoalidade
+* Administrador: só o que a lei autoriza; particular: o que a lei não proíbe
+* Mitigações: medida provisória, estado de defesa e de sítio
+* Impessoalidade: sem favoritismo; vedada promoção pessoal (art. 37, §1º)
+* Impedimento, suspeição, concurso, licitação, precatório
+ANTONIO: Os princípios constitucionais expressos do artigo trinta e sete, caput: legalidade, impessoalidade, moralidade, publicidade e eficiência. Pela sigla LIMPE. Começamos pela legalidade.
+THALITA: O administrador só faz o que a lei manda, certo?
+FRANCISCA: Só o que a lei autoriza ou determina, a legalidade estrita. Já o particular pode fazer tudo o que a lei não proíbe. Há mitigações constitucionais: medida provisória, estado de defesa e estado de sítio. E a Lei nove mil setecentos e oitenta e quatro, no artigo segundo, parágrafo único, inciso um, fala em atuação conforme a lei e o Direito, o que se chama juridicidade.
+BRUNO: Impessoalidade: atuação voltada ao interesse público, sem favoritismos nem perseguições, e os atos são imputados ao órgão, não ao agente. Desdobramentos cobrados: a vedação de promoção pessoal na publicidade oficial, artigo trinta e sete, parágrafo primeiro, que proíbe nomes, símbolos ou imagens; o concurso; a licitação; a ordem cronológica de precatórios; o impedimento e a suspeição.
+THALITA: Se a publicidade colocar o nome do prefeito, mesmo que seja educativa?
+BRUNO: Errado. O parágrafo primeiro não admite exceção para caráter educativo. Veda nomes, símbolos ou imagens que caracterizem promoção pessoal.
+ANTONIO: Guarde a ideia: impessoalidade é tratar todos igualmente e não se promover com o que é público.
+THALITA: Sem promoção pessoal, sem favoritismo.
+== SLIDE: Moralidade, publicidade e eficiência
+* Moralidade: ética, boa-fé, probidade; base da SV 13
+* Publicidade: transparência; ressalvas do art. 5º, XXXIII e LX
+* Eficiência: EC 19/1998; contrato de desempenho
+* Remuneração nominal de servidores é pública (Tema 483)
+ANTONIO: Moralidade exige ética, lealdade, boa-fé e probidade, além da mera legalidade. É a base da Súmula Vinculante treze, sobre nepotismo, da ação popular contra ato lesivo à moralidade, artigo quinto, inciso setenta e três, e da improbidade administrativa, artigo trinta e sete, parágrafo quarto.
+FRANCISCA: Publicidade é transparência e divulgação oficial como condição de eficácia dos atos. Tem ressalvas: o sigilo imprescindível à segurança da sociedade e do Estado e a intimidade, artigo quinto, incisos trinta e três e sessenta. Aplica-se a Lei de Acesso à Informação, a doze mil quinhentos e vinte e sete, de dois mil e onze. E o Supremo, no Tema quatrocentos e oitenta e três, considerou legítima a divulgação da remuneração nominal dos servidores.
+BRUNO: Pegadinha: a FCC diz que a publicidade é requisito de validade do ato. Para a doutrina majoritária, é requisito de eficácia, não de validade.
+THALITA: Publicidade, eficácia. Entendi.
+ANTONIO: Eficiência: busca de resultados com economicidade, qualidade e rapidez. Foi incluída pela Emenda Constitucional dezenove, de mil novecentos e noventa e oito, a Reforma Administrativa. Desdobramentos: avaliação especial de desempenho no estágio probatório; perda do cargo por insuficiência de desempenho, artigo quarenta e um, parágrafo primeiro, inciso três; e o contrato de desempenho do artigo trinta e sete, parágrafo oitavo.
+BRUNO: A armadilha: trocar a Emenda dezenove pela Emenda quarenta e cinco, de dois mil e quatro. A eficiência veio da dezenove.
+FRANCISCA: Quarenta e cinco é a Reforma do Judiciário.
+THALITA: Eficiência, dezenove; Judiciário, quarenta e cinco.
+== SLIDE: Princípios da Lei 9.784/1999 (art. 2º)
+* Caput: legalidade, finalidade, motivação, razoabilidade
+* Também proporcionalidade, moralidade, ampla defesa, contraditório
+* Segurança jurídica, interesse público, eficiência
+* Impessoalidade e publicidade só no parágrafo único
+ANTONIO: A Lei nove mil setecentos e oitenta e quatro, no artigo segundo, caput, enumera: legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.
+THALITA: E impessoalidade e publicidade?
+BRUNO: Aí está a pegadinha. Não aparecem nominalmente no caput. Aparecem como critérios no parágrafo único.
+FRANCISCA: O parágrafo único traz treze incisos de critérios de atuação. Um: agir conforme a lei e o Direito. Dois: atender a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou competências, salvo autorização legal. Três: objetividade, sem promoção pessoal de agentes. Quatro: padrões éticos de probidade, decoro e boa-fé. Cinco: divulgação oficial dos atos, ressalvado o sigilo constitucional.
+ANTONIO: Seis: adequação entre meios e fins, proibido impor obrigações e sanções além do estritamente necessário. Sete: indicar os pressupostos de fato e de direito da decisão. Oito: observar as formalidades essenciais à garantia dos direitos dos administrados. Nove: formas simples, suficientes para dar certeza e segurança, o informalismo moderado.
+FRANCISCA: Dez: garantir direito a comunicações, alegações finais, provas e recursos nos processos que possam gerar sanções ou situações litigiosas. Onze: proibir a cobrança de despesas processuais, salvo previsão legal. Doze: impulsão de ofício do processo, a oficialidade.
+BRUNO: E treze, o mais cobrado: interpretar a norma da forma que melhor garanta o fim público, vedada a aplicação retroativa de nova interpretação. É segurança jurídica.
+THALITA: Nova interpretação não retroage. Anotei na margem. E a regra de ouro que eu vou repetir antes da prova: no caput do artigo segundo estão onze princípios, e impessoalidade e publicidade só aparecem no parágrafo único, como critérios. Se a banca disser que estão no caput, é pegadinha.
+== SLIDE: Princípios implícitos: razoabilidade, proporcionalidade e motivação
+* Razoabilidade: coerência, vedação a atos arbitrários
+* Proporcionalidade: adequação, necessidade, sentido estrito
+* Motivação: art. 50 da Lei 9.784; motivação aliunde
+* Teoria dos motivos determinantes
+ANTONIO: Passemos aos princípios implícitos ou reconhecidos. Razoabilidade é coerência lógica e congruência entre a medida e a situação, vedando atos absurdos ou arbitrários. Limita a discricionariedade, e o Judiciário controla a legalidade, não o mérito.
+THALITA: E proporcionalidade? Parece a mesma coisa.
+FRANCISCA: Tem um teste em três etapas. Adequação: o meio atinge o fim? Necessidade: existe meio menos gravoso? E proporcionalidade em sentido estrito: o benefício supera o sacrifício? Aparece na dosimetria das sanções disciplinares, artigo cento e vinte e oito da Lei oito mil cento e doze.
+BRUNO: Motivação é a exposição dos fundamentos de fato e de direito. O artigo cinquenta da Lei nove mil setecentos e oitenta e quatro lista os atos que exigem motivação, e o parágrafo primeiro admite motivação aliunde, por remissão a pareceres anteriores, que passam a fazer parte do ato.
+THALITA: E a teoria dos motivos determinantes?
+FRANCISCA: Diz que, uma vez declarados os motivos do ato, ele fica vinculado a eles. Se os motivos forem falsos ou inexistentes, o ato é inválido, mesmo que a lei não exigisse motivação.
+ANTONIO: Guardem: razoabilidade tem a ver com coerência; proporcionalidade tem o teste de três passos; motivação, com fundamentos.
+THALITA: Adequação, necessidade, sentido estrito. Três passos.
+== SLIDE: Autotutela: Súmulas 346 e 473 do STF
+* Súmula 346: Administração declara a nulidade dos próprios atos
+* Súmula 473: anula os ilegais, revoga por conveniência
+* Anulação: dever; revogação: faculdade (art. 53)
+* Decadência de cinco anos para atos favoráveis (art. 54)
+ANTONIO: Autotutela é o controle que a Administração exerce sobre os próprios atos. Anula os ilegais e revoga os inconvenientes. Súmula trezentos e quarenta e seis do Supremo: a Administração pode declarar a nulidade de seus próprios atos.
+FRANCISCA: A Súmula quatrocentos e setenta e três completa: pode anular os atos ilegais, porque deles não nascem direitos, e revogá-los por conveniência ou oportunidade, respeitados os direitos adquiridos, ressalvado em qualquer caso o controle judicial. A quatrocentos e setenta e três separa anulação, vício de legalidade, de revogação, juízo de mérito.
+BRUNO: A Lei nove mil setecentos e oitenta e quatro, artigo cinquenta e três, positivou: a Administração deve anular os atos ilegais e pode revogar os inconvenientes. Dever para anular, faculdade para revogar.
+THALITA: Compara para mim.
+FRANCISCA: Anulação: motivo é ilegalidade; quem faz é a Administração, de ofício ou provocada, ou o Judiciário, provocado; efeitos retroativos, ex tunc, em regra; é dever. Revogação: motivo é conveniência e oportunidade; só a Administração que praticou o ato; efeitos prospectivos, ex nunc; é faculdade.
+ANTONIO: Limite de prazo: na anulação, cinco anos para atos favoráveis ao destinatário, salvo comprovada má-fé, artigo cinquenta e quatro. A convalidação de vícios sanáveis é possível sem lesão ao interesse público nem a terceiros, artigo cinquenta e cinco.
+BRUNO: A revogação não tem prazo, mas tem limites materiais: não se revogam atos vinculados, consumados, que geraram direito adquirido, meros atos administrativos, como certidões e pareceres, ou atos já preclusos no procedimento.
+THALITA: Anulação, ilegalidade, efeito ex tunc. Revogação, mérito, ex nunc.
+== SLIDE: Pegadinhas da autotutela
+* Anular a qualquer tempo: errado se ato favorável e boa-fé
+* Judiciário não revoga ato do Executivo
+* Anulação com efeitos individuais: contraditório (Tema 138)
+* Efeitos patrimoniais contínuos: prazo conta do primeiro pagamento
+BRUNO: Vamos às pegadinhas. Primeira: dizer que a Administração pode anular atos ilegais a qualquer tempo. Errado quando o ato é favorável ao destinatário de boa-fé, pois decai em cinco anos, artigo cinquenta e quatro.
+THALITA: E se o Judiciário achar o ato do Executivo inconveniente, ele revoga?
+FRANCISCA: Não. O Judiciário controla a legalidade, ou seja, anula, mas não revoga atos do Executivo. A revogação é juízo de mérito.
+ANTONIO: Terceira: dizer que anulação e revogação respeitam direitos adquiridos. Cuidado. Da ilegalidade não nascem direitos, diz a Súmula quatrocentos e setenta e três, mas a decadência do artigo cinquenta e quatro e a proteção a terceiros de boa-fé mitigam a regra.
+BRUNO: Quarta: quando a anulação afetar interesses individuais, o Supremo exige contraditório e ampla defesa prévios, no Tema cento e trinta e oito de repercussão geral.
+FRANCISCA: E nos efeitos patrimoniais contínuos, como um pagamento mensal indevido, o prazo de cinco anos conta da percepção do primeiro pagamento, parágrafo primeiro do artigo cinquenta e quatro. Confira também a posição do Supremo sobre o registro de aposentadoria pelo TCU, no Tema quatrocentos e quarenta e cinco: prazo de cinco anos para o TCU julgar a legalidade, contado da chegada do processo à Corte.
+THALITA: Ato favorável de boa-fé, cinco anos. Contraditório antes de anular.
+ANTONIO: Isso. A segurança jurídica e a confiança legítima aparecem aqui: estabilidade das relações e proteção da expectativa legítima do administrado de boa-fé.
+THALITA: Então resumindo as pegadinhas da autotutela: a Administração não anula tudo a qualquer tempo, o Judiciário não revoga, e antes de anular ato que afeta alguém é preciso ouvir a pessoa. Se eu lembrar desses três pontos, acerto a maioria das questões do tema. Agora me conta dos outros princípios, que ainda faltam.
+== SLIDE: Outros princípios implícitos
+* Continuidade, especialidade, tutela e hierarquia
+* Greve de servidor: Lei 7.783/1989 até lei específica
+* Desconto dos dias parados; policiais não fazem greve
+* Corte de serviço: aviso prévio; nunca em fins de semana
+ANTONIO: Mais princípios implícitos. Continuidade do serviço público: serviços essenciais não podem sofrer interrupção injustificada. Tem reflexos nos limites ao direito de greve, na restrição à exceção do contrato não cumprido e na reversão de bens na concessão. Especialidade: as entidades da indireta ficam vinculadas à finalidade definida na lei que as criou, e desvio de objeto da autarquia é ilegal.
+FRANCISCA: Tutela é o controle da direta sobre a indireta, nos limites da lei, e não é hierárquico. O recurso hierárquico impróprio só cabe se a lei prever. Hierarquia é coordenação e subordinação entre órgãos da mesma pessoa, e fundamenta delegação, avocação e revisão de ofício.
+THALITA: E a greve de servidor? Pode?
+BRUNO: É direito previsto no artigo trinta e sete, inciso sete. Enquanto não editada a lei específica, aplica-se a Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, por decisão do Supremo nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze.
+FRANCISCA: Os dias parados devem ser descontados, admitida compensação acordada. Não cabe desconto se a greve decorreu de conduta ilícita do Poder Público, Tema quinhentos e trinta e um. Policiais e servidores de segurança pública não podem fazer greve, Tema quinhentos e quarenta e um, e militares têm proibição constitucional no artigo cento e quarenta e dois, parágrafo terceiro, inciso quatro.
+ANTONIO: Exceção do contrato não cumprido: o contratado pode suspender a execução por atraso de pagamento da Administração superior a dois meses, artigo cento e trinta e sete da Lei catorze mil cento e trinta e três.
+BRUNO: Corte de serviço concedido: não configura descontinuidade a interrupção em emergência ou, após aviso prévio, por razões técnicas, de segurança ou inadimplemento do usuário. O corte por inadimplência não pode começar em sexta, sábado, domingo, feriado ou véspera de feriado.
+THALITA: Corte por débito, nunca em fim de semana.
+== SLIDE: Súmula Vinculante 13: nepotismo
+* Vedado cônjuge, companheiro, parentes até o 3º grau
+* Cargos em comissão, de confiança e funções gratificadas
+* Nepotismo cruzado também vedado
+* Cargos políticos: exceção jurisprudencial
+ANTONIO: Súmula Vinculante treze. Proíbe, em qualquer dos Poderes e esferas, a nomeação para cargo em comissão, de confiança ou função gratificada de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica que ocupe cargo de direção, chefia ou assessoramento.
+THALITA: Quem entra nesse terceiro grau?
+FRANCISCA: Pais, filhos, avós, netos, irmãos, tios, sobrinhos, sogros, genros, noras, cunhados, bisavós e bisnetos. A súmula alcança também o nepotismo cruzado, as designações recíprocas: eu nomeio o seu parente, você nomeia o meu.
+BRUNO: Fonte da proibição: diretamente dos princípios da moralidade e da impessoalidade, no artigo trinta e sete. Dispensa lei formal, segundo o RE quinhentos e setenta e nove mil novecentos e cinquenta e um. Abrange direta e indireta de qualquer Poder.
+THALITA: Casos práticos?
+FRANCISCA: Prefeito nomeia sobrinho para assessor em comissão: viola, pois é colateral de terceiro grau. Prefeito nomeia primo: não viola pela súmula, pois é colateral de quarto grau, mas pode ser analisado à luz da moralidade. Servidor efetivo aprovado em concurso e irmão do Presidente do Tribunal: não viola, porque o ingresso por concurso não é alcançado.
+BRUNO: Governador nomeia o irmão como Secretário de Estado: em regra não viola, porque cargos de natureza política ficam fora, salvo fraude, nepotismo cruzado ou falta manifesta de qualificação técnica ou idoneidade. Essa exceção é construção jurisprudencial, não está no texto da súmula, e o tema segue em discussão. Desembargador de um TRT que nomeia a filha de desembargador de outro TRT, que nomeia o filho do primeiro: nepotismo cruzado, viola.
+ANTONIO: Pegadinhas: a FCC troca terceiro grau por segundo, exclui os afins, ou diz que depende de lei local. Nenhuma está certa. E dizer que a súmula proíbe parente em cargo efetivo também é erro, pois cargo efetivo depende de concurso.
+THALITA: Terceiro grau, afins incluídos, sem lei local, só cargo em comissão, de confiança ou função gratificada.
+ANTONIO: Muito bem. Com o regime e os princípios assentados, passamos agora à LINDB, a Lei de Introdução às Normas do Direito Brasileiro, com as normas gerais e a segurança jurídica na aplicação do direito público.
