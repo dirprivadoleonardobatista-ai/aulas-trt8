@@ -26,6 +26,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SAIDA = os.path.join(RAIZ, "saida")
 CACHE = os.path.join(RAIZ, ".cache_tts")
 TAG = "aulas"
+VERSAO = 2          # suba quando mudar o visual: as aulas publicadas antes sao refeitas
 
 PAUSA_FALA = 0.35
 PAUSA_SLIDE = 0.8
@@ -235,7 +236,7 @@ def main():
     for aula in plano["aulas"]:
         if a.aula and aula["id"] != a.aula:
             continue
-        if aula["id"] in indice and not a.aula:
+        if indice.get(aula["id"], {}).get("versao", 1) >= VERSAO and not a.aula:
             continue
         rots, motivo = roteiros_da_aula(aula, segs)
         if rots is None:
@@ -251,7 +252,8 @@ def main():
             log("FALHOU %s: %s" % (aula["id"], e))
             pendencias.append("%s: %s" % (aula["id"], str(e)[:200]))
             continue
-        indice[aula["id"]] = {"arquivo": os.path.basename(arquivos[0]), "minutos": round(minutos, 1)}
+        indice[aula["id"]] = {"arquivo": os.path.basename(arquivos[0]), "minutos": round(minutos, 1),
+                              "versao": VERSAO}
         if a.local:
             with open(os.path.join(SAIDA, "indice.json"), "w", encoding="utf-8") as f:
                 json.dump(indice, f, ensure_ascii=False, indent=1)
