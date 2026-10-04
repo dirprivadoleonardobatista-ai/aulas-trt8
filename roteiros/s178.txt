@@ -1,0 +1,43 @@
+SEGMENTO s178
+== SLIDE: Perito, assistente técnico e honorários periciais
+* Perito do juízo pago pela parte sucumbente no OBJETO da perícia (art. 790-B)
+* Assistente técnico: pago por quem o indicou, mesmo vencedor (Súmula 341)
+* Perícia obrigatória em insalubridade e periculosidade (art. 195, § 2º)
+* ADI 5766: beneficiário da gratuidade não paga; União custeia
+ANTONIO: Vimos os auxiliares permanentes. Agora, os auxiliares eventuais, o perito e o assistente técnico, e quem paga a conta. O perito do juízo é nomeado pelo juiz, que designa perito único e fixa o prazo do laudo. Quem paga é a parte sucumbente na pretensão objeto da perícia, conforme o artigo setecentos e noventa-B da CLT.
+THALITA: E o assistente técnico?
+FRANCISCA: É indicado pela parte, por faculdade, um para cada parte, e o laudo é entregue no mesmo prazo do perito, sob pena de desentranhamento. Pela Súmula trezentos e quarenta e um do TST, quem paga é a própria parte que o indicou, ainda que vencedora no objeto da perícia.
+BRUNO: A perícia é obrigatória quando se pede adicional de insalubridade ou periculosidade, artigo cento e noventa e cinco, parágrafo segundo. Se for impossível realizá-la, por exemplo local desativado, o juiz pode usar outros meios de prova, Orientação Jurisprudencial duzentos e setenta e oito da SDI-um.
+THALITA: Vamos aos parágrafos do artigo setecentos e noventa-B.
+ANTONIO: O caput diz que o responsável é a parte sucumbente no objeto da perícia. O STF, na ADI cinco mil setecentos e sessenta e seis, declarou inconstitucional a expressão que impunha o pagamento ainda que a parte fosse beneficiária da justiça gratuita.
+FRANCISCA: O parágrafo primeiro manda respeitar o limite máximo do CSJT. O segundo diz que o juízo poderá deferir o parcelamento, uma faculdade. O terceiro proíbe exigir adiantamento de valores para a perícia. O quarto, que condicionava o pagamento pela União a créditos obtidos em outro processo, foi declarado inconstitucional.
+BRUNO: A Súmula quatrocentos e cinquenta e sete do TST diz que, sendo o sucumbente beneficiário da gratuidade, a União responde pelos honorários, segundo a regulamentação do CSJT. E a Orientação Jurisprudencial noventa e oito da SDI-dois diz que é ilegal exigir depósito prévio, cabendo mandado de segurança.
+THALITA: Exemplo: Tereza, com gratuidade, pede insalubridade e a perícia não encontra agente insalubre. Ela perdeu no objeto, mas a União paga o perito. Se tivesse indicado assistente técnico, pagaria o dele.
+BRUNO: Perfeito. Quatro pegadinhas: o juiz poderá exigir adiantamento parcial, errado; o perdedor da ação paga o perito, impreciso, é o perdedor no objeto da perícia; o beneficiário paga com créditos do processo, superado; e o parcelamento é direito da parte, errado, é faculdade do juízo.
+FRANCISCA: Lembre também que a Instrução Normativa quarenta e um do TST aplica o novo artigo apenas a processos iniciados após onze de novembro de dois mil e dezessete.
+== SLIDE: Gratuidade de justiça: artigo 790, parágrafos 3º e 4º
+* § 3º: salário até 40% do teto do RGPS; de ofício ou a requerimento
+* § 4º: quem comprovar insuficiência de recursos
+* Súmula 463: pessoa natural basta declaração; jurídica, prova cabal
+* TST, dez/2024: tese em repetitivo sobre gratuidade
+THALITA: E a gratuidade? Quem tem direito?
+ANTONIO: Pelo parágrafo terceiro do artigo setecentos e noventa, quem recebe salário igual ou inferior a quarenta por cento do limite máximo dos benefícios do regime geral. A gratuidade pode ser concedida a requerimento ou de ofício, por juízes, órgãos julgadores e presidentes de tribunais, e alcança custas, traslados e instrumentos.
+FRANCISCA: Pelo parágrafo quarto, qualquer parte que comprovar não poder pagar as custas sem prejuízo próprio, a requerimento e com prova.
+BRUNO: A Súmula quatrocentos e sessenta e três do TST: para a pessoa natural, basta a declaração de hipossuficiência firmada pela parte ou por advogado com poderes específicos. Para a pessoa jurídica, a mera declaração não basta: exige-se demonstração cabal.
+THALITA: Dá um exemplo com número?
+FRANCISCA: Com teto hipotético de oito mil reais, o limite seria três mil e duzentos. Ana, que ganhava dois mil e novecentos, tem gratuidade deferida até de ofício. Bruno, que ganhava seis mil, pode obtê-la pelo parágrafo quarto, com declaração, sujeita a impugnação com prova. Uma empresa só obtém demonstrando de forma cabal.
+ANTONIO: Em dezembro de dois mil e vinte e quatro, o Pleno do TST fixou tese em incidente de recursos repetitivos: o juiz concede, mesmo sem pedido, a quem comprova receber até quarenta por cento do teto; acima disso, o pedido pode ser instruído por documentos ou declaração; e, impugnada com prova, o juiz dá vista ao requerente para demonstrar a insuficiência. Confira a redação oficial antes da prova.
+THALITA: Então, se o empregado ganha acima de quarenta por cento do teto, ele perde a gratuidade automaticamente?
+FRANCISCA: Não perde o direito. Apenas deixa de ter a presunção pela renda e passa a poder pedir pelo parágrafo quarto, com declaração ou documentos, e o juiz decide.
+BRUNO: A FCC usa gratuidade de justiça, que é isenção de despesas, e assistência judiciária gratuita, que é patrocínio gratuito, como sinônimos. Leia o contexto.
+== SLIDE: Resumo relâmpago da aula
+* Senado só para o TST; TRT mínimo de sete juízes
+* Artigo 114: nãos do STF e sins vinculantes
+* Conflito: TRT, TST, STJ e STF; oficial 9 e 10 dias
+* Perito: quem perde no objeto; União para beneficiário
+ANTONIO: Fechamos a aula. Hora do resumo relâmpago, Thalita.
+THALITA: Vamos lá! Organização: Senado só para o TST, por maioria absoluta; TRT tem no mínimo sete juízes, sem sabatina; teto de setenta anos. Juiz de direito: recurso para o TRT, e instalada a Vara ele sai de cena, inclusive da execução. Foro: local da prestação de serviços, e exceção em cinco dias.
+BRUNO: Acrescente o artigo cento e catorze: três nãos do STF, estatutário, matéria penal e previdência privada; três sins vinculantes, acidente, possessória na greve e contribuições sobre a condenação.
+THALITA: Conflito de competência: mesma região, TRT; regiões diferentes, TST; Justiça do Trabalho contra Justiça Comum, STJ; tribunal superior, STF. Quem opôs exceção não suscita. Oficial de justiça: nove dias para cumprir, dez para avaliar, e penhora em domingo só com autorização expressa do juiz.
+FRANCISCA: E os peritos: paga quem perde no objeto da perícia; sendo beneficiário, paga a União; assistente técnico, quem indicou; sem adiantamento. Gratuidade: quarenta por cento do teto, e pessoa jurídica prova cabalmente.
+ANTONIO: Até a próxima aula, bons estudos!
