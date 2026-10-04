@@ -1,0 +1,88 @@
+SEGMENTO s209
+== SLIDE: Quadro mestre dos recursos
+* Tudo em 8 dias, exceto ED (5), RE (15) e revisão (48 h)
+* RO, RR, embargos no TST, AI, AP, agravo interno, adesivo
+* Órgão julgador e preparo de cada recurso
+* Fazenda e MPT: prazo em dobro
+BRUNO: Terminamos os pressupostos. Agora o quadro mestre, a tabela mais cobrada do capítulo. A regra para fixar: tudo em oito dias, exceto embargos de declaração, cinco; recurso extraordinário, quinze; e pedido de revisão do valor da causa, quarenta e oito horas.
+THALITA: Cinco, oito, quinze e quarenta e oito horas. E o órgão julgador de cada um?
+FRANCISCA: Embargos de declaração, o próprio prolator, sem preparo. Recurso ordinário: Turma do TRT, ou, na competência originária do TRT, o TST pela SDI-2 ou pela SDC, com custas e depósito. Recurso de revista: Turma do TST, com admissibilidade prévia pela Presidência do TRT.
+ANTONIO: Embargos no TST: infringentes contra decisão não unânime da SDC em dissídio coletivo, julgados pela SDC, e de divergência, contra acórdão de Turma divergente de outra Turma, da SDI, ou contrário a súmula, orientação ou súmula vinculante, julgados pela SDI-1. Agravo de instrumento: despacho que nega seguimento a recurso, com depósito de cinquenta por cento.
+BRUNO: Agravo de petição: decisões do juiz na execução, para a Turma do TRT, sem depósito se o juízo está garantido. Agravo interno ou regimental: decisão monocrática do relator, com multa do CPC condicionando novos recursos, artigo mil e vinte e um, parágrafo quarto.
+THALITA: E o extraordinário?
+ANTONIO: Decisão de última instância do TST que contraria a Constituição, com repercussão geral, quinze dias, interposto na Vice-Presidência do TST, ao STF. Sem depósito, Tema seiscentos e setenta e nove. Confira.
+FRANCISCA: O recurso adesivo cabe na sucumbência recíproca, aderindo a recurso ordinário, agravo de petição, revista ou embargos, no prazo das contrarrazões, com o mesmo preparo do principal. Já o pedido de revisão do valor da causa, quarenta e oito horas, vai ao Presidente do TRT.
+THALITA: Macete: cinco, oito, quinze, quarenta e oito. Fazenda e Ministério Público, em dobro.
+
+== SLIDE: Embargos de declaração: cabimento e efeitos
+* Omissão, contradição, obscuridade, erro material
+* Manifesto equívoco no exame de pressupostos extrínsecos
+* 5 dias; julgados na primeira audiência ou sessão
+* Efeito modificativo só com vista prévia por 5 dias (OJ 142)
+* Interrompem o prazo, salvo intempestivos, representação irregular e sem assinatura
+ANTONIO: Embargos de declaração, artigo oitocentos e noventa e sete-A da CLT e artigos mil e vinte e dois a mil e vinte e seis do CPC. Cabem contra sentença ou acórdão, e pelo CPC contra qualquer decisão judicial, com omissão, contradição, obscuridade ou erro material.
+THALITA: E o manifesto equívoco? Essa expressão eu nunca vi no CPC.
+FRANCISCA: É hipótese própria da CLT: manifesto equívoco no exame dos pressupostos extrínsecos do recurso. Exemplo: o tribunal considerou intempestivo um recurso tempestivo. Prazo de cinco dias, julgamento na primeira audiência ou sessão seguinte.
+BRUNO: O erro material pode ser corrigido de ofício ou a pedido de qualquer parte. O efeito modificativo só decorre da correção de vício, e com vista prévia à parte contrária por cinco dias. Sem vista, a decisão é nula, Orientação Jurisprudencial cento e quarenta e dois da SDI-1 e Súmula duzentos e setenta e oito.
+THALITA: E eles interrompem o prazo?
+ANTONIO: Interrompem, para ambas as partes, o prazo de outros recursos. Exceção: embargos intempestivos, com representação irregular ou sem assinatura não interrompem.
+FRANCISCA: Protelatórios geram multa de até dois por cento do valor atualizado da causa. Na reiteração, até dez por cento, e o novo recurso fica condicionado ao depósito da multa, salvo Fazenda e beneficiário de justiça gratuita, que pagam ao final. Se dois embargos anteriores foram tidos por protelatórios, não se admitem terceiros.
+BRUNO: Prequestionamento: embargos são o meio de provocar tese explícita. A recusa do tribunal gera prequestionamento ficto, Súmula duzentos e noventa e sete, itens segundo e terceiro, e artigo mil e vinte e cinco do CPC. E, Súmula cento e oitenta e quatro: se não opostos embargos para suprir omissão apontada em revista ou embargos, há preclusão.
+THALITA: Pegadinhas: interrompem, não suspendem; intempestivos não interrompem; vista de cinco dias; a Fazenda tem dez dias.
+
+== SLIDE: Recurso ordinário
+* Art. 895, I: decisões definitivas ou terminativas da Vara
+* Art. 895, II: competência originária do TRT: AR, MS, dissídio coletivo
+* Súmula 393: profundidade e causa madura
+* Sumaríssimo: relator libera em 10 dias; certidão serve de acórdão
+ANTONIO: Recurso ordinário, artigo oitocentos e noventa e cinco. Inciso primeiro: decisões definitivas, com mérito, ou terminativas, sem mérito, das Varas e dos Juízos de Direito investidos de jurisdição trabalhista. Destino: Turma do TRT.
+THALITA: E o inciso segundo?
+FRANCISCA: Decisões definitivas ou terminativas do TRT em processos de competência originária, como ação rescisória, mandado de segurança e dissídio coletivo. O destino é o TST: a SDI-2 para rescisória e segurança, a SDC para o dissídio coletivo. E a Súmula duzentos e catorze, alínea c: acolhimento de incompetência territorial com remessa a outro Regional, recurso para o TRT.
+BRUNO: Súmula trezentos e noventa e três. Item primeiro, profundidade: o TRT pode examinar fundamentos da inicial ou da defesa não apreciados na sentença, ainda que não renovados em contrarrazões, desde que ligados ao capítulo impugnado. Item segundo, causa madura: se o processo está em condições, o TRT julga o mérito sem devolver à Vara.
+ANTONIO: Exemplo: a Vara extingue sem mérito o pedido de horas extras de Bruno por inépcia. No recurso ordinário, o TRT afasta a inépcia e, havendo prova suficiente, já julga as horas extras. É causa madura, sem supressão de instância.
+THALITA: No sumaríssimo, o recurso ordinário é igual?
+FRANCISCA: Muda o trâmite, parágrafos primeiro e segundo do artigo oitocentos e noventa e cinco. Distribuição imediata; o relator libera o processo em até dez dias; a secretaria inclui logo em pauta; o Ministério Público dá parecer oral na sessão, se necessário. O acórdão consiste na certidão de julgamento, e, se a sentença é confirmada pelos próprios fundamentos, a certidão serve de acórdão.
+BRUNO: Os TRTs divididos em Turmas poderão, não precisam, designar uma Turma específica para os recursos do sumaríssimo. E atenção: na Justiça do Trabalho o juízo de admissibilidade do recurso ordinário continua sendo feito também na Vara. Denegado o seguimento, cabe agravo de instrumento.
+
+== SLIDE: Recurso de revista: natureza e alíneas
+* Natureza extraordinária: não reexamina fatos e provas
+* Só contra acórdão de TRT em RO, dissídio individual
+* Alínea a: divergência de lei federal, súmula do TST ou SV
+* Alínea b: norma de abrangência suprarregional
+* Alínea c: violação literal de lei federal ou da CF
+ANTONIO: Recurso de revista, artigo oitocentos e noventa e seis. É recurso de natureza extraordinária: não reexamina fatos e provas, apenas uniformiza a interpretação do direito federal e preserva a Constituição. Cabe contra acórdão de TRT proferido em recurso ordinário, em dissídio individual, e é interposto perante a Presidência do TRT, com efeito apenas devolutivo.
+THALITA: Quais são as hipóteses?
+FRANCISCA: Alínea a: interpretação de lei federal divergente da dada por outro TRT, Pleno ou Turma, ou pela SDI do TST; ou contrariedade a súmula do TST ou súmula vinculante do STF. Aresto do mesmo TRT não serve, Orientação Jurisprudencial cento e onze da SDI-1.
+BRUNO: Alínea b: interpretação divergente de lei estadual, convenção, acordo coletivo, sentença normativa ou regulamento empresarial de observância obrigatória em área que exceda a jurisdição do TRT prolator. Norma restrita à região do TRT não autoriza revista. Alínea c: violação literal de lei federal ou afronta direta e literal à Constituição, com indicação expressa do dispositivo, Súmula duzentos e vinte e um.
+THALITA: E o requisito formal? Já ouvi que a revista cai por detalhe.
+ANTONIO: Parágrafo primeiro-A. Sob pena de não conhecimento, é preciso indicar o trecho do acórdão que demonstra o prequestionamento; apontar de forma explícita e fundamentada a contrariedade; impugnar todos os fundamentos jurídicos da decisão, com demonstração analítica; e, na preliminar de negativa de prestação jurisdicional, transcrever o trecho dos embargos que pediu o pronunciamento e o trecho do acórdão que os rejeitou.
+BRUNO: Súmulas: cento e vinte e seis, revista não serve para reexame de fatos e provas. Duzentos e noventa e sete, prequestionamento é tese explícita. Trezentos e trinta e três, não cabe revista contra decisão alinhada à jurisprudência iterativa, notória e atual do TST. Duzentos e noventa e seis, divergência deve ser específica. Duzentos e dezoito, não cabe revista contra acórdão regional em agravo de instrumento. E a Orientação sessenta e dois: prequestionamento é exigido até para incompetência absoluta.
+THALITA: Muita súmula! Vou resumir: revista não reexamina fatos, exige prequestionamento, indicação do dispositivo e impugnação de todos os fundamentos.
+
+== SLIDE: Transcendência
+* Art. 896-A: exame prévio apenas pelo TST
+* Econômica, política, social e jurídica
+* Relator pode negar seguimento; agravo ao colegiado; sustentação oral por 5 minutos
+* Presidência do TRT não avalia transcendência (§6º)
+FRANCISCA: Artigo oitocentos e noventa e seis-A: o TST examina previamente, no recurso de revista, se a causa oferece transcendência com relação aos reflexos gerais de natureza econômica, política, social ou jurídica. É um filtro inspirado na repercussão geral, examinado apenas pelo TST.
+THALITA: A Presidência do TRT também avalia?
+BRUNO: Não. O parágrafo sexto diz que o juízo de admissibilidade no TRT não abrange transcendência. E pela Instrução Normativa quarenta e um, aplica-se aos acórdãos regionais publicados a partir de onze de novembro de dois mil e dezessete.
+ANTONIO: Os indicadores do parágrafo primeiro. Econômica: elevado valor da causa. Política: desrespeito da instância recorrida à jurisprudência sumulada do TST ou do STF. Social: pedido, pelo reclamante recorrente, de direito social constitucionalmente assegurado. Jurídica: questão nova sobre a interpretação da legislação trabalhista.
+THALITA: Política com desrespeito a súmula, jurídica com questão nova. Mas e o rol, é fechado?
+FRANCISCA: Não, é exemplificativo, a expressão é entre outros. E a troca entre política e jurídica é pegadinha frequente.
+BRUNO: Procedimento. O relator pode negar seguimento monocraticamente por ausência de transcendência, e cabe agravo ao colegiado, com sustentação oral de cinco minutos sobre a transcendência. Mantido o voto, acórdão sucinto e irrecorrível no âmbito do TST.
+ANTONIO: O parágrafo quinto previa irrecorribilidade da decisão monocrática em agravo de instrumento sem transcendência, mas o Pleno do TST declarou sua inconstitucionalidade incidental em dois mil e vinte. Confira.
+
+== SLIDE: Revista no sumaríssimo, na execução e fechamento
+* Sumaríssimo: súmula do TST, SV ou violação direta da CF (§9º; Súmula 442)
+* Execução: só ofensa direta à CF (§2º; Súmula 266)
+* Execução fiscal e CNDT: lei, divergência e CF (§10)
+* Defeito formal não grave: sanar (§11)
+BRUNO: Revista restrita. No procedimento sumaríssimo, parágrafo nono, só cabe por contrariedade a súmula do TST, a súmula vinculante do STF ou violação direta da Constituição. Contrariedade a Orientação Jurisprudencial não autoriza revista, Súmula quatrocentos e quarenta e dois.
+THALITA: E na execução?
+FRANCISCA: Parágrafo segundo e Súmula duzentos e sessenta e seis: só ofensa direta e literal à Constituição, inclusive nos embargos de terceiro. Mas na execução fiscal e nas controvérsias sobre a certidão negativa de débitos trabalhistas, parágrafo décimo, cabe revista por violação de lei federal, divergência jurisprudencial e ofensa à Constituição.
+BRUNO: Quadro da prova: sumaríssimo, súmula do TST mais súmula vinculante mais Constituição; execução, só Constituição; execução fiscal e certidão negativa, ampla. Além disso, defeito formal não grave em recurso tempestivo pode ser desconsiderado ou mandado sanar, parágrafo onze.
+FRANCISCA: E o relator nega seguimento monocraticamente por intempestividade, deserção, irregularidade de representação ou falta de outro pressuposto, parágrafo catorze.
+THALITA: Hora do resumo relâmpago do que mais cai na FCC. Prazos: cinco, oito, quinze e quarenta e oito horas; Fazenda em dobro; contagem em dias úteis. Súmula duzentos e catorze: três exceções à irrecorribilidade das interlocutórias. Efeito-regra: devolutivo, execução provisória até a penhora. Depósito recursal só do empregador condenado em pecúnia, metade para pequenos, isenção para recuperação judicial. Embargos de declaração interrompem, com vista de cinco dias. Recurso ordinário e causa madura. Revista não reexamina fatos, exige prequestionamento e transcendência; no sumaríssimo, só súmula, súmula vinculante e Constituição; na execução, só Constituição.
+BRUNO: Acrescento a deserção: insuficiência, cinco dias para complementar; ausência total, deserção.
+ANTONIO: Foi uma aula completa. Bons estudos, e até a próxima!

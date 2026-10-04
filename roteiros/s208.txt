@@ -1,0 +1,108 @@
+SEGMENTO s208
+== SLIDE: Pressupostos intrínsecos
+* Só se julga o mérito se superado o juízo de admissibilidade
+* Intrínsecos: cabimento, legitimidade, interesse, ausência de fato impeditivo
+* Extrínsecos: tempestividade, preparo, regularidade formal e de representação
+* MPT não recorre por interesse patrimonial privado (OJ 237 SDI-1)
+FRANCISCA: Vimos a teoria geral e os efeitos dos recursos. Agora, o recurso só é julgado no mérito se passar pelo juízo de admissibilidade, o conhecimento. Os pressupostos dividem-se em intrínsecos, ligados ao direito de recorrer, e extrínsecos, ligados ao modo de exercê-lo.
+THALITA: Quais são os intrínsecos?
+ANTONIO: Quatro. Cabimento: decisão recorrível e recurso previsto em lei para ela. Legitimidade: partes, terceiro prejudicado e o Ministério Público do Trabalho. Interesse: sucumbência mais utilidade do recurso. E inexistência de fato impeditivo ou extintivo, como renúncia, desistência e aquiescência.
+BRUNO: Pontos de prova. No cabimento, lembre que interlocutória não é recorrível de imediato, Súmula duzentos e catorze. Na legitimidade, o MPT não recorre para defender interesse patrimonial privado, nem de empresa estatal. Mas pode recorrer contra o reconhecimento de vínculo com estatal sem concurso, Orientação Jurisprudencial duzentos e trinta e sete da SDI-1.
+THALITA: E o vencedor pode recorrer só para mudar os fundamentos da decisão?
+FRANCISCA: Em regra, não: falta interesse. Só se houver prejuízo concreto. Quanto à desistência, ela independe de concordância do recorrido, artigo novecentos e noventa e oito do CPC.
+ANTONIO: Os extrínsecos são quatro também: tempestividade, preparo, que compreende custas e depósito recursal, regularidade formal e regularidade de representação.
+THALITA: Macete: intrínsecos são cabimento, legitimidade, interesse e fato impeditivo; extrínsecos são prazo, preparo, forma e representação.
+BRUNO: Perfeito. A FCC costuma colocar um extrínseco na lista de intrínsecos e vice-versa. Se a questão disser que tempestividade é intrínseca, está errada.
+FRANCISCA: E um vício sanável nem sempre derruba o recurso. O TST concede cinco dias para complementar preparo insuficiente e para regularizar representação. Vamos ver cada um.
+
+== SLIDE: Tempestividade: prazos
+* Regra geral: 8 dias (Lei 5.584/1970, art. 6º)
+* ED: 5 dias; RE: 15 dias; revisão do valor da causa: 48 horas
+* Fazenda Pública: prazo em dobro; ED em 10 dias (OJ 192)
+* Litisconsortes com procuradores distintos: prazo simples (OJ 310)
+* Contagem em dias úteis (art. 775 CLT)
+ANTONIO: Tempestividade. A regra geral é oito dias, tanto para interpor quanto para contra-arrazoar recurso ordinário, recurso de revista, embargos no TST, agravo de instrumento, agravo de petição e agravo interno. Base: Lei cinco mil quinhentos e oitenta e quatro, artigo sexto.
+THALITA: E as exceções?
+BRUNO: Embargos de declaração, cinco dias. Recurso extraordinário, quinze dias, artigo mil e três, parágrafo quinto, do CPC. Pedido de revisão do valor da causa, quarenta e oito horas. A dica da apostila é cinco, oito, quinze, quarenta e oito.
+FRANCISCA: Para a Fazenda Pública, União, Estados, Distrito Federal, Municípios, autarquias e fundações sem atividade econômica, o prazo é em dobro: dezesseis dias para recorrer e dez dias para embargos de declaração, Orientação Jurisprudencial cento e noventa e dois da SDI-1. O Ministério Público do Trabalho também tem prazo em dobro para se manifestar.
+THALITA: E litisconsortes com advogados diferentes? No CPC eles têm prazo em dobro.
+ANTONIO: Mas na Justiça do Trabalho o artigo duzentos e vinte e nove do CPC não se aplica. Prazo simples, Orientação Jurisprudencial trezentos e dez da SDI-1.
+BRUNO: Atenção à contagem. Desde a Reforma, o artigo setecentos e setenta e cinco da CLT manda contar em dias úteis, excluído o dia do começo e incluído o do vencimento. Pegadinha: contar em dias corridos.
+THALITA: Então se a Fazenda tem prazo em dobro, o prazo de oito dias vira dezesseis, dias úteis. E embargos de declaração, de cinco viram dez.
+FRANCISCA: Exato. E o litisconsorte não ganha dobra por ter advogado diferente.
+
+== SLIDE: Início do prazo e súmulas de contagem
+* Súmula 1: intimação na sexta, prazo na segunda
+* Súmula 262: sábado, considera-se feita no primeiro dia útil; recesso suspende
+* Súmula 16: notificação postal presumida em 48 horas
+* Súmulas 197 e 30
+* Recurso antes da publicação: tempestivo (Súmula 434 cancelada)
+BRUNO: Início do prazo, e aqui a FCC adora cobrar as súmulas. Súmula um do TST: intimação na sexta-feira, o prazo começa a correr na segunda-feira seguinte, ou no próximo dia útil. Súmula duzentos e sessenta e dois, item primeiro: intimação no sábado considera-se feita no primeiro dia útil, e a contagem começa no dia útil seguinte.
+THALITA: E o recesso? O prazo corre durante o recesso forense?
+FRANCISCA: Não. Súmula duzentos e sessenta e dois, item segundo: o recesso forense e as férias coletivas dos Ministros do TST suspendem os prazos recursais.
+ANTONIO: Súmula dezesseis: notificação postal presume-se recebida quarenta e oito horas depois da postagem, e a prova em contrário cabe ao destinatário. Súmula cento e noventa e sete: a parte intimada que não comparece à audiência de publicação da sentença tem o prazo contado da publicação. Súmula trinta: ata não juntada em quarenta e oito horas, o prazo conta da intimação da sentença.
+THALITA: Se eu recorro antes de a decisão ser publicada, o recurso é intempestivo?
+BRUNO: Não. É tempestivo, artigo duzentos e dezoito, parágrafo quarto, do CPC. A Súmula quatrocentos e trinta e quatro, que dizia o contrário, foi cancelada. Cuidado: a banca pode ainda citá-la.
+FRANCISCA: Feriado local: cabe à parte comprová-lo, como regra, no ato de interposição, Súmula trezentos e oitenta e cinco, item primeiro. Mas a Lei catorze mil novecentos e trinta e nove, de dois mil e vinte e quatro, alterou o artigo mil e três, parágrafo sexto, do CPC, para o tribunal mandar corrigir ou desconsiderar a falta se a informação já constar do processo eletrônico. Confira a redação vigente.
+THALITA: Macete: sexta, segunda; sábado, dia útil seguinte; postal, quarenta e oito horas; recesso suspende.
+
+== SLIDE: Preparo: custas processuais
+* Alíquota de 2%, piso e teto (art. 789 CLT)
+* Pagas e comprovadas dentro do prazo recursal (art. 789, §1º)
+* Isentos: justiça gratuita, entes públicos, MPT (art. 790-A)
+* Massa falida: Súmula 86; Súmula 25
+ANTONIO: Agora o preparo, que tem duas partes: custas e depósito recursal. Custas: alíquota de dois por cento sobre o valor do acordo, da condenação ou da causa, conforme o caso, artigo setecentos e oitenta e nove da CLT.
+THALITA: Tem valor mínimo e máximo?
+FRANCISCA: Tem. O mínimo é dez reais e sessenta e quatro centavos. O máximo é de quatro vezes o teto dos benefícios do Regime Geral de Previdência Social, teto criado pela Reforma.
+BRUNO: Momento do pagamento: pagas pelo vencido após o trânsito em julgado. Se houver recurso, pagas e comprovadas dentro do prazo recursal, artigo setecentos e oitenta e nove, parágrafo primeiro. Na execução, custas pagas ao final pelo executado, artigo setecentos e oitenta e nove-A.
+ANTONIO: Isentos, artigo setecentos e noventa-A: beneficiários da justiça gratuita; União, Estados, Distrito Federal, Municípios e suas autarquias e fundações que não explorem atividade econômica; e o Ministério Público do Trabalho.
+THALITA: E a massa falida?
+FRANCISCA: Súmula oitenta e seis: não há deserção de recurso da massa falida por falta de custas ou depósito. O benefício não alcança a empresa em liquidação extrajudicial.
+BRUNO: Súmula vinte e cinco, item primeiro: se o vencedor na Vara perde no TRT, ele paga as custas fixadas na sentença, independentemente de intimação. Item terceiro: acréscimo da condenação sem fixação de custas nem intimação não gera deserção; as custas são pagas ao final.
+THALITA: Dois por cento, no prazo do recurso, e a massa falida está dispensada.
+
+== SLIDE: Depósito recursal: regras do art. 899
+* Garantia antecipada do juízo; só do empregador condenado em pecúnia
+* §4º: conta vinculada ao juízo; §7º: AI 50% do depósito do recurso trancado
+* §8º: AI dispensado quando contra súmula ou OJ do TST
+* §9º: metade para pequenos; §10: isenção para JG, filantrópicas e recuperação judicial
+* §11: fiança ou seguro-garantia
+FRANCISCA: O depósito recursal não é taxa: é garantia antecipada do juízo, para assegurar a futura execução. Por isso só o exige quem foi condenado em pecúnia, na prática o empregador. O empregado reclamante nunca faz depósito recursal.
+THALITA: E onde se deposita?
+BRUNO: Artigo oitocentos e noventa e nove, parágrafo quarto: em conta vinculada ao juízo, corrigida pelos índices da poupança. Antes da Reforma era na conta do FGTS do empregado. Parágrafo primeiro: limitado a um teto fixado periodicamente, por recurso e não por processo, e liberado ao vencedor com o trânsito em julgado.
+ANTONIO: Parágrafo sétimo: no agravo de instrumento, depósito de cinquenta por cento do valor do depósito do recurso que se quer destrancar. Pegadinha: não é cinquenta por cento da condenação. Parágrafo oitavo: dispensado quando o agravo visa destrancar revista contra decisão que contraria súmula ou OJ do TST, e só do TST, não de TRT.
+THALITA: E para microempresa?
+FRANCISCA: Parágrafo nono: valor reduzido pela metade para entidades sem fins lucrativos, empregadores domésticos, microempreendedor individual, microempresas e empresas de pequeno porte. Metade, não isenção.
+BRUNO: Parágrafo décimo: isentos os beneficiários da justiça gratuita, as entidades filantrópicas e as empresas em recuperação judicial. Recuperação judicial é isenção; massa falida tem a Súmula oitenta e seis.
+ANTONIO: Parágrafo onze: pode ser substituído por fiança bancária ou seguro garantia judicial. É substituição, não dispensa. E os valores-limite são reajustados anualmente, em regra a partir de agosto, por ato da Presidência do TST: confira os vigentes.
+THALITA: Macete: conta judicial, metade para pequenos, isenção para gratuita, filantrópica e recuperação.
+
+== SLIDE: Súmulas do depósito e deserção
+* Súmula 128: novo recurso, novo depósito, até o valor da condenação
+* Súmula 161: sem condenação em pecúnia, sem depósito
+* Súmula 245: depósito no prazo do recurso
+* OJ 140: insuficiência; complementar em 5 dias
+* Fazenda dispensada; estatais econômicas depositam
+ANTONIO: Súmula cento e vinte e oito, item primeiro: a cada novo recurso, deposita-se novamente, até atingir o valor da condenação. Atingido o valor, nada mais se exige. Exemplo da apostila: condenação de vinte mil reais; no recurso ordinário a empresa deposita treze mil, e no de revista, só a diferença de sete mil.
+THALITA: Então a soma dos depósitos não passa do valor da condenação.
+BRUNO: Isso. Item segundo: garantido o juízo na execução, não se exige depósito para recorrer, salvo se o débito for elevado. Item terceiro: na condenação solidária, o depósito de uma empresa aproveita às demais, se a depositante não pede sua exclusão da lide.
+FRANCISCA: Súmula cento e sessenta e um: sem condenação em pecúnia, não há depósito, como na sentença só declaratória. Súmula duzentos e quarenta e cinco: o depósito é feito e comprovado no prazo do recurso, e recorrer antes do fim do prazo não reduz o prazo para comprovar. Depósito comprovado após o oitavo dia gera deserção.
+THALITA: E se o valor depositado for menor que o devido?
+ANTONIO: Orientação Jurisprudencial cento e quarenta da SDI-1: custas ou depósito insuficientes só geram deserção se, intimado, o recorrente não completar em cinco dias. Recolhimento a menor não é ausência total.
+BRUNO: Já a ausência total de preparo é deserção. A Instrução Normativa trinta e nove importa apenas os parágrafos segundo e sétimo do artigo mil e sete do CPC, e não o parágrafo quarto, o recolhimento em dobro. Confira se mudou o entendimento.
+FRANCISCA: Súmula noventa e nove: no recurso ordinário em ação rescisória, há depósito se o pedido rescisório for julgado procedente e houver condenação em pecúnia. Rescisória improcedente, sem depósito. E a Fazenda Pública é dispensada, mas estatais exploradoras de atividade econômica depositam.
+THALITA: Resumindo: insuficiência, cinco dias para completar; ausência total ou depósito depois do oitavo dia, deserção.
+
+== SLIDE: Regularidade formal e representação
+* Súmula 422: dialeticidade; no RO ao TRT, exigência mitigada
+* Súmula 383: procuração; 5 dias para sanar
+* Súmula 436: ente público dispensado de mandato
+* Súmula 425: jus postulandi; Súmula 8: documentos novos
+BRUNO: Regularidade formal. Súmula quatrocentos e vinte e dois, item primeiro: não se conhece de recurso para o TST cujas razões não atacam os fundamentos da decisão recorrida. Item segundo: a exigência não alcança fundamento secundário e impertinente. Item terceiro: no recurso ordinário para o TRT, a exigência é afastada, salvo razões inteiramente dissociadas da sentença.
+THALITA: E se o advogado esquece a procuração?
+FRANCISCA: Súmula trezentos e oitenta e três, item primeiro: advogado sem procuração nos autos não recorre, salvo mandato tácito. Excepcionalmente pode juntá-la em cinco dias, prorrogáveis por igual período. Item segundo: vício em procuração já existente, o relator concede cinco dias para sanar; se não sanado, não conhece do recurso do recorrente ou desentranha as contrarrazões do recorrido.
+ANTONIO: Ente público: Súmula quatrocentos e trinta e seis. O procurador fica dispensado de juntar mandato e ato de nomeação, mas deve declarar-se procurador.
+BRUNO: Jus postulandi, Súmula quatrocentos e vinte e cinco: vale nas Varas e nos TRTs, mas não alcança ação rescisória, cautelar, mandado de segurança e recursos de competência do TST.
+THALITA: Quer dizer que o trabalhador sem advogado não pode recorrer ao TST sozinho.
+FRANCISCA: Isso. E documentos novos no recurso, Súmula oito: só com prova de justo impedimento ou se relativos a fato posterior à sentença.
+ANTONIO: Fechada a admissibilidade. Agora vamos ao quadro mestre dos recursos em espécie, embargos de declaração, recurso ordinário e recurso de revista.
