@@ -1,0 +1,58 @@
+SEGMENTO s039
+== SLIDE: Carta da ONU: propósitos, princípios e membros
+* Carta assinada em São Francisco (26/6/1945); em vigor desde 24/10/1945
+* Propósitos (art. 1º) x princípios (art. 2º)
+* Admissão, suspensão, expulsão: AG por recomendação do CS
+* Restabelecimento da suspensão: só o CS
+FRANCISCA: Passamos do Tribunal Penal Internacional para a Carta das Nações Unidas, o Decreto dezenove mil oitocentos e quarenta e um, de mil novecentos e quarenta e cinco. Foi assinada em São Francisco em vinte e seis de junho de mil novecentos e quarenta e cinco, e está em vigor desde vinte e quatro de outubro do mesmo ano. O Estatuto da Corte Internacional de Justiça é parte integrante dela.
+THALITA: Qual a diferença entre propósitos e princípios? Eu sempre confundo.
+ANTONIO: Os propósitos, artigo primeiro, são o que a ONU quer alcançar: manter a paz e a segurança internacionais, desenvolver relações amistosas baseadas na igualdade de direitos e na autodeterminação dos povos, promover a cooperação e o respeito aos direitos humanos sem distinção de raça, sexo, língua ou religião, e ser um centro harmonizador da ação das nações.
+BRUNO: Os princípios, artigo segundo, são as regras de conduta: igualdade soberana, boa-fé no cumprimento das obrigações, solução pacífica de controvérsias, abstenção da ameaça ou do uso da força, assistência à ONU, não-membros agindo conforme os princípios e não intervenção em assuntos de jurisdição interna.
+THALITA: Então autodeterminação é propósito, e não intervenção é princípio.
+BRUNO: Troca frequente, e você acertou. E a não intervenção tem exceção expressa: as medidas coercitivas do Capítulo Sete.
+FRANCISCA: Sobre os membros: originários são os que participaram da Conferência de São Francisco, e o Brasil é originário. A admissão é decidida pela Assembleia Geral mediante recomendação do Conselho de Segurança. A suspensão e a expulsão seguem o mesmo caminho. Mas o restabelecimento dos direitos de um membro suspenso é só pelo Conselho de Segurança.
+ANTONIO: E quem atrasa as contribuições por prazo igual ou superior ao das contribuições dos dois anos anteriores perde o voto na Assembleia, salvo motivo alheio à sua vontade.
+BRUNO: Lembre: admissão, suspensão e expulsão exigem recomendação do Conselho de Segurança. Logo, membro permanente pode vetar a recomendação.
+== SLIDE: Órgãos principais: Assembleia Geral e Conselho de Segurança
+* Seis órgãos principais: AG, CS, ECOSOC, Tutela, CIJ, Secretariado
+* AG: todos os membros; 2/3 nas questões importantes
+* CS: 15 membros, 5 permanentes; decisões obrigatórias (art. 25)
+* Procedimentais: 9 votos; demais: 9 incluindo os permanentes
+ANTONIO: A Carta tem seis órgãos principais: Assembleia Geral, Conselho de Segurança, Conselho Econômico e Social, Conselho de Tutela, Corte Internacional de Justiça e Secretariado.
+THALITA: Como funciona a Assembleia?
+FRANCISCA: Todos os membros, um voto cada. Discute qualquer assunto e, em regra, recomenda. Aprova o orçamento. As questões importantes, como paz, eleições, admissão, suspensão, expulsão e orçamento, exigem dois terços dos presentes e votantes. As demais, maioria simples.
+BRUNO: O Conselho de Segurança tem quinze membros: cinco permanentes, que são China, Estados Unidos, França, Reino Unido e Rússia, e dez eleitos pela Assembleia por dois anos, sem reeleição imediata. Decisões procedimentais exigem nove votos. As demais, nove votos incluindo todos os permanentes.
+THALITA: Peraí, são quantos votos mesmo? Nove de quinze, e todos os permanentes entre eles, nas questões que não são de procedimento?
+BRUNO: Isso. Nove votos, incluindo os votos de todos os permanentes. Então se um permanente votar contra, não passa?
+THALITA: Foi o que eu perguntei! Então me responde.
+BRUNO: Não passa, é o veto. Veja o exemplo: treze votos a favor, a França se abstém e o Reino Unido vota contra. Rejeitado. Agora, se o Reino Unido também se abstivesse, seria aprovado, porque, pela prática consolidada, abstenção de permanente não é veto.
+ANTONIO: O Conselho de Segurança tem a responsabilidade principal pela paz e segurança, e suas decisões são obrigatórias, artigo vinte e cinco. A Assembleia, em regra, só recomenda, e não recomenda sobre controvérsia em exame no Conselho, salvo pedido dele. Só o Conselho decide sobre o uso da força.
+FRANCISCA: Outros órgãos: o Conselho Econômico e Social tem cinquenta e quatro membros, eleitos por três anos, com reeleição. O Conselho de Tutela tem atividades suspensas desde mil novecentos e noventa e quatro. O Secretário-Geral é nomeado pela Assembleia, por recomendação do Conselho, e pode alertá-lo sobre ameaças à paz.
+BRUNO: Atenção: o texto original do Decreto previa um Conselho de Segurança com onze membros e sete votos, e o ECOSOC com dezoito. As emendas elevaram para quinze, nove votos e cinquenta e quatro. A prova costuma cobrar o vigente.
+== SLIDE: Solução pacífica, ação coercitiva e legítima defesa
+* Cap. VI, art. 33: meios pacíficos; o CS apenas recomenda
+* Art. 39: ameaça à paz, ruptura da paz ou agressão
+* Art. 41: medidas sem força armada; art. 42: força armada
+* Art. 51: legítima defesa, sem autorização prévia
+ANTONIO: O Capítulo Seis trata da solução pacífica. O artigo trinta e três diz que as partes buscam antes de tudo negociação, inquérito, mediação, conciliação, arbitragem, solução judicial, entidades regionais ou outro meio pacífico à sua escolha. O rol é exemplificativo, e o Conselho apenas recomenda.
+THALITA: E o Capítulo Sete?
+FRANCISCA: É a ação coercitiva. O artigo trinta e nove diz que o Conselho de Segurança determina a existência de ameaça à paz, ruptura da paz ou ato de agressão. O artigo quarenta e um prevê medidas sem força armada, como interrupção de relações econômicas e comunicações e rompimento de relações diplomáticas. Se forem insuficientes, o artigo quarenta e dois autoriza ação por forças aéreas, navais ou terrestres.
+BRUNO: O artigo cinquenta e um garante a legítima defesa individual ou coletiva em caso de ataque armado, até o Conselho agir. Os requisitos são: ataque armado, caráter provisório e comunicação imediata ao Conselho. E não depende de autorização prévia.
+THALITA: Então, se a questão disser que depende de autorização do Conselho, está errada.
+BRUNO: Está. Também erradas: só individual, comunicação em trinta dias e por tempo indeterminado.
+THALITA: Macete: ataque armado, provisória, comunica logo. E se o Estado reagir sem ataque armado, só porque se sentiu ameaçado?
+BRUNO: Não cabe legítima defesa pelo artigo cinquenta e um. O texto exige ocorrer um ataque armado contra um Membro. Ameaça isolada não basta.
+THALITA: Então a ordem é: Capítulo Seis tenta a paz, Capítulo Sete usa medidas e, se preciso, a força, e o artigo cinquenta e um é a defesa até o Conselho agir.
+FRANCISCA: Resumo perfeito.
+== SLIDE: Corte Internacional de Justiça e quadro comparativo com o TPI
+* CIJ: órgão judiciário principal da ONU; 15 juízes, 9 anos, com reeleição
+* Contencioso: só Estados, com consentimento
+* Consultivo: AG, CS e órgãos autorizados
+* TPI: 18 juízes, sem reeleição; pessoas físicas
+ANTONIO: A Corte Internacional de Justiça é o órgão judiciário principal da ONU, com sede em Haia. Tem quinze juízes, vedados dois do mesmo Estado, eleitos pela Assembleia e pelo Conselho de Segurança, por maioria absoluta em ambos, sem veto. O mandato é de nove anos, com reeleição permitida e renovação de um terço a cada três anos.
+FRANCISCA: Só Estados podem ser partes em causas perante a Corte. Organizações internacionais, empresas e indivíduos não litigam nela. A competência contenciosa depende do consentimento do Estado, e a decisão é obrigatória entre as partes e para o caso, definitiva e inapelável. A consultiva atende a Assembleia, o Conselho e órgãos autorizados, com parecer em regra não vinculante.
+THALITA: E o que é a cláusula facultativa de jurisdição obrigatória?
+BRUNO: O Estado declara, unilateralmente, reconhecer a jurisdição como obrigatória perante qualquer Estado que aceite a mesma obrigação. É facultativa porque a adesão é voluntária. Ser membro da ONU torna o Estado parte do Estatuto, mas não o submete automaticamente à jurisdição contenciosa. E, se a sentença for descumprida, a outra parte pode recorrer ao Conselho de Segurança, artigo noventa e quatro.
+THALITA: Agora vou arriscar o quadro. TPI julga pessoas físicas maiores de dezoito anos; CIJ julga Estados. TPI tem dezoito juízes sem reeleição; CIJ tem quinze com reeleição. Os dois ficam em Haia.
+FRANCISCA: Perfeito. Acrescente: o TPI é autônomo e elege juízes pela Assembleia dos Estados-Partes; a CIJ é órgão da ONU e elege pela Assembleia Geral e pelo Conselho. A jurisdição do TPI é complementar, e a da CIJ depende de consentimento. No Brasil, o TPI tem base no Decreto quatro mil trezentos e oitenta e oito e no parágrafo quarto do artigo quinto da Constituição, e a Carta, no Decreto dezenove mil oitocentos e quarenta e um.
+ANTONIO: Muito bem. Para fixar tudo isso, vamos agora às questões comentadas no estilo FCC.
