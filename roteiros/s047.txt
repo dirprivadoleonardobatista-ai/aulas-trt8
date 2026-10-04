@@ -1,0 +1,64 @@
+SEGMENTO s047
+== SLIDE: Saúde, educação e moradia
+* Consentimento prévio, livre e esclarecido (art. 12)
+* Sem intervenção forçada; dispensa em risco de morte
+* Planos de saúde: vedada cobrança diferenciada
+* Escola privada sem valor adicional; moradia: 3% das unidades
+FRANCISCA: Depois de conceito, igualdade e prioridade, vamos aos direitos fundamentais. Começamos pela saúde. Tratamento, hospitalização e pesquisa exigem consentimento prévio, livre e esclarecido, e o curatelado participa no maior grau possível. Só se dispensa o consentimento em risco de morte ou emergência em saúde, resguardado o superior interesse da pessoa com deficiência.
+THALITA: Dá para obrigar a pessoa a fazer cirurgia?
+ANTONIO: Não. O artigo onze veda intervenção clínica ou cirúrgica, tratamento ou institucionalização forçados. A atenção à saúde é integral, em todos os níveis de complexidade, pelo SUS, com acesso universal e igualitário. Na internação, a pessoa tem direito a acompanhante ou atendente pessoal em tempo integral. Se for impossível, o profissional de saúde justifica por escrito.
+BRUNO: E os planos de saúde não podem cobrar valores diferenciados em razão da deficiência. Artigo vinte e três.
+FRANCISCA: Na educação, o sistema é inclusivo em todos os níveis e ao longo de toda a vida. A escola privada cumpre as medidas de inclusão sem cobrar valor adicional em mensalidade, anuidade ou matrícula. É o artigo vinte e oito, parágrafo primeiro, que o STF declarou constitucional na ADI cinco mil trezentos e cinquenta e sete.
+THALITA: E nos vestibulares e concursos?
+ANTONIO: O artigo trinta garante provas em formato acessível, recursos de tecnologia assistiva e dilação de tempo, mediante prévia solicitação.
+BRUNO: A pegadinha é achar que a dilação é automática. É mediante solicitação prévia.
+FRANCISCA: Na moradia, os programas habitacionais públicos ou subsidiados reservam no mínimo três por cento das unidades, e a prioridade na aquisição vale uma única vez.
+THALITA: Três por cento para moradia, e uma única vez a prioridade. Anotei.
+== SLIDE: Direito ao trabalho: artigos 34 a 36
+* Trabalho de livre escolha e aceitação, em ambiente acessível e inclusivo
+* Vedada discriminação, inclusive a exigência de aptidão plena
+* Igualdade de acesso a cursos, carreira, promoções e incentivos
+* Habilitação e reabilitação profissional
+ANTONIO: O trabalho é o tema mais cobrado em concurso de tribunal trabalhista. Artigo trinta e quatro: a pessoa com deficiência tem direito ao trabalho de livre escolha e aceitação, em ambiente acessível e inclusivo, em igualdade de oportunidades.
+THALITA: O que significa livre escolha?
+BRUNO: Que o Estado não direciona a pessoa com deficiência para funções ditas compatíveis. E o parágrafo primeiro obriga todas as pessoas jurídicas, de direito público, privado ou de qualquer natureza, a garantir ambientes acessíveis e inclusivos, não só as que cumprem cota.
+FRANCISCA: O parágrafo segundo assegura condições justas e favoráveis, incluindo igual remuneração por trabalho de igual valor. O terceiro veda discriminação em recrutamento, seleção, contratação, admissão, exames admissional e periódico, permanência, ascensão e reabilitação, e também a exigência de aptidão plena.
+BRUNO: Exigir aptidão plena é discriminação expressa. Marque isso.
+FRANCISCA: Um exemplo: a empresa Alfa anuncia vaga de auxiliar administrativo exigindo plena aptidão física e mental, e reprova Márcio, que tem deficiência auditiva, no exame admissional apenas por isso. A conduta viola o artigo trinta e quatro, parágrafo terceiro, e pode configurar o crime do artigo oitavo, inciso três, da Lei sete mil oitocentos e cinquenta e três, de mil novecentos e oitenta e nove: negar emprego em razão da deficiência.
+THALITA: E depois da contratação? Ele tem acesso a cursos e promoção?
+ANTONIO: Tem. O parágrafo quarto garante igualdade no acesso a cursos, treinamentos, educação continuada, planos de carreira, promoções, bonificações e incentivos. O quinto exige acessibilidade nos cursos de formação e capacitação.
+BRUNO: O artigo trinta e cinco diz que a finalidade primordial das políticas de trabalho é o acesso e a permanência no trabalho, com estímulo ao empreendedorismo, ao trabalho autônomo, ao cooperativismo e ao associativismo, com linhas de crédito quando necessárias. O artigo trinta e seis manda o poder público manter programas completos de habilitação e reabilitação profissional.
+THALITA: Acesso e permanência. A banca esquece da permanência. Então, se a questão disser que a pessoa com deficiência só pode exercer função compatível com a deficiência, errada. Se disser que só as empresas com cota precisam de ambiente acessível, errada também. E se disser que exigir aptidão plena é permitido no exame admissional, errada de novo. Resumi bem?
+FRANCISCA: Resumiu muito bem. É exatamente assim que a banca monta as alternativas.
+== SLIDE: Colocação competitiva, aprendizagem e benefícios
+* Art. 37: colocação competitiva; trabalho com apoio
+* Art. 38: entidade de processo seletivo cumpre a LBI
+* Aprendiz com deficiência: sem limite de 24 anos
+* BPC, auxílio-inclusão e aposentadoria (LC 142/2013)
+ANTONIO: O artigo trinta e sete diz que a inclusão ocorre pela colocação competitiva, em igualdade, nos termos das legislações trabalhista e previdenciária, com acessibilidade, tecnologia assistiva e adaptação razoável. A colocação competitiva pode ocorrer por trabalho com apoio, que prioriza quem tem maior dificuldade de inserção, com suportes individualizados, respeito ao perfil vocacional, apoio ao empregador e avaliações periódicas.
+FRANCISCA: O artigo trinta e oito obriga a entidade contratada para realizar processo seletivo, público ou privado, a cumprir a LBI e as normas de acessibilidade. A banca examinadora também responde.
+THALITA: E o aprendiz com deficiência? Existe limite de idade?
+BRUNO: A idade máxima de vinte e quatro anos não se aplica ao aprendiz com deficiência, artigo quatrocentos e vinte e oito, parágrafo quinto, da CLT. A escolaridade considera sobretudo habilidades e competências ligadas à profissionalização. E o desempenho insuficiente não extingue antecipadamente o contrato de quem estava sem acessibilidade, tecnologia assistiva e apoio necessários.
+THALITA: Agora benefícios. O BPC é de quanto?
+FRANCISCA: Um salário mínimo mensal para a pessoa com deficiência sem meios de prover a subsistência nem de tê-la provida pela família. É assistencial, sem contribuição. O auxílio-inclusão é devido à pessoa com deficiência moderada ou grave que recebe ou recebeu o BPC e passa a exercer atividade remunerada que a enquadre como segurada obrigatória do RGPS.
+ANTONIO: A aposentadoria, pela Lei Complementar cento e quarenta e dois, de dois mil e treze. Por tempo de contribuição: deficiência grave, vinte e cinco anos o homem e vinte a mulher; moderada, vinte e nove e vinte e quatro; leve, trinta e três e vinte e oito. Por idade, sessenta anos o homem e cinquenta e cinco a mulher, com quinze anos de contribuição na condição de pessoa com deficiência.
+BRUNO: Atenção: o auxílio-inclusão foi detalhado pela Lei catorze mil cento e setenta e seis, de dois mil e vinte e um. Confira requisitos e valor vigentes. E a Emenda cento e três preservou as regras da lei complementar até nova lei.
+THALITA: Grave, moderada, leve: vinte e cinco, vinte e nove, trinta e três para o homem. Subindo de quatro em quatro. Para a mulher, vinte, vinte e quatro, vinte e oito, também de quatro em quatro. E o BPC, é benefício previdenciário?
+FRANCISCA: Não, é assistencial, não exige contribuição. Previdenciária é a aposentadoria. Essa troca cai muito.
+THALITA: BPC assistencial, aposentadoria previdenciária. Gravei.
+== SLIDE: Transporte, acessibilidade, informação e acesso à justiça
+* Estacionamento: 2%, no mínimo 1 vaga; táxi: 10%
+* Locadoras: 1 veículo a cada 20; hotel: 10% dos dormitórios
+* Informação: sítios acessíveis; Libras, legenda oculta e audiodescrição
+* Justiça: tecnologia assistiva inclusive para advogado e magistrado
+ANTONIO: Os percentuais de acessibilidade. Estacionamento: dois por cento das vagas, com no mínimo uma, próximas aos acessos de pedestres. A credencial é vinculada à pessoa, não ao veículo, e vale em todo o território nacional. Táxis: dez por cento da frota acessível. Locadoras: um veículo adaptado a cada vinte. Hotéis e pousadas existentes: no mínimo dez por cento dos dormitórios, garantida ao menos uma unidade.
+THALITA: Quanta porcentagem! Como diferenciar?
+BRUNO: Não confunda dois por cento das vagas para pessoas com deficiência com cinco por cento para idosos. E táxi dez, hotel dez, locadora um a cada vinte, moradia três.
+FRANCISCA: Nas edificações, o desenho universal é a regra; se não for possível, adaptação razoável; e as edificações de uso coletivo já existentes devem se tornar acessíveis.
+ANTONIO: Na informação e comunicação, os sítios mantidos por empresas com sede ou representação no País, ou por órgãos de governo, devem ser acessíveis, com o símbolo de acessibilidade em destaque. A radiodifusão deve permitir legenda oculta, janela com intérprete de Libras e audiodescrição. O poder público promove a formação de intérpretes de Libras, guias-intérpretes e profissionais de Braille e audiodescrição. E há direito de votar e ser votado, com seções acessíveis e auxílio de pessoa de sua escolha.
+THALITA: E o acesso à justiça?
+FRANCISCA: Artigos setenta e nove a oitenta e três. O poder público assegura acesso à justiça em igualdade, com adaptações e tecnologia assistiva sempre que requeridas, e capacita membros e servidores do Judiciário, do Ministério Público, da Defensoria, da segurança pública e do sistema penitenciário. A pessoa com deficiência presa tem os mesmos direitos dos demais apenados, com acessibilidade.
+BRUNO: O artigo oitenta garante tecnologia assistiva quando a pessoa com deficiência for parte, testemunha, partícipe da lide, advogado, defensor público, magistrado ou membro do Ministério Público. Protege também o profissional com deficiência, não só a parte.
+FRANCISCA: E o artigo oitenta e três proíbe os cartórios de negar ou criar óbices em razão da deficiência. Devem reconhecer a capacidade legal plena. Cartório não pode exigir curador ou laudo de capacidade.
+THALITA: No Judiciário, tem resolução do CNJ também?
+ANTONIO: Tem. A Resolução quatrocentos e um do CNJ, de dois mil e vinte e um, e, na Justiça do Trabalho, a Resolução trezentos e oitenta e seis do CSJT, de dois mil e vinte e quatro. No próximo tema, a capacidade civil, a curatela, a tomada de decisão apoiada e os crimes da LBI.
