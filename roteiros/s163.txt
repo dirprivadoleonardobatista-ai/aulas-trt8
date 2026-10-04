@@ -1,0 +1,74 @@
+SEGMENTO s163
+== SLIDE: Acidente do trabalho: conceito e espécies
+* Art. 19 da Lei 8.213: evento, lesão ou perturbação, incapacidade
+* Acidente típico: evento súbito no exercício do trabalho
+* Doença profissional: própria da atividade (art. 20, I)
+* Doença do trabalho: condições especiais (art. 20, II)
+BRUNO: Terminamos a segurança do trabalho. Agora o que acontece quando o risco se realiza: o acidente do trabalho, as doenças ocupacionais, o meio ambiente do trabalho e o dano extrapatrimonial.
+ANTONIO: O conceito está no artigo dezenove da Lei oito mil duzentos e treze, de mil novecentos e noventa e um. Acidente do trabalho é o que ocorre pelo exercício do trabalho a serviço da empresa ou do empregador doméstico, ou pelo trabalho dos segurados especiais, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho.
+THALITA: Quais os elementos?
+FRANCISCA: Três: o evento ligado ao trabalho, a lesão ou perturbação funcional e a incapacidade ou morte. Sem incapacidade, não há acidente para fins previdenciários.
+BRUNO: O acidente típico é o evento súbito no exercício do trabalho. Aí entram os equiparados, no artigo vinte: a doença profissional e a doença do trabalho.
+THALITA: Qual a diferença entre as duas?
+ANTONIO: A doença profissional é produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade. Exemplo clássico: a silicose do minerador. A doença do trabalho é adquirida ou desencadeada em função de condições especiais em que o trabalho é realizado. Exemplo: LER e DORT por ritmo excessivo.
+FRANCISCA: Macete: profissional vem da profissão, própria da atividade; do trabalho vem da condição do ambiente ou da organização do trabalho.
+BRUNO: Atenção às exclusões do parágrafo primeiro do artigo vinte. Não são doenças do trabalho a degenerativa, a inerente a grupo etário, a que não produz incapacidade e a endêmica, salvo se a exposição ou o contato decorrer da natureza do trabalho.
+THALITA: Então uma doença degenerativa, como a artrose por idade, não conta?
+FRANCISCA: Em regra não. Mas se o trabalho agravou ou desencadeou, entra a ideia de concausa, que vem no próximo slide.
+== SLIDE: Equiparados, trajeto, NTEP e CAT
+* Concausa: trabalho contribuiu diretamente (art. 21, I)
+* Trajeto residência–trabalho é equiparado (art. 21, IV, d)
+* NTEP: presunção pelo nexo entre atividade e doença (art. 21-A)
+* CAT: até o primeiro dia útil seguinte; morte, de imediato
+ANTONIO: O artigo vinte e um equipara ao acidente do trabalho várias situações. A concausa: o trabalho não foi a causa única, mas contribuiu diretamente para a morte, a perda ou redução da capacidade ou produziu lesão que exija atenção médica.
+THALITA: E agressão de colega, conta?
+FRANCISCA: Conta. Agressão, sabotagem, terrorismo, ato de pessoa privada do uso da razão, desabamento, inundação e força maior, no local e horário de trabalho, são equiparados, inciso dois.
+BRUNO: E fora do local e do horário também pode haver acidente. Na execução de ordem ou realização de serviço sob autoridade da empresa, serviço espontâneo em proveito dela, viagem a serviço e o trajeto da residência ao local de trabalho, inciso quatro. E nos intervalos de refeição e necessidades fisiológicas, no local ou durante o trabalho, considera-se no exercício do trabalho, parágrafo primeiro.
+FRANCISCA: Sobre o trajeto, uma nota: a Medida Provisória novecentos e cinco, de dois mil e dezenove, o revogou, mas ela caducou em dois mil e vinte, e a regra foi restabelecida. Confira a redação vigente.
+THALITA: E o NTEP?
+ANTONIO: O artigo vinte e um-A: a perícia do INSS presume a natureza acidentária quando há nexo técnico epidemiológico entre a atividade da empresa, pela classificação CNAE, e a doença, pelo CID. A empresa pode contestar.
+BRUNO: Agora a comunicação, a CAT, artigo vinte e dois. A empresa comunica até o primeiro dia útil seguinte ao da ocorrência. Em caso de morte, a comunicação é de imediato, à autoridade competente.
+THALITA: E se a empresa não comunicar?
+FRANCISCA: O próprio acidentado, os dependentes, o sindicato, o médico ou qualquer autoridade pública podem comunicar, sem prazo, parágrafo segundo. Lembre ainda que o acidentado tem estabilidade de doze meses após a cessação do auxílio por incapacidade acidentário, artigo cento e dezoito e Súmula trezentos e setenta e oito.
+== SLIDE: Responsabilidade civil e meio ambiente do trabalho
+* Art. 7º, XXVIII: seguro não exclui indenização por dolo ou culpa
+* Regra: responsabilidade subjetiva, inclusive culpa leve
+* Tema 932 do STF: objetiva em atividade de risco especial
+* Meio ambiente do trabalho: direito difuso, responsabilidade objetiva
+BRUNO: Responsabilidade civil. O artigo sétimo, inciso vinte e oito, da Constituição assegura seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que ele está obrigado quando incorrer em dolo ou culpa. O seguro não exclui a indenização civil.
+THALITA: Então a regra é provar a culpa do empregador?
+ANTONIO: A regra constitucional é a responsabilidade subjetiva, e basta culpa, ainda que leve. Ficou superada a ideia de culpa grave da Súmula duzentos e vinte e nove do STF.
+BRUNO: Mas existe exceção, e cai muito. No Tema novecentos e trinta e dois, recurso extraordinário oitocentos e vinte e oito mil e quarenta, o STF disse que o artigo novecentos e vinte e sete, parágrafo único, do Código Civil é compatível com o artigo sétimo, inciso vinte e oito. É constitucional a responsabilização objetiva do empregador nos casos especificados em lei, ou quando a atividade normalmente desenvolvida, por sua natureza, apresentar exposição habitual a risco especial, com potencialidade lesiva, e implicar ao trabalhador ônus maior do que aos demais membros da coletividade.
+THALITA: Dá para resumir?
+FRANCISCA: Claro. Regra geral, subjetiva, com dolo ou culpa. Atividade de risco especial, objetiva.
+ANTONIO: O meio ambiente do trabalho é o conjunto de local, condições e organização do trabalho que influem na saúde e segurança do trabalhador. Tem base no artigo duzentos, inciso oito, e no artigo duzentos e vinte e cinco da Constituição. É direito difuso e fundamental ao meio ambiente equilibrado.
+BRUNO: A responsabilidade do poluidor é objetiva, independentemente de culpa, artigo duzentos e vinte e cinco, parágrafo terceiro, e Lei seis mil novecentos e trinta e oito, artigo catorze, parágrafo primeiro. As normas técnicas são as Normas Regulamentadoras, artigo duzentos da CLT. A tutela vem pela ação civil pública do Ministério Público do Trabalho, embargo e interdição, e indenizações individuais e coletivas.
+THALITA: Macete: acidente do trabalho, culpa em regra; risco especial, sem culpa; meio ambiente, sem culpa.
+== SLIDE: Dano extrapatrimonial: os artigos 223-A a 223-F
+* Ofensa à esfera moral ou existencial de pessoa física ou jurídica
+* Pessoa física: honra, imagem, intimidade, saúde, integridade física
+* Pessoa jurídica: imagem, marca, nome, segredo empresarial
+* Responsáveis na proporção da ação ou omissão; cumulável com dano material
+ANTONIO: Dano extrapatrimonial, artigos duzentos e vinte e três-A a duzentos e vinte e três-G, trazidos pela Reforma. O artigo duzentos e vinte e três-B define: é a ação ou omissão que ofende a esfera moral ou existencial da pessoa física ou jurídica, as quais são titulares exclusivas do direito à reparação.
+THALITA: E o duzentos e vinte e três-A?
+FRANCISCA: Diz que se aplicam à reparação de danos de natureza extrapatrimonial decorrentes da relação de trabalho apenas os dispositivos desse título. O Supremo, nas ADIs seis mil e cinquenta, seis mil e sessenta e nove e seis mil e oitenta e dois, esclareceu que os artigos duzentos e vinte e três-A e duzentos e vinte e três-B não excluem o dano moral reflexo, chamado dano em ricochete, apreciado pela legislação civil.
+BRUNO: Bens tutelados da pessoa física, artigo duzentos e vinte e três-C: honra, imagem, intimidade, liberdade de ação, autoestima, sexualidade, saúde, lazer e integridade física. Da pessoa jurídica, duzentos e vinte e três-D: imagem, marca, nome, segredo empresarial e sigilo da correspondência.
+THALITA: E quem responde?
+ANTONIO: O artigo duzentos e vinte e três-E: todos os que tenham colaborado para a ofensa ao bem jurídico, na proporção da ação ou da omissão. E o duzentos e vinte e três-F permite cumular a reparação do dano extrapatrimonial com os danos materiais decorrentes do mesmo ato lesivo. O juiz deve discriminar os valores de cada um.
+FRANCISCA: Agora as espécies. Dano moral, ofensa a direitos da personalidade, que em certas hipóteses é in re ipsa. Dano existencial, lesão ao projeto de vida e à vida de relações, como jornadas exaustivas que impedem o convívio; o TST exige, em regra, prova do prejuízo concreto. Dano estético, alteração morfológica permanente, cumulável com o moral pela Súmula trezentos e oitenta e sete do STJ.
+BRUNO: E o dano material, que inclui danos emergentes, lucros cessantes e pensão proporcional à perda da capacidade, artigo novecentos e cinquenta do Código Civil, com possibilidade de pagamento de uma só vez.
+== SLIDE: Critérios, parâmetros e tarifação do artigo 223-G
+* Doze critérios no caput
+* Leve até 3x, média até 5x, grave até 20x, gravíssima até 50x
+* Base: último salário contratual do ofendido
+* STF: critérios orientativos; acima dos tetos é constitucional
+FRANCISCA: O artigo duzentos e vinte e três-G manda o juiz considerar doze critérios: a natureza do bem jurídico, a intensidade do sofrimento, a possibilidade de superação física ou psicológica, os reflexos pessoais e sociais, a extensão e a duração dos efeitos, as condições em que ocorreu a ofensa, o grau de dolo ou culpa, a ocorrência de retratação espontânea, o esforço efetivo para minimizar a ofensa, o perdão, a situação social e econômica das partes e o grau de publicidade da ofensa.
+THALITA: E os valores?
+ANTONIO: O parágrafo primeiro traz o parâmetro por natureza da ofensa, vedada a acumulação: leve, até três vezes o último salário contratual do ofendido; média, até cinco vezes; grave, até vinte vezes; gravíssima, até cinquenta vezes.
+BRUNO: Pegadinha número um: o parâmetro é o último salário contratual do ofendido, não o salário mínimo. Se o ofendido for pessoa jurídica, usa-se o salário contratual do ofensor, parágrafo segundo. Pegadinha número dois: na reincidência entre as mesmas partes, o juízo poderá elevar ao dobro. Poderá, não deverá, e não é triplicar, parágrafo terceiro.
+THALITA: Dá um exemplo numérico?
+FRANCISCA: Com salário de dois mil reais: leve, até seis mil; média, até dez mil; grave, até quarenta mil; gravíssima, até cem mil.
+ANTONIO: O Supremo, nas ADIs seis mil e cinquenta, seis mil e sessenta e nove e seis mil e oitenta e dois, em dois mil e vinte e três, decidiu que os critérios do caput e do parágrafo primeiro são orientativos. É constitucional o arbitramento acima dos limites dos incisos um a quatro quando as circunstâncias do caso justificarem, à luz da razoabilidade, proporcionalidade e igualdade.
+BRUNO: Pegadinha número três: dizer que os limites são tetos intransponíveis. Errado depois das ADIs.
+THALITA: Resumo relâmpago do que mais cai na FCC nesta aula. FGTS: oito por cento, dois para o aprendiz, dia vinte, quarenta de multa, vinte na culpa recíproca, no acordo e na força maior. Prescrição: cinco anos para trás e dois para ajuizar; total para o que só vem do contrato, parcial para o que tem lei; interrupção só pelo ajuizamento. Decadência: inquérito trinta dias, rescisória dois anos. Termo da Comissão de Conciliação Prévia tem eficácia liberatória geral. Insalubridade dez, vinte e quarenta; periculosidade trinta; sem cumulação. Responsabilidade do empregador: subjetiva, e objetiva em risco especial. Dano extrapatrimonial: último salário contratual, e os tetos são só orientativos.
+ANTONIO: Excelente, Thalita. Encerramos a aula quarenta e sete. Bons estudos e até a próxima!
