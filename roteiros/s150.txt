@@ -1,0 +1,150 @@
+SEGMENTO s150
+== SLIDE: Questão 1: contrato por prazo determinado
+* Experiência: no máximo 90 dias (art. 445, parágrafo único)
+* Prazo determinado: 2 anos no total, já incluída a prorrogação
+* Súmula 188: experiência admite prorrogação dentro dos 90 dias
+* Art. 452: sucessão em menos de 6 meses vira prazo indeterminado
+FRANCISCA: Terminamos a teoria sobre estabilidade e reintegração. Agora é hora de treinar com questões no estilo FCC, alternativa por alternativa. Vamos devagar, e peço que vocês pausem o vídeo antes de cada gabarito.
+BRUNO: Questão um, Analista Judiciário. Sobre o contrato de trabalho por prazo determinado, segundo a CLT e a jurisprudência do TST, qual alternativa é correta? A diz que a experiência pode ter até cento e vinte dias, com uma prorrogação. B diz que o contrato a termo pode ter dois anos e ser prorrogado por igual período. C fala do contrato que sucede outro dentro de seis meses. D diz que a experiência não admite prorrogação. E diz que qualquer prorrogação, uma só, já torna o contrato indeterminado.
+THALITA: Pausa para você pensar. Eu chutaria a letra B, porque dois anos me soa conhecido. Estou errada?
+ANTONIO: Está errada, mas o raciocínio tem origem. Os dois anos existem, só que são o limite total, já incluída a prorrogação. Pelo artigo quatrocentos e quarenta e cinco combinado com o quatrocentos e cinquenta e um, não dá para ter dois anos e ainda prorrogar por mais dois. Então B está errada.
+BRUNO: A alternativa A é a clássica troca de número. O limite da experiência é de noventa dias, não cento e vinte. Está no parágrafo único do artigo quatrocentos e quarenta e cinco.
+FRANCISCA: A letra D tenta enganar quem decorou "experiência não prorroga". A Súmula cento e oitenta e oito do TST admite a prorrogação, desde que respeitado o limite de noventa dias. Dá para fazer um contrato de quarenta e cinco dias prorrogado por mais quarenta e cinco, por exemplo.
+THALITA: E a E, que fala de prorrogar uma vez e virar indeterminado?
+BRUNO: Errada também. O artigo quatrocentos e cinquenta e um diz que a conversão em prazo indeterminado ocorre quando o contrato é prorrogado mais de uma vez. Uma prorrogação só é permitida.
+ANTONIO: Sobra a C, que é o gabarito. É a reprodução do artigo quatrocentos e cinquenta e dois, inclusive com a exceção: se a expiração do primeiro contrato dependeu da execução de serviços especializados ou da realização de certos acontecimentos, a sucessão em menos de seis meses não o transforma em indeterminado.
+THALITA: Macete: experiência, noventa dias; prazo determinado, dois anos com prorrogação dentro desse total, só uma vez; e seis meses de intervalo entre contratos.
+FRANCISCA: Perfeito, Thalita.
+== SLIDE: Questão 2: contrato nulo, trabalho ilícito e trabalho proibido
+* Súmula 363: sem concurso, só horas trabalhadas e FGTS
+* OJ 199 SDI-1: jogo do bicho, objeto ilícito, sem efeitos
+* Menor de 16 anos fora da aprendizagem: efeitos até a nulidade
+* Art. 19-A da Lei 8.036: FGTS garantido
+THALITA: Questão dois. Temos três situações. Leandro trabalhou três anos para um Município, sem concurso, depois de mil novecentos e oitenta e oito. Joana foi apontadora do jogo do bicho. Paulo, com quinze anos, trabalhou numa loja como empregado comum, fora da aprendizagem. A alternativa A diz que Leandro tem horas trabalhadas e FGTS, Joana nada, Paulo todas as verbas. Pausa para pensar.
+ANTONIO: Vamos por pessoa, que é mais seguro. Leandro: contrato nulo por falta de concurso. A Súmula trezentos e sessenta e três do TST dá direito apenas à contraprestação pelas horas trabalhadas, respeitado o valor da hora do salário mínimo, e aos depósitos do FGTS.
+BRUNO: Por isso a letra B está errada. Ela dá a Leandro todas as verbas da dispensa sem justa causa, só tirando a multa de quarenta por cento. Pela súmula, não há aviso prévio, décimo terceiro nem férias. E a letra E está errada do outro lado: ela diz que Leandro tem só saldo de salário, sem FGTS. O FGTS é garantido pela súmula e pelo artigo dezenove-A da Lei oito mil e trinta e seis.
+FRANCISCA: Joana: o jogo do bicho é objeto ilícito. A Orientação Jurisprudencial cento e noventa e nove da SDI-1 diz que o contrato não produz efeitos. Por isso a letra C, que dá saldo de salário e FGTS também à Joana, está errada.
+THALITA: Mas é injusto, né? Ela trabalhou.
+FRANCISCA: A diferença é o objeto. Aqui o próprio objeto do contrato é crime ou contravenção. Não confunda com atividade lícita exercida de forma irregular.
+ANTONIO: E Paulo, com quinze anos. O trabalho proibido, ou seja, do menor de dezesseis fora da aprendizagem, produz todos os efeitos até a declaração da nulidade. A norma que protege o menor não pode prejudicá-lo.
+BRUNO: Então a letra D, que nega tudo a Paulo, está errada, e a letra A é o gabarito. Resumindo o trio: concurso ausente, só horas e FGTS; objeto ilícito, nada; trabalho proibido, tudo até anular.
+THALITA: Macete: ilícito, nada; proibido, tudo; sem concurso, horas e FGTS.
+== SLIDE: Questão 3: reversão ao cargo efetivo e gratificação
+* Art. 468, § 1º: reversão não é alteração unilateral ilícita
+* Art. 468, § 2º: gratificação não se incorpora, com ou sem justo motivo
+* Súmula 372, I: tese superada após 11/11/2017
+* Gerente por 12 anos não muda o resultado
+BRUNO: Questão três. Rita foi gerente por doze anos e recebia gratificação. Em dois mil e vinte e quatro, sem justo motivo, o empregador a reverteu ao cargo efetivo e suprimiu a gratificação. A diz que é alteração unilateral ilícita. B diz que é lícita, mas a gratificação se incorpora por mais de dez anos. C exige justo motivo. D manda manter pela média dos últimos cinco anos. E diz que não é alteração unilateral e que a gratificação não se incorpora, independentemente do tempo.
+FRANCISCA: Pausa para você pensar. A pegadinha está no tempo: doze anos, mais de dez. A letra B puxa pela memória a Súmula trezentos e setenta e dois do TST, que dava estabilidade financeira ao empregado que ficava dez anos ou mais na função.
+ANTONIO: Exato, mas essa tese foi superada pela reforma. O artigo quatrocentos e sessenta e oito, parágrafo segundo, diz que a alteração, com ou sem justo motivo, não assegura a manutenção do pagamento da gratificação, que não será incorporada, independentemente do tempo de exercício. Isso vale para reversões depois de onze de novembro de dois mil e dezessete.
+THALITA: Então a letra A está errada porque a lei diz que a reversão não é alteração ilícita?
+FRANCISCA: Isso. O parágrafo primeiro do mesmo artigo afasta a figura da alteração unilateral ilícita quando o empregador reverte o empregado ao cargo efetivo anteriormente ocupado. Rita não precisa consentir.
+BRUNO: A letra C é a mais sutil. Ela diz que só é lícita com justo motivo. A lei diz o contrário: "com ou sem justo motivo". Se aparecer a expressão numa alternativa, vale a literalidade.
+THALITA: E a D, da média dos últimos cinco anos?
+ANTONIO: Essa não existe na lei. É uma invenção. Não há previsão de manutenção pela média. Então a única alternativa correta é a E, que reproduz a literalidade dos parágrafos primeiro e segundo.
+THALITA: Macete: reverteu, perdeu a gratificação; ninguém pode reclamar de ilicitude.
+BRUNO: Só mantenha o cuidado com a data: antes da reforma, a Súmula trezentos e setenta e dois ainda se aplica. Na dúvida, veja se o enunciado fala em dois mil e dezessete ou depois.
+== SLIDE: Questão 4: transferência e adicional
+* Art. 469: transferência exige mudança de domicílio
+* Adicional: nunca inferior a 25% (art. 469, § 3º)
+* OJ 113: devido na transferência provisória, mesmo cargo de confiança
+* Súmula 43: sem real necessidade, presume-se abusiva
+FRANCISCA: Questão quatro. Sobre transferência do empregado, qual afirmação é correta? A diz que o cargo de confiança não faz jus ao adicional. B diz que o pressuposto do adicional é a transferência provisória, devido ainda que haja cargo de confiança ou previsão contratual. C diz que o suplemento é de no máximo vinte e cinco por cento. D diz que cláusula contratual dispensa a necessidade de serviço. E diz que qualquer alteração do local de trabalho é transferência.
+THALITA: Pausa para você pensar. Eu cravaria a letra C. Vinte e cinco por cento é o número que eu lembro.
+BRUNO: Lembra o número, mas inverteu o sentido. O suplemento é de no mínimo vinte e cinco por cento dos salários, enquanto durar a situação. O artigo quatrocentos e sessenta e nove, parágrafo terceiro, fala em "nunca inferior". A FCC troca "nunca inferior" por "no máximo". Anote.
+ANTONIO: A letra A é errada por causa da Orientação Jurisprudencial cento e treze da SDI-1: o cargo de confiança, ou a previsão de transferência no contrato, não afasta o direito ao adicional. O pressuposto é apenas que a transferência seja provisória.
+FRANCISCA: Isso é o conteúdo da B, que é o gabarito. É a literalidade da orientação jurisprudencial.
+THALITA: E se tem cláusula no contrato, a empresa pode transferir quando quiser, como diz a D?
+FRANCISCA: Não. O artigo quatrocentos e sessenta e nove, parágrafo primeiro, exige real necessidade de serviço. Sem prova disso, a transferência é presumida abusiva, na forma da Súmula quarenta e três do TST.
+BRUNO: A letra E é pegadinha do conceito. Não é qualquer mudança de local que é transferência. O caput do artigo quatrocentos e sessenta e nove diz que não se considera transferência a que não acarretar necessariamente a mudança de domicílio. Mudar de uma filial para outra na mesma cidade não é transferência.
+ANTONIO: Fechamos: B correta; A, C, D e E erradas. Guardem três palavras: provisória, real necessidade e nunca inferior.
+THALITA: Provisória, necessidade, vinte e cinco no mínimo. Anotado.
+== SLIDE: Questão 5: faltas justificadas do artigo 473
+* Falecimento de irmão: até 2 dias consecutivos
+* Casamento: até 3 dias consecutivos
+* Exames preventivos de câncer: até 3 dias a cada 12 meses
+* Acompanhar gestante: até 6 consultas (Lei 14.457/2022)
+ANTONIO: Questão cinco, Técnico Judiciário. Pelo artigo quatrocentos e setenta e três da CLT, o empregado pode faltar sem prejuízo do salário em quatro situações. Item um: até dois dias consecutivos por falecimento de irmão. Item dois: até três dias consecutivos por casamento. Item três: um dia por ano, em exames preventivos de câncer. Item quatro: acompanhar a esposa ou companheira em até seis consultas durante a gravidez. A banca pergunta quais itens estão corretos.
+THALITA: Pausa para você pensar. O item três me parece suspeito. Um dia por ano... será que é um dia mesmo?
+BRUNO: Boa intuição. O item três está errado. São até três dias a cada doze meses, conforme o inciso doze do artigo quatrocentos e setenta e três. E o dia por ano é outra coisa: a doação voluntária de sangue, inciso quatro. É essa a pegadinha que a banca arma.
+FRANCISCA: Já o item um está correto: o falecimento de irmão está no inciso primeiro, com até dois dias consecutivos. O item dois também: casamento é inciso segundo, até três dias consecutivos.
+ANTONIO: E o item quatro está certo. Foi acrescentado pela Lei catorze mil quatrocentos e cinquenta e sete, de dois mil e vinte e dois, no inciso dez: pelo tempo necessário para acompanhar a esposa ou companheira em até seis consultas médicas ou exames complementares durante a gravidez.
+THALITA: Então os itens corretos são um, dois e quatro. Qual letra?
+BRUNO: Letra D. Vamos olhar as outras. A letra A traz só um e dois, omitindo o item quatro, que está correto. A letra B traz um, dois e três, e o três está errado. A letra C traz dois, três e quatro, inclui o três e omite o um. A letra E traz só dois e quatro, omitindo o um.
+FRANCISCA: Esse tipo de questão, com combinação de itens, é para ser resolvida por eliminação. Achando um item errado, todas as alternativas que o contêm caem.
+THALITA: Macete: três dias para exame de câncer, um dia para doar sangue.
+ANTONIO: E lembre que casamento e falecimento de irmão têm prazos diferentes: três e dois.
+== SLIDE: Questão 6: suspensão e interrupção do contrato
+* Doença: 15 dias de interrupção, depois suspensão
+* Acidente de trabalho: FGTS continua e conta para estabilidade
+* Suspensão disciplinar: mais de 30 dias é rescisão injusta (art. 474)
+* Súmula 269 e Súmula 160
+FRANCISCA: Questão seis, sobre suspensão e interrupção. A afirma que nos quinze primeiros dias de doença há interrupção e do décimo sexto em diante suspensão, e que no acidente do trabalho persiste o depósito do FGTS e o período conta para indenização e estabilidade. B diz que a suspensão disciplinar por mais de quinze dias é rescisão injusta. C diz que o diretor eleito tem contrato interrompido. D diz que cancelada a aposentadoria por invalidez após cinco anos o trabalhador perde o retorno. E fala do lay-off por até seis meses sem norma coletiva.
+THALITA: Pausa para você pensar. Eu diria B, porque quinze dias é um prazo que a gente decora.
+BRUNO: Armadilha direta. O prazo de quinze dias é da doença. A suspensão disciplinar só vira rescisão injusta quando passa de trinta dias consecutivos, pelo artigo quatrocentos e setenta e quatro. A B está errada.
+ANTONIO: A letra A é o gabarito. Na doença, a empresa paga os quinze primeiros dias, que são interrupção. Depois vem o auxílio previdenciário, com suspensão. Se for acidente do trabalho, o FGTS continua sendo depositado, conforme o artigo quinze, parágrafo quinto, da Lei oito mil e trinta e seis, e o período é computado para indenização e estabilidade, segundo o artigo quarto, parágrafo primeiro, da CLT.
+FRANCISCA: Na letra C, o diretor eleito: pela Súmula duzentos e sessenta e nove do TST, o contrato fica suspenso, sem contagem do tempo de serviço, salvo se permanecer a subordinação jurídica. A questão dizia interrompido e ainda que não haja subordinação. Errado.
+THALITA: E a D, da aposentadoria?
+FRANCISCA: A Súmula cento e sessenta diz que cancelada a aposentadoria por invalidez, o trabalhador tem direito de retornar ao emprego, mesmo após cinco anos, facultada ao empregador a indenização. Não perde o direito de retorno.
+BRUNO: Finalmente a E, do lay-off. Ele dura de dois a cinco meses, exige previsão em convenção ou acordo coletivo e aquiescência formal do empregado, artigo quatrocentos e setenta e seis-A. Seis meses sem norma coletiva, não.
+THALITA: Macete: trinta dias na suspensão disciplinar, dois a cinco meses no lay-off.
+== SLIDE: Questão 7: justa causa do artigo 482
+* Alínea d: condenação criminal transitada, sem suspensão da pena
+* Alínea m: perda de habilitação exige conduta dolosa
+* Alínea j: ato lesivo contra colega, no serviço
+* Súmula 32: 30 dias para presumir abandono
+ANTONIO: Questão sete. Nos termos do artigo quatrocentos e oitenta e dois e da jurisprudência do TST, o que constitui justa causa? A fala da perda de habilitação independentemente de dolo ou culpa. B fala do ato lesivo da honra contra colega, desde que fora do serviço. C fala da condenação criminal transitada em julgado, sem suspensão da execução da pena. D fala da negociação por conta própria, ainda que eventual e autorizada. E fala do não retorno em quinze dias após a alta, com presunção de abandono.
+THALITA: Pausa para você pensar. Eu diria A, porque perder a habilitação é grave, né?
+BRUNO: É grave, mas a alínea m do artigo quatrocentos e oitenta e dois exige que a perda decorra de conduta dolosa do empregado. Se foi um acidente sem dolo, não é justa causa. A letra A, portanto, está errada.
+FRANCISCA: A letra B também erra um elemento. A alínea j trata do ato lesivo da honra ou da boa fama praticado no serviço contra qualquer pessoa. Se for fora do serviço, a regra muda: só há justa causa se for contra o empregador ou superiores hierárquicos, e salvo em legítima defesa.
+ANTONIO: Gabarito é a C: a alínea d, condenação criminal do empregado, passada em julgado, caso não tenha havido suspensão da execução da pena. É a literalidade.
+THALITA: E a D, da negociação?
+BRUNO: A alínea c exige que seja habitual e sem permissão do empregador. Na D, a negociação é eventual e autorizada. Então não é justa causa. Cuidado com palavras como "ainda que" em alternativas de justa causa: elas costumam inverter o requisito.
+FRANCISCA: Por fim, a E. A Súmula trinta e dois do TST presume abandono quando o empregado não retorna em trinta dias após a alta previdenciária. Quinze não basta.
+THALITA: Macete: dolo na habilitação, habitual na negociação, trinta dias no abandono.
+ANTONIO: E condenação com pena suspensa, não: aí não há justa causa.
+== SLIDE: Questão 8: rescisão indireta e permanência no serviço
+* Art. 483, d e § 3º: pode permanecer no serviço até a decisão
+* Alíneas d e g permitem permanecer; ofensa física, não
+* Aviso prévio é devido (art. 487, § 4º)
+* Multa de 40% do FGTS, não 20%
+BRUNO: Questão oito, Oficial de Justiça. Gustavo recebe salários com atraso reiterado, e o FGTS não é depositado. Quer pedir rescisão indireta. A diz que ele deve se afastar ao ajuizar a ação, sob pena de perdão tácito. B diz que ele pode pedir a rescisão e as indenizações, permanecendo ou não no serviço até a decisão final. C diz que só pode permanecer se houver ofensa física. D diz que não tem aviso prévio. E diz que terá indenização de vinte por cento sobre o FGTS.
+THALITA: Pausa para você pensar. Eu pensaria que ele precisa sair, senão parece que perdoou a empresa.
+FRANCISCA: É o pensamento intuitivo, mas o artigo quatrocentos e oitenta e três, parágrafo terceiro, permite que o empregado permaneça no serviço no caso da alínea d, que é o descumprimento de obrigações do contrato, como salário atrasado e FGTS não depositado. Pode ficar ou sair até a decisão. Então a A está errada.
+ANTONIO: A B é o gabarito, justamente porque traz as duas possibilidades.
+THALITA: E a C, de só poder ficar se for ofensa física?
+BRUNO: Ao contrário. Em ofensa física, que é a alínea f, o empregado não permanece. A permanência é admitida nas alíneas d e g. Essa é a pegadinha: a C inverte.
+FRANCISCA: A D é erro de lógica. Mesmo que a iniciativa seja do empregado, a culpa é do empregador. Por isso o aviso prévio é devido, na forma do artigo quatrocentos e oitenta e sete, parágrafo quarto. O raciocínio é: o empregador deu causa.
+ANTONIO: E a E trocou o percentual. Na rescisão indireta, a multa do FGTS é de quarenta por cento, como na dispensa sem justa causa. Vinte por cento é na culpa recíproca, na força maior e no acordo.
+THALITA: Macete: rescisão indireta é tratada como dispensa sem justa causa: aviso e quarenta por cento.
+BRUNO: E lembre das alíneas d e g para permanecer: salário e FGTS, e redução do trabalho que afete a remuneração.
+== SLIDE: Questão 9: extinção por acordo do artigo 484-A
+* Aviso prévio indenizado: metade
+* Multa do FGTS: 20%
+* Saque limitado a 80% dos depósitos
+* Sem seguro-desemprego (art. 484-A, § 2º)
+FRANCISCA: Questão nove. Vera e a empresa extinguiram o contrato por acordo, pelo artigo quatrocentos e oitenta e quatro-A, com aviso prévio indenizado. A diz que ela recebe o aviso integral e vinte por cento de multa, com saque total. B diz que recebe metade de todas as verbas, saca oitenta por cento e entra no seguro-desemprego. C diz que recebe metade do aviso e quarenta por cento de multa, sem seguro. D diz que recebe metade do aviso e da multa, saca tudo e recebe metade do seguro. E diz que o aviso e a multa são pela metade, as demais verbas integrais, saque de oitenta por cento e sem seguro-desemprego.
+THALITA: Pausa para você pensar. Eu lembro de metade e oitenta por cento, mas me confundo com o seguro.
+BRUNO: Vamos por partes. No acordo, só o aviso prévio indenizado e a multa do FGTS são pela metade. As demais verbas, como saldo de salário, décimo terceiro e férias proporcionais, são integrais.
+ANTONIO: O saque do FGTS é limitado a oitenta por cento do saldo. E o parágrafo segundo do artigo quatrocentos e oitenta e quatro-A diz que a extinção por acordo não autoriza o ingresso no Programa de Seguro-Desemprego.
+FRANCISCA: Agora é eliminar. A letra A erra duas vezes: o aviso não é integral, e o saque não é total. A letra B diz metade de todas as verbas, errado, e ainda dá seguro. A letra C erra a multa, que cai para vinte por cento. A letra D erra o saque e o seguro.
+THALITA: E a E é o gabarito.
+BRUNO: Exato, é a reprodução dos incisos primeiro e segundo e dos parágrafos primeiro e segundo.
+THALITA: Macete do acordo: metade do aviso e da multa, oitenta no saque, zero de seguro.
+ANTONIO: E repare que o aviso indenizado pela metade é só quando o aviso é indenizado. Se for trabalhado, é o normal.
+FRANCISCA: Boa lembrança.
+== SLIDE: Questão 10: verbas de férias e culpa recíproca
+* Justa causa: férias vencidas sim, proporcionais não (Súmula 171)
+* Pedido de demissão: proporcionais devidas (Súmula 261)
+* Culpa recíproca: 50% das verbas (Súmula 14)
+* Multa do FGTS na culpa recíproca: 20%
+BRUNO: Questão dez, a última deste segmento. Item um: dispensado por justa causa com um ano e cinco meses tem direito às férias vencidas acrescidas de um terço, mas não às proporcionais. Item dois: quem pede demissão com sete meses não tem direito a férias proporcionais. Item três: na culpa recíproca, tem direito a cinquenta por cento do aviso, do décimo terceiro e das férias proporcionais. Item quatro: na culpa recíproca, a multa do FGTS é de quarenta por cento. Quais estão corretos?
+THALITA: Pausa para você pensar. O item dois eu consigo derrubar. Quem pede demissão tem direito às proporcionais, certo?
+ANTONIO: Certo, e a Súmula duzentos e sessenta e um do TST assegura isso mesmo ao empregado com menos de um ano de serviço. Então o item dois está errado.
+FRANCISCA: O item um está correto. As férias vencidas são direito adquirido, e a justa causa só exclui as proporcionais, conforme a Súmula cento e setenta e um. O item três também está correto: na culpa recíproca a Súmula catorze reduz pela metade o aviso prévio, o décimo terceiro e as férias proporcionais.
+BRUNO: O item quatro é pegadinha de percentual. Na culpa recíproca, a multa do FGTS é de vinte por cento, pelo artigo dezoito, parágrafo segundo, da Lei oito mil e trinta e seis. Errado.
+THALITA: Então estão certos o um e o três. Letra D.
+BRUNO: Isso. Veja as outras. A letra A traz um e dois, e o dois está errado. A letra B traz dois e quatro, os dois errados. A letra C traz três e quatro, o quatro está errado. A letra E inclui o quatro.
+ANTONIO: Eliminar o item quatro derruba duas alternativas de uma vez, e o item dois derruba outras duas. Sobra a D.
+FRANCISCA: Macete da culpa recíproca: tudo pela metade, inclusive a multa, que vira vinte.
+THALITA: Vamos para a segunda parte das questões, já com a cabeça aquecida.

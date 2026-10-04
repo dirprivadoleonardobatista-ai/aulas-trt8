@@ -1,0 +1,40 @@
+SEGMENTO s151
+== SLIDE: Questão 11: aviso prévio proporcional
+* Aviso: 30 dias mais 3 por ano completo (Lei 12.506)
+* 12 anos e 9 meses: 66 dias, fração não conta
+* Redução de 2 horas diárias ou falta por 7 dias, a escolha do empregado
+* Máximo de 90 dias só com 20 anos de serviço
+ANTONIO: Vamos retomar de onde paramos. Questão onze: Lúcia, com doze anos e nove meses de serviço, foi dispensada sem justa causa com aviso trabalhado. A diz que o aviso é de sessenta e seis dias, com redução de duas horas por dia, e facultada a ela a falta de sete dias corridos. B diz sessenta e nove dias, contando a fração. C diz sessenta e seis dias, com escolha do empregador. D diz noventa dias. E diz sessenta e seis dias e que, se ela pedisse demissão, daria aviso de igual duração.
+THALITA: Pausa para você pensar. Eu faria trinta dias mais três por ano. Doze anos dá trinta e seis, mais trinta, sessenta e seis. Então a B está fora, porque conta o ano quebrado?
+FRANCISCA: Exatamente. A Lei doze mil quinhentos e seis, de dois mil e onze, soma três dias por ano completo de serviço. Nove meses não completam um ano, então não geram acréscimo. Sessenta e seis dias.
+BRUNO: A C erra no sujeito. Durante o aviso trabalhado, é o empregado quem escolhe: ou reduz duas horas por dia, ou falta sete dias corridos no fim, conforme o parágrafo único do artigo quatrocentos e oitenta e oito. O empregador não escolhe.
+ANTONIO: A D mistura limite. O teto de noventa dias só é atingido com vinte anos de serviço: trinta mais três vezes vinte, que são sessenta, noventa.
+THALITA: E a E, de que se ela pedisse demissão, daria aviso igual?
+FRANCISCA: Errada. A proporcionalidade só beneficia o empregado. Se o empregado pede demissão, o aviso que ele deve é de trinta dias. Então a letra A é o gabarito.
+BRUNO: Dica: a FCC mistura anos completos com fração, e mistura quem escolhe entre a redução e a falta.
+== SLIDE: Questão 12: súmulas sobre aviso prévio
+* Súmula 73: abandono no aviso, sem verbas indenizatórias
+* Súmula 230: substituição da redução pelo pagamento é ilegal
+* Súmula 276: direito irrenunciável, salvo novo emprego
+* Súmula 348 e Súmula 380: garantia e contagem
+THALITA: Questão doze, Técnico Judiciário, só com súmulas do aviso prévio. A diz que a justa causa no aviso, inclusive abandono, tira qualquer verba indenizatória. B diz que é válido substituir a redução pelo pagamento das horas com adicional de horas extras. C diz que o direito é irrenunciável e que o pedido de dispensa não exime o empregador do pagamento, salvo novo emprego. D diz que vale o aviso na fluência da garantia de emprego, se indenizado. E diz que na contagem inclui-se o dia do começo e exclui-se o do vencimento. Pausa para pensar.
+BRUNO: Vamos de baixo para cima. A E inverte a regra de contagem. A Súmula trezentos e oitenta diz que se exclui o dia do começo e se inclui o do vencimento. É o padrão do prazo em dias.
+FRANCISCA: A D contraria a Súmula trezentos e quarenta e oito, que declara inválida a concessão do aviso na fluência da garantia de emprego, ainda que indenizado. Lembra do que vimos na aula: o aviso só serve para dispensa válida.
+ANTONIO: A B contraria a Súmula duzentos e trinta, que considera ilegal substituir a redução da jornada pelo pagamento das horas correspondentes, com ou sem adicional.
+THALITA: E a A, do abandono?
+BRUNO: A Súmula setenta e três traz uma regra: a justa causa no aviso retira as verbas rescisórias de natureza indenizatória, mas ressalva expressamente o abandono de emprego. A alternativa errou ao incluir o abandono.
+ANTONIO: Sobra a C, gabarito, que é a literalidade da Súmula duzentos e setenta e seis: o direito é irrenunciável pelo empregado, e o pedido de dispensa de cumprimento não exime o empregador de pagar o valor, salvo comprovação de novo emprego.
+THALITA: Macete do aviso: cinco súmulas, setenta e três, duzentos e trinta, duzentos e setenta e seis, trezentos e quarenta e oito, trezentos e oitenta.
+FRANCISCA: Lembre das ideias, mais que dos números: abandono ressalvado, horas não se trocam por dinheiro, novo emprego dispensa o pagamento, garantia bloqueia aviso, e dia do começo sai.
+== SLIDE: Questões 13 e 14: gestante e garantias provisórias
+* Questão 13: gestante em contrato de experiência
+* Desconhecimento do empregador é irrelevante (Súmula 244, I)
+* Ação depois do período não é abuso (OJ 399)
+* Questão 14: Súmulas 369, 339 e 379
+BRUNO: Questão treze. Paula tinha contrato de experiência de noventa dias e foi dispensada no termo final. Duas semanas depois descobriu que já estava grávida na dispensa, fato que o empregador desconhecia. Ajuizou ação oito meses após o parto. A diz que não há garantia no contrato a prazo. B diz que ela tem salários e demais direitos do período, da dispensa até cinco meses após o parto, sem reintegração, e que a demora não é abuso. C diz que tem direito à reintegração. D diz que sem conhecimento do empregador não há garantia. E diz que a ação tardia configura abuso. Pausa para pensar.
+FRANCISCA: A letra A cai com a Súmula duzentos e quarenta e quatro, item três. A D cai com o item um e com o Tema quatrocentos e noventa e sete do STF: o desconhecimento é irrelevante. A C erra porque, exaurido o período, só se pagam os salários, pelo item dois da Súmula duzentos e quarenta e quatro e pela Súmula trezentos e noventa e seis. A E cai com a Orientação Jurisprudencial trezentos e noventa e nove. O gabarito é a B.
+THALITA: Questão catorze, sobre garantias provisórias. A diz que o dirigente sindical não tem limite numérico. B diz que a candidatura no aviso indenizado assegura estabilidade. C diz que o suplente da CIPA não tem garantia. D diz que o dirigente só pode ser dispensado por falta grave apurada em inquérito judicial. E diz que, extinto o estabelecimento, o cipeiro tem indenização do período restante.
+ANTONIO: Vamos eliminando. A letra A: a Súmula trezentos e sessenta e nove, item dois, limita a sete dirigentes e sete suplentes. A letra B: o item cinco da mesma súmula diz que a candidatura no aviso, ainda que indenizado, não assegura estabilidade. A letra C: a Súmula trezentos e trinta e nove, item um, garante ao suplente a mesma garantia.
+BRUNO: A letra E: o item dois da Súmula trezentos e trinta e nove diz que, extinto o estabelecimento, a indenização é indevida. Sobra a D, que é literalidade da Súmula trezentos e setenta e nove.
+THALITA: Então, resumo relâmpago do que mais cai na FCC desta aula. Inquérito de falta grave só para o decenal e o dirigente sindical, em trinta dias, prazo decadencial. Dirigente sindical: da candidatura até um ano após o mandato, sete mais sete, candidatura no aviso não vale. Cipeiro: só o eleito, sem inquérito, e fechou o estabelecimento, nem reintegração nem indenização. Gestante: da concepção até cinco meses após o parto, mesmo sem o empregador saber, e vale em contrato a termo. Acidentado: doze meses após a alta, com mais de quinze dias de afastamento. E fora do período, nunca reintegração, só salários.
+ANTONIO: Excelente, Thalita. Fechamos a aula quarenta e três. Bons estudos, e até a próxima aula!
