@@ -1,0 +1,139 @@
+SEGMENTO s043
+== SLIDE: Questão 1: características dos direitos humanos
+* Item 1 correto: indivisibilidade, sem hierarquia entre civis e sociais
+* Item 2 falso: a pretensão patrimonial prescreve (art. 7º, XXIX, CF)
+* Item 3 correto: relatividade; nenhum direito é absoluto (MS 23.452)
+* Item 4 falso: Viena considera particularidades nacionais e regionais
+* Gabarito: C
+ANTONIO: Terminada a teoria, vamos treinar com questões no estilo da FCC. Questão um. Acerca das características dos direitos humanos, considere. Item um: a indivisibilidade impede hierarquia entre direitos civis e políticos e direitos econômicos, sociais e culturais. Item dois: a imprescritibilidade impede que o tempo extinga a pretensão de reparação patrimonial decorrente da violação de um direito humano. Item três: a relatividade indica que, em regra, os direitos humanos podem sofrer limitações, sobretudo em colisão com outros direitos. Item quatro: a universalidade, na Declaração de Viena de mil novecentos e noventa e três, exclui qualquer consideração de particularidades nacionais e regionais.
+BRUNO: As alternativas: A, um, dois e três. B, dois e quatro. C, um e três. D, três e quatro. E, todos. Pausa para você pensar.
+THALITA: Eu iria na A. A imprescritibilidade parece correta, porque direito humano não prescreve.
+FRANCISCA: É a pegadinha típica. A imprescritibilidade atinge o direito em si, e não a pretensão patrimonial, que prescreve, como os créditos trabalhistas, artigo sétimo, inciso vinte e nove. Então o item dois é falso, e a A cai.
+BRUNO: O item quatro também é falso. Viena afirma que as particularidades nacionais e regionais devem ser levadas em consideração, sem que isso autorize violar direitos. Universalidade não exclui particularidades.
+ANTONIO: Os itens um e três estão corretos. Indivisibilidade significa que os direitos formam um todo, sem hierarquia. E relatividade significa que nenhum direito é absoluto, como decidiu o STF no Mandado de Segurança vinte e três mil quatrocentos e cinquenta e dois.
+THALITA: Então a B, dois e quatro, são justamente as falsas?
+FRANCISCA: Exato, a B reúne as duas falsas. A D inclui o quatro, falso. A E inclui os dois falsos. Só a C, um e três, está correta.
+BRUNO: Lembrem: imprescritibilidade é do direito, não da pretensão patrimonial.
+THALITA: Macete: indivisível não tem hierarquia; relativo não é absoluto; pretensão patrimonial prescreve. Gabarito C.
+== SLIDE: Questão 2: gerações de direitos
+* Classificação de Karel Vasak (1979), não de Bobbio
+* 1ª geração: abstenção; 2ª geração: prestações positivas
+* Gerações se acumulam; por isso "dimensões"
+* Trabalhistas e previdenciários: 2ª geração
+* Meio ambiente: 3ª geração (MS 22.164); gabarito E
+FRANCISCA: Questão dois, de Técnico Judiciário. A respeito das gerações de direitos humanos, é correto afirmar: A, a classificação foi formulada por Bobbio, que associou cada geração a um ideal da Revolução Francesa. B, os direitos de segunda geração exigem abstenção do Estado, e os de primeira exigem prestações positivas. C, os direitos de uma nova geração substituem os da anterior, por isso se prefere a expressão gerações. D, os direitos trabalhistas e previdenciários são exemplos típicos de primeira geração. E, o meio ambiente equilibrado é típico direito de terceira geração, de titularidade coletiva, fundado na solidariedade.
+THALITA: Eu marcaria a A. Conheço Bobbio como o autor de tudo que é teoria dos direitos.
+BRUNO: Bobbio é lembrado pela quarta geração, ligada à engenharia genética. A classificação é de Karel Vasak, de mil novecentos e setenta e nove. Essa é a pegadinha da autoria.
+ANTONIO: A B inverteu. Na primeira geração o Estado se abstém, porque são as liberdades. Na segunda, há prestações positivas.
+THALITA: E a C? Gerações substituem as anteriores?
+FRANCISCA: Não, elas se acumulam. Por isso a doutrina prefere o termo dimensões. A palavra gerações sugere sucessão, o que é impróprio.
+BRUNO: A D é outra troca clássica. Direitos trabalhistas e previdenciários são de segunda geração, ligados à igualdade, e não de primeira.
+ANTONIO: A E é a correta, conforme o STF no Mandado de Segurança vinte e dois mil cento e sessenta e quatro: meio ambiente é direito de terceira geração, difuso, fundado na solidariedade, ou fraternidade.
+THALITA: Macete: primeira, liberdade, abstenção; segunda, igualdade, prestação; terceira, fraternidade, meio ambiente. Gabarito E.
+== SLIDE: Questão 3: prisão do depositário judicial
+* Convenção Americana é supralegal e paralisa a lei que regulava a prisão
+* SV 25: ilícita a prisão do depositário infiel, qualquer modalidade
+* Súmula 419 do STJ: depositário judicial
+* Inciso LXVII não foi declarado inconstitucional
+* Gabarito: A
+ANTONIO: Questão três. Bruno, depositário judicial de bens penhorados em execução trabalhista, deixou de restituí-los quando intimado, e o exequente pediu sua prisão civil. Segundo o STF: A, a prisão é ilícita, pois a Convenção Americana, de status supralegal, paralisou a legislação que disciplinava a prisão do depositário infiel, qualquer que seja a modalidade do depósito. B, é lícita, pois a vedação alcança apenas o depósito contratual. C, é ilícita, pois o STF declarou inconstitucional o trecho do artigo quinto, inciso sessenta e sete, sobre o depositário infiel. D, é ilícita, pois a Convenção foi aprovada pelo rito do parágrafo terceiro e tem status de emenda. E, é lícita, pois tratados de direitos humanos têm hierarquia de lei ordinária.
+THALITA: Eu iria na B. O depósito judicial é diferente do contratual, não é?
+BRUNO: Não para efeito de prisão. A Súmula Vinculante vinte e cinco abrange todas as modalidades, inclusive o depósito judicial, e a Súmula quatrocentos e dezenove do STJ trata do depositário judicial.
+FRANCISCA: A letra A é a correta. É a tese da supralegalidade, no Recurso Extraordinário quatrocentos e sessenta e seis mil trezentos e quarenta e três e no Habeas Corpus oitenta e sete mil quinhentos e oitenta e cinco.
+ANTONIO: A C é falsa porque o inciso sessenta e sete não foi declarado inconstitucional. A Constituição permite, mas não impõe, a prisão, e a legislação que a regulamentava teve a eficácia paralisada.
+THALITA: E a D? Convenção Americana com status de emenda?
+FRANCISCA: A Convenção, Decreto seiscentos e setenta e oito de noventa e dois, é anterior à Emenda quarenta e cinco e não passou pelo rito do parágrafo terceiro. É supralegal.
+BRUNO: A E usa a posição velha. A paridade com a lei ordinária, do Recurso Extraordinário oitenta mil e quatro, foi superada em dois mil e oito para tratados de direitos humanos.
+THALITA: Macete: supralegal, paralisa a lei, vale para qualquer depósito. Gabarito A.
+== SLIDE: Questão 4: quórum do artigo 5º, § 3º
+* Em cada Casa do Congresso, em dois turnos
+* Três quintos dos votos dos respectivos membros
+* Não há sessão conjunta
+* Reproduz o quórum do art. 60, § 2º, da CF
+* Gabarito: D
+FRANCISCA: Questão quatro. Pelo artigo quinto, parágrafo terceiro, os tratados de direitos humanos serão equivalentes às emendas constitucionais se forem aprovados: A, em sessão conjunta, em dois turnos, por três quintos dos membros. B, em cada Casa, em turno único, por maioria absoluta. C, em cada Casa, em dois turnos, por dois terços. D, em cada Casa, em dois turnos, por três quintos dos membros. E, pelo Senado, em dois turnos, por três quintos dos presentes, após ratificação do Presidente da República. Pensem.
+THALITA: Eu chuto a C, dois terços, que é o quórum que me lembro de reforma da Constituição.
+ANTONIO: Boa tentativa, mas a emenda constitucional exige três quintos, artigo sessenta, parágrafo segundo. O parágrafo terceiro reproduz esse quórum, por isso fala em equivalência a emenda.
+BRUNO: A resposta é D. A A erra por falar em sessão conjunta: a votação ocorre em cada Casa, separadamente. A B erra duas vezes: são dois turnos e três quintos, e não turno único e maioria absoluta.
+FRANCISCA: A E mistura tudo. Exige-se aprovação das duas Casas, pelo voto de três quintos dos membros, e não dos presentes. O Senado sozinho não basta.
+THALITA: Então a diferença entre membros e presentes é importante?
+ANTONIO: Muito. Três quintos dos membros é número fixo, que independe de quantos estão no plenário. Três quintos dos presentes depende da presença.
+BRUNO: A banca adora trocar esse detalhe. Marque sempre: membros.
+FRANCISCA: E o parágrafo terceiro foi incluído pela Emenda quarenta e cinco, de dois mil e quatro.
+THALITA: Macete: dois turnos, três quintos, cada Casa. Gabarito D.
+== SLIDE: Questão 5: tratados com status de emenda
+* Convenção sobre Pessoas com Deficiência: Decreto 6.949/2009
+* Tratado de Marraqueche: Decreto 9.522/2018
+* Convenção contra o Racismo: Decreto 10.932/2022
+* Pacto de San José e PIDESC: supralegais
+* Gabarito: B
+ANTONIO: Questão cinco. Considere os tratados. Item um: Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo. Item dois: Convenção Americana, o Pacto de San José. Item três: Tratado de Marraqueche, para o acesso a obras publicadas por pessoas cegas. Item quatro: Convenção Interamericana contra o Racismo. Item cinco: Pacto de Direitos Econômicos, Sociais e Culturais. Quais foram aprovados pelo procedimento do parágrafo terceiro, com equivalência a emendas? A, um, dois e três. B, um, três e quatro. C, dois, quatro e cinco. D, um e quatro. E, todos.
+THALITA: Eu iria na E, porque são todos de direitos humanos.
+BRUNO: Direitos humanos, sim, mas só os aprovados pelo rito qualificado têm status de emenda. O Pacto de San José e o Pacto Social são anteriores à Emenda quarenta e cinco e são supralegais.
+FRANCISCA: Por isso a A erra, porque inclui o Pacto de San José, e a C erra, porque inclui o Pacto de San José e o Pacto Social. A E erra pelos itens dois e cinco.
+ANTONIO: A letra B é a correta. A Convenção da Pessoa com Deficiência, Decreto seis mil novecentos e quarenta e nove de dois mil e nove, o Tratado de Marraqueche, Decreto nove mil quinhentos e vinte e dois de dois mil e dezoito, e a Convenção Interamericana contra o Racismo, Decreto dez mil novecentos e trinta e dois de dois mil e vinte e dois.
+THALITA: E a D? Só deficiência e racismo.
+BRUNO: A D omite o Tratado de Marraqueche. É a omissão que a banca usa para derrubar quem lembra só de dois tratados.
+FRANCISCA: Guardem o trio: deficiência, Marraqueche e racismo.
+THALITA: Macete: DE-MA-RA: Deficiência, Marraqueche, Racismo. Gabarito B.
+== SLIDE: Questão 6: controle de convencionalidade
+* Difuso: qualquer juiz, até de ofício; paradigma: qualquer tratado de DH
+* Concentrado: STF; paradigma: tratados com rito do § 3º
+* Tratado comum não é paradigma
+* Lei de Anistia: ADPF 153 e Gomes Lund
+* Gabarito: C
+FRANCISCA: Questão seis. Sobre o controle de convencionalidade, conforme a doutrina majoritária: A, só o STF pode realizá-lo, pelas ações do controle concentrado, com paradigma em qualquer tratado ratificado pelo Brasil. B, tratados de status supralegal servem de paradigma ao controle concentrado, por ADI. C, o controle difuso pode ser exercido por qualquer juiz ou tribunal, inclusive de ofício, com paradigma tanto nos tratados supralegais quanto nos equivalentes a emendas. D, tratados comuns servem de paradigma tanto para o difuso quanto para o concentrado. E, a decisão do STF que reconhece a compatibilidade de uma lei com a Constituição impede a Corte Interamericana de considerá-la incompatível com a Convenção. Pausa.
+THALITA: Eu fico entre B e C. Supralegal me parece um tipo de paradigma forte.
+ANTONIO: Forte, mas só no controle difuso. O controle concentrado, no STF, tem como paradigma apenas os tratados aprovados pelo rito do parágrafo terceiro, equivalentes a emenda. Por isso a B está errada.
+BRUNO: A C é a correta. É a classificação de Valerio Mazzuoli. O dever de exercer o controle de ofício vem da Corte Interamericana, no caso Trabajadores Cesados del Congreso contra o Peru, de dois mil e seis.
+FRANCISCA: A A erra duas vezes: há controle difuso por qualquer juiz, e o paradigma são os tratados de direitos humanos, não qualquer tratado.
+THALITA: E a D? Tratado comum não serve?
+ANTONIO: Tratados comuns têm status de lei ordinária e não são paradigma de convencionalidade. A antinomia se resolve pelos critérios clássicos.
+BRUNO: A E é a mais traiçoeira. Os controles são distintos. A Lei de Anistia foi validada pelo STF, na ADPF cento e cinquenta e três, e considerada sem efeitos pela Corte Interamericana, em Gomes Lund contra o Brasil.
+THALITA: Macete: supralegal, só difuso; emenda, concentrado e difuso; tratado comum, nada. Gabarito C.
+== SLIDE: Questão 7: Declaração Universal de 1948
+* Resolução da Assembleia Geral: não é tratado
+* 48 votos a favor, nenhum contra, 8 abstenções
+* Direitos civis, políticos, econômicos, sociais e culturais
+* Prevê deveres (art. 29); asilo não vale para crimes comuns
+* Gabarito: D
+ANTONIO: Questão sete, de Técnico. A Declaração Universal dos Direitos Humanos, de mil novecentos e quarenta e oito: A, foi aprovada como tratado pela Assembleia Geral, por unanimidade, e submetida à ratificação dos Estados. B, contém apenas direitos civis e políticos, e os sociais só foram reconhecidos pelo Pacto de mil novecentos e sessenta e seis. C, instituiu o Comitê de Direitos Humanos, competente para receber petições individuais. D, foi adotada por resolução, sem votos contrários, e, embora não seja tratado, é reconhecida como expressão do costume internacional, contendo também deveres da pessoa para com a comunidade. E, prevê a abolição da pena de morte e o direito de asilo em qualquer perseguição, inclusive por crimes comuns.
+THALITA: Eu iria na A. Declaração universal, por unanimidade, parece bonito.
+BRUNO: Mas foram oito abstenções, não unanimidade. E é resolução, a duzentos e dezessete A, três, e não tratado. Não houve ratificação.
+FRANCISCA: A B está errada porque a Declaração reúne direitos civis e políticos, artigos terceiro a vinte e um, e econômicos, sociais e culturais, artigos vinte e dois a vinte e sete.
+ANTONIO: A C erra a origem. O Comitê de Direitos Humanos foi criado pelo Pacto Civil, artigo vinte e oito. A Declaração não cria órgão de monitoramento.
+THALITA: Então a D é a certa: sem votos contrários, costume e deveres.
+FRANCISCA: Isso. Quarenta e oito votos a favor, nenhum contra, força vinculante como costume, e deveres no artigo vinte e nove.
+BRUNO: A E tem duas falhas. A Declaração não trata da abolição da pena de morte, e o asilo do artigo catorze não pode ser invocado em perseguição motivada por crimes de direito comum.
+THALITA: Macete: Declaração é resolução, forte como costume, com direitos e deveres. Gabarito D.
+== SLIDE: Questão 8: direitos inderrogáveis no Pacto Civil
+* Art. 4º: derrogação em emergência oficialmente proclamada
+* Inderrogáveis: 6, 7, 8 (§§ 1º e 2º), 11, 15, 16 e 18
+* Trabalho forçado (art. 8º, § 3º): derrogável
+* Expressão, reunião e circulação: derrogáveis
+* Gabarito: A
+FRANCISCA: Questão oito. Pelo Pacto de Direitos Civis e Políticos, Decreto quinhentos e noventa e dois de noventa e dois, em situação excepcional que ameace a existência da nação, oficialmente proclamada, o Estado pode suspender obrigações do Pacto. Entretanto, não pode ser suspenso o direito: A, a não ser preso apenas por não poder cumprir obrigação contratual. B, à liberdade de expressão. C, de não ser obrigado a executar trabalhos forçados. D, de reunião pacífica. E, à liberdade de circulação e de escolha de residência.
+THALITA: Eu iria na C. Trabalho forçado parece o mais grave.
+BRUNO: É a pegadinha clássica! Só os parágrafos primeiro e segundo do artigo oitavo, escravidão e servidão, são inderrogáveis. O trabalho forçado, do parágrafo terceiro, não está no rol.
+ANTONIO: A resposta é A. O artigo onze, proibição de prisão por inadimplemento contratual, integra o rol do artigo quarto, número dois, que reúne os artigos seis, sete, oito, parágrafos primeiro e segundo, onze, quinze, dezesseis e dezoito.
+FRANCISCA: As demais são derrogáveis. A liberdade de expressão, artigo dezenove, a reunião, artigo vinte e um, e a circulação, artigo doze.
+THALITA: Então a lista é: vida, tortura, escravidão e servidão, prisão contratual, legalidade penal, personalidade jurídica e religião.
+BRUNO: Perfeito. Seis, sete, oito um e dois, onze, quinze, dezesseis e dezoito.
+ANTONIO: E essa prisão por dívida contratual foi a base, junto da Convenção Americana, da Súmula Vinculante vinte e cinco.
+THALITA: Macete: seis, sete, oito, onze, quinze, dezesseis, dezoito. Fora: trabalho forçado, expressão, reunião, devido processo. Gabarito A.
+== SLIDE: Questão 9: Pacto de Direitos Econômicos, Sociais e Culturais
+* Realização progressiva até o máximo dos recursos disponíveis (art. 2º, 1)
+* Comitê DESC criado pelo ECOSOC (1985)
+* Art. 8º prevê o direito de greve conforme as leis nacionais
+* Status supralegal; Decreto 591/1992
+* Gabarito: E
+ANTONIO: Questão nove, a última deste bloco. Sobre o Pacto de Direitos Econômicos, Sociais e Culturais, Decreto quinhentos e noventa e um: A, o cumprimento é fiscalizado pelo Comitê de Direitos Humanos, criado pelo Pacto, com dezoito membros. B, os Estados garantem imediata e integralmente todos os direitos, independentemente dos recursos. C, o Pacto não prevê o direito de greve. D, foi aprovado pelo rito do parágrafo terceiro, com status de emenda. E, os Estados adotam medidas, até o máximo dos recursos disponíveis, para assegurar progressivamente o pleno exercício dos direitos, e o Comitê DESC foi instituído por resolução do Conselho Econômico e Social da ONU.
+THALITA: Eu iria na B. Direito é direito, tem que garantir já.
+FRANCISCA: No Pacto Social a obrigação é de realização progressiva, artigo segundo, número um, sem prejuízo de obrigações imediatas, como a não discriminação. A garantia imediata é do Pacto Civil.
+BRUNO: A A mistura os Comitês. O Comitê de Direitos Humanos monitora o Pacto Civil. O Comitê DESC foi criado pelo ECOSOC, pela Resolução de mil novecentos e oitenta e cinco barra dezessete.
+ANTONIO: A C erra o conteúdo: o artigo oitavo prevê o direito de greve, exercido de conformidade com as leis de cada país. E a D erra o status: o Pacto, de mil novecentos e noventa e dois, é anterior à Emenda quarenta e cinco e tem status supralegal.
+THALITA: Então a E é a certa: progressividade e Comitê criado pelo ECOSOC.
+FRANCISCA: Isso. Reproduz a essência do artigo segundo, número um, e a origem do Comitê DESC.
+BRUNO: Lembrem do quadro comparativo: Civil, imediato e Comitê criado pelo Pacto; Social, progressivo e Comitê criado pelo ECOSOC.
+THALITA: Macete: Social é progressivo, Comitê do ECOSOC, greve prevista. Gabarito E.
+ANTONIO: Muito bem. No próximo segmento, resolvemos as últimas questões da aula.

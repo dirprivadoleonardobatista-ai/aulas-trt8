@@ -1,0 +1,43 @@
+SEGMENTO s044
+== SLIDE: Questão 10: comparação entre os Pactos
+* Autodeterminação: art. 1º de ambos os Pactos
+* 2º Protocolo do PIDCP: pena de morte; Protocolo do PIDESC (2008): petições
+* Progressividade é do PIDESC; obrigação imediata é do PIDCP
+* Decretos distintos: 592/1992 e 591/1992; status supralegal
+* Gabarito: B
+ANTONIO: Vamos às últimas questões. Questão dez. Comparando o Pacto Civil e o Pacto Social, é correto afirmar: A, apenas o Pacto Social consagra a autodeterminação dos povos. B, o Segundo Protocolo ao Pacto Civil trata da abolição da pena de morte, e o Protocolo ao Pacto Social, de dois mil e oito, instituiu petições individuais. C, o Pacto Civil adota a realização progressiva, e o Pacto Social impõe aplicação imediata. D, ambos foram promulgados pelo mesmo decreto e têm status de emenda. E, o Primeiro Protocolo ao Pacto Civil trata da abolição da pena de morte, e o Segundo, das comunicações interestatais.
+THALITA: Eu marcaria a A, porque lembro da autodeterminação no Pacto Social.
+BRUNO: Ela está nos dois, no artigo primeiro de cada Pacto. Por isso a A é falsa. A banca usa o ponto comum como pegadinha.
+FRANCISCA: A B é a correta. O Segundo Protocolo, de mil novecentos e oitenta e nove, trata da pena de morte. O Protocolo ao Pacto Social, de dois mil e oito, em vigor desde dois mil e treze, trata de petições individuais.
+THALITA: E a C? Parece trocar progressivo e imediato.
+ANTONIO: Exato, está invertida. Progressividade é do Pacto Social, artigo segundo, número um. A obrigação imediata, respeitar e garantir, é do Pacto Civil.
+BRUNO: A D tem dois erros. Os decretos são distintos, quinhentos e noventa e dois e quinhentos e noventa e um, e o status é supralegal.
+FRANCISCA: A E troca os protocolos. O Primeiro trata de petições individuais, o Segundo de pena de morte, e as comunicações interestatais estão no artigo quarenta e um do próprio Pacto Civil.
+THALITA: Macete: Primeiro Protocolo, petição; Segundo, pena de morte. Gabarito B.
+== SLIDE: Questão 11: proporcionalidade e revista íntima
+* Revista íntima: adequada, mas desnecessária
+* Adequação: o meio fomenta o fim?
+* Necessidade: há meio igualmente eficaz e menos gravoso?
+* Ordem subsidiária dos subprincípios
+* Gabarito: D
+FRANCISCA: Questão onze. A empresa Beta Sociedade Anônima, para prevenir furtos, instituiu revista íntima diária de seus empregados, com exigência de que se despissem diante de vigilantes. Carla ajuizou ação alegando violação à intimidade. Pela proporcionalidade de Alexy, o juiz concluiu que a medida, embora apta a coibir furtos, era inválida, porque a empresa dispunha de câmeras e etiquetas eletrônicas igualmente eficazes e menos gravosas. A medida foi reprovada no exame da: A, adequação, que verifica se existe meio menos gravoso. B, proporcionalidade em sentido estrito, que exige antes a demonstração de que o meio é desnecessário. C, concordância prática, que impõe o sacrifício integral do direito de menor peso. D, necessidade, que examina o meio alternativo igualmente eficaz e menos restritivo, após constatar a adequação. E, adequação e necessidade simultaneamente, sem ordem predefinida.
+THALITA: Eu iria na A. Ela é apta a coibir furtos, mas falei do meio menos gravoso.
+BRUNO: Cuidado. A adequação verifica apenas se o meio fomenta o fim. O teste do meio menos gravoso é o da necessidade. A FCC troca os dois justamente.
+ANTONIO: A letra D é a correta. A medida era adequada, porque apta a coibir furtos, mas desnecessária, porque havia meio igualmente eficaz e menos gravoso.
+FRANCISCA: A B erra: a proporcionalidade em sentido estrito só é examinada se a medida for necessária, e aqui a análise parou antes. A C erra: a concordância prática, de Hesse, busca preservar ao máximo os dois bens, evitando o sacrifício total.
+THALITA: E a E? Os subprincípios são examinados juntos?
+BRUNO: Não, a ordem é subsidiária. Primeiro adequação, depois necessidade, depois proporcionalidade estrita. E a medida foi considerada adequada, não reprovada nela.
+FRANCISCA: Além disso, a lei treze mil duzentos e setenta e um, de dois mil e dezesseis, proíbe revista íntima de funcionárias.
+THALITA: Macete: adequação é se serve; necessidade é se tem meio mais leve; sentido estrito é se compensa. Gabarito D.
+== SLIDE: Questão 12: interpretação de tratados e fechamento
+* Pro homine: prevalece o sentido mais protetivo
+* Evolutiva: leitura à luz das condições atuais
+* Efeito útil e autônoma são outras técnicas
+* Margem de apreciação é deferência ao Estado
+* Gabarito: A
+ANTONIO: Última questão. Um tribunal, ao aplicar tratado de direitos humanos, deparou-se com duas interpretações possíveis de uma cláusula, optou pela que conferia proteção mais ampla à pessoa e leu o dispositivo à luz das condições sociais atuais, e não da intenção original dos redatores. Aplicou, respectivamente, os critérios: A, pro homine e interpretação evolutiva. B, efeito útil e interpretação autônoma. C, margem de apreciação nacional e interpretação histórica. D, interpretação autônoma e literal. E, reserva do possível e efeito útil.
+THALITA: Eu iria na A. Mais protetivo é pro homine, e atual é evolutiva.
+FRANCISCA: Correto. Pro homine: prevalece o sentido mais protetivo, artigo vinte e nove da Convenção Americana. Evolutiva: os tratados são instrumentos vivos, lidos à luz das condições atuais.
+BRUNO: A B mistura outras técnicas. O efeito útil busca a máxima efetividade, e a autônoma dá aos termos sentido internacional próprio. A C é o oposto: margem de apreciação é deferência ao Estado, e a interpretação histórica privilegia a intenção original. A D usa a literalidade, que não resolveria a dúvida entre dois sentidos. E a E traz a reserva do possível, que é limite fático à efetivação de direitos prestacionais, não técnica interpretativa de tratados.
+THALITA: Então o resumo relâmpago do que mais cai: tratado com rito do parágrafo terceiro, três quintos, dois turnos, em cada Casa; só três tratados com status de emenda, deficiência, Marraqueche e racismo; os demais, inclusive Pacto de San José e os dois Pactos de sessenta e seis, são supralegais; prisão civil só de devedor de alimentos, Súmula Vinculante vinte e cinco; controle concentrado só com paradigma de emenda, difuso com qualquer tratado de direitos humanos; Declaração de quarenta e oito é resolução, mas costume; Pacto Civil, imediato, e Pacto Social, progressivo; inderrogáveis seis, sete, oito, onze, quinze, dezesseis e dezoito; e características: indivisível sem hierarquia, relativo, e pretensão patrimonial prescreve.
+ANTONIO: Excelente resumo, Thalita. Obrigado a todos e bons estudos, até a próxima aula!
