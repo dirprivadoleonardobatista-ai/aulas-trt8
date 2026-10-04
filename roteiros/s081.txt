@@ -1,0 +1,110 @@
+SEGMENTO s081
+== SLIDE: Questão 8: sanção, veto e iniciativa
+* Veto: 15 dias úteis; motivos ao Presidente do Senado em 48 horas
+* Veto parcial: texto integral de artigo, parágrafo, inciso ou alínea
+* Veto: sessão conjunta, 30 dias, maioria absoluta
+* Promulgação supletiva: Presidente do Senado
+* Gabarito: A
+ANTONIO: Seguimos com as questões, agora sobre processo legislativo, Executivo, controle e funções essenciais. Questão oito: sanção, veto e iniciativa. A: o Presidente, se considerar o projeto inconstitucional ou contrário ao interesse público, veta no prazo de quinze dias úteis e comunica em quarenta e oito horas ao Presidente do Senado os motivos. B: o veto parcial pode abranger palavras isoladas. C: o veto é apreciado em sessão separada de cada Casa, em quarenta e cinco dias, e só cai por três quintos. D: se a lei não for promulgada em quarenta e oito horas, nos casos de sanção tácita e derrubada do veto, o Presidente da Câmara promulga. E: é de iniciativa privativa do Presidente a matéria tributária em geral.
+THALITA: Pausa para pensar. Eu apostaria na C: três quintos parece cara de quórum.
+BRUNO: Errada. O veto é apreciado em sessão conjunta, em trinta dias, e só cai por maioria absoluta, artigo sessenta e seis, parágrafo quarto.
+FRANCISCA: A alternativa A é a correta, artigo sessenta e seis, parágrafo primeiro: quinze dias úteis para vetar e quarenta e oito horas para comunicar os motivos ao Presidente do Senado.
+THALITA: Mas na B dá para vetar só uma palavra? Achei que sim.
+ANTONIO: Não. O veto parcial abrange o texto integral de artigo, parágrafo, inciso ou alínea, parágrafo segundo.
+BRUNO: A D troca quem promulga. Se o Presidente não promulgar em quarenta e oito horas, a promulgação supletiva cabe ao Presidente do Senado e, depois, ao Vice-Presidente do Senado, parágrafo sétimo.
+FRANCISCA: A E também erra. Em matéria tributária, a iniciativa privativa do Presidente é só quanto aos Territórios, artigo sessenta e um, parágrafo primeiro, inciso dois, alínea b. O STF reconhece iniciativa parlamentar para leis tributárias, inclusive benefícios fiscais.
+THALITA: Macete: veto, sessão conjunta, trinta dias, maioria absoluta; promulgação supletiva, Senado. Gabarito A.
+== SLIDE: Questão 9: medida provisória
+* Eficácia: 60 dias, prorrogáveis uma vez (art. 62, §§ 3º e 7º)
+* Urgência: após 45 dias, tranca a pauta da Casa (art. 62, § 6º)
+* Vedada: direito processual civil e lei complementar
+* Reedição na mesma sessão legislativa: vedada
+* Gabarito: D
+ANTONIO: Questão nove. Segundo a Constituição, a medida provisória: A, pode tratar de direito processual civil, havendo relevância e urgência. B, perde eficácia desde a edição se não for convertida em quarenta e cinco dias, prorrogáveis uma vez. C, perdida a eficácia por decurso de prazo, pode ser reeditada na mesma sessão legislativa com redação diversa. D, entra em regime de urgência, em cada Casa, se não for apreciada em quarenta e cinco dias da publicação, sobrestando as demais deliberações da Casa. E, pode regular matéria de lei complementar se aprovada por maioria absoluta das duas Casas.
+THALITA: Pausa para pensar. Eu iria na B, quarenta e cinco dias.
+FRANCISCA: Quarenta e cinco é o marco do regime de urgência, Thalita. O prazo de eficácia é de sessenta dias, prorrogável uma vez por igual período, artigo sessenta e dois, parágrafos terceiro e sétimo. Então a B está errada.
+BRUNO: A alternativa A cai: direito processual civil é vedado, artigo sessenta e dois, parágrafo primeiro, inciso um, alínea b.
+THALITA: E a E, com maioria absoluta?
+BRUNO: Matéria reservada a lei complementar é vedada à medida provisória, sem exceção, parágrafo primeiro, inciso três.
+ANTONIO: A C permite reedição com texto diferente. Mas a reedição, na mesma sessão legislativa, de medida provisória que perdeu a eficácia por decurso de prazo, é vedada, parágrafo décimo.
+FRANCISCA: Sobra a D, correta: artigo sessenta e dois, parágrafo sexto. Passados quarenta e cinco dias, entra em regime de urgência, sobrestadas as demais deliberações da Casa em que estiver.
+BRUNO: Um detalhe de aprofundamento: o STF restringe esse trancamento de pauta aos projetos de lei ordinária sobre matérias que podem ser objeto de medida provisória.
+THALITA: Sessenta dias para valer, quarenta e cinco para trancar a pauta.
+== SLIDE: Questão 10: emenda constitucional e iniciativa popular
+* Emenda: mais da metade das Assembleias, maioria relativa (art. 60, III)
+* Votação: 2 turnos, 3/5 em cada Casa (art. 60, § 2º)
+* Sem emenda em intervenção, estado de defesa ou de sítio
+* Iniciativa popular: 1% do eleitorado, 5 Estados, 0,3% em cada
+* Gabarito: B
+ANTONIO: Questão dez. Quatro afirmações. Um: a Constituição pode ser emendada por proposta de mais da metade das Assembleias Legislativas, cada uma pela maioria relativa de seus membros. Dois: a proposta é votada em cada Casa em turno único, e aprovada com dois terços. Três: a Constituição não pode ser emendada na vigência de intervenção federal, estado de defesa ou estado de sítio. Quatro: a iniciativa popular exige um por cento do eleitorado nacional, distribuído por pelo menos cinco Estados, com não menos de três décimos por cento dos eleitores de cada um. Quais estão corretos? A, um e dois. B, um, três e quatro. C, dois e três. D, dois, três e quatro. E, um e quatro.
+THALITA: Pausa para pensar. Eu diria que o dois está certo, porque dois terços lembra emenda.
+FRANCISCA: Cuidado. O item dois está errado: a emenda é votada em dois turnos em cada Casa e exige três quintos, não dois terços, artigo sessenta, parágrafo segundo.
+BRUNO: Esse erro elimina A, C e D de uma vez, todas com o item dois. Sobram B e E.
+THALITA: E o item um? Maioria relativa das Assembleias...
+FRANCISCA: Está certo, artigo sessenta, inciso três. Mais da metade das Assembleias, cada uma pela maioria relativa de seus membros.
+ANTONIO: O item três também está correto, artigo sessenta, parágrafo primeiro: nada de emenda na vigência de intervenção federal, estado de defesa ou estado de sítio.
+BRUNO: E o item quatro reproduz o artigo sessenta e um, parágrafo segundo. Por isso a alternativa E, que o inclui mas omite o três, também está errada.
+THALITA: Então o gabarito é B: um, três e quatro.
+FRANCISCA: Isso. Fixe os números da iniciativa popular: um por cento do eleitorado, cinco Estados, três décimos por cento em cada um.
+THALITA: Macete: emenda, dois turnos e três quintos; iniciativa popular, um por cento, cinco Estados, três décimos.
+== SLIDE: Questão 11: delegação de atribuições do Presidente
+* Parágrafo único do art. 84 lista o que é delegável
+* Indelegáveis: sanção (IV), medida provisória (XXVI), nomear Ministros (I)
+* Decreto autônomo: sem aumento de despesa nem criação de órgãos
+* Delegáveis: art. 84, VI, "b", e XII
+* Gabarito: C
+ANTONIO: Questão onze. O Presidente poderá delegar aos Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União a atribuição de: A, editar medidas provisórias. B, nomear e exonerar Ministros de Estado e Comandantes das Forças Armadas. C, dispor por decreto sobre extinção de funções ou cargos públicos, quando vagos, e conceder indulto e comutar penas. D, dispor por decreto sobre organização e funcionamento da administração federal, inclusive criando órgãos. E, sancionar, promulgar e publicar leis e expedir decretos para sua execução.
+BRUNO: Pausa para você pensar. Essa questão é o parágrafo único do artigo oitenta e quatro: só alguns incisos são delegáveis.
+THALITA: Eu tentaria a E, que parece rotina do cargo.
+FRANCISCA: Errada. Sancionar, promulgar e publicar leis, inciso quatro, é indelegável. Também é indelegável a edição de medida provisória, inciso vinte e seis, o que derruba a alternativa A.
+BRUNO: Na B, nomear Ministros, inciso um, não consta no parágrafo único, então também é indelegável.
+THALITA: E a D? Organização da administração por decreto está no inciso seis.
+ANTONIO: Está, mas na alínea a o decreto autônomo não pode implicar aumento de despesa nem criação ou extinção de órgãos públicos. A D diz inclusive criando órgãos, então erra.
+FRANCISCA: A alternativa C é a correta: inciso seis, alínea b, extinção de funções ou cargos públicos quando vagos, e inciso doze, indulto e comutação de penas, ambos listados no parágrafo único.
+THALITA: Macete: delegável é decreto sobre cargos vagos e indulto; indelegável é sanção, medida provisória e nomear Ministros.
+== SLIDE: Questão 12: responsabilidade do Presidente
+* Quórum da Câmara: 2/3; infrações comuns: STF; responsabilidade: Senado
+* Suspensão: denúncia recebida pelo STF ou processo instaurado no Senado
+* Prazo de 180 dias: cessa o afastamento, o processo continua
+* Sem prisão antes de sentença condenatória (art. 86, § 3º)
+* Gabarito: A
+ANTONIO: Questão doze. Responsabilidade do Presidente da República. A: admitida a acusação por dois terços da Câmara, o Presidente fica suspenso nas infrações penais comuns se recebida a denúncia pelo STF, e nos crimes de responsabilidade após a instauração do processo pelo Senado. B: admitida a acusação por maioria absoluta, é julgado pelo Senado nos dois casos. C: decorridos noventa dias sem conclusão, cessa o afastamento e o processo se extingue. D: nas infrações comuns, está sujeito a prisão em flagrante, ainda que sem sentença condenatória. E: durante o mandato, pode ser responsabilizado por atos estranhos às funções, se autorizado pela Câmara.
+THALITA: Pausa para pensar. Eu iria na B: o Senado julga tudo.
+BRUNO: Errada. O quórum é de dois terços, e nas infrações penais comuns o julgamento é do STF, artigo oitenta e seis, caput. O Senado só julga os crimes de responsabilidade.
+FRANCISCA: A alternativa A está certa: artigo oitenta e seis, parágrafo primeiro, incisos um e dois. Suspensão após recebida a denúncia pelo STF, ou após instaurado o processo pelo Senado.
+THALITA: Na C, o prazo é de noventa dias?
+ANTONIO: São cento e oitenta dias. Se esgotado, cessa o afastamento, mas o processo prossegue regularmente, parágrafo segundo.
+BRUNO: A D: enquanto não sobrevier sentença condenatória, o Presidente não está sujeito a prisão, parágrafo terceiro. Nem em flagrante.
+FRANCISCA: E na E: durante o mandato, o Presidente não pode ser responsabilizado por atos estranhos ao exercício das funções, parágrafo quarto, e não há autorização da Câmara que afaste essa imunidade temporária.
+THALITA: Macete: dois terços, cento e oitenta dias, e sem prisão antes de condenação. Gabarito A.
+== SLIDE: Questão 13: competências do TCU
+* TCU APRECIA contas do Presidente; o Congresso JULGA
+* Registro de pessoal: exceto cargo em comissão
+* Sustar contrato: Congresso; TCU decide após 90 dias
+* Sanções, inclusive multa proporcional ao dano (art. 71, VIII)
+* Gabarito: D
+ANTONIO: Questão treze. Pelos artigos setenta e um e setenta e três, compete ao Tribunal de Contas da União: A, julgar as contas anuais do Presidente da República em sessenta dias. B, apreciar para registro a legalidade das nomeações para cargo em comissão. C, sustar diretamente a execução de contratos impugnados. D, aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei, entre elas multa proporcional ao dano. E, executar diretamente suas decisões de imputação de débito ou multa, com eficácia de título executivo judicial.
+BRUNO: Essa vocês acabaram de estudar. Pausa para pensar.
+THALITA: Eu me lembro: a A está errada porque o Tribunal aprecia, não julga.
+FRANCISCA: Perfeito. O Tribunal aprecia as contas do Presidente mediante parecer prévio, inciso um do artigo setenta e um. Quem julga é o Congresso, artigo quarenta e nove, inciso nove.
+BRUNO: Na B, nomeação para cargo em comissão está excetuada do registro, inciso três.
+THALITA: Na C, sustar contrato é do Congresso. E o Tribunal só decide se em noventa dias ninguém agir?
+ANTONIO: Isso, parágrafos primeiro e segundo do artigo setenta e um.
+FRANCISCA: A E erra em dois pontos: a decisão tem eficácia de título executivo extrajudicial, e a execução cabe ao ente credor, não ao próprio Tribunal, parágrafo terceiro.
+BRUNO: Sobra a D, correta: inciso oito do artigo setenta e um, sanções previstas em lei, inclusive multa proporcional ao dano causado ao erário.
+THALITA: Macete: aprecia, registro sem cargo em comissão, contrato é do Congresso, título extrajudicial.
+== SLIDE: Questão 14 e resumo relâmpago da aula
+* PGR: recondução sem limite; PGJ: uma recondução
+* MPU: MPF, MPT, MPM e MPDFT (art. 128, I)
+* AGU: livre nomeação, sem sabatina; CNMP: 14 membros, preside o PGR
+* Defensoria: inamovibilidade, sem vitaliciedade. Gabarito: B
+ANTONIO: Questão catorze. Sobre funções essenciais à Justiça. A: o Procurador-Geral da República é nomeado pelo Presidente entre integrantes da carreira maiores de trinta e cinco anos, com mandato de dois anos e uma única recondução. B: o Ministério Público da União compreende o Federal, o do Trabalho, o Militar e o do Distrito Federal e Territórios. C: o Advogado-Geral da União é nomeado entre membros da carreira, após aprovação da maioria absoluta do Senado. D: o Conselho Nacional do Ministério Público tem quinze membros e é presidido pelo Presidente do STF. E: os membros da Defensoria têm vitaliciedade e podem advogar fora das atribuições institucionais.
+THALITA: Pausa para pensar. Eu cravaria a A, parece tudo certo.
+BRUNO: Cuidado, é a pegadinha que a gente comentou. A recondução do Procurador-Geral da República não tem limite constitucional, artigo cento e vinte e oito, parágrafo primeiro. Recondução única é regra do Procurador-Geral de Justiça.
+FRANCISCA: A alternativa B é a correta: artigo cento e vinte e oito, inciso um, alíneas a até d: Federal, do Trabalho, Militar e do Distrito Federal e Territórios.
+THALITA: A C eu sei: o Advogado-Geral não passa pelo Senado.
+ANTONIO: Certo. É de livre nomeação, entre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada, sem sabatina e sem exigência de carreira, artigo cento e trinta e um, parágrafo primeiro.
+BRUNO: A D troca os números: o Conselho tem catorze membros e é presidido pelo Procurador-Geral da República, não pelo Presidente do STF.
+FRANCISCA: E a E: a Defensoria tem inamovibilidade, não vitaliciedade, e é vedada a advocacia fora das atribuições institucionais, artigo cento e trinta e quatro, parágrafo primeiro.
+THALITA: Resumo relâmpago do que mais cai nesta aula. Veto: quinze dias úteis, sessão conjunta, trinta dias, maioria absoluta. Medida provisória: sessenta dias, urgência com quarenta e cinco, vedada matéria de lei complementar e reedição na mesma sessão. Emenda: dois turnos e três quintos. Presidente: dois terços da Câmara, cento e oitenta dias, sem prisão antes de condenação. Tribunal de Contas: aprecia as contas do Presidente, susta ato, e contrato é do Congresso. Procurador-Geral da República sem limite de recondução, Advogado-Geral sem sabatina, Defensoria inamovível.
+ANTONIO: Fechamos a aula por aqui. Bons estudos e até a próxima!
