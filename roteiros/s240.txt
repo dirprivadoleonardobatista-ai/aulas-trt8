@@ -1,0 +1,71 @@
+SEGMENTO s240
+== SLIDE: Bem-vindos: proteção de dignitários e escalões
+* Aula 71: segurança institucional, inteligência e crises
+* Objeto: integridade física e moral, imagem e agenda do protegido
+* Modus operandi do agressor: vigilância prévia e ataque no ponto vulnerável
+* Escalões: avançado, aproximado e velado
+ANTONIO: Olá, pessoal, bem-vindos à aula setenta e um do cargo de Agente da Polícia Judicial: segurança institucional, inteligência e crises. Hoje vemos segurança de dignitários e magistrados, análise de riscos e contingências. Depois, segurança física, incêndio e crises, e por fim inteligência, segurança da informação e cerimonial. Eu sou o Antônio.
+FRANCISCA: Eu sou a Francisca, e trago as normas e a jurisprudência.
+BRUNO: Eu sou o Bruno, e mostro como a FCC cobra.
+THALITA: E eu sou a Thalita, concurseira que quer virar agente.
+ANTONIO: A proteção de autoridade protege a integridade física e moral do protegido, sua imagem pública e o cumprimento normal da agenda, a liberdade de atuação.
+BRUNO: Conhecer o agressor ajuda. O modus operandi típico é: escolhe o alvo, faz vigilância prévia de rotina, horários e rotas, planeja, ataca no ponto de maior vulnerabilidade e foge. Quebrar a rotina frustra a vigilância.
+THALITA: Então variar horário e trajeto já é proteção?
+FRANCISCA: É uma das principais. Duas palavras que a banca confunde: técnica é o procedimento padronizado, como a abertura de porta; tática é o emprego combinado das técnicas diante do cenário concreto.
+ANTONIO: E o planejamento é o estudo prévio de agenda, locais, rotas, riscos, efetivo, comunicações e hospital de referência. A operacionalização é a execução, com briefing, postos, rádio e debriefing.
+BRUNO: Agora os escalões, que caem sempre. O avançado, ou precursor, chega antes, vistoria o local, rotas, acessos e saídas de emergência, contata a segurança local e identifica o hospital próximo. Atua antes do protegido chegar.
+THALITA: E o aproximado?
+FRANCISCA: O aproximado, ou cerrado, envolve fisicamente o protegido. É a última barreira e a reação imediata. É o único em contato direto, e a prioridade é proteger e retirar.
+BRUNO: O velado são agentes descaracterizados no meio do público. Observam comportamentos suspeitos, antecipam ameaças e informam o aproximado. Não ostentam ser segurança.
+THALITA: Avançado antes, aproximado junto, velado disfarçado. Gravei.
+== SLIDE: Formações, conduta, deslocamentos e magistrados
+* Formações: losango, cunha, ferradura, coluna, linha, box
+* Ataque: cobrir e evacuar, não combater
+* Embarque e desembarque: momento de maior vulnerabilidade
+* Magistrados: Resolução CNJ 435/2021
+FRANCISCA: As formações de escolta a pé. O losango dá proteção em trezentos e sessenta graus, em áreas abertas com público. A cunha abre caminho na multidão, com o vértice à frente. A ferradura é usada quando o protegido está perto de palanque, parede ou mesa.
+BRUNO: A coluna, ou fila, serve para corredores e passagens estreitas. A linha forma barreira lateral diante do público. E o box, ou quadrado, é para efetivo maior, protegendo em todas as direções.
+THALITA: Se o protegido está encostado em uma parede, qual a formação?
+ANTONIO: Ferradura, com o lado protegido pela estrutura. Quanto à conduta, o agente deve ser discreto, manter postura neutra, olhar para o público, nas mãos e nos volumes, não dar entrevistas, não consumir álcool e não usar o protegido como palco.
+FRANCISCA: Diante de ataque, a regra é cobrir o protegido com o próprio corpo e evacuá-lo para local seguro. Neutralizar o agressor é tarefa secundária.
+BRUNO: Pegadinha: a banca diz que a prioridade é combater o agressor. Errado. É cobrir e evacuar.
+THALITA: E nos deslocamentos?
+ANTONIO: Rota principal e alternativas, variação de horários e itinerários, comboio com batedor, carro do protegido, carro de escolta e reserva, e evitar paradas e pontos de estrangulamento.
+FRANCISCA: O embarque e o desembarque são o momento de maior vulnerabilidade: área previamente checada, veículo posicionado na saída, porta aberta por agente, tempo de exposição mínimo.
+BRUNO: Em eventos: vistoria antecipada, credenciamento, controle de acesso, sala de segurança, rotas de fuga, e o protegido longe de janelas e acessos públicos.
+THALITA: E os magistrados?
+ANTONIO: A política nacional de segurança do Judiciário está na Resolução quatrocentos e trinta e cinco do CNJ, de dois mil e vinte e um, com comissões de segurança nos tribunais. A Resolução trezentos e quarenta e quatro, de dois mil e vinte, trata do poder de polícia nos tribunais e das atribuições dos agentes. A Lei doze mil seiscentos e noventa e quatro protege autoridades judiciais em risco.
+THALITA: Política nacional, associo à quatrocentos e trinta e cinco. Entendi!
+== SLIDE: Análise de riscos: conceitos, Mosler e tratamento
+* Risco = ameaça explorando vulnerabilidade sobre ativo
+* Ameaça é externa; vulnerabilidade é interna
+* Mosler: importância, dano, probabilidade e evolução
+* Tratamento: evitar, mitigar, transferir, aceitar
+BRUNO: Análise de riscos. Ativo é tudo que tem valor: pessoas, instalações, informações, imagem. Ameaça é o agente ou evento capaz de causar dano. Vulnerabilidade é a fragilidade interna que pode ser explorada. Risco é a possibilidade de a ameaça se concretizar sobre o ativo.
+THALITA: Um exemplo no fórum?
+FRANCISCA: O magistrado ou os autos sigilosos são ativos. A parte condenada que promete vingança é ameaça. A portaria sem detector de metais é vulnerabilidade. O ingresso de arma no plenário é o risco.
+ANTONIO: Dica: a ameaça é externa e em regra não se controla. A vulnerabilidade é interna, e é onde o gestor atua. Probabilidade é a chance de ocorrência; impacto é a consequência.
+THALITA: Então se o gestor quiser reduzir o risco, ele não adianta mudar a ameaça, e sim corrigir a vulnerabilidade. Trocar o vigia, colocar pórtico, treinar a equipe. Entendi o recado da banca.
+BRUNO: O método Mosler usa notas de um a cinco. Importância do sucesso é função vezes substituição. Dano é profundidade vezes extensão. Caráter do risco é importância mais dano. Probabilidade é agressão vezes vulnerabilidade. E a evolução do risco é caráter vezes probabilidade.
+THALITA: Então se eu somar importância com dano, tenho o caráter do risco?
+FRANCISCA: Exato. E o resultado final é classificado em faixas: de dois a duzentos e cinquenta, muito pequeno; até quinhentos, pequeno; até setecentos e cinquenta, normal; até mil, grande; e acima disso, elevado.
+ANTONIO: Existe também a matriz probabilidade e impacto, que cruza as duas variáveis e classifica o risco por cores: baixo, médio, alto e extremo.
+BRUNO: O tratamento tem quatro opções. Evitar: eliminar a atividade, como cancelar audiência externa. Mitigar: reduzir probabilidade ou impacto, como instalar pórtico detector.
+FRANCISCA: Transferir: repassar o ônus, por seguro ou contrato de vigilância. Aceitar: conviver com risco residual tolerável, quando o custo do controle é maior que o dano.
+THALITA: Evitar, mitigar, transferir, aceitar. Já decorei.
+== SLIDE: Planejamento de contingências
+* Cenários, cadeia de comando, recursos, comunicações, treinamento
+* Evacuação: sem elevador, ponto de encontro, contagem
+* Ameaça de bomba: registrar a ligação, não tocar, isolar
+* Ciclo: prevenção, preparação, resposta, recuperação
+ANTONIO: Planejamento de contingências. O plano tem cinco componentes: cenários, como incêndio, invasão, bomba e pane elétrica; cadeia de comando, com substitutos; recursos, como pessoal, equipamentos e contatos externos; comunicações, com alarme e rádio; e treinamento, com simulados periódicos.
+THALITA: E na evacuação, o que cai na prova?
+FRANCISCA: Rotas sinalizadas, nunca usar elevadores, ponto de encontro, contagem de pessoas e prioridade para pessoas com deficiência.
+THALITA: Pelo que entendi, evacuação é calma e ordem: escada, ponto de encontro e contagem. Elevador, nunca, porque pode parar com a pessoa dentro e ainda atrapalha a saída de todo mundo.
+BRUNO: Ameaça de bomba é tema querido da banca. Registre a ligação: voz, ruídos, horário e frases. Não toque em objeto suspeito. Isole a área. Evite rádio e celular perto do artefato. A varredura é feita por quem conhece o local, e o esquadrão antibombas é acionado.
+THALITA: E quem decide evacuar?
+ANTONIO: A decisão de evacuar é da autoridade responsável, não do agente que atendeu a ligação.
+FRANCISCA: Continuidade de negócio: identificar atividades críticas, local alternativo, cópias de segurança e tempo máximo de interrupção. O manejo de emergência segue o ciclo de prevenção, preparação, resposta e recuperação.
+BRUNO: A banca pergunta o que vem primeiro na bomba. Mantenha a calma, registre, não toque e comunique.
+THALITA: Resumo: ameaça de bomba, não tocar, não usar rádio perto, evacuar por decisão da autoridade.
+ANTONIO: Agora seguimos para o planejamento de segurança física, equipamentos, prevenção e combate a incêndio e gerenciamento de crises.

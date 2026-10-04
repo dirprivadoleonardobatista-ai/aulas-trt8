@@ -1,0 +1,65 @@
+SEGMENTO s236
+== SLIDE: Questões um e dois: agravo e embargos de declaração
+* Q1: exclusão de litisconsorte é agravável; incompetência vai à apelação
+* Taxatividade mitigada pela urgência (Tema 988)
+* Q2: embargos interrompem o prazo; sem preparo
+* Após dois protelatórios, novos embargos não são admitidos
+ANTONIO: Terminamos mandado de segurança, ação civil pública, juizados, mediação e processo eletrônico. Agora é hora de praticar com questões no estilo da FCC. Pense primeiro, depois conferimos.
+THALITA: Vou arriscar todas, mesmo errando.
+BRUNO: Questão um. Na fase de conhecimento, o juiz indeferiu o pedido de Carla para excluir litisconsorte e, na mesma decisão, rejeitou a alegação de incompetência relativa. A, ambas são agraváveis, porque o rol é exemplificativo. B, cabe agravo de instrumento só quanto ao litisconsorte, e a incompetência vai em preliminar de apelação, salvo urgência. C, nenhuma é agravável e ambas precluem. D, a incompetência se impugna por agravo interno. E, cabe agravo em cinco dias quanto à incompetência. Pausa para pensar.
+THALITA: Eu marcaria a A. Parece que o rol é amplo.
+FRANCISCA: O rol é taxativo, com mitigação só por urgência, Tema novecentos e oitenta e oito do STJ. O gabarito é B: exclusão de litisconsorte está no artigo mil e quinze, inciso sete, e o resto vai à apelação.
+BRUNO: C erra porque interlocutória não agravável não preclui. D erra porque agravo interno ataca decisão de relator. E erra no prazo, que é quinze dias, e na hipótese, que não está no rol.
+ANTONIO: Questão dois. Sobre os embargos de declaração, é correto afirmar: A, suspendem o prazo para outros recursos. B, sujeitam-se a preparo. C, se protelatórios, geram multa de até dez por cento já na primeira vez. D, interrompem o prazo, e não se admitem novos se os dois anteriores foram protelatórios. E, só cabem contra sentença e acórdão.
+THALITA: A letra D, porque lembro dos dois protelatórios.
+FRANCISCA: Correta, artigo mil e vinte e seis. A erra, porque interrompem, não suspendem. B erra, não há preparo. C erra, a primeira multa é de até dois por cento, e dez só na reiteração.
+BRUNO: E E erra: cabem contra qualquer decisão judicial.
+THALITA: Interrompe, sem preparo, até dois por cento. Anotado!
+== SLIDE: Questões três e quatro: rescisória e IRDR
+* Q3: depósito de 5%, teto de mil salários; prazo de 2 anos
+* Q4: IRDR só para questão de direito
+* Não cabe se já houver repetitivo afetado
+ANTONIO: Questão três. Bruno, autor de rescisória cível, não tem gratuidade e o valor da causa é elevado. Ele deve: A, depositar cinco por cento, limitado a mil salários mínimos, ajuizando em até dois anos do trânsito. B, depositar vinte por cento. C, depositar cinco por cento sem limite, em cinco anos. D, dispensar o depósito, exigido só da Fazenda. E, depositar dez por cento, com suspensão automática do cumprimento.
+THALITA: Eu iria na B, de vinte por cento.
+BRUNO: Essa é a pegadinha: vinte por cento é o depósito da CLT. No Código de Processo Civil é cinco, com teto de mil salários, e dois anos.
+FRANCISCA: Gabarito A, artigos novecentos e sessenta e oito e novecentos e setenta e cinco. C erra: cinco anos só para prova nova. D erra: a Fazenda é isenta, não obrigada. E erra: a suspensão depende de tutela provisória.
+ANTONIO: Questão quatro. Quanto ao incidente de resolução de demandas repetitivas: A, cabe para controvérsia de fato. B, só o relator pode suscitá-lo. C, a desistência do autor o extingue. D, a tese não se aplica aos juizados. E, não cabe se tribunal superior já afetou recurso repetitivo sobre a mesma questão.
+THALITA: Chutando a E, porque lembro disso na aula.
+BRUNO: Correta, artigo novecentos e setenta e seis, parágrafo quarto. A erra: é só questão de direito. B erra: juiz, partes, Ministério Público e Defensoria também podem pedir.
+FRANCISCA: C erra: o Ministério Público assume e o mérito é julgado. D erra: a tese vale até nos juizados.
+THALITA: Só direito, nunca fato. Gravei.
+== SLIDE: Questões cinco e seis: precedentes e mandado de segurança
+* Q5: art. 927, incisos III, IV e V
+* Q6: 120 dias; sem honorários; sem lei em tese
+ANTONIO: Questão cinco. À luz do artigo novecentos e vinte e sete, considere como de observância obrigatória: um, acórdão em incidente de assunção de competência. Dois, súmula do STJ em matéria infraconstitucional. Três, orientação do plenário do tribunal ao qual o juiz está vinculado. Está correto o que consta em: A, só um. B, um e dois. C, um, dois e três. D, dois e três. E, só três.
+THALITA: Eu marco a B, porque o plenário não me parece vinculante.
+FRANCISCA: Parece, mas é o inciso cinco. O acórdão de assunção de competência está no inciso três, a súmula do STJ no quatro. Todos corretos. Gabarito C.
+BRUNO: Questão seis. Nos termos da lei e das súmulas, o mandado de segurança: A, admite honorários. B, deve ser impetrado em cento e vinte dias da ciência, prazo constitucional segundo o STF. C, cabe contra lei em tese. D, produz efeitos patrimoniais desde o ato. E, coletivo exige autorização expressa dos associados.
+THALITA: B, cento e vinte dias.
+ANTONIO: Correta, artigo vinte e três e Súmula seiscentos e trinta e dois. A erra, artigo vinte e cinco e Súmula quinhentos e doze. C erra, Súmula duzentos e sessenta e seis.
+FRANCISCA: D erra, Súmulas duzentos e sessenta e nove e duzentos e setenta e um. E erra, Súmula seiscentos e vinte e nove dispensa autorização.
+THALITA: Sem honorários e sem lei em tese. Lembrado!
+== SLIDE: Questões sete e oito: juizado e monitória
+* Q7: advogado facultativo até 20 salários; recurso com advogado, 10 dias
+* Q8: monitória; título executivo sem embargos
+ANTONIO: Questão sete. Tereza quer ajuizar ação de dezoito salários mínimos no Juizado Especial Cível. Pela lei: A, pode litigar sem advogado, mas precisará dele para recorrer, em dez dias. B, precisa de advogado, pois a causa supera dez salários. C, não pode, pois o teto é vinte. D, pode recorrer sem advogado em quinze dias. E, pode chamar terceiro ao processo.
+THALITA: A letra A.
+BRUNO: Correta. O advogado é facultativo até vinte salários, mas obrigatório no recurso, e o prazo é de dez dias. B erra no limite. C erra: o teto é quarenta. D erra duas vezes. E erra: intervenção de terceiros é vedada.
+FRANCISCA: Questão oito. Na ação monitória: A, é vedada contra a Fazenda. B, os embargos exigem garantia do juízo. C, os honorários do mandado são dez por cento. D, o prazo para cumprimento é de três dias. E, não havendo pagamento nem embargos, constitui-se título executivo judicial de pleno direito.
+THALITA: Eu chutaria a C, de dez por cento.
+ANTONIO: Os honorários são cinco por cento. O gabarito é E, artigo setecentos e um, parágrafo segundo.
+BRUNO: A erra: a Súmula trezentos e trinta e nove admite monitória contra a Fazenda. B erra: os embargos independem de segurança. D erra: o prazo é de quinze dias.
+THALITA: Quinze dias e cinco por cento. Boa!
+== SLIDE: Questões nove e dez e revisão final
+* Q9: embargos de terceiro até 5 dias após a arrematação
+* Q10: petição eletrônica tempestiva até as 24 horas
+* Revisão: recursos, rescisória, IRDR, mandado de segurança
+FRANCISCA: Questão nove. Em execução, o imóvel de Márcio, terceiro, foi arrematado. Ele pode opor embargos de terceiro: A, a qualquer tempo enquanto não extinta a execução. B, em quinze dias da penhora. C, até o trânsito da sentença da execução. D, até cinco dias após a arrematação, antes da assinatura da carta. E, em dez dias após a assinatura da carta.
+THALITA: A letra D.
+ANTONIO: Certa, artigo seiscentos e setenta e cinco. A e C valem para a fase de conhecimento. B traz prazo inexistente. E erra: depois da carta, não cabe.
+BRUNO: Questão dez. Segundo a Lei onze mil quatrocentos e dezenove: A, a publicação no Diário ocorre no dia da disponibilização. B, intimação não consultada considera-se feita após dez dias úteis. C, a petição é tempestiva se transmitida até as vinte e quatro horas do último dia. D, a assinatura exige sempre certificado digital. E, a citação eletrônica é admitida no processo criminal.
+THALITA: C, vinte e quatro horas.
+FRANCISCA: Correta. A erra: é o primeiro dia útil seguinte. B erra: são dez dias corridos. D erra: também vale cadastro no Judiciário. E erra: é vedada.
+THALITA: Resumo relâmpago. Relator inadmite só após cinco dias para sanar. Rescisória: dois anos, depósito de cinco por cento. Incidente de demandas repetitivas: só direito, um ano. Embargos de declaração interrompem. Mandado de segurança: cento e vinte dias, sem honorários. Monitória: quinze dias, cinco por cento. Juizado: quarenta salários, advogado facultativo até vinte.
+BRUNO: E não esqueça: embargos de terceiro até cinco dias após a arrematação.
+ANTONIO: Fechamos a aula de tribunais, recursos e procedimentos. Bons estudos e até a próxima!
