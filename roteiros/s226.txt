@@ -1,0 +1,58 @@
+SEGMENTO s226
+== SLIDE: Questões 1 e 2: impedimentos e coação
+* Q1: causa suspensiva é oposta por parentes em linha reta e colaterais em 2º grau (art. 1.524)
+* Impedimento: qualquer pessoa capaz opõe (art. 1.522)
+* Q2: coação anula em 4 anos da celebração (art. 1.560)
+ANTONIO: Depois de passar por regimes, união estável e sucessões, vamos testar tudo com as questões comentadas. Questão um: qual afirmativa está correta sobre impedimentos e causas suspensivas? Pausa para você pensar.
+THALITA: Eu marcaria a letra A: o divorciado que casa antes da partilha tem casamento nulo.
+BRUNO: Cuidado, Thalita. Causa suspensiva não gera nulidade, só separação obrigatória. A letra B erra, porque o impedimento vai até o terceiro grau, e primos casam. A D erra, porque qualquer pessoa capaz opõe impedimento, artigo mil quinhentos e vinte e dois. A E erra, porque a afinidade em linha reta subsiste ao divórcio. O gabarito é C: a causa suspensiva é oposta pelos colaterais em segundo grau, consanguíneos ou afins, artigo mil quinhentos e vinte e quatro.
+FRANCISCA: Questão dois: Carla casou sob coação. Qual o prazo para anular? Pausa para pensar.
+THALITA: Quatro anos, contados da celebração. Eu sei porque decorei: dois, três, quatro, incompetência, erro, coação.
+FRANCISCA: Acertou, letra A, artigo mil quinhentos e sessenta, inciso quatro. A B traz o prazo do erro essencial, três anos. A C traz cento e oitenta dias, que valem para incapaz e menor. A D traz dois anos, da incompetência da autoridade. E a E erra: coação gera anulabilidade, sujeita a decadência, não nulidade imprescritível.
+== SLIDE: Questões 3 e 4: outorga e concorrência do cônjuge
+* Q3: fiança sem outorga: anulável, 2 anos após fim da sociedade conjugal
+* Súmula 332 STJ; art. 1.647, III
+* Q4: comunhão universal: cônjuge meeiro, não concorre (art. 1.829, I)
+BRUNO: Questão três: Márcio, casado em comunhão parcial, prestou fiança sem autorização da esposa Tereza. Pausa para pensar.
+THALITA: Eu diria que a fiança é nula e o juiz pode declarar de ofício.
+ANTONIO: Quase, mas a letra A erra: o ato é anulável, artigo mil seiscentos e quarenta e nove. A B erra, porque fiança e aval exigem outorga, artigo mil seiscentos e quarenta e sete, inciso três. A C erra, porque só o cônjuge preterido ou seus herdeiros podem pedir. A D troca prazo e termo inicial. O gabarito é E: Tereza ou seus herdeiros podem pleitear a anulação até dois anos depois de terminada a sociedade conjugal, com a Súmula trezentos e trinta e dois do STJ.
+FRANCISCA: Questão quatro: Paulo morreu sem testamento, deixando esposa casada em comunhão universal e dois filhos comuns. O que acontece com a esposa? Pausa para pensar.
+BRUNO: Gabarito B: ela é meeira, mas não concorre com os descendentes na herança, artigo mil oitocentos e vinte e nove, inciso um. Já é meeira de todo o patrimônio. A letra A e a D erram por prever concorrência, que não existe na comunhão universal. A C erra: os descendentes estão na primeira classe. E a E erra, porque o cônjuge precede os colaterais.
+THALITA: Então na universal ela fica com a meação e os filhos herdam o resto. Mas se fosse comunhão parcial com bens particulares, ela concorreria, certo?
+BRUNO: Certo, só quanto aos bens particulares.
+== SLIDE: Questões 5 e 6: indignidade e herança jacente
+* Q5: deserdação exige testamento; descendentes do indigno herdam; prazo de 4 anos
+* Q6: vacância 1 ano após o primeiro edital (art. 1.820)
+* Incorporação ao Município em 5 anos da abertura (art. 1.822)
+FRANCISCA: Questão cinco, com três afirmativas. A um: a deserdação atinge só herdeiros necessários e exige testamento com causa expressa. A dois: os descendentes do indigno sucedem como se ele morto fosse. A três: o direito de excluir por indignidade se extingue em dois anos. Pausa para pensar.
+THALITA: Acho que são a um e a três.
+ANTONIO: A três é falsa, Thalita: o prazo é de quatro anos, artigo mil oitocentos e quinze, parágrafo primeiro. As afirmativas um e dois são verdadeiras, artigos mil novecentos e sessenta e um, mil novecentos e sessenta e quatro e mil oitocentos e dezesseis. Gabarito D. A letra A erra por ignorar a dois, a B e a C erram pela três, e a E também.
+BRUNO: Questão seis, herança jacente. O gabarito é A: será declarada vacante se, passado um ano da primeira publicação do edital, não houver herdeiro habilitado, artigo mil oitocentos e vinte. A B erra, porque o destinatário é o Município ou Distrito Federal, e o prazo é de cinco anos. A C erra: declarada a vacância, os colaterais ficam excluídos. A D erra: a renúncia de todos gera vacância imediata. A E erra: os cinco anos contam da abertura da sucessão, não da declaração.
+THALITA: Macete: vacância em um ano, Município em cinco anos da abertura, colateral fora depois da vacância.
+== SLIDE: Questões 7 e 8: renúncia e testamentos
+* Q7: renúncia: instrumento público, total, irrevogável, sem representação
+* Filhos do renunciante único da classe herdam por direito próprio (art. 1.811)
+* Q8: maior de 16 anos testa sem assistência; conjuntivo vedado
+ANTONIO: Questão sete: Ana, única filha de Jorge, renunciou à herança. Qual afirmativa está correta? Pausa para pensar.
+BRUNO: Gabarito C: os filhos de Ana herdam por direito próprio, por cabeça, porque ela era a única da classe, artigo mil oitocentos e onze. A letra A erra, porque a renúncia exige instrumento público ou termo judicial. A B erra, porque é vedada renúncia parcial. A D erra, porque não há representação do renunciante. E a E erra, porque a renúncia é irrevogável, artigo mil oitocentos e doze.
+THALITA: Eu marquei D, representação. Preciso lembrar: renunciante não é representado.
+FRANCISCA: Questão oito, sobre testamentos. A letra A diz que o cego testa por qualquer forma, a B exige duas testemunhas no particular, a C exige três no codicilo, a D admite testamento conjuntivo entre cônjuges, e a E fala do maior de dezesseis anos. Pausa para pensar.
+ANTONIO: Gabarito E, artigo mil oitocentos e sessenta, parágrafo único. A letra A erra: o cego só pode testar pelo testamento público. A B erra, porque o particular exige três testemunhas. A C erra, porque o codicilo dispensa testemunhas. E a D erra, porque o testamento conjuntivo é vedado.
+== SLIDE: Pegadinha: renúncia, representação e companheiro
+* Renunciante não é representado; filhos herdam por direito próprio só se era o único da classe
+* Companheiro: Tema 809 STF aplica o art. 1.829
+* Confira sempre a redação vigente das atualizações
+THALITA: Antes das duas últimas questões, deixa eu ver se fixei as pegadinhas de sucessão. Quando um herdeiro renuncia, os filhos dele herdam por representação, certo?
+BRUNO: Errado, Thalita. Não há representação do renunciante. Os filhos só herdam por direito próprio, se ele era o único da classe ou se todos da classe renunciaram.
+FRANCISCA: E o companheiro, na sucessão, hoje segue a mesma ordem do cônjuge, pelo artigo mil oitocentos e vinte e nove, por força do Tema oitocentos e nove do STF. Só lembre que se ele é herdeiro necessário a banca ainda pode cobrar com cuidado, então confira a posição atual.
+THALITA: Entendi: renúncia sem representação, e companheiro como cônjuge. Vou carimbar na memória.
+ANTONIO: Perfeito. Agora fechamos com as duas últimas questões.
+== SLIDE: Questões 9 e 10 e revisão final
+* Q9: inventário extrajudicial: capazes, concordes, escritura e advogado (CPC, art. 610)
+* Q10: Lei 6.858/1980: dependente habilitado recebe sem inventário
+* Revisão: o que mais cai na FCC
+BRUNO: Questão nove: inventário extrajudicial. Gabarito B: exige herdeiros capazes e concordes, escritura pública e advogado ou defensor, artigo seiscentos e dez. A A erra, porque a escritura é título hábil por si, sem homologação. A C erra, porque a assistência técnica é obrigatória. A D erra, porque é faculdade. A E erra, porque o teto de mil salários mínimos é do arrolamento comum.
+FRANCISCA: Questão dez: Lúcio, empregado, morreu com salários e FGTS a receber, deixando esposa habilitada como dependente no INSS. Conforme a Lei seis mil oitocentos e cinquenta e oito, de mil novecentos e oitenta, quem recebe? Pausa para pensar. Gabarito D: a dependente habilitada na Previdência, sem inventário. A A e a B erram, porque a lei dispensa inventário. A C erra, porque os dependentes têm prioridade. E a E erra: as quotas são iguais entre dependentes.
+ANTONIO: Terminamos as dez questões. Vamos ao resumo?
+THALITA: Resumo relâmpago. Impedimento anula, causa suspensiva só impõe separação obrigatória. Prazos de anulação: cento e oitenta dias, dois, três e quatro anos. Fiança sem outorga é anulável e totalmente ineficaz, dois anos depois do fim da sociedade conjugal. Cônjuge na comunhão universal é meeiro e não concorre. Indignidade tem prazo de quatro anos, deserdação exige testamento. Vacância em um ano, Município em cinco. Renúncia é pública, total, irrevogável, e sem representação. Testamento particular tem três testemunhas, codicilo, nenhuma. E dependente do INSS recebe verbas trabalhistas sem inventário.
+ANTONIO: Esta foi a aula sobre família e sucessões, bons estudos e até a próxima.
