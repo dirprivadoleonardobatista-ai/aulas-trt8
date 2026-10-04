@@ -1,0 +1,63 @@
+SEGMENTO s023
+== SLIDE: Princípios e códigos maliciosos
+* Confidencialidade, integridade, disponibilidade, autenticidade, não repúdio
+* Vírus precisa de hospedeiro; worm se propaga sozinho
+* Bot é controlado remotamente; trojan é disfarce
+* Spyware, keylogger, screenlogger, adware
+FRANCISCA: Da rede e da internet vamos para a segurança da informação. Primeiro, os princípios. Confidencialidade: só autorizados acessam. Integridade: sem alteração indevida. Disponibilidade: acessível quando necessário. Autenticidade: autoria verdadeira. Não repúdio: o autor não pode negar a autoria, assegurado pela assinatura digital.
+THALITA: E o que ameaça cada um?
+BRUNO: Vazamento e spyware ameaçam a confidencialidade. Adulteração e vírus, a integridade. Ransomware e DDoS, a disponibilidade. Falsificação de remetente, a autenticidade.
+ANTONIO: Agora o tema campeão, os códigos maliciosos. O que distingue cada um é como se propaga e o que faz. Vírus se propaga inserindo cópias de si em outros programas ou arquivos, depende da execução do hospedeiro. Worm se propaga sozinho pelas redes, explorando vulnerabilidades; não infecta arquivos e consome recursos.
+THALITA: Então vírus precisa de hospedeiro e worm, não.
+FRANCISCA: Isso. O bot, além de se propagar como o worm, comunica-se com o invasor, que o controla remotamente: é a máquina zumbi. Botnet é a rede de zumbis, usada em DDoS e spam. O cavalo de Troia executa, além das funções aparentes, outras maliciosas, sem o conhecimento do usuário; a vítima o instala, enganada.
+BRUNO: Spyware monitora atividades e envia informações a terceiros. Keylogger captura as teclas digitadas. Screenlogger captura a tela e a posição dos cliques, e burla teclados virtuais. Adware exibe propaganda, legítima ou maliciosa. Backdoor permite o retorno do invasor. Rootkit esconde e assegura a presença do invasor ou de outro malware.
+ANTONIO: E o ransomware torna dados ou equipamento inacessíveis, em regra por criptografia, e exige resgate. O Locker bloqueia o equipamento; o Crypto cifra os dados.
+THALITA: Pares que a FCC troca: vírus e worm, hospedeiro contra rede; worm e bot, o bot tem controle remoto; trojan e backdoor, disfarce contra acesso de retorno; keylogger e screenlogger, teclas contra tela. Rootkit esconde, não obtém acesso.
+BRUNO: Perfeito. E ransomware ataca a disponibilidade: a defesa decisiva é o backup desconectado.
+== SLIDE: Golpes e ferramentas de defesa
+* Engenharia social ataca a pessoa
+* Phishing por link; pharming adultera o DNS
+* Cadeado HTTPS não prova que o site é legítimo
+* Firewall não é antivírus
+ANTONIO: Golpes. Engenharia social explora confiança, ingenuidade ou medo da vítima, inclusive por telefone. Ataca a pessoa, não a máquina. Phishing é a mensagem falsa que imita instituição e leva a vítima, por link, a página falsa ou a fornecer dados. Spear phishing é o direcionado; smishing, por SMS; vishing, por voz.
+THALITA: E pharming?
+FRANCISCA: Pharming é o redirecionamento a site falso por adulteração do DNS. A vítima digita o endereço correto e mesmo assim cai na fraude. Hoax é o boato alarmista que pede para ser repassado.
+BRUNO: Exemplo: Bruno clica em link de e-mail que imita seu banco: phishing. Bruno digita corretamente o endereço do banco e cai em página falsa porque o DNS foi adulterado: pharming. E o cadeado do HTTPS indica conexão criptografada, não que o site seja legítimo: páginas de phishing também usam HTTPS.
+THALITA: Macete: phishing tem link, pharming tem DNS.
+ANTONIO: Defesas. Antivírus detecta e remove malware por assinaturas, heurística e comportamento, mas não filtra conexões nem substitui backup. Firewall filtra o tráfego de entrada e saída conforme regras, e não é antivírus: não remove vírus.
+FRANCISCA: Antispyware detecta e remove spywares, hoje integrado ao antivírus. Antispam e antiphishing separam mensagens indesejadas e alertam sobre sites fraudulentos, mas não eliminam o fator humano.
+== SLIDE: Backup
+* Completo: todos os arquivos selecionados
+* Incremental: desde o último backup de qualquer tipo
+* Diferencial: desde o último completo, não marca
+* Regra três, dois, um
+BRUNO: Backup. Tipo completo: copia todos os arquivos selecionados, marca como copiado e restaura só com o último completo. Incremental: copia o que mudou desde o último backup de qualquer tipo, marca como copiado, e a restauração exige o completo mais todos os incrementais seguintes. Diferencial: copia o que mudou desde o último completo, não marca, e o volume cresce a cada dia; restaura com o completo mais o último diferencial.
+THALITA: Dá um exemplo?
+ANTONIO: Completo no domingo. Segunda altera A e B; terça altera C. Incrementais: segunda copia A e B; terça copia só C. Para restaurar: completo, mais segunda, mais terça.
+FRANCISCA: Diferenciais: segunda copia A e B; terça copia A, B e C. Para restaurar: completo mais terça. O incremental é mais rápido de fazer; o diferencial, mais rápido de restaurar.
+THALITA: Macete: incremental é um por um, diferencial acumula.
+BRUNO: Regra três, dois, um: três cópias, em duas mídias diferentes, uma fora do local. Contra ransomware, uma cópia off-line.
+== SLIDE: Pegadinhas de segurança na FCC
+* Firewall não remove vírus
+* Backup contra ransomware: cópia desconectada
+* Senha mais PIN não é dois fatores
+* Assinatura digital não garante sigilo
+FRANCISCA: Vamos reunir as pegadinhas mais cobradas. Primeira: a banca diz que o firewall remove vírus. Errado, quem remove é o antivírus; o firewall filtra o tráfego conforme regras.
+THALITA: Segunda: o ransomware se resolve com antivírus. Não, a defesa decisiva é o backup, de preferência uma cópia desconectada da rede.
+BRUNO: Terceira: dois fatores com senha e PIN. Errado, são duas coisas que você sabe, mesma categoria. Quarta: assinatura digital garante sigilo. Errado, garante autenticidade, integridade e não repúdio. E quinta: o cadeado garante que o site é legítimo. Errado, só indica conexão criptografada.
+THALITA: E a sexta, que eu quase caio: phishing e pharming. Phishing chega por mensagem com link; pharming adultera o DNS e redireciona mesmo com o endereço correto.
+FRANCISCA: Isso. E sempre leia o verbo da alternativa: remove, filtra, esconde, monitora, controla. Cada código malicioso e cada ferramenta de defesa tem um verbo característico, e a banca troca esses verbos de lugar.
+== SLIDE: Criptografia, certificado e autenticação
+* Simétrica: uma chave; assimétrica: par público e privado
+* Sigilo: cifra com a pública do destinatário
+* Assinatura: privada do remetente; não dá sigilo
+* Dois fatores: categorias diferentes
+ANTONIO: Criptografia. Simétrica usa uma chave secreta compartilhada, é rápida, e o problema é distribuir a chave; exemplos AES, DES, três DES. Assimétrica usa um par: pública, divulgada, e privada, secreta; é lenta; exemplos RSA e curvas elípticas.
+THALITA: E quem cifra com quê?
+FRANCISCA: Para sigilo, cifra com a chave pública do destinatário, e ele decifra com a privada dele. Garante confidencialidade. Na assinatura digital, o remetente cifra o hash com a chave privada dele, e todos verificam com a pública dele. Garante autenticidade, integridade e não repúdio. Não garante sigilo.
+BRUNO: A FCC inclui sigilo entre as garantias da assinatura para tornar a alternativa errada. Hash é um resumo de tamanho fixo, unidirecional; qualquer alteração muda o hash. Certificado digital é o documento eletrônico emitido por Autoridade Certificadora que vincula a chave pública ao titular. Na ICP-Brasil, a AC Raiz é o ITI.
+ANTONIO: O artigo primeiro da Medida Provisória dois mil duzentos e dois traço dois, de dois mil e um, institui a ICP-Brasil para garantir autenticidade, integridade e validade jurídica de documentos eletrônicos. Confidencialidade não aparece. A Lei onze mil quatrocentos e dezenove, de dois mil e seis, base do PJe, admite duas formas de assinatura eletrônica: a digital, com certificado, e o cadastro no próprio tribunal. Digital é espécie do gênero eletrônica.
+THALITA: E A um e A três? A um fica no computador, validade de um ano; A três fica em token ou cartão, chave privada não exportável.
+FRANCISCA: Isso. Confira nas normas vigentes o prazo máximo do A três, que mudou ao longo do tempo. Autenticação: algo que você sabe, senha ou PIN; algo que você tem, celular, token, cartão; algo que você é, biometria.
+BRUNO: Dois fatores exigem categorias diferentes. Senha mais PIN, ambos sabe, não é dois fatores. Senha mais código no celular, ou cartão mais digital, é. Boas práticas: senhas longas e únicas, gerenciador de senhas, atualizar sistema, desconfiar de links e anexos, bloquear a tela com Windows mais L.
+ANTONIO: Fechada a segurança da informação, no próximo tema, questões comentadas estilo FCC.

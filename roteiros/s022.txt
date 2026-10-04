@@ -1,0 +1,80 @@
+SEGMENTO s022
+== SLIDE: Gmail: marcadores, arquivar, filtros
+* Marcadores, não pastas: uma mensagem pode ter vários
+* Arquivar tira da Caixa de entrada sem apagar
+* Filtros, silenciar, programar envio
+* Modo confidencial não impede captura de tela
+ANTONIO: Do Windows para o Google Workspace, que a FCC cobra cada vez mais. Começamos pelo Gmail. A ideia central: ele organiza por marcadores, e não por pastas. Uma mensagem pode ter vários marcadores, o que pastas não permitem.
+THALITA: E se eu excluir um marcador, perco as mensagens?
+FRANCISCA: Não. Excluir o marcador não exclui as mensagens. É uma das pegadinhas. Já arquivar tira a mensagem da Caixa de entrada sem apagar; ela fica em Todos os e-mails. E se alguém responder, a conversa volta para a Caixa de entrada.
+BRUNO: A FCC cobra marcador contra pasta e arquivar contra excluir. Excluir manda para a Lixeira, que é esvaziada após trinta dias. Silenciar arquiva e faz as novas respostas não aparecerem na Caixa de entrada, mas a conversa volta se a nova mensagem for só para você ou se incluírem você de novo em Para ou Cc.
+THALITA: Então no Gmail eu não crio pasta, eu crio marcador, e uma mesma mensagem pode ter vários. Arquivar não apaga, e excluir manda para a Lixeira por trinta dias. Vou guardar esses dois pares, porque a banca adora trocar um pelo outro.
+ANTONIO: Filtros: você define critérios, como remetente, destinatário, assunto, palavras, tamanho ou anexo, e ações, como pular a Caixa de entrada, aplicar marcador, marcar como lida, encaminhar, excluir ou nunca enviar para spam. Podem ser aplicados também às conversas já existentes.
+THALITA: E programar envio?
+FRANCISCA: Fica na seta ao lado de Enviar, e a mensagem aguarda em Programados. Pode ser cancelada antes do horário. Nas configurações rápidas, na engrenagem, você ajusta densidade, tipo de caixa de entrada, painel de leitura e visualização de conversa.
+BRUNO: O modo confidencial define data de expiração e senha por SMS e bloqueia encaminhar, copiar, imprimir e baixar. Mas não impede captura de tela, e o remetente pode revogar o acesso. A FCC adora a ideia falsa de que ele impede qualquer cópia. E anexos acima de vinte e cinco megabytes viram link do Drive.
+THALITA: Macete: confidencial bloqueia o botão, não a câmera do celular.
+== SLIDE: Documentos e funções da planilha
+* Modo Sugestão: alterações precisam ser aceitas ou rejeitadas
+* Histórico de versões: nomear e restaurar
+* Fórmulas com igual; argumentos separados por ponto e vírgula
+* SOMA, MÉDIA, SE, CONT.SE, SOMASE e PROCV
+ANTONIO: Google Documentos. No modo Sugestão, as alterações ficam marcadas e precisam ser aceitas ou rejeitadas. Comentários, com Ctrl Alt M, permitem mencionar com arroba e atribuir o comentário, e podem ser resolvidos. O histórico de versões mostra autores e alterações e permite nomear e restaurar versões.
+FRANCISCA: Restaurar versão anterior não apaga as posteriores. A digitação por voz converte fala em texto, no Chrome, com Ctrl Shift S, que não se confunde com Windows Shift S, a captura. O salvamento é automático: não há botão Salvar.
+THALITA: E o download?
+BRUNO: Em docx, odt, pdf e txt. Agora as Planilhas. Fórmulas começam com igual, e na localidade Brasil os argumentos se separam por ponto e vírgula. SOMA soma o intervalo; dois-pontos significa até, ponto e vírgula significa e. MÉDIA ignora vazias e texto. SE retorna um de dois valores.
+FRANCISCA: CONT.SE conta as células que atendem ao critério. SOMASE soma os valores correspondentes ao critério. PROCV busca a chave na primeira coluna e devolve a coluna do índice; falso significa correspondência exata.
+ANTONIO: Exemplo. A dois a A cinco: Ana, Bruno, Ana, Carla. B dois a B cinco: cem, duzentos, trezentos e quatrocentos. SOMA de B dois a B cinco dá mil. MÉDIA, duzentos e cinquenta. CONT.SE de Ana, dois. SOMASE de Ana, quatrocentos. SOMASE maior que duzentos, setecentos.
+THALITA: E o SE? Se B três for maior que cento e cinquenta, Alto, senão Baixo. B três é duzentos, então Alto. E PROCV de Carla dá quatrocentos.
+BRUNO: Perfeito.
+== SLIDE: Referências, erros, Agenda, Tarefas e Meet
+* Relativa, absoluta e mista; o dólar trava
+* Copiar A um vezes dólar C dólar um de B dois para D cinco
+* Erros: DIV zero, N/D, REF, NOME, VALOR
+* Agenda: convidados, anexos do Drive e Meet
+FRANCISCA: Referências. Relativa, A um: ao copiar, coluna e linha se ajustam. Absoluta, dólar A dólar um: nada muda. Mista, dólar A um ou A dólar um: fixa só a coluna ou só a linha.
+BRUNO: A pegadinha clássica: A um vezes dólar C dólar um, em B dois, copiada para D cinco. Duas colunas à frente, três linhas abaixo. A um vira C quatro; o dólar trava o outro. Resultado: C quatro vezes dólar C dólar um. O F quatro alterna os tipos de referência.
+THALITA: E os erros? Eu confundo.
+ANTONIO: DIV barra zero é divisão por zero. N barra D, valor não encontrado. REF, referência inválida. NOME, função inexistente. VALOR, tipo incompatível.
+THALITA: Vou resumir assim: dólar trava o que vem logo depois dele, seja coluna, seja linha, e na hora de copiar eu conto quantas colunas e linhas andei. Quanto aos erros, DIV é divisão por zero, N barra D é não encontrado.
+FRANCISCA: Agenda: título, data e hora, dia inteiro, repetição, notificações. Adicionar convidados, com permissões: modificar evento, convidar outros e ver a lista. Respostas: sim, não, talvez. Encontrar um horário cruza a disponibilidade dos convidados. O clipe anexa arquivo do Drive, e adicionar videoconferência do Google Meet gera o link.
+BRUNO: Tarefas: listas com data, repetição e subtarefas, no painel lateral do Gmail, da Agenda e do Docs; e-mail pode virar tarefa. Meet: reunião por link, apresentar tela, legendas, chat, levantar a mão, enquetes, salas temáticas; gravação conforme o plano. Apresentações: temas, layouts, anotações do apresentador e exportação em pptx e pdf.
+== SLIDE: Google Drive: papéis e compartilhamento
+* Quinze gigabytes compartilhados com Gmail e Fotos
+* Leitor, Comentarista, Editor, Proprietário
+* Restrito, Organização, Qualquer pessoa com o link
+* Drive compartilhado: o dono é a equipe
+ANTONIO: Google Drive. A conta gratuita tem quinze gigabytes compartilhados entre Gmail, Drive e Fotos. A Lixeira do Drive apaga após trinta dias. Os papéis: Leitor visualiza e, por padrão, baixa e imprime, mas não comenta nem edita.
+THALITA: Comentarista edita?
+FRANCISCA: Não, comenta e sugere, mas não edita diretamente. O Editor edita e, por padrão, compartilha e altera permissões, mas não transfere a propriedade. O Proprietário faz tudo, inclusive excluir e transferir a propriedade, e é único por arquivo.
+BRUNO: Acesso geral. Restrito: só as pessoas adicionadas abrem. Organização: membros do domínio com o link. Qualquer pessoa com o link: qualquer um, sem login, no papel escolhido. Dispensa conta Google. E o proprietário pode desmarcar a opção de editores alterarem permissões.
+THALITA: E o drive compartilhado, como é?
+ANTONIO: No Meu Drive, o dono é o usuário, e os arquivos saem com ele. No Drive compartilhado, o dono é a equipe, e os arquivos permanecem quando alguém sai. Os papéis são Administrador, Administrador de conteúdo, Colaborador, Comentarista e Leitor.
+FRANCISCA: Resumo das armadilhas: comentarista sugere e não edita; editor compartilha por padrão; qualquer pessoa com o link não precisa de login; em drive compartilhado, o dono é a equipe.
+THALITA: Fechou. Minha ordem de poder no Drive é leitor, comentarista, editor, proprietário, e só o proprietário transfere a propriedade e exclui o arquivo para todos.
+== SLIDE: Redes e internet
+* LAN, MAN, WAN; internet, intranet, extranet, VPN
+* SMTP envia; POP3 e IMAP recebem
+* HTTP porta oitenta, HTTPS quatrocentos e quarenta e três
+* DNS traduz nomes; DHCP atribui IP
+BRUNO: Redes. LAN é a rede local, num prédio. MAN, metropolitana, uma cidade. WAN, longa distância, estados e países. Internet é a rede mundial pública baseada em TCP IP. Intranet é privada, usa as tecnologias da internet, restrita a usuários internos. Extranet abre parte da intranet, com controle, a parceiros externos.
+THALITA: E a VPN?
+ANTONIO: É um túnel criptografado sobre a internet para acesso seguro à rede interna. A intranet pode ser acessada de fora por VPN. Wi-Fi é a rede sem fio do padrão oito zero dois ponto onze; use WPA dois ou três, e o WEP é inseguro. IP identifica o dispositivo, com trinta e dois bits no IPv quatro e cento e vinte e oito no IPv seis; porta identifica o serviço.
+FRANCISCA: Protocolos. TCP é transporte com conexão e confiável; UDP, sem conexão e mais rápido, usado em streaming e voz. HTTP, páginas, porta oitenta. HTTPS, com criptografia TLS e certificado, o cadeado, porta quatrocentos e quarenta e três. FTP, arquivos, portas vinte e vinte e um. DNS traduz nomes em IP, porta cinquenta e três. DHCP atribui IP, máscara, gateway e DNS automaticamente.
+THALITA: Quer dizer que o SMTP só envia, nunca recebe? E o HTTPS tem sempre a porta quatrocentos e quarenta e três, enquanto o HTTP puro usa a oitenta. Entendi, vou decorar essas duas.
+BRUNO: E o e-mail. SMTP envia, porta vinte e cinco, ou quinhentos e oitenta e sete autenticado. POP3 recebe, baixando as mensagens, porta cento e dez, ou novecentos e noventa e cinco seguro. IMAP acessa as mensagens no servidor, sincronizadas, porta cento e quarenta e três, ou novecentos e noventa e três seguro.
+THALITA: Com POP3 as mensagens saem do servidor; com IMAP ficam.
+FRANCISCA: Isso, por padrão. Por isso o POP3 é inadequado para vários dispositivos, e o IMAP sincroniza lidas, pastas e excluídas. A FCC troca SMTP por POP3 no envio, ou diz que o IMAP remove as mensagens do servidor. No webmail, o acesso é por HTTPS.
+== SLIDE: Navegadores e ferramentas de busca
+* Janela privativa do Firefox: Ctrl Shift P
+* Anônima do Chrome e InPrivate do Edge: Ctrl Shift N
+* Navegação privada apaga histórico e cookies, mantém downloads e favoritos
+* Operadores: aspas, hífen, site, filetype, OR, curinga
+ANTONIO: Navegadores. Os atalhos são quase idênticos, com uma exceção decisiva: janela privativa do Firefox é Ctrl Shift P; anônima do Chrome e InPrivate do Edge, Ctrl Shift N. No Firefox, Ctrl Shift N reabre a última janela fechada.
+THALITA: E o que a navegação privada apaga?
+BRUNO: Ao fechar, apaga do dispositivo histórico, cookies e dados de formulário. Mantém downloads e favoritos. Não oculta a navegação do provedor, da rede corporativa nem dos sites, e não protege contra malware. Pegadinha: a navegação anônima não esconde os acessos do empregador.
+FRANCISCA: Cookies são arquivos de texto gravados pelo site, de sessão ou persistentes, primários ou de terceiros. Cache é cópia local de páginas e imagens para acelerar o carregamento. Extensões adicionam funções, com risco se a origem for duvidosa.
+ANTONIO: Atalhos comuns: Ctrl T nova guia, Ctrl W fecha, Ctrl Shift T reabre a última guia fechada, Ctrl H histórico, Ctrl J downloads, Ctrl D favoritos, Ctrl Shift Del limpa dados, F5 recarrega, Ctrl F5 recarrega ignorando o cache, Ctrl L ou F6 barra de endereços.
+THALITA: Agora a busca. Aspas é expressão exata; hífen exclui o termo.
+BRUNO: Isso. site dois-pontos restringe a um domínio; filetype dois-pontos, tipo de arquivo, como edital filetype pdf; OR em maiúsculas, um termo ou outro; asterisco, curinga; intitle, termo no título; dois pontos seguidos, intervalo numérico. O Bing aceita quase tudo, usa AND, OR e NOT, e tem inbody e ip. O mais do Google foi descontinuado: para obrigar um termo, aspas.
+ANTONIO: Fechamos Google Workspace, redes, navegadores e busca. No próximo tema, segurança da informação.
