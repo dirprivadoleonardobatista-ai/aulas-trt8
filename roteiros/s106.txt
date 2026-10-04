@@ -1,0 +1,146 @@
+SEGMENTO s106
+== SLIDE: Contratação direta: três figuras diferentes
+* Inexigibilidade (art. 74): competição inviável; rol exemplificativo
+* Dispensável (art. 75): competição viável; rol taxativo
+* Licitação dispensada (art. 76): alienações; a lei já afastou
+* Instrução no art. 72; responsabilidade solidária (art. 73)
+ANTONIO: Vimos como corre o processo licitatório. Mas nem sempre há licitação. A Administração pode contratar diretamente em três situações diferentes: inexigibilidade, dispensa e licitação dispensada.
+THALITA: Para mim isso é uma sopa de letrinhas. Qual a diferença entre elas?
+ANTONIO: A pergunta é se a competição é viável. Na inexigibilidade, a competição é inviável, é impossível licitar. Na dispensa, a competição é viável, a Administração poderia licitar, mas a lei faculta não fazer. Na licitação dispensada, a lei já afastou a licitação, e trata da alienação de bens.
+FRANCISCA: Exemplos. Inexigibilidade: fornecedor exclusivo, artista consagrado, serviço técnico de notória especialização, credenciamento, imóvel singular. Dispensa: contratação de valor baixo, emergência, licitação deserta. Licitação dispensada: doação, permuta, dação em pagamento.
+BRUNO: E o rol é a pegadinha. Inexigibilidade tem rol exemplificativo, porque o artigo setenta e quatro diz em especial. Dispensa e licitação dispensada têm rol taxativo. A FCC adora afirmar que as hipóteses de dispensa são exemplificativas. Errado.
+THALITA: Então: se não dá para competir, inexigível e exemplificativo. Se dá para competir mas a lei permite, dispensável e taxativo.
+ANTONIO: Perfeito. Antes de qualquer contratação direta, o artigo setenta e dois exige um processo instruído com documento de formalização da demanda, estimativa de despesa, parecer jurídico, razão da escolha do contratado e justificativa de preço.
+FRANCISCA: E o artigo setenta e três avisa: se a contratação direta for indevida, com dolo, fraude ou erro grosseiro, o contratado e o agente público respondem solidariamente pelo dano causado.
+BRUNO: Solidariamente, e isso a banca cobra. Não é só o agente, nem só o contratado.
+THALITA: Entendi. Vamos ver cada uma agora?
+
+== SLIDE: Inexigibilidade: artigo 74
+* Fornecedor ou representante exclusivo
+* Artista consagrado pela crítica ou pela opinião pública
+* Serviços técnicos de notória especialização; publicidade vedada
+* Credenciamento e imóvel singular (novidades)
+* ADC 45: advocacia por inexigibilidade, com requisitos
+ANTONIO: O artigo setenta e quatro diz que é inexigível a licitação quando inviável a competição, em especial nos casos de cinco incisos. Primeiro: aquisição de materiais, equipamentos ou serviços que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos.
+FRANCISCA: Segundo: contratação de profissional do setor artístico, diretamente ou por empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública.
+BRUNO: Pela crítica ou pela opinião pública. A banca troca o ou por e, ou diz que basta ser conhecido na cidade. Fique atento.
+ANTONIO: Terceiro: serviços técnicos especializados de natureza predominantemente intelectual, com profissionais ou empresas de notória especialização. Estão nessa lista estudos e projetos, pareceres, perícias e avaliações, assessorias, consultorias e auditorias, fiscalização e gerenciamento de obras, patrocínio ou defesa de causas, treinamento, restauração de obras de arte, e controles e ensaios de engenharia.
+THALITA: E publicidade? Eu li que não pode.
+FRANCISCA: Correto. É vedada a inexigibilidade para serviços de publicidade e divulgação.
+ANTONIO: Quarto: objetos que devam ou possam ser contratados por meio de credenciamento. Quinto: aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária a sua escolha.
+BRUNO: Essas duas são novidades. Na lei antiga, o imóvel era caso de dispensa. Agora é inexigibilidade, e exige avaliação prévia e certificação de que não há imóvel público disponível.
+FRANCISCA: Ainda há restrições. É vedada a preferência por marca. O empresário exclusivo deve ter representação permanente e contínua, não restrita a evento ou local. E é vedada a subcontratação dos profissionais que justificaram a notória especialização.
+THALITA: E advogado? Pode contratar sem licitação?
+FRANCISCA: O Supremo, na ADC quarenta e cinco, considerou constitucional a contratação direta de serviços advocatícios por inexigibilidade, quando há notória especialização e natureza singular do serviço, inadequação da prestação pelos integrantes do Poder Público e preço compatível com o mercado.
+THALITA: Quer dizer que os quatro requisitos precisam estar juntos.
+BRUNO: Isso. Confira a tese oficial, mas a ideia é essa.
+
+== SLIDE: Dispensa por valor: artigo 75
+* Até 100 mil reais: obras, engenharia e manutenção de veículos
+* Até 50 mil reais: outros serviços e compras
+* Valores originais; atualizados todo 1º de janeiro (art. 182)
+* Soma no exercício, por unidade gestora, de mesma natureza
+* Consórcios e agências executivas: limites dobrados
+ANTONIO: Agora a dispensa, no artigo setenta e cinco. Os dois primeiros incisos são os de valor. É dispensável a licitação para obras e serviços de engenharia e manutenção de veículos automotores, de valor inferior a cem mil reais. E para outros serviços e compras, inferior a cinquenta mil reais.
+THALITA: Esses valores são fixos?
+BRUNO: Atenção. Esses são os valores originais da lei. Eles são atualizados todo primeiro de janeiro, por ato do Executivo federal, pelo índice de preços IPCA-E, conforme o artigo cento e oitenta e dois. A questão pode pedir o valor da lei ou o valor vigente, então leia o comando com cuidado. Em geral, questões nos termos da lei usam os valores originais.
+FRANCISCA: O mesmo vale para o limite de dez mil reais do contrato verbal. Tudo é atualizado.
+ANTONIO: O cálculo é pelo somatório, no exercício financeiro, por unidade gestora, de objetos de mesma natureza. Há uma exceção: manutenção de veículos de até oito mil reais.
+FRANCISCA: Imagine uma unidade gestora que contrata por dispensa, em março, uma lavanderia por trinta mil reais. Em agosto, quer um novo serviço do mesmo ramo, por vinte e cinco mil reais. Somados, dá cinquenta e cinco mil, acima do limite original de cinquenta mil no exercício.
+THALITA: Isso é fracionamento, não é? Ela quebrou a compra em pedaços para fugir da licitação.
+FRANCISCA: Exatamente. A segunda contratação exige licitação.
+ANTONIO: Mais duas regras. Os limites são dobrados para consórcios públicos e agências executivas. E o aviso prévio da contratação, de preferência em sítio oficial, tem prazo de três dias úteis.
+BRUNO: Aviso preferencial, não obrigatório. Anote.
+
+== SLIDE: Outras hipóteses de dispensa e licitação dispensada
+* Deserta ou fracassada: licitação há menos de 1 ano
+* Perecíveis pelo preço do dia; peças em garantia
+* Emergência: parcelas em até 1 ano; vedada prorrogação e recontratação
+* Art. 76: imóvel exige autorização legislativa e leilão
+* Móvel: avaliação e leilão, sem autorização legislativa
+ANTONIO: Outras hipóteses de dispensa muito cobradas. A licitação deserta ou fracassada, quando realizada há menos de um ano, mantidas as condições do edital, sem interessados, sem propostas válidas, ou com preços superiores aos de mercado.
+FRANCISCA: Peças em garantia, do fornecedor original, se indispensável à vigência da garantia técnica. Perecíveis, como hortifrutigranjeiros e pães, no tempo da licitação, pelo preço do dia. Associações e cooperativas de catadores de baixa renda. Em caso de guerra, estado de defesa, estado de sítio, intervenção federal ou grave perturbação da ordem.
+BRUNO: A emergência ou calamidade é a mais cobrada. A contratação cobre só o necessário, as parcelas devem ser concluídas em até um ano da ocorrência, e são vedadas a prorrogação do contrato e a recontratação da mesma empresa.
+THALITA: Então emergência não vira contrato eterno.
+BRUNO: Isso mesmo. Outras: bens e serviços de órgão criado para esse fim, a preço de mercado; associação de pessoas com deficiência, sem fins lucrativos, com serviços prestados exclusivamente por elas; e instituição de pesquisa, ensino ou recuperação de presos, sem fins lucrativos, de inquestionável reputação ético-profissional.
+ANTONIO: Passemos à licitação dispensada, artigo setenta e seis, que trata da alienação. Para bens imóveis, exige-se interesse público, avaliação prévia, autorização legislativa e, em regra, leilão.
+FRANCISCA: Dispensam o leilão a dação em pagamento, a doação ou venda a outro órgão da Administração, a permuta, a investidura e programas habitacionais ou de regularização fundiária de interesse social.
+THALITA: E bens móveis?
+FRANCISCA: Interesse público, avaliação prévia e leilão, mas sem autorização legislativa. Dispensam a licitação a doação para interesse social, a permuta entre órgãos, a venda de ações e títulos, a venda de bens produzidos pela entidade, e a venda de materiais sem uso a outros órgãos.
+THALITA: Macete: imóvel pede lei e leilão, móvel não pede lei.
+
+== SLIDE: Anulação, revogação e recursos
+* Revogação: conveniência, fato superveniente; anulação: ilegalidade insanável
+* Contraditório prévio nos dois casos
+* Impugnação: até 3 dias úteis antes da abertura
+* Recurso: 3 dias úteis; fase única; efeito suspensivo
+* Sanções: 15 dias úteis
+ANTONIO: Terminado o julgamento, a habilitação e os recursos, a autoridade superior pode sanear, revogar, anular ou adjudicar e homologar. A revogação decorre de conveniência e oportunidade, por fato superveniente comprovado. A anulação decorre de ilegalidade insanável.
+BRUNO: Os dois exigem prévia manifestação dos interessados. A revogação só é de ofício. A anulação pode ser de ofício ou por provocação. E ambos alcançam também a contratação direta e os procedimentos auxiliares.
+THALITA: Na anulação, o que acontece com os atos seguintes?
+FRANCISCA: A autoridade indica os atos viciados, invalida os dependentes deles e apura a responsabilidade.
+ANTONIO: Agora os prazos. A impugnação do edital pode ser feita por qualquer pessoa, até três dias úteis antes da data de abertura, e a resposta vem em até três dias úteis.
+FRANCISCA: O recurso, do artigo cento e sessenta e cinco, cabe contra julgamento, habilitação ou inabilitação, anulação ou revogação, pré-qualificação, registro cadastral e extinção unilateral do contrato. O prazo é de três dias úteis. Quem decidiu pode reconsiderar em três dias úteis, ou encaminhar à autoridade superior, que decide em dez dias úteis.
+BRUNO: Contra julgamento e habilitação, o licitante deve manifestar intenção imediata de recorrer, sob pena de preclusão, e depois apresentar razões em três dias úteis. A fase recursal é única. E recurso e reconsideração têm efeito suspensivo.
+THALITA: E contra as multas?
+FRANCISCA: Contra advertência, multa e impedimento, quinze dias úteis, com reconsideração em cinco e decisão em vinte dias úteis. Contra a inidoneidade, só cabe pedido de reconsideração, em quinze dias úteis.
+BRUNO: Cuidado: a representação como recurso da lei antiga não foi reproduzida. Na nova lei, qualquer pessoa representa aos órgãos de controle, como o tribunal de contas.
+
+== SLIDE: Infrações e sanções: artigos 155 a 163
+* Advertência; multa de 0,5% a 30%; impedimento até 3 anos; inidoneidade de 3 a 6 anos
+* Impedimento: só no ente que puniu; inidoneidade: todos os entes
+* Inidoneidade: competência exclusiva de autoridade de alto nível
+* Prescrição de 5 anos da ciência; comissão de 2 servidores estáveis
+* Reabilitação: 1 ano ou 3 anos, na própria autoridade
+ANTONIO: São quatro sanções. Advertência, multa, impedimento de licitar e contratar, e declaração de inidoneidade. A advertência só cabe para inexecução parcial, e se não couber sanção mais grave.
+FRANCISCA: A multa cabe para qualquer infração, de meio por cento a trinta por cento do valor do contrato, com defesa em quinze dias úteis.
+THALITA: E o impedimento?
+BRUNO: Cabe para inexecução parcial grave, inexecução total, não entregar documentos, não manter a proposta, não assinar o contrato ou retardar a execução. Dura até três anos e vale só para a Administração direta e indireta do ente que aplicou.
+ANTONIO: A inidoneidade cabe para documento ou declaração falsa, fraude, conduta inidônea, frustrar os objetivos da licitação ou ato lesivo da Lei Anticorrupção. Dura de três a seis anos e vale para todos os entes.
+FRANCISCA: A competência é exclusiva de ministro de Estado, secretário estadual ou municipal, ou autoridade máxima de autarquia ou fundação, com análise jurídica prévia.
+THALITA: Macete: impedimento até três, só o meu ente. Inidoneidade de três a seis, todos os entes.
+ANTONIO: Impedimento e inidoneidade exigem processo conduzido por comissão de dois ou mais servidores estáveis, com defesa em quinze dias úteis. A prescrição é de cinco anos, contados da ciência da infração.
+BRUNO: A multa pode ser cumulada com advertência, impedimento e inidoneidade, e nenhuma sanção exclui a reparação integral do dano.
+FRANCISCA: A reabilitação exige, cumulativamente, reparação integral do dano, pagamento da multa, um ano para o impedimento ou três anos para a inidoneidade, e análise jurídica prévia, perante a própria autoridade que puniu. Em falsidade e ato lesivo anticorrupção exige-se ainda programa de integridade.
+
+== SLIDE: Crimes em licitações no Código Penal
+* Artigos 337-E a 337-P, inseridos pela Lei 14.133
+* Reclusão de 4 a 8 anos: contratação direta ilegal, frustração, modificação irregular, fraude
+* Detenção: perturbação de processo e violação de sigilo
+* Aplicam-se também às estatais; multa mínima de 2%
+BRUNO: Os crimes foram inseridos no Código Penal pela nova lei, e valem inclusive para as estatais. O primeiro é a contratação direta ilegal: reclusão de quatro a oito anos e multa.
+FRANCISCA: Outros com quatro a oito anos: frustração do caráter competitivo, modificação ou pagamento irregular em contrato, inclusive preterir a ordem cronológica de pagamentos, e fraude em licitação ou contrato.
+THALITA: Macete: quatro a oito para contratação direta ilegal, frustração, pagamento irregular e fraude.
+ANTONIO: Os dois com detenção, e não reclusão, são a perturbação de processo licitatório, de seis meses a três anos, e a violação de sigilo de proposta, de dois a três anos.
+BRUNO: Cuidado com a troca de detenção por reclusão. Esses dois são os únicos de detenção.
+FRANCISCA: Outros crimes: patrocínio de contratação indevida, de seis meses a três anos; afastamento de licitante por violência, ameaça, fraude ou vantagem, de três a cinco anos, além da pena da violência; contratação inidônea, de um a três anos para admitir o inidôneo à licitação e de três a seis para celebrar o contrato.
+ANTONIO: E também impedimento indevido de licitante em registro cadastral, de seis meses a dois anos, e omissão grave de dado por projetista, de seis meses a três anos, com pena em dobro se for para obter benefício.
+THALITA: E a multa?
+BRUNO: A multa, no artigo trezentos e trinta e sete-P, não pode ser inferior a dois por cento do valor do contrato.
+
+== SLIDE: Contrato administrativo e cláusulas exorbitantes
+* Regime de direito público; teoria geral dos contratos de forma supletiva
+* Artigo 104: modificar, extinguir, fiscalizar, sancionar e ocupar
+* Cláusulas econômico-financeiras: só com concordância do contratado
+* Modificação unilateral: 25% e 50%, com reequilíbrio no mesmo aditivo
+* Exceção do contrato não cumprido: atraso superior a 2 meses
+ANTONIO: Chegamos ao contrato administrativo, regido por suas cláusulas e pelos preceitos de direito público, com aplicação supletiva da teoria geral dos contratos e do direito privado, nos termos do artigo oitenta e nove.
+FRANCISCA: As marcas são o formalismo, a mutabilidade, a pessoalidade relativa e as cláusulas exorbitantes. O artigo cento e quatro dá à Administração cinco prerrogativas: modificar unilateralmente o contrato, extingui-lo unilateralmente, fiscalizar a execução, aplicar sanções por inexecução e ocupar provisoriamente bens e pessoal.
+THALITA: E se a Administração alterar o contrato, o contratado só suporta?
+FRANCISCA: Não, e aí está o contrapeso. As cláusulas econômico-financeiras não podem ser alteradas sem concordância do contratado. E, alterada a execução, o equilíbrio deve ser recomposto no mesmo termo aditivo.
+BRUNO: A modificação unilateral tem limite: vinte e cinco por cento do valor para acréscimos e supressões, e cinquenta por cento nos acréscimos de reforma de edifício ou equipamento, sem transfigurar o objeto.
+ANTONIO: A extinção unilateral só ocorre nas hipóteses legais, com motivação e contraditório, e é vedada se a causa for conduta da própria Administração. A fiscalização é feita por fiscal designado, e não reduz a responsabilidade do contratado. A ocupação provisória ocorre em risco a serviço essencial ou para acautelar apuração de faltas.
+BRUNO: Pegadinha: alterar unilateralmente o preço não é prerrogativa exorbitante. E a exceção do contrato não cumprido existe em favor do contratado, mas só após atraso de pagamento superior a dois meses.
+
+== SLIDE: Resumo relâmpago e despedida
+* Inexigibilidade inviável e exemplificativa; dispensa taxativa
+* Prazos: 3 dias úteis; sanções 15
+* Impedimento até 3 anos; inidoneidade de 3 a 6
+* Crimes: 4 a 8 anos; detenção só em dois
+* Contrato: modificação sem tocar cláusula econômica
+THALITA: Hora do resumo relâmpago da aula inteira. Licitação: processo formal, norma geral da União, vinte e dois princípios, e a FCC inventa princípio que não existe. Obra inova, serviço comum preserva. Integrada, dois projetos. Semi, só o executivo.
+BRUNO: Corrijo um ponto: o agente de contratação é o que precisa ser efetivo ou permanente. Para os agentes em geral é preferencialmente. E comissão: três membros, responsabilidade solidária.
+THALITA: Isso, obrigada. Modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo, e convite e tomada de preços morreram. Pregão nunca com técnica e preço, nem obra. Prazos: oito, dez, quinze, vinte e cinco, trinta e cinco e sessenta, em dias úteis.
+FRANCISCA: Contratação direta: inexigibilidade é competição inviável, com rol exemplificativo. Dispensa é taxativa. Licitação deserta, só se feita há menos de um ano.
+THALITA: Sanções: multa de meio a trinta por cento, impedimento até três anos só no ente, inidoneidade de três a seis em todos. Crimes: quatro a oito, e detenção só para perturbação e violação de sigilo. E contrato: cláusulas exorbitantes não mexem na cláusula econômica.
+ANTONIO: Aula encerrada, pessoal. Revejam os quadros de prazos e sanções, e bons estudos!
