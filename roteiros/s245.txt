@@ -1,0 +1,50 @@
+SEGMENTO s245
+== SLIDE: Questões um a três: peculato, concussão e funcionário
+* Q1: peculato culposo com reparação antes da sentença extingue a punibilidade
+* Q2: exigir vantagem é concussão, crime formal
+* Q3: art. 327 vale ainda que transitório e sem remuneração
+ANTONIO: Chegou a hora de treinar. Vamos às questões no estilo FCC, e a primeira é de peculato. Márcio, servidor, deixou por descuido o cofre do almoxarifado aberto, e Bruno, colega, subtraiu notebooks. Antes da sentença irrecorrível, Márcio reparou o dano. Pausa para você pensar.
+THALITA: Eu marcaria peculato-furto, letra B.
+BRUNO: Cuidado. O peculato-furto é de Bruno, o colega. Márcio agiu com culpa, e a reparação antes da sentença irrecorrível extingue a punibilidade, no peculato culposo. Gabarito C. A letra A é a fração do arrependimento posterior, que não vale no culposo. A D só serviria se a reparação fosse depois da sentença. E a E, condescendência, exige indulgência com subordinado.
+FRANCISCA: Segunda questão. Tereza, servidora, condiciona a liberação de um alvará ao pagamento de cinco mil reais, sob pena de esquecer o processo. Pense um pouco.
+THALITA: É corrupção passiva, porque ela quer dinheiro.
+BRUNO: Quase. O verbo é exigir, então é concussão, e consuma com a exigência. Gabarito A. A B erra porque corrupção passiva é solicitar, receber ou aceitar promessa. A C erra porque excesso de exação envolve tributo. A D, prevaricação, não serve, pois ela visa vantagem, e não sentimento pessoal. E a E erra porque o pagamento é mero exaurimento.
+ANTONIO: Terceira, sobre o artigo trezentos e vinte e sete. A letra A diz que o conceito exige remuneração. A B, que empregado de empresa contratada para atividade atípica é equiparado. A C, que o aumento do parágrafo segundo alcança dirigentes de autarquias. A D, que jurado não é funcionário. A E, que o exercício transitório basta.
+FRANCISCA: A resposta é a E, literalidade do caput. A A erra: vale ainda que sem remuneração. A B erra, porque a equiparação exige atividade típica. A C erra, pois o parágrafo segundo não cita autarquia. E a D erra, porque o jurado exerce função pública, ainda que transitória.
+THALITA: Anotei: transitório e sem remuneração entram, atípica não equipara, autarquia fora do aumento.
+== SLIDE: Questões quatro a seis: resistência, latrocínio e imunidade
+* Q4: empurrar o agente é resistência, soma-se a pena da violência
+* Q5: morte na subtração é latrocínio consumado (Súm. 610 STF)
+* Q6: irmão: imunidade relativa, ação depende de representação
+BRUNO: Quarta questão. Um agente da polícia judicial retira Carlos da sala, por ordem legal do juiz. Carlos empurra violentamente o agente, mas acaba retirado. Ele praticou desobediência, resistência simples sem prejuízo da pena da violência, resistência qualificada, desacato ou fato atípico?
+THALITA: Eu diria desacato, pois ele afrontou a ordem.
+FRANCISCA: Desacato é ofensa à dignidade da função, e não houve. Houve violência contra o agente, o que afasta a desobediência e configura resistência. Como o ato foi executado, não é a qualificada, que exige a inexecução. Gabarito B, artigo trezentos e vinte e nove. E a E erra porque o ato era legal e o funcionário competente.
+ANTONIO: Quinta. Para subtrair um carro, Ana dispara contra o proprietário, que morre. Assustada, foge sem levar o veículo. Ela responde por quê?
+THALITA: Roubo tentado e homicídio consumado?
+BRUNO: Esse é o erro clássico. É crime complexo único. Pela Súmula seiscentos e dez do STF, a morte consuma o latrocínio, ainda que a subtração não se realize. Pela Súmula seiscentos e três do STF, o julgamento é do juiz singular. Gabarito D. A A erra porque a morte ligada à subtração é latrocínio. A C erra porque a morte consumada consuma o crime. E a E erra porque não vai ao Júri.
+FRANCISCA: Sexta. Pedro, de trinta e cinco anos, furtou, sem violência, joias do irmão Lucas, que não mora com ele. Qual é a consequência?
+THALITA: Isenção de pena?
+FRANCISCA: Não, a isenção é para cônjuge, ascendente e descendente. Irmão é imunidade relativa, do artigo cento e oitenta e dois: a ação depende de representação. Gabarito A. A C contraria o artigo. A D erra porque a coabitação é exigida de tio e sobrinho. E a E erra porque a imunidade só cai com violência, grave ameaça, vítima idosa ou participação de estranho.
+== SLIDE: Questões sete a nove: lesão, honra e prevaricação
+* Q7: perda de sentido e deformidade são lesão gravíssima
+* Q8: na calúnia, exceção da verdade vedada se absolvido por sentença irrecorrível
+* Q9: retardar ato por inimizade é prevaricação
+ANTONIO: Sétima. Quais resultados qualificam a lesão corporal como gravíssima? Um, perda da visão de um olho. Dois, aceleração do parto. Três, deformidade permanente. Quatro, incapacidade para ocupações habituais por vinte dias.
+THALITA: Eu pegaria um, dois e três.
+BRUNO: A aceleração do parto é lesão grave. A incapacidade por vinte dias nem é grave, pois a grave exige mais de trinta. Perda de sentido e deformidade são do parágrafo segundo do artigo cento e vinte e nove. Gabarito C, um e três. Por isso a A e a D erram por incluir o dois, e a B e a E por incluir o quatro.
+FRANCISCA: Oitava, sobre crimes contra a honra. A letra A diz que a retratação na injúria isenta de pena. A B, que a exceção da verdade cabe na injúria contra servidor. A C, que difamação contra mortos é punível. A D, que ofensa a servidor em razão das funções só admite ação privada. A E, que na calúnia a exceção da verdade é vedada se o ofendido foi absolvido por sentença irrecorrível.
+ANTONIO: A correta é a E, artigo cento e trinta e oito, parágrafo terceiro, inciso três. A retratação só vale na calúnia e na difamação. A injúria nunca admite exceção da verdade. Só a calúnia contra mortos é punível. E, para servidor, a legitimidade é concorrente, conforme a Súmula setecentos e catorze do STF.
+BRUNO: Nona. Paula, servidora, atrasa de propósito o cumprimento de um mandado por inimizade com a parte.
+THALITA: Isso é prevaricação, porque foi por sentimento pessoal!
+FRANCISCA: Isso mesmo. Gabarito B, artigo trezentos e dezenove. A condescendência exige indulgência com subordinado. A advocacia administrativa exige patrocínio de interesse privado. A corrupção privilegiada exige ceder a pedido de terceiro. E o abandono de função exige deixar o cargo.
+== SLIDE: Questão dez e resumo relâmpago
+* Q10: meio cruel é objetivo e admite o privilégio de relevante valor moral
+* Feminicídio é tipo autônomo, art. 121-A
+* Furto, roubo e extorsão; latrocínio; peculato; imunidades
+ANTONIO: Décima. Sobre o homicídio, a letra A diz que motivo fútil é compatível com o privilégio. A B, que o feminicídio é qualificadora do artigo cento e vinte e um. A C, que o homicídio culposo aumenta se a vítima é maior de sessenta anos. A D, que o meio cruel pode coexistir com o relevante valor moral. A E, que a traição é qualificadora subjetiva.
+THALITA: Eu fiquei na D, mas por intuição.
+BRUNO: Intuição certa. O meio é objetivo, então admite o homicídio privilegiado-qualificado. Gabarito D. A A erra porque o motivo fútil é subjetivo e incompatível. A B erra porque o feminicídio hoje é tipo autônomo, artigo cento e vinte e um-A, da Lei catorze mil novecentos e noventa e quatro, de dois mil e vinte e quatro. A C erra porque esse aumento é do homicídio doloso. E a E erra porque a traição é modo de execução, objetiva.
+FRANCISCA: Um bom treino mostra o padrão: a FCC mistura crimes parecidos e troca a consequência. Quem sabe o verbo e o requisito acerta.
+THALITA: Resumo relâmpago. Furto, roubo e extorsão: a vítima precisa colaborar só na extorsão, que consuma sem vantagem. Latrocínio consuma com a morte, e o juiz é o singular. Peculato culposo: reparou antes da sentença, extingue a punibilidade. Exigir é concussão, pedir ou receber é corrupção. Funcionário público inclui o transitório, e o aumento do parágrafo segundo não cita autarquia. Imunidade: cônjuge e ascendente isentam, irmão exige representação.
+BRUNO: E não esqueçam a Súmula quinhentos e onze, o estelionato condicionado à representação e a regra do desacato.
+ANTONIO: Foi um prazer estudar com vocês. Até a próxima aula, bons estudos!
