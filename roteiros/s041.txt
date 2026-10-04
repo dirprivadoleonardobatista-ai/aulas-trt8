@@ -1,0 +1,121 @@
+SEGMENTO s041
+== SLIDE: Evolução histórica dos direitos humanos
+* Inglaterra: Magna Carta (1215), Petition of Rights, Habeas Corpus Act, Bill of Rights
+* Revoluções liberais: Virgínia (1776) e França (1789)
+* Constitucionalismo social: México (1917), Weimar (1919), OIT (1919)
+* Pós-guerra: Carta da ONU (1945), DUDH (1948), Pactos (1966)
+* Viena (1993): universais, indivisíveis, interdependentes e inter-relacionados
+ANTONIO: Olá, pessoal, bem-vindos à aula treze, de Noções de Direitos Humanos. Hoje vamos ver a evolução histórica e os fundamentos filosóficos, o conceito, as fontes e a classificação, as características e os princípios, as gerações, a interpretação dos tratados e a colisão entre direitos. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei, a jurisprudência e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Vou mostrar as pegadinhas da banca.
+THALITA: E eu sou a Thalita, concurseira. Esse tema é de decorar datas, mas prometo perguntar tudo!
+ANTONIO: Vamos começar pela história. São três movimentos: a limitação do poder, a positivação em declarações e constituições, e a internacionalização depois da Segunda Guerra.
+FRANCISCA: Na Inglaterra, temos a Magna Carta, de mil duzentos e quinze, a Petition of Rights, de mil seiscentos e vinte e oito, o Habeas Corpus Act, de mil seiscentos e setenta e nove, e o Bill of Rights, de mil seiscentos e oitenta e nove. A contribuição é limitar o poder do monarca e proteger a liberdade de locomoção.
+THALITA: Então habeas corpus já nasce lá, ligado à liberdade de ir e vir?
+FRANCISCA: Isso mesmo. Depois vêm as revoluções liberais: a Declaração da Virgínia, de mil setecentos e setenta e seis, e a Declaração dos Direitos do Homem e do Cidadão, na França, em mil setecentos e oitenta e nove. Reconhecem direitos inatos e universais, oponíveis ao Estado.
+BRUNO: A banca gosta de trocar a ordem. Primeiro Inglaterra, depois Virgínia e França.
+ANTONIO: No constitucionalismo social, temos as Constituições do México, de mil novecentos e dezessete, e de Weimar, de mil novecentos e dezenove, além da criação da OIT, também em dezenove. Aparecem os direitos sociais e trabalhistas, e o Estado passa a ser prestador.
+THALITA: México e Weimar, direitos sociais. Anotei.
+FRANCISCA: No pós-guerra, vêm a Carta da ONU, em mil novecentos e quarenta e cinco, a Declaração Universal, em quarenta e oito, e os Pactos de mil novecentos e sessenta e seis. Os direitos humanos passam a ser tema de legítimo interesse internacional. Para consolidar, as Conferências de Teerã, de sessenta e oito, e de Viena, de noventa e três.
+BRUNO: De Viena, guarde a fórmula: direitos universais, indivisíveis, interdependentes e inter-relacionados.
+ANTONIO: E a Declaração Universal, mais o Pacto de Direitos Civis e Políticos e o Pacto de Direitos Econômicos, Sociais e Culturais, com seus protocolos, formam a Carta Internacional de Direitos Humanos.
+THALITA: Carta Internacional: DUDH mais os dois Pactos. Gravei.
+== SLIDE: Fundamentos filosóficos e a dignidade em Kant
+* Jusnaturalismo: direitos inatos, de Deus ou da razão
+* Positivismo: só é direito o que o Estado positiva (Kelsen)
+* Pós-positivismo: direito e moral; força dos princípios (Dworkin, Alexy)
+* Historicismo (Bobbio): o problema é proteger, não justificar
+* Dignidade é FUNDAMENTO (art. 1º, III); prevalência dos DH é PRINCÍPIO (art. 4º, II)
+ANTONIO: Agora os fundamentos filosóficos, em quatro correntes. O jusnaturalismo diz que os direitos são inatos, anteriores ao Estado, derivados de Deus, em Tomás de Aquino, ou da razão, em Locke e Rousseau.
+THALITA: E qual a crítica?
+FRANCISCA: A abstração. Mas foi a base das declarações do século dezoito. Já o positivismo, de Kelsen, sustenta que só é direito o que o Estado positiva.
+BRUNO: A crítica clássica é que o positivismo legitimou ordens formalmente válidas, porém injustas, como a legalidade nazista. É daí que vem o pós-positivismo.
+ANTONIO: O pós-positivismo reaproxima o direito da moral e dá força normativa aos princípios, com Dworkin e Alexy. Ele é a base da ponderação, que veremos no final.
+FRANCISCA: Há ainda o historicismo, de Bobbio: os direitos resultam de lutas históricas, e o problema não é justificá-los, mas protegê-los.
+THALITA: Então o autor que fala em proteger e não justificar é Bobbio. Certo?
+BRUNO: Certo. E o eixo de tudo é a dignidade em Kant. No reino dos fins, tudo tem preço, e é substituível, ou tem dignidade, que está acima de qualquer preço.
+FRANCISCA: O imperativo categórico manda tratar a humanidade sempre como fim, nunca simplesmente como meio. Daí a fórmula do objeto, de Dürig: viola-se a dignidade quando a pessoa vira mero objeto, como no trabalho análogo ao de escravo.
+ANTONIO: Na Constituição, o artigo primeiro, inciso três, diz que a dignidade da pessoa humana é fundamento da República.
+BRUNO: A pegadinha clássica! Dignidade é fundamento. Já a prevalência dos direitos humanos é princípio das relações internacionais, artigo quarto, inciso dois. A banca troca fundamento, objetivo, do artigo terceiro, e princípio, do artigo quarto.
+THALITA: Fundamento, artigo primeiro; objetivo, artigo terceiro; princípio, artigo quarto. Macete: um, três, quatro.
+== SLIDE: Conceito, fontes e classificação
+* Direitos do homem: naturais; humanos: plano internacional; fundamentais: Constituição
+* Fontes: tratados, costume, princípios gerais; soft law auxilia
+* Jus cogens: tratado contrário é nulo (tortura, escravidão, genocídio)
+* Titularidade: individuais, coletivos e difusos
+* Sistemas global e regionais; geral e especial
+ANTONIO: Vamos ao conceito. Direitos do homem são os direitos naturais, ainda não positivados. Direitos humanos são os reconhecidos no plano internacional. E direitos fundamentais são os positivados na Constituição.
+THALITA: Natural, internacional e constitucional, nessa ordem. Entendi.
+FRANCISCA: As fontes são os tratados, o costume e os princípios gerais, com jurisprudência, doutrina e soft law como auxiliares. O tratado é a fonte principal, e vale o princípio pacta sunt servanda, do artigo vinte e seis da Convenção de Viena sobre Direito dos Tratados.
+BRUNO: O costume é a prática geral aceita como direito, e boa parte da Declaração Universal é hoje costume. Já o jus cogens são normas imperativas: o tratado que as contrarie é nulo, pelo artigo cinquenta e três da Convenção de Viena. Exemplos: proibição de tortura, escravidão e genocídio.
+THALITA: E soft law? É lei?
+ANTONIO: Não é obrigatória formalmente. São declarações, resoluções e comentários gerais, mas têm peso interpretativo.
+FRANCISCA: A classificação tem quatro critérios. Pela titularidade, são individuais, como a vida, coletivos, como a liberdade sindical, e difusos, como o meio ambiente. Pelo conteúdo, civis, políticos, econômicos, sociais, culturais e ambientais.
+BRUNO: Pelo alcance, o sistema é global, da ONU, ou regional, interamericano, europeu e africano, e eles são complementares entre si. Pelo destinatário, há o sistema geral, para a pessoa em abstrato, e o especial, para mulheres, crianças e pessoas com deficiência.
+THALITA: Resumindo: titularidade, conteúdo, alcance e destinatário. Quatro critérios. E se a questão disser que a soft law é obrigatória, já sei que está errada, porque ela tem apenas peso interpretativo. Se disser que tratado que contraria jus cogens é válido, também errada, porque ele é nulo.
+== SLIDE: Características dos direitos humanos
+* Universalidade, indivisibilidade, interdependência, inter-relacionamento
+* Inalienabilidade, irrenunciabilidade, imprescritibilidade
+* Historicidade, relatividade, vedação do retrocesso, inexauribilidade
+* Complementaridade: esgotamento dos recursos internos, em regra
+* STF, MS 23.452: não há direitos absolutos
+ANTONIO: Esse é o tema de maior incidência na FCC. Saiba o que cada característica não significa. Universalidade: todos têm esses direitos pela condição humana. As particularidades culturais devem ser consideradas, mas não legitimam violações.
+THALITA: Indivisibilidade e interdependência não são a mesma coisa?
+FRANCISCA: Não! Indivisibilidade quer dizer que os direitos formam um todo e não há hierarquia entre civis e sociais. Interdependência é que a efetividade de um depende da de outros: voto livre exige educação.
+BRUNO: Erro típico: dizer que direitos civis prevalecem sobre os sociais. Errado. E o inter-relacionamento é o diálogo entre os sistemas global e regional, sem prevalência automática de um.
+ANTONIO: Inalienabilidade: não se transferem nem se negociam, embora os efeitos patrimoniais, como indenização, sejam disponíveis. Irrenunciabilidade: o titular não pode abrir mão, mas se admite limitação voluntária pontual do exercício, como expor a intimidade em programa de televisão.
+THALITA: E a imprescritibilidade? Quer dizer que nenhuma pretensão prescreve?
+FRANCISCA: Não. O direito não se perde pelo tempo, mas a pretensão patrimonial prescreve, como os créditos trabalhistas, artigo sétimo, inciso vinte e nove.
+BRUNO: Historicidade explica as gerações. Relatividade significa que nenhum direito é absoluto, embora a doutrina trate como absolutas a proibição de tortura e de escravidão. O STF, no Mandado de Segurança vinte e três mil quatrocentos e cinquenta e dois, disse que não há direitos absolutos.
+ANTONIO: A vedação do retrocesso proíbe reduzir sem justificativa o nível de proteção alcançado, o efeito cliquet. Não congela a lei, mas veda o retrocesso arbitrário. A inexauribilidade é o rol aberto, artigo quinto, parágrafo segundo. E a complementaridade: a proteção internacional é subsidiária e exige, em regra, esgotar os recursos internos.
+FRANCISCA: Dispensa-se se houver demora injustificada ou ausência de devido processo.
+THALITA: Macete: universais, indivisíveis, interdependentes, inter-relacionados: fórmula de Viena. E direitos humanos são relativos, não absolutos.
+== SLIDE: Princípios e gerações de direitos
+* Princípios: dignidade, não discriminação, pro homine, boa-fé
+* Vasak (1979): liberdade, igualdade, fraternidade
+* 1ª: civis e políticos; 2ª: sociais; 3ª: solidariedade
+* Gerações se acumulam; por isso, "dimensões"
+* STF, MS 22.164: meio ambiente é de terceira geração
+ANTONIO: Os princípios são quatro. Dignidade, valor-fonte de todos os direitos. Não discriminação, que veda distinções arbitrárias, mas admite ações afirmativas. Pro homine, em que prevalece a norma mais favorável. E boa-fé: o Estado não pode invocar o direito interno para descumprir tratado.
+FRANCISCA: Fundamentos: artigo vinte e nove da Convenção Americana e artigo quinto do Pacto Civil, para o pro homine; e artigos vinte e seis e vinte e sete da Convenção de Viena de mil novecentos e sessenta e nove, para a boa-fé.
+THALITA: Agora as gerações. Quem criou essa classificação? Bobbio?
+BRUNO: Pegadinha. É de Karel Vasak, de mil novecentos e setenta e nove, inspirada no lema da Revolução Francesa: liberdade, igualdade, fraternidade.
+ANTONIO: A primeira geração é a liberdade: direitos civis e políticos, como vida, propriedade, expressão e voto. O Estado se abstém, prestação negativa.
+FRANCISCA: A segunda é a igualdade material: direitos econômicos, sociais e culturais, como trabalho, saúde, educação e previdência. O Estado presta, prestação positiva. A terceira é a fraternidade: paz, desenvolvimento, meio ambiente e autodeterminação dos povos, com titularidade difusa.
+THALITA: E existe quarta e quinta geração?
+BRUNO: Existem na doutrina. Para Bobbio, a quarta é engenharia genética. Para Bonavides, democracia, informação e pluralismo, e a quinta é o direito à paz, deslocado da terceira. Por isso, paz é terceira geração para Vasak e quinta para Bonavides.
+ANTONIO: As gerações se acumulam, não se substituem. Por isso a doutrina prefere o termo dimensões. Cançado Trindade critica a metáfora geracional, porque sugere sucessão e fragmentação.
+FRANCISCA: O STF, no Mandado de Segurança vinte e dois mil cento e sessenta e quatro, de mil novecentos e noventa e cinco, disse que o meio ambiente equilibrado é direito de terceira geração, de titularidade coletiva, fundado na solidariedade.
+THALITA: Macete das pegadinhas: meio ambiente é terceira; trabalho é segunda; autor é Vasak.
+== SLIDE: Interpretação dos tratados de direitos humanos
+* Regra geral: Convenção de Viena, arts. 31 a 33
+* Pro homine: norma mais protetiva; restrições interpretam-se restritivamente
+* Evolutiva: tratados como instrumentos vivos
+* Efeito útil e interpretação autônoma
+* Atala Riffo vs. Chile (2012): orientação sexual
+ANTONIO: Na interpretação, a regra geral está nos artigos trinta e um a trinta e três da Convenção de Viena: boa-fé, sentido comum, contexto, objeto e finalidade. E os tratados de direitos humanos têm técnicas próprias.
+FRANCISCA: A primeira é a interpretação pro homine, ou pro persona. Aplica-se a norma ou o sentido mais protetivo, e as restrições a direitos se interpretam restritivamente. Está no artigo vinte e nove, alínea b, da Convenção Americana, e no artigo quinto, número dois, do Pacto Civil.
+THALITA: E a evolutiva?
+BRUNO: Os tratados são instrumentos vivos. Leem-se à luz das condições atuais, não da intenção originária. Exemplos: o caso Tyrer contra o Reino Unido, de mil novecentos e setenta e oito, na Corte Europeia, e a Opinião Consultiva dezesseis de mil novecentos e noventa e nove, na Corte Interamericana.
+ANTONIO: O efeito útil escolhe a interpretação que dá máxima efetividade à proteção. E a interpretação autônoma diz que os termos do tratado têm sentido internacional próprio, independente do direito interno, como trabalho forçado e pena.
+THALITA: Tem exemplo concreto?
+FRANCISCA: Tem. A Convenção Americana, de mil novecentos e sessenta e nove, não menciona orientação sexual entre os critérios proibidos de discriminação. A Corte, no caso Atala Riffo contra o Chile, de dois mil e doze, incluiu a orientação sexual na expressão qualquer outra condição social, por interpretação evolutiva e pro persona.
+BRUNO: Se a questão trouxer esse caso, a resposta é evolutiva e pro persona.
+THALITA: Macete: pro homine protege mais; evolutiva acompanha o tempo; efeito útil dá efetividade; autônoma tem sentido próprio. Vou reler o caso Atala Riffo, porque quero lembrar que orientação sexual entrou por interpretação, e não por texto expresso.
+== SLIDE: Colisão entre direitos humanos
+* Princípios são mandados de otimização; regras, tudo ou nada
+* Adequação, necessidade, proporcionalidade em sentido estrito (ordem subsidiária)
+* Concordância prática (Hesse) e núcleo essencial
+* Proibição de proteção insuficiente
+* STF, HC 82.424: liberdade de expressão não protege o racismo
+ANTONIO: Para fechar, a colisão. Direitos humanos têm estrutura de princípios. A colisão não se resolve por hierarquia, cronologia ou especialidade, mas por ponderação no caso concreto, guiada pela proporcionalidade, pela concordância prática e pelo núcleo essencial.
+FRANCISCA: Em Alexy, regras são mandamentos definitivos, aplicados por subsunção, tudo ou nada. Princípios são mandados de otimização, realizáveis em graus. Na colisão, um cede ao outro no caso concreto, sem ser invalidado.
+THALITA: Então a regra inválida sai do sistema, e o princípio só cede num caso?
+FRANCISCA: Exato. A proporcionalidade tem três subprincípios. Adequação: o meio fomenta o fim? Necessidade: há meio igualmente eficaz e menos gravoso? E proporcionalidade em sentido estrito: a importância do fim justifica a intensidade da restrição?
+BRUNO: Atenção, porque a ordem é subsidiária: só se examina a necessidade se a medida for adequada, e só se pondera em sentido estrito se for necessária. A FCC atribui à adequação o teste do meio menos gravoso, mas esse é da necessidade.
+ANTONIO: Ainda há a concordância prática, de Hesse, que harmoniza os bens em conflito sem sacrifício total de um, e o núcleo essencial, que nenhuma restrição pode atingir. Há também a proibição de proteção insuficiente: o Estado viola direitos quando protege de menos.
+THALITA: Dá um exemplo?
+FRANCISCA: A empregada Ana, da Alfa Limitada, passa por revista íntima diária para evitar furtos. A medida é adequada, mas não necessária, porque câmeras em áreas comuns e etiquetas eletrônicas são igualmente eficazes e menos gravosas. A análise para na necessidade. Além disso, a lei treze mil duzentos e setenta e um, de dois mil e dezesseis, proíbe revista íntima de funcionárias.
+BRUNO: No Supremo, o caso Ellwanger, Habeas Corpus oitenta e dois mil quatrocentos e vinte e quatro, de dois mil e três: a liberdade de expressão não protege a incitação ao racismo.
+THALITA: Macete: adequação, necessidade, proporcionalidade estrita, sempre nessa ordem.
+ANTONIO: Terminamos a teoria geral. No próximo tema, vamos ver como os tratados de direitos humanos entram na Constituição, o controle de convencionalidade, a Declaração Universal e os dois Pactos.

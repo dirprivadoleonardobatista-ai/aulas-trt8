@@ -1,0 +1,146 @@
+SEGMENTO s042
+== SLIDE: Tratados de direitos humanos e o artigo 5º, §§ 2º a 4º
+* Três patamares: emenda (§ 3º), supralegal e lei ordinária
+* § 2º: cláusula de abertura (1988); §§ 3º e 4º: EC 45/2004
+* § 3º: 3/5 dos membros, dois turnos, em cada Casa
+* Tratado não altera o texto da CF: integra o bloco de constitucionalidade
+* Rito do § 3º é opção do Congresso
+ANTONIO: Na teoria geral, falamos de princípios. Agora vamos a um tema de maior incidência: como os tratados de direitos humanos entram na Constituição. Há três patamares. Tratado de direitos humanos aprovado pelo rito do artigo quinto, parágrafo terceiro, equivale a emenda. Sem esse rito, é supralegal. E tratado comum vale como lei ordinária.
+THALITA: Mas de onde vem cada parágrafo?
+FRANCISCA: O parágrafo segundo é a cláusula de abertura, de mil novecentos e oitenta e oito: os direitos expressos não excluem outros decorrentes do regime, dos princípios ou dos tratados em que o Brasil seja parte. Os parágrafos terceiro e quarto vieram com a Emenda Constitucional quarenta e cinco, de dois mil e quatro.
+BRUNO: O parágrafo terceiro exige, em cada Casa do Congresso, dois turnos e três quintos dos votos dos respectivos membros. A banca troca: maioria absoluta, dois terços, três quintos dos presentes, turno único ou sessão conjunta. Tudo errado.
+THALITA: Então: três quintos dos membros, dois turnos, em cada Casa, separadamente.
+ANTONIO: Isso. O objeto são tratados sobre direitos humanos, não qualquer tratado. O efeito é equivalência a emenda constitucional, e não supralegalidade ou lei complementar.
+FRANCISCA: E a natureza é opção do Congresso, pois o texto diz que forem aprovados. Não é rito obrigatório para todo tratado de direitos humanos.
+BRUNO: Detalhe fino: o tratado reproduz o quórum da emenda, artigo sessenta, parágrafo segundo, mas não altera o texto da Constituição. Ele integra o bloco de constitucionalidade.
+THALITA: Já o parágrafo quarto é o Tribunal Penal Internacional, não é?
+ANTONIO: Sim, o Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão.
+FRANCISCA: Guardem: parágrafo segundo, abertura; terceiro, rito qualificado; quarto, Tribunal Penal Internacional.
+THALITA: Macete: dois abre, três qualifica, quatro Tribunal Penal. Gravado. E vou lembrar que o rito do parágrafo terceiro é uma opção do Congresso, então não dá para dizer que todo tratado de direitos humanos vira emenda automaticamente.
+== SLIDE: Hierarquia dos tratados e a prisão do depositário infiel
+* Correntes: supraconstitucional, constitucional, supralegal (prevalece), legal
+* RE 466.343 e HC 87.585 (2008): status supralegal
+* SV 25: ilícita a prisão civil de depositário infiel
+* Súmula 419 do STJ: depositário judicial
+* Única prisão civil: devedor de alimentos
+ANTONIO: Vamos às correntes sobre a hierarquia. A supraconstitucional, de Celso de Albuquerque Mello, põe o tratado acima da Constituição. A constitucional, de Piovesan e Cançado Trindade, e do voto do Ministro Celso de Mello no Habeas Corpus oitenta e sete mil quinhentos e oitenta e cinco, vê o tratado como materialmente constitucional pelo parágrafo segundo.
+FRANCISCA: A supralegal é a que prevalece: o tratado fica abaixo da Constituição e acima das leis. Vem do voto do Ministro Gilmar Mendes no Recurso Extraordinário quatrocentos e sessenta e seis mil trezentos e quarenta e três. E a legal ordinária, de paridade com a lei, foi a posição do STF até dois mil e oito, com o Recurso Extraordinário oitenta mil e quatro, de mil novecentos e setenta e sete.
+THALITA: Então a posição do Supremo hoje é supralegal?
+BRUNO: Exato, desde três de dezembro de dois mil e oito, no Recurso Extraordinário quatrocentos e sessenta e seis mil trezentos e quarenta e três e no Habeas Corpus oitenta e sete mil quinhentos e oitenta e cinco. Tratados de direitos humanos sem o rito do parágrafo terceiro têm status supralegal.
+ANTONIO: A consequência é a prisão civil. O artigo quinto, inciso sessenta e sete, continua no texto: permite a prisão do responsável por inadimplemento de alimentos e a do depositário infiel. Mas a Convenção Americana, supralegal, só ressalva o devedor de alimentos.
+FRANCISCA: Por isso a legislação que regulava a prisão do depositário, o artigo seiscentos e cinquenta e dois do Código Civil e o Decreto-Lei novecentos e onze, de mil novecentos e sessenta e nove, teve a eficácia paralisada. Não houve declaração de inconstitucionalidade nem revogação do inciso.
+BRUNO: A Súmula Vinculante vinte e cinco diz que é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito. Isso abrange o contratual, o necessário, o judicial e o da alienação fiduciária. A Súmula quatrocentos e dezenove do STJ trata do depositário judicial.
+THALITA: Então a única prisão civil admitida é a do devedor de alimentos?
+ANTONIO: Exatamente. Erros típicos: dizer que o STF declarou inconstitucional o inciso, ou que a Convenção Americana tem status de emenda.
+FRANCISCA: A Convenção Americana, o Pacto de San José, é o Decreto seiscentos e setenta e oito de mil novecentos e noventa e dois. No mesmo sentido, o artigo onze do Pacto Civil.
+THALITA: Macete: supralegal, abaixo da Constituição e acima da lei. Alimentos, sim; depositário, nunca.
+== SLIDE: Tratados com status de emenda e denúncia de tratados
+* Convenção sobre Pessoas com Deficiência (2007): Dec. 6.949/2009
+* Tratado de Marraqueche (2013): Dec. 9.522/2018
+* Convenção Interamericana contra o Racismo (2013): Dec. 10.932/2022
+* Pacto de San José, PIDCP e PIDESC: supralegais
+* ADC 39 e ADI 1.625 (2023): denúncia exige anuência do Legislativo
+ANTONIO: Quais tratados passaram pelo rito do parágrafo terceiro? São três. O primeiro, e o primeiro com status de emenda, é a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, de Nova York, de dois mil e sete. Aprovada pelo Decreto Legislativo cento e oitenta e seis de dois mil e oito e promulgada pelo Decreto seis mil novecentos e quarenta e nove de dois mil e nove. É a base da Lei treze mil cento e quarenta e seis, de dois mil e quinze.
+BRUNO: O segundo é o Tratado de Marraqueche, de dois mil e treze, sobre acesso a obras publicadas por pessoas cegas, com deficiência visual ou outras dificuldades para acessar texto impresso. Decreto Legislativo duzentos e sessenta e um de dois mil e quinze e Decreto nove mil quinhentos e vinte e dois de dois mil e dezoito.
+FRANCISCA: O terceiro é a Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância, assinada na Guatemala, em dois mil e treze. Decreto Legislativo um de dois mil e vinte e um e Decreto dez mil novecentos e trinta e dois de dois mil e vinte e dois.
+THALITA: Deficiência, Marraqueche e racismo. E o Pacto de San José, e os Pactos de mil novecentos e sessenta e seis?
+BRUNO: Não passaram pelo rito, porque são anteriores à Emenda quarenta e cinco. Têm status supralegal. Pegadinha clássica: dizer que o Pacto de San José tem status de emenda.
+ANTONIO: Convém conferir se algum novo tratado foi aprovado pelo rito qualificado até a publicação do edital.
+FRANCISCA: Sobre denúncia de tratado, o STF, na Ação Declaratória de Constitucionalidade trinta e nove e na Ação Direta de Inconstitucionalidade mil seiscentos e vinte e cinco, de dois mil e vinte e três, decidiu que a denúncia de tratado aprovado pelo Congresso exige anuência do Legislativo para produzir efeitos internos.
+BRUNO: A tese tem efeitos prospectivos e preserva a denúncia da Convenção cento e cinquenta e oito da OIT, feita por decreto em mil novecentos e noventa e seis. As convenções da OIT, por tratarem de direitos humanos trabalhistas, são tratadas majoritariamente como supralegais.
+THALITA: Macete: só três tratados com status de emenda, e denúncia agora exige o Congresso. Então, se a questão disser que o Pacto de San José ou os Pactos de mil novecentos e sessenta e seis têm status de emenda, eu marco errada na hora, porque eles são supralegais.
+== SLIDE: Controle de convencionalidade
+* Verifica compatibilidade das normas internas com tratados de DH
+* Internacional (Corte IDH) ou interno (juízes nacionais)
+* Concentrado: STF; paradigma do § 3º; efeitos erga omnes
+* Difuso: qualquer juiz; qualquer tratado de DH; inter partes
+* Tratado supralegal: somente controle difuso
+ANTONIO: O controle de convencionalidade verifica a compatibilidade das normas internas com os tratados de direitos humanos. Pode ser internacional, feito pela Corte Interamericana, ou interno, feito pelos juízes nacionais. No plano interno, na lição de Valerio Mazzuoli, há o concentrado e o difuso.
+THALITA: Qual a diferença?
+FRANCISCA: No concentrado, o órgão é o STF, o paradigma são os tratados de direitos humanos aprovados pelo rito do parágrafo terceiro, os instrumentos são ADI, ADC, ADO e ADPF, e os efeitos são erga omnes e vinculantes.
+BRUNO: No difuso, qualquer juiz ou tribunal, inclusive de ofício. O paradigma é qualquer tratado de direitos humanos, os do parágrafo terceiro e os supralegais. É no caso concreto, incidentalmente, com efeitos entre as partes.
+ANTONIO: Resumindo por paradigma: tratado de direitos humanos com o rito do parágrafo terceiro, equivalente a emenda, admite controle concentrado e difuso. Tratado sem o rito, supralegal, só controle difuso. E tratado comum, lei ordinária, nem é paradigma: a antinomia se resolve pelos critérios clássicos.
+THALITA: Então supralegal, só difuso. Anotado.
+FRANCISCA: Dois casos da Corte Interamericana: Almonacid Arellano contra o Chile, de dois mil e seis, primeira menção, pelo plenário da Corte, ao dever do Judiciário interno de exercer controle de convencionalidade. E Trabajadores Cesados del Congreso contra o Peru, também de dois mil e seis: o controle deve ser feito de ofício.
+BRUNO: Um exemplo: a Lei de Anistia. O STF a julgou compatível com a Constituição, na ADPF cento e cinquenta e três, de dois mil e dez, controle de constitucionalidade. A Corte Interamericana, em Gomes Lund contra o Brasil, de dois mil e dez, negou-lhe efeitos por incompatibilidade com a Convenção Americana. Os controles são distintos e podem divergir.
+THALITA: Macete: constitucionalidade é Supremo com Constituição; convencionalidade é tratado. E o controle difuso eu lembro assim: qualquer juiz pode fazer, até de ofício, e o efeito é só entre as partes.
+== SLIDE: Controle de convencionalidade na jurisprudência
+* Audiência de custódia: ADPF 347 MC (2015)
+* Desacato: ADPF 496 (2020), compatível com a Convenção
+* Recomendação CNJ 123/2022
+* Fazenda Brasil Verde vs. Brasil (2016): escravidão contemporânea
+* Discriminação estrutural e imprescritibilidade da escravidão
+ANTONIO: Na jurisprudência, a audiência de custódia foi reconhecida na ADPF trezentos e quarenta e sete, medida cautelar, de dois mil e quinze, com base no artigo sétimo, número cinco, da Convenção Americana, e no artigo nono, número três, do Pacto Civil.
+BRUNO: Já o desacato: na ADPF quatrocentos e noventa e seis, de dois mil e vinte, o STF entendeu que o crime é compatível com a Convenção Americana. Atenção: o Supremo exerceu o controle e concluiu pela compatibilidade.
+THALITA: Então não é sempre que o controle acaba afastando a lei?
+FRANCISCA: Não. O controle pode confirmar a norma interna. E a Recomendação cento e vinte e três do CNJ, de dois mil e vinte e dois, orienta o Judiciário a observar os tratados de direitos humanos e a jurisprudência da Corte Interamericana.
+ANTONIO: Um caso que interessa à nossa região: Trabalhadores da Fazenda Brasil Verde contra o Brasil, da Corte Interamericana, em dois mil e dezesseis, sobre fazenda no sul do Pará.
+FRANCISCA: Foi a primeira condenação de um Estado pela Corte por escravidão contemporânea. A Corte reconheceu discriminação estrutural em razão da pobreza e a imprescritibilidade da escravidão.
+THALITA: Fazenda Brasil Verde, Pará, escravidão contemporânea, dois mil e dezesseis. Isso pode cair no concurso do Pará!
+BRUNO: Pode. E a lição é: a escravidão é imprescritível e o Estado responde por omissão.
+ANTONIO: Guardem o caso, é jurisprudência de grande relevância regional.
+THALITA: Macete: audiência de custódia, ADPF trezentos e quarenta e sete; desacato compatível, ADPF quatrocentos e noventa e seis. E o caso do Pará eu não esqueço mais: primeira condenação do Brasil por escravidão contemporânea.
+== SLIDE: Declaração Universal dos Direitos Humanos (1948)
+* Assembleia Geral da ONU, 10/12/1948, em Paris (Res. 217 A-III)
+* 48 votos a favor, nenhum contra, 8 abstenções
+* Resolução, não tratado; força vinculante como costume
+* Preâmbulo e 30 artigos; sem órgão nem petições
+* Art. 1º: nascem livres e iguais em dignidade e direitos
+ANTONIO: A Declaração Universal foi adotada pela Assembleia Geral da ONU em dez de dezembro de mil novecentos e quarenta e oito, em Paris, pela Resolução duzentos e dezessete A, três. Foram quarenta e oito votos a favor, nenhum contra e oito abstenções.
+THALITA: Quem se absteve?
+FRANCISCA: O bloco soviético, com seis Estados, a Arábia Saudita e a África do Sul.
+BRUNO: A natureza formal é de resolução, uma recomendação: não houve assinatura nem ratificação. Mas a força vinculante vem do costume internacional e dos princípios gerais, parte é jus cogens, e ela é a interpretação autorizada da Carta da ONU, artigos primeiro, número três, cinquenta e cinco e cinquenta e seis. A Conferência de Teerã, de sessenta e oito, declarou-a obrigatória.
+ANTONIO: A Declaração não cria órgão nem sistema de petições. Tem preâmbulo e trinta artigos.
+FRANCISCA: Primeiro e segundo: liberdade e igualdade em dignidade e direitos, e não discriminação. Do terceiro ao vigésimo primeiro, direitos civis e políticos: vida, liberdade e segurança, proibição de escravidão e de tortura, vedação de prisão arbitrária, tribunal independente, presunção de inocência, asilo, nacionalidade, propriedade, religião, expressão, reunião e participação política.
+THALITA: E os sociais?
+BRUNO: Do vigésimo segundo ao vigésimo sétimo: segurança social, trabalho, salário igual por trabalho igual, sindicalização, repouso, limitação razoável da jornada, férias remuneradas, padrão de vida, instrução elementar gratuita e obrigatória e vida cultural.
+ANTONIO: Do vigésimo oitavo ao trigésimo: ordem internacional, deveres e limitações apenas por lei, e vedação de interpretação destrutiva dos direitos.
+FRANCISCA: O artigo primeiro diz que todos nascem livres e iguais em dignidade e direitos e devem agir com espírito de fraternidade. Sintetiza o lema liberdade, igualdade, fraternidade.
+BRUNO: Pegadinhas: a Declaração não é tratado; prevê asilo, mas não para crimes comuns; diz que ninguém é obrigado a fazer parte de associação; prevê deveres; e não trata de abolição da pena de morte.
+THALITA: Macete: resolução, quarenta e oito a zero, oito abstenções, trinta artigos.
+== SLIDE: Pacto Internacional dos Direitos Civis e Políticos (PIDCP)
+* Adotado em 16/12/1966; Decreto 592/1992; obrigações imediatas
+* Comitê de Direitos Humanos: art. 28, 18 membros, mandato de 4 anos
+* Relatórios (art. 40); interestatais (art. 41); petições (1º Protocolo)
+* 2º Protocolo (1989): abolição da pena de morte
+* Art. 4º: derrogação em emergência, com direitos inderrogáveis
+ANTONIO: O Pacto Civil foi adotado em dezesseis de dezembro de mil novecentos e sessenta e seis, entrou em vigor em mil novecentos e setenta e seis e foi promulgado no Brasil pelo Decreto quinhentos e noventa e dois de mil novecentos e noventa e dois. As obrigações são imediatas: o artigo segundo diz respeitar e garantir, sem discriminação, a todos os indivíduos no território e sujeitos à jurisdição.
+THALITA: Imediatas, em contraste com o outro Pacto, não é?
+FRANCISCA: Isso, o outro tem progressividade. O monitoramento é feito pelo Comitê de Direitos Humanos, criado pelo próprio Pacto, no artigo vinte e oito: dezoito membros, a título pessoal, mandato de quatro anos, e decisões sem força executória.
+BRUNO: Os mecanismos: relatórios, obrigatórios, artigo quarenta; comunicações interestatais, que dependem de declaração de ambos os Estados, artigo quarenta e um; e petições individuais, previstas no Primeiro Protocolo, só contra Estado que o ratificou e com esgotamento dos recursos internos.
+ANTONIO: O Segundo Protocolo, de mil novecentos e oitenta e nove, trata da abolição da pena de morte. O Brasil aprovou ambos pelo Decreto Legislativo trezentos e onze de dois mil e nove, com reserva ao artigo segundo do Segundo Protocolo, para pena de morte em guerra, artigo quinto, inciso quarenta e sete, alínea a. Confira o decreto de promulgação.
+FRANCISCA: Pelo artigo quarto, em emergência que ameace a existência da nação, oficialmente proclamada, o Estado pode suspender obrigações na estrita medida necessária, sem discriminação, comunicando os demais Estados-partes pelo Secretário-Geral da ONU. Mas há direitos inderrogáveis.
+THALITA: Quais?
+BRUNO: Artigos seis, vida; sete, tortura; oito, parágrafos primeiro e segundo, escravidão e servidão; onze, prisão por inadimplemento contratual; quinze, legalidade penal; dezesseis, personalidade jurídica; e dezoito, liberdade de pensamento, consciência e religião.
+FRANCISCA: Ficam de fora: o trabalho forçado, do artigo oitavo, parágrafo terceiro, a liberdade de expressão, a reunião e o devido processo.
+THALITA: Macete: seis, sete, oito, onze, quinze, dezesseis, dezoito. Inderrogáveis!
+== SLIDE: Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC)
+* Adotado em 16/12/1966; Decreto 591/1992; progressividade
+* Comitê DESC criado pelo ECOSOC (1985), não pelo Pacto
+* Protocolo Facultativo (2008): petições individuais
+* Art. 2º: adotar medidas até o máximo dos recursos disponíveis
+* Comentário Geral 3: núcleo mínimo exigível
+ANTONIO: O Pacto Social foi adotado também em dezesseis de dezembro de mil novecentos e sessenta e seis, em vigor desde mil novecentos e setenta e seis, promulgado pelo Decreto quinhentos e noventa e um de mil novecentos e noventa e dois. A realização é progressiva, até o máximo dos recursos disponíveis.
+THALITA: E o Comitê? É criado pelo Pacto também?
+BRUNO: Pegadinha! O Comitê DESC foi criado pelo ECOSOC, em mil novecentos e oitenta e cinco, e não pelo Pacto. Já o Comitê de Direitos Humanos foi criado pelo Pacto Civil.
+FRANCISCA: O artigo segundo manda adotar medidas, por esforço próprio e pela cooperação internacional, até o máximo dos recursos disponíveis, para assegurar progressivamente o pleno exercício dos direitos. Daí a progressividade e a vedação do retrocesso. O Comentário Geral três reconhece obrigações imediatas, como a não discriminação, e um núcleo mínimo exigível desde logo.
+ANTONIO: Os direitos: artigos seis e sete, trabalho livremente escolhido e condições justas, com salário igual por trabalho de igual valor e férias remuneradas. Artigo oitavo, liberdade sindical e greve, conforme as leis de cada país. Nove e dez, previdência e proteção à família. Onze e doze, nível de vida adequado e saúde. Treze a quinze, educação e cultura.
+FRANCISCA: O Protocolo Facultativo, de dois mil e oito, em vigor desde dois mil e treze, trouxe petições individuais, comunicações interestatais e investigação. Até a última verificação, o Brasil não o ratificou: vale conferir.
+THALITA: Dá para fazer uma comparação rápida entre os dois Pactos?
+BRUNO: Dá. O Civil é primeira geração, obrigação imediata, Comitê criado pelo Pacto, com Segundo Protocolo sobre pena de morte, e permite derrogação em emergência. O Social é segunda geração, obrigação progressiva, Comitê criado pelo ECOSOC, sem equivalente à pena de morte e sem cláusula de derrogação. Ambos têm relatórios obrigatórios, o artigo primeiro sobre autodeterminação dos povos, e status supralegal no Brasil.
+ANTONIO: Pegadinhas: Comitê DESC criado pelo Pacto; realização progressiva no Civil; decretos trocados, quinhentos e noventa e dois é civil e quinhentos e noventa e um é social; Segundo Protocolo sobre petições; Pactos com status de emenda; e autodeterminação em apenas um Pacto.
+THALITA: Macete: dois noventa e dois, civil; dois noventa e um, social. E os dois são supralegais.
+== SLIDE: Fechamento: decorando os decretos e prazos
+* Civil: Decreto 592/1992; Social: Decreto 591/1992
+* Civil: imediato; Social: progressivo
+* Comitê DH: criado pelo Pacto; Comitê DESC: criado pelo ECOSOC
+* Inderrogáveis: 6, 7, 8, 11, 15, 16, 18
+* Supralegal: Pacto de San José, PIDCP e PIDESC
+FRANCISCA: Vamos amarrar o que mais cai. Os Pactos são supralegais, e não têm status de emenda.
+BRUNO: A prisão civil só vale para devedor de alimentos, e a Súmula Vinculante vinte e cinco proíbe a do depositário infiel, qualquer que seja a modalidade.
+THALITA: Parágrafo terceiro: três quintos, dois turnos, em cada Casa. O resto é supralegal.
+ANTONIO: Controle concentrado, STF, paradigma de emenda, efeito geral. Controle difuso, qualquer juiz, qualquer tratado de direitos humanos, efeito entre as partes.
+FRANCISCA: A Declaração é resolução, mas vinculante como costume. O Pacto Civil, imediato; o Pacto Social, progressivo.
+BRUNO: Inderrogáveis do Pacto Civil: seis, sete, oito, onze, quinze, dezesseis e dezoito.
+THALITA: Agora é hora de treinar tudo isso com as questões.
+ANTONIO: Isso mesmo. No próximo tema, as questões comentadas, estilo FCC.
