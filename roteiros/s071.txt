@@ -1,0 +1,73 @@
+SEGMENTO s071
+== SLIDE: Questão 1: criação de Município
+* Gabarito C: lei estadual, período em LC federal, plebiscito, estudos de viabilidade
+* A: lei estadual ordinária e todas as populações envolvidas
+* D: plebiscito nunca é dispensado
+* E: a LC federal só fixa o período; consulta é plebiscito
+BRUNO: Terminada a teoria dos servidores, vamos às questões comentadas estilo FCC. Questão um, de analista. Lideranças do Distrito de Vila Nova, do Município Alfa, querem emancipá-lo, criando novo Município. De acordo com a Constituição, como se dá a criação?
+THALITA: Pausa para você pensar. Eu diria a letra A: lei complementar estadual, com plebiscito só na população do distrito.
+FRANCISCA: Boa tentativa, mas errada em dois pontos. O instrumento é lei estadual ordinária, e o plebiscito envolve as populações de todos os Municípios envolvidos, não só a do distrito. Letra A errada.
+ANTONIO: A letra B fala em lei federal, com manifestação da Assembleia e da Câmara de Alfa. Não existe lei federal criando Município. Errada.
+BRUNO: A letra C é a correta. Reproduz os requisitos do artigo dezoito, parágrafo quarto, na redação da Emenda quinze, de mil novecentos e noventa e seis: lei estadual, dentro do período fixado em lei complementar federal, consulta prévia por plebiscito às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal.
+THALITA: E a D, que dispensa plebiscito se os estudos mostrarem autossuficiência?
+FRANCISCA: O plebiscito é sempre exigido. Os estudos são etapa anterior, não substituta. Errada.
+ANTONIO: A letra E diz lei complementar federal e referendo. A lei complementar federal só fixa o período, e a consulta é plebiscito, prévio, não referendo.
+THALITA: Macete: plebiscito é antes, referendo é depois.
+BRUNO: Isso. E a lei que cria o Município é estadual.
+== SLIDE: Questão 2: competência privativa da União para legislar
+* Gabarito A: LC pode autorizar Estados em questões específicas
+* B: delegação é a Estados, não a Municípios
+* C: direito processual é privativo, não concorrente
+* D: defesa civil é privativa
+ANTONIO: Questão dois, de técnico da Polícia Judicial. A respeito da competência privativa da União para legislar, qual afirmação é correta?
+THALITA: Pausa para pensar. A letra C diz que os Estados legislam plenamente sobre direito processual enquanto não houver lei federal. Eu marcaria essa.
+FRANCISCA: Cuidado. A competência plena na ausência de lei federal é mecanismo do artigo vinte e quatro, parágrafo terceiro, da competência concorrente. Direito processual é privativo da União, artigo vinte e dois, inciso primeiro. Letra C errada.
+BRUNO: A letra A é a correta. O parágrafo único do artigo vinte e dois diz que lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias de competência privativa da União.
+ANTONIO: A letra B diz que lei ordinária federal delegaria aos Municípios sobre direito do trabalho. Dois erros: exige lei complementar, e os destinatários são os Estados, não os Municípios.
+FRANCISCA: A letra D diz que defesa civil é concorrente. A defesa civil está no artigo vinte e dois, inciso vinte e oito, é privativa.
+THALITA: E a letra E?
+BRUNO: Diz que a delegação alcança a totalidade da matéria. É restrita a questões específicas, não se transfere a matéria inteira.
+THALITA: Resumi: delegação é por lei complementar, aos Estados, para questões específicas.
+ANTONIO: Perfeito.
+== SLIDE: Questão 3: lei federal superveniente de normas gerais
+* Gabarito E: eficácia suspensa apenas no que for contrário
+* Art. 24, §3º: sem lei federal, Estado legisla de forma plena
+* Art. 24, §4º: lei federal superveniente suspende a estadual no que contrariar
+FRANCISCA: Questão três, de oficial de justiça. O Estado Beta, à falta de lei federal sobre normas gerais de matéria concorrente, editou lei disciplinando-a integralmente. Depois, a União editou lei de normas gerais com dispositivos contrários a parte da lei estadual. O que acontece com a lei estadual?
+THALITA: Pausa para pensar. Eu diria que a lei federal revogou a estadual, porque é hierarquicamente superior. Letra A.
+BRUNO: Essa é a pegadinha clássica. Não há hierarquia entre leis de entes diversos. O que ocorre é suspensão de eficácia, no artigo vinte e quatro, parágrafo quarto. Letra A errada.
+ANTONIO: A letra B diz que a lei estadual é inconstitucional desde a origem. Errado: inexistindo lei federal, os Estados exercem competência legislativa plena, no parágrafo terceiro.
+FRANCISCA: A letra C diz que a lei estadual permanece integralmente eficaz. A lei federal superveniente de normas gerais suspende a estadual no que lhe for contrário. Errada.
+BRUNO: A letra D diz que a eficácia foi suspensa na totalidade. A suspensão é parcial, apenas no que contrariar a lei federal. Errada.
+ANTONIO: A letra E é a correta. Literalidade do artigo vinte e quatro, parágrafo quarto: a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.
+THALITA: Macete: suspende, e só no que contraria.
+FRANCISCA: E se a lei federal for revogada, a estadual volta a produzir efeitos, porque foi apenas suspensa.
+== SLIDE: Questões 4 e 5: competências e Distrito Federal
+* Q4, gabarito B: inspeção do trabalho exclusiva; pobreza comum; gás canalizado dos Estados
+* Q5, gabarito D: DF acumula competências de Estados e Municípios
+* DF não pode ser dividido em Municípios; rege-se por lei orgânica
+* Polícias e bombeiros do DF: organizados e mantidos pela União
+BRUNO: Questão quatro, de analista. Três atribuições: organizar e manter a inspeção do trabalho; combater as causas da pobreza e os fatores de marginalização; explorar os serviços locais de gás canalizado. Quais são, respectivamente, exclusiva da União, comum e dos Estados?
+THALITA: Pausa para pensar. Inspeção do trabalho é da União, pobreza é comum, gás canalizado é do Estado. Então B.
+FRANCISCA: Isso mesmo. Inspeção do trabalho é exclusiva da União, artigo vinte e um, inciso vinte e quatro. Combate à pobreza é comum, artigo vinte e três, inciso dez. Gás canalizado é dos Estados, artigo vinte e cinco, parágrafo segundo. Letra B correta. As demais trocam as posições.
+ANTONIO: Questão cinco, de técnico da Polícia Judicial, sobre o Distrito Federal. A letra A diz que pode ser dividido em Municípios por lei distrital. O artigo trinta e dois veda a divisão do Distrito Federal em Municípios. Errada.
+BRUNO: A letra B diz que se rege por Constituição própria. Rege-se por lei orgânica. Errada. A letra C diz que organiza e mantém o próprio Judiciário e o Ministério Público, as polícias e os bombeiros. Quem organiza e mantém é a União, no artigo vinte e um, incisos treze e catorze. Errada.
+THALITA: E a letra E, que diz que o Governador é nomeado pelo Presidente com aprovação do Senado?
+FRANCISCA: Essa regra é do Governador de Território. O do Distrito Federal é eleito. Errada.
+ANTONIO: A letra D é a correta: o Distrito Federal tem as competências legislativas reservadas aos Estados e aos Municípios, e cabe à lei federal dispor sobre a utilização, pelo governo distrital, das polícias civil, penal e militar e do corpo de bombeiros. Artigo trinta e dois, parágrafos primeiro e quarto.
+THALITA: Macete: DF é Estado mais Município, mas sem dividir, sem Constituição, e com polícia da União.
+== SLIDE: Questão 6: Deputados estaduais e subsídio
+* Gabarito E: 44 deputados e até 75% do subsídio federal
+* Até 12 federais: triplo; acima disso, 36 mais o excedente
+* 36 + (20 − 12) = 44
+* Art. 27, §2º: subsídio limitado a 75% do dos federais
+ANTONIO: Questão seis, de analista. Um Estado tem vinte Deputados Federais. Quantos Deputados à Assembleia Legislativa e qual o limite do subsídio dos Deputados estaduais?
+THALITA: Pausa para pensar. O triplo de vinte são sessenta, e o limite é noventa vírgula vinte e cinco por cento. Letra A.
+BRUNO: Dois erros. O triplo só se aplica até doze deputados federais. Acima disso, soma-se um para cada deputado federal excedente. E noventa vírgula vinte e cinco por cento é a referência do subteto do Judiciário estadual, não dos Deputados.
+FRANCISCA: O cálculo: até doze deputados federais, o triplo, que é trinta e seis. Com vinte deputados federais, o excedente é oito. Trinta e seis mais oito, quarenta e quatro. Artigo vinte e sete, caput.
+THALITA: E o subsídio?
+ANTONIO: O subsídio dos Deputados estaduais é de, no máximo, setenta e cinco por cento do fixado para os Deputados Federais, artigo vinte e sete, parágrafo segundo. Gabarito E.
+FRANCISCA: As demais: a B aplicou o triplo indevidamente; a C acertou o número mas errou o limite; a D usou trinta e seis, que corresponde a doze federais.
+THALITA: Então a fórmula é: doze ou menos, vezes três; acima de doze, trinta e seis mais o que passar.
+BRUNO: Isso. E o limite é setenta e cinco por cento.
+ANTONIO: Com isso, fechamos as questões desta aula. Na sequência, entramos na introdução da próxima disciplina.
