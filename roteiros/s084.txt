@@ -1,0 +1,80 @@
+SEGMENTO s084
+== SLIDE: LINDB: vigência da lei
+* Decreto-Lei 4.657/1942: norma sobre normas
+* Vacatio: 45 dias no Brasil; 3 meses no exterior
+* Nova publicação antes da vigência reinicia o prazo
+* Correção de lei já em vigor é lei nova
+ANTONIO: Terminamos os princípios e passamos à LINDB, a Lei de Introdução às Normas do Direito Brasileiro, o Decreto-Lei quatro mil seiscentos e cinquenta e sete, de mil novecentos e quarenta e dois. Ela é uma norma sobre normas, e vale para todos os ramos do direito. Hoje vamos ver os artigos primeiro a sexto e depois os artigos vinte a trinta, incluídos em dois mil e dezoito.
+THALITA: Começo pela vigência. Em quanto tempo a lei passa a valer?
+FRANCISCA: Salvo disposição em contrário, a lei começa a vigorar em todo o país quarenta e cinco dias depois de oficialmente publicada, segundo o artigo primeiro, caput. A própria lei pode fixar outro prazo, ou vigência imediata.
+BRUNO: A FCC troca por trinta ou noventa dias. E esquece que a lei pode dispor diferente. No exterior, quando admitida a obrigatoriedade da lei brasileira, o prazo é de três meses depois de publicada, parágrafo primeiro. Atenção: três meses não é o mesmo que noventa dias, a banca cobra a literalidade.
+THALITA: Então se disserem que a vacatio é de três meses no território nacional, errado.
+ANTONIO: Errado. São quarenta e cinco dias no país e três meses no exterior. Mais dois parágrafos. No parágrafo terceiro, se houver nova publicação do texto para correção, antes da entrada em vigor, o prazo recomeça a contar da nova publicação. No parágrafo quarto, a correção de texto de lei já em vigor é considerada lei nova.
+FRANCISCA: Um exemplo de contagem. A Lei Complementar noventa e cinco, de mil novecentos e noventa e oito, no artigo oitavo, parágrafo primeiro, manda incluir na contagem a data da publicação e o último dia do prazo, e a lei entra em vigor no dia seguinte à consumação integral. Lei publicada em primeiro de março, sem prazo expresso de vigência: conta-se primeiro de março como dia um. O quadragésimo quinto dia é catorze de abril, e a lei entra em vigor em quinze de abril.
+THALITA: Publicou dia primeiro, conta o dia primeiro. Quarenta e cinco dias, e vigora no dia seguinte. Entendi.
+== SLIDE: Revogação, repristinação e efeito repristinatório
+* Lei não temporária vigora até outra a modificar ou revogar
+* Revogação expressa, tácita por incompatibilidade ou por regulação total
+* Lei geral nova não revoga especial anterior
+* Repristinação só expressa
+ANTONIO: Artigo segundo, caput: não sendo temporária, a lei vigora até que outra a modifique ou revogue. É o princípio da continuidade. Daí uma consequência: lei não se revoga pelo desuso.
+THALITA: Como ela é revogada?
+FRANCISCA: Parágrafo primeiro. A revogação pode ser expressa, quando a lei nova assim declara; tácita por incompatibilidade, quando é incompatível com a anterior; ou tácita porque regula inteiramente a matéria da lei anterior.
+BRUNO: Parágrafo segundo: lei nova que traga disposições gerais ou especiais ao lado das já existentes não revoga nem modifica a anterior. A pegadinha é "lei especial sempre revoga a geral". Errado.
+THALITA: Então se a lei geral nova convive com a especial, uma não derruba a outra.
+ANTONIO: Exato. Parágrafo terceiro: salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência. É a vedação da repristinação tácita. Ela só ocorre se for expressa.
+FRANCISCA: Não confunda com o efeito repristinatório. A repristinação é fenômeno legislativo e depende de previsão expressa. Já o efeito repristinatório decorre da declaração de inconstitucionalidade com efeitos retroativos no controle concentrado: a norma inconstitucional é nula, então a norma que ela teria revogado volta a produzir efeitos. A Lei nove mil oitocentos e sessenta e oito, no artigo onze, parágrafo segundo, trata disso para a medida cautelar.
+BRUNO: Pegadinha: afirmar que a lei revogada se restaura automaticamente quando a lei revogadora perde a vigência. Errado, só se houver previsão expressa.
+THALITA: Repristinação: só expressa. Efeito repristinatório: vem da inconstitucionalidade.
+== SLIDE: Artigos terceiro ao sexto
+* Art. 3º: ninguém descumpre a lei alegando desconhecê-la
+* Art. 4º: analogia, costumes e princípios gerais de direito
+* Art. 5º: fins sociais e exigências do bem comum
+* Art. 6º: ato jurídico perfeito, direito adquirido, coisa julgada
+ANTONIO: Artigo terceiro: ninguém pode descumprir a lei alegando que não a conhece. É o princípio da obrigatoriedade.
+THALITA: E quando a lei é omissa? O juiz deixa de decidir?
+FRANCISCA: Não. O artigo quarto manda decidir pela analogia, pelos costumes e pelos princípios gerais de direito.
+BRUNO: A banca cobra o rol literal e a ordem. E repare que a equidade não consta do artigo quarto. Se incluírem a equidade na lista, é pegadinha.
+ANTONIO: Artigo quinto: na aplicação da lei, o juiz atende aos fins sociais a que ela se dirige e às exigências do bem comum. É a interpretação teleológica.
+FRANCISCA: Artigo sexto: a lei em vigor tem efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada. Coincide com o artigo quinto, inciso trinta e seis, da Constituição.
+THALITA: Macete: analogia, costumes, princípios. Não tem equidade.
+== SLIDE: Artigos vinte a vinte e quatro: consequências e transição
+* Art. 20: decisão sem valores abstratos, com consequências
+* Art. 21: invalidação deve indicar consequências
+* Art. 22: obstáculos reais do gestor; dosimetria de sanções
+* Art. 23: transição quando indispensável; art. 24: sem retroação
+ANTONIO: A Lei treze mil seiscentos e cinquenta e cinco, de dois mil e dezoito, acrescentou à LINDB um capítulo dirigido às esferas administrativa, controladora, ou seja, Tribunais de Contas, e judicial. A ideia central é afastar decisões abstratas que ignoram a realidade do gestor e proteger quem age de boa-fé.
+THALITA: Por onde começo?
+FRANCISCA: Artigo vinte, o consequencialismo. Não se decide com base em valores jurídicos abstratos sem considerar as consequências práticas, e a motivação deve demonstrar a necessidade e a adequação da medida, inclusive diante das alternativas possíveis. Vale para as três esferas.
+BRUNO: Pegadinha: dizer que o consequencialismo vale só na esfera judicial. Errado: administrativa, controladora e judicial.
+ANTONIO: Artigo vinte e um: a decisão que invalidar ato, contrato, ajuste, processo ou norma administrativa deve indicar expressamente suas consequências jurídicas e administrativas e, quando for o caso, as condições para a regularização proporcional e equânime, sem impor ônus ou perdas anormais ou excessivos.
+FRANCISCA: Artigo vinte e dois: primazia da realidade. Na interpretação de normas de gestão pública, consideram-se os obstáculos e dificuldades reais do gestor e as exigências das políticas públicas. Nas sanções, natureza e gravidade da infração, danos, agravantes, atenuantes e antecedentes. E sanções da mesma natureza sobre o mesmo fato devem ser consideradas na dosimetria das demais.
+THALITA: E o regime de transição?
+BRUNO: Artigo vinte e três. Interpretação ou orientação nova sobre norma de conteúdo indeterminado, que imponha novo dever ou condicionamento de direito, deve prever regime de transição quando indispensável para o cumprimento proporcional, equânime e eficiente. Não é sempre obrigatório, só quando indispensável.
+ANTONIO: Artigo vinte e quatro: a revisão da validade de ato ou situação já completados deve considerar as orientações gerais da época. É proibido invalidar situações plenamente constituídas por mudança posterior de orientação. Orientações gerais incluem atos de caráter geral, jurisprudência majoritária e prática administrativa reiterada e amplamente conhecida.
+THALITA: Exemplo: o Tribunal de Contas julga um contrato de dois mil e dezenove com base na orientação de dois mil e vinte e quatro. Não pode, tem que usar a da época.
+== SLIDE: Artigos vinte e seis a trinta: compromisso, agente e consulta
+* Art. 26: compromisso, com oitiva jurídica; efeitos após publicação
+* Art. 27: compensação por benefícios indevidos ou prejuízos
+* Art. 28: responsabilidade pessoal só por dolo ou erro grosseiro
+* Arts. 29 e 30: consulta facultativa; respostas vinculantes
+ANTONIO: Artigo vinte e seis, o compromisso. Para eliminar irregularidade, incerteza jurídica ou situação contenciosa, inclusive na expedição de licença, a autoridade poderá celebrar compromisso com os interessados, após oitiva do órgão jurídico e, quando for o caso, consulta pública, presentes razões de relevante interesse geral.
+THALITA: E ele vale desde quando?
+FRANCISCA: Só produz efeitos após a publicação oficial. Tem que prever obrigações, prazo e sanções, e não pode conceder desoneração permanente de dever ou condicionamento reconhecido por orientação geral.
+BRUNO: Pegadinhas: compromisso que independe de oitiva do órgão jurídico, errado; compromisso que produz efeitos desde a assinatura, errado.
+ANTONIO: Artigo vinte e sete: a decisão pode impor compensação por benefícios indevidos ou prejuízos anormais ou injustos decorrentes do processo ou da conduta dos envolvidos. Exige motivação e oitiva prévia das partes sobre cabimento, forma e valor, e admite compromisso processual.
+FRANCISCA: Artigo vinte e oito, o mais cobrado: o agente público responderá pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro. Protege o gestor e o parecerista de boa-fé. O Decreto nove mil oitocentos e trinta, de dois mil e dezenove, no artigo doze, qualifica o erro grosseiro como manifesto, evidente e inescusável, cometido com culpa grave.
+THALITA: Se a banca puser dolo ou culpa, está errado, né?
+BRUNO: Errado. É dolo ou erro grosseiro. Culpa leve não gera responsabilização pessoal com base no artigo vinte e oito. Mas cuidado com o artigo trinta e sete, parágrafo sexto, da Constituição: o regresso do Estado exige dolo ou culpa. Há debate, e o TCU entende que o artigo vinte e oito não afasta o dever de reparar o dano, mas alcança sobretudo sanções.
+ANTONIO: Artigo vinte e nove: a edição de atos normativos pode ser precedida de consulta pública, preferencialmente eletrônica, salvo os de mera organização interna. É facultativa, "poderá". Artigo trinta: as autoridades devem atuar para aumentar a segurança jurídica, inclusive por regulamentos, súmulas administrativas e respostas a consultas, com caráter vinculante para o órgão ou entidade, até ulterior revisão.
+THALITA: Consulta pública, poderá. Resposta a consulta, vincula.
+== SLIDE: Resumo relâmpago da aula
+* Sentidos, direta e indireta, desconcentração e descentralização
+* Regime: supremacia e indisponibilidade; princípios do art. 37
+* Autotutela, SV 13 e LINDB: vacatio, art. 28
+* Trocas típicas da FCC na LINDB
+BRUNO: Antes do resumo, as trocas típicas da FCC na LINDB. Dolo ou culpa no lugar de dolo ou erro grosseiro. Consulta pública obrigatória. Compromisso sem oitiva do órgão jurídico. Regime de transição sempre obrigatório. Consequencialismo só no Judiciário. E a vacatio de três meses no território nacional.
+ANTONIO: E o exemplo para fechar: um Tribunal de Contas estadual julga um contrato de dois mil e dezenove e conclui que ele seria irregular segundo orientação adotada em dois mil e vinte e quatro. Pelo artigo vinte e quatro, não pode invalidar a situação já constituída com base na mudança posterior. Deve aferir a validade pela orientação vigente à época.
+FRANCISCA: Lembrem também que o artigo vinte e cinco foi vetado, e que os parágrafos originalmente aprovados para o artigo vinte e oito foram vetados. Em prova, a literalidade importa.
+THALITA: Resumo relâmpago do que mais cai na FCC nesta aula. Um: Administração direta é ente político e órgãos; indireta é autarquia, fundação, empresa pública e sociedade de economia mista. Autarquia é criada por lei, as outras são autorizadas. Dois: desconcentração é dentro da mesma pessoa, com hierarquia; descentralização sai para outra pessoa, com controle finalístico. Três: supremacia dá prerrogativa, indisponibilidade dá sujeição. Quatro: princípios do artigo trinta e sete, eficiência veio da Emenda dezenove. Cinco: anulação é dever, revogação é faculdade, e cinco anos para anular ato favorável. Seis: Súmula Vinculante treze, até o terceiro grau, inclusive cruzado. Sete: LINDB, quarenta e cinco dias, e agente só responde por dolo ou erro grosseiro.
+ANTONIO: Revisem os quadros, refaçam as questões e nos vemos na próxima aula. Bons estudos!

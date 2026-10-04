@@ -1,0 +1,81 @@
+SEGMENTO s089
+== SLIDE: Boas-vindas e conceito de ato administrativo
+* Aula 26: Ato administrativo e processo administrativo (Lei 9.784/1999)
+* Declaração unilateral, regime de direito público, efeitos imediatos
+* Infralegal e revisável pelo Judiciário quanto à legalidade
+* Particular delegatário também pode praticar
+ANTONIO: Olá, pessoal, bem-vindos à aula vinte e seis, de Direito Administrativo: ato administrativo e processo administrativo, a Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove. Hoje vamos ver o conceito, os atributos e os elementos do ato administrativo, depois a classificação e as espécies, a formação e os efeitos, a extinção, a anulação e a revogação, a convalidação e a conversão, e então a Lei do Processo Administrativo. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei e a jurisprudência em paráfrase.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro as pegadinhas da banca.
+THALITA: E eu sou a Thalita, concurseira, e vou perguntar o que a turma perguntaria.
+ANTONIO: Vamos ao conceito. Ato administrativo é a manifestação unilateral de vontade da Administração Pública, ou de particular no exercício de prerrogativa pública, como concessionário ou delegatário, que, agindo nessa qualidade e sob regime de direito público, cria, modifica, extingue ou declara situações jurídicas, de forma infralegal e sempre revisável pelo Judiciário quanto à legalidade.
+THALITA: Muita coisa. Dá para resumir?
+FRANCISCA: Dá. Declaração unilateral do Estado, ou de quem lhe faça as vezes, sob regime de direito público, que produz efeitos jurídicos imediatos e se sujeita a controle judicial.
+BRUNO: Cada característica tem uma pegadinha. Unilateralidade: o contrato administrativo é bilateral, logo não é ato administrativo em sentido estrito. Regime de direito público: atos regidos pelo direito privado, como uma locação em que o Poder Público é locatário, não são atos administrativos típicos.
+THALITA: Então locação em que o governo é inquilino não é ato administrativo?
+BRUNO: Isso, é ato da Administração, mas regido pelo direito privado.
+== SLIDE: Características e figuras próximas
+* Infralegalidade: executa a lei; decreto autônomo é exceção
+* Controle judicial só de legalidade
+* Qualquer Poder pode praticar, em função administrativa
+* Ato x fato administrativo x ato da Administração; silêncio
+ANTONIO: Infralegalidade: o ato atua abaixo da lei, complementando-a ou executando-a. Não inova originariamente na ordem jurídica, salvo o decreto autônomo do artigo oitenta e quatro, inciso seis, da Constituição.
+FRANCISCA: Controle judicial: o Judiciário examina a legalidade, mas não revoga ato de outro Poder, pois não examina o mérito. E quanto ao agente, qualquer dos três Poderes, em função administrativa, e os delegatários, podem editar atos administrativos. Um ato do Judiciário que concede férias a servidor é ato administrativo.
+THALITA: E o que é fato administrativo? Confundo com ato.
+BRUNO: Fato administrativo é evento material ou conduta sem declaração de vontade: demolição, morte do servidor, pavimentação de rua. Ato da Administração é o gênero: todo ato praticado pela Administração, inclusive os de direito privado, os atos políticos e os atos materiais.
+ANTONIO: E o silêncio administrativo, em regra, é fato, não ato. Só produz efeito, deferimento ou indeferimento, quando a lei expressamente atribuir. Se não atribuir, o omisso pode ser compelido judicialmente a decidir.
+THALITA: Silêncio é fato. A não ser que a lei diga o que ele significa.
+FRANCISCA: Isso mesmo.
+== SLIDE: Atributos do ato: PATI
+* Presunção de legitimidade e veracidade: em todos os atos
+* Imperatividade, autoexecutoriedade e tipicidade têm exceções
+* Presunção relativa: inverte o ônus da prova
+* Mnemônico PATI
+ANTONIO: Atributos do ato administrativo, o mnemônico é PATI: presunção, autoexecutoriedade, tipicidade e imperatividade. Só a presunção está em todos os atos. Os demais comportam exceções, e é aí que a FCC monta a questão.
+THALITA: Começo pela presunção. Como cai em prova?
+FRANCISCA: Presunção de legitimidade e veracidade. Legitimidade: presume-se que o ato foi editado conforme a lei. Veracidade: presumem-se verdadeiros os fatos alegados pela Administração. É presunção relativa, juris tantum: admite prova em contrário, inverte o ônus da prova para quem impugna e autoriza a execução imediata do ato até que seja invalidado.
+BRUNO: Imperatividade, ou poder extroverso: o ato se impõe a terceiros independentemente de concordância. Mas está ausente nos atos negociais, como licença, autorização e permissão, que o particular pede, e nos enunciativos, como certidão, atestado e parecer.
+ANTONIO: Autoexecutoriedade: a Administração executa o ato com meios próprios, sem prévia ordem judicial. Existe quando a lei prevê ou em situação de urgência. Exceção clássica: a cobrança de multa não paga exige execução fiscal. Desdobra-se em exigibilidade, por meios indiretos como multa e recusa de licença, e executoriedade, por meios diretos como apreensão, interdição e demolição.
+THALITA: E a tipicidade?
+FRANCISCA: Segundo Di Pietro, o ato deve corresponder a figura previamente definida em lei, apta a produzir os efeitos pretendidos. Está presente nos atos unilaterais. Não se aplica aos contratos, bilaterais, e impede ato inominado, garantindo segurança ao administrado.
+THALITA: Só o P está em todos. O I some quando o particular pede ou o ato só declara. O A some quando precisa do juiz, como na multa.
+== SLIDE: Pegadinhas dos atributos e exemplo
+* Errado: todos os atos têm imperatividade
+* Errado: autoexecutoriedade na cobrança de multas
+* Errado: presunção de legitimidade absoluta
+* Certo: presunção inverte o ônus da prova
+ANTONIO: Vamos às frases que a FCC marca como erradas. Primeira: todos os atos administrativos são dotados de imperatividade.
+BRUNO: Errada: não têm os negociais nem os enunciativos. Segunda: a autoexecutoriedade está presente em todos os atos, inclusive na cobrança de multas. Errada: multa não paga exige execução fiscal. Terceira: a presunção de legitimidade é absoluta. Errada: é relativa.
+THALITA: E a certa?
+FRANCISCA: A presunção de legitimidade inverte o ônus da prova e permite que o ato produza efeitos até ser declarado inválido.
+ANTONIO: Exemplo: a vigilância sanitária apreende duzentos quilos de alimento estragado num mercado. É autoexecutoriedade, na modalidade executoriedade. No mesmo auto, aplica multa de cinco mil reais.
+FRANCISCA: Se o comerciante não pagar, a Administração não pode tomar o dinheiro do caixa. Inscreve em dívida ativa e ajuíza execução fiscal.
+THALITA: Apreender, pode. Cobrar multa, só com o juiz.
+== SLIDE: Elementos do ato: COFIFOMOB
+* Lei 4.717/1965, art. 2º: competência, finalidade, forma, motivo, objeto
+* Vinculados: competência, finalidade e forma
+* Motivo e objeto: podem ser discricionários (mérito)
+* Vício de competência e de finalidade: abuso de poder
+ANTONIO: Agora os elementos, ou requisitos de validade, da Lei da Ação Popular, a quatro mil setecentos e dezessete, de mil novecentos e sessenta e cinco, artigo segundo. São cinco: competência, finalidade, forma, motivo e objeto. O mnemônico é COFIFOMOB.
+THALITA: Quais são vinculados e quais são discricionários?
+FRANCISCA: Sempre vinculados: competência, finalidade e forma. Podem ser discricionários o motivo e o objeto, e é aí que se encontra o mérito administrativo.
+BRUNO: Competência é o conjunto de atribuições conferidas por lei ao agente ou órgão. Vício típico: incompetência e excesso de poder, quando o agente vai além do que a lei lhe atribui. Finalidade é o resultado de interesse público que o ato deve alcançar. Vício: desvio de finalidade, quando o agente competente pratica o ato visando fim diverso, como remover um servidor como punição.
+THALITA: Excesso de poder é competência, desvio de poder é finalidade. Os dois são abuso de poder.
+ANTONIO: Forma é a exteriorização do ato e, em sentido amplo, o procedimento para editá-lo. Em regra é escrita, mas admite forma verbal ou por sinais, como o guarda de trânsito e o semáforo. Vício: inobservância de forma essencial e ausência de motivação quando obrigatória.
+FRANCISCA: Motivo é o pressuposto de fato e de direito que autoriza ou exige o ato. Vício: inexistência ou falsidade. Objeto é o efeito jurídico imediato do ato, aquilo que ele decide, certifica ou cria. Vício: objeto ilícito, impossível, indeterminado ou imoral.
+BRUNO: Mérito é o juízo de conveniência e oportunidade sobre motivo e objeto dos atos discricionários. O Judiciário não o substitui, mas controla seus limites: razoabilidade, proporcionalidade e veracidade dos motivos. Dizer que a competência pode ser discricionária está errado.
+THALITA: Competência, finalidade e forma: sempre vinculados. Motivo e objeto é que podem ter margem de escolha do administrador. Vou guardar assim: quem decide o mérito escolhe o motivo e o objeto, nunca o agente nem o fim nem a forma. Se a alternativa disser que a finalidade é discricionária, eu risco na hora.
+== SLIDE: Competência, motivo e motivação
+* Competência: irrenunciável, intransferível, imprescritível, improrrogável
+* Delegável e avocável, salvo vedação (arts. 11 e 13 da Lei 9.784)
+* Motivo x motivação; motivação posterior em regra inválida
+* Teoria dos motivos determinantes
+ANTONIO: Características da competência. É irrenunciável, conforme o artigo onze da Lei nove mil setecentos e oitenta e quatro. É intransferível: a delegação transfere só o exercício, e é revogável. É imodificável pela vontade do agente, só a lei altera. É imprescritível: não se perde pelo não uso. É improrrogável: agente incompetente não se torna competente por falta de impugnação. E é, como regra, delegável e avocável, salvo vedação legal, artigo treze.
+THALITA: Agora motivo e motivação. Sempre misturo.
+FRANCISCA: Motivo é elemento do ato: a situação de fato e de direito, e antecede o ato. Todo ato tem motivo. Motivação integra a forma: é a exposição escrita dos motivos, exigida nos casos do artigo cinquenta da Lei nove mil setecentos e oitenta e quatro e, para a doutrina majoritária, como regra geral.
+BRUNO: A motivação deve ser prévia ou contemporânea. A posterior é, em regra, inválida. E o vício: inexistência ou falsidade do motivo, nulidade insanável; falta de motivação obrigatória, vício de forma.
+ANTONIO: Teoria dos motivos determinantes: a validade do ato fica vinculada aos motivos indicados como seu fundamento. Se a Administração declara um motivo, ele integra a validade: provado falso ou inexistente, o ato é nulo, ainda que dispensasse motivação.
+THALITA: Exemplo?
+FRANCISCA: O cargo em comissão é de livre exoneração, não precisa de motivação. Mas se a portaria de exoneração de Márcio declara que foi por falta de verba, e se prova que no mesmo dia foram nomeados três novos comissionados para o setor, a exoneração é anulável.
+BRUNO: Uma exceção doutrinária: a tredestinação lícita na desapropriação. O bem recebe destinação diversa da declarada, mas ainda de interesse público. Não há anulação nem retrocessão.
+ANTONIO: Com conceito, atributos e elementos assentados, passamos agora à classificação e às espécies de atos, à formação e efeitos, perfeição, validade e eficácia, e à extinção do ato administrativo, que é o nosso próximo tema.
