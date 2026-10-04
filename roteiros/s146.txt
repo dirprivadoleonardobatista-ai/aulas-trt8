@@ -1,0 +1,122 @@
+SEGMENTO s146
+== SLIDE: Rescisão por acordo: tudo pela metade, quase
+* Art. 484-A (Reforma): extinção por acordo entre empregado e empregador
+* Metade: aviso prévio INDENIZADO e multa do FGTS (20%)
+* Saque do FGTS até 80%; seguro-desemprego: NÃO
+* Demais verbas (saldo, 13º, férias + 1/3): integrais
+* Aviso trabalhado: integral
+ANTONIO: Na parte anterior falamos das modalidades clássicas de extinção. Agora entramos nas que mais confundem o candidato, e a primeira é a rescisão por acordo, prevista no artigo quatrocentos e oitenta e quatro A da CLT.
+THALITA: Esse é o famoso acordo em que o empregado pede para sair, mas combina com o patrão de receber alguma coisa?
+FRANCISCA: Exatamente. A Reforma Trabalhista criou o instituto para tirar da clandestinidade aquele acordo informal, em que o empregado pedia para ser dispensado e depois devolvia a multa do FGTS ao empregador. Agora a lei permite a extinção por acordo, e diz quais verbas são devidas.
+ANTONIO: E a regra é simples de guardar. Duas verbas saem pela metade: o aviso prévio, se for indenizado, e a indenização sobre o saldo do FGTS. Todas as demais verbas trabalhistas são pagas na integralidade.
+BRUNO: Aqui está o alvo da FCC. Ela decora os números e troca na alternativa. Metade do aviso indenizado, metade da multa, que então é de vinte por cento e não de quarenta. Saque do FGTS de até oitenta por cento. E seguro-desemprego, nenhum.
+THALITA: Peraí. Se o aviso for trabalhado, também paga metade?
+BRUNO: Não! Pegadinha clássica. A lei só reduz o aviso indenizado. Se o empregado trabalha o aviso, ele recebe o salário normal, integral.
+FRANCISCA: Isso mesmo. E o parágrafo primeiro do artigo quatrocentos e oitenta e quatro A permite movimentar a conta do FGTS, limitado a oitenta por cento do valor dos depósitos. O parágrafo segundo fecha a porta do seguro-desemprego: o acordo não autoriza o ingresso no programa.
+THALITA: Então vou resumir. Acordo é tudo pela metade nas duas verbas, oitenta no saque e zero no seguro. O resto vem inteiro: saldo de salário, décimo terceiro, férias mais um terço.
+ANTONIO: Perfeito. Vamos ao exemplo da apostila. Tereza ganha quatro mil reais, tem três anos completos de casa e saldo de FGTS de onze mil quinhentos e vinte reais. Extingue o contrato por acordo.
+THALITA: Eu faço o aviso. Três anos dão nove dias a mais, então trinta mais nove, trinta e nove dias. Quatro mil dividido por trinta é cento e trinta e três e pouco por dia, multiplicado por trinta e nove... dá cinco mil e duzentos reais, certo?
+FRANCISCA: Certo, a apostila traz cinco mil e duzentos. Como o aviso é indenizado, ela recebe a metade, dois mil e seiscentos reais.
+BRUNO: A multa é vinte por cento de onze mil quinhentos e vinte: dois mil trezentos e quatro reais. E ela pode sacar até oitenta por cento do saldo, ou seja, nove mil duzentos e dezesseis reais.
+ANTONIO: E seguro-desemprego, nada. Já o saldo de salário, o décimo terceiro proporcional e as férias proporcionais com um terço saem integrais.
+
+== SLIDE: Dispensa coletiva e o Tema 638 do STF
+* Art. 477-A: dispensa individual, plúrima e coletiva se equiparam
+* Sem autorização sindical nem convenção ou acordo coletivo
+* Tema 638 STF: intervenção sindical prévia é exigência procedimental
+* Intervenção não é autorização nem celebração de acordo
+* Art. 477-B: PDV em norma coletiva dá quitação plena
+BRUNO: Mudamos de assunto. A dispensa coletiva, tratada no artigo quatrocentos e setenta e sete A. O texto diz que as dispensas imotivadas individuais, plúrimas ou coletivas se equiparam para todos os fins.
+THALITA: Equiparam como? Demitir cem pessoas é igual a demitir uma?
+FRANCISCA: Para a Reforma, sim. A lei diz que não precisa de autorização prévia do sindicato, nem de convenção ou acordo coletivo para a dispensa se efetivar. Foi uma reação à jurisprudência do TST, que exigia negociação coletiva prévia para a dispensa em massa.
+BRUNO: Só que o assunto foi parar no Supremo, e o STF conciliou o texto da lei com a Constituição. Esse é o Tema seiscentos e trinta e oito, vindo do recurso extraordinário novecentos e noventa e nove mil quatrocentos e trinta e cinco.
+ANTONIO: A tese diz que a intervenção sindical prévia é exigência procedimental imprescindível para a dispensa em massa, e que isso não se confunde com autorização prévia do sindicato nem com celebração de convenção ou acordo coletivo.
+THALITA: Fiquei confusa. Precisa do sindicato ou não precisa?
+FRANCISCA: Precisa que o sindicato seja chamado a dialogar antes. Não precisa que ele autorize, e não precisa fechar acordo. É um dever de conversar, de dar ciência e abrir diálogo.
+BRUNO: E a FCC cobra em forma de tabela de certo e errado. Dispensa em massa depende de autorização do sindicato: errado. Depende de celebração de acordo ou convenção: errado. Exige intervenção sindical prévia, o diálogo: certo, Tema seiscentos e trinta e oito. E dispensa individual exige intervenção sindical: errado.
+THALITA: Macete então. Em massa, o sindicato é comunicado e conversa, mas não manda e não assina. Individual, nem isso.
+ANTONIO: Ótimo. Um detalhe: o Supremo modulou os efeitos, valendo para dispensas posteriores à publicação da ata do julgamento, em dois mil e vinte e dois.
+FRANCISCA: Aproveitando, o artigo quatrocentos e setenta e sete B traz o Plano de Demissão Voluntária ou Incentivada. Se estiver previsto em norma coletiva, enseja quitação plena e irrevogável dos direitos decorrentes da relação de emprego, salvo disposição em contrário estipulada entre as partes.
+BRUNO: A apostila destaca que isso segue a linha do Tema cento e cinquenta e dois do STF. Na prova, o cuidado é com a expressão "salvo disposição em contrário". Se a alternativa disser quitação plena sem ressalva alguma, desconfie.
+THALITA: Anotado: PDV em norma coletiva, quitação plena, salvo se as partes combinarem diferente.
+
+== SLIDE: Culpa recíproca: metade do que é proporcional
+* Art. 484: faltas graves de ambos, concomitantes e com nexo
+* Reconhecida em juízo; indenização reduzida à metade
+* FGTS pode ser sacado; multa cai para 20%
+* Súmula 14 TST: 50% de aviso, 13º e férias proporcionais
+* Saldo e férias vencidas: integrais
+ANTONIO: Terceira modalidade: a culpa recíproca, do artigo quatrocentos e oitenta e quatro. Quando os dois lados cometem falta grave no ato que levou à rescisão, o tribunal reduz a indenização pela metade.
+FRANCISCA: É importante entender os requisitos. Precisa haver faltas graves de ambos, praticadas de forma concomitante e com nexo de causalidade entre si. E isso é reconhecido em juízo, não dá para o empregador declarar a culpa recíproca sozinho no termo de rescisão.
+THALITA: Dá um exemplo para eu visualizar?
+FRANCISCA: Imagine que o empregado agride um colega e, na mesma discussão, o chefe o ofende gravemente. Faltas dos dois lados, ligadas entre si. Se o juiz reconhece, aplica o artigo quatrocentos e oitenta e quatro.
+BRUNO: Quanto ao FGTS, o empregado pode sacar e a multa cai para vinte por cento, conforme o parágrafo segundo do artigo dezoito da Lei oito mil e trinta e seis. Seguro-desemprego, na tabela mestra, a resposta é não.
+ANTONIO: E a Súmula quatorze do TST traz o miolo. Reconhecida a culpa recíproca, o empregado tem direito a cinquenta por cento do aviso prévio, do décimo terceiro salário e das férias proporcionais.
+THALITA: Então a dica da apostila é: metade de tudo que é proporcional, mais metade do aviso. O que já é adquirido, como saldo de salário e férias vencidas, vem inteiro.
+BRUNO: Isso! Tenho um aviso importante. A banca gosta de trocar "metade" por "integral" nas férias vencidas. Férias vencidas são direito adquirido, então vêm inteiras. Metade só nas proporcionais.
+THALITA: E se a alternativa disser que a culpa recíproca dá direito a cinquenta por cento do saldo de salário? Errado, certo?
+BRUNO: Errado. Saldo de salário é sempre integral. Você trabalhou, tem que receber.
+ANTONIO: Fechando: culpa recíproca, faltas de ambos, reconhecida pela Justiça, metade do aviso, do décimo terceiro e das férias proporcionais, multa de vinte por cento e saque liberado.
+
+== SLIDE: Prazo de pagamento e multa do artigo 477
+* Art. 477, §6º: documentos e pagamento em até 10 dias do término
+* Reforma unificou o prazo; homologação sindical foi revogada
+* Multa do §8º: salário do empregado + multa administrativa
+* Não incide se o trabalhador deu causa à mora (Súmula 462)
+* Entes públicos pagam a multa (OJ 238); massa falida não (Súm. 388)
+FRANCISCA: Agora o prazo para pagar as verbas rescisórias. Pelo parágrafo sexto do artigo quatrocentos e setenta e sete, a entrega dos documentos que comprovem a comunicação da extinção aos órgãos competentes e o pagamento devem ocorrer em até dez dias, contados a partir do término do contrato.
+ANTONIO: A Reforma unificou o prazo: dez dias, qualquer que seja a modalidade. Antes havia o primeiro dia útil para o aviso trabalhado. E também foi revogada a homologação sindical para contratos com mais de um ano.
+BRUNO: E se atrasar, vem a multa do parágrafo oitavo: uma multa administrativa por trabalhador, mais uma multa a favor do empregado equivalente ao seu salário. A exceção é quando o trabalhador, comprovadamente, dá causa à mora. É o que também diz a Súmula quatrocentos e sessenta e dois.
+ANTONIO: Essa Súmula quatrocentos e sessenta e dois ainda traz outra regra importante: o fato de o vínculo ser reconhecido só em juízo não afasta a multa do parágrafo oitavo.
+THALITA: Entes públicos pagam essa multa? Parecia que governo tinha privilégio.
+FRANCISCA: Nessa multa não. A Orientação Jurisprudencial duzentos e trinta e oito da SDI-um diz que os entes públicos se sujeitam à multa do artigo quatrocentos e setenta e sete. Já a massa falida não se sujeita às multas dos artigos quatrocentos e sessenta e sete e quatrocentos e setenta e sete, parágrafo oitavo, conforme a Súmula trezentos e oitenta e oito.
+BRUNO: Mais dois pontos. Compensação no termo de rescisão fica limitada a um mês de remuneração. E a quitação tem eficácia liberatória só quanto às parcelas consignadas no recibo, Súmula trezentos e trinta.
+THALITA: E a indenização do artigo quatrocentos e setenta e oito?
+ANTONIO: É do regime anterior ao FGTS universal: um mês de remuneração por ano de serviço, ou fração igual ou superior a seis meses.
+
+== SLIDE: Artigo 467: a multa de cinquenta por cento
+* Verbas rescisórias INCONTROVERSAS não pagas na primeira audiência
+* Acréscimo de 50% sobre essas verbas
+* Controvérsia razoável (ex.: negar o vínculo): não incide
+* Exclui União, Estados, DF, Municípios e suas autarquias e fundações
+* Comparar com a multa do art. 477, §8º (1 salário, prazo de 10 dias)
+FRANCISCA: Vamos ao artigo quatrocentos e sessenta e sete, que confunde com a multa que acabamos de ver. Ele diz que, havendo controvérsia sobre o montante das verbas rescisórias, o empregador é obrigado a pagar ao trabalhador, na data do comparecimento à Justiça do Trabalho, a parte incontroversa. Se não pagar, as verbas vêm acrescidas de cinquenta por cento.
+THALITA: Ou seja, o juiz olha o que o patrão admite que deve e cobra pagamento na primeira audiência?
+FRANCISCA: Isso. Só alcança verbas rescisórias incontroversas, não pagas na primeira audiência. Se existe controvérsia razoável, por exemplo o empregador nega a existência do vínculo, a multa não incide.
+BRUNO: E tem exceção subjetiva: o parágrafo único exclui da regra a União, os Estados, o Distrito Federal, os Municípios e suas autarquias e fundações públicas. Lembre que a massa falida também escapa, pela Súmula trezentos e oitenta e oito.
+THALITA: Vou montar o macete comparando as duas multas. A do artigo quatrocentos e setenta e sete, parágrafo oitavo, é de um salário, o gatilho é o prazo de dez dias do término, e vai para o empregado, além da multa administrativa.
+ANTONIO: E a do artigo quatrocentos e sessenta e sete?
+THALITA: Cinquenta por cento sobre as verbas incontroversas, gatilho na data do comparecimento à Justiça do Trabalho, na primeira audiência, e o beneficiário é o empregado também.
+BRUNO: Perfeito. A pegadinha da FCC é inverter os gatilhos: dizer que a multa de cinquenta por cento tem prazo de dez dias, ou que a multa de um salário é cobrada na audiência. Decore: dez dias é um salário; audiência é cinquenta por cento.
+FRANCISCA: Boa frase. E também lembre que o artigo quatrocentos e sessenta e sete não incide sobre verbas controvertidas. Só sobre o que o próprio empregador reconhece, ou não consegue contestar.
+== SLIDE: Quadro mestre: modalidades que mais caem
+* Sem justa causa e rescisão indireta: tudo, multa 40%, seguro
+* Justa causa: saldo e férias vencidas; perde o resto
+* Pedido de demissão: sem FGTS, sem multa, sem seguro
+* Súmulas 171, 261 e 157 sobre férias proporcionais e 13º
+* Férias vencidas são devidas em todas as modalidades
+ANTONIO: Agora a peça que responde a cerca de metade das questões de rescisão. O quadro mestre cruza a modalidade de extinção com as verbas devidas. Vou começar pelas duas mais completas. Na dispensa sem justa causa e na rescisão indireta o empregado recebe tudo: saldo, aviso prévio proporcional, décimo terceiro proporcional, férias vencidas e proporcionais com um terço, saque do FGTS, multa de quarenta por cento e seguro-desemprego.
+THALITA: E na justa causa do empregado?
+BRUNO: Perde muito. Recebe saldo de salário e férias vencidas com um terço. Não recebe aviso prévio, décimo terceiro proporcional, férias proporcionais, saque, multa nem seguro. O fundamento das férias proporcionais é a Súmula cento e setenta e um do TST: salvo na dispensa por justa causa, a extinção sujeita o empregador ao pagamento das férias proporcionais, mesmo que o período aquisitivo seja incompleto.
+FRANCISCA: Aqui entra o alerta: férias vencidas são devidas em todas as modalidades, inclusive na justa causa, porque são direito adquirido, pelo artigo cento e quarenta e seis. Na justa causa perdem-se só as proporcionais e o décimo terceiro proporcional.
+THALITA: E o pedido de demissão?
+ANTONIO: Saldo, sim. Aviso prévio: o empregado deve conceder, ou sofre desconto. Décimo terceiro proporcional, sim, Súmula cento e cinquenta e sete. Férias vencidas, sim. Férias proporcionais, sim, mesmo com menos de um ano, Súmula duzentos e sessenta e um. Saque do FGTS, multa e seguro, não.
+FRANCISCA: Um exemplo: a Ana, oito meses de casa, pede demissão. Recebe saldo de salário, décimo terceiro proporcional de oito doze avos, férias proporcionais de oito doze avos com um terço. Não recebe saque do FGTS, multa de quarenta por cento nem guias do seguro-desemprego.
+BRUNO: E se ela não cumprir o aviso de trinta dias, o empregador pode descontar o valor, pelo artigo quatrocentos e oitenta e sete, parágrafo segundo. Se a Ana tivesse sido dispensada por justa causa, com os mesmos oito meses, receberia apenas o saldo de salário.
+THALITA: Só o saldo! Então justa causa com oito meses é só saldo, sem férias vencidas porque ainda não completou o período.
+BRUNO: Exatamente, ainda não existem férias vencidas.
+== SLIDE: Quadro mestre: contrato a termo, morte e força maior
+* Culpa recíproca: 50% de aviso, 13º e férias proporcionais
+* Acordo: 50% do aviso indenizado, saque até 80%, multa 20%
+* Término do contrato a termo: sem aviso, sem multa, sem seguro
+* Antecipação do termo pelo empregador: art. 479 e multa 40%
+* Morte: herdeiros recebem; art. 502 e art. 486
+ANTONIO: Completando o quadro. Na culpa recíproca o empregado recebe saldo, cinquenta por cento do aviso e do décimo terceiro, férias vencidas integrais, cinquenta por cento das proporcionais, saque do FGTS, multa de vinte por cento e nada de seguro. No acordo, cinquenta por cento do aviso indenizado, saque até oitenta por cento, multa de vinte por cento e nada de seguro.
+THALITA: E o contrato a termo?
+FRANCISCA: No término normal, o empregado recebe saldo, décimo terceiro, férias e saca o FGTS. Não tem aviso prévio, multa nem seguro-desemprego.
+BRUNO: Na antecipação do termo pelo empregador, vêm saque, multa de quarenta por cento e seguro. Aviso não é devido, salvo cláusula do artigo quatrocentos e oitenta e um, e é devida a indenização do artigo quatrocentos e setenta e nove.
+THALITA: E se o empregado morrer?
+FRANCISCA: Os herdeiros recebem as verbas e os dependentes sacam o FGTS. Não há aviso, multa nem seguro.
+BRUNO: A apostila traz ainda duas situações especiais. Força maior, artigo quinhentos e dois: a indenização é reduzida à metade e a multa do FGTS é de vinte por cento. E o factum principis, artigo quatrocentos e oitenta e seis: a indenização fica a cargo do governo responsável pela paralisação.
+THALITA: Meu resumo: sem justa causa e indireta têm tudo, culpa recíproca e acordo vêm com metade e multa de vinte, justa causa quase nada, e demissão sem FGTS nem seguro.
+ANTONIO: Resumo bom. Só lembre que o seguro-desemprego existe nas dispensas sem justa causa, na rescisão indireta e na antecipação do termo pelo empregador. E agora que fechamos as formas de extinção, temos de falar do instrumento que aparece em quase todas elas: o aviso prévio.
