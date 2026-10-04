@@ -1,0 +1,45 @@
+SEGMENTO s115
+== SLIDE: Questão 12: permissão de uso e concessão de uso
+* Gabarito E
+* Permissão de uso: ato unilateral, discricionário e precário
+* Concessão de uso: contrato com prazo e licitação
+* Cessão de uso: entre órgãos, gratuita
+* CUEM: direito subjetivo para moradia
+ANTONIO: Chegamos à última questão da aula, ligada ao tema dos bens públicos. O Município de Delta pretende, primeiro, consentir que Tereza instale uma banca de jornal em praça pública, mediante ato unilateral e precário, de interesse tanto da particular quanto da coletividade. Segundo, celebrar com a Alfa Ltda., após licitação, ajuste com prazo determinado para exploração de restaurante no mercado municipal. Os institutos adequados são, respectivamente: A, autorização de uso e cessão de uso. B, concessão de uso e permissão de uso. C, concessão de direito real de uso e autorização de uso. D, cessão de uso e concessão de uso especial para fins de moradia. E, permissão de uso e concessão de uso. Pausa para você pensar.
+THALITA: Banca de jornal eu lembro: permissão. E restaurante com contrato é concessão. Então E!
+BRUNO: Perfeito. A E está correta. Permissão de uso é ato unilateral, discricionário e precário, de interesse público e privado. Concessão de uso é contrato administrativo, com prazo determinado e licitação.
+FRANCISCA: A A erra porque a cessão de uso se dá entre órgãos ou entidades, de forma gratuita, e não serve à exploração comercial. A B inverte os institutos: a concessão é contratual e estável, e a permissão é precária.
+ANTONIO: A C mistura as coisas. A concessão de direito real de uso é direito real para fins sociais específicos, e a autorização é precária e unilateral, incompatível com contrato a prazo.
+BRUNO: A D também erra: a concessão de uso especial para fins de moradia, a CUEM, é direito subjetivo do possuidor, para moradia, e não serve para explorar restaurante.
+THALITA: Macete: ato é precário, contrato é estável. Banca é ato, restaurante é contrato.
+FRANCISCA: E lembre da dica da apostila: autorização e permissão são "apagáveis a qualquer tempo".
+== SLIDE: Revisão: responsabilidade do Estado e serviços públicos
+* Estado responde direto; regresso só com dolo ou culpa
+* Omissão: dever específico de proteção
+* Encampação: lei e indenização prévia
+* Intervenção: 30 dias para instaurar, 180 para concluir
+* PPP: 10 milhões, 5 anos de serviço, 35 de prazo máximo
+BRUNO: Antes de fechar, uma revisão rápida dos pontos que mais caem. Responsabilidade civil do Estado: a vítima aciona o Estado, não o agente. O Estado cobra do agente só com dolo ou culpa. Na omissão, responde se violar dever específico de proteção, como com o detento.
+THALITA: E prescrição de cinco anos, Decreto vinte mil novecentos e dez.
+ANTONIO: Isso. Nas concessões: encampação é retomada por interesse público, com lei autorizativa e indenização prévia. Caducidade é por inadimplência. Intervenção: trinta dias para instaurar o procedimento, cento e oitenta para concluir, sob pena de invalidade.
+FRANCISCA: Permissão é precária, mas com licitação. Concessão é para pessoa jurídica ou consórcio, por conta e risco do concessionário. No corte de energia, aviso prévio, e nada de começar de sexta a domingo ou em feriado.
+BRUNO: Nas PPPs: valor mínimo de dez milhões, serviço por no mínimo cinco anos, prazo máximo de trinta e cinco, e contraprestação só após a disponibilização do serviço. Nas parcerias com organizações da sociedade civil: fomento quando a OSC propõe, colaboração quando o Estado propõe.
+== SLIDE: Pegadinhas que mais pegam em bens públicos
+* Dominical não é usucapível (Súmula 340 do STF)
+* Inalienabilidade é relativa, não absoluta
+* Bem de sociedade de economia mista é privado
+* Ocupação indevida é detenção (Súmula 619 do STJ)
+FRANCISCA: Antes do resumo final, quatro pegadinhas de bens públicos que a FCC repete sempre. Primeira: dizer que o bem dominical pode ser usucapido porque é disponível. Errado, pela Súmula trezentos e quarenta do Supremo e pelo artigo cento e dois do Código Civil.
+THALITA: Segunda: dizer que a inalienabilidade é absoluta.
+ANTONIO: Errado. É relativa: o bem afetado não se vende, mas, desafetado, pode ser alienado na forma da lei.
+BRUNO: Terceira: dizer que os bens de sociedade de economia mista são públicos. Errado, o artigo noventa e oito do Código Civil só trata como públicos os bens das pessoas jurídicas de direito público interno.
+THALITA: E a quarta é a ocupação irregular, que dá direito a indenizar benfeitorias?
+FRANCISCA: Não. Pela Súmula seiscentos e dezenove do STJ, é mera detenção, precária, sem retenção nem indenização por acessões e benfeitorias.
+== SLIDE: Resumo relâmpago e despedida
+* Bens públicos: só de pessoa de direito público interno
+* Inalienabilidade relativa; sem usucapião
+* Autorização e permissão: precárias; concessão: contrato
+* CUEM: direito subjetivo, até 250 m², posse por 5 anos
+BRUNO: Vamos fechar a aula com o resumo, e a Thalita começa.
+THALITA: Então vamos ao meu resumo relâmpago do que mais cai na FCC. Bem público é o de pessoa jurídica de direito público interno, critério subjetivo; bem de sociedade de economia mista é privado. Classes: uso comum, uso especial e dominicais; só os dominicais são desafetados. Inalienabilidade é relativa, e nenhum bem público é usucapível, nem o dominical, Súmula trezentos e quarenta do STF. Ocupação indevida é mera detenção, sem indenização por benfeitorias. No uso por terceiros: autorização e permissão são atos precários, concessão é contrato estável. A CDRU é direito real resolúvel, a cessão de uso é entre órgãos, e a CUEM é direito subjetivo, por cinco anos de posse, até duzentos e cinquenta metros quadrados de imóvel urbano para moradia.
+ANTONIO: Excelente resumo, Thalita. Bons estudos a todos, e até a próxima aula!

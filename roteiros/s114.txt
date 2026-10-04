@@ -1,0 +1,107 @@
+SEGMENTO s114
+== SLIDE: Questões 1 e 2: responsabilidade civil do Estado
+* Q1 (C): ação contra o Estado; regresso com dolo ou culpa (Tema 940)
+* Q2 (E): omissão e dever específico de proteção (Tema 592)
+* Fuga de preso: nexo causal direto (Tema 362)
+* Superlotação gera dano moral (Tema 365)
+ANTONIO: Terminada a teoria dos bens públicos, vamos às questões no estilo FCC. A primeira: Márcio, motorista efetivo do Município de Alfa, conduzindo veículo oficial em serviço, colidiu com o carro de Carla. Ela ajuizou ação indenizatória só contra Márcio. De acordo com a Constituição e o STF: A, a vítima pode escolher entre acionar o Município, o agente ou ambos. B, a ação é cabível se Carla provar dolo ou culpa, e a responsabilidade do agente perante a vítima é objetiva. C, Márcio é parte ilegítima, a ação deve ser contra o Município, com direito de regresso contra Márcio nos casos de dolo ou culpa. D, o Município responde só subsidiariamente. E, o regresso independe de dolo ou culpa. Pausa para você pensar.
+THALITA: Eu iria na C, mas não sei explicar bem por quê.
+BRUNO: Então vamos lá. A C reproduz o Tema novecentos e quarenta do STF, a dupla garantia, e a parte final do artigo trinta e sete, parágrafo sexto. O autor do ato não pode ser demandado diretamente pela vítima.
+FRANCISCA: Por isso a A erra: o Tema novecentos e quarenta afastou a escolha da vítima e impede até o litisconsórcio. A B também erra: perante a vítima o agente não responde, e perante o Estado a responsabilidade dele é subjetiva, não objetiva.
+ANTONIO: A D inverte a lógica, porque o Estado responde direta e primariamente. E a E erra porque o regresso exige dolo ou culpa. O risco administrativo rege só a relação entre Estado e vítima.
+THALITA: Macete: a vítima processa o Estado; o Estado cobra do agente, só se houver dolo ou culpa.
+BRUNO: Segunda questão: responsabilidade do Estado por omissão, segundo o STF em repercussão geral. A: o Estado responde por qualquer crime de foragido, independentemente do tempo desde a fuga. B: a morte de detento só gera indenização se houver culpa individualizada de agente penitenciário. C: aplica-se o risco integral, afastando excludentes. D: superlotação carcerária não gera danos morais, por causa da reserva do possível. E: em caso de inobservância do dever específico de proteção do artigo quinto, inciso quarenta e nove, o Estado responde pela morte de detento. Pausa para você pensar.
+THALITA: Parece a E, porque cita o dever específico.
+FRANCISCA: Isso. A E é a tese do Tema quinhentos e noventa e dois, RE oitocentos e quarenta e um mil quinhentos e vinte e seis.
+ANTONIO: A A erra porque, no Tema trezentos e sessenta e dois, exige-se nexo causal direto entre o momento da fuga e o crime. A B erra: não se exige culpa individualizada, basta violar o dever específico.
+BRUNO: A C usa risco integral, que é excepcional, como dano nuclear e ambiental. E a D contraria o Tema trezentos e sessenta e cinco: há dever de indenizar, inclusive danos morais, por condições carcerárias degradantes.
+THALITA: Então reserva do possível não vale contra a dignidade do preso.
+== SLIDE: Questões 3 e 4: prestadoras privadas e encampação
+* Q3 (B): usuários e terceiros; prescrição de 5 anos
+* Art. 37, § 6º: só privadas prestadoras de serviço público
+* Q4 (A): encampação exige lei autorizativa e indenização prévia
+* Caducidade pressupõe inadimplência
+FRANCISCA: Terceira questão. Afirmativa um: a responsabilidade objetiva das pessoas jurídicas de direito privado prestadoras de serviço público alcança usuários e terceiros não usuários. Dois: a pretensão de indenização contra a Fazenda prescreve em cinco anos, contados do ato ou fato. Três: empresas públicas exploradoras de atividade econômica respondem objetivamente, com base no artigo trinta e sete, parágrafo sexto. Alternativas: A, só a um. B, um e dois. C, dois e três. D, um e três. E, todas. Pausa para você pensar.
+THALITA: Eu marcaria as três, porque tudo soa familiar.
+ANTONIO: Cuidado! A um é verdadeira: Tema cento e trinta do STF, RE quinhentos e noventa e um mil oitocentos e setenta e quatro. A dois também: artigo primeiro do Decreto vinte mil novecentos e dez, de mil novecentos e trinta e dois, que o STJ aplica em vez do prazo trienal do Código Civil.
+BRUNO: A três é falsa. O artigo trinta e sete, parágrafo sexto, abrange apenas as pessoas privadas prestadoras de serviço público. Empresa pública exploradora de atividade econômica segue o regime privado. Gabarito B.
+FRANCISCA: A A erra porque omite o item dois. A C e a D incluem o item três. A E inclui o três.
+THALITA: Macete: serviço público, objetiva; atividade econômica, regime privado.
+ANTONIO: Quarta questão. O Estado Beta, por razões de interesse público motivadas, retomou antes do prazo o serviço de transporte intermunicipal concedido à Gama, que cumpria suas obrigações. Pela Lei oito mil novecentos e oitenta e sete, de mil novecentos e noventa e cinco, é: A, encampação, que depende de lei autorizativa específica e de prévio pagamento de indenização. B, caducidade, por decreto, sem indenização prévia. C, encampação, que dispensa lei, bastando decreto motivado, com indenização posterior. D, rescisão unilateral, sem indenização. E, anulação, sem indenização pelos investimentos não amortizados. Pausa para você pensar.
+THALITA: Retomada por interesse público é encampação. Então A ou C. Fico com a A.
+BRUNO: Acertou. Artigo trinta e sete: interesse público, lei autorizativa específica e indenização prévia. A C troca os requisitos: a lei é exigida e a indenização é prévia.
+FRANCISCA: A B é caducidade, que pressupõe inadimplência da concessionária, artigo trinta e oito. Aqui ela cumpria tudo. A D confunde: rescisão é iniciativa da concessionária, por via judicial, artigo trinta e nove. E a E não faz sentido, pois não há ilegalidade que justifique anulação.
+THALITA: Encampação: interesse público, lei, indenização antes.
+== SLIDE: Questões 5 e 6: intervenção, concessão e permissão
+* Q5 (D): procedimento em 30 dias, conclusão em 180
+* Prazo descumprido: intervenção inválida
+* Q6 (B): permissão precária, com licitação, contrato de adesão
+* Concessão: pessoa jurídica ou consórcio, por conta e risco do concessionário
+BRUNO: Quinta questão. Declarada a intervenção na concessão, o poder concedente deve: A, instaurar procedimento em quinze dias e concluir em noventa, sob pena de caducidade. B, instaurar em trinta dias e concluir em noventa, sob pena de invalidade. C, instaurar em sessenta e concluir em cento e oitenta, sob pena de encampação. D, instaurar em trinta dias e concluir em cento e oitenta, sob pena de invalidade da intervenção. E, obter autorização judicial em dez dias e concluir em cento e vinte, sob pena de nulidade do contrato. Pausa para você pensar.
+THALITA: Eu lembro trinta e cento e oitenta. Então D.
+ANTONIO: Correto, artigo trinta e três, caput e parágrafo segundo. Trinta dias para instaurar, cento e oitenta para concluir, sob pena de invalidade.
+FRANCISCA: A A troca prazos e consequência. A B erra: a conclusão ocorre em cento e oitenta dias, não noventa. A C erra: a instauração é em trinta dias, e a consequência é invalidade, não encampação.
+BRUNO: A E inventa autorização judicial. A intervenção se faz por decreto, artigo trinta e dois, parágrafo único.
+THALITA: Macete: trinta, cento e oitenta, e se passar, invalida.
+FRANCISCA: Sexta questão, sobre a mesma lei. A: a concessão pode ser dada a pessoa física ou jurídica, mediante concorrência ou diálogo competitivo. B: a permissão é delegação a título precário, mediante licitação, a pessoa física ou jurídica, por contrato de adesão. C: a permissão dispensa licitação, por ser precária. D: a concessão é delegação precária, revogável sem indenização. E: na concessão, o serviço é por conta e risco do poder concedente. Pausa para você pensar.
+THALITA: Eu cortaria a C, porque o artigo cento e setenta e cinco manda licitar sempre.
+ANTONIO: Boa! A B é a correta: artigo segundo, inciso quatro, combinado com o artigo quarenta.
+BRUNO: A A erra: a concessão é feita a pessoa jurídica ou consórcio de empresas, artigo segundo, inciso dois, não a pessoa física. A C erra porque a permissão também exige licitação.
+FRANCISCA: A D troca a precariedade, que é traço da permissão. Na concessão, a retomada antecipada por interesse público exige indenização prévia. E a E erra: é por conta e risco da concessionária.
+THALITA: Macete: permissão é precária e com licitação; concessão é por conta e risco do concessionário.
+== SLIDE: Questões 7 e 8: parcerias público-privadas e corte de energia
+* Q7 (E): vedada PPP com serviço inferior a 5 anos
+* Valor mínimo: 10 milhões; prazo máximo: 35 anos
+* Contraprestação só após a disponibilização do serviço
+* Q8 (C): corte após aviso prévio; não inicia sexta, sábado, domingo ou feriado
+ANTONIO: Sétima questão, sobre as parcerias público-privadas, Lei onze mil e setenta e nove, de dois mil e quatro. É vedado celebrar PPP: A, com valor inferior a vinte milhões de reais. B, que envolva execução de obra associada à prestação de serviços. C, com prazo, incluída a prorrogação, superior a trinta anos. D, com contraprestação paga só após a disponibilização do serviço. E, com período de prestação do serviço inferior a cinco anos. Pausa para você pensar.
+THALITA: Cinco anos de serviço eu sei que é regra. Então E.
+FRANCISCA: Certo, artigo segundo, parágrafo quarto, inciso dois. A A erra: o valor mínimo atual é dez milhões, depois da Lei treze mil quinhentos e vinte e nove, de dois mil e dezessete.
+BRUNO: A B é pegadinha: vedada é a PPP cujo objeto único seja a execução de obra. Obra associada a serviço é permitida. A C erra: o limite é trinta e cinco anos, incluída a prorrogação, artigo quinto, inciso um.
+ANTONIO: E a D inverte: pagar só depois da disponibilização do serviço é obrigatório, não vedado, artigo sétimo.
+THALITA: Macete: dez milhões, cinco anos, trinta e cinco anos, pago só depois.
+BRUNO: Oitava questão. Paulo, usuário de energia elétrica, está inadimplente. A concessionária Beta enviou aviso prévio e programou o corte para um sábado. Pela lei de concessões: A, o corte é lícito em qualquer dia, independentemente de aviso. B, é ilícito, pois a continuidade veda interrupção por inadimplência. C, a interrupção é admitida após prévio aviso, mas não pode iniciar-se no sábado. D, depende de autorização judicial. E, só é lícito se o débito for anterior a um ano. Pausa para você pensar.
+THALITA: Eu acho que aviso prévio e dia útil. Fico com a C.
+FRANCISCA: Isso. Artigo sexto, parágrafo quarto: o corte não pode iniciar-se na sexta-feira, sábado, domingo, feriado ou véspera de feriado.
+ANTONIO: A A erra: fora da emergência, exige-se aviso prévio, parágrafo terceiro, e há vedação de dias. A B erra: o parágrafo terceiro, inciso dois, não considera descontinuidade a interrupção por inadimplemento, considerado o interesse da coletividade.
+BRUNO: A D inventa autorização judicial. E a E inverte o entendimento do STJ, que veda o corte por débitos pretéritos consolidados.
+THALITA: Macete: avisou, pode cortar, mas não de sexta a domingo nem em feriado.
+== SLIDE: Questão 9: instrumentos de parceria com organizações da sociedade civil
+* Gabarito A
+* Termo de fomento: proposta da OSC com recursos
+* Termo de colaboração: proposta da Administração
+* Acordo de cooperação: sem repasse de recursos
+* Convênio: restrito entre entes federados e SUS complementar
+FRANCISCA: Nona questão, sobre a Lei treze mil e dezenove, de dois mil e catorze. A Associação Viver, organização da sociedade civil, apresentou ao Município de Delta proposta de projeto de capacitação profissional de jovens, a ser executado com recursos transferidos pelo Município. A parceria será formalizada por: A, termo de fomento. B, termo de colaboração. C, acordo de cooperação. D, contrato de gestão. E, convênio. Pausa para você pensar.
+THALITA: Eu confundo fomento com colaboração. Quem propõe?
+BRUNO: Essa é a chave. No termo de fomento, a proposta vem da organização da sociedade civil, com transferência de recursos, artigo segundo, inciso oito. No termo de colaboração, a proposta vem da Administração, inciso sete.
+THALITA: Então, se a OSC propõe, é fomento. Gabarito A.
+ANTONIO: Isso. A C, acordo de cooperação, não envolve transferência de recursos, artigo segundo, inciso oito-A.
+FRANCISCA: A D, contrato de gestão, é instrumento das organizações sociais, na Lei nove mil seiscentos e trinta e sete, de mil novecentos e noventa e oito.
+BRUNO: E a E: depois do MROSC, o convênio ficou restrito às relações entre entes federados e ao SUS complementar, artigo oitenta e quatro-A.
+THALITA: Macete: fomento, a OSC propõe; colaboração, o Estado propõe; cooperação, sem dinheiro.
+== SLIDE: Questão 10: chamamento público
+* Gabarito D
+* Dispensa em urgência: até 180 dias (art. 30, I)
+* Inexigibilidade: transferência com entidade identificada em lei (art. 31, II)
+* PMIS: chamamento não depende dele (art. 21, § 3º)
+* Emendas parlamentares: dispensa do chamamento (art. 29)
+ANTONIO: Décima questão, também da Lei treze mil e dezenove. Afirmativa um: pode-se dispensar o chamamento público em caso de urgência decorrente de paralisação ou iminência de paralisação de atividades de relevante interesse público, por até cento e oitenta dias. Dois: é inexigível o chamamento quando a parceria decorrer de transferência autorizada em lei na qual a entidade beneficiária seja identificada expressamente. Três: os termos de colaboração com recursos de emendas parlamentares dependem de prévio chamamento. Quatro: é vedado condicionar o chamamento à prévia realização de Procedimento de Manifestação de Interesse Social. Está correto apenas: A, um e dois. B, dois e três. C, um, três e quatro. D, um, dois e quatro. E, três e quatro. Pausa para você pensar.
+THALITA: Eu desconfio da três. Emenda parlamentar com chamamento? Parece que dispensa.
+BRUNO: Boa leitura! A três é falsa. O artigo vinte e nove dispensa o chamamento nos termos com recursos de emendas parlamentares.
+FRANCISCA: A um é correta, artigo trinta, inciso um. A dois é correta, artigo trinta e um, inciso dois. A quatro é correta, artigo vinte e um, parágrafo terceiro.
+ANTONIO: Portanto, gabarito D: um, dois e quatro. A A omite a quatro. A B inclui a três. A C inclui a três e omite a dois. A E inclui a três.
+THALITA: Macete: urgência, dispensa; lei com nome, inexigível; emenda parlamentar, sem chamamento.
+== SLIDE: Questão 11: bens públicos no Código Civil
+* Gabarito B
+* Art. 98: só pessoas jurídicas de direito público interno
+* Arts. 100 e 101: afetados inalienáveis; dominicais alienáveis
+* Súmula 340 do STF e art. 102: sem usucapião
+* Edifício de Vara do Trabalho: uso especial
+FRANCISCA: Décima primeira, estilo Técnico, sobre bens públicos. A: os bens das sociedades de economia mista são públicos, por integrarem a Administração indireta. B: os bens de uso comum do povo e de uso especial são inalienáveis enquanto conservarem sua qualificação, e os dominicais podem ser alienados, observadas as exigências da lei. C: os dominicais podem ser adquiridos por usucapião. D: o edifício em que funciona uma Vara do Trabalho é bem dominical. E: a inalienabilidade dos bens públicos é absoluta. Pausa para você pensar.
+THALITA: Essa é tranquila, vimos agora há pouco. É a B.
+BRUNO: Certa! Artigos cem e cento e um do Código Civil. A A erra: pelo artigo noventa e oito, só são públicos os bens das pessoas jurídicas de direito público interno.
+ANTONIO: A C erra pela Súmula trezentos e quarenta do STF e pelo artigo cento e dois: nenhum bem público é usucapível. A D erra: edifício afetado a serviço público é bem de uso especial, artigo noventa e nove, inciso dois.
+FRANCISCA: E a E erra porque a inalienabilidade é relativa. Desafetado, o bem pode ser alienado.
+THALITA: Macete: afetado não vende, desafetado vende, e usucapião nunca.
+BRUNO: Falta só uma questão, sobre uso privativo de bens, e vem a revisão final da aula.
