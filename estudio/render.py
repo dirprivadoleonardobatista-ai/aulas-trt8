@@ -20,7 +20,7 @@ import unicodedata
 
 from . import slides as sl
 from . import tts
-from .formato import validar, VOZES
+from .formato import validar
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SAIDA = os.path.join(RAIZ, "saida")
@@ -141,7 +141,7 @@ def _srt(eventos, destino):
         t = ini
         for b in blocos:
             dur = (fim - ini) * len(b) / total
-            out.append("%d\n%s --> %s\n%s: %s\n" % (n, hms(t), hms(t + dur), VOZES[voz]["nome"], b))
+            out.append("%d\n%s --> %s\n%s\n" % (n, hms(t), hms(t + dur), b))
             n += 1
             t += dur
     with open(destino, "w", encoding="utf-8") as f:
@@ -172,11 +172,11 @@ def montar(aula, rots, plano, destino_dir):
         for s in r["slides"]:
             n += 1
             for k, (voz, texto) in enumerate(s["falas"]):
-                chave = (n, voz)
+                chave = n
                 if chave not in imagens:
-                    imagens[chave] = sl.slide(os.path.join(tmp, "s%03d_%s.png" % (n, voz[:3])),
+                    imagens[chave] = sl.slide(os.path.join(tmp, "s%03d.png" % n),
                                               aula["disciplina"], aula["numero"], s["titulo"],
-                                              s["topicos"], voz, n, total_slides)
+                                              s["topicos"], n, total_slides)
                 audio = tts.ler_pcm(next(wavs))
                 pausa = PAUSA_SLIDE if k == len(s["falas"]) - 1 else PAUSA_FALA
                 dur = len(audio) / 2 / tts.TAXA

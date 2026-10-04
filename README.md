@@ -9,7 +9,7 @@ Na página **Releases → aulas** deste repositório. Cada aula tem três arquiv
 
 - `.mp4`: vídeo com slides e narração (720p)
 - `.mp3`: só o áudio, para ouvir no celular
-- `.srt`: legenda com o nome de quem fala
+- `.srt`: legenda
 
 O texto do release traz o índice, com as horas já prontas.
 

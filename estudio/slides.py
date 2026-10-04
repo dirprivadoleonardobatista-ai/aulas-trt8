@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-"""Slides em PNG (Pillow). Sem avatar: quem fala aparece destacado na faixa
-de baixo, com nome e cor proprios."""
+"""Slides em PNG (Pillow). Sem avatar e sem identificar quem fala: so titulo
+e topicos."""
 import os
 
 from PIL import Image, ImageDraw, ImageFont
-
-from .formato import VOZES
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 W, H = 1280, 720
@@ -15,15 +13,7 @@ AZUL_ESCURO = "#13294B"
 AZUL = "#2E86C1"
 TEXTO = "#1E2533"
 CINZA = "#8A94A6"
-CINZA_CLARO = "#DDE3EC"
 RODAPE = "Legislação Estruturada · TRT-8 · FCC"
-
-COR_VOZ = {
-    "ANTONIO": "#1F4E99",
-    "FRANCISCA": "#A83246",
-    "BRUNO": "#2E7D5B",
-    "THALITA": "#B86E00",
-}
 
 _fontes = {}
 
@@ -75,28 +65,6 @@ def _cabecalho(img, d, disciplina, aula_num):
     d.text((W - 40 - d.textlength(marca, font=fm), 20), marca, font=fm, fill="#9CC9EA")
 
 
-def _faixa_vozes(d, ativa):
-    y0, y1 = H - 92, H - 50
-    n = len(VOZES)
-    larg = (W - 80 - (n - 1) * 14) / n
-    for i, (k, info) in enumerate(VOZES.items()):
-        x0 = 40 + i * (larg + 14)
-        x1 = x0 + larg
-        cor = COR_VOZ[k]
-        if k == ativa:
-            d.rounded_rectangle([x0, y0, x1, y1], radius=21, fill=cor)
-            d.ellipse([x0 + 16, y0 + 15, x0 + 28, y0 + 27], fill="white")
-            cor_txt, cor_papel = "white", "#E8EEF7"
-        else:
-            d.rounded_rectangle([x0, y0, x1, y1], radius=21, outline=CINZA_CLARO, width=2)
-            d.ellipse([x0 + 16, y0 + 15, x0 + 28, y0 + 27], fill=CINZA_CLARO)
-            cor_txt, cor_papel = CINZA, CINZA
-        fn, fp = fonte(18, "Bold"), fonte(15)
-        d.text((x0 + 40, y0 + 10), info["nome"], font=fn, fill=cor_txt)
-        d.text((x0 + 48 + d.textlength(info["nome"], font=fn), y0 + 13), info["papel"],
-               font=fp, fill=cor_papel)
-
-
 def _rodape(d, num, total):
     f = fonte(14)
     d.text((40, H - 34), RODAPE, font=f, fill=CINZA)
@@ -105,7 +73,7 @@ def _rodape(d, num, total):
         d.text((W - 40 - d.textlength(m, font=f), H - 34), m, font=f, fill=CINZA)
 
 
-def slide(destino, disciplina, aula_num, titulo, topicos, ativa, num, total):
+def slide(destino, disciplina, aula_num, titulo, topicos, num, total):
     img = Image.new("RGB", (W, H), FUNDO)
     d = ImageDraw.Draw(img)
     _cabecalho(img, d, disciplina, aula_num)
@@ -124,8 +92,8 @@ def slide(destino, disciplina, aula_num, titulo, topicos, ativa, num, total):
     d.rectangle([x, y, x + 110, y + 5], fill=AZUL)
     y += 32
 
-    limite = H - 118
-    for tam in (28, 26, 24, 22, 20):
+    limite = H - 60
+    for tam in (30, 28, 26, 24, 22, 20):
         f = fonte(tam)
         blocos = [quebrar(d, t, f, larg - 44) for t in topicos]
         alt = sum(len(b) * int(tam * 1.32) + int(tam * 0.75) for b in blocos)
@@ -143,7 +111,6 @@ def slide(destino, disciplina, aula_num, titulo, topicos, ativa, num, total):
             y += int(f.size * 1.32)
         y += int(f.size * 0.75)
 
-    _faixa_vozes(d, ativa)
     _rodape(d, num, total)
     img.save(destino, optimize=True)
     return destino
