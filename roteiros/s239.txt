@@ -1,0 +1,59 @@
+SEGMENTO s239
+== SLIDE: Questões 1 e 2: velocidades e pontos
+* Q1: ônibus em pista dupla 90; automóvel em pista simples 100 (art. 61)
+* Q2: gravíssima 7 pontos; leve 3; grave 5; média 4 (art. 259)
+ANTONIO: Depois de passar por trânsito, crimes de trânsito, Anexo um e primeiros socorros, vamos testar tudo com as questões comentadas. Questão um: onde não houver sinalização regulamentadora, qual a velocidade máxima de um ônibus em rodovia de pista dupla e de um automóvel em rodovia de pista simples? Pausa para você pensar.
+THALITA: Eu marco a letra A: cento e dez e cem.
+BRUNO: Cuidado, Thalita, essa é a pegadinha clássica. Cento e dez na pista dupla vale só para automóveis, camionetas e motocicletas. Para ônibus é noventa. O gabarito é C: noventa para o ônibus e cem para o automóvel em pista simples, artigo sessenta e um. A B inverte os limites. A D erra porque automóvel em pista simples tem cem. E a E traz oitenta, que é limite urbano de via de trânsito rápido.
+FRANCISCA: Questão dois, com três afirmativas. A um: a infração gravíssima computa sete pontos. A dois: a leve computa três pontos. A três: a grave computa quatro pontos. Pausa para pensar.
+THALITA: Eu acho que as três estão certas.
+FRANCISCA: A três está errada: grave vale cinco pontos, e quatro é da média. O gabarito é A, só a um e a dois, artigo duzentos e cinquenta e nove. A B esquece a dois, que também é correta. As letras C, D e E erram por incluir a três.
+== SLIDE: Questões 3 e 4: medida administrativa e categoria D
+* Q3: remoção do veículo é medida administrativa (art. 269)
+* Q4: categoria D exige B há 2 anos ou C há 1 ano
+ANTONIO: Questão três: qual das opções é medida administrativa, e não penalidade? Pausa para pensar.
+THALITA: Fico com a letra C, suspensão do direito de dirigir.
+BRUNO: Errou, Thalita. Suspensão é penalidade, aplicada pelo órgão estadual. O gabarito é E: a remoção do veículo, que integra o rol de medidas do artigo duzentos e sessenta e nove. A A, advertência por escrito, é penalidade do artigo duzentos e cinquenta e seis. A B, multa, também. A D, cassação da Permissão para Dirigir, também.
+FRANCISCA: Questão quatro: Bruno, de vinte e três anos, habilitado só na categoria B há um ano e seis meses, sem infrações, quer habilitar-se para conduzir ônibus. Pausa para pensar.
+THALITA: Ele já tem mais de vinte e um anos, então pode a categoria D. É a A?
+FRANCISCA: Quase. Além da idade, exige-se tempo de habilitação. A categoria D pede dois anos na B ou um ano na C. Faltam seis meses na B, então o gabarito é B, ele ainda não pode. A C erra: a idade mínima é vinte e um anos, não vinte e cinco. A D erra: a categoria E é para combinações de veículos. E a E erra: um ano na B é requisito da categoria C, não da D.
+BRUNO: Lembre o macete: para a D, dois na B ou um na C. É a inversão que a FCC adora.
+== SLIDE: Questões 5 e 6: embriaguez e prevalência da sinalização
+* Q5: 6 dg/L de sangue ou 0,3 mg/L de ar alveolar (art. 306)
+* Q6: ordem do agente prevalece sobre o semáforo (art. 89)
+ANTONIO: Questão cinco: para o crime do artigo trezentos e seis, a alteração da capacidade psicomotora pode ser constatada por qual concentração? Pausa para pensar.
+THALITA: Eu escolheria a letra B, três decigramas por litro de sangue.
+BRUNO: Errada. São seis decigramas de álcool por litro de sangue, ou zero vírgula três miligrama por litro de ar alveolar. Gabarito D, artigo trezentos e seis, parágrafo primeiro, inciso um, e também cabem sinais de alteração. A A troca o valor do ar alveolar. A C mistura as unidades. E a E traz qualquer concentração, que é a regra administrativa do artigo duzentos e setenta e seis, não a do crime.
+FRANCISCA: Questão seis: o semáforo está verde para Ana, mas o agente de trânsito determina por gesto que ela pare. O que ela deve fazer? Pausa para pensar.
+THALITA: Parar! O agente manda mais que o semáforo.
+FRANCISCA: Isso mesmo. Gabarito A, artigo oitenta e nove: primeiro o agente, depois o semáforo, depois os demais sinais. A B inverte a ordem. A C erra porque a placa fica abaixo do semáforo e do agente. A D erra porque o gesto basta, sem sinal sonoro. E a E erra porque os sinais prevalecem sobre as normas gerais de circulação.
+== SLIDE: Questões 7 e 8: socorro e Anexo um
+* Q7: socorro pronto e integral afasta flagrante e fiança (art. 301)
+* Q8: refúgio protege o pedestre; ilha ordena fluxos
+BRUNO: Questão sete: Carla atropela culposamente um ciclista e imediatamente presta socorro pronto e integral à vítima. Pausa para pensar. Gabarito E: não se lhe imporá prisão em flagrante nem se exigirá fiança, artigo trezentos e um. A A erra, porque o socorro afasta flagrante e fiança. A B erra, porque ela não omitiu socorro. A C erra, porque não houve fuga. E a D erra: cassação não é medida do agente.
+THALITA: Então quem socorre escapa da prisão em flagrante, mas continua respondendo pelo crime culposo.
+ANTONIO: Exatamente. Questão oito, sobre o Anexo um. Qual afirmativa está correta? Pausa para pensar.
+THALITA: A letra B: motoneta é dirigida em posição montada.
+ANTONIO: Errada. Posição montada é da motocicleta; motoneta é sentada. Gabarito C: refúgio é a parte da via, sinalizada e protegida, destinada ao pedestre durante a travessia. A A descreve a parada, e não o estacionamento. A D erra: via arterial tem interseções em nível, e quem não as tem é a via de trânsito rápido. E a E descreve o acostamento, não a ilha.
+FRANCISCA: Lembrando: ilha ordena os fluxos de veículos na interseção; refúgio protege o pedestre.
+== SLIDE: Pegadinhas de revisão antes das duas últimas
+* Suspensão e cassação: órgão estadual, nunca o Município
+* Veículo de emergência: urgência, sirene e luz vermelha juntas
+* Recusa ao teste: infração administrativa, não crime
+THALITA: Antes das duas últimas, deixa eu conferir três pegadinhas que apareceram na aula. Primeira: quem suspende ou cassa a habilitação? O Município, certo?
+ANTONIO: Errado, Thalita. Suspensão e cassação são sempre do órgão executivo estadual. O Município aplica advertência e multa nas infrações da sua competência.
+THALITA: Segunda: viatura da polícia com a sirene ligada passa em qualquer situação, mesmo sem urgência?
+FRANCISCA: Também não. As condições são cumulativas: serviço de urgência, alarme sonoro e luz vermelha intermitente. Faltando uma, a prerrogativa não existe, mesmo para a Polícia Judicial.
+THALITA: E a terceira: quem se recusa ao bafômetro comete o crime do artigo trezentos e seis?
+ANTONIO: Não. A recusa é infração administrativa gravíssima, do artigo cento e sessenta e cinco A, com as mesmas sanções do álcool. O crime exige comprovar a alteração da capacidade psicomotora por concentração, sinais ou outros meios de prova admitidos.
+FRANCISCA: Boa revisão. Agora as duas últimas questões.
+THALITA: Prontinha!
+== SLIDE: Questões 9 e 10 e resumo final
+* Q9: sinalizar, acionar 192 ou 193, não retirar o capacete
+* Q10: cinco elementos da direção defensiva
+* Resumo: o que mais cai na FCC
+BRUNO: Questão nove: Márcio encontra um motociclista acidentado, consciente, de capacete, em local sem risco de incêndio. O que deve fazer? Pausa para pensar. Gabarito B: sinalizar o local, acionar o cento e noventa e dois ou o cento e noventa e três e não retirar o capacete. A A erra, porque leigo não retira capacete. A C erra, porque remoção só diante de risco iminente. A D erra, porque nada se dá pela boca. E a E erra: vítima consciente não recebe massagem cardíaca, e a relação é trinta compressões para duas ventilações.
+FRANCISCA: Questão dez: sobre direção defensiva. Pausa para pensar. Gabarito D: conhecimento, atenção, previsão, decisão e habilidade são os elementos. A A erra: previsão imediata é o que está à frente; a mediata é o planejamento. A B erra: na aquaplanagem não se freia bruscamente. A C erra: com chuva, a distância dobra, não se reduz à metade. E a E erra: o ponto cego exige olhar por sobre o ombro.
+ANTONIO: Terminamos as dez questões. Thalita, o resumo.
+THALITA: Resumo relâmpago do que mais cai na FCC. Velocidade: noventa para pesados nas duas pistas, cento e dez e cem para os leves. Pontos: sete, cinco, quatro e três. Medida administrativa é a remoção e retenção; apreensão deixou de ser penalidade. Para a categoria D, dois anos na B ou um na C. Embriaguez: seis decigramas por litro de sangue ou zero vírgula três miligrama por litro de ar. Sinalização: agente, semáforo, placa, norma. Socorro pronto e integral afasta flagrante e fiança. Refúgio protege pedestre, ilha ordena veículos. E, no acidente: sinalizar, ligar cento e noventa e dois ou cento e noventa e três, e nunca tirar o capacete.
+ANTONIO: Esta foi a aula de trânsito, direção e primeiros socorros, bons estudos e até a próxima.
