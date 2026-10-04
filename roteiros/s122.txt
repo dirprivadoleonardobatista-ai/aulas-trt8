@@ -1,0 +1,95 @@
+SEGMENTO s122
+== SLIDE: Licenças: o rol do artigo 81
+* Sete licenças no art. 81
+* Saúde própria, gestante, paternidade e acidente: fora do rol (arts. 202 a 211)
+* Licença dentro de 60 dias da anterior, mesma espécie: prorrogação (art. 82)
+* Remuneradas: capacitação, doença na família, atividade política
+ANTONIO: Terminamos as vantagens e as férias, que são ausências com dinheiro no bolso. Agora passamos para outro tipo de ausência do servidor: as licenças, os afastamentos, as concessões e, no fim, a contagem do tempo de serviço.
+THALITA: Licença é aquela coisa de sair e voltar para o cargo, certo? Quantas existem?
+FRANCISCA: O artigo oitenta e um traz sete. Doença em pessoa da família, afastamento do cônjuge ou companheiro, serviço militar, atividade política, capacitação, interesses particulares e mandato classista.
+BRUNO: E já começa a pegadinha. A licença para tratar da própria saúde, a licença à gestante, à adotante, a paternidade e a licença por acidente em serviço não estão nesse artigo. Elas pertencem ao título da seguridade social, nos artigos duzentos e dois a duzentos e onze. A FCC adora listar uma delas como se fosse do artigo oitenta e um.
+THALITA: Entendi. Então saúde própria e maternidade ficam de fora dessa lista de sete. Anotei.
+ANTONIO: Isso. Outra regra geral, do artigo oitenta e dois: se o servidor pede nova licença da mesma espécie dentro de sessenta dias do término da anterior, ela é considerada prorrogação. Não é uma licença nova.
+THALITA: Ou seja, o prazo soma, não zera.
+FRANCISCA: Exatamente. E isso importa muito na licença por doença em família, que tem limite por período de doze meses, como vamos ver.
+BRUNO: Agora o macete que a Thalita vai gostar. Quais são as licenças remuneradas? Pense em CA, DO, PO. CA de capacitação, DO de doença em pessoa da família, PO de política.
+THALITA: CA-DO-PO. Fácil de lembrar. E todo o resto é sem remuneração?
+BRUNO: Todo o resto. Afastamento do cônjuge, interesses particulares e mandato classista não pagam. O serviço militar segue a legislação específica.
+THALITA: E mesmo as remuneradas têm ressalvas, imagino. Vamos olhar uma por uma.
+== SLIDE: Doença na família, cônjuge e serviço militar
+* Doença na família (art. 83): 60 dias remunerados + 90 sem remuneração, a cada 12 meses
+* Perícia oficial e assistência direta indispensável
+* Cônjuge (art. 84): sem remuneração, prazo indeterminado
+* Serviço militar (art. 85): 30 dias para reassumir
+ANTONIO: Primeira: licença por doença em pessoa da família, artigo oitenta e três. O servidor cuida de cônjuge ou companheiro, pais, filhos, padrasto, madrasta, enteado ou de dependente que viva às suas expensas e conste do assentamento funcional.
+THALITA: Dependente tem que constar do assentamento? Então não basta eu dizer que a vizinha depende de mim.
+FRANCISCA: Não basta. E há mais condições: perícia médica oficial, assistência direta do servidor indispensável e incompatível com o exercício do cargo ou com compensação de horário. Além disso, é vedado exercer atividade remunerada durante a licença.
+BRUNO: Os prazos são o que mais cai. A cada período de doze meses, até sessenta dias com remuneração, mais até noventa dias sem remuneração. Consecutivos ou não, já incluídas as prorrogações. E os doze meses contam do deferimento da primeira licença.
+THALITA: Deixa eu arriscar um exemplo. A Ana tirou quarenta dias para cuidar do pai. Depois precisou de mais cinquenta. Ela ganha os cinquenta com remuneração?
+FRANCISCA: Não. Restam apenas vinte dias remunerados. Os trinta dias que sobram só podem ser concedidos sem remuneração. O total do período nunca passa de sessenta mais noventa.
+THALITA: Entendi, a conta é por doze meses, não por pedido.
+ANTONIO: Segunda: licença por afastamento do cônjuge ou companheiro, artigo oitenta e quatro. Sem remuneração e por prazo indeterminado. Vale quando o cônjuge é deslocado para outro ponto do território nacional, para o exterior ou para exercer mandato eletivo no Executivo ou no Legislativo.
+FRANCISCA: E se o cônjuge também for servidor, pode haver exercício provisório em órgão federal, em atividade compatível com o cargo.
+BRUNO: Terceira, serviço militar, artigo oitenta e cinco. Dura enquanto durar a convocação. Concluído o serviço, o servidor tem até trinta dias, sem remuneração, para reassumir.
+THALITA: Trinta dias para voltar. Combinado.
+BRUNO: Essas três são permitidas no estágio probatório. Doença na família e cônjuge ainda suspendem o estágio.
+== SLIDE: Atividade política, capacitação, particulares e classista
+* Política (art. 86): do registro até 10 dias após a eleição, até 3 meses, remunerada
+* Capacitação (art. 87): até 3 meses a cada quinquênio, remunerada
+* Interesses particulares (art. 91): até 3 anos, sem remuneração
+* Classista (art. 92): limites de 2, 4 e 8 servidores
+ANTONIO: Quarta: atividade política, artigo oitenta e seis. O servidor candidato fica afastado sem remuneração da escolha em convenção até a véspera do registro da candidatura. Do registro até o décimo dia depois da eleição, o afastamento é com remuneração, por no máximo três meses.
+THALITA: Então a remuneração só começa no registro. Antes, nada.
+FRANCISCA: Isso. E quem ocupa cargo de direção, chefia, assessoramento, arrecadação ou fiscalização na localidade da candidatura é afastado a partir do dia seguinte ao registro até o décimo dia após o pleito.
+BRUNO: Quinta, capacitação, artigo oitenta e sete. Remunerada, até três meses após cada quinquênio de efetivo exercício, no interesse da Administração, para curso de capacitação profissional. Os períodos não são acumuláveis. E não se concede em estágio probatório.
+THALITA: Cinco anos de trabalho, três meses de curso. Mas não dá para juntar dois períodos.
+ANTONIO: Sexta: tratar de interesses particulares, artigo noventa e um. Sem remuneração, até três anos consecutivos, a critério da Administração, só para ocupante de cargo efetivo. Pode ser interrompida a qualquer momento, a pedido ou no interesse do serviço.
+BRUNO: E aqui o estágio probatório: a lei veda expressamente. A FCC adora perguntar se o servidor em estágio pode pedir. Não pode.
+THALITA: Então é discricionária e interrompível. Chefe pode mandar voltar?
+FRANCISCA: No interesse do serviço, sim. Sétima: mandato classista, artigo noventa e dois. Sem remuneração, pela duração do mandato, renovável em caso de reeleição, para eleitos para direção ou representação em confederação, federação, associação de classe nacional, sindicato da categoria, entidade fiscalizadora da profissão ou gerência de cooperativa de servidores.
+BRUNO: Cuidado com os limites, pela Lei doze mil novecentos e noventa e oito, de dois mil e quatorze. Até cinco mil associados, dois servidores. De cinco mil e um a trinta mil, quatro servidores. Acima de trinta mil, oito. Antes eram um, dois e três, e questões antigas usam esses números.
+== SLIDE: Afastamentos: artigos 93 a 96-A
+* Cessão (art. 93): cargo em comissão, função de confiança ou lei específica
+* Mandato eletivo (art. 94): federal, estadual, distrital, prefeito e vereador
+* Exterior (art. 95): até 4 anos; organismo internacional (art. 96)
+* Pós-graduação (art. 96-A): mestrado 3 anos, doutorado e pós-doc 4
+ANTONIO: Passamos aos afastamentos. Primeiro, servir a outro órgão ou entidade, a cessão do artigo noventa e três. Vale para cargo em comissão, função de confiança ou casos previstos em leis específicas. Para Estados, Distrito Federal e Municípios, em cargo em comissão ou função, o ônus da remuneração é do cessionário. Nos demais casos, do cedente. Vale conferir as alterações recentes desse artigo.
+THALITA: Quem paga é quem recebe, pelo menos nessa hipótese.
+FRANCISCA: Segundo, mandato eletivo, artigo noventa e quatro. Federal, estadual ou distrital: afastado do cargo. Prefeito: afastado, com opção pela remuneração. Vereador: havendo compatibilidade de horário, acumula as vantagens do cargo com a remuneração do mandato. Sem compatibilidade, afasta e opta.
+BRUNO: Duas ressalvas cobradas. O servidor afastado contribui para a seguridade como se estivesse em exercício. E não pode ser removido ou redistribuído de ofício para fora da localidade do mandato.
+THALITA: Entendi. Terceiro, estudo no exterior?
+ANTONIO: Estudo ou missão oficial no exterior, artigo noventa e cinco. Depende de autorização do Presidente da República, dos presidentes dos órgãos do Legislativo ou do Presidente do Supremo. A ausência não passa de quatro anos, e nova ausência só depois de igual período. Antes disso, não se concede exoneração nem licença para interesses particulares, salvo ressarcimento da despesa.
+FRANCISCA: Quarto, organismo internacional de que o Brasil participe ou com o qual coopere, artigo noventa e seis. Aqui há perda total da remuneração.
+BRUNO: E o quinto, pós-graduação stricto sensu no País, artigo noventa e seis traço A. Com remuneração, no interesse da Administração, se não der para conciliar com o cargo nem compensar horário. Exige três anos de cargo efetivo no órgão para mestrado, quatro para doutorado e quatro para pós-doutorado, estes incluindo o estágio probatório.
+THALITA: E tem que ficar depois, não é? Para não sair com o diploma.
+BRUNO: Permanência obrigatória por período igual ao afastamento, sob pena de ressarcimento. Também ressarce quem não obtiver o título, salvo força maior ou caso fortuito.
+== SLIDE: Concessões: ausências sem prejuízo
+* Art. 97: 1 dia (sangue), até 2 dias (eleitoral), 8 dias (casamento e luto)
+* Rol do luto: sem avós, netos, tios, sogros e cunhados
+* Art. 98: horário especial, com ou sem compensação
+* Art. 99: matrícula do estudante removido; ADI 3.324
+ANTONIO: Agora as concessões, artigos noventa e sete a noventa e nove. São ausências sem qualquer prejuízo. Doação de sangue: um dia. Alistamento ou recadastramento eleitoral: o período comprovadamente necessário, limitado a dois dias. Casamento: oito dias consecutivos. Falecimento: também oito dias consecutivos.
+THALITA: Vou arriscar os parentes do luto: cônjuge, pais, filhos, irmãos, avós e sogros.
+FRANCISCA: Quase. Avós e sogros ficam de fora. O rol traz cônjuge, companheiro, pais, madrasta ou padrasto, filhos, enteados, menor sob guarda ou tutela e irmãos. Não entram avós, netos, tios, sogros nem cunhados.
+BRUNO: As trocas típicas da FCC: casamento com cinco dias, quando é oito. Doação de sangue com dois dias, quando é um. Alistamento com um dia, quando é até dois. E falecimento de avós ou de sogros.
+ANTONIO: Artigo noventa e oito, horário especial. Para o estudante, quando há incompatibilidade entre horário escolar e da repartição, com compensação, respeitada a duração semanal. Para o servidor com deficiência, comprovada a necessidade por junta médica oficial, independentemente de compensação.
+FRANCISCA: A mesma regra, sem compensação, vale para quem tem cônjuge, filho ou dependente com deficiência, por força da Lei treze mil trezentos e setenta, de dois mil e dezesseis. E há o horário especial de quem atua como instrutor ou em banca de concurso, com compensação em até um ano.
+THALITA: Então só o servidor com deficiência e os familiares não compensam. Estudante e instrutor compensam.
+BRUNO: Perfeito. Pegadinha clássica: dizer que o servidor com deficiência precisa compensar. Errado.
+ANTONIO: Artigo noventa e nove: o estudante removido de ofício tem matrícula em instituição congênere, na nova sede ou na mais próxima, em qualquer época e independentemente de vaga. Vale também para cônjuge, companheiro, filhos, enteados e menor sob guarda.
+FRANCISCA: E o Supremo, na ADI três mil trezentos e vinte e quatro, exigiu congeneridade: de pública para pública, de privada para privada.
+== SLIDE: Tempo de serviço: artigos 100 a 103
+* Tempo federal conta para todos os efeitos; ano de 365 dias
+* Art. 102: efetivo exercício
+* Art. 103: só aposentadoria e disponibilidade
+* Aposentado, guerra em dobro, sem cumulação concomitante
+ANTONIO: Fechando, o tempo de serviço. O tempo federal conta para todos os efeitos, apurado em dias, com o ano de trezentos e sessenta e cinco dias. Depois, a lei separa dois grupos: o do artigo cento e dois, que é efetivo exercício, e o do artigo cento e três, que conta só para aposentadoria e disponibilidade.
+THALITA: Quais são os principais do efetivo exercício?
+FRANCISCA: Férias; cargo em comissão em órgão de qualquer Poder, União, Estados, Distrito Federal e Municípios; júri e serviços obrigatórios; licença gestante, adotante e paternidade; saúde própria até vinte e quatro meses acumulados; acidente em serviço ou doença profissional; capacitação; serviço militar; mandato eletivo e classista; deslocamento para a nova sede; competição desportiva nacional e organismo internacional.
+BRUNO: Atenção: o mandato eletivo e o classista contam como efetivo exercício, exceto para promoção por merecimento. Essa exceção cai.
+FRANCISCA: Já o artigo cento e três, só para aposentadoria e disponibilidade: serviço público estadual, municipal ou distrital; licença por doença em família remunerada que exceder trinta dias em doze meses; licença para atividade política; mandato eletivo anterior ao ingresso; atividade privada vinculada à Previdência; tiro de guerra; e saúde própria acima dos vinte e quatro meses.
+THALITA: Se eu trabalhei no município, vale para aposentar, mas não para promoção.
+ANTONIO: Isso. E mais: o tempo de aposentado conta apenas para nova aposentadoria. O serviço nas Forças Armadas em operações de guerra conta em dobro. E é vedada a contagem cumulativa de tempo concomitante em mais de um cargo.
+BRUNO: Observação: a Constituição fala em tempo de contribuição e veda tempo fictício, mas a Lei ainda usa tempo de serviço.
+THALITA: Resumo relâmpago do que mais cai. Remuneradas: CA-DO-PO. Doença na família: sessenta mais noventa dias em doze meses. Interesses particulares: até três anos, vedada no estágio. Casamento e luto: oito dias; sangue: um; alistamento: até dois. Servidor com deficiência: sem compensação. Mandato conta, menos para merecimento.
+ANTONIO: Era isso, pessoal. Bons estudos, e até a próxima aula.
