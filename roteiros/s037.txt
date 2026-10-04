@@ -1,0 +1,63 @@
+SEGMENTO s037
+== SLIDE: Questão 9: Comissões de Prevenção e Enfrentamento do Assédio
+* Item 1: instituídas em 45 dias, permanentes, reunião ao menos semestral (art. 15)
+* Item 2: tribunais com jurisdição em 2 ou mais estados: Comissão em cada estado (§ 2º)
+* Item 3 falso: membros não integram sindicância ou PAD, nem como suplentes (art. 16, § 5º)
+* Item 4 falso: não substituem as comissões de PAD (art. 16, § 2º)
+* Gabarito: B
+ANTONIO: Vamos à segunda metade das questões. Questão nove. Sobre as Comissões de Prevenção e Enfrentamento do Assédio Moral, do Assédio Sexual e da Discriminação, da Resolução trezentos e cinquenta e um do CNJ. Item um: serão instituídas em cada tribunal em até quarenta e cinco dias, em caráter permanente, e se reunirão ao menos semestralmente. Item dois: nos tribunais de médio e grande porte com jurisdição em dois ou mais estados, haverá uma Comissão em cada estado, no primeiro grau. Item três: os membros podem integrar comissões de sindicância, desde que como suplentes. Item quatro: substituem as comissões de processo administrativo disciplinar nos casos de assédio sexual. A, só o um. B, um e dois. C, dois e três. D, um, dois e quatro. E, três e quatro. Pausa para pensar.
+THALITA: Eu iria na A. O item dois parece detalhe demais para estar certo.
+BRUNO: Detalhe demais, mas verdadeiro. O item um reproduz o artigo quinze, caput, e o item dois, o artigo quinze, parágrafo segundo, ambos na redação de dois mil e vinte e três. A A erra por omitir o item dois.
+FRANCISCA: O item três é falso. Os membros não podem integrar, ao mesmo tempo, comissões de sindicância ou de processo administrativo disciplinar, nem como titulares nem como suplentes, artigo dezesseis, parágrafo quinto.
+THALITA: Então "desde que suplentes" é a isca.
+ANTONIO: Isso. E o item quatro também é falso. As Comissões não substituem as comissões de sindicância e de processo administrativo disciplinar, artigo dezesseis, parágrafo segundo.
+FRANCISCA: Então as alternativas: A, errada, pois o dois está certo. B, correta. C, errada, pelo item três. D, errada, pelo item quatro. E, errada, pois os dois itens são falsos.
+BRUNO: Lembrem do quarenta e cinco: quarenta e cinco dias para instituir. E na aula passada vimos que o Comitê Regional de Equidade é noventa.
+THALITA: Macete: Comissão previne, não substitui o processo disciplinar, e membro nenhum acumula sindicância. Gabarito B.
+== SLIDE: Questão 10: Política de Prevenção do TRT8 (Resolução 65/2025)
+* Semana de Combate: 1ª semana de maio (art. 19)
+* Subcomitês: reuniões mensais; capacitação anual obrigatória (art. 8º)
+* Mínimo de 20 horas de capacitação anual, mantida no mandato (art. 8º, § 2º)
+* Apuração: prorrogação uma única vez, por igual período (art. 15)
+* Assédio por membro da Administração: CSJT e/ou CNJ (art. 11, § 1º); gabarito D
+ANTONIO: Questão dez. Segundo a Resolução sessenta e cinco de dois mil e vinte e cinco do TRT oito, que instituiu a Política de Prevenção e Enfrentamento da Violência, do Assédio e de Todas as Formas de Discriminação: A, a Semana de Combate será na segunda semana de maio. B, os Subcomitês se reúnem semestralmente e seus membros ficam dispensados de capacitação. C, a apuração deve ocorrer em trinta dias, admitidas sucessivas prorrogações.
+BRUNO: D, é requisito obrigatório que todos os membros dos Subcomitês tenham no mínimo vinte horas de capacitação anual, mantida durante o mandato. E, a notícia de assédio por membro da Administração é tratada exclusivamente pelo Subcomitê, vedado encaminhar a órgãos externos. Pensem.
+THALITA: A A parece a certa. Maio, segunda semana. Já vi isso em algum lugar.
+FRANCISCA: Já viu mesmo, mas na resolução antiga, a sessenta e sete de dois mil e vinte e um, que foi revogada. A nova fixou a primeira semana de maio, artigo dezenove.
+BRUNO: Essa é uma armadilha de norma revogada. A banca usa a regra velha como isca.
+ANTONIO: A B erra duas vezes. Os Subcomitês se reúnem mensalmente, artigo oitavo, parágrafo sexto, e a capacitação anual mínima é obrigatória, parágrafo segundo.
+THALITA: E a C, sucessivas prorrogações?
+FRANCISCA: A prorrogação é admitida uma única vez, por igual período, desde que justificadamente, artigo quinze.
+BRUNO: A D é a correta, artigo oitavo, parágrafo segundo. Todos os membros, voluntários ou não, com no mínimo vinte horas de capacitação anual, mantida durante o mandato.
+ANTONIO: A E erra porque, quando a notícia envolve membro da Administração do Tribunal, ela deve ser encaminhada ao CSJT e, ou, ao CNJ, artigo onze, parágrafo primeiro. Não é exclusiva do Subcomitê.
+THALITA: Macete: Subcomitê, reunião mensal, vinte horas de capacitação, prorroga uma vez. Gabarito D.
+== SLIDE: Questão 11: Perspectiva de Gênero nos julgamentos (Resolução CNJ 492/2023)
+* Estabelece as diretrizes do Protocolo para todo o Judiciário; capacitação obrigatória
+* Cursos com periodicidade mínima anual (art. 2º)
+* Comitê de Acompanhamento e Capacitação, coordenado por Conselheiro (arts. 3º e 5º)
+* Política de Participação Feminina: Resolução CNJ 255/2018; Comitê próprio (art. 6º)
+* Capacitação consta do Prêmio CNJ de Qualidade; gabarito C
+ANTONIO: Questão onze. A Resolução quatrocentos e noventa e dois do CNJ, de dois mil e vinte e três, sobre perspectiva de gênero nos julgamentos: A, torna facultativa a observância do Protocolo, dependendo de deliberação do órgão especial de cada tribunal. B, determina cursos de direitos humanos, gênero, raça e etnia com periodicidade mínima bienal. C, institui no CNJ, em caráter nacional e permanente, o Comitê de Acompanhamento e Capacitação sobre Julgamento com Perspectiva de Gênero, coordenado por Conselheiro ou Conselheira.
+BRUNO: D, cria a Política Nacional de Incentivo à Participação Institucional Feminina, implementada exclusivamente pelas escolas da magistratura. E, exclui a capacitação dos regulamentos do Prêmio CNJ de Qualidade. Pausa.
+THALITA: Eu chuto a D. Participação feminina é tema de gênero, deve ser dessa resolução.
+FRANCISCA: A política de participação feminina foi criada pela Resolução duzentos e cinquenta e cinco de dois mil e dezoito. A resolução de agora apenas alterou o artigo terceiro dela, atribuindo a implementação ao Comitê de Incentivo à Participação Institucional Feminina, sob supervisão de Conselheiro e de Juiz Auxiliar da Presidência do CNJ. Artigo sexto.
+BRUNO: A A é falsa. O artigo primeiro estabelece as diretrizes do Protocolo para todo o Poder Judiciário, e a capacitação é obrigatória, artigo segundo. Não é facultativa.
+THALITA: E a B? Bienal é de dois em dois anos, né?
+ANTONIO: É. Mas a periodicidade mínima é anual, artigo segundo, caput. Anual, e não bienal.
+FRANCISCA: A letra C é a correta, artigos terceiro e quinto: o Comitê de Acompanhamento e Capacitação, nacional e permanente, coordenado por Conselheiro ou Conselheira.
+BRUNO: A E inverte a lógica. A capacitação não é excluída: ela constará dos regulamentos do Prêmio CNJ de Qualidade, artigo segundo, parágrafo primeiro.
+THALITA: Macete: perspectiva de gênero é obrigatória, curso é anual, e o comitê é coordenado por Conselheiro. Gabarito C.
+== SLIDE: Questão 12: Comitê Gestor Regional de Equidade e fechamento
+* Mandato de 2 anos; eleição em votação secreta pela Presidência (art. 8º)
+* Reuniões trimestrais; relatório até 31 de janeiro
+* Recondução: 1 mandato consecutivo ou 3 alternados
+* Coordenação conjunta de dois magistrados; horas na jornada (art. 14)
+* Gabarito: A
+ANTONIO: Última questão. Tereza, servidora negra do quadro efetivo do TRT da oitava região, pretende concorrer a uma vaga no Comitê Gestor Regional do Programa de Equidade, Resolução trezentos e sessenta e oito do CSJT. A, o mandato é de dois anos, e a eleição dos servidores é conduzida pela Presidência, em votação secreta. B, o Comitê se reúne mensalmente e envia relatório ao Comitê Nacional até trinta e um de março. C, Tereza, eleita, poderá ser reconduzida por dois mandatos consecutivos.
+BRUNO: D, a coordenação é exercida exclusivamente pelo magistrado indicado pela Presidência. E, as horas dedicadas ao Comitê não integram a jornada, devendo ser compensadas.
+THALITA: Eu acho que é a A, porque lembrei do noventa, dois, três, trinta e um do macete.
+FRANCISCA: Lembrou bem. A A é a correta, artigo oitavo, parágrafos terceiro e sexto: mandato de dois anos e eleição em votação secreta conduzida pela Presidência.
+BRUNO: A B erra duas vezes: as reuniões ordinárias são trimestrais, artigo nono, e o relatório vai até trinta e um de janeiro, não de março, artigo doze, inciso cinco.
+ANTONIO: A C erra a recondução. É permitida por apenas um mandato consecutivo ou três alternados, salvo se não houver outro candidato interessado, artigo oitavo, parágrafo sétimo. A D erra a coordenação: ela é conjunta, do magistrado indicado pela Presidência e do magistrado eleito, parágrafo segundo. E a E erra a jornada: as horas dedicadas ao Comitê são parte da jornada, artigo catorze.
+THALITA: Resumo relâmpago do que mais cai: Comitê Regional de Equidade, noventa dias para criar, mandato de dois anos, reunião trimestral, relatório até trinta e um de janeiro; Comissão de assédio, quarenta e cinco dias; assédio moral hoje dispensa reiteração e intenção; no acolhimento, sigilo sim, anonimato não; quarentena de quatro meses para CJ três e quatro; Comissão do PLS, presidida por magistrado com cinco servidores; Subcomitê com vinte horas de capacitação, e neutralidade de carbono em dois mil e trinta.
+ANTONIO: Excelente resumo, Thalita. Obrigado a todos e bons estudos, até a próxima aula!
