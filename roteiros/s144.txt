@@ -1,0 +1,60 @@
+SEGMENTO s144
+== SLIDE: Suspensão e interrupção: o quadro-base
+* Em ambas: o empregado não trabalha e o contrato continua vivo
+* Interrupção: salário pago e tempo computado
+* Suspensão: sem salário e sem contagem de tempo
+* Suspensão atípica: serviço militar e acidente
+ANTONIO: Terminamos a alteração do contrato. Agora o empregado que, por motivo previsto em lei, deixa de trabalhar: suspensão e interrupção. Nas duas, o empregado não trabalha e o contrato continua vivo, em regra sem poder ser rompido sem justa causa.
+THALITA: E qual é a diferença?
+FRANCISCA: Na interrupção, o empregador paga o salário e o tempo conta como de serviço. Na suspensão, não há salário e não há contagem do tempo. A interrupção é paralisação parcial, só da obrigação de trabalhar. A suspensão é paralisação ampla das obrigações principais.
+BRUNO: Na interrupção, o FGTS é depositado. Na suspensão, não é, salvo duas exceções: serviço militar e acidente de trabalho, a chamada suspensão atípica, com depósito de FGTS e contagem do tempo de serviço, artigo quarto, parágrafo primeiro, da CLT, e artigo quinze, parágrafo quinto, da Lei oito mil e trinta e seis.
+THALITA: Macete: interrupção paga, suspensão não paga. Atípica é suspensão que se comporta como interrupção no FGTS.
+ANTONIO: Ótimo. A dispensa sem justa causa durante o período é vedada em regra, e os efeitos ficam para o retorno.
+== SLIDE: Faltas justificadas do artigo 473
+* Falecimento: até 2 dias consecutivos; casamento: até 3 dias consecutivos
+* Nascimento: 5 dias (ADCT)
+* Sangue: 1 dia a cada 12 meses; alistamento: até 2 dias
+* Câncer: 3 dias; acompanhar filho até 6 anos: 1 dia por ano
+FRANCISCA: As faltas justificadas do artigo quatrocentos e setenta e três, que são interrupção. Falecimento do cônjuge, ascendente, descendente, irmão ou pessoa que, declarada na carteira, viva sob dependência econômica: até dois dias consecutivos. Casamento: até três dias consecutivos.
+THALITA: E nascimento de filho?
+BRUNO: A licença-paternidade, cinco dias, pelo ato das disposições transitórias, mais quinze na Empresa Cidadã. Doação voluntária de sangue, devidamente comprovada: um dia a cada doze meses de trabalho. Alistamento eleitoral: até dois dias, consecutivos ou não.
+FRANCISCA: Exigências do serviço militar: pelo período necessário. Provas de exame vestibular: nos dias das provas. Comparecimento a juízo: pelo tempo necessário. Representante sindical em reunião de organismo internacional: pelo tempo necessário.
+BRUNO: Acompanhar a esposa ou companheira em consultas durante a gravidez: até seis consultas, pela Lei catorze mil quatrocentos e cinquenta e sete, de dois mil e vinte e dois. Acompanhar filho de até seis anos em consulta médica: um dia por ano. Exames preventivos de câncer: até três dias a cada doze meses.
+THALITA: Macete: morreu, dois; casou, três; nasceu, cinco. Sangue, um por ano. Eleitor, dois, consecutivos ou não. Câncer, três por ano. Grávida, até seis consultas. Filho até seis anos, um dia por ano.
+ANTONIO: A banca troca dias, consecutivos por consecutivos ou não, e a cada doze meses por por ano. Confira a redação vigente do artigo no edital.
+FRANCISCA: Súmula cento e cinquenta e cinco do TST: as horas em que o empregado falta ao serviço para comparecimento necessário, como parte, à Justiça do Trabalho, não são descontadas. Para testemunha, o artigo oitocentos e vinte e dois também veda o desconto.
+== SLIDE: Hipóteses de interrupção e de suspensão
+* Interrupção: férias, DSR, doença nos 15 primeiros dias, licença-maternidade
+* Suspensão: auxílio por incapacidade temporária desde o 16º dia, greve, diretor de S.A.
+* Atípica: acidente e serviço militar
+* Disciplinar acima de 30 dias: rescisão injusta
+BRUNO: O quadro geral. Interrupção: férias, repouso semanal e feriados; as faltas do artigo quatrocentos e setenta e três; os quinze primeiros dias de doença e de acidente; a licença-maternidade, de cento e vinte dias; e o aborto não criminoso, com repouso remunerado de duas semanas.
+THALITA: E a doença depois do décimo quinto dia?
+ANTONIO: Suspensão: o auxílio por incapacidade temporária, pago pelo INSS, a partir do décimo sexto dia. O empregado fica em licença não remunerada, artigo quatrocentos e setenta e seis.
+FRANCISCA: Acidente de trabalho a partir do décimo sexto dia: suspensão atípica. Sem salário, mas com FGTS e contagem do tempo para indenização e estabilidade. Faltas não afetam férias e décimo terceiro, Súmula quarenta e seis. O plano de saúde é mantido, Súmula quatrocentos e quarenta.
+BRUNO: Serviço militar obrigatório: suspensão atípica. O retorno depende de notificação ao empregador em até trinta dias da baixa, artigo quatrocentos e setenta e dois, parágrafo primeiro.
+THALITA: Aposentadoria por invalidez também suspende?
+FRANCISCA: Sim, enquanto durar, artigo quatrocentos e setenta e cinco. Recuperada a capacidade, há direito de retorno, Súmula cento e sessenta: mesmo após cinco anos, o empregador pode indenizar. E a Súmula quatrocentos e quarenta mantém o plano de saúde.
+BRUNO: Greve: suspensão, artigo sétimo da Lei sete mil setecentos e oitenta e três. Suspensão disciplinar com mais de trinta dias consecutivos equivale a rescisão injusta, artigo quatrocentos e setenta e quatro. Diretor eleito de sociedade anônima: suspensão, salvo subordinação, Súmula duzentos e sessenta e nove.
+THALITA: E o inquérito do estável?
+ANTONIO: Suspensão, se procedente. Se improcedente, os salários do período são devidos, e vira interrupção, artigos quatrocentos e noventa e quatro e quatrocentos e noventa e cinco.
+== SLIDE: Lay-off: artigo 476-A
+* Suspensão para curso de qualificação: 2 a 5 meses
+* Norma coletiva, aquiescência do empregado e aviso ao sindicato em 15 dias
+* Uma vez a cada 16 meses
+* Dispensa no retorno: multa de no mínimo 100% da remuneração
+FRANCISCA: O lay-off, artigo quatrocentos e setenta e seis traço A: suspensão para participação em curso ou programa de qualificação profissional oferecido pelo empregador, de dois a cinco meses, prevista em norma coletiva e com aquiescência formal do empregado.
+THALITA: Quem avisa o sindicato?
+BRUNO: O empregador notifica o sindicato com antecedência mínima de quinze dias. O lay-off não pode ocorrer mais de uma vez no período de dezesseis meses. A renda do empregado é a bolsa de qualificação do FAT, e o empregador pode pagar ajuda compensatória sem natureza salarial.
+ANTONIO: Dispensa durante o período ou nos três meses seguintes ao retorno gera, além das verbas rescisórias, multa prevista na norma coletiva de no mínimo cem por cento da última remuneração anterior à suspensão.
+THALITA: Exemplo: a Carla tem o contrato suspenso por quatro meses, volta em primeiro de março e é dispensada em vinte de maio. Dentro dos três meses. Recebe as verbas normais e a multa de no mínimo cem por cento da última remuneração.
+FRANCISCA: Isso. Se não houver o curso, ou se o empregado continuar trabalhando, o lay-off se descaracteriza, e o empregador paga salários e encargos do período, mais as penalidades da norma coletiva. A prorrogação é possível por norma coletiva e aquiescência do empregado, desde que o empregador arque com a bolsa.
+== SLIDE: Nomenclatura, súmulas e resumo da aula
+* EC 103/2019: nova nomenclatura dos benefícios
+* Súmulas mantêm os nomes antigos
+* Resumo: contrato, alteração, suspensão e interrupção
+BRUNO: Atenção à nomenclatura. A Emenda cento e três, de dois mil e dezenove, rebatizou: auxílio-doença virou auxílio por incapacidade temporária, e aposentadoria por invalidez virou aposentadoria por incapacidade permanente. As súmulas mantêm os nomes antigos, e a FCC usa as duas.
+ANTONIO: Outra: o encargo público é suspensão, em regra, artigo quatrocentos e setenta e dois. E o dirigente sindical tem licença não remunerada, artigo quinhentos e quarenta e três, parágrafo segundo, salvo norma ou consentimento.
+FRANCISCA: A licença-maternidade, cento e vinte dias, artigo trezentos e noventa e dois, é interrupção pela posição majoritária: o salário-maternidade é pago pela empresa e compensado com a Previdência, e tempo e FGTS são computados.
+THALITA: Resumo relâmpago da aula. Contrato: acordo tácito ou expresso; experiência prévia exigida, no máximo seis meses. Prazo determinado: dois anos, experiência noventa dias, uma prorrogação, seis meses de intervalo. Rescisão antecipada: metade do que faltava. Ilícito não gera efeito; proibido gera efeitos; sem concurso, só saldo e FGTS. Alteração: consentimento e ausência de prejuízo. Transferência provisória: pelo menos vinte e cinco por cento. Morreu dois, casou três, nasceu cinco. Interrupção paga; suspensão não paga; acidente e serviço militar têm FGTS. Lay-off: dois a cinco meses.
+ANTONIO: Bons estudos a todos, e até a próxima aula.

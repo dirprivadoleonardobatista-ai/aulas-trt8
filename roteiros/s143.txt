@@ -1,0 +1,77 @@
+SEGMENTO s143
+== SLIDE: Artigo 468: a regra de ouro da alteração
+* Dois requisitos cumulativos: mútuo consentimento e ausência de prejuízo
+* Sanção: nulidade da cláusula, não do contrato
+* §1º: reversão ao cargo efetivo não é alteração ilícita
+* §2º: gratificação não se incorpora
+ANTONIO: Vimos como o contrato nasce e quais são os prazos. Agora, como ele pode mudar durante a vida: a alteração do contrato de trabalho. A regra de ouro está no artigo quatrocentos e sessenta e oito.
+THALITA: Se o empregado concordar, pode mudar o que quiser?
+FRANCISCA: Não. O artigo exige dois requisitos cumulativos: mútuo consentimento e ausência de prejuízo, direto ou indireto, ao empregado. Faltando um, a cláusula é nula. O sim do empregado não convalida alteração prejudicial, porque a lei presume o vício de vontade de quem depende do emprego.
+BRUNO: A sanção é a nulidade da cláusula, e não do contrato. Volta-se à condição anterior. Exemplo: redução salarial aceita pelo empregado em acordo individual é nula. A redução só vale por negociação coletiva, artigo sétimo, inciso sexto, da Constituição.
+ANTONIO: O parágrafo primeiro diz que não é alteração unilateral ilícita a determinação para que o empregado reverta ao cargo efetivo anteriormente ocupado, deixando a função de confiança. O parágrafo segundo, incluído pela Reforma, diz que, com ou sem justo motivo, a reversão não assegura a manutenção da gratificação, que não se incorpora, independentemente do tempo de exercício da função.
+THALITA: E a Súmula trezentos e setenta e dois, que dizia dez anos?
+BRUNO: O item primeiro está superado pelo parágrafo segundo quanto às reversões depois de onze de novembro de dois mil e dezessete. O item segundo continua: mantido o empregado na função, não se reduz a gratificação. Há decisões preservando a incorporação para quem já tinha completado dez anos antes da Reforma.
+FRANCISCA: Em questão objetiva, siga a letra da lei: a gratificação não se incorpora, independentemente do tempo de exercício.
+THALITA: Macete: reversão pode, gratificação some.
+== SLIDE: Alterações lícitas e ilícitas
+* Bilateral e benéfica: lícita
+* Bilateral e prejudicial: nula
+* Rebaixamento: ilícito; reversão ao efetivo: lícita
+* Noturno para diurno: perde o adicional (Súmula 265)
+FRANCISCA: Vamos a um quadro de situações. Alteração bilateral e benéfica, como aumento ou promoção aceita: lícita. Unilateral e benéfica: também lícita, pela norma mais favorável.
+BRUNO: A bilateral e prejudicial, como a redução salarial aceita, é nula. O rebaixamento, retorno a cargo inferior ao efetivo, também é ilícito. Já a reversão do comissionado ao cargo efetivo é lícita. Essa diferença cai: reverter ao efetivo pode, rebaixar abaixo do efetivo não pode.
+THALITA: E mudar do turno da noite para o dia?
+ANTONIO: É lícita, com perda do adicional noturno. Súmula duzentos e sessenta e cinco do TST.
+FRANCISCA: A revogação de vantagem do regulamento atinge só os admitidos após a revogação, Súmula cinquenta e um, item primeiro.
+THALITA: Então a mudança de turno para o dia tira o adicional, porque o empregado não trabalha mais à noite.
+BRUNO: E a Súmula cento e cinquenta e nove trata da substituição: enquanto durar a substituição que não tenha caráter meramente eventual, o substituto faz jus ao salário do substituído. Vago o cargo em definitivo, quem o ocupa não tem direito a salário igual ao do antecessor.
+FRANCISCA: Substituição eventual com garantia de volta ao cargo anterior está no artigo quatrocentos e cinquenta.
+== SLIDE: Jus variandi
+* Ordinário: pequenas modificações do poder diretivo
+* Extraordinário: autorizado por lei em situação excepcional
+* Jus resistentiae: direito de recusar ordem ilícita
+* Pode fundamentar rescisão indireta (art. 483, a)
+ANTONIO: O poder de variar as condições, o jus variandi, tem duas espécies. O ordinário é o de pequenas modificações inerentes ao poder diretivo, sem tocar o núcleo do contrato.
+THALITA: Dá exemplos?
+FRANCISCA: Mudar o horário dentro do mesmo turno. Mudar de setor sem mudança de domicílio. Exigir serviço compatível com a condição pessoal, artigo quatrocentos e cinquenta e seis, parágrafo único. Uniforme, artigo quatrocentos e cinquenta e seis traço A. O limite: não pode causar prejuízo nem atingir cláusula essencial.
+BRUNO: O extraordinário é a alteração de cláusula essencial, autorizada por lei em situação excepcional. Reversão do comissionado. Substituição eventual com garantia de volta ao cargo anterior. Transferência por necessidade de serviço. Só nas hipóteses legais.
+THALITA: E se o chefe manda fazer algo ilegal?
+ANTONIO: Aí entra o jus resistentiae, o direito do empregado de recusar ordem ilícita ou alteração lesiva. Por exemplo, recusar transferência abusiva ou serviço alheio ao contrato. Pode fundamentar a rescisão indireta, artigo quatrocentos e oitenta e três, alínea a.
+THALITA: Ordinário é rotina, extraordinário é lei, resistência é recusar.
+== SLIDE: Transferência: artigo 469
+* Vedada sem anuência, se mudar o domicílio
+* Exceções: cargo de confiança, cláusula com real necessidade, extinção do estabelecimento
+* Necessidade de serviço: adicional nunca inferior a 25%
+* OJ 113: devido na transferência provisória
+FRANCISCA: A transferência, artigo quatrocentos e sessenta e nove: é vedado ao empregador transferir o empregado, sem a sua anuência, para localidade diversa da que resultar do contrato. E não se considera transferência a que não acarretar necessariamente a mudança do domicílio.
+THALITA: Quer dizer que se mudar para o outro lado da cidade não é transferência?
+BRUNO: Para o artigo quatrocentos e sessenta e nove, não. Mas pode gerar suplemento para transporte, Súmula vinte e nove: o empregado transferido para local mais distante da residência tem direito a suplemento correspondente ao acréscimo da despesa de transporte.
+ANTONIO: O parágrafo primeiro não proíbe a transferência de quem exerce cargo de confiança e de quem tem contrato com cláusula de transferência, explícita ou implícita, desde que haja real necessidade de serviço. O parágrafo segundo permite a transferência quando se extingue o estabelecimento.
+BRUNO: Sem prova da necessidade, a transferência é presumidamente abusiva, Súmula quarenta e três, e cabe liminar, artigo seiscentos e cinquenta e nove, inciso nono.
+FRANCISCA: O parágrafo terceiro: em caso de necessidade de serviço, o empregador pode transferir, mas fica obrigado a pagamento suplementar nunca inferior a vinte e cinco por cento dos salários, enquanto durar a situação.
+THALITA: Então o adicional é só na transferência provisória?
+FRANCISCA: Isso. A OJ cento e treze da SDI-um diz que o cargo de confiança ou a cláusula de transferência não excluem o direito ao adicional. O pressuposto é a transferência provisória.
+ANTONIO: As despesas da transferência correm por conta do empregador, artigo quatrocentos e setenta. E o dirigente sindical não pode ser transferido para local que dificulte o mandato, artigo quinhentos e quarenta e três.
+== SLIDE: Questão-treino: redução e gratificação
+* Redução salarial por acordo individual: nula
+* Gratificação após reversão: não se incorpora
+* Adicional de 25% na transferência provisória
+* Presunção de abuso sem prova da necessidade
+FRANCISCA: Pausa para você pensar. Uma empresa propõe reduzir o salário de um empregado em dez por cento, por acordo individual, para evitar demissões. O empregado assina. A alteração é válida?
+THALITA: Eu diria que não. Mesmo com assinatura, é prejudicial. Só a negociação coletiva pode reduzir salário.
+BRUNO: Certo. Artigo quatrocentos e sessenta e oito, e artigo sétimo, inciso sexto, da Constituição. O consentimento não basta, porque falta o segundo requisito, a ausência de prejuízo.
+ANTONIO: Segunda: um empregado ocupa função de confiança por doze anos e é revertido ao cargo efetivo. Mantém a gratificação? Pela letra do artigo quatrocentos e sessenta e oito, parágrafo segundo, não. Ela não se incorpora, independentemente do tempo de exercício.
+THALITA: Terceira: o empregado é transferido por necessidade do serviço, por seis meses. Recebe adicional? Sim, porque é provisória, no mínimo vinte e cinco por cento.
+FRANCISCA: E se a empresa não provar a necessidade do serviço, a transferência é presumidamente abusiva, Súmula quarenta e três.
+== SLIDE: Quadro da transferência e pegadinhas
+* Definitiva com anuência: lícita, sem adicional
+* Provisória: adicional de 25%, mesmo para cargo de confiança
+* Extinção do estabelecimento: lícita, adicional só se provisória
+* Nunca inferior: não é máximo
+BRUNO: Vamos fechar com o quadro. Transferência com anuência, definitiva: lícita, sem adicional. Cargo de confiança com real necessidade e provisória: lícita, com adicional. Cláusula de transferência, com real necessidade e provisória: lícita, com adicional. Cargo de confiança ou cláusula, definitiva: lícita, sem adicional.
+THALITA: E na extinção do estabelecimento?
+FRANCISCA: Lícita, e sem adicional se for definitiva. Necessidade de serviço provisória: lícita, com adicional de no mínimo vinte e cinco por cento enquanto durar.
+ANTONIO: As pegadinhas. Um: o cargo de confiança não recebe adicional de transferência. Errado, pela OJ cento e treze. Dois: o adicional é devido em toda transferência. Errado, só na provisória.
+BRUNO: Três: o adicional é de, no máximo, vinte e cinco por cento. Errado: é nunca inferior a vinte e cinco por cento. Quatro: as despesas ficam por conta do empregado. Errado, ficam por conta do empregador.
+THALITA: Resumindo: provisória paga vinte e cinco, definitiva não paga, confiança também paga se for provisória, e o piso é vinte e cinco, não o teto.
+FRANCISCA: Isso. E quando o contrato não está mais em plena execução, quando o empregado não trabalha, mas o vínculo continua vivo? É o nosso próximo tema: suspensão e interrupção do contrato.
