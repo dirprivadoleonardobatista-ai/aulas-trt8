@@ -1,0 +1,111 @@
+SEGMENTO s024
+== SLIDE: Questão um: qual código malicioso?
+* Propaga-se sozinho pela rede, sem hospedeiro
+* A vírus de macro, B troia, C worm, D rootkit, E spyware
+* Gabarito: C, worm
+ANTONIO: Terminada a teoria de segurança, vamos treinar com questões comentadas no estilo FCC. Questão um. A equipe de suporte de um Tribunal identificou um código malicioso que se propagava automaticamente pela rede interna, explorando uma vulnerabilidade do sistema operacional e enviando cópias de si mesmo de computador para computador, sem infectar arquivos e sem depender de que algum usuário o executasse. Esse código é classificado como: A, vírus de macro; B, cavalo de troia; C, worm; D, rootkit; E, spyware.
+THALITA: Pausa para eu pensar. Propaga sozinho pela rede, sem hospedeiro... acho que é o worm. Mas vou conferir cada uma.
+BRUNO: Faça isso. Alternativa A, vírus de macro: errada. O vírus precisa de hospedeiro, no caso um documento, e depende da execução do arquivo infectado.
+FRANCISCA: Alternativa B, cavalo de troia: errada. Ele não se autopropaga. É instalado pela própria vítima, enganada por um programa aparentemente útil.
+ANTONIO: Alternativa C, worm: correta. Propagação automática pela rede, envio de cópias de si mesmo, exploração de vulnerabilidade e ausência de hospedeiro são as notas do worm.
+THALITA: E o rootkit, alternativa D?
+BRUNO: Errada. O rootkit serve para esconder e assegurar a presença do invasor, não para se propagar. E a E, spyware, também errada: monitora atividades e envia informações a terceiros, sem propagação automática. Gabarito: C.
+== SLIDE: Questão dois: backup diferencial e ransomware
+* Completo no domingo, diferencial de segunda a sábado
+* Restaurar: último completo mais último diferencial
+* Gabarito: E
+FRANCISCA: Questão dois. Numa Vara do Trabalho, o backup completo é feito aos domingos e o diferencial de segunda a sábado, ao fim do expediente. Na quinta, antes do expediente, um ransomware tornou inacessíveis os arquivos do servidor. Para restaurar os dados na situação mais recente possível, será necessário utilizar: A, somente o diferencial de quarta, pois ele contém todos os arquivos; B, o completo de domingo e os diferenciais de segunda, terça e quarta, nessa ordem; C, apenas os diferenciais, dispensado o completo; D, o completo e todos os incrementais da semana; E, o completo de domingo e o diferencial de quarta.
+THALITA: Pausa para pensar. Diferencial acumula, então basta o último. Acho que é a E.
+ANTONIO: Vamos conferir. A: errada. O diferencial contém apenas o que mudou desde o último completo, não todos os arquivos.
+BRUNO: B: errada. Como cada diferencial acumula tudo desde o completo, os de segunda e terça são desnecessários. Essa sequência descreve a lógica do incremental.
+FRANCISCA: C: errada. Sem o completo falta a base sobre a qual as alterações se aplicam. D: errada, porque a rotina descrita não gera incrementais.
+THALITA: E então a E: completo mais o último diferencial. Correta.
+ANTONIO: Exatamente. Restauração com diferencial é o último completo mais o último diferencial. Gabarito: E.
+== SLIDE: Questão três: SMTP, POP3 e IMAP
+* SMTP envia; POP3 baixa; IMAP sincroniza
+* Afirmação dois troca POP3 por IMAP
+* Gabarito: B, um e três
+BRUNO: Questão três. Considere as afirmações sobre protocolos de e-mail. Um: o SMTP é o protocolo de envio, do cliente para o servidor e entre servidores. Dois: o POP3 é indicado para quem acessa a mesma caixa em vários dispositivos, pois mantém mensagens e pastas sincronizadas no servidor. Três: o IMAP permite acessar e organizar as mensagens mantidas no servidor, refletindo as alterações em todos os dispositivos. Está correto o que se afirma em: A, um apenas; B, um e três; C, dois e três; D, um, dois e três; E, dois apenas.
+THALITA: Pausa para pensar. A um está certa. A dois, pelo que você ensinou, descreve o IMAP, não o POP3. A três está certa. Então é a B.
+FRANCISCA: Isso. A afirmação dois atribui ao POP3 a característica do IMAP. O POP3 baixa as mensagens e, por padrão, as remove do servidor.
+ANTONIO: Alternativa A: errada, porque a três também está correta. B: correta, um descreve o SMTP e três descreve o IMAP. C: errada, a dois está incorreta.
+BRUNO: D também errada, porque a dois é incorreta. E, a dois apenas, é justamente a incorreta. Gabarito: B.
+THALITA: Macete: POP3 baixa e some, IMAP fica e sincroniza.
+== SLIDE: Questão quatro: atalhos do Windows
+* Win Ctrl D cria área virtual
+* Win Ctrl seta alterna; Win Ctrl F4 fecha
+* Win V abre o histórico da área de transferência
+* Gabarito: D
+ANTONIO: Questão quatro. Um servidor, com Windows onze em português e o histórico da área de transferência ativado, deseja, nesta ordem: criar uma nova área de trabalho virtual; voltar para a área anterior; e visualizar os itens recentemente copiados para escolher um. Deverá usar, respectivamente: A, Windows D, Windows Tab, Ctrl V; B, Windows Ctrl N, Alt Tab, Windows V; C, Windows Ctrl D, Windows Ctrl F4, Ctrl Shift V; D, Windows Ctrl D, Windows Ctrl seta para a esquerda, Windows V; E, Windows Tab, Windows M, Windows C.
+THALITA: Pausa para pensar. Criar é Windows Ctrl D. Alternar é Windows Ctrl com seta. Histórico, Windows V. Tudo na D!
+FRANCISCA: Perfeito. A: errada. Windows D mostra a área de trabalho, não cria área virtual, e Ctrl V cola só o último item.
+BRUNO: B: errada. Windows Ctrl N não cria área virtual, e Alt Tab alterna janelas, não áreas. C: errada, porque Windows Ctrl F4 fecha a área atual, e Ctrl Shift V não abre o histórico.
+ANTONIO: D: correta. E: errada, Windows Tab abre a Visão de Tarefas, de onde se pode criar a área, mas não a cria diretamente; Windows M minimiza janelas; Windows C não abre o histórico. Gabarito: D.
+== SLIDE: Questão cinco: papéis no Google Drive
+* Editor compartilha por padrão
+* Comentarista sugere, não edita
+* Só o proprietário transfere a propriedade
+* Gabarito: A
+THALITA: Questão cinco. Ana, proprietária de um documento no Drive, compartilhou com Bruno como Comentarista e com Carla como Editora, mantendo as configurações padrão. Então: A, Carla poderá compartilhar com outras pessoas, e Bruno poderá fazer sugestões, sem modificar diretamente o texto; B, Bruno poderá editar diretamente, desde que no modo Sugestão, cabendo a Ana aceitar; C, Carla poderá transferir a propriedade para si; D, somente Ana poderá adicionar pessoas, pois o Editor nunca compartilha; E, se Ana mudar o acesso geral para Qualquer pessoa com o link, como Leitor, somente quem tiver conta Google e for adicionado nominalmente poderá abrir.
+ANTONIO: Pausa para você pensar. Alternativa A: correta. Por padrão, editores podem compartilhar e alterar permissões, e o comentarista comenta e sugere, sem editar.
+BRUNO: B: errada. Sugestão não é edição direta; fica pendente de aceite por quem tem papel de Editor ou Proprietário, não necessariamente a Ana. C: errada, só o proprietário transfere a propriedade.
+FRANCISCA: D: errada, troca pode por padrão por nunca pode. O proprietário é que pode desativar a opção de editores compartilharem. E: errada, descreve o acesso Restrito. Qualquer pessoa com o link dispensa inclusão nominal e login. Gabarito: A.
+THALITA: Eu cairia na C, achando que editor faz tudo. Agora entendi: transferir é só do dono.
+== SLIDE: Questão seis: Gmail e Agenda
+* Arquivar não exclui; fica em Todos os e-mails
+* Vários marcadores por mensagem
+* Modo confidencial não impede captura de tela
+* Gabarito: C
+BRUNO: Questão seis. Afirmações sobre Gmail e Agenda. Um: ao arquivar uma conversa, ela é excluída e vai para a Lixeira por trinta dias. Dois: no Gmail, uma mesma mensagem pode receber mais de um marcador, diferente das pastas tradicionais. Três: ao criar evento na Agenda, é possível convidar participantes, adicionar videoconferência do Meet e anexar arquivos do Drive. Quatro: o modo confidencial impede que o destinatário encaminhe, copie, imprima ou faça captura de tela. Está correto: A, um e dois; B, um e quatro; C, dois e três; D, três e quatro; E, dois, três e quatro.
+THALITA: Pausa para pensar. A um é pegadinha: arquivar não exclui. A quatro também: confidencial não impede captura de tela. Sobram dois e três: C.
+FRANCISCA: Perfeito. A: errada, porque a um está incorreta; arquivar retira da Caixa de entrada sem excluir, e a conversa permanece em Todos os e-mails.
+ANTONIO: B: errada, um e quatro estão incorretas. C: correta, dois e três. D: errada, a quatro está incorreta.
+BRUNO: A quatro: o modo confidencial bloqueia encaminhar, copiar, imprimir e baixar, mas não impede captura de tela ou foto. E: errada, porque inclui a quatro. Gabarito: C.
+== SLIDE: Questão sete: referências na planilha
+* C três para E seis: duas colunas e três linhas
+* Dólar trava o que vem logo depois
+* A três vira C seis; dólar B dólar um fica; B dólar dois vira D dólar dois
+* Gabarito: E
+FRANCISCA: Questão sete. Numa planilha, a célula C três contém a fórmula igual A três vezes dólar B dólar um mais B dólar dois. Ela foi copiada e colada em E seis. A fórmula resultante será: A, A seis vezes dólar B dólar um mais B dólar dois; B, C seis vezes dólar D dólar quatro mais D dólar cinco; C, C três vezes dólar B dólar um mais B dólar cinco; D, C seis vezes dólar B dólar um mais D dólar cinco; E, C seis vezes dólar B dólar um mais D dólar dois.
+THALITA: Pausa para pensar. De C três para E seis: duas colunas à frente, três linhas abaixo. A três, relativa, vira C seis. Dólar B dólar um, absoluta, não muda. B dólar dois: coluna livre vira D, linha fixa continua dois. É a E.
+BRUNO: Isso. A: errada, ignora o deslocamento de colunas em A três e em B dólar dois. B: errada, trata as absolutas como relativas; o dólar trava o elemento à direita.
+ANTONIO: C: errada. Em A três desloca só a coluna, esquecendo as linhas, e em B dólar dois ajusta justamente a linha travada. D: errada, em B dólar dois a linha é fixa e continua dois.
+FRANCISCA: E: correta. Gabarito: E.
+== SLIDE: Questões oito e nove: SOMASE e navegadores
+* SOMASE dividido por CONT.SE: noventa dividido por três, trinta
+* Média trinta maior que vinte e cinco: Acima
+* Ctrl Shift P no Firefox, Ctrl Shift N no Chrome
+* Gabaritos: B e D
+BRUNO: Questão oito. Localidade Brasil. A dois a A seis: Vara um, Vara dois, Vara um, Vara três, Vara um. B dois a B seis: dez, vinte, trinta, quarenta, cinquenta. D um: SOMASE de A dois a A seis, Vara um, B dois a B seis, dividido por CONT.SE de A dois a A seis, Vara um. D dois: SE média de B dois a B seis maior que vinte e cinco, Acima, senão Abaixo. Resultados: A, noventa e Acima; B, trinta e Acima; C, trinta e Abaixo; D, três e Acima; E, noventa e Abaixo.
+THALITA: Pausa para pensar. SOMASE das Varas um: dez mais trinta mais cinquenta, noventa. CONT.SE: três. Noventa dividido por três, trinta. Média: cento e cinquenta sobre cinco, trinta, maior que vinte e cinco, Acima. É a B.
+ANTONIO: Correto. A erra por ficar só no SOMASE, noventa. C erra no SE. D é só o CONT.SE. E erra as duas. Gabarito: B.
+FRANCISCA: Questão nove, navegadores Chrome e Firefox. A: a navegação anônima impede que o provedor e a rede identifiquem os sites. Errada, só evita registros no próprio dispositivo. B: ao encerrar janela privativa do Firefox, os downloads são apagados. Errada, downloads permanecem.
+BRUNO: C: no Chrome, Ctrl J mostra o histórico e Ctrl H os downloads. Errada, inverteu: Ctrl H é histórico, Ctrl J é downloads. D: Ctrl Shift P abre janela privativa no Firefox, Ctrl Shift N abre anônima no Chrome, e Ctrl Shift T reabre a última guia nos dois. Correta.
+THALITA: E a E? Ctrl D fecha a guia e Ctrl T reabre? Errada: Ctrl D é favoritos, Ctrl T é nova guia.
+== SLIDE: Padrões que se repetem nas questões comentadas
+* A banca troca o conceito pelo vizinho: vírus e worm, POP3 e IMAP
+* Afirmações com um detalhe errado: sempre, nunca, apenas
+* Contar colunas e linhas; ler o verbo da alternativa
+* Eliminar alternativas é tão importante quanto achar a certa
+FRANCISCA: Antes de seguir, vale olhar o que as seis primeiras questões e as seguintes têm em comum. Quase toda questão de informática da FCC troca um conceito pelo vizinho. Vírus no lugar de worm, POP3 no lugar de IMAP, firewall no lugar de antivírus, assinatura no lugar de sigilo.
+BRUNO: E a banca costuma plantar um detalhe errado numa afirmação que, no resto, está certa. Uma palavra como sempre, nunca, somente ou impede. O modo confidencial bloqueia encaminhar, copiar, imprimir e baixar, mas a banca acrescenta a captura de tela e a afirmação inteira fica errada.
+THALITA: Então eu devo procurar a palavra absoluta primeiro e desconfiar dela.
+ANTONIO: Boa estratégia, Thalita. Mas não de forma automática: leia a afirmação inteira e confronte com a regra que você estudou. Em informática, regra e exceção convivem, e a palavra absoluta só denuncia o erro quando a regra tem exceção.
+THALITA: Entendi. E nas questões de fórmula e de atalho, eu faço o quê?
+FRANCISCA: Nas fórmulas, conte colunas e linhas do deslocamento e aplique em cada parte da referência, uma por uma. Nos atalhos, associe a tecla a um verbo: D de desktop, M de minimizar, L de lock, que é bloquear, I de configurações. E nunca troque o Windows com a tecla de controle: criar área virtual tem o Ctrl, mostrar a área de trabalho não tem.
+BRUNO: E treine eliminar alternativas. Na questão de backup, só uma alternativa tinha completo mais um único diferencial. Na de assinatura digital, a alternativa que fala em sigilo já cai de cara. Eliminar as quatro erradas é tão importante quanto reconhecer a certa, porque a banca faz as erradas parecerem boas.
+THALITA: Vou anotar as três: conceito vizinho, palavra absoluta, e eliminar antes de escolher. Parece que dá para marcar mais questões só por método.
+FRANCISCA: Dá sim, desde que a teoria esteja na mão. O método sozinho não resolve, mas a teoria sem método também deixa questão pelo caminho.
+BRUNO: Agora, dois exemplos de sequências erradas que a banca monta: marcar a alternativa que tem o conceito certo mas o exemplo errado, ou a que tem o exemplo certo mas o comando trocado. Conferir ambos evita as duas.
+== SLIDE: Questões dez e onze: busca e assinatura digital
+* Aspas, hífen, site e filetype
+* Assinatura: chave privada sobre o hash
+* Não garante sigilo
+* Gabaritos: A e C
+ANTONIO: Questão dez. Localizar, no Google, somente PDF hospedados no domínio tst ponto jus ponto br que contenham a expressão exata horas extras e não contenham a palavra bancário. Alternativa A: aspas em horas extras, hífen bancário, site dois-pontos tst ponto jus ponto br, filetype dois-pontos pdf.
+THALITA: Pausa para pensar. Aspas é exata, hífen exclui, site é domínio, filetype é tipo. A parece certa.
+BRUNO: É. B é errada: sem aspas não há expressão exata, e o mais não exclui termo. C: errada, o NOT antes de site exclui justamente o domínio desejado. D: errada, inurl pdf procura pdf só no endereço. E: errada, o OR amplia a busca em vez de excluir. Gabarito: A.
+FRANCISCA: Questão onze. Na assinatura digital com criptografia assimétrica e certificado da ICP-Brasil, qual afirmação é correta? A: usa a chave pública do destinatário, assegurando confidencialidade. Errada, isso é o sigilo. B: garante sigilo, integridade e autenticidade. Errada, não garante sigilo.
+ANTONIO: C: o signatário usa sua chave privada sobre o hash, e qualquer pessoa com a pública verifica, garantindo autenticidade, integridade e não repúdio. Correta, com base no artigo primeiro da Medida Provisória dois mil duzentos e dois traço dois. D: chave única compartilhada. Errada, isso é simétrica. E: o certificado é emitido pelo próprio titular. Errada, quem emite é a Autoridade Certificadora credenciada.
+THALITA: Gabarito C. Na próxima parte tem mais questões para fechar a aula, certo?
+ANTONIO: Certo, na parte dois vamos para a última questão e o resumo.
