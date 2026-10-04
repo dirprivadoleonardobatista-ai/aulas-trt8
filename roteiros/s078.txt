@@ -1,0 +1,98 @@
+SEGMENTO s078
+== SLIDE: TST: composição e requisitos
+* Três níveis: TST, TRTs e Juízes do Trabalho (art. 111)
+* TST: 27 Ministros, de 35 a menos de 70 anos
+* Um quinto: advogados e MPT; o resto, juízes de TRT
+* Junto ao TST: ENAMAT e CSJT (art. 111-A, §2º)
+ANTONIO: Do STJ e do CNJ passamos para a Justiça do Trabalho, artigos cento e onze a cento e dezesseis, o tema mais cobrado do bloco para concurso de TRT. A estrutura tem três níveis: o Tribunal Superior do Trabalho, os Tribunais Regionais e os Juízes do Trabalho.
+THALITA: Começo pelo TST. Quantos Ministros?
+FRANCISCA: Vinte e sete, brasileiros, natos ou naturalizados, com mais de trinta e cinco e menos de setenta anos, de notável saber jurídico e reputação ilibada, pelas Emendas noventa e dois e cento e vinte e dois. Nomeação pelo Presidente, após aprovação pela maioria absoluta do Senado.
+BRUNO: Compare com o Supremo. No Supremo, só brasileiro nato. No TST, nato ou naturalizado. Pegadinha clássica.
+ANTONIO: Como se compõe? Um quinto entre advogados com mais de dez anos de efetiva atividade profissional e membros do Ministério Público do Trabalho com mais de dez anos de efetivo exercício, observado o artigo noventa e quatro. Os demais, entre juízes dos TRTs oriundos da magistratura de carreira, indicados pelo próprio TST.
+THALITA: Então no quinto a lista sai da OAB e do MPT, e na carreira é o próprio TST que indica.
+FRANCISCA: Isso. A competência do TST é definida em lei. E o parágrafo terceiro dá ao TST a reclamação para preservar sua competência e garantir a autoridade de suas decisões, desde a Emenda noventa e dois.
+BRUNO: Junto ao TST funcionam dois órgãos. A ENAMAT, que regulamenta os cursos oficiais para ingresso e promoção na carreira, e o CSJT, que exerce a supervisão administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus, como órgão central do sistema, com decisões de efeito vinculante.
+THALITA: Macete: ENAMAT é escola e regulamenta cursos; CSJT supervisiona e vincula.
+== SLIDE: TST e CSJT: pegadinhas
+* CSJT não supervisiona o TST; só 1º e 2º graus
+* CSJT: sem função jurisdicional nem disciplinar sobre TST
+* FCC troca "efeito vinculante" por "caráter consultivo"
+* Troca ENAMAT por CSJT nos cursos
+ANTONIO: Vamos reforçar o que a FCC explora no CSJT. Ele tem decisões de efeito vinculante e atua como órgão central do sistema.
+BRUNO: Se a alternativa disser "caráter consultivo", errada. Se disser "controle jurisdicional", errada. O CSJT não tem função jurisdicional. E também não supervisiona o TST: a supervisão alcança só o primeiro e o segundo graus.
+THALITA: E sobre os magistrados do TST? Ele pode aplicar punição?
+FRANCISCA: Não tem função disciplinar sobre magistrados do TST. É órgão administrativo, orçamentário, financeiro e patrimonial. O regimento interno diz que o Conselho é composto pelo Presidente e pelo Vice-Presidente do TST e pelo Corregedor-Geral da Justiça do Trabalho, membros natos, mais três Ministros eleitos pelo Pleno e cinco Presidentes de TRT, um de cada região geográfica do País, em rodízio. O Presidente do TST preside.
+ANTONIO: Mas lembre que o detalhamento de composição e competências está em lei e no regimento, reformulados nos últimos anos. Confira a redação vigente no edital.
+BRUNO: Outra troca: dar à ENAMAT a supervisão administrativa, ou ao CSJT a regulamentação dos cursos de ingresso e promoção. Cada órgão na sua função.
+THALITA: Para não misturar os três controles de um TRT: o CNJ controla todo o Judiciário, inclusive os TRTs; o CSJT supervisiona de forma central e vinculante a Justiça do Trabalho; e a Corregedoria faz correição.
+FRANCISCA: Isso mesmo: CNJ, CSJT e Corregedoria-Geral da Justiça do Trabalho. Cada qual com um tipo de controle.
+== SLIDE: TRTs: composição, idade e nomeação
+* Mínimo de 7 juízes; mais de 30 e menos de 70 anos
+* Nomeação pelo Presidente da República, sem Senado
+* Quinto: advogados e MPT; carreira: antiguidade e merecimento
+* Itinerante INSTALA; Câmara regionais PODEM
+ANTONIO: Artigo cento e quinze, os Tribunais Regionais do Trabalho. Compõem-se de no mínimo sete juízes, recrutados quando possível na respectiva região, nomeados pelo Presidente da República.
+THALITA: Com aprovação do Senado?
+BRUNO: Não. Sem aprovação do Senado. É diferente do TST. E a idade é de mais de trinta e menos de setenta anos. Se a banca trocar por trinta e cinco, que é a idade do TST, errado.
+FRANCISCA: Um quinto entre advogados com mais de dez anos de efetiva atividade e membros do MPT com mais de dez anos de exercício, observado o artigo noventa e quatro. Os demais por promoção de juízes do trabalho, por antiguidade e merecimento, alternadamente.
+THALITA: Mínimo de sete. A banca troca por cinco ou nove.
+ANTONIO: Agora um ponto pós-Emenda cento e vinte e dois: o limite máximo subiu de sessenta e cinco para setenta anos para nomeação aos tribunais. Questão antiga com "menos de sessenta e cinco" está desatualizada.
+FRANCISCA: Os TRTs instalarão a justiça itinerante, com audiências e demais funções jurisdicionais nos limites territoriais da jurisdição, usando equipamentos públicos e comunitários. Isso é obrigatório. Já a descentralização, em Câmaras regionais, é facultativa: os TRTs poderão funcionar descentralizadamente para assegurar o acesso em todas as fases do processo.
+BRUNO: A pegadinha é trocar "instalarão" por "poderão", ou "poderão" por "deverão".
+THALITA: Meu macete: itinerante instala, câmara pode.
+== SLIDE: Varas e juízes do trabalho (arts. 112, 113 e 116)
+* Lei cria Varas; juízes de direito onde não houver
+* Recurso vai ao TRT
+* Vara: juiz singular (EC 24/1999)
+* Súmula 180 do STJ: conflito entre juiz estadual e Vara
+ANTONIO: Artigo cento e doze: a lei cria as Varas do Trabalho. Nas comarcas não abrangidas por sua jurisdição, a lei pode atribuí-la aos juízes de direito, com recurso para o respectivo TRT.
+THALITA: Quer dizer que o juiz estadual pode julgar causa trabalhista?
+FRANCISCA: Sim, onde não houver Vara, mas a lei precisa atribuir essa competência. E o recurso vai ao TRT, não ao Tribunal de Justiça.
+BRUNO: O artigo cento e treze remete à lei a constituição, a investidura, a jurisdição, a competência, as garantias e as condições de exercício dos órgãos da Justiça do Trabalho.
+ANTONIO: E o artigo cento e dezesseis diz que nas Varas a jurisdição é exercida por juiz singular. A Emenda vinte e quatro, de mil novecentos e noventa e nove, extinguiu a representação classista e as Juntas de Conciliação e Julgamento.
+THALITA: Então se a alternativa falar em juiz classista, errado.
+FRANCISCA: Exato. Sobre conflito, a Súmula cento e oitenta do STJ diz que, na lide trabalhista, compete ao TRT dirimir conflito de competência verificado, na respectiva região, entre juiz estadual investido de jurisdição trabalhista e Vara do Trabalho.
+BRUNO: Lembre do exemplo da aula anterior de conflito de competência: Varas da mesma região, TRT; regiões diferentes, TST; juiz do trabalho contra juiz estadual de outro Estado, STJ.
+== SLIDE: Artigo 114: incisos um a quatro
+* I: relação de trabalho; ADI 3.395 exclui estatutários
+* II: direito de greve (SV 23); servidor, Justiça comum
+* III: representação sindical
+* IV: MS, HC e HD; sem competência criminal (ADI 3.684)
+ANTONIO: Chegamos ao artigo cento e catorze, a competência material. Inciso um: ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta de todos os entes federativos. A expressão relação de trabalho é mais ampla que relação de emprego.
+THALITA: Então servidor público vai para a Justiça do Trabalho?
+FRANCISCA: Não o estatutário. Na ADI três mil trezentos e noventa e cinco, o Supremo deu interpretação conforme para excluir as causas entre o Poder Público e servidores ligados por relação estatutária ou jurídico-administrativa. Essas vão à Justiça comum.
+BRUNO: Inciso dois: ações que envolvam o exercício do direito de greve. A Súmula Vinculante vinte e três inclui a possessória ajuizada por causa de greve de trabalhadores da iniciativa privada. Greve de servidores da administração direta, autarquias e fundações, inclusive celetistas, vai para a Justiça comum, conforme o Tema quinhentos e quarenta e quatro.
+ANTONIO: Inciso três: representação sindical, entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores, inclusive cobrança de contribuições sindicais.
+THALITA: E o quatro?
+FRANCISCA: Mandado de segurança, habeas corpus e habeas data quando o ato questionado envolver matéria sujeita à jurisdição trabalhista. Mas, segundo a ADI três mil seiscentos e oitenta e quatro, o habeas corpus na Justiça do Trabalho não lhe dá competência criminal.
+BRUNO: Então crime trabalhista é Justiça Federal ou estadual, conforme o caso.
+THALITA: Greve privada, trabalho. Greve de servidor, comum. Estatutário, comum.
+== SLIDE: Artigo 114: incisos cinco a nove
+* V: conflitos de competência entre órgãos trabalhistas
+* VI: dano moral e patrimonial; SV 22 inclui acidente
+* VII: penalidades de fiscalização; multa também
+* VIII: execução de ofício das contribuições (SV 53)
+ANTONIO: Inciso cinco: conflitos de competência entre órgãos com jurisdição trabalhista, ressalvada a competência do Supremo, no artigo cento e dois, inciso um, alínea o.
+FRANCISCA: Inciso seis: ações de indenização por dano moral ou patrimonial decorrentes da relação de trabalho. A Súmula Vinculante vinte e dois inclui o acidente de trabalho proposto por empregado contra empregador. Mas a ação acidentária contra o INSS continua na Justiça estadual, artigo cento e nove, inciso um.
+THALITA: Então segurado pedindo benefício ao INSS vai ao estadual, e empregado pedindo dano moral, ao trabalho.
+BRUNO: Isso. Inciso sete: ações relativas às penalidades administrativas aplicadas aos empregadores pela fiscalização do trabalho. A execução fiscal da multa também é da Justiça do Trabalho.
+ANTONIO: Inciso oito: execução de ofício das contribuições sociais previstas no artigo cento e noventa e cinco, inciso um, alínea a, e inciso dois, decorrentes das sentenças que proferir. A Súmula Vinculante cinquenta e três limita isso às contribuições relativas ao objeto da condenação e aos acordos homologados.
+THALITA: Exemplo?
+FRANCISCA: Sentença condena a empresa em vinte mil reais de horas extras e reconhece dois anos de vínculo sem anotação. O juiz executa de ofício a contribuição previdenciária sobre as horas extras. Mas não sobre os salários do período de vínculo já pagos, porque essa parte é declaratória.
+BRUNO: Inciso nove: outras controvérsias decorrentes da relação de trabalho, na forma da lei. Depende de previsão legal expressa.
+THALITA: Condenação, sim; declaratória, não. SV cinquenta e três.
+== SLIDE: Artigo 114: parágrafos, súmulas e casos práticos
+* §1º: árbitros, faculdade; §2º: comum acordo no dissídio econômico
+* §3º: greve essencial, MPT poderá ajuizar
+* Súmula 736 do STF: segurança e saúde do trabalhador
+* Previdência privada e representação comercial: Justiça comum
+ANTONIO: Parágrafos do artigo cento e catorze. Primeiro: frustrada a negociação coletiva, as partes poderão eleger árbitros. É faculdade. Segundo: recusando-se qualquer das partes à negociação ou à arbitragem, é facultado às partes, de comum acordo, ajuizar dissídio coletivo de natureza econômica.
+THALITA: O comum acordo é obrigatório?
+BRUNO: É pressuposto processual, e o Supremo, no Tema oitocentos e quarenta e um, o considerou constitucional. Mas não se exige no dissídio de greve nem no jurídico.
+FRANCISCA: Terceiro: em greve de atividade essencial, com possibilidade de lesão do interesse público, o Ministério Público do Trabalho poderá ajuizar dissídio coletivo. A banca troca MPT por Ministério do Trabalho ou por qualquer das partes.
+THALITA: Só o MPT.
+ANTONIO: Sobre jurisprudência: a Súmula setecentos e trinta e seis do Supremo diz que compete à Justiça do Trabalho julgar ações cuja causa de pedir seja o descumprimento de normas de segurança, higiene e saúde dos trabalhadores.
+FRANCISCA: Por outro lado, o Supremo afirmou competência da Justiça comum para complementação de aposentadoria contra entidade de previdência privada, no Tema cento e noventa, e para contratos de representação comercial autônoma, no Tema quinhentos e cinquenta.
+BRUNO: Casos práticos de prova: servidor estatutário do TRT pedindo adicional da lei de servidores, Justiça Federal. Empresa multada por auditor do trabalho pedindo anulação do auto, Justiça do Trabalho. Banco com interdito proibitório contra piquete de bancários, Trabalho. Sindicatos disputando a mesma categoria, Trabalho. Empregador acusado de redução a condição análoga à de escravo, Justiça Federal, por ser crime.
+THALITA: Resumo relâmpago do que mais cai na FCC nesta aula. No artigo noventa e três: três anos de atividade jurídica, OAB em todas as fases, dois terços para recusar o mais antigo, órgão especial é facultativo. No quinto: seis, três, um, vitalício na posse. Garantias: dois anos de estágio no primeiro grau e quarentena de três anos. No CNJ: quinze membros, dois anos, Corregedor do STJ, simetria na indicação. Na súmula vinculante e na repercussão geral: dois terços. No TST: vinte e sete Ministros, com Senado. No TRT: mínimo sete, trinta a menos de setenta, sem Senado. E no artigo cento e catorze: servidor estatutário fora, comum acordo no dissídio econômico, itinerante instala e câmara pode.
+ANTONIO: Revise as tabelas, refaça as questões e nos vemos na próxima aula. Bons estudos a todos!
