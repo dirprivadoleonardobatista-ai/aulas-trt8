@@ -1,0 +1,87 @@
+SEGMENTO s232
+== SLIDE: Execução: título, legitimidade e responsabilidade
+* Título certo, líquido e exigível (art. 784); citação para pagar em 3 dias
+* Bens presentes e futuros respondem (art. 789)
+* Legitimidade: arts. 778 e 779; competência: art. 781
+* Fiador e sócio: benefício de ordem
+* Coisa certa: 15 dias para entregar (art. 806)
+ANTONIO: Terminamos a fase de conhecimento e o cumprimento de sentença; agora o processo de execução. Ele parte de um título, que precisa ser certo, líquido e exigível, previsto no artigo setecentos e oitenta e quatro. O executado é citado para pagar em três dias, e os bens presentes e futuros respondem pela dívida, artigo setecentos e oitenta e nove.
+THALITA: Quais são esses títulos? Tem muitos, né?
+FRANCISCA: Cambiais e cheque; documento público assinado pelo devedor; documento particular assinado pelo devedor e por duas testemunhas; transação referendada; contrato com garantia real; seguro de vida; aluguel; certidão de dívida ativa; contribuições de condomínio; e outros previstos em lei. Atualização: a assinatura eletrônica pode dispensar testemunhas em título eletrônico, mas confira a redação vigente.
+BRUNO: Legitimidade, artigos setecentos e setenta e oito e setecentos e setenta e nove. Ativa: credor, Ministério Público, sucessores, cessionário e sub-rogado. Passiva: devedor, sucessores, novo devedor aceito pelo credor, fiador, garantidor real e responsável tributário. Competência, artigo setecentos e oitenta e um: domicílio do executado, foro de eleição ou situação dos bens.
+THALITA: Então o fiador pode ser executado direto, se constar do título?
+FRANCISCA: Pode, mas tem benefício de ordem: fiador e sócio exigem que primeiro se executem os bens do devedor ou da sociedade. Herdeiros respondem no limite da herança. A responsabilidade alcança sucessor, sócio nos casos legais, cônjuge, adquirente em fraude e desconsideração.
+ANTONIO: Pelo princípio da menor onerosidade, artigo oitocentos e cinco, a execução segue pelo modo menos gravoso. Quem alega deve indicar meio mais eficaz e menos oneroso, sob pena de manutenção dos atos.
+BRUNO: E coisa certa: quinze dias para entregar, artigo oitocentos e seis. Obrigação de fazer: prazo do título ou do juiz, com conversão em perdas e danos.
+THALITA: Beleza: coisa certa, quinze dias; quantia certa, três dias.
+== SLIDE: Fraude à execução x fraude contra credores
+* Execução: processual, ineficácia, reconhecida nos próprios autos
+* Credores: civil, anulabilidade, ação pauliana em 4 anos
+* Art. 792: hipóteses de fraude à execução
+* Súmula 375 STJ: registro da penhora ou má-fé do terceiro
+* Súmula 195 STJ: fraude contra credores não cabe em embargos de terceiro
+ANTONIO: Agora a fraude à execução contra a fraude contra credores. A fraude à execução é processual, ato atentatório à dignidade da justiça, e ocorre com o processo já em curso contra o devedor.
+THALITA: E a fraude contra credores?
+FRANCISCA: É civil, defeito do negócio, artigos cento e cinquenta e oito a cento e sessenta e cinco do Código Civil. Basta crédito anterior, mesmo sem demanda. Reconhece-se por ação pauliana, com prazo decadencial de quatro anos, e exige dano e conluio fraudulento nos negócios onerosos.
+BRUNO: O efeito da fraude à execução é a ineficácia perante o exequente, reconhecida de forma incidental, nos próprios autos. O terceiro adquirente é intimado antes, com embargos de terceiro em quinze dias. Já a fraude contra credores não se discute em embargos de terceiro, Súmula cento e noventa e cinco do STJ.
+THALITA: Macete: execução, ineficácia e nos próprios autos; credores, pauliana e anulação.
+ANTONIO: As hipóteses do artigo setecentos e noventa e dois: ação real ou reipersecutória averbada; execução averbada no registro do bem; hipoteca judiciária ou constrição averbada; ação capaz de levar o devedor à insolvência; e demais casos legais.
+FRANCISCA: Súmula trezentos e setenta e cinco do STJ: o reconhecimento depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente. Para bem não sujeito a registro, o adquirente prova cautela com certidões do domicílio do vendedor e do local do bem. Na desconsideração, a fraude conta da citação de quem se pretende atingir.
+BRUNO: Pegadinha clássica: dizer que a fraude à execução é presumida sem registro. Errado, precisa do registro ou da má-fé.
+THALITA: Entendi: sem registro e sem má-fé, não há fraude à execução.
+== SLIDE: Execução por quantia certa
+* Pagar em 3 dias; honorários de 10%, metade se pagar no prazo (art. 827)
+* Arresto: 2 tentativas em 10 dias; hora certa; edital (art. 830)
+* Ordem do art. 835: dinheiro primeiro
+* Penhora on-line: 5 dias para provar impenhorabilidade (art. 854)
+* Preço vil: abaixo de 50% da avaliação (art. 891)
+ANTONIO: Execução por quantia certa. Na citação, o executado paga em três dias. Os honorários iniciais são de dez por cento, reduzidos à metade se pagar no prazo, e podem subir até vinte por cento ao final, artigo oitocentos e vinte e sete.
+THALITA: E se o oficial não achar o executado?
+FRANCISCA: Artigo oitocentos e trinta: arresta bens, e em dez dias procura o executado duas vezes. Se suspeitar de ocultação, cita por hora certa. Frustradas as tentativas, o exequente pede edital. Citado e sem pagamento, o arresto vira penhora.
+BRUNO: Ordem de penhora, artigo oitocentos e trinta e cinco: dinheiro em primeiro, depois títulos públicos, valores mobiliários, veículos, imóveis, móveis, semoventes, navios e aeronaves, quotas e ações, faturamento, pedras e metais, direitos aquisitivos e outros. Fiança bancária ou seguro garantia valem como dinheiro se cobrirem o débito mais trinta por cento.
+THALITA: Dinheiro é sempre o primeiro, então?
+BRUNO: Sim, é prioritário. A penhora on-line, artigo oitocentos e cinquenta e quatro, é feita sem ciência prévia; o excesso é cancelado em vinte e quatro horas, e o executado tem cinco dias para provar impenhorabilidade ou excesso.
+ANTONIO: A avaliação cabe ao oficial de justiça; avaliador só com conhecimento especializado, com laudo em até dez dias. Na expropriação, primeiro a adjudicação, com preço igual ou maior que a avaliação; depois a alienação particular; por fim o leilão, preferencialmente eletrônico.
+FRANCISCA: Preço vil, artigo oitocentos e noventa e um: abaixo do mínimo do edital; sem fixação, abaixo de cinquenta por cento da avaliação; e imóvel de incapaz exige oitenta por cento.
+THALITA: Cinquenta por cento em geral, oitenta para incapaz.
+== SLIDE: Impenhorabilidade: artigo 833
+* Salários, pensões e honorários; poupança até 40 salários mínimos
+* Exceções: dívida do próprio bem e pensão alimentícia (§§ 1º e 2º)
+* Salário só cede acima de 50 salários mínimos mensais
+* Tema 1.235 STJ: conferir teses vigentes
+ANTONIO: Impenhorabilidades, artigo oitocentos e trinta e três. Inalienáveis e gravados voluntariamente; móveis e utilidades da residência, salvo os de elevado valor; vestuário e uso pessoal; salários, proventos, pensões, honorários e ganhos de autônomo; instrumentos da profissão, incluindo máquinas agrícolas do produtor rural pessoa física, salvo financiadas e dadas em garantia.
+FRANCISCA: Seguro de vida; materiais de obra em andamento, salvo se a obra for penhorada; pequena propriedade rural trabalhada pela família; recursos públicos para educação, saúde ou assistência; poupança até quarenta salários mínimos; fundo partidário; e créditos de incorporação vinculados à obra.
+THALITA: Quarenta salários na poupança. E no salário, quanto?
+BRUNO: Aí está a pegadinha: quarenta é da poupança; cinquenta é do salário. Os incisos do salário e da poupança cedem à prestação alimentícia de qualquer origem e ao que exceder cinquenta salários mínimos mensais, parágrafo segundo.
+ANTONIO: E nenhuma impenhorabilidade vale contra dívida do próprio bem, inclusive a de sua aquisição, parágrafo primeiro.
+THALITA: Por exemplo, o financiamento do imóvel: o banco pode penhorar o próprio imóvel financiado, mesmo sendo a moradia?
+FRANCISCA: Correto, é o exemplo típico. Quanto à jurisprudência, o STJ estende a proteção dos quarenta salários a outras aplicações e admite relativizar o salário, preservado o mínimo existencial. Em repetitivo, Tema mil duzentos e trinta e cinco, negou o conhecimento de ofício do inciso da poupança. Confira as teses vigentes.
+BRUNO: Para a prova: salário só cede para alimentos ou acima de cinquenta salários; poupança só protege até quarenta.
+== SLIDE: Parcelamento e embargos à execução
+* Art. 916: 30% + até 6 parcelas; implica renúncia aos embargos
+* Não se aplica ao cumprimento de sentença
+* Embargos: 15 dias, sem garantia, sem prazo em dobro
+* Efeito suspensivo excepcional (art. 919)
+* Fazenda embarga em 30 dias (art. 910)
+ANTONIO: Parcelamento, artigo novecentos e dezesseis: no prazo dos embargos, o executado reconhece o crédito e deposita trinta por cento, com custas e honorários. O saldo vai em até seis parcelas mensais, com correção e juros de um por cento ao mês.
+THALITA: E o juiz decide quando?
+FRANCISCA: Em cinco dias; enquanto isso, o executado deposita as parcelas. Indeferido, os atos prosseguem e o depósito vira penhora. Em caso de inadimplência, vence tudo antecipadamente e há multa de dez por cento sobre as parcelas não pagas.
+BRUNO: Pegadinha: o pedido implica renúncia aos embargos, e o parcelamento não se aplica ao cumprimento de sentença, parágrafo sétimo.
+ANTONIO: Embargos à execução: independem de penhora, depósito ou caução, artigo novecentos e catorze. O prazo é de quinze dias da juntada do mandado ou aviso de citação; litisconsortes têm prazo individual, e cônjuges contam da última juntada. Não há prazo em dobro do artigo duzentos e vinte e nove.
+FRANCISCA: Matérias, artigo novecentos e dezessete: inexequibilidade ou inexigibilidade, penhora ou avaliação incorretas, excesso ou cumulação indevida, retenção por benfeitorias na coisa certa, incompetência, e qualquer defesa do processo de conhecimento.
+BRUNO: Rejeição liminar, artigo novecentos e dezoito: intempestivos, casos de indeferimento da inicial ou improcedência liminar, e manifestamente protelatórios. O efeito suspensivo é excepcional: exige requerimento, requisitos da tutela provisória e garantia suficiente.
+THALITA: Então embargos não suspendem a execução automaticamente.
+FRANCISCA: Isso. E a Fazenda embarga em trinta dias, artigo novecentos e dez. Em alimentos, são três dias para pagar, provar ou justificar.
+== SLIDE: Suspensão, extinção e quadro de prazos
+* Sem bens: suspensão por 1 ano; depois, arquivamento (art. 921)
+* Prescrição intercorrente: de ofício, ouvidas as partes em 15 dias
+* Extinção por sentença (arts. 924 e 925)
+* Quadro de prazos: 15, 5, 30/20, 3, 2 anos
+ANTONIO: Suspensão, artigo novecentos e vinte e um: embargos com efeito suspensivo; executado ou bens não localizados; leilão frustrado sem iniciativa do exequente; e parcelamento. Sem bens, suspende-se por um ano e depois arquiva-se.
+BRUNO: A prescrição intercorrente corre da ciência da primeira tentativa frustrada de localizar devedor ou bens; é suspensa uma vez por até um ano, e pode ser reconhecida de ofício, depois de ouvidas as partes em quinze dias, sem ônus para elas. Atualização da Lei catorze mil cento e noventa e cinco, de dois mil e vinte e um, nos parágrafos quarto a sétimo: confira a redação vigente.
+THALITA: E a extinção?
+FRANCISCA: Artigos novecentos e vinte e quatro e novecentos e vinte e cinco: inicial indeferida, obrigação satisfeita, extinção total da dívida, renúncia ao crédito e prescrição intercorrente. E exige sentença.
+THALITA: Hora do quadro de prazos que mais cai. Posso tentar? Emenda, quinze dias; retratação, cinco; audiência, trinta dias, com citação em vinte; contestação, quinze; aditamento da antecipada, quinze; ação contra tutela estabilizada, dois anos.
+ANTONIO: Muito bem. Continue: pagamento voluntário e impugnação, quinze mais quinze; Fazenda, trinta dias; alimentos, três dias, com prisão de um a três meses; pagamento na execução, três dias; embargos, quinze dias; impenhorabilidade na penhora on-line, cinco dias.
+BRUNO: Memorize esse quadro: é pergunta certa em prova.
+THALITA: Agora vamos ver tudo isso em questões comentadas, estilo FCC.
