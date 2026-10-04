@@ -1,0 +1,102 @@
+SEGMENTO s073
+== SLIDE: Boas-vindas: aula 21, Poderes e funções essenciais à Justiça
+* Poder Executivo: artigos 76 a 91
+* Processo legislativo: artigos 59 a 69
+* Fiscalização contábil, financeira e orçamentária: artigos 70 a 75
+* Executivo federal é monocrático
+ANTONIO: Olá, pessoal, bem-vindos à aula vinte e um do nosso curso, Direito Constitucional, parte quatro: Poderes e funções essenciais à Justiça. Eu sou o Antônio, professor. Hoje vamos estudar o Poder Executivo, depois o Poder Legislativo, com o processo legislativo, e por fim a fiscalização contábil, financeira e orçamentária.
+THALITA: Oi, pessoal! Eu sou a Thalita, concurseira, e vou fazer as perguntas que vocês fariam.
+FRANCISCA: Eu sou a Francisca, professora, e trago a lei em paráfrase, a jurisprudência e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC, e vou mostrar onde a banca arma as pegadinhas.
+ANTONIO: Começando pelo Executivo. O Executivo federal é monocrático: é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado, conforme o artigo setenta e seis. A ordem que vamos seguir é: eleição e posse, vacância e sucessão, atribuições do artigo oitenta e quatro, responsabilidade, Ministros e, por fim, os órgãos consultivos.
+THALITA: E o que mais cai na prova nesse tema?
+BRUNO: Três coisas. Primeira: as atribuições delegáveis do artigo oitenta e quatro, que são só três incisos. Segunda: a dupla vacância, com os prazos de noventa dias e trinta dias. Terceira: o rito do artigo oitenta e seis, com dois terços da Câmara, suspensão das funções, cento e oitenta dias e as imunidades temporárias.
+FRANCISCA: Guardem essas três, porque a banca volta a elas em quase todo concurso.
+THALITA: Então já anotei: delegáveis, dupla vacância, artigo oitenta e seis. Vamos nessa!
+== SLIDE: Eleição, posse e mandato
+* Primeiro turno: primeiro domingo de outubro; segundo turno: último
+* Maioria absoluta, sem computar brancos e nulos
+* Posse em sessão do Congresso; dez dias para assumir
+* Mandato de quatro anos, início em 5 de janeiro (EC 111/2021)
+* Ausência do País por mais de quinze dias exige licença
+FRANCISCA: A eleição do Presidente: primeiro turno no primeiro domingo de outubro, e segundo turno no último domingo de outubro do ano anterior ao término do mandato vigente. A pegadinha é trocar "último" por "segundo" domingo. A eleição do Presidente importa a do Vice com ele registrado: não há votação separada para o Vice.
+THALITA: E para ser eleito no primeiro turno?
+BRUNO: Maioria absoluta dos votos, não computados os brancos e os nulos. A banca diz que os brancos são computados, e isso está errado. Se nenhum candidato alcança, há segundo turno entre os dois mais votados, e vence quem tiver a maioria dos votos válidos.
+ANTONIO: Se, antes do segundo turno, ocorrer morte, desistência ou impedimento legal de candidato, convoca-se, entre os remanescentes, o de maior votação. Em caso de empate no segundo lugar, qualifica-se o mais idoso. A FCC troca "mais idoso" por "mais votado no primeiro turno" ou por sorteio.
+THALITA: E a posse? É no Supremo?
+FRANCISCA: Não. A posse é em sessão do Congresso Nacional, com o compromisso constitucional, no artigo setenta e oito. Dizer que a posse é perante o STF é pegadinha. Se, decorridos dez dias da data fixada para a posse, o Presidente ou o Vice não tiver assumido, salvo força maior, o cargo é declarado vago. A banca troca dez por quinze ou por trinta dias.
+BRUNO: O mandato é de quatro anos, e pelo artigo oitenta e dois, com a Emenda cento e onze, de dois mil e vinte e um, começa em cinco de janeiro do ano seguinte ao da eleição. A data antiga era primeiro de janeiro. Vale a partir das eleições de dois mil e vinte e seis, mas confira a redação vigente no edital.
+THALITA: E se o Presidente quiser viajar?
+ANTONIO: O artigo oitenta e três diz que o Presidente e o Vice não podem ausentar-se do País por mais de quinze dias sem licença do Congresso, sob pena de perda do cargo. A pegadinha é trocar por "qualquer período".
+== SLIDE: Substituição, sucessão e dupla vacância
+* Vice substitui e sucede; os demais só substituem
+* Linha: Vice, Presidente da Câmara, do Senado e do STF
+* Vagas nos dois primeiros anos: eleição direta em noventa dias
+* Vagas nos dois últimos anos: eleição indireta em trinta dias
+* Mandato-tampão: só completa o período
+BRUNO: O Vice-Presidente substitui o Presidente nos impedimentos, que são afastamentos temporários, e o sucede na vaga, que é afastamento definitivo, pelo artigo setenta e nove. Os demais integrantes da linha sucessória apenas substituem, nunca sucedem.
+THALITA: Quem são os demais, e em que ordem?
+FRANCISCA: Pelo artigo oitenta, no impedimento do Presidente e do Vice: o Presidente da Câmara dos Deputados, o Presidente do Senado Federal e o Presidente do Supremo Tribunal Federal. Do segundo ao quarto, só exercício temporário.
+THALITA: Quer dizer que o Presidente da Câmara, do Senado ou do Supremo nunca vira Presidente da República? Ele só exerce o cargo enquanto durar o impedimento, e depois devolve?
+ANTONIO: Exatamente. Agora a dupla vacância, no artigo oitenta e um, que é altíssima incidência. Se vagarem os cargos de Presidente e Vice nos dois primeiros anos do mandato, haverá eleição direta, noventa dias depois de aberta a última vaga. Se a vacância ocorrer nos dois últimos anos, a eleição é indireta, pelo Congresso Nacional, trinta dias depois da última vaga, na forma da lei.
+BRUNO: Em ambos os casos, os eleitos apenas completam o período dos antecessores: é o mandato-tampão. Um exemplo: mandato de dois mil e vinte e sete a dois mil e trinta e um. Se Presidente e Vice morrerem em dois mil e vinte e oito, que é o segundo ano, eleição direta em noventa dias. Se ambos renunciarem em dois mil e trinta, quarto ano, o Congresso elege em trinta dias. Em qualquer caso, os novos eleitos governam só até o fim do mandato original.
+FRANCISCA: As pegadinhas clássicas: inverter os prazos, trinta dias para a direta e noventa para a indireta; afirmar que o Presidente da Câmara sucede o Presidente; afirmar que o mandato-tampão é de quatro anos. E o STF entende que os Estados podem disciplinar a dupla vacância de forma própria, sem copiar o artigo oitenta e um, por causa da autonomia federativa.
+THALITA: Macete: direta, nos dois primeiros anos, noventa dias. Indireta, nos dois últimos, trinta dias.
+== SLIDE: Atribuições do Presidente: artigo oitenta e quatro
+* Rol privativo e exemplificativo
+* Governo e administração: nomear Ministros, decreto autônomo, prover cargos
+* Processo legislativo: iniciar, sancionar, vetar, medida provisória
+* Relações exteriores: tratados sujeitos a referendo
+* Prestar contas ao Congresso em até sessenta dias
+ANTONIO: O artigo oitenta e quatro enumera competências privativas do Presidente, num rol exemplificativo: o inciso vinte e sete admite outras previstas na Constituição. Vamos agrupar por função.
+FRANCISCA: Como chefe de governo e da administração: nomear e exonerar Ministros, exercer a direção superior da administração federal, com auxílio dos Ministros, editar o decreto autônomo do inciso seis e prover e extinguir cargos públicos federais. Também prestar contas anualmente ao Congresso, em até sessenta dias após a abertura da sessão legislativa.
+THALITA: E quanto ao processo legislativo?
+BRUNO: Iniciar o processo legislativo, sancionar, promulgar e fazer publicar as leis, expedir decretos e regulamentos para sua fiel execução, vetar projetos, enviar o plano plurianual, as diretrizes orçamentárias e as propostas de orçamento, e editar medidas provisórias.
+ANTONIO: Como chefe de Estado, nas relações exteriores: manter relações com Estados estrangeiros e acreditar representantes diplomáticos, celebrar tratados, sujeitos a referendo do Congresso, declarar guerra, autorizada ou referendada pelo Congresso, decretar mobilização, celebrar a paz, também com autorização ou referendo, e permitir o trânsito ou a permanência de forças estrangeiras, nos casos de lei complementar.
+THALITA: Eu lembro que tratado precisa do Congresso. É autorização antes ou referendo depois?
+FRANCISCA: Para tratados, o artigo oitenta e quatro fala em referendo, e o Congresso resolve definitivamente, pelo artigo quarenta e nove. Já para guerra e paz, o Presidente declara com autorização ou referendo do Congresso.
+BRUNO: Na defesa e nas crises: decretar estado de defesa e de sítio, decretar e executar a intervenção federal, exercer o comando supremo das Forças Armadas, convocar e presidir os Conselhos da República e de Defesa Nacional, e, desde a Emenda cento e nove, propor ao Congresso o estado de calamidade pública de âmbito nacional.
+== SLIDE: Nomeações e atribuições delegáveis
+* Nomeações com aprovação do Senado: STF, tribunais superiores, PGR, Banco Central
+* Indulto e comutação de penas
+* Delegáveis: incisos seis, doze e vinte e cinco, primeira parte
+* Destinatários: Ministros, PGR e AGU
+* Decreto autônomo: sem aumento de despesa nem criação de órgão
+THALITA: E as nomeações? Quais precisam de aprovação do Senado?
+FRANCISCA: Pelo inciso quatorze: Ministros do STF e dos Tribunais Superiores, Procurador-Geral da República, presidente e diretores do Banco Central, Governadores de Territórios, entre outros. Os Ministros do TCU, em parte, no artigo setenta e três. Também nomeia magistrados nos casos previstos e o Advogado-Geral da União. Os Ministros de Estado são de livre nomeação, sem sabatina.
+ANTONIO: Outras atribuições: remeter mensagem e plano de governo na abertura da sessão legislativa, conceder indulto e comutar penas, e conferir condecorações e distinções honoríficas.
+BRUNO: Agora o ponto que mais cai: as atribuições delegáveis, do parágrafo único do artigo oitenta e quatro. Só três: o inciso seis, o inciso doze e o inciso vinte e cinco, na primeira parte. E só podem receber a delegação os Ministros de Estado, o Procurador-Geral da República e o Advogado-Geral da União.
+THALITA: Macete: seis, doze, vinte e cinco, e só MPA: Ministros, PGR e AGU.
+FRANCISCA: Isso. No inciso seis, alínea a, o Presidente dispõe por decreto sobre organização e funcionamento da administração federal, desde que não aumente despesa nem crie ou extinga órgãos. Na alínea b, extingue por decreto funções ou cargos públicos, mas somente quando vagos.
+BRUNO: O inciso doze é conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei. E o inciso vinte e cinco, primeira parte, é prover cargos públicos federais; a segunda parte, que é extinguir, não é delegável por esse parágrafo.
+ANTONIO: Pegadinhas: a FCC inclui entre os delegáveis o inciso um, nomear Ministros, o vinte e seis, editar medidas provisórias, ou o quatro, sancionar leis. Todos indelegáveis. E o Vice-Presidente, o Presidente do STF e os Presidentes das Casas não recebem delegação.
+== SLIDE: Responsabilidade do Presidente: artigos oitenta e cinco e oitenta e seis
+* Crimes de responsabilidade: infrações político-administrativas
+* Definição e rito: lei especial (SV 46)
+* Admissibilidade: dois terços da Câmara
+* Infração comum: STF; crime de responsabilidade: Senado
+* Afastamento por cento e oitenta dias
+FRANCISCA: Os crimes de responsabilidade são infrações político-administrativas. O artigo oitenta e cinco lista, de forma exemplificativa, os atos que atentam contra a existência da União, o livre exercício dos Poderes, os direitos políticos, individuais e sociais, a segurança interna, a probidade na administração, a lei orçamentária e o cumprimento das leis e decisões judiciais.
+THALITA: E quem define esses crimes?
+BRUNO: Lei especial da União. A Súmula Vinculante quarenta e seis diz que a definição e as normas de processo e julgamento são de competência legislativa privativa da União. Constituição estadual não pode criar tipos nem rito próprio.
+ANTONIO: O artigo oitenta e seis: admitida a acusação por dois terços da Câmara, o Presidente é julgado pelo STF, nas infrações penais comuns, ou pelo Senado, nos crimes de responsabilidade. A Câmara faz juízo político de admissibilidade, com dois terços dos membros, ou seja, trezentos e quarenta e dois de quinhentos e treze.
+FRANCISCA: A suspensão das funções ocorre, na infração comum, quando o STF recebe a denúncia ou queixa, e, no crime de responsabilidade, após a instauração do processo pelo Senado. O afastamento dura até cento e oitenta dias. Vencido o prazo sem julgamento, cessa o afastamento e o processo prossegue.
+THALITA: E para condenar?
+BRUNO: No Senado, dois terços, sob a presidência do Presidente do STF. A sanção é perda do cargo, com inabilitação para função pública por oito anos, sem prejuízo de outras sanções. No STF, a condenação segue a maioria, conforme o regimento, com pena criminal.
+FRANCISCA: Na ADPF trezentos e setenta e oito, o STF decidiu que o Senado não fica vinculado à admissão pela Câmara: faz juízo próprio de instauração, por maioria simples.
+THALITA: Resumindo para a prova: a Câmara admite a acusação com dois terços, o Senado instaura o processo por maioria simples e condena com dois terços, sob a presidência do Presidente do STF. E o afastamento dura no máximo cento e oitenta dias. Está certo?
+== SLIDE: Imunidades, Ministros e Conselhos
+* Imunidade à prisão nas infrações comuns, até sentença condenatória
+* Irresponsabilidade relativa: atos estranhos ao mandato
+* Ministros: brasileiros maiores de vinte e um anos; Defesa: nato
+* Conselho da República: seis cidadãos; Defesa: militares
+ANTONIO: As imunidades do Presidente são exclusivas dele, como chefe de Estado. Primeira: não pode ser preso nas infrações comuns enquanto não sobrevier sentença condenatória. Nem em flagrante, nem preventiva nem temporária. Segunda: na vigência do mandato, não pode ser responsabilizado por atos estranhos ao exercício das funções. É temporária: depois do mandato, responde normalmente, e a prescrição fica suspensa.
+BRUNO: Importante: o STF declarou inconstitucionais normas de Constituições estaduais que estendiam essas imunidades aos Governadores e exigiam autorização prévia da Assembleia para processá-los por crime comum.
+THALITA: Passando aos Ministros de Estado?
+FRANCISCA: Podem ser brasileiros, natos ou naturalizados, maiores de vinte e um anos e no exercício dos direitos políticos. A exceção é o Ministro da Defesa, que deve ser brasileiro nato. A nomeação e a exoneração são livres, sem sabatina. Cabe a eles orientar, coordenar e supervisionar os órgãos de sua área, referendar atos e decretos do Presidente, expedir instruções, apresentar relatório anual e praticar atos delegados.
+BRUNO: A criação e extinção de Ministérios é por lei, de iniciativa privativa do Presidente. Quem julga os Ministros nos crimes comuns e de responsabilidade é o STF; se o crime de responsabilidade for conexo com o do Presidente, o julgamento é do Senado.
+ANTONIO: Os órgãos consultivos, de pareceres não vinculantes. O Conselho da República é o órgão superior de consulta, com o Vice-Presidente, os Presidentes da Câmara e do Senado, os líderes da maioria e da minoria nas duas Casas, o Ministro da Justiça e seis cidadãos natos, maiores de trinta e cinco anos, com mandato de três anos, vedada a recondução: dois nomeados pelo Presidente, dois eleitos pelo Senado e dois pela Câmara.
+THALITA: E o Conselho de Defesa Nacional?
+FRANCISCA: É o órgão de consulta em soberania e defesa. Tem o Vice-Presidente, os Presidentes da Câmara e do Senado, o Ministro da Justiça, os Ministros da Defesa, das Relações Exteriores e do Planejamento, e os Comandantes da Marinha, do Exército e da Aeronáutica. Opina sobre guerra e paz, estado de defesa, de sítio, intervenção e uso da faixa de fronteira.
+THALITA: Macete para fechar: só o Conselho da República tem cidadãos natos e líderes partidários; só o de Defesa tem militares e opina sobre guerra, paz e faixa de fronteira. E os pareceres dos dois são opinativos, não vinculam o Presidente.
+ANTONIO: Muito bem. No próximo tema, vamos ao Poder Legislativo, com o processo legislativo, nos artigos cinquenta e nove a sessenta e nove.
