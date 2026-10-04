@@ -1,0 +1,71 @@
+SEGMENTO s099
+== SLIDE: Sanções do artigo 12 e medidas cautelares
+* Sanções isoladas ou cumuladas; execução só após trânsito em julgado
+* Art. 9º: suspensão até 14 anos; art. 10: até 12 anos; art. 11: não há
+* Multa: acréscimo, dano, ou até 24 vezes a remuneração (art. 11)
+* Indisponibilidade: só o ressarcimento; não alcança multa
+* Afastamento cautelar: 90 dias + 90, com remuneração
+ANTONIO: Já sabemos quem pratica improbidade e quais são os tipos. Agora, o que acontece com quem é condenado? As sanções estão no artigo doze, e podem ser aplicadas isolada ou cumulativamente, conforme a gravidade.
+THALITA: Então vamos aos números, porque é aí que eu erro.
+BRUNO: Os números que importam: suspensão de direitos políticos até catorze anos no artigo nono e até doze anos no artigo dez. No artigo onze não há suspensão de direitos políticos nem perda da função pública.
+FRANCISCA: A multa civil muda por tipo. No nono, é equivalente ao valor do acréscimo patrimonial. No dez, equivalente ao valor do dano. No onze, até vinte e quatro vezes a remuneração do agente.
+ANTONIO: A proibição de contratar e de receber benefícios ou incentivos fiscais e creditícios é de até catorze anos no nono, até doze no dez e até quatro anos no onze. Perda da função pública vale para o nono e o dez.
+THALITA: Macete: quatorze, doze, e o onze fica de fora da suspensão. E a palavra é até, não existe mínimo.
+BRUNO: Exatamente. A pegadinha é a FCC usar os patamares antigos, de oito a dez, cinco a oito e três a cinco anos, ou multa de até cem vezes a remuneração. Ou atribuir suspensão de direitos políticos ao artigo onze. Tudo errado hoje. E perda da função e suspensão dos direitos políticos só se efetivam com o trânsito em julgado.
+FRANCISCA: Algumas regras complementares. A multa ineficaz pode ser elevada até o dobro. Para a pessoa jurídica, consideram-se os efeitos sociais e econômicos, para viabilizar a continuidade da empresa. Se a ofensa for menor, a sanção pode ficar só na multa, sem prejuízo do ressarcimento. E as sanções independem de aprovação ou rejeição de contas pelo Tribunal de Contas.
+ANTONIO: Um alerta importante: na ADI sete mil duzentos e trinta e seis, o relator suspendeu cautelarmente vários dispositivos, entre eles o parágrafo oitavo do artigo primeiro. Confira o julgamento de mérito antes da prova.
+FRANCISCA: Quanto às cautelares, a indisponibilidade de bens exige perigo de dano irreparável ou risco ao resultado útil do processo e também a probabilidade dos atos imputados. O réu é ouvido em cinco dias, salvo se o contraditório prévio frustrar a medida.
+BRUNO: A indisponibilidade só alcança o necessário ao ressarcimento do dano. Não abrange o valor da multa civil. E são impenhoráveis, para esse fim, até quarenta salários mínimos em poupança ou conta, além do bem de família, salvo se adquirido com vantagem indevida do artigo nono.
+FRANCISCA: Já o afastamento cautelar, com remuneração, pode durar até noventa dias, prorrogável uma vez por igual prazo.
+THALITA: Noventa mais noventa, com salário. Anotado.
+
+== SLIDE: Ação de improbidade e acordo de não persecução civil
+* Ação repressiva, rito comum do CPC; não serve para políticas públicas
+* ADIs 7042 e 7043: legitimidade do MP e da pessoa jurídica lesada
+* Revelia sem presunção de veracidade; sem inversão do ônus; sem remessa necessária
+* ANPC (art. 17-B): ressarcimento integral e reversão da vantagem
+* Homologação judicial sempre; descumprimento veda novo acordo por 5 anos
+ANTONIO: A ação de improbidade tem natureza repressiva e sancionatória. Segue o procedimento comum do Código de Processo Civil. Não serve para controlar políticas públicas nem para defender interesses difusos, e o foro é o local do dano ou da pessoa jurídica prejudicada, sem foro por prerrogativa.
+THALITA: E quem pode propor? Não era só o Ministério Público?
+FRANCISCA: A Lei catorze mil duzentos e trinta deu a legitimidade só ao Ministério Público. Mas o Supremo, nas ADIs sete mil e quarenta e dois e sete mil e quarenta e três, restabeleceu a legitimidade concorrente da pessoa jurídica interessada, inclusive para o acordo de não persecução civil.
+BRUNO: O Supremo também afastou a obrigatoriedade de a assessoria jurídica que emitiu o parecer defender o agente. Só se lei específica autorizar. E guarde as garantias do réu: a revelia não gera presunção de veracidade, não há inversão do ônus da prova e não há remessa necessária.
+FRANCISCA: Outro ponto: o juiz deve indicar com precisão o tipo imputado, e é vedado condenar por tipo diverso do descrito na petição inicial.
+ANTONIO: Falemos do acordo de não persecução civil, no artigo dezessete-B. Os resultados mínimos são o ressarcimento integral do dano e a reversão à pessoa jurídica lesada da vantagem indevida.
+THALITA: E quais os requisitos para o acordo valer?
+FRANCISCA: São cumulativos: oitiva do ente lesado; aprovação pelo órgão do Ministério Público competente para homologar arquivamentos, em até sessenta dias, quando for pré-processual; e homologação judicial, sempre.
+BRUNO: O acordo pode ser feito durante a investigação, no curso da ação ou na fase de execução da sentença. Se houver descumprimento, o investigado fica impedido de novo acordo por cinco anos, contados do conhecimento do descumprimento pelo Ministério Público.
+ANTONIO: A oitiva do Tribunal de Contas para calcular o dano, em noventa dias, foi suspensa na ADI sete mil duzentos e trinta e seis.
+THALITA: Resumo: acordo exige devolver tudo, ouvir o ente lesado e ter homologação do juiz. Quebrou, cinco anos sem acordo.
+
+== SLIDE: Prescrição da improbidade
+* Prazo geral: 8 anos do fato; infração permanente, da cessação
+* Inquérito civil suspende até 180 dias; concluído em 365 dias
+* Interrupção: ajuizamento, sentença condenatória, acórdão confirmatório
+* Intercorrente: recomeça pela metade, 4 anos
+* Ressarcimento por ato doloso: imprescritível, Tema 897 STF
+ANTONIO: Falta a prescrição, no artigo vinte e três. O prazo geral é de oito anos, contados do fato. Se a infração é permanente, conta-se do dia em que cessou a permanência.
+FRANCISCA: A instauração de inquérito civil ou de processo administrativo suspende a prescrição por até cento e oitenta dias. O inquérito civil deve ser concluído em trezentos e sessenta e cinco dias, prorrogável uma vez. Depois disso, se não for arquivado, a ação deve ser ajuizada em trinta dias.
+THALITA: E o que interrompe a prescrição?
+BRUNO: Três coisas: o ajuizamento da ação, a sentença condenatória e o acórdão de tribunal de justiça, tribunal regional federal, Superior Tribunal de Justiça ou Supremo que confirme condenação ou reforme sentença de improcedência.
+ANTONIO: Interrompido o prazo, ele recomeça pela metade, ou seja, quatro anos. É a prescrição intercorrente, que pode ser reconhecida de ofício, ouvido o Ministério Público.
+FRANCISCA: Um exemplo. O fato ocorreu em dez de março de dois mil e vinte e dois e a ação foi ajuizada em cinco de fevereiro de dois mil e trinta, dentro dos oito anos, o que interrompe. Se a sentença condenatória não for publicada até cinco de fevereiro de dois mil e trinta e quatro, ocorre a prescrição intercorrente.
+THALITA: E o ressarcimento? Prescreve também?
+BRUNO: Não, se fundado em ato doloso de improbidade. É imprescritível, segundo o Tema oitocentos e noventa e sete do Supremo e o artigo trinta e sete, parágrafo quinto, da Constituição. A banca gosta de dizer que tudo prescreve em oito anos. Errado quanto ao ressarcimento doloso.
+FRANCISCA: E lembre do Tema mil cento e noventa e nove: o novo regime de prescrição não retroage.
+
+== SLIDE: Resumo relâmpago da aula e despedida
+* Jurisdição una; juiz anula, não revoga, e não troca o mérito
+* MS 120 dias; ação popular só cidadão; ACP instituições
+* Improbidade só dolosa; art. 9º ganha, 10 perde, 11 viola o dever
+* Suspensão até 14 e 12 anos; art. 11 sem suspensão
+* Prescrição de 8 anos; ressarcimento doloso imprescritível
+THALITA: Hora do resumo relâmpago do que mais cai na FCC. Primeiro, controle judicial: jurisdição una, o juiz controla legalidade, anula e nunca revoga, e não substitui a conveniência do administrador.
+BRUNO: Corrigindo um detalhe: a correção de prova de concurso também só entra em caso de flagrante ilegalidade ou incompatibilidade com o edital. O resto você acertou.
+THALITA: Verdade, obrigada. Segundo, as ações: mandado de segurança tem decadência de cento e vinte dias, ação popular é só do cidadão, e ação civil pública é de instituições, com associação de um ano.
+FRANCISCA: E lembre do habeas data com prova da recusa administrativa, e do mandado de injunção para falta de norma regulamentadora.
+THALITA: Terceiro, improbidade: só dolosa, depois da Lei catorze mil duzentos e trinta. Artigo nono, quem ganha. Artigo dez, quem faz o erário perder, com dano efetivo. Artigo onze, quem viola o dever listado, com rol taxativo.
+ANTONIO: Muito bem. E o Tema mil cento e noventa e nove?
+THALITA: Coisa julgada fica, processo em curso se examina o dolo e prescrição nova não retroage.
+BRUNO: Sanções: suspensão até catorze anos no nono e até doze no dez, e nada no onze. Quem falar em patamares antigos errou.
+THALITA: Por fim, prescrição de oito anos, intercorrente de quatro, e ressarcimento doloso nunca prescreve.
+ANTONIO: Aula encerrada, pessoal. Revisem os quadros e bons estudos, até a próxima aula!
