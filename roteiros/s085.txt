@@ -1,0 +1,141 @@
+SEGMENTO s085
+== SLIDE: Boas-vindas e poder hierárquico
+* Aula 25: poderes administrativos, deveres, abuso de poder e Lei 13.869/2019
+* Poderes-deveres: instrumentais e irrenunciáveis
+* Hierarquia só dentro da mesma pessoa jurídica
+* Ordenar, fiscalizar, rever, delegar, avocar e dirimir conflitos
+* Ordem manifestamente ilegal não se cumpre (art. 116, IV, Lei 8.112)
+ANTONIO: Olá, boas-vindas à aula vinte e cinco de Direito Administrativo, a segunda e última parte do bloco sobre regime jurídico, princípios e poderes. Hoje vamos estudar os poderes administrativos, depois os deveres do administrador, o uso e o abuso do poder e a Lei treze mil oitocentos e sessenta e nove, de dois mil e dezenove, e fechamos com questões comentadas no estilo FCC. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora, e trago a lei e a jurisprudência.
+BRUNO: Eu sou o Bruno, especialista em FCC, e mostro como a banca cobra.
+THALITA: E eu sou a Thalita, concurseira, e vou perguntar o que você perguntaria.
+ANTONIO: Ideia central: os poderes administrativos são instrumentais. Existem para realizar o interesse público, por isso são poderes-deveres, irrenunciáveis.
+THALITA: Poder-dever... então a autoridade não pode simplesmente dizer que não quer usar o poder?
+FRANCISCA: Não pode. Havendo situação que exija atuação, ela deve agir. Veremos isso mais adiante, no dever de agir.
+ANTONIO: Começamos pelo poder hierárquico: é o poder de distribuir e escalonar funções entre os órgãos de uma mesma pessoa jurídica, ordenando e revendo a atuação dos subordinados.
+BRUNO: Palavra-chave: mesma pessoa jurídica. Não há hierarquia entre a Administração direta e a indireta, só vinculação. Também não há entre Poderes, nem no exercício de funções típicas jurisdicionais e legislativas.
+THALITA: Então entre a União e uma autarquia dela não tem hierarquia? Tem o quê?
+FRANCISCA: Vinculação. Hierarquia é escalonamento dentro da mesma pessoa jurídica.
+ANTONIO: As faculdades do poder hierárquico. Dar ordens, que o subordinado cumpre, salvo se manifestamente ilegais, artigo cento e dezesseis, inciso quatro, da Lei oito mil cento e doze. Fiscalizar, acompanhando permanentemente. Rever, anulando ou revogando atos, de ofício ou por recurso hierárquico.
+FRANCISCA: E delegar, transferindo temporariamente o exercício de parte da competência; avocar, chamando para si, temporariamente, competência do subordinado; e dirimir conflitos de competência, positivos ou negativos, entre órgãos subordinados.
+THALITA: Macete: ordenar, fiscalizar, rever, delegar, avocar e dirimir conflitos.
+BRUNO: E a pegadinha: ordem manifestamente ilegal não se cumpre.
+== SLIDE: Delegação e avocação na Lei 9.784/1999
+* Competência irrenunciável, salvo delegação e avocação (art. 11)
+* Delegação não exige hierarquia (art. 12)
+* Indelegáveis: CE-NO-RA (art. 13)
+* Delegado responde pelo ato; Súmula 510 do STF
+* Avocação: excepcional, temporária, só de órgão inferior (art. 15)
+ANTONIO: Agora a delegação e a avocação na Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove, artigos onze a dezessete. Regra de partida, artigo onze: a competência é irrenunciável e exercida pelos órgãos a que foi atribuída como própria, salvo delegação e avocação legalmente admitidas.
+FRANCISCA: O artigo doze: o órgão e seu titular, se não houver impedimento legal, podem delegar parte da competência, inclusive a quem não lhes é hierarquicamente subordinado, quando for conveniente por razões técnicas, sociais, econômicas, jurídicas ou territoriais. Vale também para colegiados em favor dos respectivos presidentes.
+THALITA: Espera: delegar para quem não é subordinado? Achei que só descia a hierarquia.
+BRUNO: Essa é a pegadinha. Delegação não exige hierarquia. Só a avocação exige.
+ANTONIO: O artigo treze lista o que não se delega: edição de atos de caráter normativo, decisão de recursos administrativos e matérias de competência exclusiva do órgão ou autoridade.
+THALITA: Eu guardo assim: CE, NO, RA. Competência Exclusiva, atos Normativos, Recursos Administrativos.
+BRUNO: Ótimo macete, pode usar.
+FRANCISCA: Forma, artigo catorze: o ato de delegação e sua revogação devem ser publicados no meio oficial. O ato especifica matérias, poderes, limites, duração e objetivos, e pode conter ressalva de exercício da atribuição delegada.
+ANTONIO: A delegação é revogável a qualquer tempo pelo delegante. E os atos praticados por delegação devem mencionar essa condição e consideram-se editados pelo delegado.
+FRANCISCA: Por isso a Súmula quinhentos e dez do STF: praticado o ato por autoridade no exercício de competência delegada, contra ela, o delegado, cabe o mandado de segurança ou a medida judicial.
+THALITA: Então quem responde é o delegado, não o delegante.
+BRUNO: Isso. Cai muito.
+ANTONIO: Avocação, artigo quinze: permitida em caráter excepcional e temporário, por motivos relevantes devidamente justificados, de competência de órgão hierarquicamente inferior. E o artigo dezessete traz a competência residual: se não houver competência legal específica, o processo começa perante a autoridade de menor grau hierárquico para decidir.
+== SLIDE: Delegação x avocação e delegação do Presidente
+* Delegação: desce, ou vai a órgão não subordinado; avocação: só de inferior
+* Delegação: revogável a qualquer tempo; avocação: excepcional
+* Responsável: delegado na delegação; avocante na avocação
+* Art. 84, parágrafo único: só os incisos VI, XII e XXV (1ª parte)
+THALITA: Fazendo a tabelinha de comparação. Delegação desce, e pode ir até para órgão não subordinado. Avocação sobe, só de órgão inferior.
+ANTONIO: Exato. A delegação é temporária, parcial e revogável a qualquer tempo. A avocação é excepcional e temporária.
+FRANCISCA: A justificativa da delegação é a conveniência, por razões técnicas, sociais, econômicas, jurídicas ou territoriais. Na avocação, são motivos relevantes devidamente justificados.
+BRUNO: E o responsável pelo ato: na delegação, o delegado; na avocação, o avocante.
+THALITA: Eu chutaria que o responsável é sempre quem delegou.
+BRUNO: Errou. O delegado responde na delegação. Essa troca a banca adora.
+FRANCISCA: Um exemplo prático: o titular de um órgão, por razões técnicas, delega parte da competência a outro órgão sem subordinação. Pode, e o ato precisa mencionar que foi editado por delegação.
+ANTONIO: Agora uma pegadinha de prova sobre delegação pelo Presidente da República, parágrafo único do artigo oitenta e quatro da Constituição.
+FRANCISCA: Podem ser delegadas aos Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União apenas as atribuições dos incisos seis, o decreto autônomo; doze, indulto e comutação de penas; e vinte e cinco, primeira parte, prover cargos públicos federais.
+BRUNO: A FCC costuma incluir indevidamente o inciso quatro, o regulamento de execução, que é indelegável.
+THALITA: Macete: seis, doze e vinte e cinco primeira parte. Quatro, não.
+== SLIDE: Poder disciplinar
+* Pune servidores e quem tem vínculo especial (supremacia especial)
+* Dever de apurar (art. 143, Lei 8.112); omissão: art. 320 do CP
+* Discricionariedade limitada; motivação obrigatória
+* Defesa técnica por advogado no PAD não é obrigatória (SV 5)
+* Instâncias independentes, salvo inexistência do fato ou negativa de autoria
+ANTONIO: O poder disciplinar permite à Administração apurar infrações e aplicar penalidades a servidores e a demais pessoas sujeitas à disciplina administrativa por vínculo especial, como contratados da Administração, estudantes de escola pública e concessionários.
+THALITA: E o particular qualquer? Se ele comete uma infração?
+FRANCISCA: Sem vínculo especial, incide o poder de polícia, não o disciplinar. O fundamento aqui é a supremacia especial; na polícia, a supremacia geral.
+BRUNO: O dever de apurar é obrigatório: a autoridade que tem ciência de irregularidade deve promover a apuração imediata, artigo cento e quarenta e três da Lei oito mil cento e doze. Omitir-se pode configurar condescendência criminosa, artigo trezentos e vinte do Código Penal.
+THALITA: Então a discricionariedade é total para punir ou não?
+ANTONIO: Não. É limitada. Comprovada a falta, não há escolha entre punir ou não punir. Pode haver margem na gradação da pena, quando a lei usa conceitos abertos, observados os critérios do artigo cento e vinte e oito da Lei oito mil cento e doze.
+FRANCISCA: A motivação é obrigatória, artigo cinquenta, inciso dois, da Lei nove mil setecentos e oitenta e quatro, e artigo cento e vinte e oito, parágrafo único, da Lei oito mil cento e doze. Garantias: contraditório e ampla defesa, artigo quinto, inciso cinquenta e cinco.
+BRUNO: E a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição. É a Súmula Vinculante cinco.
+THALITA: Macete: no processo disciplinar, contraditório sim, advogado obrigatório não.
+FRANCISCA: Independência das instâncias: a sanção administrativa independe da penal e da civil, salvo absolvição criminal por inexistência do fato ou negativa de autoria, artigo cento e vinte e seis da Lei oito mil cento e doze.
+ANTONIO: Comparando: o hierárquico organiza e revê a atuação interna, para órgãos e agentes subordinados. O disciplinar pune infrações funcionais, de servidores e de particulares com vínculo especial.
+BRUNO: Atenção: o disciplinar decorre do hierárquico quando aplicado a servidores, mas não se confunde com ele. E também não se confunde com o poder punitivo penal: a Administração não aplica pena criminal.
+== SLIDE: Poder regulamentar: decreto executivo e autônomo
+* Executivo: art. 84, IV; detalha a lei; não inova; indelegável
+* Autônomo: art. 84, VI (EC 32/2001); ato primário; delegável
+* Autônomo: sem aumento de despesa, sem criar ou extinguir órgãos
+* Extingue só cargo vago; criar cargo exige lei
+ANTONIO: O poder regulamentar é a prerrogativa do Chefe do Executivo de editar atos gerais e abstratos para dar fiel execução às leis. No sentido amplo, poder normativo, abrange também resoluções, portarias, instruções normativas e regulamentos técnicos de agências reguladoras.
+THALITA: Então decreto é sempre igual?
+FRANCISCA: Não, há dois. O decreto executivo, do artigo oitenta e quatro, inciso quatro, detalha a lei para sua fiel execução. Não inova na ordem jurídica; é infralegal.
+BRUNO: O decreto autônomo, artigo oitenta e quatro, inciso seis, trazido pela Emenda Constitucional trinta e dois, de dois mil e um, dispõe diretamente sobre matérias específicas, sem lei intermediária. É ato primário.
+THALITA: Quais matérias?
+ANTONIO: Duas. Primeira, organização e funcionamento da administração federal, sem aumento de despesa e sem criação ou extinção de órgãos. Segunda, extinção de funções ou cargos públicos quando vagos.
+FRANCISCA: Quanto à delegação: o executivo não é delegável; o autônomo é, a Ministros, ao Procurador-Geral da República e ao Advogado-Geral da União.
+BRUNO: Controle: o Congresso susta atos que exorbitem do poder regulamentar, artigo quarenta e nove, inciso cinco, além do controle de legalidade pelo Judiciário. O autônomo tem controle de constitucionalidade, por ser ato primário.
+THALITA: Então se o decreto executivo extrapola a lei, é ilegal; se o autônomo extrapola a Constituição, é inconstitucional.
+ANTONIO: Perfeito. Pegadinhas do decreto autônomo: não pode criar nem extinguir órgão; só extingue cargo vago, e cargo ocupado só por lei; não pode gerar aumento de despesa; e criar cargo público exige lei.
+BRUNO: E a FCC também diz que o decreto executivo pode inovar para suprir lacuna. Errado.
+THALITA: Macete: executivo detalha, autônomo inova, mas só em dois casos.
+== SLIDE: Poder de polícia: conceito e atributos
+* Conceito: art. 78 do CTN; fato gerador de taxa (art. 145, II, CF)
+* Regular: órgão competente, limites da lei, processo legal, sem desvio
+* Discricionariedade: licença é vinculada; autorização é discricionária
+* Autoexecutoriedade: exigibilidade e executoriedade
+* Coercibilidade: imposição com força proporcional
+ANTONIO: Poder de polícia. O conceito está no artigo setenta e oito do Código Tributário Nacional, porque o seu exercício é fato gerador de taxa, artigo cento e quarenta e cinco, inciso dois, da Constituição.
+FRANCISCA: Em paráfrase: atividade administrativa que limita ou disciplina direito, interesse ou liberdade, regulando a prática de ato ou a abstenção de fato, em razão do interesse público ligado a segurança, higiene, ordem, costumes, produção e mercado, atividades econômicas dependentes de autorização, tranquilidade pública ou respeito à propriedade e aos direitos individuais ou coletivos.
+THALITA: Nossa. E quando o exercício é regular?
+BRUNO: O parágrafo único responde: quando exercido pelo órgão competente, nos limites da lei, com observância do processo legal e, se a atividade for discricionária, sem abuso ou desvio de poder.
+ANTONIO: Atributos. Discricionariedade: margem de escolha quanto a momento, meio e intensidade da atuação. Mas nem sempre: a licença é ato vinculado, e a autorização é discricionária.
+THALITA: Licença vinculada, autorização discricionária. Anotei.
+FRANCISCA: Autoexecutoriedade: a Administração executa suas decisões sem prévia ordem judicial. Desdobra-se em exigibilidade, por meios indiretos, como a multa, e executoriedade, por meios diretos, como demolição ou apreensão.
+BRUNO: Ressalva: não está presente em todos os atos. A cobrança forçada da multa depende de execução fiscal.
+ANTONIO: Terceiro atributo, coercibilidade, ou imperatividade: impõe-se ao particular independentemente da concordância dele, admitido o uso da força proporcional.
+THALITA: Macete: discricionária, autoexecutória e coercível; mas licença é vinculada e multa precisa de execução fiscal.
+== SLIDE: Ciclo de polícia e delegação (Tema 532)
+* Ciclo: ordem, consentimento, fiscalização e sanção
+* Ordem de polícia: não delegável a estatal de direito privado
+* Tema 532 STF: delegação por lei, capital majoritariamente público
+* Serviço público próprio do Estado, em regime não concorrencial
+* Particular sem vínculo: só atos materiais de apoio
+ANTONIO: O ciclo de polícia tem quatro fases: ordem, consentimento, fiscalização e sanção.
+FRANCISCA: Ordem de polícia é a norma que estabelece limites, lei e regulamento, como o Código de Trânsito fixando limite de velocidade. Consentimento é a anuência prévia, licença ou autorização, como a emissão da carteira de habilitação.
+BRUNO: Fiscalização verifica o cumprimento: radar e blitz. Sanção aplica penalidade: multa de trânsito.
+THALITA: E o que dá para delegar a empresa estatal de direito privado?
+FRANCISCA: Pelo Tema quinhentos e trinta e dois do STF, recurso extraordinário seiscentos e trinta e três mil setecentos e oitenta e dois, de dois mil e vinte: é constitucional delegar, por lei, o poder de polícia a pessoas jurídicas de direito privado da Administração indireta, com capital social majoritariamente público, que prestem exclusivamente serviço público de atuação própria do Estado, em regime não concorrencial.
+BRUNO: Fica excluída a ordem de polícia, a normatização. Consentimento, fiscalização e sanção podem ser delegados.
+THALITA: Então a ordem de polícia não se delega. Só as três últimas.
+ANTONIO: A tese superou a posição anterior do STJ, que só admitia delegar consentimento e fiscalização.
+BRUNO: Atenção: particulares sem vínculo estatal não recebem delegação do poder de polícia. Podem apenas executar atos materiais de apoio, como a empresa contratada que instala e opera o radar, enquanto a autuação cabe ao agente público.
+THALITA: Macete: ordem, não delega; consentimento, fiscalização e sanção, sim, mas só para estatal que presta serviço público em regime não concorrencial.
+== SLIDE: Polícia administrativa x judiciária e prescrição
+* Administrativa: ilícito administrativo, preventiva, recai sobre bens e atividades
+* Judiciária: ilícito penal, repressiva, recai sobre pessoas
+* Lei 9.873/1999: 5 anos; intercorrente: mais de 3 anos parado
+* Execução da multa: 5 anos (Súmula 467 do STJ)
+* Não se aplica a infração funcional nem a processo tributário
+ANTONIO: Polícia administrativa e polícia judiciária. A administrativa incide sobre ilícito administrativo, atua predominantemente de forma preventiva e recai sobre bens, direitos e atividades. É difusa: vigilância sanitária, trânsito, meio ambiente, Polícia Militar no policiamento ostensivo.
+FRANCISCA: A judiciária incide sobre ilícito penal, atua de forma repressiva, auxiliando a Justiça criminal, e recai sobre pessoas. É das corporações especializadas, Polícia Civil e Polícia Federal. O regime é o do Direito Processual Penal.
+THALITA: Macete: administrativa, bens e prevenção; judiciária, pessoas e repressão.
+BRUNO: Agora a prescrição da ação punitiva, Lei nove mil oitocentos e setenta e três, de mil novecentos e noventa e nove, no âmbito federal. Cinco anos da prática do ato; se a infração é permanente ou continuada, do dia em que cessou.
+FRANCISCA: Prescrição intercorrente: processo paralisado por mais de três anos, pendente de julgamento ou despacho. Se o fato também é crime, aplica-se o prazo da lei penal. Execução da multa: cinco anos da constituição definitiva do crédito não tributário.
+THALITA: E o que interrompe a prescrição?
+ANTONIO: Notificação ou citação do acusado, inclusive por edital; ato inequívoco de apuração do fato; decisão condenatória recorrível; e ato inequívoco de tentativa de solução conciliatória.
+BRUNO: A lei não se aplica a infrações de natureza funcional nem a processos de natureza tributária.
+FRANCISCA: Súmula quatrocentos e sessenta e sete do STJ: a pretensão de executar multa por infração ambiental prescreve em cinco anos, contados do término do processo administrativo. Para Estados e Municípios, o STJ não aplica a Lei nove mil oitocentos e setenta e três e recorre ao prazo quinquenal do Decreto vinte mil novecentos e dez, de mil novecentos e trinta e dois.
+THALITA: Cinco, três e cinco: prescrição da ação, intercorrente e execução da multa.
+ANTONIO: Perfeito. Agora vamos ver os deveres do administrador, o uso e o abuso do poder e a Lei de Abuso de Autoridade, que completam o quadro.
