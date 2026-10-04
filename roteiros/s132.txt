@@ -1,0 +1,146 @@
+SEGMENTO s132
+== SLIDE: Questão 1: conduta e penalidade
+* Saída sem autorização: advertência (art. 117, I)
+* Tarefa estranha ao cargo, rotina: suspensão (XVII)
+* Uso de pessoal ou material em atividade particular: demissão
+* Recusa em atualizar dados: advertência (XIX)
+* Atividade incompatível com o horário: suspensão (XVIII)
+* Gabarito: cê
+BRUNO: Pronto para treinar? Questão um, Analista Judiciário: qual correspondência entre conduta e penalidade está correta, segundo a Lei oito mil cento e doze?
+ANTONIO: A letra A: sair da repartição durante o expediente sem autorização do chefe, suspensão. A letra bê: atribuir a outro servidor, de forma rotineira e sem emergência, tarefa estranha ao cargo dele, advertência. A letra cê: utilizar funcionário e material da repartição em atividade particular, demissão. A letra dê: recusar-se a atualizar dados cadastrais, suspensão. E a letra E: exercer atividade incompatível com o horário de trabalho, demissão.
+THALITA: Pausa para você pensar! Eu aposto na letra E: atividade incompatível com o horário parece grave o bastante para demitir.
+FRANCISCA: Parece, mas o inciso dezoito do artigo cento e dezessete pune isso com suspensão, e não com demissão. A letra E está errada.
+BRUNO: A letra A erra porque sair sem autorização é a proibição do inciso um do artigo cento e dezessete, punida com advertência, no artigo cento e vinte e nove. A letra bê erra porque passar tarefa estranha ao cargo, de forma rotineira, é o inciso dezessete e leva à suspensão, no artigo cento e trinta. A letra dê erra porque a recusa em atualizar dados cadastrais é o inciso dezenove e leva à advertência.
+FRANCISCA: A letra cê é a correta: o uso de pessoal ou de material da repartição em atividade particular é o inciso dezesseis do artigo cento e dezessete, e o artigo cento e trinta e dois, inciso treze, manda demitir.
+ANTONIO: Gabarito: cê.
+THALITA: Macete: usou funcionário ou material da repartição para si, demissão. O resto é advertência ou suspensão.
+== SLIDE: Questão 2: abandono de cargo
+* Ausência intencional por mais de 30 dias consecutivos
+* Abandono: demissão (art. 132, II) por rito sumário (art. 140)
+* Comissão com 2 servidores estáveis (art. 133, I)
+* Inassiduidade: 60 dias interpolados em 12 meses
+* Cassação de aposentadoria: só para inativo
+* Gabarito: A
+FRANCISCA: Questão dois. Ana, servidora federal estável, deixou de comparecer por trinta e cinco dias consecutivos, com a intenção de não voltar, sem justificativa. O que a Administração deve fazer?
+BRUNO: A letra A: apurar o abandono de cargo por rito sumário, com comissão de dois servidores estáveis, cabendo demissão se confirmada. A letra bê: instaurar só sindicância, pois o abandono não admite demissão. A letra cê: instaurar PAD ordinário, sendo vedado o rito sumário. A letra dê: apurar inassiduidade habitual, caracterizada por ausência superior a trinta dias consecutivos. A letra E: aplicar direto a cassação de aposentadoria.
+ANTONIO: Pause e pense.
+THALITA: Eu marco a cê, porque demissão é pena grave e então precisa do processo completo.
+BRUNO: Boa lógica, mas errada. O abandono e a inassiduidade habitual são exatamente as hipóteses de rito sumário, no artigo cento e quarenta.
+FRANCISCA: A letra A é a correta: mais de trinta dias consecutivos com intenção de não voltar é abandono, do artigo cento e trinta e oito, causa de demissão do artigo cento e trinta e dois, inciso dois, apurada pelo rito sumário com dois servidores estáveis.
+ANTONIO: A letra bê erra porque demissão só decorre de processo disciplinar, não de sindicância. A letra dê erra porque a inassiduidade habitual exige sessenta dias de faltas interpoladas em doze meses. A letra E erra porque cassação de aposentadoria é para o inativo, e Ana está em atividade.
+THALITA: Macete: trinta seguidos, abandono; sessenta no ano, inassiduidade. Gabarito: A!
+== SLIDE: Questão 3: prescrição disciplinar
+* Advertência prescreve em 180 dias; suspensão, em 2 anos
+* Prazo conta do conhecimento do fato (art. 142, §1º)
+* Sindicância punitiva ou PAD interrompem a prescrição
+* Infração também crime: prazos da lei penal (§2º)
+* Gabarito: E
+BRUNO: Questão três. Três afirmações sobre prescrição da pretensão punitiva. Afirmação um: a pretensão relativa à advertência prescreve em dois anos. Afirmação dois: o prazo começa a correr da data em que o fato se tornou conhecido, e a abertura de sindicância punitiva ou a instauração de PAD o interrompe até a decisão final. Afirmação três: quando a infração também é crime, aplicam-se os prazos da lei penal.
+FRANCISCA: As alternativas: A, só a um; bê, um e dois; cê, um e três; dê, só a dois; E, dois e três.
+THALITA: Pausa para pensar. Eu acho que as três são verdadeiras, então marco a E de tanto fazer conta.
+ANTONIO: Calma, Thalita. A afirmação um é falsa: a advertência prescreve em cento e oitenta dias, e dois anos é o prazo da suspensão, no artigo cento e quarenta e dois, incisos dois e três.
+FRANCISCA: A afirmação dois está certa, nos parágrafos primeiro e terceiro do artigo cento e quarenta e dois. A afirmação três também, no parágrafo segundo.
+BRUNO: Por isso a letra A, a bê e a cê erram, pois incluem a afirmação um. A dê erra porque a afirmação dois é correta, mas a três também, e dizer só a dois é incompleto.
+ANTONIO: Gabarito: E, as afirmações dois e três.
+THALITA: Então, eu acertei, mas pelo motivo errado. Anotei: advertência cento e oitenta dias, e eu não podia ter incluído a um!
+== SLIDE: Questão 4: sindicância
+* Sindicância: 30 dias, prorrogáveis por igual período
+* Resultados: arquivamento, advertência, suspensão até 30 dias, PAD
+* Demissão só decorre de PAD (art. 146)
+* Sindicância punitiva exige contraditório e ampla defesa
+* Não é etapa obrigatória (art. 143)
+* Gabarito: dê
+FRANCISCA: Questão quatro: sobre a sindicância no regime disciplinar, qual alternativa está correta?
+ANTONIO: A letra A: prazo de sessenta dias e suspensão de até noventa dias. A letra bê: pode resultar em demissão. A letra cê: dispensa sempre contraditório e ampla defesa. A letra dê: pode terminar em arquivamento, advertência, suspensão de até trinta dias ou instauração de PAD, com prazo de trinta dias, prorrogável por igual período. A letra E: é obrigatória em todos os casos, como etapa prévia.
+THALITA: Pausa para você pensar. Eu escolho a cê, porque sindicância é só preparatória e não tem acusado.
+BRUNO: Cuidado, Thalita. A sindicância de caráter punitivo, com acusado, exige contraditório e ampla defesa, no artigo cento e quarenta e três. Só a sindicância meramente investigativa é inquisitorial.
+FRANCISCA: A letra A troca os prazos: a sindicância dura trinta dias, prorrogáveis por igual período, e a suspensão que pode resultar dela é de até trinta dias, artigo cento e quarenta e cinco. A letra bê erra porque demissão só decorre de PAD, e se a pena puder passar de suspensão de trinta dias, o PAD é obrigatório, artigo cento e quarenta e seis.
+ANTONIO: A letra E erra porque a sindicância não é etapa obrigatória: a autoridade pode instaurar o PAD diretamente. A letra dê reproduz com fidelidade o artigo cento e quarenta e cinco e seu parágrafo único. Gabarito: dê.
+THALITA: Macete: sindicância, trinta mais trinta, e suspensão até trinta. Trinta é o número dela!
+== SLIDE: Questão 5: afastamento preventivo
+* Até 60 dias, prorrogáveis por igual prazo (art. 147)
+* Mantida a remuneração
+* Cessa ao final, mesmo sem fim do processo
+* Medida cautelar: não é pena e não se desconta
+* Decidido pela autoridade instauradora
+* Gabarito: bê
+BRUNO: Questão cinco. Tereza responde a PAD por suspeita de ocultar documentos da repartição, e a autoridade determinou seu afastamento para evitar interferência. O que diz a lei?
+THALITA: Eu li as alternativas e fiquei com pena da Tereza!
+FRANCISCA: A letra A: sem remuneração, por ser suspensão antecipada. A letra bê: até sessenta dias, prorrogável por igual prazo, com remuneração, e cessa ao fim do prazo ainda que o processo não esteja concluído. A letra cê: prorrogável quantas vezes forem necessárias. A letra dê: descontado como tempo de cumprimento da penalidade. A letra E: decidido pela comissão processante.
+ANTONIO: Pausa para você pensar.
+BRUNO: A letra A erra: o afastamento preventivo é cautelar e feito sem prejuízo da remuneração, artigo cento e quarenta e sete. A letra cê erra porque só há uma prorrogação, por igual prazo, e não renovações sucessivas.
+FRANCISCA: A letra dê erra porque o afastamento é medida cautelar, não pena, e não se computa como cumprimento de suspensão. A letra E erra porque quem determina é a autoridade instauradora, não a comissão.
+ANTONIO: Sobra a letra bê. Prazo de até sessenta dias, prorrogável por igual prazo, com remuneração, e findo o período cessam os efeitos mesmo sem o término do PAD. Gabarito: bê.
+THALITA: Macete: afastamento preventivo, sessenta mais sessenta, com salário, e acaba sozinho.
+== SLIDE: Questão 6: comissão do PAD
+* Três servidores estáveis, designados pela autoridade
+* Presidente indicado pela autoridade (art. 149)
+* Presidente: cargo igual, superior ou escolaridade igual ou maior
+* Impedidos: cônjuge, companheiro ou parente até o 3º grau
+* Reuniões e audiências reservadas (art. 150)
+* Gabarito: cê
+ANTONIO: Questão seis. Sobre a comissão do PAD, qual alternativa é correta?
+BRUNO: A letra A: três servidores, dois deles estáveis, e a própria comissão escolhe o presidente. A letra bê: dois servidores estáveis, com trinta dias para concluir. A letra cê: três servidores estáveis, designados pela autoridade, que indica o presidente, ocupante de cargo efetivo superior, de mesmo nível ou com escolaridade igual ou superior à do indiciado. A letra dê: pode ter parente colateral do acusado de terceiro grau, desde que não seja o presidente. A letra E: reuniões públicas.
+THALITA: Pause o vídeo e pense! Eu acho que a bê, porque dois servidores ficou na minha cabeça.
+FRANCISCA: Esse dois e trinta dias são do rito sumário, Thalita, do artigo cento e trinta e três, e não do PAD ordinário. Por isso a bê está errada.
+BRUNO: A letra A erra porque os três membros devem ser estáveis, e o presidente é indicado pela autoridade, não escolhido pela comissão, artigo cento e quarenta e nove. A letra dê erra porque não pode integrar a comissão cônjuge, companheiro ou parente do acusado, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau.
+FRANCISCA: A letra E erra porque as reuniões e audiências têm caráter reservado, no parágrafo único do artigo cento e cinquenta. A letra cê é a correta. Gabarito: cê.
+THALITA: Macete: PAD ordinário, três estáveis; rito sumário, dois estáveis.
+ANTONIO: E a regra de ouro: a comissão decide em reunião reservada.
+== SLIDE: Questão 7: citação por edital
+* Lugar incerto e não sabido: edital (art. 163)
+* Publicação no DOU e em jornal de grande circulação
+* Defesa de 15 dias, da última publicação
+* Prazo comum de 20 dias: dois ou mais indiciados
+* Revelia só após citação regular (art. 164)
+* Gabarito: E
+BRUNO: Questão sete. Márcio, indiciado, está em lugar incerto e não sabido. Como será citado?
+FRANCISCA: A letra A: por mandado, defesa de dez dias da expedição. A letra bê: por edital só no Diário Oficial da União, defesa de dez dias. A letra cê: por edital, com defesa de vinte dias, comum. A letra dê: revel desde logo, com defensor dativo. A letra E: por edital no Diário Oficial da União e em jornal de grande circulação da localidade do último domicílio conhecido, com quinze dias de defesa, da última publicação.
+ANTONIO: Pausa para pensar.
+THALITA: Parece que é a E, porque ela é a mais detalhada. Mas só quero ter certeza, vocês podem explicar as outras?
+BRUNO: Claro. A letra A erra porque a citação por mandado é a regra quando o indiciado é localizado, e em lugar incerto usa-se o edital, artigo cento e sessenta e três. A letra bê erra porque o edital é publicado também em jornal de grande circulação, e o prazo é de quinze dias, não dez.
+FRANCISCA: A letra cê erra porque o prazo comum de vinte dias vale para dois ou mais indiciados, artigo cento e sessenta e um, parágrafo segundo. A letra dê erra porque a revelia pressupõe citação regular e ausência de defesa no prazo, artigo cento e sessenta e quatro: não se declara revelia antes da citação.
+ANTONIO: A letra E corresponde ao artigo cento e sessenta e três e seu parágrafo único. Gabarito: E.
+== SLIDE: Questão 8: rito sumário
+* Três hipóteses: acumulação ilegal, abandono e inassiduidade
+* Comissão de 2 servidores estáveis
+* Prazo: 30 dias, prorrogáveis por até 15
+* Defesa: 5 dias
+* Má-fé na acumulação: demissão
+* Gabarito: A
+THALITA: Questão oito, sobre o rito sumário que acabamos de ver. Eu vou ler os itens com carinho!
+ANTONIO: A letra A: aplica-se à acumulação ilegal, ao abandono e à inassiduidade habitual, com comissão de dois servidores estáveis e prazo de trinta dias, prorrogável por até quinze. A letra bê: aplica-se também à insubordinação grave. A letra cê: comissão de três servidores estáveis e prazo de sessenta dias. A letra dê: defesa em dez dias. A letra E: se provada a má-fé, apenas se restituem os valores, sem demissão.
+BRUNO: Pausa para você pensar. Eu já aviso: essa é uma questão de eliminação, com a tabela na cabeça.
+FRANCISCA: A letra bê erra porque o rito sumário é restrito a acumulação ilegal, abandono e inassiduidade habitual. A letra cê troca as características: três servidores e sessenta dias são do PAD ordinário.
+BRUNO: A letra dê erra porque, no sumário, a defesa é de cinco dias. E a letra E erra porque a má-fé comprovada na acumulação ilegal conduz à demissão, destituição ou cassação, quanto aos vínculos acumulados ilegalmente.
+THALITA: Então a A é a correta, tudo certo: três hipóteses, dois servidores, trinta mais quinze!
+ANTONIO: Gabarito: A. Está no artigo cento e trinta e três, e vale também para abandono e inassiduidade, pelo artigo cento e quarenta.
+== SLIDE: Questão 9: revisão do processo
+* Revisão: a qualquer tempo (art. 174)
+* Exige fato novo ou circunstância nova
+* Ônus da prova: do requerente (art. 175)
+* Mera alegação de injustiça não basta (art. 176)
+* Nunca agrava a penalidade (art. 182)
+* Gabarito: dê
+FRANCISCA: Questão nove. Bruno foi punido com suspensão de trinta dias. Quatro anos depois, encontrou um documento desconhecido que prova sua inocência e pediu a revisão. O que diz a lei?
+BRUNO: A letra A: inadmissível, porque passaram dois anos. A letra bê: pode resultar em agravamento da penalidade. A letra cê: o ônus de provar a inocência é da Administração. A letra dê: admitida a qualquer tempo, diante de fato novo ou circunstância capaz de justificar a inocência ou a inadequação da pena, com ônus da prova do requerente e sem agravamento. A letra E: basta alegar que a pena foi injusta.
+ANTONIO: Pausa para você pensar.
+THALITA: Eu marco a A, porque dois anos é a prescrição da suspensão. Será que deu certo?
+FRANCISCA: Boa lembrança, mas a prescrição é da pretensão punitiva da Administração, não do direito do servidor pedir a revisão. A revisão pode ser pedida a qualquer tempo, artigo cento e setenta e quatro.
+BRUNO: A letra bê erra porque da revisão não pode resultar agravamento, parágrafo único do artigo cento e oitenta e dois. A letra cê erra porque o ônus da prova cabe ao requerente, artigo cento e setenta e cinco. A letra E erra porque a mera alegação de injustiça não basta, são necessários elementos novos, artigo cento e setenta e seis.
+ANTONIO: A letra dê resume os artigos cento e setenta e quatro, cento e setenta e cinco e cento e oitenta e dois, parágrafo único. Gabarito: dê.
+THALITA: Macete da revisão: seis, dois, N: sessenta dias da comissão, vinte do julgamento, não agrava.
+== SLIDE: Questão 10: absolvição criminal e esfera administrativa
+* Instâncias independentes (art. 125)
+* Art. 126: só inexistência do fato ou negativa de autoria afastam
+* Insuficiência de provas: não vincula a Administração
+* Sem dever de aguardar a esfera penal
+* Punição disciplinar independe de condenação criminal
+* Gabarito: B
+BRUNO: Questão dez, a última desta parte. João foi processado criminalmente pelos mesmos fatos que motivaram um PAD, e foi absolvido por insuficiência de provas. O que a Administração pode fazer?
+FRANCISCA: A letra A: deve arquivar o PAD, pois a absolvição penal afasta a responsabilidade administrativa em qualquer hipótese. A letra bê: pode prosseguir e, se for o caso, punir, porque só a absolvição que nega o fato ou a autoria afasta a responsabilidade administrativa. A letra cê: fica impedida de qualquer cobrança civil. A letra dê: deve suspender o PAD até o trânsito em julgado e acatar a sentença. A letra E: só pode punir se houver condenação criminal definitiva.
+ANTONIO: Pause e pense.
+THALITA: Eu estou entre a A e a bê. A A parece lógica, mas a regra é independência, né?
+FRANCISCA: Isso mesmo. O artigo cento e vinte e seis afasta a responsabilidade administrativa apenas quando a absolvição criminal nega a existência do fato ou a autoria. Por isso a letra A está errada.
+BRUNO: A letra bê é a correta: as instâncias são independentes, artigo cento e vinte e cinco, e a absolvição por insuficiência de provas não vincula a Administração. A letra cê erra porque as responsabilidades civil, penal e administrativa são cumuláveis. A letra dê erra porque não há dever de aguardar a esfera penal. A letra E erra porque a punição disciplinar independe de prévia condenação criminal.
+ANTONIO: Gabarito: bê. Na próxima parte, continuamos com mais questões comentadas para fechar a disciplina.
