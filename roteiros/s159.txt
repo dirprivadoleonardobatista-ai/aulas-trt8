@@ -1,0 +1,133 @@
+SEGMENTO s159
+== SLIDE: Como o salário deve ser pago
+* Periodicidade máxima mensal (art. 459), salvo comissões e gratificações
+* Salário mensal: até o 5º dia útil do mês seguinte
+* Moeda corrente; pagamento em desacordo é considerado não feito (art. 463)
+* Recibo assinado; depósito em conta com consentimento vale como recibo
+* Dia útil, local e horário de trabalho (art. 465); Súmula 381
+ANTONIO: Vimos o conceito de salário e as parcelas que o compõem. Agora, como ele deve ser pago e como a lei o protege. Primeira regra: a periodicidade. Pelo artigo quatrocentos e cinquenta e nove, o pagamento não pode ser superior a um mês, salvo comissões, percentagens e gratificações.
+THALITA: E o prazo? Todo mês é no dia trinta?
+FRANCISCA: Não. Para o salário mensal, o parágrafo primeiro fixa o pagamento até o quinto dia útil do mês subsequente ao vencido.
+BRUNO: Detalhe que a banca explora: é quinto dia útil, não quinto dia corrido. E sábado conta como dia útil para esse fim, na jurisprudência do TST. Mas na prova, o foco é a expressão "mês subsequente ao vencido".
+ANTONIO: Segunda regra: moeda corrente do País. O artigo quatrocentos e sessenta e três diz que a prestação em espécie do salário será paga em moeda corrente, e o pagamento feito em desacordo considera-se não realizado.
+THALITA: Não realizado como? Tem que pagar de novo?
+FRANCISCA: Em tese sim. Pagar com mercadoria, cheque ou vale, quando a lei não permite, não quita a obrigação.
+ANTONIO: Terceira: a prova. O artigo quatrocentos e sessenta e quatro exige recibo assinado pelo empregado. Se for analfabeto, impressão digital ou assinatura a rogo. E o depósito em conta bancária aberta com o consentimento do empregado, em estabelecimento próximo do local de trabalho, tem força de recibo.
+BRUNO: Quarta: tempo e lugar, artigo quatrocentos e sessenta e cinco. O pagamento deve ser em dia útil, no local de trabalho, dentro do horário de serviço ou imediatamente após, salvo depósito bancário.
+FRANCISCA: E a Súmula trezentos e oitenta e um fecha o quadro: se o empregador ultrapassa a data-limite, aplica-se a correção monetária pelo índice do mês subsequente ao da prestação dos serviços.
+THALITA: Meu resumo: mensal, quinto dia útil, em dinheiro, com recibo, em dia útil no local de trabalho, com correção se atrasar.
+BRUNO: Perfeito. Agora vem a regra mais cobrada: a intangibilidade, ou seja, quando o empregador pode descontar.
+
+== SLIDE: Intangibilidade e descontos permitidos
+* Art. 462: regra é a vedação; exceções taxativas
+* Lícitos: adiantamento, lei, norma coletiva
+* Dano culposo: só se acordado; doloso: independe de ajuste
+* Súmula 342: descontos autorizados por escrito (plano de saúde etc.)
+* Compensação na rescisão: limitada a 1 mês de remuneração
+ANTONIO: O artigo quatrocentos e sessenta e dois diz que ao empregador é vedado efetuar qualquer desconto nos salários, salvo quando resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo. A regra é a vedação; as exceções são taxativas.
+FRANCISCA: Descontos previstos em lei: INSS, imposto de renda retido na fonte, pensão alimentícia, contribuição sindical quando autorizada, vale-transporte até seis por cento do salário. Descontos previstos em norma coletiva também valem.
+THALITA: E se o empregado quebra uma máquina?
+BRUNO: Aqui o parágrafo primeiro: em caso de dano causado pelo empregado, o desconto é lícito se a possibilidade foi acordada, ou se houve dolo. Ou seja, no dano culposo, só com ajuste prévio. No doloso, basta o dolo.
+THALITA: Então culpa precisa de acordo, dolo não.
+BRUNO: Isso! E a banca troca "dolo" por "culpa" e "acordada" por "presumida". Fique atento.
+ANTONIO: A Súmula trezentos e quarenta e dois do TST aceita descontos para planos de saúde, seguro, previdência privada, cooperativa ou associação, desde que haja autorização prévia e por escrito do empregado, salvo coação ou outro vício de vontade.
+FRANCISCA: E na rescisão, a compensação é limitada a um mês de remuneração, artigo quatrocentos e setenta e sete, parágrafo quinto.
+THALITA: Resumo: desconto só por adiantamento, lei, norma coletiva ou dano; culposo com acordo, doloso sem; plano de saúde com autorização escrita; rescisão, teto de um mês.
+
+== SLIDE: Truck system
+* Pagamento atrelado a compras no armazém do empregador
+* Art. 462, §2º: vedada coação ou induzimento
+* §3º: preços razoáveis, sem lucro, quando não houver outro acesso
+* §4º: não pode limitar a liberdade de dispor do salário
+* Servidão por dívida: crime do art. 149 do CP
+FRANCISCA: Um ponto de aprofundamento: o truck system. É o pagamento do salário vinculado a compras em armazém do próprio empregador, que acaba endividando o trabalhador.
+THALITA: Parece coisa de antigamente, mas ainda aparece em prova?
+BRUNO: Aparece sim, principalmente em questão sobre trabalho análogo ao de escravo. O artigo quatrocentos e sessenta e dois combate o truck system em três frentes.
+ANTONIO: Primeiro, o parágrafo segundo veda coação ou induzimento do empregado a utilizar serviços do armazém da empresa.
+FRANCISCA: Segundo, o parágrafo terceiro permite que a autoridade imponha preços razoáveis, sem lucro, quando não houver acesso a outros armazéns. E terceiro, o parágrafo quarto proíbe limitar, por qualquer forma, a liberdade de o empregado dispor do seu salário.
+THALITA: E se isso vira dívida sem fim?
+ANTONIO: Aí a servidão por dívida é uma das formas do crime do artigo cento e quarenta e nove do Código Penal, redução a condição análoga à de escravo. Vamos tratar disso mais adiante no curso.
+THALITA: Então truck system é armazém da empresa mais dívida, e a lei veda a coação.
+
+== SLIDE: Décimo terceiro: cálculo e prazos
+* 1/12 da remuneração de dezembro por mês de serviço
+* Fração igual ou superior a 15 dias = mês integral
+* Adiantamento: fevereiro a novembro, metade do salário do mês anterior
+* Com as férias, se requerido em janeiro
+* 2ª parcela: até 20 de dezembro
+ANTONIO: Agora o décimo terceiro, ou gratificação natalina. A Lei quatro mil e noventa, de mil novecentos e sessenta e dois, diz que a gratificação corresponde a um doze avos da remuneração devida em dezembro, por mês de serviço do ano correspondente.
+FRANCISCA: E a fração igual ou superior a quinze dias de trabalho é havida como mês integral. É por mês civil trabalhado.
+THALITA: E sobre qual base? Só o salário-base?
+BRUNO: Não! Sobre a remuneração de dezembro, ou do mês da rescisão. Integram horas extras habituais, Súmula quarenta e cinco, adicionais e a média das comissões.
+ANTONIO: O pagamento é em duas parcelas. A primeira, o adiantamento, é paga entre fevereiro e novembro, de uma só vez, em valor correspondente à metade do salário do mês anterior, Lei quatro mil setecentos e quarenta e nove, de mil novecentos e sessenta e cinco.
+FRANCISCA: O empregador não é obrigado a pagar o adiantamento no mesmo mês a todos os empregados. E se o empregado requerer no mês de janeiro, o adiantamento é pago junto com as férias.
+BRUNO: A segunda parcela é paga até vinte de dezembro, compensado o adiantamento. As trocas típicas da FCC: dizer que a primeira parcela é entre janeiro e dezembro, quando o certo é fevereiro a novembro; dizer que o requerimento para receber com as férias é em fevereiro, quando é em janeiro; ou dizer que a segunda parcela vai até trinta de dezembro, quando é até vinte.
+THALITA: Fixei: fevereiro a novembro, janeiro com as férias, dia vinte de dezembro.
+
+== SLIDE: Décimo terceiro na extinção do contrato
+* Devido: sem justa causa, pedido de demissão, término a prazo, rescisão indireta
+* Súmula 157: devido no pedido de demissão
+* Acordo (art. 484-A): integral
+* Culpa recíproca: 50% (Súmula 14)
+* Justa causa: indevido
+ANTONIO: Quando o décimo terceiro proporcional é devido na extinção do contrato? Na dispensa sem justa causa, sim. No pedido de demissão, sim, pela Súmula cento e cinquenta e sete. No término de contrato a prazo e na aposentadoria, sim. Na rescisão indireta, sim.
+BRUNO: No acordo do artigo quatrocentos e oitenta e quatro A, é devido integralmente, porque só o aviso e a multa saem pela metade. Na culpa recíproca, cinquenta por cento, Súmula catorze. E na justa causa do empregado, indevido.
+THALITA: Se eu pedi demissão com cinco meses, perco o décimo terceiro?
+FRANCISCA: Não perde. Pedido de demissão não afasta o décimo terceiro proporcional.
+BRUNO: E essa é uma pegadinha clássica: afirmar que o pedido de demissão afasta o proporcional. Errado, Súmula cento e cinquenta e sete.
+ANTONIO: Vamos ao exemplo da apostila. A Tereza foi admitida em dez de março e dispensada sem justa causa em vinte de agosto, com remuneração de três mil reais.
+THALITA: Eu conto os meses. Março ela trabalhou vinte e dois dias, então mês integral. Abril, maio, junho, julho, quatro meses. Agosto, vinte dias, mês integral. Seis meses.
+FRANCISCA: Isso: seis doze avos de três mil, mil e quinhentos reais.
+THALITA: E se ela fosse dispensada em doze de agosto?
+BRUNO: Agosto teria só doze dias, menos de quinze, e não contaria. Seriam cinco doze avos, mil duzentos e cinquenta reais.
+THALITA: Então o dia quinze é o divisor. Quinze dias ou mais, conta o mês inteiro; quatorze ou menos, o mês não conta. Vou lembrar disso como a regra da metade do mês, porque a FCC gosta de pedir o cálculo com datas fechadas.
+FRANCISCA: Boa memória. E vale para o mês da admissão e para o da dispensa, sempre pelo mês civil.
+
+== SLIDE: Equiparação salarial: requisitos do artigo 461
+* Identidade de função, trabalho de igual valor
+* Mesmo empregador, mesmo estabelecimento empresarial
+* Diferença máxima: 4 anos no empregador, 2 anos na função
+* Contemporaneidade: vedado paradigma remoto
+* Reforma incluiu etnia entre os critérios proibidos
+ANTONIO: Agora a equiparação salarial, artigo quatrocentos e sessenta e um. Sendo idêntica a função, a todo trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento empresarial, corresponderá igual salário, sem distinção de sexo, etnia, nacionalidade ou idade.
+FRANCISCA: A Reforma fez três mudanças que rendem muito em prova. Primeira, "mesma localidade" virou "mesmo estabelecimento empresarial". Segunda, criou o requisito duplo de tempo: quatro anos no empregador e dois anos na função, antes era só dois na função. Terceira, incluiu a etnia entre os critérios proibidos.
+THALITA: E o que é trabalho de igual valor?
+BRUNO: O parágrafo primeiro: igual produtividade e mesma perfeição técnica, entre pessoas cuja diferença de tempo de serviço para o mesmo empregador não seja superior a quatro anos e a diferença de tempo na função não seja superior a dois.
+ANTONIO: Vamos a um exemplo. Ana e Márcio são analistas de crédito na mesma agência, tarefas idênticas, mesma produtividade. Márcio tem seis anos de empresa e um ano na função. Ana, um ano de empresa e um na função.
+THALITA: Na função, diferença zero. No empregador, cinco anos, mais de quatro. Não há equiparação!
+FRANCISCA: Exato, embora antes da Reforma houvesse, porque só contava o tempo na função.
+BRUNO: Outros requisitos: identidade de função, mesmas tarefas, ainda que os cargos tenham nomes diferentes, Súmula seis, item três. Mesmo empregador. E contemporaneidade: o parágrafo quinto veda paradigmas remotos, ainda que o paradigma contemporâneo tenha obtido a vantagem em ação judicial própria.
+THALITA: Chamam isso de equiparação em cadeia, né?
+FRANCISCA: Isso. Agora vedada pela lei.
+
+== SLIDE: Fatos impeditivos e Súmula 6
+* Quadro de carreira ou plano de cargos: dispensada homologação (§2º)
+* Promoções por merecimento, antiguidade ou um só critério (§3º)
+* Readaptado por deficiência não serve de paradigma (§4º)
+* Súmula 6: itens I, II e X superados; demais vigentes
+* Ônus da prova do fato impeditivo é do empregador
+BRUNO: Os fatos impeditivos. O parágrafo segundo diz que a equiparação não prevalece quando o empregador tiver pessoal organizado em quadro de carreira ou plano de cargos e salários, adotado por norma interna ou negociação coletiva, dispensada qualquer homologação ou registro em órgão público.
+FRANCISCA: Antes, a Súmula seis, item um, exigia homologação no Ministério do Trabalho. A Reforma dispensou. O parágrafo terceiro permite promoções por merecimento e por antiguidade, ou só um desses critérios.
+THALITA: E o readaptado?
+ANTONIO: Parágrafo quarto: o trabalhador readaptado em nova função por deficiência física ou mental atestada pela Previdência não serve de paradigma. Seu salário maior não pode contaminar a estrutura da empresa.
+BRUNO: A Súmula seis tem itens que continuam úteis. O item oito: o ônus da prova do fato impeditivo, modificativo ou extintivo é do empregador. O item nove: a prescrição é parcial, alcança diferenças anteriores a cinco anos do ajuizamento. O item sete admite equiparação de trabalho intelectual, aferido por critérios objetivos.
+FRANCISCA: Itens vigentes ainda: quatro, desnecessário que ambos estejam a serviço quando o pedido é de situação pretérita; cinco, cessão de empregados não exclui a equiparação se a cedente responde pelos salários.
+ANTONIO: Já os itens um, dois e dez ficaram superados. O um, pela dispensa de homologação. O dois, parcialmente, porque hoje contam ambos os tempos. O dez, porque "mesma localidade" virou "mesmo estabelecimento".
+THALITA: E desvio de função?
+FRANCISCA: Orientação cento e vinte e cinco da SDI-um: o desvio funcional não dá novo enquadramento, só as diferenças salariais. Súmula duzentos e setenta e cinco: na ação de desvio, a prescrição é parcial; no reenquadramento, é total. E a OJ duzentos e noventa e sete: não cabe equiparação entre servidores públicos celetistas da administração direta, autárquica e fundacional.
+
+== SLIDE: Igualdade salarial, Lei 14.611/2023 e arbitragem
+* Art. 461, §6º: diferenças + dano moral
+* §7º: multa de 10 vezes o novo salário, dobro na reincidência
+* Relatório de transparência semestral, 100 ou mais empregados
+* Art. 507-A: arbitragem se remuneração superior a 2 vezes o teto do RGPS
+* Hipersuficiente do art. 444 exige diploma superior
+ANTONIO: A Lei catorze mil seiscentos e onze, de dois mil e vinte e três, reforçou a igualdade salarial entre mulheres e homens. O parágrafo sexto do artigo quatrocentos e sessenta e um diz que, em discriminação por sexo, raça, etnia, origem ou idade, o pagamento das diferenças não afasta a ação por danos morais.
+BRUNO: E o parágrafo sétimo traz a multa do artigo quinhentos e dez, correspondente a dez vezes o valor do novo salário devido ao empregado discriminado, em dobro na reincidência. A alternativa que fala em cinquenta por cento do teto do RGPS reproduz a redação antiga, revogada.
+THALITA: E a transparência salarial?
+FRANCISCA: O relatório de transparência é semestral, para empresas com cem ou mais empregados, observada a LGPD. Constatada desigualdade, há plano de ação com metas e prazos, com participação de representantes sindicais e dos empregados. A multa pelo descumprimento do relatório vai até três por cento da folha, limitada a cem salários mínimos.
+ANTONIO: A apostila alerta que a ADI sete mil seiscentos e doze questiona no STF dispositivos da lei e do decreto regulamentador, especialmente a divulgação dos relatórios. Confira o estado do julgamento.
+BRUNO: Um último tema: a arbitragem, artigo quinhentos e sete A. Contratos com remuneração superior a duas vezes o teto do RGPS podem ter cláusula compromissória de arbitragem, por iniciativa do empregado ou com sua concordância expressa. Não se exige diploma superior, diferentemente do hipersuficiente do artigo quatrocentos e quarenta e quatro, parágrafo único.
+FRANCISCA: Na arbitragem coletiva, a Constituição, artigo cento e catorze, parágrafo primeiro, diz que, frustrada a negociação, as partes poderão eleger árbitros. E o parágrafo segundo exige comum acordo para o dissídio coletivo econômico.
+THALITA: Hora do resumo relâmpago da aula. Pagamento mensal, até o quinto dia útil. Desconto só por adiantamento, lei, norma coletiva ou dano; culposo precisa de acordo, doloso não. Décimo terceiro: primeira parcela de fevereiro a novembro, segunda até vinte de dezembro, devido no pedido de demissão, indevido na justa causa. Equiparação: quatro anos no empregador, dois na função, mesmo estabelecimento, sem paradigma remoto. Discriminação: dez vezes o novo salário. Arbitragem: acima de duas vezes o teto.
+ANTONIO: É isso, pessoal. Bons estudos e até a próxima aula!

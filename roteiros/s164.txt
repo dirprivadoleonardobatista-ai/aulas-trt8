@@ -1,0 +1,68 @@
+SEGMENTO s164
+== SLIDE: Aula 48: proteção ao trabalho da mulher
+* Art. 373-A: vedações discriminatórias
+* Proibido exigir atestado de gravidez ou esterilidade
+* Revista íntima vedada
+* Força muscular: 20 kg contínuo, 25 kg ocasional
+* Creche: 30 mulheres com mais de 16 anos
+ANTONIO: Olá, pessoal! Bem-vindos à aula quarenta e oito do nosso curso para o TRT da Oitava Região. Hoje fechamos a quarta parte de Direito do Trabalho com a proteção ao trabalho da mulher, depois menor e aprendizagem, trabalho escravo contemporâneo e duas rodadas de questões comentadas no estilo FCC. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei, a jurisprudência e exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira. Pergunto o que vocês perguntariam e faço os resumos.
+ANTONIO: Começamos pelas vedações do artigo trezentos e setenta e três A. É proibido publicar anúncio de emprego com referência a sexo, idade, cor ou situação familiar, salvo quando a natureza da atividade, pública e notoriamente, o exigir.
+FRANCISCA: Também é vedado recusar emprego, promoção ou motivar dispensa por sexo, idade, cor, situação familiar ou gravidez. Considerar esses fatores como variável determinante de remuneração, formação e ascensão. Impedir acesso ou usar critérios subjetivos em concursos de empresas privadas.
+THALITA: E o atestado de gravidez?
+BRUNO: Inciso quatro: é vedado exigir atestado ou exame para comprovar esterilidade ou gravidez, na admissão ou permanência. E o inciso seis veda revistas íntimas nas empregadas.
+ANTONIO: O parágrafo único admite medidas temporárias de ação afirmativa. A Lei nove mil e vinte e nove, de mil novecentos e noventa e cinco, tipifica como crime exigir teste de gravidez ou atestado de esterilização, e dá à vítima da dispensa discriminatória a opção entre readmissão com ressarcimento integral ou remuneração em dobro do período de afastamento.
+FRANCISCA: A Lei treze mil duzentos e setenta e um, de dois mil e dezesseis, proíbe revista íntima de funcionárias e clientes do sexo feminino.
+THALITA: E o peso que a mulher pode carregar?
+BRUNO: Artigo trezentos e noventa: é vedado serviço que exija força muscular superior a vinte quilos em trabalho contínuo ou vinte e cinco quilos em trabalho ocasional, salvo remoção por impulsão ou tração de vagonetes, carros de mão e semelhantes.
+ANTONIO: Creche: estabelecimentos com pelo menos trinta mulheres com mais de dezesseis anos devem ter local para guarda dos filhos na amamentação, ou convênio ou reembolso-creche, artigo trezentos e oitenta e nove. Casamento ou gravidez não são justo motivo de rescisão, artigo trezentos e noventa e um.
+BRUNO: E cuidado: o intervalo de quinze minutos antes da hora extra para a mulher, do artigo trezentos e oitenta e quatro, foi revogado pela Reforma.
+
+== SLIDE: Licença-maternidade e estabilidade
+* Art. 392: 120 dias, sem prejuízo do emprego e do salário
+* Afastamento a partir do 28º dia antes do parto
+* Mais 2 semanas antes e 2 depois, com atestado
+* Estabilidade: da confirmação da gravidez até 5 meses após o parto
+* Empresa Cidadã: prorrogação de 60 dias
+FRANCISCA: A licença-maternidade, artigo trezentos e noventa e dois: cento e vinte dias, sem prejuízo do emprego e do salário. É custeada pelo salário-maternidade, da Previdência. O empregador paga e compensa.
+THALITA: Quando começa a licença?
+ANTONIO: O afastamento pode começar entre o vigésimo oitavo dia antes do parto e a ocorrência deste. Com atestado médico, os períodos antes e depois do parto podem ser aumentados de duas semanas cada um. No parto antecipado, mantêm-se os cento e vinte dias.
+BRUNO: Outros direitos: transferência de função quando a saúde exigir, com retorno garantido. Dispensa do trabalho pelo tempo necessário para, no mínimo, seis consultas médicas e exames. Aborto não criminoso, repouso remunerado de duas semanas, artigo trezentos e noventa e cinco.
+FRANCISCA: A adotante tem licença de cento e vinte dias, mediante termo judicial de guarda; na adoção conjunta, só um dos adotantes goza. Se a mãe morre, o cônjuge ou companheiro empregado goza o período restante, salvo morte ou abandono do filho.
+THALITA: E a estabilidade da gestante?
+ANTONIO: Da confirmação da gravidez até cinco meses após o parto, no Ato das Disposições Constitucionais Transitórias, artigo dez, inciso dois, alínea b. Vale também se a gravidez é confirmada no aviso prévio, artigo trezentos e noventa e um A, e se estende ao adotante com guarda provisória.
+BRUNO: Jurisprudência: a Súmula duzentos e quarenta e quatro do TST diz que o desconhecimento da gravidez pelo empregador não afasta a estabilidade, e a reintegração só cabe durante o período estabilitário. O Supremo, no Tema quatrocentos e noventa e sete, exige apenas anterioridade da gravidez à dispensa sem justa causa.
+FRANCISCA: Na ADI seis mil trezentos e vinte e sete, o STF decidiu que, em internação hospitalar da mãe ou do recém-nascido por mais de duas semanas, a licença começa na alta hospitalar, a que ocorrer por último.
+THALITA: E a Empresa Cidadã?
+ANTONIO: Prorroga a licença-maternidade por sessenta dias e a paternidade por quinze, mediante adesão e requerimento, Lei onze mil setecentos e setenta.
+
+== SLIDE: Insalubridade, amamentação e quadro de números
+* Art. 394-A: afastamento de atividade insalubre
+* ADI 5938: gestante e lactante, qualquer grau, sem atestado
+* Art. 396: 2 descansos de 30 min até 6 meses
+* Prazo pode ser dilatado; horários por acordo individual
+* Números: 120, 28º, 6 consultas, 2 semanas, 60
+BRUNO: O artigo trezentos e noventa e quatro A manda afastar a empregada de atividades insalubres, sem prejuízo da remuneração, incluindo o adicional de insalubridade. Em grau máximo, durante a gestação. Os incisos para grau médio, mínimo e lactante exigiam atestado de médico de confiança da mulher.
+FRANCISCA: Na ADI cinquenta e nove trinta e oito, o STF declarou inconstitucional essa exigência. Gestante e lactante devem ser afastadas de atividade insalubre em qualquer grau, independentemente de atestado.
+THALITA: E se a empresa não tem local salubre?
+ANTONIO: Trata-se como gravidez de risco, com salário-maternidade durante todo o afastamento, parágrafo terceiro.
+FRANCISCA: A amamentação, artigo trezentos e noventa e seis. Para amamentar o filho, inclusive adotivo, até os seis meses, a mulher tem direito, durante a jornada, a dois descansos especiais de meia hora cada um. O prazo pode ser dilatado pela autoridade competente quando a saúde do filho exigir. Os horários são definidos em acordo individual, parágrafo segundo, incluído pela Reforma.
+THALITA: Vou montar o quadro de números. Licença: cento e vinte dias. Início: vinte e oito dias antes do parto. Acréscimo: duas semanas antes e duas depois. Consultas: seis. Aborto: duas semanas. Amamentação: dois descansos de trinta minutos. Empresa Cidadã: mais sessenta dias. Creche: trinta mulheres com mais de dezesseis anos.
+BRUNO: Perfeito. E um panorama final: a Lei catorze mil quatrocentos e cinquenta e sete, de dois mil e vinte e dois, instituiu o Programa Emprega Mais Mulheres. Reembolso-creche, flexibilização do regime de trabalho como teletrabalho, tempo parcial, banco de horas e doze por trinta e seis, prioridade para pais de filhos de até seis anos ou com deficiência.
+
+== SLIDE: Lei 14.457/2022 e a CIPA contra o assédio
+* Qualificação: suspensão do contrato
+* Retorno: suspensão para cuidado do filho
+* Combate ao assédio: CIPA passa a abranger prevenção
+* Canais de denúncia e treinamentos
+* Selo Emprega + Mulher
+ANTONIO: Continuando com a Lei catorze mil quatrocentos e cinquenta e sete. Além da parentalidade na primeira infância e da flexibilização do trabalho, há outros eixos.
+FRANCISCA: Qualificação: possibilidade de suspensão do contrato para qualificação profissional. Retorno após a licença: suspensão do contrato para cuidado do filho, e possibilidade de compartilhar ou substituir a prorrogação da Empresa Cidadã.
+THALITA: E o assédio?
+BRUNO: A CIPA passa a abranger a prevenção ao assédio, com canais de denúncia e treinamentos. E o programa prevê o Selo Emprega Mais Mulher, de reconhecimento.
+FRANCISCA: A apostila alerta que os detalhes operacionais, como prazos de suspensão e condições de substituição da prorrogação por redução de jornada, devem ser conferidos na redação vigente. Em prova FCC, a cobrança tende a ser de panorama.
+THALITA: Então o essencial é decorar os eixos: parentalidade, flexibilização, qualificação, retorno, assédio, selo.
+ANTONIO: Isso. Na sequência, falaremos da proteção ao trabalho do menor, da aprendizagem e do trabalho escravo contemporâneo.
+THALITA: Antes de ir, deixo meu macete da mulher: gestante tem estabilidade desde a confirmação até cinco meses depois do parto, licença de cento e vinte dias, insalubre em qualquer grau afasta sem atestado, e atestado de gravidez nunca pode ser exigido. Vamos lá!
