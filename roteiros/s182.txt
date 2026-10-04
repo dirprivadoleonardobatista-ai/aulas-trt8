@@ -1,0 +1,70 @@
+SEGMENTO s182
+== SLIDE: Questão 7: conflito de competência entre Varas de regiões distintas
+* Ambas se declaram incompetentes: conflito negativo (art. 804, b)
+* Varas de TRTs diferentes: julga o TST (art. 808, b)
+* TRT só resolve conflito entre órgãos da mesma região (art. 808, a)
+* Entre TRT e Vara a ele vinculada não há conflito (Súm. 420 TST)
+* Gabarito: C
+BRUNO: Continuamos com as questões, agora da sete à doze, as últimas desta aula. Na sete, a Vara do Trabalho de Castanhal, vinculada ao TRT da oitava região, e a Vara de Imperatriz, vinculada ao TRT da décima sexta região, declararam-se incompetentes para julgar a mesma reclamação. De acordo com a CLT, o que acontece com o conflito?
+THALITA: Pausa para pensar, pessoal. Eu arriscaria a A: o TRT da oitava região julga, porque foi o primeiro a receber a ação.
+FRANCISCA: Boa tentativa, mas o TRT só resolve conflitos entre órgãos da mesma região, artigo oitocentos e oito, alínea a. Aqui as Varas estão ligadas a regiões diferentes.
+ANTONIO: A B joga a competência para o Superior Tribunal de Justiça. Errada. Conflito entre órgãos com jurisdição trabalhista fica na própria Justiça do Trabalho, artigo cento e catorze, inciso quinto, da Constituição. O STJ só entra quando o conflito envolve juízo de outro ramo, por exemplo juiz do trabalho contra juiz estadual.
+BRUNO: A C é a correta. Como ambas se declaram incompetentes, o conflito é negativo, artigo oitocentos e quatro, alínea b. E, estando sujeitas a TRTs diferentes, quem julga é o TST, artigo oitocentos e oito, alínea b.
+THALITA: A D diz que o conflito é positivo e vai para o Supremo. Aí já erra duas vezes: positivo, quando ambas se declaram competentes, e Supremo.
+FRANCISCA: E a E diz que não há conflito e que prevalece a decisão da Vara que se pronunciou primeiro. Errada. A hipótese de inexistência de conflito é outra: a de TRT e Vara a ele vinculada, Súmula quatrocentos e vinte do TST.
+ANTONIO: Gabarito: C.
+THALITA: Macete: mesma região, o TRT; regiões diferentes, o TST; juiz de outro ramo, o STJ.
+BRUNO: Perfeito, esse resumo vale para a prova.
+== SLIDE: Questão 8: gratuidade de justiça
+* De ofício a quem recebe até 40% do teto do RGPS (art. 790, § 3º)
+* Pessoa natural: declaração pode ser firmada por advogado com poderes específicos (Súm. 463, I)
+* Pessoa jurídica: exige prova cabal da insuficiência (Súm. 463, II)
+* Gabarito: E (I e II)
+ANTONIO: Questão oito, sobre gratuidade de justiça. Três afirmações. Primeira: pode ser concedida de ofício a quem receber salário igual ou inferior a quarenta por cento do limite máximo dos benefícios do Regime Geral de Previdência Social. Segunda: para a pessoa natural, a declaração de hipossuficiência pode ser firmada por advogado com procuração e poderes específicos. Terceira: para a pessoa jurídica, basta a declaração do representante legal.
+THALITA: Pausa para pensar. A primeira eu acho certa. A terceira também, porque se vale para a pessoa natural, por que não valeria para a empresa?
+FRANCISCA: Aí está a pegadinha. O item um está correto: artigo setecentos e noventa, parágrafo terceiro, da CLT. Quem recebe até quarenta por cento do teto do Regime Geral pode ter a gratuidade concedida de ofício.
+BRUNO: O item dois também está correto, Súmula quatrocentos e sessenta e três, inciso primeiro, do TST. O advogado pode firmar a declaração, desde que tenha procuração com poderes específicos para esse fim.
+ANTONIO: Já o item três está errado. Para a pessoa jurídica, a Súmula quatrocentos e sessenta e três, inciso segundo, exige a demonstração cabal da impossibilidade de arcar com as despesas. A simples declaração não basta.
+THALITA: Então só o um e o dois estão certos. Letra E.
+FRANCISCA: Isso. A A está errada por incluir o três. A B está errada porque o dois também é correto. A C inclui o três e exclui o um. A D traz só o três, que é o falso.
+BRUNO: Dica: pessoa natural, declaração; pessoa jurídica, prova cabal. Gabarito: E.
+THALITA: Macete: natural declara, jurídica comprova.
+ANTONIO: Guardem também o limite de quarenta por cento do teto do Regime Geral para a concessão de ofício.
+== SLIDE: Questões 9 e 10: MPT e IN 39/2016
+* PGT é nomeado pelo PGR, lista tríplice; cargo inicial é Procurador do Trabalho
+* Intervenção obrigatória em 2º e 3º graus se a parte for ente público (art. 83, XIII)
+* MPT só atua como árbitro se solicitado pelas partes (art. 83, XI); OJ 237 SDI-1
+* Aplica-se a distribuição dinâmica do ônus da prova (art. 373, §§ 1º e 2º; art. 818, § 1º CLT)
+* Gabaritos: Questão 9, B; Questão 10, D
+FRANCISCA: Questão nove, sobre a Lei Complementar setenta e cinco. A A diz que o Procurador-Geral do Trabalho é nomeado pelo Presidente da República após aprovação do Senado. Errada, aquela pegadinha: quem nomeia é o Procurador-Geral da República, a partir de lista tríplice do Colégio.
+BRUNO: A B diz que o MPT deve intervir obrigatoriamente em todos os feitos de segundo e terceiro graus quando a parte for pessoa jurídica de direito público, Estado estrangeiro ou organismo internacional. Correta, artigo oitenta e três, inciso décimo terceiro.
+THALITA: E a C, árbitro independentemente de pedido?
+ANTONIO: Errada: o MPT atua como árbitro se solicitado pelas partes, artigo oitenta e três, inciso décimo primeiro. A D diz que o cargo inicial é o de Procurador Regional do Trabalho: errada, o cargo inicial é Procurador do Trabalho.
+FRANCISCA: A E dá legitimidade para recorrer em defesa de interesse patrimonial privado de empresa pública. Errada: Orientação Jurisprudencial duzentos e trinta e sete, inciso primeiro, da SDI-um. Gabarito: B.
+BRUNO: Questão dez, sobre a Instrução Normativa trinta e nove. Qual é aplicável? A: audiência prévia de conciliação do artigo trezentos e trinta e quatro do CPC. B: eleição de foro. C: convenção sobre distribuição do ônus da prova. D: distribuição dinâmica pelo juiz, artigo trezentos e setenta e três, parágrafos primeiro e segundo. E: negociação processual atípica do artigo cento e noventa.
+THALITA: Pausa para pensar. Pelo que vimos, só a D, né? A, B, C e E estão no rol de inaplicáveis.
+ANTONIO: Exato. A distribuição dinâmica pelo juiz é aplicável, artigo terceiro da instrução, e hoje também está no artigo oitocentos e dezoito, parágrafo primeiro, da CLT. A B erra porque a competência territorial segue o artigo seiscentos e cinquenta e um. Gabarito: D.
+== SLIDE: Questões 11 e 12: execução de ofício e penhora com recusa de acesso
+* Com advogado, a execução é promovida pelas partes (art. 878); previdenciárias, de ofício
+* Acordo pode ser feito mesmo após o juízo conciliatório (art. 764, § 3º); termo só por rescisória (Súm. 259)
+* Arrombamento exige ordem judicial; dois oficiais, duas testemunhas, força policial (art. 846 CPC)
+* Penhora em domingo ou feriado: só com autorização expressa do juiz (art. 770, parágrafo único)
+* Gabaritos: Questão 11, A; Questão 12, C
+THALITA: Questão onze: a Ana, assistida por advogado, tem sentença transitada em julgado contra a Kappa Serviços. A correta, pelos princípios e pela CLT, diz que a execução depende de iniciativa da parte, vedada a execução de ofício, ressalvadas as contribuições previdenciárias. Eu fico com essa, A.
+FRANCISCA: Correta, artigo oitocentos e setenta e oito. A B está errada: o impulso oficial na execução só existe quando as partes não têm advogado.
+BRUNO: A C diz que, sem advogado, Ana poderia interpor pessoalmente recurso de revista. Errada, o jus postulandi não alcança recursos de competência do TST, Súmula quatrocentos e vinte e cinco. A D diz que o acordo só vale até o fim da instrução. Errada: é lícito mesmo depois, artigo setecentos e sessenta e quatro, parágrafo terceiro.
+ANTONIO: E a E diz que o termo de conciliação poderia ser atacado por recurso ordinário. Errada: o termo vale como decisão irrecorrível e só se ataca por ação rescisória, Súmula duzentos e cinquenta e nove.
+FRANCISCA: Questão doze. O oficial Rodrigo encontra fechadas as portas do estabelecimento da executada, que se recusa a franquear o acesso. O que ele faz?
+THALITA: Pausa para pensar. Meu instinto é arrombar na hora.
+BRUNO: A A está errada: o arrombamento depende de ordem judicial, artigo oitocentos e quarenta e seis do CPC. A B também: na Justiça do Trabalho, penhora em domingo ou feriado exige autorização expressa do juiz, artigo setecentos e setenta, parágrafo único, da CLT.
+ANTONIO: A C é a correta: comunicar ao juiz e requerer a ordem; deferida, dois oficiais cumprem, com auto assinado por duas testemunhas, podendo o juiz requisitar força policial. É o CPC aplicado supletivamente, artigo oitocentos e oitenta e nove da CLT e artigo quinze do CPC.
+FRANCISCA: A D confunde com a citação por edital, do artigo oitocentos e oitenta, parágrafo terceiro, que vale para executado não encontrado. E a E diz que fica vedada qualquer medida coercitiva, o que contraria o CPC aplicado supletivamente. Gabarito: C.
+== SLIDE: Resumo relâmpago da aula
+* MPT: PGT nomeado pelo PGR; intervenção obrigatória só em 2º e 3º graus com ente público
+* Interlocutórias: Súm. 214; exceção territorial acolhida só recorrível com remessa a outro TRT
+* CPC: omissão e compatibilidade; art. 334, art. 63 e art. 190 não se aplicam
+* Prescrição intercorrente: 2 anos, ordem descumprida pelo exequente, de ofício
+* Execução de ofício só sem advogado; jus postulandi não vai ao TST
+BRUNO: Hora de fechar. Thalita, o que mais cai?
+THALITA: Vamos ao resumo relâmpago. Primeiro, o Ministério Público do Trabalho: o chefe é nomeado pelo Procurador-Geral da República, e a intervenção obrigatória é só em segundo e terceiro graus, com ente público. Segundo, as interlocutórias não têm recurso imediato, salvo as três exceções da Súmula duzentos e quatorze. Terceiro, o CPC só entra com omissão e compatibilidade, e a audiência prévia, a eleição de foro e o negócio processual atípico não se aplicam. Quarto, a prescrição intercorrente é de dois anos, contados do descumprimento de ordem judicial pelo exequente, e pode ser declarada de ofício. Quinto, a execução de ofício só existe quando as partes não têm advogado, e o jus postulandi não vale para recursos no TST.
+ANTONIO: Era isso, pessoal: revisem os quadros, refaçam as questões e nos vemos na próxima aula. Bons estudos!
