@@ -1,0 +1,95 @@
+SEGMENTO s103
+== SLIDE: Questão 7: Tema 1199 do STF
+* Gabarito E
+* Lei 14.230/2021 se aplica a processos em curso, sem trânsito em julgado
+* Juiz verifica se houve dolo
+* Novo regime prescricional não retroage (marco: 26/10/2021)
+* Coisa julgada não é desconstituída
+ANTONIO: Continuando as questões, agora a sétima. Em dois mil e dezenove o Ministério Público ajuizou ação de improbidade contra Márcio, imputando-lhe ato culposo de lesão ao erário praticado em dois mil e dezoito. Em dois mil e vinte e dois, o processo ainda aguardava sentença. Segundo a tese do STF no Tema mil cento e noventa e nove, qual a resposta? A: a lei nova retroage integralmente, inclusive para desconstituir condenações transitadas em julgado. B: a lei nova não incide, porque o fato é anterior. C: aplica-se o novo prazo de prescrição intercorrente de quatro anos, contado do ajuizamento. D: o processo deve ser extinto sem exame de dolo. E: a lei nova aplica-se ao processo em curso, cabendo ao juízo verificar eventual dolo, mas o novo regime prescricional não retroage. Pausa para você pensar.
+THALITA: Se a culposa foi revogada, o processo de Márcio acaba, não é?
+FRANCISCA: Quase. O processo não acaba automaticamente. A revogação da modalidade culposa não atinge a coisa julgada nem a execução das penas, e, sem trânsito em julgado, a lei nova se aplica aos atos culposos anteriores, mas o juiz deve examinar se houve dolo.
+BRUNO: Por isso a D está errada: ela veda o exame de dolo, e o juiz deve justamente analisá-lo. A B também cai, porque diz que a lei nova não incide.
+THALITA: E a A? Parece boa, retroatividade benéfica.
+BRUNO: É a isca. O STF não transpôs automaticamente o artigo quinto, inciso quarenta, para a improbidade, e a coisa julgada não é desconstituída.
+ANTONIO: A C erra na prescrição. O novo regime prescricional é irretroativo, e os novos marcos contam da publicação da lei, vinte e seis de outubro de dois mil e vinte e um.
+THALITA: Então a E é a síntese: lei nova em processo em curso, juiz vê o dolo, prescrição nova não retroage.
+FRANCISCA: Exato. É a síntese das teses três e quatro do Tema, o ARE oitocentos e quarenta e três mil novecentos e oitenta e nove.
+== SLIDE: Questão 8: acordo, legitimidade e cautelares
+* Gabarito A
+* Legitimidade da pessoa jurídica lesada (ADIs 7042 e 7043)
+* ANPC: ressarcimento integral e reversão da vantagem
+* Homologação judicial sempre exigida (art. 17-B, § 1º, III)
+* Afastamento: judicial, com remuneração, 90 dias, prorrogável uma vez
+* Impedimento após descumprimento: 5 anos
+BRUNO: Oitava questão: considerando a Lei da improbidade e o STF. A: a pessoa jurídica lesada tem legitimidade concorrente com o Ministério Público, e o acordo de não persecução civil deve assegurar integral ressarcimento e reversão da vantagem indevida. B: o acordo dispensa homologação judicial quando celebrado antes do ajuizamento. C: a indisponibilidade de bens pode recair sobre valores da multa civil e sobre até quarenta salários mínimos em poupança. D: o afastamento cautelar pode ser feito pela autoridade administrativa, sem remuneração, por até cento e oitenta dias. E: descumprido o acordo, o investigado fica impedido de novo acordo por dez anos. Pausa para você pensar.
+THALITA: Eu acho que a A é a certa, porque parece mais completa. Mas e a B?
+BRUNO: A B está errada. A homologação judicial é sempre exigida, antes ou depois do ajuizamento, artigo dezessete-B, parágrafo primeiro, inciso três.
+FRANCISCA: A A é a correta. As ADIs sete mil e quarenta e dois e sete mil e quarenta e três restabeleceram a legitimidade da pessoa jurídica interessada, e o artigo dezessete-B, incisos um e dois, fixa como resultados mínimos o integral ressarcimento do dano e a reversão da vantagem indevida à pessoa jurídica lesada.
+ANTONIO: A C erra em duas coisas: a indisponibilidade não alcança a multa civil, artigo dezesseis, parágrafo dez, nem até quarenta salários mínimos em poupança e aplicações, parágrafo treze.
+THALITA: E o afastamento do agente? Achei que a autoridade pudesse afastar.
+BRUNO: Pegadinha. O afastamento é judicial, com remuneração, por até noventa dias, prorrogáveis uma vez. Artigo vinte, parágrafos primeiro e segundo. A D erra em quase tudo: autoridade, remuneração e prazo.
+FRANCISCA: A E troca o prazo: o impedimento de novo acordo após descumprimento é de cinco anos, artigo dezessete-B, parágrafo sétimo, e não dez.
+THALITA: Macete: acordo exige juiz; afastamento exige juiz; impedimento, cinco anos.
+== SLIDE: Questão 9: prescrição na improbidade
+* Gabarito D
+* Prazo geral: 8 anos, do fato ou da cessação da permanência
+* Antes: 5 anos do fim do mandato (regra antiga)
+* Inquérito civil suspende por até 180 dias; ajuizamento interrompe
+* Prescrição intercorrente: 4 anos (art. 23, § 4º)
+* Ressarcimento doloso: imprescritível (Tema 897)
+FRANCISCA: Nona questão, estilo Oficial de Justiça: o artigo vinte e três da Lei de improbidade, com a redação de dois mil e vinte e um, diz que a prescrição da ação. A: ocorre em cinco anos, contados do término do mandato. B: ocorre em oito anos, contados da data em que o Ministério Público tomou conhecimento. C: é interrompida pela instauração de inquérito civil, reiniciando-se o prazo integral. D: é interrompida pelo ajuizamento, voltando a correr pela metade do prazo legal, quatro anos. E: alcança também o ressarcimento por ato doloso, que prescreve em oito anos. Pausa para você pensar.
+THALITA: Eu lembro de oito anos, mas não sei de quando conta.
+BRUNO: Conta da ocorrência do fato ou da cessação da permanência. A B erra: não é do conhecimento pelo Ministério Público.
+FRANCISCA: A A traz a regra da redação anterior, o antigo artigo vinte e três, inciso um, de cinco anos do fim do mandato. Hoje o prazo geral é de oito anos.
+THALITA: E o inquérito civil? Interrompe?
+BRUNO: Não! O inquérito civil suspende o prazo, por até cento e oitenta dias. Quem interrompe é o ajuizamento da ação. A C erra aí.
+ANTONIO: A D é a correta. Artigo vinte e três, parágrafo quarto, inciso um, e parágrafo quinto: interrompida a prescrição, ela volta a correr pela metade do prazo, quatro anos, é a prescrição intercorrente.
+FRANCISCA: A E cai na imprescritibilidade. O ressarcimento ao erário fundado em ato doloso de improbidade é imprescritível, Tema oitocentos e noventa e sete do STF e artigo trinta e sete, parágrafo quinto, da Constituição. Não prescreve em oito anos.
+THALITA: Resumo: oito do fato; ajuizamento interrompe; quatro de intercorrente; ressarcimento doloso, nunca prescreve.
+== SLIDE: Questão 10: pedido de acesso à informação
+* Gabarito C
+* Vedado exigir motivos (art. 10, § 3º)
+* 20 dias + 10 com justificativa (art. 11)
+* Busca e fornecimento gratuitos; só a reprodução é cobrada
+* Recurso em 10 dias à autoridade superior, que decide em 5
+ANTONIO: Décima questão, estilo Técnico. Bruno apresentou ao TRT pedido de acesso a informações sobre contratos de terceirização de limpeza. Nos termos da Lei doze mil quinhentos e vinte e sete, de dois mil e onze, o que ocorre? A: o pedido só será conhecido se Bruno indicar os motivos. B: o órgão terá trinta dias, prorrogáveis por quinze. C: o órgão terá até vinte dias, prorrogáveis por dez com justificativa, e, indeferido o acesso, Bruno pode recorrer em dez dias à autoridade hierarquicamente superior. D: a busca será cobrada conforme a complexidade da pesquisa. E: o recurso será dirigido à mesma autoridade que negou, que terá dez dias para reconsiderar. Pausa para você pensar.
+THALITA: Essa eu tiro de letra, vimos hoje mesmo! É a C.
+BRUNO: Boa! Mas vamos às erradas. A A é a pegadinha de sempre: é vedado exigir os motivos do pedido, artigo dez, parágrafo terceiro.
+FRANCISCA: A B troca os prazos: são vinte mais dez dias, artigo onze, parágrafos primeiro e segundo, e não trinta mais quinze.
+ANTONIO: A C é correta: artigos onze e quinze. Recurso em dez dias à autoridade superior, que decide em cinco dias.
+THALITA: E a D? Cobrar pela busca?
+FRANCISCA: Errada. Busca e fornecimento são gratuitos. Cobra-se só a reprodução, com isenção para quem declarar hipossuficiência, artigo doze.
+BRUNO: A E é um clássico: o recurso não vai para a mesma autoridade, vai para a hierarquicamente superior, que se manifesta em cinco dias, artigo quinze, parágrafo único. A mesma autoridade não reexamina em dez dias.
+THALITA: Macete: vinte mais dez, recurso dez, decisão cinco.
+== SLIDE: Questão 11: graus de sigilo e informações pessoais
+* Gabarito E
+* Afirmações corretas: ultrassecreta 25 anos; pessoal até 100 anos
+* Reservada: 5 anos, não 10 (art. 24, § 1º, III)
+* Direitos humanos: não se restringe (art. 21)
+BRUNO: Décima primeira: afirmações sobre a mesma lei. Afirmativa um: a informação ultrassecreta fica sujeita a sigilo por no máximo vinte e cinco anos. Afirmativa dois: a secreta, quinze anos, e a reservada, dez anos. Afirmativa três: informações pessoais sobre intimidade, vida privada, honra e imagem têm acesso restrito por até cem anos da produção, independentemente de classificação. Afirmativa quatro: informações sobre violação de direitos humanos por agentes públicos podem ser classificadas como reservadas. Alternativas: A, um, dois e três; B, dois e quatro; C, um, três e quatro; D, só a três; E, um e três. Pausa para você pensar.
+THALITA: A um eu confirmo: vinte e cinco anos. A três também: cem anos. Então é a E?
+BRUNO: Vamos conferir a dois. Reservada é cinco anos, não dez. Artigo vinte e quatro, parágrafo primeiro, inciso três. A dois está errada.
+FRANCISCA: A quatro também está errada. O artigo vinte e um, parágrafo único, veda a restrição de acesso a informações sobre violação de direitos humanos por agentes públicos. Não pode ser reservada.
+THALITA: Então só a um e a três estão certas: alternativa E.
+ANTONIO: Isso. A um vem do artigo vinte e quatro, parágrafo primeiro, inciso um, e a três do artigo trinta e um, parágrafo primeiro, inciso um.
+BRUNO: A A erra por incluir a dois. A B erra por incluir a dois e a quatro. A C erra por incluir a quatro. A D está errada porque a um também está correta.
+THALITA: Macete: vinte e cinco, quinze, cinco, e a pessoal vai a cem.
+FRANCISCA: E lembre: direitos humanos nunca ficam sob sigilo.
+== SLIDE: Questão 12: LGPD e fechamento da aula
+* Gabarito A
+* Dados sensíveis: sem legítimo interesse e sem proteção do crédito
+* Operador executa; controlador decide
+* Financeiro e endereço não são sensíveis
+* Órgão público não sofre multa (art. 52, § 3º)
+* Políticas públicas: base autônoma, sem consentimento
+ANTONIO: Última da aula, a questão doze, sobre a Lei Geral de Proteção de Dados. A: dados sensíveis não podem se fundamentar no legítimo interesse nem na proteção do crédito, bases admitidas só para dados não sensíveis. B: operador é quem decide sobre o tratamento. C: dados financeiros e endereço são sensíveis. D: órgãos públicos se sujeitam a multa simples de até dois por cento do orçamento anual, limitada a cinquenta milhões. E: o consentimento é indispensável para o tratamento pela Administração na execução de políticas públicas. Pausa para você pensar.
+THALITA: A A, porque lembro que o artigo onze não tem legítimo interesse.
+BRUNO: Acertou. O artigo onze não reproduz as bases do artigo sétimo, incisos nove e dez: legítimo interesse e proteção do crédito.
+FRANCISCA: A B troca as definições. Quem decide é o controlador. Operador realiza o tratamento em nome do controlador, artigo quinto, incisos seis e sete.
+THALITA: A C é pegadinha de dado financeiro, né?
+BRUNO: É. O rol de dados sensíveis, artigo quinto, inciso dois, não inclui dados financeiros nem endereço.
+ANTONIO: A D mistura tudo. As multas, do artigo cinquenta e dois, incisos dois e três, não se aplicam a órgãos e entidades públicas, parágrafo terceiro. E o parâmetro é o faturamento de pessoa jurídica de direito privado, não o orçamento.
+FRANCISCA: A E erra porque a execução de políticas públicas é base legal autônoma, que dispensa consentimento, artigos sétimo, inciso três, e onze, inciso dois, alínea b.
+ANTONIO: Chegamos ao fim da aula vinte e nove. Pelo menos nesse bloco, foi bastante coisa, mas nada que não se resolva com atenção às palavras da banca.
+THALITA: Resumo relâmpago do que mais cai na FCC. Na LAI: publicidade é regra; vinte mais dez para responder; recurso em dez e decisão em cinco; ultrassecreta vinte e cinco, secreta quinze, reservada cinco; informação pessoal, cem anos; direitos humanos nunca ficam em sigilo. Na LGPD: sensível não tem legítimo interesse; controlador decide, operador executa, encarregado é só canal; dez princípios; e órgão público não leva multa da ANPD. Na improbidade: sem dolo, sem improbidade, e prescrição de oito anos.
+ANTONIO: Muito bem, Thalita. Bons estudos a todos, e até a próxima aula!
