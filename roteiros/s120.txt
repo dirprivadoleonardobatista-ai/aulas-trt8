@@ -1,0 +1,81 @@
+SEGMENTO s120
+== SLIDE: Boas-vindas e vacância
+* Aula 35: Lei 8.112/1990, parte 2 de 3
+* Vacância (art. 33): sete hipóteses, de exoneração a falecimento
+* Reversão, reintegração, recondução e aproveitamento não geram vacância
+* Exoneração não é sanção
+ANTONIO: Olá, pessoal, boas-vindas à aula trinta e cinco do nosso curso! Seguimos em Direito Administrativo, agentes públicos e Lei oito mil cento e doze, de mil novecentos e noventa, parte dois de três. Hoje vemos vacância, remoção, redistribuição e substituição, depois vencimento, remuneração e descontos, e na sequência as vantagens e as férias.
+THALITA: Eu sou a Thalita, concurseira, e vou perguntar o que o aluno perguntaria.
+FRANCISCA: Eu sou a Francisca, professora, e trago a lei em paráfrase e os exemplos.
+BRUNO: E eu sou o Bruno, especialista em FCC, e aponto as pegadinhas.
+ANTONIO: Começando pela vacância, artigo trinta e três. É quando o cargo fica vago. Decorre de exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo inacumulável e falecimento.
+THALITA: Promoção e readaptação, que eu achava que eram formas de provimento, aparecem aqui?
+FRANCISCA: Aparecem. Elas são, ao mesmo tempo, provimento do novo cargo e vacância do anterior. Já a reversão, a reintegração, a recondução e o aproveitamento não geram vacância.
+BRUNO: E a posse em outro cargo inacumulável é a hipótese que viabiliza a futura recondução do servidor estável. Anote isso, porque a FCC gosta de ligar uma coisa à outra.
+THALITA: Ou seja, o estável toma posse em outro cargo, vaga o anterior, e se não der certo no estágio, pode ser reconduzido.
+ANTONIO: Isso mesmo. Agora a exoneração. A pedido, no cargo efetivo, quando o servidor requer, artigo trinta e quatro, caput.
+FRANCISCA: De ofício, no cargo efetivo, são duas hipóteses: quando não satisfeitas as condições do estágio probatório, e quando, tendo tomado posse, o servidor não entra em exercício no prazo. É o parágrafo único do artigo trinta e quatro.
+BRUNO: E aí vem a pegadinha. A FCC troca "exonerado de ofício" por "demitido" para quem não entra em exercício. O correto é exoneração de ofício. Exoneração não é sanção; demissão é penalidade disciplinar, artigo cento e vinte e sete, inciso três.
+THALITA: Macete: não entrou em exercício, exonera; fez falta grave, demite.
+ANTONIO: E no cargo em comissão ou função de confiança, a exoneração é a juízo da autoridade competente ou a pedido do próprio servidor, artigo trinta e cinco.
+== SLIDE: Remoção: conceito e modalidades
+* Remoção: servidor se desloca no mesmo quadro (art. 36)
+* De ofício, no interesse da Administração: ajuda de custo
+* A pedido, a critério da Administração: sem ajuda de custo
+* A pedido, independentemente do interesse: cônjuge, saúde, processo seletivo
+FRANCISCA: Remoção, artigo trinta e seis. É o deslocamento do servidor, a pedido ou de ofício, no âmbito do mesmo quadro, com ou sem mudança de sede.
+THALITA: E como separo de outros institutos?
+ANTONIO: Três notas definem a remoção. Quem se desloca é o servidor. É dentro do mesmo quadro. E pode haver ou não mudança de sede. Não é forma de provimento nem de vacância.
+BRUNO: Agora as modalidades. A primeira é de ofício, no interesse da Administração. É ato discricionário motivado, e dá direito a ajuda de custo se houver mudança de domicílio.
+FRANCISCA: A segunda é a pedido, a critério da Administração: pedido mais conveniência e oportunidade. Aqui não há ajuda de custo, artigo cinquenta e três, parágrafo terceiro.
+THALITA: E a terceira?
+ANTONIO: A terceira é a pedido, independentemente do interesse da Administração, em três alíneas. Alínea a: acompanhar cônjuge ou companheiro também servidor público civil ou militar, de qualquer dos Poderes da União, Estados, Distrito Federal ou Municípios, deslocado no interesse da Administração.
+BRUNO: A pegadinha da alínea a é esse "deslocado no interesse da Administração". Se o cônjuge pediu a mudança ou tomou posse em novo cargo por concurso, o STJ em regra nega a remoção independente do interesse.
+FRANCISCA: A alternativa compatível é a licença por motivo de afastamento do cônjuge, sem remuneração, com possível exercício provisório, artigo oitenta e quatro, parágrafo segundo.
+ANTONIO: Alínea b: motivo de saúde do servidor, do cônjuge, do companheiro ou de dependente que viva às suas expensas e conste do assentamento funcional, comprovado por junta médica oficial. Alínea c: processo seletivo, quando o número de interessados for superior ao de vagas, segundo normas preestabelecidas.
+THALITA: Então só a primeira modalidade dá ajuda de custo.
+BRUNO: Exatamente, e só se houver mudança de domicílio. As outras não.
+== SLIDE: Redistribuição e substituição
+* Redistribuição: o cargo se desloca para outro órgão do mesmo Poder (art. 37)
+* Servidor estável não redistribuído: disponibilidade
+* Substituição automática; retribuição após 30 dias
+ANTONIO: Agora a redistribuição, artigo trinta e sete. É o deslocamento de cargo efetivo, ocupado ou vago, para outro órgão ou entidade do mesmo Poder, com prévia apreciação do órgão central do SIPEC.
+THALITA: Então o que se move é o cargo, não a pessoa.
+FRANCISCA: Exato. O macete da apostila: remoção move a pessoa no mesmo quadro; redistribuição move o cargo para outro órgão do mesmo Poder. Nenhuma das duas permite trocar de Poder ou de esfera federativa.
+BRUNO: Os requisitos: interesse da Administração, equivalência de vencimentos, manutenção da essência das atribuições, vinculação entre graus de responsabilidade e complexidade, mesmo nível de escolaridade, especialidade ou habilitação, e compatibilidade com as finalidades institucionais.
+ANTONIO: A redistribuição de ofício serve ao ajustamento de lotação e da força de trabalho, inclusive em reorganização, extinção ou criação de órgão, parágrafo primeiro. E, extinto o cargo ou declarada sua desnecessidade, o estável não redistribuído fica em disponibilidade até o aproveitamento, parágrafo terceiro.
+THALITA: Agora a substituição.
+FRANCISCA: Artigo trinta e oito: titulares de cargo ou função de direção ou chefia e de Natureza Especial têm substitutos indicados no regimento interno ou, na omissão, designados previamente pelo dirigente máximo.
+BRUNO: O exercício é automático e cumulativo, sem prejuízo do cargo que o substituto ocupa, nos afastamentos, impedimentos e na vacância. Ele deve optar pela remuneração de um dos dois.
+ANTONIO: E a retribuição é devida nos afastamentos ou impedimentos do titular superiores a trinta dias consecutivos, paga na proporção dos dias de efetiva substituição que excederem esse período. A apostila lembra de conferir a regulamentação própria do Judiciário, que pode prever pagamento desde o primeiro dia.
+THALITA: Macete: substituição é automática, acumula, e o pagamento vem depois de trinta dias, em regra.
+== SLIDE: Vencimento, remuneração e regras gerais
+* Vencimento: retribuição fixada em lei (art. 40)
+* Remuneração: vencimento + vantagens permanentes (art. 41)
+* Irredutibilidade, isonomia e piso (art. 41)
+* Faltas e atrasos (art. 44)
+FRANCISCA: Agora o capítulo de direitos e vantagens. Vencimento é a retribuição pecuniária pelo exercício de cargo público, com valor fixado em lei. Artigo quarenta.
+THALITA: E remuneração?
+BRUNO: Remuneração é o vencimento do cargo efetivo mais as vantagens pecuniárias permanentes estabelecidas em lei, artigo quarenta e um. A FCC inverte: chama de vencimento o que é remuneração.
+ANTONIO: Pelo parágrafo terceiro, o vencimento do cargo efetivo acrescido das vantagens permanentes é irredutível. Pelo parágrafo quarto, cargos de atribuições iguais ou assemelhadas têm a mesma remuneração, ressalvadas as vantagens individuais e as relativas à natureza ou ao local de trabalho. E, pelo parágrafo quinto, nenhum servidor recebe remuneração inferior ao salário mínimo.
+THALITA: Salário mínimo é piso, vencimento é base, remuneração é base mais vantagens permanentes.
+FRANCISCA: Faltas e atrasos, artigo quarenta e quatro. O servidor perde a remuneração do dia de falta injustificada. Perde também a parcela proporcional a atrasos, ausências justificadas, ressalvadas as concessões do artigo noventa e sete, e saídas antecipadas, salvo compensação até o mês subsequente.
+BRUNO: Se as faltas justificadas forem por caso fortuito ou força maior, podem ser compensadas a critério da chefia e são consideradas efetivo exercício.
+THALITA: Ou seja, falta injustificada perde o dia; força maior compensa.
+== SLIDE: Descontos, reposição ao erário e jurisprudência
+* Descontos só por lei ou mandado judicial (art. 45)
+* Reposição: parcela não inferior a 10% (art. 46)
+* Pagamento indevido no mês anterior: parcela única
+* Débito do ex-servidor: 60 dias (art. 47)
+* Remuneração impenhorável, salvo alimentos (art. 48)
+ANTONIO: Descontos. Artigo quarenta e cinco: salvo por imposição legal ou mandado judicial, nenhum desconto incide sobre remuneração ou provento. Consignação facultativa depende de autorização do servidor, a critério da Administração, com limite percentual e reservas para cartão de crédito e cartão consignado.
+BRUNO: Atenção: esse limite foi alterado mais de uma vez. Foi de trinta e cinco por cento pela Lei treze mil cento e setenta e dois, de dois mil e quinze, e ampliado pela Lei catorze mil quinhentos e nove, de dois mil e vinte e dois, com reservas de cinco por cento para cada cartão. Confira o percentual vigente na data do edital.
+FRANCISCA: A reposição ao erário, artigo quarenta e seis: comunicação prévia ao servidor, pagamento em até trinta dias, parcelável a pedido, com parcela não inferior a dez por cento da remuneração, provento ou pensão.
+THALITA: E se o erro foi no mês anterior?
+FRANCISCA: Reposição imediata, em parcela única, parágrafo segundo. Se for liminar revogada, os valores são atualizados até a data da reposição.
+BRUNO: Um exemplo: Bruno recebeu indevidamente três mil reais em janeiro, por erro de digitação na folha, e o erro foi detectado em fevereiro. Reposição imediata, em parcela única. Se o erro fosse antigo e ele pedisse parcelamento, cada parcela não poderia ser inferior a dez por cento da remuneração.
+ANTONIO: O demitido, exonerado ou com aposentadoria ou disponibilidade cassada tem sessenta dias para quitar o débito; se não quitar, é inscrito em dívida ativa, artigo quarenta e sete. E vencimento, remuneração e provento não podem ser penhorados, salvo prestação de alimentos por decisão judicial, artigo quarenta e oito.
+FRANCISCA: Sobre a devolução de valores recebidos de boa-fé, o STJ tem dois temas repetitivos. O Tema quinhentos e trinta e um: não há devolução quando o pagamento decorreu de interpretação errônea ou má aplicação da lei pela Administração.
+BRUNO: E o Tema mil e nove: em erro operacional ou de cálculo, a devolução é devida, salvo se o servidor comprovar boa-fé objetiva, isto é, que não podia perceber o erro. E não confunda com o Tema quinhentos e trinta e um do STF, que é sobre greve.
+THALITA: Resumo: erro de interpretação não devolve; erro de cálculo devolve, salvo boa-fé objetiva comprovada.
+ANTONIO: Muito bem. Agora vamos às vantagens: indenizações, gratificações, adicionais, e as férias.
