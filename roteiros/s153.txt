@@ -1,0 +1,88 @@
+SEGMENTO s153
+== SLIDE: Interjornada e intrajornada
+* Interjornada: 11h consecutivas (art. 66); com DSR, 35h (Súmula 110)
+* OJ 355: horas subtraídas pagas como extras
+* Intrajornada: mais de 6h, 1h a 2h; mais de 4h até 6h, 15 min
+* Art. 71, §4º: paga só o período suprimido, 50%, indenizatório
+* Redução por norma coletiva: mínimo de 30 min
+ANTONIO: Vimos a jornada. Agora os descansos, começando pelo interjornada. O artigo sessenta e seis assegura onze horas consecutivas entre duas jornadas. Se coincidir com o descanso semanal, os períodos somam: vinte e quatro mais onze, trinta e cinco horas.
+THALITA: E se o patrão não respeitar?
+BRUNO: A OJ trezentos e cinquenta e cinco da SDI-um manda pagar integralmente as horas subtraídas, com o adicional, por analogia ao artigo setenta e um, parágrafo quarto. E a Súmula cento e dez diz que no revezamento as horas trabalhadas logo após o repouso semanal de vinte e quatro horas, com prejuízo das onze, são extras.
+FRANCISCA: Um exemplo. A Carla sai no sábado às vinte e duas horas, folga no domingo e volta na segunda às sete horas. Descansou trinta e três horas, mas o mínimo era trinta e cinco. Duas horas extras.
+THALITA: Agora o intervalo dentro da jornada, o intrajornada?
+ANTONIO: Artigo setenta e um. Até quatro horas, nenhum intervalo obrigatório. Mais de quatro até seis horas, quinze minutos. Mais de seis horas, no mínimo uma hora e no máximo duas, e o máximo pode ser ampliado por acordo escrito ou norma coletiva. Esses intervalos não integram a jornada.
+BRUNO: A Súmula quatrocentos e trinta e sete, item quatro, diz que em jornada de seis horas habitualmente extrapolada, o intervalo é de uma hora. E pode haver redução por ato ministerial, com refeitórios adequados e sem horas extras, ou por negociação coletiva, com mínimo de trinta minutos para jornada acima de seis horas, artigo seiscentos e onze A, inciso três.
+FRANCISCA: E o parágrafo quarto traz a mudança da Reforma. A não concessão ou concessão parcial do intervalo implica o pagamento, de natureza indenizatória, apenas do período suprimido, com acréscimo de cinquenta por cento sobre a hora normal.
+THALITA: Três mudanças de uma vez: só o tempo suprimido, cinquenta por cento, e sem reflexos.
+BRUNO: Isso! Antes, pela Súmula quatrocentos e trinta e sete, pagava-se a hora inteira, com natureza salarial e reflexos. Pegadinhas: "supressão parcial gera hora integral", "natureza salarial", "norma coletiva pode fixar quinze minutos em jornada de oito horas". Todas erradas.
+FRANCISCA: Exemplo do Márcio: oito horas, hora de vinte reais, ou trinta com o adicional, goza quarenta minutos de intervalo. Suprimiu vinte: vinte minutos a trinta reais a hora, dez reais por dia, sem reflexos.
+
+== SLIDE: Intervalos especiais e descanso semanal
+* Digitadores: 10 min a cada 90 min (art. 72; Súmula 346)
+* Câmara fria: 20 min após 1h40 (art. 253; Súmula 438)
+* Subsolo: 15 min a cada 3h (art. 298)
+* Amamentação: 2 descansos de 30 min até 6 meses (art. 396)
+* DSR: 24h consecutivas, preferencialmente aos domingos
+THALITA: Tem outros intervalos que contam como jornada, não é?
+ANTONIO: Sim. Os intervalos especiais, computados na jornada. Digitadores e mecanografia: dez minutos a cada noventa de trabalho consecutivo, artigo setenta e dois e Súmula trezentos e quarenta e seis.
+FRANCISCA: Câmara frigorífica e ambiente artificialmente frio: vinte minutos depois de uma hora e quarenta de trabalho contínuo, artigo duzentos e cinquenta e três, Súmula quatrocentos e trinta e oito. Minas de subsolo: quinze minutos a cada três horas. E amamentação: dois descansos de trinta minutos até o filho completar seis meses, artigo trezentos e noventa e seis.
+BRUNO: Macete da apostila: "noventa-dez, cem-vinte, três horas-quinze". E o intervalo de quinze minutos da mulher antes das extras, do artigo trezentos e oitenta e quatro, foi revogado pela Reforma.
+THALITA: Agora o descanso semanal remunerado.
+ANTONIO: São vinte e quatro horas consecutivas, preferencialmente, e não obrigatoriamente, aos domingos. Artigo sétimo, inciso quinze, da Constituição, Lei seiscentos e cinco de mil novecentos e quarenta e nove e artigo sessenta e sete da CLT.
+FRANCISCA: Quem falta sem justificativa ou não cumpre o horário na semana anterior perde a remuneração do repouso, não o descanso. Feriado trabalhado é pago em dobro, salvo folga em outro dia.
+BRUNO: A Súmula cento e quarenta e seis: domingo ou feriado trabalhado e não compensado é pago em dobro, sem prejuízo da remuneração do repouso. E a OJ quatrocentos e dez: repouso concedido após o sétimo dia consecutivo viola a Constituição e gera pagamento em dobro.
+THALITA: E o comissionista?
+FRANCISCA: Tem direito ao repouso, e as horas extras habituais integram o repouso, Súmulas vinte e sete e cento e setenta e dois. No comércio, o trabalho aos domingos é autorizado, observada a lei municipal, e a folga deve coincidir com domingo pelo menos uma vez a cada três semanas. Em feriados, exige autorização em convenção coletiva e lei municipal.
+BRUNO: A apostila alerta para a OJ trezentos e noventa e quatro, alterada no Tema nove: o repouso majorado pelas extras repercute em férias, décimo terceiro, aviso e FGTS, para horas a partir de vinte de março de dois mil e vinte e três.
+
+== SLIDE: Trabalho noturno
+* Urbano: 22h às 5h, hora de 52min30s, adicional de 20%
+* Rural: lavoura 21h às 5h; pecuária 20h às 4h; hora de 60 min; 25%
+* Prorrogação: adicional nas horas prorrogadas (Súmula 60, II)
+* Transferência para o diurno: perde o adicional (Súmula 265)
+* Doméstico: igual ao urbano
+ANTONIO: Agora o trabalho noturno, artigo setenta e três. Para o urbano, das vinte e duas às cinco horas, com hora reduzida de cinquenta e dois minutos e trinta segundos e adicional mínimo de vinte por cento sobre a hora diurna.
+THALITA: E no campo é igual?
+FRANCISCA: Não. Lei cinco mil oitocentos e oitenta e nove, artigo sétimo. Na lavoura, das vinte e uma às cinco horas. Na pecuária, das vinte às quatro. A hora é de sessenta minutos, sem redução, e o adicional é de vinte e cinco por cento sobre a remuneração normal. O doméstico segue o urbano, pela Lei Complementar cento e cinquenta, artigo catorze.
+BRUNO: As trocas típicas da FCC: dar ao rural a hora de cinquenta e dois minutos e trinta segundos; dar ao urbano vinte e cinco por cento; inverter os horários da lavoura e da pecuária.
+ANTONIO: A ressalva inicial do artigo setenta e três, "salvo nos casos de revezamento semanal ou quinzenal", não foi recepcionada pela Constituição, Súmula duzentos e treze do STF. Na jornada mista, só as horas noturnas recebem o tratamento especial.
+THALITA: Faz um exemplo?
+FRANCISCA: A Tereza, urbana, trabalha das vinte e duas às cinco. São quatrocentos e vinte minutos divididos por cinquenta e dois e meio: oito horas noturnas. Hora diurna de quinze reais vira dezoito reais, e a noite rende cento e quarenta e quatro reais.
+BRUNO: Se prorrogar até as sete, as duas horas seguintes também têm adicional noturno e hora reduzida, Súmula sessenta, item dois, além do adicional de extras.
+THALITA: E o adicional noturno se incorpora ao salário?
+ANTONIO: Quando habitual, integra o salário, Súmula sessenta, item um. Mas se o empregado é transferido para o horário diurno, perde o adicional, é o salário-condição, Súmula duzentos e sessenta e cinco.
+BRUNO: A OJ noventa e sete diz que o adicional noturno integra a base das extras noturnas. E a OJ trezentos e oitenta e oito, na doze por trinta e seis que cubra a noite toda, diz que o adicional é devido depois das cinco. Mas ela colide com o artigo cinquenta e nove A, parágrafo único, e para fatos posteriores à Reforma prevalece a lei.
+THALITA: E afirmar que a Súmula duzentos e sessenta e cinco ofende a irredutibilidade?
+BRUNO: Errado, é pegadinha clássica.
+THALITA: Então vou fixar assim: urbano, vinte e duas às cinco, hora curta e vinte por cento. Rural, hora cheia e vinte e cinco por cento. Prorrogou a jornada toda noturna, o adicional acompanha. Mudou para o dia, perdeu o adicional.
+
+== SLIDE: Trabalho extraordinário: regra geral e necessidade imperiosa
+* Regra: até 2 horas extras por dia, adicional mínimo de 50% (art. 59)
+* Acordo individual, convenção ou acordo coletivo
+* Art. 61: força maior, serviços inadiáveis, recuperação de paralisação
+* Força maior: sem limite; inadiáveis: até 12h
+* Recuperação: 2h/dia, teto de 10h, 45 dias/ano, autorização prévia
+FRANCISCA: Trabalho extraordinário. A regra do artigo cinquenta e nove e do artigo sétimo, inciso dezesseis, da Constituição: até duas horas extras por dia, por acordo individual, convenção ou acordo coletivo, com adicional mínimo de cinquenta por cento.
+ANTONIO: E há as hipóteses de necessidade imperiosa, artigo sessenta e um. Primeiro, a força maior: sem limite legal expresso, não exige ajuste prévio nem autorização.
+BRUNO: Segundo, serviços inadiáveis ou cuja inexecução cause prejuízo manifesto: jornada de até doze horas, salvo outro limite legal, também sem ajuste prévio nem autorização. Terceiro, a recuperação de paralisação por causas acidentais ou força maior: até duas horas por dia, sem passar de dez horas diárias, por até quarenta e cinco dias por ano, e aqui exige autorização prévia.
+THALITA: Então só a recuperação exige autorização?
+BRUNO: Só ela. Pegadinhas: "serviços inadiáveis não têm limite", errado, são doze horas, sem limite é a força maior. "Recuperação por sessenta dias, independentemente de autorização", errado: quarenta e cinco dias, com autorização prévia.
+FRANCISCA: Na necessidade imperiosa o excesso pode ser exigido independentemente de convenção ou acordo coletivo, parágrafo primeiro do artigo sessenta e um, que a Reforma alterou para suprimir a comunicação à autoridade em dez dias. Os percentuais do parágrafo segundo, hora normal na força maior e vinte e cinco por cento nos demais, não foram recepcionados. Toda hora extra tem adicional mínimo de cinquenta por cento.
+THALITA: Resumo: duas horas por dia com acordo; força maior sem limite; inadiável doze horas; recuperação dois por dia, dez no teto, quarenta e cinco dias, com autorização.
+
+== SLIDE: Súmulas das horas extras
+* Súmula 264: hora extra inclui parcelas salariais + adicional
+* Súmula 376: limite de 2h não exime o pagamento
+* Súmula 291: supressão de extras habituais gera indenização
+* Súmula 340 e OJ 397: comissionista
+* Pegadinha: supressão não gera incorporação
+ANTONIO: As súmulas do extraordinário. A duzentos e sessenta e quatro: a hora extra é a hora normal integrada pelas parcelas salariais, mais o adicional.
+FRANCISCA: A trezentos e setenta e seis, item um: o limite de duas horas não exime o empregador de pagar todas as horas trabalhadas. Item dois: extras habituais integram os haveres trabalhistas, mesmo além do limite do artigo cinquenta e nove.
+THALITA: E se o patrão parar de dar as extras?
+BRUNO: Súmula duzentos e noventa e um. Supressão de extras habituais prestadas por pelo menos um ano gera indenização de um mês das horas suprimidas por ano de prestação ou fração igual ou superior a seis meses. Calcula-se a média dos últimos doze meses multiplicada pelo valor da hora extra do dia da supressão.
+FRANCISCA: O exemplo da Ana: extras habituais por três anos e sete meses, média de trinta horas por mês, hora extra de trinta reais no dia da supressão. Três anos mais a fração de sete meses são quatro. Quatro vezes trinta horas vezes trinta reais: três mil e seiscentos reais.
+THALITA: E o comissionista?
+ANTONIO: Súmula trezentos e quarenta: comissionista puro, com controle de horário, recebe só o adicional de no mínimo cinquenta por cento sobre o valor-hora das comissões, com divisor igual às horas efetivamente trabalhadas. A OJ trezentos e noventa e sete trata do comissionista misto: parte fixa leva hora mais adicional, parte variável leva só o adicional.
+BRUNO: Pegadinhas da apostila: "supressão das extras gera incorporação ao salário", errado, gera indenização. "Comissionista puro recebe hora mais adicional", errado, só o adicional.
+THALITA: Macete: puro, só adicional; misto, fixa completa e variável só adicional.
+ANTONIO: Excelente. Agora vamos às formas de organizar essa jornada: compensação, banco de horas e doze por trinta e seis, e depois salário mínimo, piso e férias.
