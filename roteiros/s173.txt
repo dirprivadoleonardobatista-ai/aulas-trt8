@@ -1,0 +1,81 @@
+SEGMENTO s173
+== SLIDE: Questão 1: organização sindical na Constituição
+* Registro no órgão competente, sem autorização estatal (art. 8º, I; Súm. 677 STF)
+* Unicidade sindical em qualquer grau (art. 8º, II); base mínima: um Município
+* Aposentado filiado vota e pode ser votado (art. 8º, VII)
+* Sindicato é obrigatório em toda negociação coletiva (art. 8º, VI)
+* Gabarito: C
+ANTONIO: Fechamos o quadro da Reforma. Agora é a hora de testar: seis questões no estilo FCC, comentadas alternativa por alternativa. Na primeira, o enunciado pergunta, nos termos da Constituição, o que é correto sobre a organização sindical brasileira.
+THALITA: São cinco alternativas, e eu já vou querer palpitar. Leiam devagar, que eu preciso de um tempo.
+BRUNO: Pausa para você pensar. Pause o vídeo, leia as alternativas e marque a sua antes de continuarmos.
+ANTONIO: Vamos lá. A alternativa A diz que a fundação de sindicato depende de autorização do Ministério do Trabalho, que verifica previamente a representatividade.
+THALITA: Parece até razoável. Eu marcaria essa.
+FRANCISCA: Está errada, e é pegadinha clássica. A Constituição proíbe exigir autorização do Estado. Só se admite o registro no órgão competente, conforme o artigo oitavo, inciso primeiro, e a Súmula seiscentos e setenta e sete do Supremo.
+BRUNO: A alternativa B permite mais de um sindicato da mesma categoria na mesma base territorial, desde que em graus distintos. Errada: a unicidade vale em qualquer grau, artigo oitavo, inciso segundo. Não importa se é sindicato, federação ou confederação.
+ANTONIO: A alternativa C diz que a base territorial é definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município. É a cópia do artigo oitavo, inciso segundo. Correta.
+THALITA: Eu tinha ficado com a A, mas agora a ficha caiu: sindicato nasce livre, sem licença do Estado.
+FRANCISCA: A alternativa D diz que o aposentado filiado vota, mas não pode ser votado. Errada: o artigo oitavo, inciso sétimo, garante ao aposentado filiado o direito de votar e de ser votado.
+BRUNO: E a E é a mais traiçoeira. Diz que a participação dos sindicatos é facultativa no acordo coletivo. O artigo oitavo, inciso sexto, torna obrigatória a participação do sindicato em qualquer negociação coletiva. A dispensa que existe no acordo coletivo é a do sindicato patronal, porque a empresa negocia diretamente. Gabarito: C.
+THALITA: Macete: registro sim, autorização não, unicidade em qualquer grau, aposentado vota e é votado. Vamos à segunda.
+== SLIDE: Questão 2: acordo coletivo versus convenção
+* Art. 620 CLT pós-Reforma: o acordo coletivo prevalece sempre
+* Fim do critério da norma mais favorável
+* Adicional de 60% respeita o mínimo constitucional (art. 611-B, X)
+* Vigência máxima de dois anos, sem ultratividade (art. 614, § 3º)
+* Gabarito: A
+FRANCISCA: Questão dois. O sindicato dos trabalhadores em indústrias de alimentação de Belém fez convenção coletiva com o sindicato patronal, prevendo adicional de horas extras de setenta por cento. Depois, o mesmo sindicato firmou acordo coletivo com a Delta Alimentos, fixando sessenta por cento. Pelo que diz a CLT, qual adicional vale para os empregados da Delta?
+THALITA: Pausa para pensar. Eu já aviso que minha tendência é setenta, porque protege mais o trabalhador.
+ANTONIO: Boa hora para revisar o raciocínio. Alternativa A: aplica-se o acordo de sessenta por cento, porque as condições do acordo sempre prevalecem. Alternativa B: aplica-se setenta, porque prevalece a norma mais favorável.
+THALITA: Eu fico com a B, porque é a mais favorável.
+BRUNO: E caiu na armadilha da própria banca. A B reproduz o critério da norma mais favorável, que era a redação revogada do artigo seiscentos e vinte. Depois da Reforma, a condição estabelecida em acordo coletivo sempre prevalece sobre a da convenção.
+THALITA: Entendi: o critério mudou, não é mais o favorável, é a especialidade do acordo.
+FRANCISCA: Exatamente. E o sessenta por cento não é uma cláusula proibida, porque respeita o mínimo constitucional de cinquenta por cento, e o artigo seiscentos e onze-B, inciso décimo, protege justamente esse mínimo. Por isso a A está correta.
+ANTONIO: A alternativa C diz que o acordo é nulo, porque não poderia ser menos vantajoso que a convenção. Errada: não há nulidade, prevalece a especialidade. A D afirma que a convenção é hierarquicamente superior, por abranger toda a categoria. Errada, não há hierarquia a favor da convenção, é o contrário.
+BRUNO: A E diz que o acordo só prevalece se tiver vigência superior à da convenção, limitada a três anos. Esse requisito não existe, e a vigência máxima é de dois anos, artigo seiscentos e catorze, parágrafo terceiro. Gabarito: A.
+THALITA: Macete: o acordo é o mais específico, então ganha sempre. E o prazo é de dois anos, não três.
+== SLIDE: Questão 3: o que a norma coletiva pode negociar
+* Podem ser negociados: intervalo mínimo de 30 minutos (art. 611-A, III)
+* Enquadramento de insalubridade (art. 611-A, XII) e troca do dia de feriado (art. 611-A, XI)
+* Adicional de horas extras: mínimo de 50% (art. 611-B, X)
+* Gabarito: E (I, II e IV)
+BRUNO: Questão três, de Oficial de Justiça. A banca lista quatro cláusulas de convenção coletiva. Primeira, redução do intervalo para trinta minutos em jornada de oito horas. Segunda, enquadramento do grau de insalubridade das atividades da categoria. Terceira, adicional de horas extras de quarenta por cento. Quarta, troca do dia de feriado. Pelos artigos seiscentos e onze-A e seiscentos e onze-B, o que é válido?
+THALITA: Pausa para você pensar, pessoal. Eu marcaria todas, porque a negociação prevalece sobre a lei.
+ANTONIO: Calma, que a negociação tem limite. Vamos item por item. O primeiro: redução do intervalo intrajornada para trinta minutos em jornada de oito horas. O artigo seiscentos e onze-A, inciso terceiro, permite, respeitado o mínimo de trinta minutos. Válida.
+FRANCISCA: O segundo: enquadramento do grau de insalubridade. O artigo seiscentos e onze-A, inciso décimo segundo, permite. Válida. O quarto: troca do dia de feriado, que está no inciso décimo primeiro do mesmo artigo. Também válida.
+THALITA: E o terceiro, quarenta por cento de adicional? Parece uma redução pequena.
+BRUNO: Ilícita. O adicional mínimo de horas extras é cinquenta por cento, previsto na Constituição, e o artigo seiscentos e onze-B, inciso décimo, impede que norma coletiva reduza esse mínimo. Item três está fora.
+ANTONIO: Então a resposta é primeiro, segundo e quarto. A alternativa E. Vejam como as outras caem: A, B e C incluem o item três. A D inclui o três e ainda exclui o um e o dois, que são válidos.
+THALITA: Entendi: o item três é o que contamina quatro das cinco alternativas. Basta identificá-lo e já elimino A, B, C e D.
+FRANCISCA: Boa estratégia de prova: ache o item que é certamente falso e use para eliminar. Gabarito: E.
+BRUNO: Mais um detalhe: o mínimo de trinta minutos no intervalo é piso. Se a cláusula falasse em vinte minutos, aí seria inválida.
+== SLIDE: Questões 4 e 5: greve em serviço essencial e contribuições sindicais
+* Transporte coletivo é atividade essencial (Lei 7.783/1989, art. 10, V)
+* Aviso de 72 horas a empregadores e usuários (art. 13); 48 horas nas demais (art. 3º)
+* Contribuição confederativa: só filiados (SV 40); fim da compulsoriedade válido (ADI 5794)
+* Contribuição assistencial: constitucional com direito de oposição (Tema 935)
+* Gabaritos: Questão 4, B; Questão 5, D
+ANTONIO: Questão quatro. Os empregados de uma empresa de transporte coletivo urbano aprovam a greve em assembleia. Pela Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, a entidade sindical deve fazer o quê?
+THALITA: Pausa para pensar. Transporte é essencial, certo? Então o prazo deve ser maior que o normal.
+FRANCISCA: Certo. O transporte coletivo é atividade essencial, artigo dez, inciso quinto. Nessas atividades o aviso é de setenta e duas horas, aos empregadores e aos usuários, artigo treze. Alternativa B, correta.
+BRUNO: A A fala em quarenta e oito horas, que é a regra das atividades não essenciais. A C inventa autorização prévia do Ministério Público do Trabalho, que não existe. A D e a E trocam prazo e destinatários.
+ANTONIO: Questão cinco, sobre contribuições sindicais e a jurisprudência do Supremo. A alternativa A diz que a confederativa é exigível de todos da categoria. Errada: a Súmula Vinculante quarenta limita aos filiados.
+BRUNO: A B diz que a contribuição sindical continua compulsória, porque só lei complementar poderia extingui-la. Errada: na ADI cinco mil setecentos e noventa e quatro o Supremo entendeu constitucional o fim da compulsoriedade por lei ordinária.
+THALITA: A C diz que a assistencial nunca pode ser cobrada de não sindicalizados. Eu marquei essa.
+FRANCISCA: Era a tese original de dois mil e dezessete, revista em dois mil e vinte e três. A D reflete a tese atual do Tema novecentos e trinta e cinco: é constitucional a contribuição assistencial devida por todos da categoria, mesmo não sindicalizados, desde que assegurado o direito de oposição. Correta.
+BRUNO: E a E diz que o desconto da contribuição sindical pode ser autorizado por cláusula de convenção aprovada em assembleia. Errada: a autorização é individual, prévia e expressa, artigos quinhentos e setenta e nove e seiscentos e onze-B, inciso vigésimo sexto.
+THALITA: Macete: assistencial, com oposição, vale para todos; sindical, só com autorização individual.
+== SLIDE: Questão 6: garantia de emprego do dirigente sindical
+* Garantia desde o registro da candidatura até um ano após o mandato (art. 8º, VIII, CF)
+* Suplente também é protegido (art. 543, § 3º, CLT)
+* Dispensa por falta grave exige inquérito judicial (Súm. 379 TST)
+* Sem garantia: atividade extinta na base (Súm. 369, IV) ou candidatura no aviso prévio (V)
+* Gabarito: A
+BRUNO: Questão seis, a última. Márcio, empregado da Épsilon, registrou candidatura a cargo de direção do sindicato da categoria e foi eleito suplente. Pela Constituição e pela jurisprudência do TST, o que é correto?
+THALITA: Pausa para pensar. Meu chute é que suplente não tem garantia, porque nem assumiu o cargo.
+ANTONIO: É o erro mais comum, e a alternativa B vai exatamente por aí. Mas está errada: o suplente é expressamente protegido, pelo artigo oitavo, inciso oitavo, da Constituição e pelo artigo quinhentos e quarenta e três, parágrafo terceiro, da CLT.
+FRANCISCA: A alternativa A traz o quadro completo: garantia do registro da candidatura até um ano após o fim do mandato, e dispensa por falta grave só depois de inquérito judicial, conforme a Súmula trezentos e setenta e nove do TST. Correta.
+THALITA: Então a C, que diz que a garantia começa com a posse, está errada.
+BRUNO: Está. O termo inicial é o registro da candidatura, não a posse. A D diz que a garantia subsiste ainda que a empresa encerre as atividades na base territorial do sindicato. Errada: a Súmula trezentos e sessenta e nove, inciso quarto, diz que, extinta a atividade na base, não há garantia.
+FRANCISCA: E a E, sobre registro no curso do aviso-prévio: a Súmula trezentos e sessenta e nove, inciso quinto, afasta a garantia. Se você já estava em aviso prévio, a candidatura não protege.
+ANTONIO: Gabarito: A. Revisando as seis: sindicato sem autorização do Estado e com unicidade; acordo prevalece sobre convenção; adicional mínimo de cinquenta por cento; greve essencial com aviso de setenta e duas horas; assistencial com direito de oposição; suplente protegido.
+THALITA: Isso fecha a aula. Mas ainda falta uma ponta: o aluno precisa ver como tudo se conecta, e é isso que vamos fazer na introdução da próxima aula.
