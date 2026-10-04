@@ -1,0 +1,63 @@
+SEGMENTO s066
+== SLIDE: Competência comum: artigo vinte e três
+* Material e comum: todos os entes executam
+* Saúde, deficiência, patrimônio cultural, meio ambiente, moradia
+* Cooperação por leis complementares (LC 140/2011)
+* Verbo de ação indica competência comum
+ANTONIO: Vimos o artigo vinte e dois, que é legislar. Agora o artigo vinte e três, a competência comum, que é material: todos os quatro entes executam as mesmas tarefas, em cooperação.
+THALITA: Então o artigo vinte e três é fazer, de todos?
+FRANCISCA: Isso. Cuidar da saúde e da assistência pública e da proteção e garantia das pessoas com deficiência. Proteger bens de valor histórico, artístico e cultural, monumentos, paisagens e sítios arqueológicos, e impedir evasão, destruição e descaracterização de obras de arte. Dar acesso à cultura, à educação, à ciência, à tecnologia, à pesquisa e à inovação.
+BRUNO: Proteger o meio ambiente e combater a poluição, preservar florestas, fauna e flora. Fomentar a produção agropecuária e organizar o abastecimento alimentar. Promover programas de moradia e saneamento básico. Combater as causas da pobreza e da marginalização. Registrar, acompanhar e fiscalizar concessões de pesquisa e exploração de recursos hídricos e minerais. E a política de educação para a segurança do trânsito.
+THALITA: Muita coisa! Tem um jeito de lembrar?
+ANTONIO: Tem. Pergunte: o verbo é de ação, como cuidar, proteger, combater, preservar, fomentar? Então é comum, no artigo vinte e três. Se o enunciado diz "legislar sobre", é artigo vinte e dois ou vinte e quatro.
+FRANCISCA: Um exemplo: proteger o meio ambiente é artigo vinte e três, inciso seis. Legislar sobre proteção do meio ambiente é artigo vinte e quatro, inciso seis.
+BRUNO: O parágrafo único fala em leis complementares, no plural, depois da Emenda cinquenta e três, de dois mil e seis, para fixar normas de cooperação entre os entes, visando ao equilíbrio do desenvolvimento e do bem-estar nacional. Um exemplo é a Lei Complementar cento e quarenta, de dois mil e onze, sobre meio ambiente. E na competência comum não há hierarquia: a atuação de um ente não exclui a do outro.
+THALITA: Entendi: comum é fazer junto, sem hierarquia.
+== SLIDE: Competência concorrente: artigo vinte e quatro
+* Legislativa: União, Estados e DF
+* Inciso um: tributário, financeiro, penitenciário, econômico, urbanístico (PUTEF)
+* Orçamento, consumo, meio ambiente, educação, saúde, previdência
+* Procedimentos em matéria processual; Defensoria; deficiência; polícias civis
+ANTONIO: Agora o artigo vinte e quatro: competência legislativa concorrente de União, Estados e Distrito Federal. O inciso um: direito tributário, financeiro, penitenciário, econômico e urbanístico.
+BRUNO: Mnemônico PUTEF: Penitenciário, Urbanístico, Tributário, Econômico, Financeiro. Compare com o CAPACETE de PM do artigo vinte e dois: se o ramo do Direito não está no capacete, provavelmente está no PUTEF.
+THALITA: Então PUTEF é concorrente, capacete é privativo.
+FRANCISCA: Isso. Seguem orçamento, juntas comerciais e custas dos serviços forenses. Produção e consumo. Florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais, proteção ambiental e controle da poluição. Proteção do patrimônio histórico, cultural, artístico, turístico e paisagístico, e responsabilidade por dano ao meio ambiente, ao consumidor e a esses bens e valores.
+BRUNO: Educação, cultura, ensino, desporto, ciência, tecnologia, pesquisa, desenvolvimento e inovação. Juizado de pequenas causas. Procedimentos em matéria processual. Assistência jurídica e Defensoria Pública. Previdência social e proteção e defesa da saúde.
+ANTONIO: Proteção e integração social das pessoas com deficiência, e proteção à infância e à juventude. E o inciso dezesseis traz a organização, garantias, direitos e deveres das polícias civis, mas confira a redação vigente, acrescentada por emenda recente.
+THALITA: Eu confundo previdência com seguridade. Qual é qual?
+FRANCISCA: Previdência social é concorrente, no vinte e quatro. Seguridade social é privativa, no vinte e dois. Guarde essa troca.
+BRUNO: E "procedimentos em matéria processual" é concorrente, enquanto "processo" é privativo da União.
+== SLIDE: A mecânica dos parágrafos do artigo vinte e quatro
+* Com lei federal geral: Estados suplementam
+* Sem lei federal: Estados exercem competência plena
+* Lei federal superveniente suspende a estadual no que for contrário
+* Se a federal for revogada, a estadual volta a valer
+ANTONIO: Agora como funciona a concorrente. Parágrafos um e dois: a União se limita a editar normas gerais, e os Estados e o Distrito Federal suplementam. É a competência suplementar-complementar.
+THALITA: E se a União não edita a lei geral?
+FRANCISCA: Aí, pelo parágrafo terceiro, os Estados e o Distrito Federal exercem competência legislativa plena, para atender a suas peculiaridades. É a competência suplementar-supletiva.
+BRUNO: E vem o parágrafo quarto, que a FCC adora: a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário. Três palavras decidem. Suspende, não revoga. No que lhe for contrário, ou seja, a parte compatível continua. E superveniente: se a federal já existia, a estadual contrária nasce inválida.
+THALITA: Então se a lei federal for revogada depois, a estadual volta a valer?
+ANTONIO: Exatamente, sem necessidade de nova edição, porque a lei estadual nunca deixou de existir. Um exemplo: sem lei federal sobre um aspecto da proteção da fauna, o Estado do Pará edita lei completa, pelo parágrafo terceiro. Três anos depois a União edita normas gerais com regra oposta a dois artigos da lei paraense. Esses dois ficam suspensos e os demais continuam aplicáveis. Revogada a federal, os dois voltam a ser eficazes.
+FRANCISCA: As pegadinhas: incluir Municípios no caput do vinte e quatro, errado, eles atuam pelo artigo trinta, inciso dois; dizer que lei federal superveniente revoga a estadual, errado; dizer que a União pode descer a minúcias, errado, só normas gerais; e dizer que, sem lei federal, o Estado não pode legislar, errado, ele tem competência plena.
+== SLIDE: Treino rápido: comum ou concorrente?
+* Combater a poluição: comum (art. 23, VI)
+* Legislar sobre poluição: concorrente (art. 24, VI)
+* Legislar sobre direito do trabalho: privativa (art. 22, I)
+* Fiscalizar concessões de recursos minerais: comum (art. 23, XI)
+BRUNO: Vamos treinar com quatro frases. Primeira: combater a poluição em qualquer de suas formas. Segunda: legislar sobre controle da poluição. Terceira: legislar sobre direito do trabalho. Quarta: registrar e fiscalizar concessões de exploração de recursos minerais. Quem acerta?
+THALITA: Eu arrisco. A primeira é comum, porque o verbo é combater, e combater é ação. A segunda é concorrente, porque tem o verbo legislar e o tema é meio ambiente. A terceira é privativa da União, porque direito do trabalho está no capacete. E a quarta eu acho que é exclusiva da União, por causa de minério.
+FRANCISCA: Quase tudo certo, Thalita. A quarta é comum, no artigo vinte e três, inciso onze: todos os entes fiscalizam as concessões em seus territórios. O minério em si é bem da União, mas a fiscalização das concessões é de todos.
+THALITA: Ah, então confundi bem da União com competência exclusiva. Anotei, bem é uma coisa, competência é outra.
+== SLIDE: Quadro geral das competências
+* Artigo 21: material, exclusiva, indelegável
+* Artigo 22: legislativa, privativa, delegável por LC
+* Artigo 23: material, comum, cooperação
+* Artigo 24: legislativa, concorrente, gerais x suplementares
+* Artigo 25, parágrafo 1º: residual dos Estados; artigo 30: Municípios
+BRUNO: Vamos organizar tudo. Artigo vinte e um: material, da União, exclusiva, indelegável; exemplo, emitir moeda. Artigo vinte e dois: legislativa, da União, privativa, delegável por lei complementar aos Estados; exemplo, direito do trabalho.
+FRANCISCA: Artigo vinte e três: material, de todos os entes, comum, cooperação por leis complementares; exemplo, combater a pobreza. Artigo vinte e quatro: legislativa, da União, Estados e Distrito Federal, concorrente, sem delegação, com divisão entre normas gerais e suplementares; exemplo, direito tributário.
+THALITA: E os Estados? Os Municípios?
+ANTONIO: Os Estados têm a competência remanescente, no artigo vinte e cinco, parágrafo primeiro; um exemplo é o gás canalizado, no parágrafo segundo. Os Municípios têm o interesse local e a competência suplementar, no artigo trinta; um exemplo é o horário do comércio local.
+THALITA: Eu tenho uns macetes. EXclusiva é EXecução, vinte e um. Privativa é Pode delegar, vinte e dois. Comum é Cooperação, vinte e três. E concorrente é Código geral mais Complemento, vinte e quatro.
+BRUNO: Ótimos macetes. Só um alerta: o próprio texto constitucional às vezes chama de privativa competência indelegável, como no artigo oitenta e quatro. Na dúvida, guie-se pelo artigo citado no enunciado.
+ANTONIO: Muito bem. Com isso fechamos o quadro das competências. No próximo tema, vamos aos Estados, Municípios, Distrito Federal e Territórios, nos artigos vinte e cinco a trinta e três.
