@@ -1,0 +1,47 @@
+SEGMENTO s064
+== SLIDE: Boas-vindas: aula 19, organização do Estado
+* Federação: quatro entes, todos autônomos, nenhum soberano
+* Autonomia: auto-organização, autogoverno, autoadministração, autolegislação
+* Território não é ente federativo
+* Roteiro: arts. 18 a 36
+ANTONIO: Olá, pessoal, bem-vindos à aula dezenove do nosso curso, Direito Constitucional, parte três: organização do Estado e administração pública. Eu sou o Antônio, professor. Hoje vamos ver a organização político-administrativa, a União e suas competências, as competências comuns e concorrentes, Estados, Municípios, Distrito Federal e Territórios, e a intervenção federal e estadual.
+THALITA: Oi, pessoal! Eu sou a Thalita, concurseira, e vou perguntar o que vocês perguntariam.
+FRANCISCA: Eu sou a Francisca, professora, e trago a lei e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC, e mostro onde a banca arma as pegadinhas.
+ANTONIO: Começamos pelo artigo dezoito. A Federação brasileira tem quatro entes políticos: a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos da Constituição.
+THALITA: Autônomos ou soberanos? Eu sempre confundo.
+FRANCISCA: Autônomos, nunca soberanos. A autonomia compreende auto-organização, autogoverno, autoadministração e autolegislação. A soberania pertence à República Federativa do Brasil como um todo. A União, no plano interno, é ente autônomo como os demais, e, no plano internacional, age em nome da República, pelo artigo vinte e um, inciso um.
+BRUNO: O Município como ente federativo é uma peculiaridade brasileira: federação de três níveis. A FCC cobra a palavra autônomos e, se aparecer soberanos, é erro.
+THALITA: E os Estados e o Distrito Federal, como ficam?
+ANTONIO: Os Estados têm Constituição própria, no artigo vinte e cinco. O Distrito Federal é ente autônomo híbrido, com competências de Estado e de Município, e não pode ser dividido em Municípios. Os Municípios têm lei orgânica e não têm Judiciário nem representação no Senado.
+FRANCISCA: Brasília é a capital federal, e o Distrito Federal é o ente. Trocar um pelo outro é pegadinha clássica. Já os Territórios Federais integram a União, são autarquias territoriais sem autonomia política, e a criação, transformação em Estado ou reintegração ao Estado de origem se faz por lei complementar.
+BRUNO: Hoje não existem Territórios. Roraima e Amapá viraram Estados, e Fernando de Noronha foi reincorporado a Pernambuco pelo ADCT.
+THALITA: O Amapá, que fica na região do nosso TRT, é um ex-Território que a própria Constituição de oitenta e oito elevou a Estado. Gostei da curiosidade.
+== SLIDE: Alterando o mapa: Estados e Municípios
+* Estados: incorporação, subdivisão, desmembramento
+* Plebiscito, oitiva das Assembleias (opinativa) e lei complementar federal
+* Municípios: lei complementar federal define o período
+* Estudos de viabilidade, plebiscito, lei ordinária estadual
+* EC 57/2008 convalidou Municípios criados até 2006
+FRANCISCA: Para alterar a divisão dos Estados, o artigo dezoito, parágrafo terceiro, prevê quatro modalidades. Incorporação ou fusão: dois ou mais Estados formam um novo, e os originais desaparecem. Subdivisão: um Estado se divide em dois ou mais novos. Desmembramento-anexação: parte de um Estado se junta a outro. Desmembramento-formação: parte de um Estado forma novo Estado ou Território.
+THALITA: Nos dois últimos, o Estado original continua existindo, só que menor?
+ANTONIO: Exatamente. Nos dois primeiros, o original desaparece. E há três requisitos: plebiscito com a população diretamente interessada, que para o STF, na ADI dois mil seiscentos e cinquenta, é toda a população do Estado envolvido; oitiva das Assembleias Legislativas, opinativa; e lei complementar federal.
+BRUNO: O plebiscito é condição de procedibilidade: resultado negativo encerra o processo, mas resultado positivo não obriga o Congresso a aprovar a lei. E a FCC inverte: diz que a manifestação favorável da Assembleia vincula o Congresso. Errado, é meramente consultiva.
+THALITA: E para criar Município?
+FRANCISCA: O parágrafo quarto: primeiro, lei complementar federal fixa o período em que os atos podem ocorrer; depois, estudos de viabilidade municipal divulgados; em seguida, plebiscito com as populações dos Municípios envolvidos; por fim, lei ordinária estadual cria ou altera o Município.
+BRUNO: A pegadinha é que a lei complementar federal só define o período, não cria o Município. Os estudos têm que vir antes do plebiscito, ordem invertida é erro, o plebiscito vale para todos os Municípios envolvidos, e a lei final é estadual e ordinária. "Lei complementar estadual" ou "lei federal" é erro.
+THALITA: Mas se essa lei complementar federal nunca foi editada, como foram criados Municípios?
+ANTONIO: Boa pergunta. O STF reconheceu a mora do Congresso, na ADI três mil seiscentos e oitenta e dois. A Emenda cinquenta e sete, de dois mil e oito, acrescentou o artigo noventa e seis ao ADCT, convalidando os Municípios criados por lei publicada até o fim de dois mil e seis, que atendiam à legislação estadual da época. Os criados depois, sem a lei complementar, são inconstitucionais.
+== SLIDE: Artigo dezenove: as vedações aos entes
+* Religião: nem fundar, nem financiar, nem dificultar; Estado laico
+* Documento público: fé em todos os entes
+* Distinções entre brasileiros e preferências entre entes
+* Mnemônico RE-DO-DI
+BRUNO: O artigo dezenove traz vedações comuns a todos os entes. O inciso um proíbe fundar religiões, financiá-las, dificultar o funcionamento ou manter com elas ou seus líderes dependência ou aliança. A ressalva é a colaboração de interesse público, na forma da lei. É a base do Estado laico, que não é ateu.
+THALITA: Dá para um convênio com entidade religiosa?
+FRANCISCA: Em tese sim. Um convênio entre o Estado e uma entidade religiosa para manter um hospital filantrópico é colaboração de interesse público admitida pela ressalva. O que não se admite é aliança ou dependência.
+ANTONIO: O inciso dois proíbe negar fé a documento público: o documento de um ente vale perante os demais. E o inciso três proíbe criar distinções entre brasileiros e preferências entre os entes, a isonomia federativa.
+BRUNO: Um exemplo prático: uma lei do Município Alfa que reserva vagas em concurso só a candidatos nascidos no próprio Município cria distinção entre brasileiros e viola o inciso três.
+THALITA: Posso resumir com um macete? RE-DO-DI: religião, documento e distinções. Dá para lembrar fácil.
+FRANCISCA: Perfeito. Religião é a laicidade, documento é a fé pública, e distinções são entre brasileiros e entre entes.
+ANTONIO: Muito bem. Estabelecemos a base da organização do Estado. No próximo tema, vamos à União: seus bens e suas competências exclusivas e privativas, nos artigos vinte a vinte e dois.
