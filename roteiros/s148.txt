@@ -1,0 +1,146 @@
+SEGMENTO s148
+== SLIDE: Aula 43: estabilidade e garantias provisórias
+* Estabilidade decenal: histórica, arts. 492 a 500 da CLT
+* Garantias provisórias: tempo certo, fim marcado
+* Inquérito judicial: decenal e dirigente sindical (Súmula 379)
+* Esgotado o período: só indenização (Súmula 396, OJ 399)
+ANTONIO: Olá, pessoal, bem-vindos à aula quarenta e três do nosso curso para o TRT da oitava região. Estamos em Direito do Trabalho, no bloco sobre a vida e a morte do vínculo, e hoje fechamos essa parte com estabilidade, garantias provisórias, reintegração e uma bateria de questões estilo FCC.
+THALITA: Oi, gente, eu sou a Thalita, concurseira como vocês. Vou perguntar tudo aquilo que eu mesma tenho vergonha de perguntar na hora da prova.
+FRANCISCA: Eu sou a Francisca, professora. Fico com a lei, a jurisprudência e os exemplos concretos.
+BRUNO: E eu sou o Bruno, especialista em FCC. Meu papel é mostrar onde a banca arma a pegadinha e comentar as questões alternativa por alternativa.
+ANTONIO: Vamos ao roteiro. Primeiro, a estabilidade decenal, que é histórica. Depois, as garantias provisórias, uma a uma: dirigente sindical, cipeiro, gestante e acidentado. Fechamos com um quadro geral. Na sequência, a despedida do estável e a reintegração, e por último as questões comentadas.
+THALITA: Antes de entrar nos detalhes, qual é a diferença básica entre estabilidade e garantia provisória? Eu sempre misturo.
+ANTONIO: Boa. A estabilidade definitiva, a decenal, vem dos artigos quatrocentos e noventa e dois a quinhentos da CLT. Era a proteção de quem passava de dez anos na mesma empresa. Com o FGTS universal da Constituição de mil novecentos e oitenta e oito, ela foi extinta para os contratos novos. Já as garantias provisórias têm tempo certo: acabou o período, acabou a proteção.
+FRANCISCA: E a ideia comum é esta: o empregador perde a liberdade de dispensar sem motivo. Na decenal e no dirigente sindical, a dispensa só vale por falta grave apurada em inquérito judicial. Nas demais garantias, basta que o empregador prove a justa causa em juízo, sem inquérito prévio.
+BRUNO: Guardem isso, porque a FCC adora trocar. Ela escreve que todo estável precisa de inquérito. Errado. Inquérito é para o decenal e para o dirigente sindical, conforme a Súmula trezentos e setenta e nove do TST. Para o cipeiro e para a gestante, não.
+THALITA: Então a lista das garantias provisórias é grande, né?
+FRANCISCA: É sim. Dirigente sindical, cipeiro, gestante, acidentado, membro de comissão de conciliação prévia, diretor de cooperativa criada pelos empregados, conselheiros do Conselho Curador do FGTS e do Conselho Nacional de Previdência Social, e os membros da comissão de representantes dos empregados, prevista no artigo quinhentos e dez-D da CLT. Vamos ver todas, algumas rapidamente.
+THALITA: Tem mais alguma regra geral importante antes de começar?
+BRUNO: Tem. Quando o período de garantia termina, não existe mais reintegração. Sobra apenas a indenização, que é a Súmula trezentos e noventa e seis. E a ação pode ser ajuizada depois do fim do período, dentro da prescrição, segundo a Orientação Jurisprudencial trezentos e noventa e nove da SDI-1.
+ANTONIO: Perfeito. Vamos começar pela decenal.
+== SLIDE: Estabilidade decenal e o inquérito para apurar falta grave
+* Art. 492: mais de 10 anos na empresa, só falta grave ou força maior
+* Art. 494: suspensão do acusado; dispensa só após o inquérito
+* Art. 853 e Súmula 403 STF: 30 dias, decadência
+* Art. 495: inquérito improcedente, readmissão e salários
+FRANCISCA: A estabilidade decenal está nos artigos quatrocentos e noventa e dois a quinhentos. O artigo quatrocentos e noventa e dois diz que o empregado com mais de dez anos na mesma empresa só pode ser despedido por falta grave ou por força maior, devidamente comprovadas.
+THALITA: E o que é falta grave nesse contexto?
+FRANCISCA: O artigo quatrocentos e noventa e três responde. É uma falta daquelas do artigo quatrocentos e oitenta e dois, as justas causas, que pela repetição ou pela natureza represente séria violação dos deveres do empregado. Não é qualquer deslize.
+ANTONIO: Agora o procedimento. Pelo artigo quatrocentos e noventa e quatro, o empregador pode suspender o empregado acusado de falta grave, mas a dispensa só se torna efetiva depois do inquérito que comprove a falta. O inquérito é uma reclamação escrita, ajuizada em trinta dias contados da suspensão, conforme o artigo oitocentos e cinquenta e três.
+BRUNO: E esse prazo é pegadinha clássica. É a Súmula quatrocentos e três do STF: o prazo de trinta dias para o inquérito é de decadência. Então não se suspende nem se interrompe. Perdeu o prazo, perdeu o direito de apurar a falta por essa via.
+THALITA: Se passa os trinta dias, o empregador está perdido?
+BRUNO: Perdeu o inquérito, e o empregado suspenso volta a ter os direitos do contrato. Decadência é prazo fatal, anotem.
+FRANCISCA: Agora a consequência de o empregador perder o inquérito. Pelo artigo quatrocentos e noventa e cinco, se for reconhecida a inexistência de falta grave, ele fica obrigado a readmitir o empregado e a pagar os salários do período da suspensão.
+THALITA: Readmitir? Então o contrato terminou e recomeçou?
+FRANCISCA: Não, e é essa a pegadinha. Embora o texto diga readmitir, trata-se de reintegração. O contrato nunca se rompeu, e todo o período de afastamento é computado e remunerado. A suspensão do artigo quatrocentos e noventa e quatro, se o inquérito for julgado improcedente, converte-se retroativamente em interrupção.
+BRUNO: Na prova aparece assim: a alternativa diz que o empregado readmitido perde o tempo de serviço do afastamento. Falsa. Conta tudo.
+ANTONIO: Mais três artigos para completar. O artigo quatrocentos e noventa e seis permite que o tribunal converta a reintegração em indenização quando ela for desaconselhável, por incompatibilidade, sobretudo se o empregador for pessoa física. O artigo quatrocentos e noventa e sete prevê indenização em dobro se a empresa for extinta sem força maior. E o artigo quatrocentos e noventa e nove diz que não há estabilidade em cargo de diretoria, gerência ou confiança, ressalvado o cômputo do tempo no cargo efetivo.
+THALITA: Resumindo: dez anos, inquérito em trinta dias, decadência, e se perder volta com os salários.
+ANTONIO: Isso. E o artigo quinhentos ainda diz que o pedido de demissão do estável só vale com a assistência do sindicato ou, na falta, de autoridade do Ministério do Trabalho ou da Justiça do Trabalho.
+== SLIDE: Dirigente sindical: candidatura, suplente e prazo de comunicação
+* Art. 8º, VIII, CF: vedada a dispensa desde o registro da candidatura
+* Eleito, mesmo suplente: até 1 ano após o fim do mandato
+* Art. 543, § 5º: comunicação em 24 horas
+* Súmula 369, I: comunicação tardia não elimina a garantia
+BRUNO: Vamos para o dirigente sindical. A Constituição, no artigo oitavo, inciso oito, veda a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical. Se for eleito, ainda que suplente, a vedação vai até um ano após o final do mandato, salvo falta grave nos termos da lei.
+FRANCISCA: O artigo quinhentos e quarenta e três, parágrafo terceiro, da CLT repete a ideia, com um detalhe: a falta grave deve ser devidamente apurada nos termos da Consolidação. Ou seja, passa pelo inquérito.
+THALITA: Quando a garantia começa exatamente? Na eleição?
+FRANCISCA: Não, no registro da candidatura. Esse é o marco inicial. Se o empregado for eleito, inclusive como suplente, a garantia vai até um ano depois do fim do mandato. Se não for eleito, ela cessa com a apuração do pleito.
+BRUNO: Candidatura é o marco inicial, e a FCC costuma trocar por eleição ou por posse. Então cuidado: se a alternativa diz que a garantia começa com a posse, está errada.
+THALITA: E o empregador precisa ser avisado?
+FRANCISCA: Precisa. A entidade sindical deve comunicar à empresa, por escrito, em vinte e quatro horas, o registro da candidatura e, em igual prazo, a eleição e a posse. Isso está no artigo quinhentos e quarenta e três, parágrafo quinto.
+THALITA: E se o sindicato atrasar a comunicação, o empregado perde a garantia?
+ANTONIO: Boa pergunta, e a resposta está na Súmula trezentos e sessenta e nove, item um, do TST. A estabilidade é assegurada ainda que a comunicação seja feita fora do prazo, desde que a ciência ao empregador, por qualquer meio, ocorra na vigência do contrato de trabalho.
+BRUNO: Resumindo a pegadinha: o prazo de vinte e quatro horas não é requisito de validade da garantia. O que importa é o empregador tomar ciência enquanto o contrato ainda vigora. Se a alternativa diz que a comunicação tardia elimina a estabilidade, está errada.
+THALITA: Então vale a ciência por qualquer meio, até um recado verbal, por exemplo?
+FRANCISCA: Exatamente, a súmula fala em qualquer meio. A prova do fato é que fica por conta do empregado, claro, mas a forma não é exigida.
+ANTONIO: E lembre que a ciência precisa ocorrer durante o contrato. Depois da rescisão, já não adianta.
+== SLIDE: Súmula 369: sete dirigentes, categoria diferenciada e quem fica de fora
+* Súmula 369, II: até 7 dirigentes e igual número de suplentes
+* Categoria diferenciada: só com atividade pertinente
+* Fora: conselho fiscal (OJ 365), delegado sindical (OJ 369)
+* Candidatura no aviso prévio não garante estabilidade
+BRUNO: Seguimos na Súmula trezentos e sessenta e nove. O item dois diz que o artigo quinhentos e vinte e dois da CLT foi recepcionado, e que a estabilidade fica limitada a sete dirigentes sindicais e igual número de suplentes.
+THALITA: Sete titulares e sete suplentes. Dá quatorze no total, certo?
+ANTONIO: Certo. Qualquer número acima disso não goza da garantia.
+FRANCISCA: O item três trata da categoria diferenciada. O empregado dessa categoria eleito dirigente só goza de estabilidade se exercer na empresa atividade pertinente à categoria do sindicato. Imagine um motorista eleito dirigente do sindicato dos motoristas, mas que trabalha como motorista numa empresa. Aí sim. Se trabalhar noutra função na empresa, sem relação com a categoria, não tem a garantia.
+BRUNO: O item quatro trata da extinção da atividade empresarial na base territorial do sindicato: acabou a atividade ali, não há razão para subsistir a estabilidade. E o item cinco é pegadinha frequente: o registro da candidatura durante o aviso prévio, ainda que indenizado, não assegura estabilidade.
+THALITA: Mas se a gestante engravida no aviso prévio tem garantia, e o candidato no aviso prévio não? Por que essa diferença?
+FRANCISCA: Porque são fundamentos diferentes. A gravidez é um fato objetivo, que a lei protege expressamente, no artigo trezentos e noventa e um-A. A candidatura sindical depende de ato voluntário do empregado, e a súmula entendeu que, registrada durante o aviso, ela não produz a garantia.
+ANTONIO: Agora quem não tem a garantia. O membro do conselho fiscal do sindicato não tem, porque não representa nem defende a categoria: é a Orientação Jurisprudencial trezentos e sessenta e cinco da SDI-1. O delegado sindical, que é designado e não eleito, também não: Orientação Jurisprudencial trezentos e sessenta e nove da SDI-1.
+BRUNO: A banca gosta de colocar o conselho fiscal e o delegado sindical numa lista de estáveis. Marquem os dois como não estáveis.
+THALITA: Macete: quem representa e é eleito entra; quem fiscaliza ou foi só designado fica fora.
+ANTONIO: Boa. E fechando o dirigente, a Súmula trezentos e setenta e nove: ele só pode ser dispensado por falta grave apurada em inquérito judicial, nos termos dos artigos quatrocentos e noventa e quatro e quinhentos e quarenta e três, parágrafo terceiro. Se for afastado, suspenso ou dispensado, a reintegração admite liminar, conforme o artigo seiscentos e cinquenta e nove, inciso dez, da CLT.
+== SLIDE: Cipeiro: só o representante dos empregados e a Súmula 339
+* Art. 10, II, a, ADCT: eleito, desde a candidatura até 1 ano após o mandato
+* Representante do empregador, designado: sem garantia
+* Veda a dispensa arbitrária (art. 165): sem inquérito
+* Súmula 339: suplente protegido; extinto o estabelecimento, sem reintegração
+FRANCISCA: Agora o cipeiro. O artigo décimo, inciso dois, alínea a, do ADCT veda a dispensa arbitrária ou sem justa causa do empregado eleito para cargo de direção de comissões internas de prevenção de acidentes. A garantia vai do registro da candidatura até um ano após o final do mandato.
+THALITA: Todos os integrantes da CIPA são protegidos?
+FRANCISCA: Não. Protege apenas o representante dos empregados, o eleito. Os representantes do empregador, que ele designa, não têm garantia.
+BRUNO: Pegadinha clássica: a alternativa diz que todos os membros da comissão têm estabilidade. Errado. Só o eleito pelos empregados.
+ANTONIO: E o que significa dispensa arbitrária aqui?
+FRANCISCA: A CLT define no artigo cento e sessenta e cinco: é a que não se funda em motivo disciplinar, técnico, econômico ou financeiro. Isso quer dizer que o cipeiro pode ser dispensado por qualquer desses motivos. E não se exige inquérito judicial.
+THALITA: Então o cipeiro é menos protegido do que o dirigente sindical?
+FRANCISCA: Nesse ponto, sim. O dirigente exige falta grave apurada em inquérito. O cipeiro admite dispensa por motivo disciplinar, técnico, econômico ou financeiro, sem inquérito.
+BRUNO: A FCC troca isso o tempo todo. A alternativa afirma que o cipeiro só pode ser dispensado após inquérito. Errado. É o dirigente sindical que precisa do inquérito.
+ANTONIO: Uma atualização que vale citar. A Lei catorze mil quatrocentos e cinquenta e sete, de dois mil e vinte e dois, rebatizou a comissão. Agora é Comissão Interna de Prevenção de Acidentes e de Assédio.
+THALITA: E o suplente, tem a garantia?
+ANTONIO: Tem, pela Súmula trezentos e trinta e nove, item um, do TST: o suplente da CIPA goza da garantia de emprego a partir da promulgação da Constituição de mil novecentos e oitenta e oito.
+FRANCISCA: O item dois é o complemento. A estabilidade do cipeiro não é vantagem pessoal, mas garantia para as atividades dos membros da comissão, que só tem razão de ser quando a empresa está em atividade. Extinto o estabelecimento, não se verifica a despedida arbitrária, é impossível a reintegração e indevida a indenização do período estabilitário.
+THALITA: Fechou o estabelecimento, nem reintegração nem indenização.
+BRUNO: Isso. Guardem: fechamento do estabelecimento, nada de indenização para o cipeiro.
+== SLIDE: Gestante: confirmação objetiva e Súmula 244
+* Art. 10, II, b, ADCT: da confirmação da gravidez a 5 meses após o parto
+* Confirmação = fato objetivo, concepção
+* Súmula 244, I: desconhecimento do empregador é irrelevante
+* Tema 497 STF: basta gravidez anterior à dispensa
+ANTONIO: Chegamos à gestante, a queridinha das provas. O artigo décimo, inciso dois, alínea b, do ADCT veda a dispensa arbitrária ou sem justa causa da empregada gestante desde a confirmação da gravidez até cinco meses após o parto.
+THALITA: Confirmação é quando o médico confirma, ou quando ela avisa a empresa?
+FRANCISCA: Nenhum dos dois. Confirmação significa o fato objetivo da gravidez, ou seja, a concepção. Não depende de comunicação ao empregador nem de exame. Basta que a gravidez seja anterior à dispensa. A responsabilidade do empregador é objetiva: o desconhecimento é irrelevante.
+BRUNO: É exatamente o que diz a Súmula duzentos e quarenta e quatro, item um, do TST: o desconhecimento do estado gravídico pelo empregador não afasta o direito à indenização. E o Supremo confirmou no Tema quatrocentos e noventa e sete, recurso extraordinário seiscentos e vinte e nove mil e cinquenta e três: a estabilidade só exige que a gravidez seja anterior à dispensa sem justa causa.
+THALITA: Então se a empresa dispensou e ela descobriu a gravidez depois, mas já estava grávida na data da dispensa, tem direito?
+FRANCISCA: Tem, desde que a concepção seja anterior à dispensa.
+ANTONIO: O item dois da Súmula duzentos e quarenta e quatro trata da reintegração: a garantia só autoriza reintegração se esta se der durante o período de estabilidade. Do contrário, restringe-se aos salários e demais direitos correspondentes ao período.
+BRUNO: Resumindo para a prova: reintegração só dentro do período. Passou, vira indenização do período.
+FRANCISCA: Agora o artigo trezentos e noventa e um-A. A confirmação do estado de gravidez advindo no curso do contrato, ainda que durante o aviso prévio, trabalhado ou indenizado, garante à gestante a estabilidade. Veio da Lei doze mil oitocentos e doze, de dois mil e treze, e afastou, para a gestante, a lógica da Súmula trezentos e setenta e um, que não dava estabilidade a quem tinha o fato no curso do aviso indenizado.
+THALITA: Então o aviso prévio não corta a garantia da gestante.
+ANTONIO: Exato. E o parágrafo único, trazido pela Lei treze mil quinhentos e nove, de dois mil e dezessete, estende a garantia ao adotante que obteve guarda provisória para fins de adoção.
+BRUNO: A pegadinha é achar que a adoção só vale com sentença final. Basta a guarda provisória.
+== SLIDE: Gestante: situações especiais e a polêmica do contrato a termo
+* Contrato por prazo determinado: garantia mantida (Súmula 244, III)
+* Trabalho temporário (Lei 6.019): garantia inaplicável
+* Morte da mãe: garantia a quem detiver a guarda (LC 146/2014)
+* Dispensa por justa causa: válida
+THALITA: Eu tenho dificuldade com os casos especiais. Contrato de experiência, por exemplo, a gestante tem garantia?
+FRANCISCA: Tem, pela Súmula duzentos e quarenta e quatro, item três: a gestante tem direito à estabilidade provisória mesmo na admissão por contrato por tempo determinado. Isso vale para o contrato de experiência.
+BRUNO: Mas atenção ao trabalho temporário da Lei seis mil e dezenove, de mil novecentos e setenta e quatro. Aí a garantia é inaplicável, segundo a tese do TST em incidente de assunção de competência. É a exceção.
+THALITA: Então: contrato a termo da CLT tem, temporário não tem.
+BRUNO: Perfeito.
+ANTONIO: Outras situações da tabela. Se o empregador não sabia da gravidez, a garantia se mantém. Se a gravidez foi concebida no curso do aviso prévio, também, pelo artigo trezentos e noventa e um-A.
+FRANCISCA: Se a mãe falece, a garantia é transferida a quem detiver a guarda do filho, pela Lei Complementar cento e quarenta e seis, de dois mil e catorze. Se a ação for ajuizada depois dos cinco meses pós-parto, não é abuso de direito, e é devida a indenização da dispensa até o fim do período, conforme a Orientação Jurisprudencial trezentos e noventa e nove.
+THALITA: E se a gestante for dispensada por justa causa?
+FRANCISCA: A dispensa é válida. A garantia veda apenas a dispensa arbitrária ou sem justa causa. E se ela pedir demissão, a jurisprudência do TST exige assistência sindical para a validade, aplicando-se por analogia o artigo quinhentos.
+ANTONIO: Agora a polêmica. A Súmula duzentos e quarenta e quatro, item três, convive com o Tema quatrocentos e noventa e sete do Supremo. O Tema fala em dispensa sem justa causa, e parte da doutrina sustenta que o término normal do contrato a termo não é dispensa, o que poria o item três em xeque.
+FRANCISCA: Por outro lado, no Tema quinhentos e quarenta e dois o STF assegurou licença-maternidade e estabilidade à gestante, ainda que contratada por tempo determinado, em regime administrativo ou comissionado. O TST mantém o item três para contratos a termo da CLT e afasta apenas o temporário.
+BRUNO: Dica prática. Em prova objetiva que cite a súmula, a resposta é a literalidade: há garantia no contrato a termo. Mas confira o estado atual da jurisprudência na data do edital, porque pode haver revisão do item três.
+== SLIDE: Acidentado e o quadro geral das garantias provisórias
+* Art. 118 da Lei 8.213: 12 meses após cessar o auxílio-doença acidentário
+* Súmula 378: afastamento superior a 15 dias e benefício acidentário
+* Três marcos iniciais: candidatura, nomeação, fato
+* Fim: 1 ano após mandato; gestante, 5 meses após o parto
+ANTONIO: O acidentado. O artigo cento e dezoito da Lei oito mil duzentos e treze, de mil novecentos e noventa e um, garante ao segurado que sofreu acidente do trabalho, pelo prazo mínimo de doze meses, a manutenção do contrato, após a cessação do auxílio-doença acidentário, independentemente de percepção de auxílio-acidente.
+THALITA: Os doze meses contam do acidente?
+FRANCISCA: Não. O marco inicial é a cessação do auxílio-doença acidentário. Por isso exige afastamento superior a quinze dias, porque só do décimo sexto dia em diante há benefício previdenciário. E o prazo é mínimo: norma coletiva pode ampliar.
+BRUNO: A Súmula trezentos e setenta e oito do TST traz três itens. Um, o artigo cento e dezoito é constitucional. Dois, os pressupostos são o afastamento superior a quinze dias e a percepção do auxílio-doença acidentário, salvo se constatada, depois da despedida, doença profissional que guarde relação de causalidade com a execução do contrato. Três, o empregado com contrato por tempo determinado também goza da garantia.
+THALITA: Então, no acidentado, o contrato a termo tem garantia, igual à gestante.
+BRUNO: Igual. E em ambos a FCC cobra a literalidade da súmula.
+ANTONIO: Vamos ao quadro geral. A prova de memorização envolve três variáveis: marco inicial, marco final e necessidade de inquérito. A FCC troca as três.
+FRANCISCA: Linha a linha. Decenal: dez anos de serviço, prazo indeterminado, falta grave com inquérito de trinta dias. Dirigente sindical, até sete mais sete: da candidatura até um ano após o mandato, com inquérito. Cipeiro eleito, titular e suplente: da candidatura a um ano após o mandato, dispensa por motivo disciplinar, técnico, econômico ou financeiro.
+ANTONIO: Gestante: da concepção a cinco meses após o parto, só justa causa. Guardião, na morte da mãe: mesmo prazo. Acidentado: doze meses depois da cessação do benefício, justa causa.
+FRANCISCA: Membro de comissão de conciliação prévia, representante dos empregados, titular e suplente: da eleição até um ano após o mandato, que dura um ano com uma recondução. Diretor de cooperativa criada pelos empregados: da candidatura a um ano após o mandato, pelo artigo cinquenta e cinco da Lei cinco mil setecentos e sessenta e quatro, de mil novecentos e setenta e um, e a Orientação Jurisprudencial duzentos e cinquenta e três não abrange suplentes.
+BRUNO: Conselho Curador do FGTS e Conselho Nacional de Previdência Social: representantes dos trabalhadores, titular e suplente, da nomeação até um ano após o mandato, só falta grave regularmente comprovada. E a comissão de representantes dos empregados, em empresas com mais de duzentos empregados: da candidatura a um ano após o mandato, com dispensa por motivo disciplinar, técnico, econômico ou financeiro.
+THALITA: Macete dos marcos iniciais: candidatura, nomeação e fato. Candidatura para sindical, CIPA, cooperativa e comissão de representantes. Nomeação para os conselhos. Fato para a gravidez e a alta do benefício.
+BRUNO: E quase todos terminam em um ano após o mandato. Gestante, cinco meses após o parto. Acidentado, doze meses após a alta.
+ANTONIO: Um último aviso. O artigo quinhentos e dez-D, parágrafo primeiro, veda que quem exerceu mandato na comissão de representantes se candidate nos dois períodos subsequentes. Agora vamos ver o que acontece quando o empregador dispensa o estável ilegalmente: a despedida e a reintegração.
