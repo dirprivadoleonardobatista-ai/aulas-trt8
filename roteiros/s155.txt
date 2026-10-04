@@ -1,0 +1,49 @@
+SEGMENTO s155
+== SLIDE: Teletrabalho: o que é e o que não é
+* Serviço fora das dependências, preponderante ou não (Lei 14.442/2022)
+* Com tecnologias de informação e comunicação; não é trabalho externo
+* Comparecimento habitual não descaracteriza (art. 75-B, § 1º)
+* Modalidades: por jornada ou por produção ou tarefa
+ANTONIO: Olá, pessoal, bem-vindos à aula quarenta e cinco do nosso curso para o TRT da oitava região. Hoje fechamos o bloco de duração do trabalho, descansos, férias e teletrabalho, com o teletrabalho nos artigos setenta e cinco-A a setenta e cinco-F da CLT e, depois, duas partes de questões comentadas estilo FCC.
+THALITA: Oi, gente, sou a Thalita, concurseira. Vou perguntar o que o aluno pergunta.
+FRANCISCA: Eu sou a Francisca, professora, e trago a lei e a jurisprudência em paráfrase.
+BRUNO: E eu sou o Bruno, especialista em FCC. Mostro as pegadinhas da banca.
+ANTONIO: Vamos começar pelo conceito. Teletrabalho, ou trabalho remoto, é a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com uso de tecnologias de informação e comunicação, e que não se confunda com trabalho externo. Esse texto vem da Lei catorze mil quatrocentos e quarenta e dois, de dois mil e vinte e dois.
+THALITA: Preponderante ou não? Então vale o híbrido, que trabalha uns dias em casa e outros na empresa?
+FRANCISCA: Vale. A lei acolheu o regime híbrido. E o parágrafo primeiro do artigo setenta e cinco-B reforça: o comparecimento às dependências do empregador, mesmo de modo habitual, para atividades específicas que exijam presença, não descaracteriza o teletrabalho.
+BRUNO: A pegadinha é essa. A FCC escreve que o comparecimento habitual descaracteriza o teletrabalho. Errado. Ou então escreve que o comparecimento só pode ser eventual. Também contraria a letra da lei.
+THALITA: E o teletrabalho tem controle de jornada ou não tem?
+ANTONIO: Depende da modalidade, e a lei prevê duas. Teletrabalho por jornada, com controle e direito a horas extras. E teletrabalho por produção ou tarefa, que fica fora do capítulo de duração do trabalho, conforme o artigo sessenta e dois, inciso três.
+BRUNO: Anote: "todo teletrabalhador está fora do controle de jornada" é afirmativa errada. Só o que trabalha por produção ou tarefa.
+FRANCISCA: Outro ponto: o teletrabalho não se confunde com a função de operador de telemarketing ou teleatendimento, artigo setenta e cinco-B, parágrafo quarto. E estagiários e aprendizes também podem trabalhar em regime de teletrabalho, parágrafo sexto.
+THALITA: Ou seja: conceito amplo, híbrido vale, duas modalidades.
+== SLIDE: Contrato, mudança de regime e normas aplicáveis
+* Forma expressa no contrato individual (art. 75-C)
+* Presencial para tele: mútuo acordo, com aditivo
+* Tele para presencial: determinação do empregador, 15 dias de transição
+* Norma coletiva: base do estabelecimento de lotação
+BRUNO: Passando para a formalização. O artigo setenta e cinco-C exige que o teletrabalho esteja expresso no contrato individual de trabalho. A mudança entre regimes é onde mais se erra.
+FRANCISCA: A passagem do regime presencial para o teletrabalho exige mútuo acordo entre as partes, registrado em aditivo contratual. O empregador não pode impor.
+THALITA: E o contrário? Do teletrabalho de volta ao presencial?
+ANTONIO: Aí o empregador pode determinar, por sua iniciativa, desde que respeite uma transição mínima de quinze dias e registre em aditivo. Essa é a diferença que a prova cobra.
+BRUNO: A FCC troca as bolas assim: "o empregador pode impor a passagem para o teletrabalho". Errado. Para ir ao teletrabalho, mútuo acordo. Para voltar ao presencial, pode determinar, com quinze dias.
+THALITA: Macete: ida, acordo; volta, ordem com quinze dias de aviso.
+FRANCISCA: Se o empregado mudou de localidade durante o teletrabalho, as despesas do retorno ao presencial não cabem ao empregador, salvo ajuste diferente. É o parágrafo terceiro do artigo setenta e cinco-C.
+ANTONIO: E qual a norma aplicável? Aplicam-se a legislação local e as normas coletivas da base territorial do estabelecimento de lotação do empregado. Não do domicílio.
+BRUNO: Mais uma pegadinha: "aplica-se a norma coletiva do domicílio do empregado". Errado. É a do estabelecimento de lotação, artigo setenta e cinco-B, parágrafo sétimo.
+THALITA: E o teletrabalho no exterior? Perdi essa.
+FRANCISCA: É admitido no Brasil. Aplica-se a lei brasileira, excluída a Lei sete mil e sessenta e quatro, de mil novecentos e oitenta e dois, salvo ajuste diverso. Horários e comunicação são ajustados por acordo individual, assegurados os repousos legais.
+== SLIDE: Equipamentos, saúde, prioridade e sobreaviso
+* Equipamentos e despesas em contrato escrito; utilidades não integram a remuneração
+* Instruções ostensivas e termo de responsabilidade (art. 75-E)
+* Prioridade: pessoa com deficiência e filho até 4 anos (art. 75-F)
+* Súmula 428: instrumentos telemáticos, por si, não são sobreaviso
+ANTONIO: Agora quem paga a estrutura. O artigo setenta e cinco-D manda que a responsabilidade pelos equipamentos e pelas despesas seja prevista em contrato escrito, e que as utilidades fornecidas não integrem a remuneração.
+THALITA: Então o empregador não é obrigado a fornecer os equipamentos?
+FRANCISCA: Não necessariamente. A lei remete ao contrato. Dizer que o empregador sempre fornece é pegadinha clássica, assim como dizer que as utilidades integram o salário.
+BRUNO: Saúde e segurança: o empregador deve dar instruções expressas e ostensivas sobre precauções, e o empregado assina termo de responsabilidade de que seguirá as instruções, artigo setenta e cinco-E.
+FRANCISCA: Já o artigo setenta e cinco-F dá prioridade de vagas em teletrabalho a empregados com deficiência e a quem tem filho ou criança sob guarda judicial até quatro anos. A Lei catorze mil quatrocentos e cinquenta e sete, de dois mil e vinte e dois, fala em até seis anos. Em prova sobre a CLT, use quatro anos, mas confira a redação vigente.
+THALITA: E o uso de celular e aplicativos fora do horário? É sobreaviso?
+ANTONIO: Pelo artigo setenta e cinco-B, parágrafo quinto, o uso de ferramentas fora da jornada não é tempo à disposição, prontidão ou sobreaviso, salvo previsão em acordo individual ou norma coletiva. A Súmula quatrocentos e vinte e oito do TST também diz que o uso de instrumentos telemáticos, por si só, não caracteriza sobreaviso.
+BRUNO: Há sobreaviso quando o empregado, à distância e sob controle telemático, permanece em plantão aguardando chamado no descanso. Aí aplica-se por analogia o artigo duzentos e quarenta e quatro: sobreaviso até vinte e quatro horas, a um terço da hora normal.
+THALITA: Fechou. E agora vamos ver tudo isso em questões estilo FCC, na primeira parte das questões comentadas.
