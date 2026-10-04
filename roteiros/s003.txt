@@ -1,0 +1,76 @@
+SEGMENTO s003
+== SLIDE: Figuras de palavra e de pensamento
+* Metáfora é semelhança; metonímia é contiguidade
+* Sinédoque, catacrese e sinestesia
+* Antítese convive; paradoxo funde os opostos
+* Ironia, eufemismo, hipérbole, prosopopeia e gradação
+ANTONIO: Fechamos o bloco anterior com o texto e seus sentidos. Agora vamos ver as ferramentas que dão sentido figurado: as figuras de linguagem, depois as relações de sentido entre palavras e, por fim, como as palavras são formadas.
+THALITA: São muitas figuras. Tem como organizar?
+FRANCISCA: Quatro famílias. Figuras de palavra, que alteram o sentido de um termo. Figuras de pensamento, que jogam com ideias. Figuras de construção, que alteram a estrutura da frase. E figuras de som, que exploram a sonoridade.
+BRUNO: As mais cobradas pela FCC são metáfora, metonímia, antítese e paradoxo, ironia, eufemismo, hipérbole, prosopopeia, sinestesia, gradação, pleonasmo, elipse e zeugma, polissíndeto e assíndeto.
+ANTONIO: Comecemos pelas de palavra. A metáfora é uma comparação implícita, sem conectivo. A sentença foi um bálsamo para o reclamante. Já a comparação, ou símile, é explícita, com como, tal qual, feito: trabalhava como uma formiga.
+THALITA: E a metonímia? Sempre troco com a metáfora.
+FRANCISCA: Na metonímia há troca de um termo por outro com relação objetiva de proximidade. Leu Machado, querendo dizer a obra, é autor pela obra. Bebeu dois copos é o continente pelo conteúdo. A toga decidiu é o símbolo pela instituição.
+BRUNO: Esse é o ponto que a banca explora. Na metáfora há semelhança subjetiva: o reclamante sentiu alívio como quem recebe um bálsamo. Na metonímia há contiguidade objetiva, uma relação real entre os termos, o autor e a obra existem lado a lado.
+THALITA: Semelhança é metáfora, proximidade real é metonímia. Fechou.
+ANTONIO: A sinédoque é uma espécie de metonímia: parte pelo todo, singular pelo plural. Faltam braços na lavoura. O brasileiro é criativo. A catacrese é metáfora já incorporada à língua por falta de termo próprio: pé da mesa, braço da cadeira, embarcar no ônibus.
+FRANCISCA: E a sinestesia mistura sensações de sentidos diferentes. Voz áspera junta audição e tato. Cheiro doce junta olfato e paladar.
+ANTONIO: Passemos às figuras de pensamento. A antítese aproxima ideias opostas, sem contradição lógica. A chuva interrompe o trabalho e inaugura a conversa.
+BRUNO: E o paradoxo, também chamado de oxímoro, atribui ideias opostas ao mesmo ser, gerando aparente absurdo. Camões escreveu uma dor que desatina sem doer. Outro exemplo: um silêncio ensurdecedor. Na prova: na antítese os opostos convivem sem se anular, como dia e noite. No paradoxo eles se fundem num mesmo ser, como dor que não dói ou morrer vivendo.
+THALITA: Antítese é convivência, paradoxo é fusão.
+FRANCISCA: Seguem outras. A ironia diz o contrário do que se pensa, com intenção crítica: que pontualidade, chegou só duas horas atrasado. O eufemismo suaviza uma expressão desagradável: ele nos deixou, para dizer que morreu; faltou com a verdade, para dizer que mentiu.
+ANTONIO: A hipérbole é o exagero intencional: já pedi mil vezes, morri de rir. A prosopopeia, ou personificação, atribui ações ou sentimentos humanos a seres inanimados: as agendas ignoram as nuvens. E a gradação, ou clímax, é a sequência de termos em intensidade crescente ou decrescente: ouviu, leu, estudou, dominou a matéria.
+== SLIDE: Figuras de construção e de som
+* Elipse omite termo não mencionado; zeugma, termo já expresso
+* Pleonasmo literário e pleonasmo vicioso
+* Polissíndeto repete conectivos; assíndeto os suprime
+* Hipérbato, anacoluto, silepse e figuras de som
+BRUNO: Agora as figuras de construção, onde a FCC mais pega. Elipse x zeugma. A dica é uma pergunta: o termo omitido já apareceu? Se não apareceu, é elipse. Se apareceu antes, é zeugma.
+FRANCISCA: Exemplos. Na sala, apenas dois advogados: omite-se havia, que não foi dito antes, então é elipse. Ana estudou Direito, Bruno, Letras: omite-se estudou, que já foi expresso, então é zeugma.
+THALITA: Então a zeugma é uma elipse de termo já falado.
+ANTONIO: Isso. O pleonasmo é a repetição de ideia, para dar ênfase, no uso literário, ou por descuido, no vicioso. Literário: vi com estes olhos. Vicioso: subir para cima, elo de ligação.
+BRUNO: Cuidado: nem todo pleonasmo é erro. O literário é recurso de estilo.
+FRANCISCA: A anáfora, como figura, é a repetição da mesma palavra no início de versos ou frases. Era tarde, era chuva, era a cidade inteira à espera.
+THALITA: Tem o mesmo nome da coesão?
+ANTONIO: Mesmo nome, mas contextos diferentes. Na coesão é retomada de termo. Como figura, é repetição enfática no início.
+BRUNO: Polissíndeto e assíndeto. Polissíndeto é a repetição enfática de conectivos: e corre, e grita, e chora, e some. Assíndeto é a ausência de conectivos: vim, vi, venci. O macete: poli, muitos conectivos; a, sem conectivos.
+FRANCISCA: O hipérbato é a inversão da ordem direta da frase. O Hino Nacional é o exemplo clássico: ouviram do Ipiranga as margens plácidas, de um povo heroico o brado retumbante.
+ANTONIO: O anacoluto deixa um termo solto, sem função sintática: o réu, ninguém sabia onde ele estava. E a silepse é a concordância com a ideia, e não com a forma gramatical.
+THALITA: Dá exemplo de silepse?
+FRANCISCA: De gênero: Vossa Excelência está cansado, falando de um homem. De número: a turma chegou, estavam exaustos. De pessoa: os brasileiros somos otimistas.
+BRUNO: Por fim, as figuras de som. Aliteração é repetição de sons consonantes, como vozes veladas, veludosas vozes, de Cruz e Sousa. Assonância é repetição de sons vogais, como na sala, a calma da tarde arrastava as palavras. Onomatopeia é a palavra que imita som: tique-taque, zum-zum-zum.
+== SLIDE: Sinonímia, antonímia, paronímia e homonímia
+* Sinônimos têm sentido próximo; teste a troca no contexto
+* Parônimos: grafia parecida, sentido diferente
+* Homônimos homófonos: mesma pronúncia, grafia diferente
+* Polissemia: uma palavra, vários sentidos aparentados
+ANTONIO: Vamos às relações de sentido. Sinônimos têm sentidos próximos, nunca idênticos em todos os contextos: célere e rápido, dirimir e resolver. Antônimos têm sentidos opostos: deferir e indeferir, lícito e ilícito.
+FRANCISCA: Parônimos têm grafia e pronúncia parecidas, com sentidos diferentes: ratificar e retificar. Homônimos perfeitos têm mesma grafia e pronúncia: são, de sadio, santo ou verbo ser; cedo, advérbio ou verbo ceder. Homônimos homófonos têm mesma pronúncia e grafia diferente: sessão, seção e cessão. E polissemia é uma palavra com vários sentidos relacionados, como peça de teatro, peça processual, peça de roupa.
+BRUNO: Pegadinha: na substituição por sinônimo sem prejuízo do sentido, a FCC testa no contexto. Vultoso é volumoso, de grande valor. Vultuoso é inchado, congestionado. Teste sempre a troca dentro da frase.
+THALITA: Quais parônimos eu preciso decorar?
+FRANCISCA: Os mais cobrados. Ratificar é confirmar; retificar é corrigir. Deferir é conceder; diferir é adiar ou ser diferente. Descriminar é deixar de considerar crime; discriminar é distinguir ou segregar. Eminente é ilustre; iminente é prestes a ocorrer.
+BRUNO: Emergir é vir à tona; imergir é mergulhar. Infligir é aplicar pena ou castigo; infringir é violar norma. Mandado é ordem judicial; mandato é delegação ou período de representação.
+ANTONIO: Flagrante é evidente, no ato; fragrante é perfumado. Tráfego é trânsito; tráfico é comércio, em geral ilícito. Vultoso é de grande valor; vultuoso é inchado. Comprimento é extensão; cumprimento é saudação ou execução.
+THALITA: Quanta coisa. Tenho que fazer cartões.
+FRANCISCA: Agora os homônimos homófonos. Cessão é ato de ceder, sessão é reunião, seção é divisão ou repartição. Concerto é apresentação musical ou harmonia, conserto é reparo. Acender é pôr fogo, ascender é subir.
+BRUNO: Caçar é perseguir animais, cassar é anular mandato ou direito. Cerrar é fechar, serrar é cortar com serra. Incipiente é iniciante, insipiente é ignorante. Tachar é qualificar negativamente, taxar é fixar taxa ou tributar.
+THALITA: Cassar mandato, caçar animal. Esse eu não esqueço mais.
+== SLIDE: Estrutura e formação de palavras
+* Radical, prefixo, sufixo, desinências e vogal temática
+* Derivação: prefixal, sufixal, parassíntese, regressiva, imprópria
+* Composição: justaposição e aglutinação; hibridismo
+* Parassíntese: nenhuma das formas parciais existe
+ANTONIO: Último assunto deste bloco: estrutura e formação de palavras. Estrutura são as peças da palavra: radical, afixos, desinências, vogal temática. Formação é como ela nasceu: derivação, com um radical e afixos ou mudança de classe, ou composição, com dois ou mais radicais.
+FRANCISCA: O radical é o núcleo de significação, comum à família: trabalho, trabalhador, trabalhista. O prefixo vem antes: infeliz, rever, desfazer. O sufixo vem depois: felizmente, julgamento, legalidade.
+BRUNO: A desinência nominal indica gênero e número, como em alunas. As verbais indicam modo e tempo, e número e pessoa: em cantávamos, va marca o imperfeito do indicativo e mos a primeira pessoa do plural.
+THALITA: E a vogal temática?
+FRANCISCA: Liga o radical às desinências e indica a conjugação dos verbos: cantar, com a, primeira conjugação; vender, com e, segunda; partir, com i, terceira.
+ANTONIO: Nos processos de formação: derivação prefixal, prefixo mais radical, como inútil. Sufixal, radical mais sufixo, como lealdade. Prefixal e sufixal, quando a palavra existe com só um deles: infelizmente, porque existem infeliz e felizmente.
+BRUNO: Já a parassíntese tem prefixo e sufixo simultâneos, e sem um deles a palavra não existe. Entristecer, amanhecer, esclarecer, anoitecer. O teste: retire o prefixo e depois o sufixo. Se as duas formas parciais existem, é prefixal e sufixal. Se nenhuma existe, como entriste ou tristecer, é parassíntese.
+THALITA: Beleza. E a derivação regressiva?
+FRANCISCA: É a redução da palavra primitiva, em regra substantivo abstrato tirado de verbo: combate de combater, debate, ataque, perda, apelo. A imprópria muda a classe sem alterar a forma: o jantar, um não seco, o porquê.
+BRUNO: Regressiva e imprópria: na regressiva a palavra perde parte da forma. Na imprópria a forma fica igual e só muda a classe.
+ANTONIO: Na composição, a justaposição une radicais sem perda fonética: girassol, passatempo, guarda-chuva, segunda-feira. A aglutinação une com perda fonética: planalto, aguardente, embora, fidalgo.
+FRANCISCA: Há também o hibridismo, que combina elementos de línguas diferentes: automóvel, de grego e latim, e burocracia, de francês e grego. E as abreviações, siglas e onomatopeias: foto, pneu, TRT, CLT, tique-taque.
+THALITA: Resumindo: tirou o prefixo e o sufixo e nenhuma sobrou, parassíntese.
+ANTONIO: Isso. Com isso fechamos figuras, relações de sentido e formação de palavras. Agora vamos ao terreno que mais derruba candidato: a ortografia e a acentuação, pelo Novo Acordo Ortográfico.

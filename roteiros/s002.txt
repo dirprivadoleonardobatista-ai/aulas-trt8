@@ -1,0 +1,78 @@
+SEGMENTO s002
+== SLIDE: Aula dois: texto, sentido e as cinco questões da FCC
+* Aula 2: Língua Portuguesa, texto, sentido e ortografia
+* Compreender é o literal; interpretar é a inferência autorizada
+* Cinco operações: ideia central, inferência, sentido, referência, paráfrase
+* Erros das alternativas: extrapolação, redução e contradição
+ANTONIO: Bom dia, pessoal, e sejam bem-vindos à aula dois do nosso curso para o TRT oito. Hoje é Língua Portuguesa, com o título texto, sentido e ortografia. Neste primeiro bloco vamos ver compreensão e interpretação de textos, denotação e conotação, os três tipos de discurso e a intertextualidade. Depois, nos próximos blocos, vêm figuras de linguagem, ortografia, redação oficial e questões comentadas.
+THALITA: Eu sou a Thalita, concurseira como vocês, e vou perguntar tudo o que dá dúvida na hora da prova.
+FRANCISCA: Eu sou a Francisca, professora, e vou trazer a regra com exemplos concretos para fixar.
+BRUNO: E eu sou o Bruno, especialista em FCC. Meu papel é mostrar onde a banca arma a pegadinha.
+ANTONIO: Vamos começar pela base. Compreender é recuperar o que o texto diz, o sentido literal. Interpretar é extrair o que o texto permite concluir, ou seja, a inferência autorizada. Repare na palavra autorizada: não é opinião sua.
+THALITA: Então se eu acho uma coisa muito lógica, mas o texto não fala, não vale?
+BRUNO: Não vale. E essa é a regra de ouro da FCC: sem trecho que sustente, a alternativa está errada, por mais sensata que pareça. A banca adora a alternativa que é verdadeira no mundo real, mas não está no texto.
+FRANCISCA: Para organizar, guarde as cinco operações que a banca cobra. Primeira, ideia central, que é o ponto de vista que organiza o texto. Segunda, inferência, uma conclusão não escrita, mas autorizada. Terceira, sentido de palavra ou expressão no contexto. Quarta, referência, ou seja, a que termo um pronome ou advérbio remete. Quinta, paráfrase, a reescrita que preserva o sentido.
+ANTONIO: Vamos às técnicas. Na ideia central, procure a afirmação que todos os parágrafos sustentam. Desconfie da alternativa que resume só um parágrafo.
+BRUNO: Essa é a famosa redução. A alternativa é verdadeira, mas parcial. Em questão de ideia central, parcial é errado.
+THALITA: E na inferência? Como eu sei até onde posso ir?
+FRANCISCA: Só vale o que decorre necessariamente do texto. A expressão pode-se inferir não autoriza a opinião do leitor. No sentido da palavra, releia a frase inteira e teste a substituição. O sentido de dicionário isolado costuma ser a alternativa-armadilha.
+ANTONIO: Na referência, localize o antecedente mais próximo compatível em gênero, número e sentido. E na paráfrase, verifique quatro pontos: sentido, relação lógica pelo conectivo, regência e concordância, e pontuação.
+BRUNO: Os quatro pontos são o que derruba muita gente. A reescrita muda um mas por um portanto e o sentido vira outro. Atenção ao conectivo.
+THALITA: Agora, por que as alternativas erradas estão erradas? Você falou em redução. Tem mais?
+BRUNO: Três padrões. Extrapolação, redução e contradição. Extrapolação afirma algo que o texto não diz nem permite concluir. O sinal de alerta são as generalizações: sempre, todos, exclusivamente, nenhum.
+FRANCISCA: Redução toma uma parte pelo todo. E contradição diz o oposto do texto, geralmente invertendo causa e efeito, ou trocando o autor critica por o autor defende.
+THALITA: Extrapolação, redução, contradição. Anotei. E o gênero e o contexto histórico entram onde?
+== SLIDE: Pressuposto, coesão e sentido figurado
+* Pressuposto está marcado na frase; subentendido depende do contexto
+* Anáfora retoma; catáfora antecipa; elipse omite
+* Este aponta o mais próximo ou o que vem; esse retoma
+* Denotação é literal; conotação é figurada
+ANTONIO: Boa pergunta. O gênero e o contexto histórico orientam a leitura, mas a resposta continua ancorada no texto. O sentido depende das condições de produção: época, autor, interlocutores e valores. Um texto de mil novecentos e vinte sobre progresso fala de eletrificação e ferrovias. Um de dois mil e vinte fala de tecnologia digital.
+FRANCISCA: E a FCC pergunta se a passagem reflete a mentalidade de seu tempo, ou se deve ser lida à luz do contexto em que foi produzida. Um detalhe útil: gênero é o formato social, como crônica, ofício, e-mail. Tipologia é o modo de organização interna: narrar, descrever, argumentar. Uma crônica pode ser narrativa e argumentativa ao mesmo tempo.
+THALITA: Gênero é a embalagem, tipologia é o jeito de construir o texto. Gostei.
+BRUNO: Agora uma distinção que aparece muito: pressuposto e subentendido. O pressuposto é uma informação marcada na própria frase. Os marcadores são palavras como ainda, já, deixar de, voltar a, também e até.
+FRANCISCA: Exemplo: Ana deixou de fumar. A frase pressupõe que Ana fumava. Não tem como negar isso sem se contradizer.
+ANTONIO: Já o subentendido é uma insinuação que depende do contexto, sem marcador. Alguém diz está frio aqui, ao lado da janela aberta. Está sugerindo que fechem a janela.
+THALITA: E se me cobrarem por isso, eu digo que não quis dizer isso?
+BRUNO: Exatamente. O falante pode negar o subentendido, dizendo eu não quis dizer isso. O pressuposto ele não consegue negar sem contradição. Esse é o critério de prova.
+FRANCISCA: Passando à coesão referencial. Anáfora retoma um termo já mencionado: o juiz chegou cedo, ele revisou os autos. O pronome ele retoma o juiz. Catáfora antecipa um termo que virá depois: só peço isto, que respeitem o prazo.
+ANTONIO: Há ainda a elipse, que omite um termo recuperável pelo contexto, como em Bruno leu o processo, Carla, a petição, onde se omite o verbo leu. E a substituição lexical, que retoma por sinônimo ou expressão: o TST julgou o recurso, a Corte manteve a decisão.
+BRUNO: Cuidado com este e esse na retomada. Este aponta para o termo mais próximo ou para o que ainda vai ser dito. Esse retoma o que já foi dito. Em pares: Ana e Bruno foram aprovados, este no TRT, aquela no TRF. Este é o Bruno, o mais próximo.
+THALITA: Este é o que está perto, aquele é o distante. Entendi. E denotação e conotação?
+FRANCISCA: Denotação é o sentido literal, de dicionário. Conotação é o sentido figurado, dependente do contexto. O coração bombeia o sangue é denotação. Belém é o coração da Amazônia é conotação. Denotação predomina em textos técnicos, científicos, jurídicos e na redação oficial. Conotação, na literatura, publicidade e crônica.
+BRUNO: A pergunta típica é: em qual alternativa a palavra foi empregada em sentido figurado? O teste é simples. Se a leitura literal produz absurdo ou imagem impossível, o sentido é conotativo.
+== SLIDE: Discurso direto, indireto e indireto livre
+* Direto: fala fiel, com dois-pontos, travessão ou aspas
+* Indireto: narrador relata, com verbo de elocução e que ou se
+* Indireto livre: voz do narrador e da personagem fundidas
+* Transposição: pessoa, tempo verbal, lugar e tempo mudam
+ANTONIO: Agora o terceiro assunto: os discursos. No direto, reproduz-se fielmente a fala da personagem, com dois-pontos e travessão ou aspas. No indireto, o narrador relata a fala com suas palavras, com verbo de elocução seguido de oração subordinada. No indireto livre, a voz do narrador e da personagem se misturam, sem marca nenhuma.
+THALITA: Dá um exemplo dos três juntos?
+FRANCISCA: Direto: Tereza disse: eu vou recorrer. Indireto: Tereza disse que iria recorrer. Indireto livre: Tereza fechou o processo. Recorrer? Claro que iria recorrer! Repare que não há verbo de elocução, e as exclamações e interrogações trazem a expressividade da personagem.
+BRUNO: No direto, o verbo de elocução pode estar presente ou implícito. No indireto, ele é obrigatório. No indireto livre, ausente. E a pessoa: no direto, primeira e segunda pessoas. No indireto, terceira.
+ANTONIO: Vamos à transposição, do direto para o indireto, quando o verbo de elocução está no pretérito, como disse, afirmou, perguntou. Primeiro, as pessoas. Eu, nós, meu, nosso viram ele, eles, seu, dele. E o interlocutor, você fez, vira ele fizera.
+FRANCISCA: Agora os tempos. O presente do indicativo vira pretérito imperfeito: eu sou responsável vira que era responsável. O pretérito perfeito vira mais-que-perfeito, simples ou composto: eu assinei o termo vira que assinara ou que tinha assinado o termo. O futuro do presente vira futuro do pretérito: eu farei a perícia vira que faria a perícia.
+THALITA: E o imperativo? Saia da sala!
+BRUNO: Vira pretérito imperfeito do subjuntivo: que saísse da sala. O presente do subjuntivo também vira imperfeito: espero que você venha vira que esperava que ele viesse. E o futuro do subjuntivo vira imperfeito do subjuntivo: ligarei quando puder vira que ligaria quando pudesse.
+FRANCISCA: Importante: pretérito imperfeito, mais-que-perfeito e futuro do pretérito não se alteram. Eu estava cansado fica que estava cansado.
+ANTONIO: Depois, lugar e tempo. Aqui, cá e aí viram ali e lá. Hoje vira naquele dia. Ontem vira no dia anterior ou na véspera. Amanhã vira no dia seguinte. Agora vira naquele momento ou então. Há dois dias vira dois dias antes ou havia dois dias.
+THALITA: Os demonstrativos também mudam?
+FRANCISCA: Sim. Este, esse, isto e isso viram aquele e aquilo. A interrogação direta, você já leu a ata, vira perguntou se ele já tinha lido a ata. E o vocativo, Márcio, feche a porta, vira pediu a Márcio que fechasse a porta, em que Márcio vira complemento.
+BRUNO: Vamos ver tudo junto no exemplo da prova. O desembargador declarou: amanhã publicarei aqui o acórdão que estou revisando.
+ANTONIO: No indireto fica: declarou que no dia seguinte publicaria ali o acórdão que estava revisando. Quatro mudanças ao mesmo tempo: advérbio de tempo, futuro do presente para futuro do pretérito, advérbio de lugar e presente para imperfeito.
+== SLIDE: Pegadinhas do discurso e intertextualidade
+* Verbo de elocução no presente: sem recuo de tempos
+* Perfeito vira mais-que-perfeito, nunca imperfeito
+* Paráfrase conserva o sentido; paródia o inverte
+* Citação é literal; alusão é referência indireta
+BRUNO: Agora as pegadinhas. A primeira: se o verbo de elocução está no presente, como Ana diz que, não há recuo de tempos. Ana diz: vou recorrer, fica Ana diz que vai recorrer.
+THALITA: Então o recuo só acontece com verbo no passado?
+BRUNO: Isso. Segunda pegadinha: o pretérito perfeito vira mais-que-perfeito, e não imperfeito. Fiz vira fizera ou tinha feito, nunca fazia. Terceira: o imperativo vira imperfeito do subjuntivo, assine vira que assinasse. E a FCC costuma trocar faria por fará na alternativa errada.
+FRANCISCA: Fixem o macete: tudo recua um degrau. O que era presente vira passado, o passado vira passado do passado, e o futuro vira futuro do pretérito.
+ANTONIO: Quarto assunto, intertextualidade. É o diálogo de um texto com outro. Pode ser explícita, como citação, epígrafe e referência, ou implícita, como alusão, paródia e paráfrase. E pode concordar com o texto-fonte ou subvertê-lo.
+THALITA: Qual a diferença entre paráfrase e paródia? Sempre confundo.
+FRANCISCA: A paráfrase reescreve com outras palavras, mantendo o sentido. Exemplo: Minha terra tem palmeiras vira na minha pátria há palmeiras onde canta o sabiá. É adesão ao texto-fonte. Já a paródia retoma com desvio de sentido, em geral crítico ou humorístico: minha terra tem favelas, onde canta o tiroteio. É subversão.
+BRUNO: A citação é a transcrição literal, com indicação da fonte, entre aspas, como transcrever um artigo de lei num parecer. Se o texto foi reformulado, já não é citação. A alusão é a referência indireta, sem citar, que o leitor precisa reconhecer. Presente de grego alude à Ilíada, a Troia.
+FRANCISCA: E a epígrafe é a citação curta no início de uma obra ou capítulo, que antecipa o tema.
+THALITA: Resumindo: paráfrase conserva, paródia inverte ou ridiculariza, citação é literal.
+ANTONIO: Perfeito. Esse foi o primeiro bloco: interpretação, os vícios das alternativas, pressuposto, coesão, os discursos e a intertextualidade. Agora vamos ao próximo tema, em que a língua fica mais criativa: as figuras de linguagem, as relações de sentido entre palavras e a estrutura e formação de palavras.
