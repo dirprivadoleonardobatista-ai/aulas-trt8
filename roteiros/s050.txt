@@ -1,0 +1,96 @@
+SEGMENTO s050
+== SLIDE: Questão 1: conceito de pessoa com deficiência
+* Impedimento de longo prazo: físico, mental, intelectual ou sensorial
+* Em interação com barreiras, obstrui a participação plena e efetiva
+* Avaliação biopsicossocial, quando necessária (art. 2º)
+* Mobilidade reduzida é conceito distinto (art. 3º, IX)
+* Gabarito: C
+ANTONIO: Terminamos a legislação complementar. Agora vamos treinar. Questão um. Pela Lei treze mil cento e quarenta e seis, de dois mil e quinze, considera-se pessoa com deficiência aquela que tem impedimento: A, de qualquer duração, físico ou mental, que a torne incapaz para os atos da vida civil, apurado em perícia médica oficial. B, de longo prazo, exclusivamente físico ou sensorial, com avaliação sempre obrigatória por junta médica.
+BRUNO: C, de longo prazo, de natureza física, mental, intelectual ou sensorial, que, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade, em igualdade de condições, sendo a avaliação, quando necessária, biopsicossocial. D, temporário ou permanente, que gere redução efetiva da mobilidade, incluídos o idoso, a gestante e o obeso, avaliado por equipe multiprofissional. E, de longo prazo, que, independentemente de barreiras, impeça a participação na sociedade, apurado por avaliação exclusivamente médica.
+THALITA: Eu iria na D. Parece amplo e inclusivo.
+FRANCISCA: Aí é a pegadinha. A D descreve a pessoa com mobilidade reduzida, artigo terceiro, inciso nove, que é conceito distinto do de pessoa com deficiência.
+BRUNO: A letra C é a correta, síntese fiel do artigo segundo, caput e parágrafo primeiro. A A erra em três pontos: exige longo prazo, e não qualquer duração, abrange quatro naturezas, e a deficiência não gera incapacidade civil, artigo sexto. A avaliação é biopsicossocial, não perícia médica.
+ANTONIO: A B omite as naturezas mental e intelectual, e a avaliação é feita quando necessária, por equipe multiprofissional e interdisciplinar.
+THALITA: E a E?
+FRANCISCA: Ela esquece a interação com as barreiras, que é elemento essencial do modelo social, e diz que a avaliação é exclusivamente médica, quando é biopsicossocial.
+THALITA: Macete: longo prazo, quatro naturezas, interação com barreiras, avaliação biopsicossocial. Gabarito C.
+== SLIDE: Questão 2: definições da Lei Brasileira de Inclusão
+* Desenho universal: sem necessidade de adaptação (art. 3º, II)
+* Adaptações razoáveis: sem ônus desproporcional e indevido (art. 3º, VI)
+* Atendente pessoal: família ou não, com ou sem remuneração (art. 3º, XII)
+* Barreiras atitudinais: atitudes ou comportamentos; em edifícios, arquitetônicas
+* Gabarito: A
+FRANCISCA: Questão dois, de Técnico. Considere as afirmações. Item um: desenho universal é a concepção de produtos, ambientes, programas e serviços usados por todas as pessoas, sem necessidade de adaptação ou projeto específico. Item dois: adaptações razoáveis são ajustes necessários e adequados, requeridos em cada caso, que não acarretem ônus desproporcional e indevido. Item três: atendente pessoal é necessariamente da família e presta cuidados básicos mediante remuneração. Item quatro: barreiras atitudinais são as existentes nos edifícios públicos e privados. A, um e dois. B, um, dois e três. C, dois e quatro. D, um, três e quatro. E, três e quatro.
+THALITA: Eu marcaria a B. O atendente pessoal presta cuidados, e cuidar é remunerado.
+BRUNO: O item três é falso. O atendente pessoal pode ou não ser da família, e pode atuar com ou sem remuneração, artigo terceiro, inciso doze.
+ANTONIO: O item quatro também é falso. Barreiras em edifícios são arquitetônicas, artigo terceiro, inciso quatro, alínea b. As atitudinais são atitudes ou comportamentos que impeçam ou prejudiquem a participação social, alínea e.
+FRANCISCA: Os itens um e dois estão corretos. O um reproduz, em essência, o artigo terceiro, inciso dois, e o dois, o artigo terceiro, inciso seis.
+THALITA: Então só um e dois, letra A.
+BRUNO: Isso. A B cai pelo item três. A C cai pelo quatro. A D cai pelos itens três e quatro. A E reúne justamente as duas falsas.
+ANTONIO: Reparem que aqui a banca trocou o tipo de barreira. Cada alínea do inciso quatro define uma barreira: urbanísticas, arquitetônicas, nos transportes, nas comunicações, atitudinais e tecnológicas.
+THALITA: Macete: edifício é arquitetônica; atitude é atitudinal; atendente pessoal, família ou não. Gabarito A.
+== SLIDE: Questão 3: capacidade civil após a Lei Brasileira de Inclusão
+* Só os menores de 16 anos são absolutamente incapazes (art. 3º, CC)
+* Quem não puder exprimir vontade é relativamente incapaz (art. 4º, III)
+* Deficiência não afeta a capacidade (art. 6º LBI)
+* Prescrição corre contra a pessoa com deficiência (art. 198, I)
+* Gabarito: E
+ANTONIO: Questão três, de Oficial de Justiça. Após as alterações no Código Civil pela Lei Brasileira de Inclusão, é correto afirmar: A, são absolutamente incapazes os menores de dezesseis anos e os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento. B, a pessoa com deficiência intelectual é relativamente incapaz, sujeita à curatela independentemente de sua capacidade de exprimir a vontade.
+BRUNO: C, aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade são absolutamente incapazes. D, a prescrição não corre contra a pessoa com deficiência mental maior de dezoito anos. E, somente os menores de dezesseis anos são absolutamente incapazes, e os que, por causa transitória ou permanente, não puderem exprimir sua vontade são relativamente incapazes.
+THALITA: Eu iria na A. Sempre estudei assim, deficiência mental, incapaz absoluto.
+FRANCISCA: Aí você está na redação revogada do artigo terceiro do Código Civil. Hoje só o menor de dezesseis anos é absolutamente incapaz.
+BRUNO: A B erra porque a deficiência não afeta a capacidade, artigo sexto da Lei Brasileira de Inclusão. O critério para a incapacidade relativa e para a curatela é a impossibilidade de exprimir a vontade.
+ANTONIO: A C erra a classificação. Quem não pode exprimir a vontade, por causa transitória ou permanente, passou a ser relativamente incapaz, artigo quarto, inciso três, do Código Civil.
+THALITA: E a D? Prescrição não corre contra incapaz.
+FRANCISCA: Não corre contra o absolutamente incapaz. Como a pessoa com deficiência maior de idade não é absolutamente incapaz, a prescrição corre normalmente, artigo cento e noventa e oito, inciso um.
+BRUNO: A E é a correta, artigos terceiro e quarto, inciso três, com a redação dada pela Lei Brasileira de Inclusão.
+THALITA: Macete: só menor de dezesseis é absoluto; não exprimir vontade é relativo. Gabarito E.
+== SLIDE: Questão 4: tomada de decisão apoiada
+* Requerida pela própria pessoa, com no mínimo 2 apoiadores (art. 1.783-A, CC)
+* Curatela é extraordinária e só atinge atos patrimoniais e negociais
+* Não alcança voto nem matrimônio (art. 85 LBI)
+* Decisão dentro do apoio vale perante terceiros
+* Divergência de risco: decide o juiz, ouvido o MP; gabarito B
+FRANCISCA: Questão quatro. Paulo, trinta e cinco anos, com deficiência intelectual leve, quer vender um imóvel herdado e contar com pessoas de confiança, sem ser interditado. A, Paulo será submetido à curatela, que alcançará também seu voto e matrimônio. B, poderá requerer a tomada de decisão apoiada, elegendo pelo menos duas pessoas idôneas, com quem mantenha vínculos e que gozem de sua confiança.
+BRUNO: C, a tomada de decisão apoiada poderá ser requerida por qualquer parente ou pelo Ministério Público, com um único apoiador. D, a decisão de Paulo, ainda dentro do apoio, só vale perante terceiros se homologada pelo juiz. E, havendo divergência sobre negócio de risco relevante, prevalecerá a opinião do apoiador.
+THALITA: Eu escolheria a A. Curatela protege integralmente.
+ANTONIO: A curatela é medida extraordinária e só atinge atos patrimoniais e negociais. Não alcança voto nem matrimônio, artigo oitenta e cinco, caput e parágrafo primeiro, da Lei Brasileira de Inclusão.
+BRUNO: A letra B é a correta. Artigo mil setecentos e oitenta e três-A, caput, do Código Civil, e a tomada de decisão apoiada é facultada à pessoa com deficiência, artigo oitenta e quatro, parágrafo segundo.
+FRANCISCA: A C erra: o pedido é formulado pela própria pessoa a ser apoiada, com no mínimo dois apoiadores, artigo mil setecentos e oitenta e três-A, caput e parágrafo segundo.
+THALITA: E se Paulo decidir sozinho dentro do apoio, o negócio precisa de homologação?
+ANTONIO: Não. A decisão tomada dentro dos limites do apoio acordado tem validade e efeitos sobre terceiros, sem restrições, parágrafo quarto.
+BRUNO: A E inverte o desfecho. Na divergência sobre negócio que possa trazer risco relevante, decide o juiz, ouvido o Ministério Público, parágrafo sexto.
+THALITA: Macete: apoio é pedido pela própria pessoa, com pelo menos dois apoiadores; divergência vai ao juiz. Gabarito B.
+== SLIDE: Questão 5: crimes da Lei Brasileira de Inclusão
+* Discriminação (art. 88): reclusão de 1 a 3 anos; pela mídia, 2 a 5 anos
+* Abandono (art. 90): reclusão de 6 meses a 3 anos
+* Apropriação de proventos (art. 89): reclusão de 1 a 4 anos; aumento de 1/3
+* Reter cartão (art. 91): detenção de 6 meses a 2 anos
+* Gabarito: D
+ANTONIO: Questão cinco, de Agente da Polícia Judicial. Segundo os crimes da Lei Brasileira de Inclusão: A, discriminar em razão da deficiência é punido com detenção de seis meses a dois anos, aumentada de metade se por meio de publicação. B, abandonar pessoa com deficiência em hospital é punido com reclusão de um a quatro anos, aumentada de um terço se por curador.
+BRUNO: C, reter cartão magnético de pessoa com deficiência para obter vantagem indevida é punido com reclusão de dois a cinco anos. D, apropriar-se de proventos ou pensão de pessoa com deficiência é punido com reclusão de um a quatro anos, com aumento de um terço se por curador ou inventariante. E, a discriminação por meios de comunicação social é punida com reclusão de um a três anos, sem medidas cautelares sobre o material.
+THALITA: Eu iria na E, porque lembro de um a três anos.
+BRUNO: Um a três anos é a discriminação simples, artigo oitenta e oito. Por meio de comunicação, a pena passa a ser de reclusão de dois a cinco anos, artigo oitenta e oito, parágrafo segundo, com medidas de recolhimento do material e interdição de páginas na internet, parágrafo terceiro.
+FRANCISCA: A A erra: a discriminação é reclusão, de um a três anos, e multa, e por publicação é forma qualificada, de dois a cinco anos, e não aumento de metade.
+ANTONIO: A B erra: o abandono, artigo noventa, tem reclusão de seis meses a três anos, e multa, sem a causa de aumento mencionada. A C erra: reter cartão, artigo noventa e um, é detenção de seis meses a dois anos, e multa.
+THALITA: Então a D é a certa: apropriação de proventos.
+FRANCISCA: Isso, artigo oitenta e nove, caput e parágrafo único, inciso um: reclusão de um a quatro anos, e multa, com aumento de um terço se praticado por curador ou inventariante.
+BRUNO: Reparem na regra mnemônica do começo da aula: dois a cinco para discriminação por mídia, um a três para discriminação simples.
+THALITA: Macete: simples, um a três; mídia, dois a cinco; apropriação, um a quatro. Gabarito D.
+== SLIDE: Questão 6: atendimento prioritário e extensão ao acompanhante
+* Art. 9º: direitos extensivos ao acompanhante ou atendente pessoal
+* Exceções (§ 1º): restituição de imposto de renda e tramitação processual
+* Proteção e socorro e informações acessíveis: estendem-se
+* Emergência: protocolos de atendimento médico (§ 2º)
+* Gabarito: A
+FRANCISCA: Última questão. Nos termos do artigo nono da Lei Brasileira de Inclusão, os direitos de atendimento prioritário da pessoa com deficiência são extensivos ao seu acompanhante ou atendente pessoal: A, exceto quanto ao recebimento de restituição de imposto de renda e à tramitação processual e procedimentos judiciais e administrativos. B, em todas as hipóteses, inclusive a tramitação dos processos em que o acompanhante figure como parte. C, exceto quanto à proteção e socorro em quaisquer circunstâncias. D, apenas quanto ao atendimento em serviços de emergência, que independe de protocolos médicos. E, exceto quanto ao acesso a informações e recursos de comunicação acessíveis.
+THALITA: Eu iria na B. Acompanhante junto, direitos juntos.
+BRUNO: Quase. A extensão não alcança o inciso seis, restituição de imposto de renda, nem o inciso sete, tramitação processual. A tramitação prioritária é justamente uma das exceções.
+ANTONIO: A letra A é a correta, artigo nono, parágrafo primeiro. A C erra: proteção e socorro, inciso um, estendem-se ao acompanhante.
+FRANCISCA: A E também erra: o acesso a informações e recursos de comunicação acessíveis, inciso cinco, estende-se ao acompanhante.
+THALITA: E a D? Emergência sem protocolo?
+BRUNO: Nos serviços de emergência, a prioridade fica condicionada aos protocolos de atendimento médico, parágrafo segundo. Isso é o oposto de "independe de protocolos".
+ANTONIO: Guardem a ideia: o acompanhante tem a extensão da maioria dos direitos, mas não da restituição de imposto de renda nem da tramitação prioritária do processo.
+FRANCISCA: Isso mesmo, porque esses dois direitos são pessoais da pessoa com deficiência.
+THALITA: Macete: imposto de renda e processo ficam só com a pessoa com deficiência. Gabarito A.
+ANTONIO: Muito bem. No próximo tema, uma introdução para os próximos assuntos da aula.
