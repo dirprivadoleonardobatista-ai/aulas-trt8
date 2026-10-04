@@ -1,0 +1,129 @@
+SEGMENTO s158
+== SLIDE: Aula 46: salário e remuneração
+* Remuneração = salário + gorjetas (art. 457, caput)
+* Salário: pago diretamente pelo empregador
+* Gorjeta: vem de terceiro, mas integra a remuneração
+* Salário é espécie; remuneração é gênero
+* Súmula 354 do TST
+ANTONIO: Olá, pessoal! Bem-vindos à aula quarenta e seis do nosso curso para o TRT da Oitava Região. Hoje começamos a quarta parte de Direito do Trabalho: remuneração, FGTS, prescrição, saúde e proteções especiais. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora também. Trago a lei em paráfrase, a jurisprudência e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Vou mostrar como a banca cobra e onde estão as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira, aluna como vocês. Pergunto o que vocês perguntariam, e faço os resumos.
+ANTONIO: O roteiro de hoje: salário e remuneração, depois as formas e meios de pagamento e a proteção do salário, o décimo terceiro, e por fim a equiparação salarial. Começamos pelo conceito de salário e remuneração.
+FRANCISCA: O artigo quatrocentos e cinquenta e sete diz que compreendem-se na remuneração, para todos os efeitos legais, além do salário devido e pago diretamente pelo empregador como contraprestação do serviço, as gorjetas que o empregado receber.
+THALITA: Então o critério é quem paga?
+FRANCISCA: Isso. Salário é pago diretamente pelo empregador. Gorjeta é paga por terceiro, o cliente, mas integra a remuneração. Salário é espécie; remuneração é o gênero.
+BRUNO: Isso importa na base de cálculo. O salário é base para aviso prévio, adicional noturno, horas extras e repouso semanal. A remuneração é base para FGTS, décimo terceiro, férias e contribuição previdenciária.
+ANTONIO: E a Súmula trezentos e cinquenta e quatro do TST amarra tudo: as gorjetas, cobradas na nota de serviço ou oferecidas espontaneamente, integram a remuneração, mas não servem de base para aviso prévio, adicional noturno, horas extras e repouso semanal remunerado.
+THALITA: Resumo: gorjeta entra na remuneração, não entra no salário, e por isso não entra na base de aviso, noturno, extras e repouso.
+BRUNO: Perfeito. Cuidado com o parágrafo primeiro, que a Reforma enxugou. Antes integravam o salário percentagens, gratificações ajustadas, diárias para viagem e abonos. Hoje o texto diz que integram o salário a importância fixa estipulada, as gratificações legais e as comissões pagas pelo empregador.
+FRANCISCA: Gratificação legal é, por exemplo, o décimo terceiro ou uma gratificação de função prevista em lei. A gratificação ajustada habitual continua discutida à luz da Súmula cento e cinquenta e dois.
+
+== SLIDE: Parcelas não salariais: "ainda que habituais"
+* Art. 457, §2º: ajuda de custo, auxílio-alimentação, diárias, prêmios e abonos
+* Não integram a remuneração, ainda que habituais
+* Auxílio-alimentação: só se não pago em dinheiro
+* Prêmio: liberalidade + desempenho superior ao ordinário
+* Caiu a regra dos 50% para diárias
+ANTONIO: Agora o ponto mais cobrado: o parágrafo segundo do artigo quatrocentos e cinquenta e sete. Ele lista cinco parcelas que, ainda que habituais, não integram a remuneração, não se incorporam ao contrato e não são base de encargo trabalhista nem previdenciário: ajuda de custo, auxílio-alimentação, diárias para viagem, prêmios e abonos.
+THALITA: Habitual não vira salário?
+FRANCISCA: Para essas cinco, não. A habitualidade, que antes atraía natureza salarial, deixou de importar. É o núcleo da cobrança.
+BRUNO: Mas cuidado com o auxílio-alimentação: só é indenizatório se não for pago em dinheiro. Ticket, cartão, refeição fornecida, tudo bem. Pago em dinheiro, é salarial, porque a lei veda o pagamento em pecúnia. A Lei catorze mil quatrocentos e quarenta e dois, de dois mil e vinte e dois, vedou ainda o deságio e o uso diverso de alimentação.
+ANTONIO: O parágrafo quarto define prêmio: liberalidade concedida pelo empregador em forma de bens, serviços ou dinheiro, a empregado ou grupo, em razão de desempenho superior ao ordinariamente esperado. Se o prêmio é prometido como contraprestação ordinária, desnatura-se.
+THALITA: E as diárias? Eu lembrava da regra dos cinquenta por cento.
+FRANCISCA: Era da antiga Súmula cento e um. Caiu. Hoje as diárias são indenizatórias, mesmo acima de cinquenta por cento do salário. Também a ajuda de custo é indenizatória, mesmo habitual.
+BRUNO: Pegadinhas clássicas: "diárias que excedam cinquenta por cento integram a remuneração", errado após a Reforma. "Auxílio-alimentação pago em dinheiro não integra", errado. "Prêmios habituais integram o salário", errado, porque a lei diz ainda que habituais.
+ANTONIO: Resumindo a tabela: comissões e gratificações legais são salariais. Gorjeta é remuneratória. Participação nos lucros é não salarial, artigo sétimo, inciso onze, e Lei dez mil cento e um. Vale-transporte é não salarial, Lei sete mil quatrocentos e dezoito.
+THALITA: Então a lista dos que não integram é: ajuda de custo, alimentação sem dinheiro, diárias, prêmios, abonos, mais PLR e vale-transporte.
+
+== SLIDE: Súmula 241, OJ 133 e aplicação no tempo
+* Súmula 241: vale-refeição era salário, antes da Reforma
+* Após 11/11/2017: alimentação não paga em dinheiro não integra
+* OJ 133 SDI-1: alimentação do empregador inscrito no PAT
+* OJ 413: contratos anteriores e direito adquirido
+* Conferir jurisprudência atual do TST
+BRUNO: Um alerta importante sobre esse tema. A Súmula duzentos e quarenta e um do TST dizia que o vale-refeição fornecido por força do contrato tem caráter salarial. Ela foi editada antes da Reforma.
+FRANCISCA: Depois de onze de novembro de dois mil e dezessete, o auxílio-alimentação não pago em dinheiro não integra a remuneração, pelo artigo quatrocentos e cinquenta e sete, parágrafo segundo. E, já antes, a Orientação Jurisprudencial cento e trinta e três da SDI-um dizia que a ajuda-alimentação do empregador inscrito no Programa de Alimentação do Trabalhador não tem natureza salarial.
+THALITA: E quem já recebia como salário antes da Reforma? Perde isso?
+ANTONIO: Discute-se direito adquirido. A OJ quatrocentos e treze da SDI-um diz que a alteração da natureza por norma coletiva ou adesão ao PAT não atinge quem já recebia a parcela como salário.
+BRUNO: Resumo para a prova: se a questão fala em contrato após a Reforma, vale a lei, e o auxílio-alimentação em ticket ou cartão não é salário. Se fala em contrato anterior, vale a discussão da aplicação no tempo, e a apostila manda conferir a jurisprudência atual.
+THALITA: Então a súmula é do passado, mas não é para eu esquecer completamente.
+FRANCISCA: Exato, ela ajuda a entender o enunciado e a comparação que a banca faz.
+
+== SLIDE: Gorjeta: Lei 13.419/2017
+* Espontânea (cliente) ou compulsória (cobrada na nota)
+* Pertence aos empregados; não é receita do empregador
+* Rateio definido em norma coletiva ou assembleia
+* Retenção: até 20% (Simples) ou 33% (demais)
+* Mais de 60 empregados: comissão de fiscalização
+ANTONIO: A gorjeta, parágrafo terceiro do artigo quatrocentos e cinquenta e sete. Não é só a importância espontaneamente dada pelo cliente ao empregado, mas também o valor cobrado pela empresa, como serviço ou adicional, a qualquer título, destinado à distribuição aos empregados.
+FRANCISCA: Duas espécies: a espontânea e a compulsória, cobrada na nota. Em ambas, o dinheiro pertence aos empregados. A gorjeta não constitui receita própria do empregador.
+THALITA: E como se divide?
+FRANCISCA: Os critérios de rateio são definidos em convenção ou acordo coletivo; na falta, em assembleia geral dos trabalhadores.
+BRUNO: Dá para reter uma parte para encargos: até vinte por cento, se a empresa estiver no regime tributário diferenciado, como o Simples, ou até trinta e três por cento nas demais, se previsto em norma coletiva. Os valores devem ser anotados na carteira e no contracheque: salário fixo mais percentual ou média das gorjetas.
+ANTONIO: Se a cobrança for feita por mais de doze meses e depois suprimida, incorpora-se ao salário pela média dos últimos doze meses, salvo norma coletiva. E empresas com mais de sessenta empregados devem ter comissão de fiscalização.
+BRUNO: A apostila avisa: a Medida Provisória oitocentos e oito alterou esses parágrafos e caducou em abril de dois mil e dezoito. Confira a redação vigente dos parágrafos quinto a onze.
+THALITA: Macete: espontânea ou compulsória é dos empregados; vinte ou trinta e três de retenção; mais de sessenta, fiscaliza.
+
+== SLIDE: Salário-utilidade (artigo 458)
+* In natura: alimentação, habitação, vestuário fornecidos habitualmente
+* Salário quando fornecida PELO trabalho; não quando PARA o trabalho
+* Nunca bebida alcoólica ou drogas nocivas
+* Art. 458, §2º: utilidades não salariais
+* Súmula 367: habitação, energia e veículo indispensáveis
+FRANCISCA: Agora o salário-utilidade, também chamado in natura, artigo quatrocentos e cinquenta e oito. Além do dinheiro, compreendem-se no salário a alimentação, habitação, vestuário ou outras prestações que a empresa, por força do contrato ou do costume, fornecer habitualmente ao empregado. Bebidas alcoólicas e drogas nocivas jamais podem compor o salário.
+ANTONIO: Dois requisitos: habitualidade e fornecimento pelo trabalho, como contraprestação. O teste é a preposição. Utilidade fornecida pelo trabalho é salário. Utilidade fornecida para o trabalho é ferramenta, não é salário.
+THALITA: Dá um exemplo?
+BRUNO: O da apostila. O Bruno, gerente de centro de distribuição isolado, recebe quatro mil reais e mora em casa da empresa, porque precisa estar no local vinte e quatro horas para emergências. A casa é fornecida para o trabalho: não é salário. Já a Carla, vendedora de escritório, recebe um apartamento como benefício do contrato, sem necessidade funcional. Aí é salário-utilidade, limitado a vinte e cinco por cento do salário contratual, mil reais sobre quatro mil.
+FRANCISCA: A Súmula trezentos e sessenta e sete do TST confirma. Habitação, energia elétrica e veículo fornecidos quando indispensáveis para o trabalho não têm natureza salarial, mesmo que o veículo seja usado também em atividades particulares. E o cigarro não se considera salário-utilidade, por sua nocividade.
+ANTONIO: O parágrafo segundo do artigo quatrocentos e cinquenta e oito lista as utilidades que não são salário: vestuário e equipamentos usados no local de trabalho; educação, inclusive matrícula, mensalidade e livros; transporte para o trabalho e retorno; assistência médica, hospitalar e odontológica, direta ou por seguro-saúde; seguros de vida e acidentes pessoais; previdência privada; e vale-cultura.
+BRUNO: O inciso sete foi vetado. E a Reforma incluiu o parágrafo quinto: assistência médica e odontológica, inclusive reembolso de medicamentos, óculos, próteses e órteses, não integra o salário nem o salário de contribuição.
+THALITA: Então plano de saúde não é salário, e transporte para o trabalho também não é.
+
+== SLIDE: Limites da habitação e da alimentação
+* Urbano: habitação até 25%, alimentação até 20% do salário contratual
+* Rural: habitação até 20%, alimentação até 25% do mínimo
+* Mnemônico: urbano, casa pesa mais; rural, comida pesa mais
+* Habitação coletiva: rateio; vedada a mesma unidade para duas famílias
+* Rural exige autorização prévia do desconto
+ANTONIO: O parágrafo terceiro do artigo quatrocentos e cinquenta e oito: habitação e alimentação fornecidas como salário-utilidade devem atender aos fins a que se destinam e não podem exceder, respectivamente, vinte e cinco por cento e vinte por cento do salário contratual.
+FRANCISCA: Na habitação coletiva, o valor é rateado entre os coocupantes, e é vedado destinar a mesma unidade a mais de uma família, parágrafo quarto.
+THALITA: E no campo?
+BRUNO: Lei cinco mil oitocentos e oitenta e nove, artigo nono. No rural, a habitação vai até vinte por cento e a alimentação até vinte e cinco, calculados sobre o salário mínimo, e o desconto exige autorização prévia. Os números se invertem.
+THALITA: Mnemônico: no urbano, a casa pesa mais, vinte e cinco por cento. No rural, a comida pesa mais, vinte e cinco por cento.
+ANTONIO: Gravou! Uma pegadinha da banca é inverter os percentuais. Outra é trocar a base: urbano é salário contratual, rural é salário mínimo.
+FRANCISCA: Resumindo a diferença: o urbano tem como requisito atender aos fins a que se destina; o rural, autorização prévia.
+
+== SLIDE: Salário complessivo e composição do salário
+* Salário-base, comissões, gratificações legais, adicionais, utilidades
+* Comissões exigíveis após ultimada a transação (art. 466)
+* Súmula 91: nula a cláusula de salário complessivo
+* Gratificação de função: reversão sem direito à manutenção
+* Art. 468, §2º supera a Súmula 372, I
+ANTONIO: A composição do salário. Salário-base, a importância fixa. Comissões e percentagens, exigíveis só depois de ultimada a transação, artigo quatrocentos e sessenta e seis. Gratificações legais. Adicionais. E utilidades.
+THALITA: Adicional é salário também?
+BRUNO: É o chamado salário-condição: pago enquanto durar a condição que o justifica. Insalubridade, periculosidade, noturno, transferência, horas extras. Cessada a condição, cessa o adicional.
+FRANCISCA: Um ponto de prova: a Súmula noventa e um do TST diz que é nula a cláusula contratual que fixa determinada importância ou percentagem para atender englobadamente vários direitos legais ou contratuais do trabalhador. É o salário complessivo, vedado porque impede o empregado de saber o que recebe por cada título.
+THALITA: Tipo "salário de dez mil, já incluídas horas extras, adicional e tudo mais"?
+FRANCISCA: Exatamente. Sem discriminar cada parcela, a cláusula é nula.
+ANTONIO: E a gratificação de função: revertido o empregado ao cargo efetivo, não tem direito à manutenção da gratificação, independentemente do tempo de exercício, artigo quatrocentos e sessenta e oito, parágrafo segundo, incluído pela Reforma.
+BRUNO: Isso supera, para fatos posteriores, a estabilidade financeira de dez anos da Súmula trezentos e setenta e dois, item um.
+THALITA: Então, depois da Reforma, o cargo de confiança cai e a gratificação cai junto, mesmo depois de dez anos.
+
+== SLIDE: Adicionais e modalidades de salário
+* Insalubridade: 10, 20 ou 40% do salário mínimo (SV 4)
+* Periculosidade: 30% do salário básico (Súmula 191)
+* Noturno: 20% urbano, 25% rural; hora extra: mínimo 50%
+* Transferência: mínimo 25%, só na provisória (OJ 113)
+* Modalidades: tempo, produção e tarefa; mínimo garantido
+FRANCISCA: Os adicionais. Insalubridade: dez, vinte ou quarenta por cento, grau mínimo, médio e máximo, sobre o salário mínimo, artigo cento e noventa e dois. Periculosidade: trinta por cento sobre o salário básico, sem gratificações, prêmios ou participação nos lucros, artigo cento e noventa e três e Súmula cento e noventa e um.
+BRUNO: Noturno urbano, vinte por cento; rural, vinte e cinco. Hora extra, no mínimo cinquenta por cento. Transferência, no mínimo vinte e cinco por cento, artigo quatrocentos e sessenta e nove, parágrafo terceiro, e só na transferência provisória, OJ cento e treze da SDI-um.
+THALITA: E por que a insalubridade é sobre o mínimo, se o STF proibiu o mínimo como indexador?
+ANTONIO: Boa pergunta. A Súmula Vinculante quatro proíbe usar o mínimo como indexador de vantagem e proíbe substituí-lo por decisão judicial. O STF suspendeu a Súmula duzentos e vinte e oito do TST, que adotava o salário básico. Então, a insalubridade continua sobre o salário mínimo até que lei ou norma coletiva fixe outra base.
+FRANCISCA: Súmula cento e noventa e um: a periculosidade incide só sobre o salário básico, e não sobre este acrescido de outros adicionais. O eletricitário contratado sob a Lei sete mil trezentos e sessenta e nove calcula sobre a totalidade das parcelas salariais. E a alteração da Lei doze mil setecentos e quarenta só atinge contratos a partir de sua vigência.
+BRUNO: Reflexos: insalubridade integra enquanto percebida, Súmula cento e trinta e nove. Periculosidade integra a base das extras, Súmula cento e trinta e dois. Extras habituais refletem no repouso, Súmula cento e setenta e dois, no décimo terceiro, Súmula quarenta e cinco, nas férias, no aviso e no FGTS. E a Súmula duzentos e noventa e um: supressão de extras habituais por pelo menos um ano gera indenização.
+ANTONIO: Modalidades de salário: por unidade de tempo, como o mensalista; por unidade de obra, a produção, como a costureira por peça; e por tarefa, tempo mais produção, em que cumprida a tarefa o empregado é liberado ou recebe o excedente.
+THALITA: E se a produção for pouca?
+BRUNO: Quem recebe salário variável tem garantido o salário mínimo, artigo sétimo, inciso sete, e artigo setenta e oito da CLT. O empregador complementa.
+THALITA: Fechando, vou resumir. Remuneração tem salário e gorjeta. Ajuda de custo, alimentação sem dinheiro, diárias, prêmios e abonos não integram, mesmo habituais. Utilidade fornecida para o trabalho não é salário. Habitação e alimentação: vinte e cinco e vinte no urbano, invertido no rural.
+ANTONIO: Muito bem, Thalita. Na sequência veremos como o salário deve ser pago, e como a lei o protege: formas e meios de pagamento. Vamos lá.

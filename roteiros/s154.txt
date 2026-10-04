@@ -1,0 +1,110 @@
+SEGMENTO s154
+== SLIDE: Compensação e banco de horas
+* Quanto maior o prazo, mais solene o instrumento
+* Banco anual: 1 ano, convenção ou acordo coletivo (art. 59, §2º)
+* Banco semestral: 6 meses, acordo individual escrito (§5º)
+* Compensação no mesmo mês: acordo individual tácito ou escrito (§6º)
+* Teto diário: 10h
+ANTONIO: Vimos os descansos, o noturno e o extraordinário. Agora como compensar as horas. A ideia central: quanto maior o prazo de compensação, mais solene precisa ser o instrumento.
+THALITA: Como assim? Dá para resumir em números?
+ANTONIO: Dá. Compensação em até um ano, só por convenção ou acordo coletivo. Em até seis meses, acordo individual escrito. Dentro do mesmo mês, acordo individual, que pode ser até tácito. E o teto diário é de dez horas.
+FRANCISCA: A base legal está no artigo cinquenta e nove. O banco de horas anual está no parágrafo segundo. O parágrafo quinto autoriza o banco de horas por acordo individual escrito, desde que a compensação ocorra em no máximo seis meses. E o parágrafo sexto diz que é lícito o regime de compensação por acordo individual, tácito ou escrito, para a compensação no mesmo mês.
+BRUNO: Esses dois parágrafos derrubaram a exigência de negociação coletiva para todo banco de horas, que vinha da Súmula oitenta e cinco, item cinco. E a FCC adora trocar as palavras: coloca "tácito" no parágrafo quinto, ou "semestre" no parágrafo sexto. Decore: escrito para seis meses, tácito só no mesmo mês.
+THALITA: Então se a alternativa disser que o banco de horas semestral pode ser tácito, está errada.
+BRUNO: Errada. Tácito só vale para a compensação dentro do mesmo mês.
+FRANCISCA: Outras situações da tabela. No tempo parcial, a compensação ocorre até a semana imediatamente posterior, direto na lei. E, na rescisão com saldo positivo de horas, as extras não compensadas são pagas com base na remuneração da data da rescisão, artigo cinquenta e nove, parágrafo terceiro.
+THALITA: Fixei: ano é coletivo, semestre é escrito, mês pode ser tácito, e rescisão paga pelo valor da data da saída.
+
+== SLIDE: A Súmula 85 depois da Reforma
+* Itens I e II: subsistem e foram ampliados
+* Item III: positivado no art. 59-B, caput
+* Item IV: superado, extras habituais não descaracterizam
+* Item V: superado pelo art. 59, §5º
+* Item VI: mitigado pelo art. 60, parágrafo único
+ANTONIO: Vamos conferir como a Súmula oitenta e cinco do TST ficou depois da Lei treze mil quatrocentos e sessenta e sete. A apostila resume item por item.
+BRUNO: Itens um e dois: compensação por acordo individual escrito ou coletivo, com o individual valendo salvo norma coletiva contrária. Subsistem e foram ampliados, porque o parágrafo sexto admite até o acordo tácito no mês.
+FRANCISCA: Item três: compensação irregular sem extrapolar o módulo semanal gera apenas o adicional. Isso foi positivado no artigo cinquenta e nove B, caput.
+THALITA: E o item quatro, sobre extras habituais?
+BRUNO: Superado. A súmula dizia que a prestação habitual de horas extras descaracterizava a compensação. Agora o parágrafo único do artigo cinquenta e nove B diz o contrário: não descaracteriza.
+ANTONIO: O item cinco, que exigia negociação coletiva para o banco de horas, foi superado pelo artigo cinquenta e nove, parágrafo quinto. E o item seis, que pedia licença prévia para compensação em atividade insalubre, ficou mitigado.
+FRANCISCA: Porque o doze por trinta e seis dispensa a licença, artigo sessenta, parágrafo único, e a norma coletiva pode dispensá-la, artigo seiscentos e onze A, inciso treze.
+THALITA: Então se perguntarem pela súmula, eu respondo pela lei?
+BRUNO: Em prova de letra de lei, a FCC segue a CLT. Mas a apostila alerta: confira a redação vigente da súmula, porque o TST pode ter revisado seus itens depois da Reforma.
+
+== SLIDE: Jornada doze por trinta e seis
+* Art. 59-A: 12h de trabalho por 36h de descanso
+* Acordo individual escrito, convenção ou acordo coletivo
+* Intervalo: observado ou indenizado
+* Remuneração abrange DSR e feriados; prorrogações noturnas compensadas
+* STF: constitucionalidade afirmada na ADI 5994
+ANTONIO: Chegamos à jornada doze por trinta e seis, artigo cinquenta e nove A. É uma exceção ao artigo cinquenta e nove: as partes podem estabelecer doze horas seguidas de trabalho por trinta e seis ininterruptas de descanso.
+FRANCISCA: E o instrumento pode ser acordo individual escrito, convenção coletiva ou acordo coletivo. O intervalo para repouso e alimentação pode ser observado ou indenizado. O STF afirmou a constitucionalidade dessa regra na ADI cinco mil novecentos e noventa e quatro.
+THALITA: Mas e os feriados? Antes pagava em dobro, não era?
+BRUNO: Era, pela Súmula quatrocentos e quarenta e quatro. Hoje o parágrafo único diz que a remuneração mensal já abrange o descanso semanal e os feriados, e que ficam compensados os feriados e as prorrogações noturnas, artigo setenta e artigo setenta e três, parágrafo quinto.
+ANTONIO: Vamos comparar. Instrumento: antes, lei ou norma coletiva; hoje, também acordo individual escrito. Feriados trabalhados: antes em dobro, hoje compensados. Intervalo: antes devido, hoje observado ou indenizado. Atividade insalubre: antes exigia licença, hoje dispensa licença prévia.
+THALITA: Tenho que decorar as pegadinhas, então. Dizer que a doze por trinta e seis exige convenção coletiva está errado.
+BRUNO: Errado. Dizer que os feriados são pagos em dobro, errado. E dizer que em ambiente insalubre depende de licença prévia, também errado.
+FRANCISCA: Lembre que isso vale para o texto atual da lei. A súmula antiga continua útil só para comparar na prova.
+THALITA: Macete: doze por trinta e seis, individual escrito basta, feriado já está pago, licença não precisa.
+
+== SLIDE: Salário mínimo, piso e irredutibilidade
+* Art. 7º, IV: mínimo fixado em lei, unificado, sem vinculação
+* Art. 7º, V: piso proporcional à complexidade; estados por lei
+* Art. 7º, VI: irredutibilidade, salvo norma coletiva
+* Art. 7º, VII: variável nunca abaixo do mínimo
+* SV 4, SV 6, SV 16; in natura: 30% em dinheiro
+ANTONIO: Mudamos de tema: salário mínimo, piso e irredutibilidade. A base é o artigo sétimo da Constituição. Inciso quatro: o salário mínimo é fixado em lei, nacionalmente unificado, capaz de atender às necessidades vitais básicas do trabalhador e de sua família, com reajustes que preservem o poder aquisitivo, vedada a vinculação para qualquer fim.
+FRANCISCA: Inciso cinco: o piso salarial é proporcional à extensão e à complexidade do trabalho, e os estados podem instituí-lo por lei, Lei Complementar cento e três de dois mil. Inciso seis: irredutibilidade do salário, salvo convenção ou acordo coletivo. Inciso sete: a remuneração variável nunca é inferior ao mínimo, o que a CLT repete no artigo setenta e oito.
+THALITA: E o Supremo, entra aonde?
+BRUNO: Em súmulas vinculantes. A quatro: o mínimo não pode servir de indexador de vantagem de servidor ou empregado, nem ser substituído por decisão judicial. A seis: o praça do serviço militar inicial pode receber menos que o mínimo. A dezesseis: a garantia do mínimo do servidor refere-se ao total da remuneração.
+ANTONIO: Sobre o reajuste: a lei define a política e o Executivo divulga o valor por decreto, o que o Supremo validou na ADI quatro mil quinhentos e sessenta e oito. E no pagamento in natura, pelo parágrafo único do artigo oitenta e dois, ao menos trinta por cento do salário mínimo deve ser pago em dinheiro.
+FRANCISCA: A apostila avisa que a Lei doze mil trezentos e oitenta e dois cobriu os anos de dois mil e doze a dois mil e quinze. A política atual decorre de leis posteriores, como a Lei catorze mil seiscentos e sessenta e três, de dois mil e vinte e três. Confira sempre a lei vigente e o valor atual.
+THALITA: Meu resumo: mínimo na lei e sem vinculação, piso proporcional à complexidade, irredutibilidade só por norma coletiva, variável nunca abaixo do mínimo, e trinta por cento do mínimo em dinheiro.
+
+== SLIDE: Férias: duração e perda do direito
+* Aquisitivo: 12 meses; concessivo: 12 meses seguintes
+* Faltas: até 5 → 30 dias; 6 a 14 → 24; 15 a 23 → 18; 24 a 32 → 12
+* Acima de 32 faltas: sem férias
+* Art. 133: 60 dias, licença >30 dias, paralisação >30 dias, benefício >6 meses
+* "Embora descontínuos": alvo da FCC
+ANTONIO: Agora as férias, artigos cento e vinte e nove a cento e cinquenta e três. O período aquisitivo é de doze meses de contrato; depois vem o concessivo, de doze meses, em que o empregador concede, à sua escolha.
+FRANCISCA: A duração depende das faltas injustificadas no aquisitivo, artigo cento e trinta. Até cinco faltas, trinta dias corridos. De seis a quatorze, vinte e quatro. De quinze a vinte e três, dezoito. De vinte e quatro a trinta e dois, doze. Com trinta e três ou mais, sem férias.
+THALITA: Vi um macete. Os dias caem de seis em seis: trinta, vinte e quatro, dezoito, doze. E as faixas de faltas sobem de nove em nove, a partir de seis.
+BRUNO: Boa! E atenção: é vedado descontar faltas dos dias de férias. E não são faltas as ausências legais do artigo quatrocentos e setenta e três, a licença-maternidade, o acidente ou doença atestada pelo INSS, a ausência justificada pela empresa, e a suspensão preventiva seguida de absolvição.
+ANTONIO: A perda do direito está no artigo cento e trinta e três. Perde as férias quem deixa o emprego e não é readmitido em sessenta dias; quem tem licença remunerada por mais de trinta dias; quem tem paralisação da empresa com salário por mais de trinta dias; e quem recebe benefício acidentário ou auxílio-doença por mais de seis meses, embora descontínuos.
+BRUNO: Essa expressão, embora descontínuos, é o alvo preferido da FCC. Seis meses somados, ainda que em períodos separados.
+FRANCISCA: No exemplo da apostila, o Bruno recebe benefício por quatro meses, volta, trabalha dois e se afasta mais três, tudo no mesmo aquisitivo. São sete meses descontínuos: perde as férias, e o novo período aquisitivo começa no retorno ao serviço.
+THALITA: E na paralisação da empresa, preciso lembrar de alguma comunicação?
+ANTONIO: Sim: comunicar o Ministério e o sindicato quinze dias antes, parágrafo terceiro.
+
+== SLIDE: Concessão, fracionamento, pagamento e dobra
+* Época fixada pelo empregador; fracionamento em até 3 períodos
+* Um período de ao menos 14 dias; os outros, ao menos 5
+* Não iniciar nos 2 dias antes de feriado ou DSR
+* Aviso por escrito 30 dias antes; pagamento até 2 dias antes
+* Fora do concessivo: dobro (art. 137; Súmula 81); ADPF 501
+BRUNO: A concessão. A época é fixada pelo empregador, em um só período, nos doze meses seguintes, artigos cento e trinta e quatro e cento e trinta e seis. Com a concordância do empregado, as férias podem ser fracionadas em até três períodos, sendo um de no mínimo catorze dias corridos e os demais de no mínimo cinco dias cada.
+FRANCISCA: A regra vale também para menores de dezoito e maiores de cinquenta anos, porque o antigo parágrafo segundo foi revogado. E é vedado iniciar as férias nos dois dias que antecedem feriado ou descanso semanal.
+THALITA: Dá um exemplo de fracionamento de trinta dias?
+ANTONIO: São válidos catorze mais dez mais seis, vinte mais cinco mais cinco, quinze mais quinze. São inválidos dez mais dez mais dez, porque nenhum período chega a catorze; catorze mais doze mais quatro, porque há período menor que cinco; e catorze mais seis mais cinco mais cinco, porque são quatro períodos.
+BRUNO: E com descanso no domingo, as férias não podem começar na sexta nem no sábado.
+FRANCISCA: O empregador avisa por escrito, trinta dias antes, com recibo. Paga as férias e o abono até dois dias antes do início, artigo cento e quarenta e cinco. Familiares no mesmo estabelecimento podem coincidir, e o estudante menor de dezoito pode coincidir com as férias escolares.
+ANTONIO: Se as férias não forem concedidas no período concessivo, são pagas em dobro, mas só os dias além do prazo, Súmula oitenta e um do TST. O empregado pode propor ação para fixar a época, e a sentença impõe pena diária de cinco por cento do salário mínimo.
+THALITA: E se as férias forem gozadas no prazo, mas pagas atrasadas?
+BRUNO: A Súmula quatrocentos e cinquenta mandava pagar a dobra. Em dois mil e vinte e dois, a ADPF quinhentos e um declarou essa súmula inconstitucional. O Judiciário não pode criar sanção sem lei. O atraso gera multa administrativa, não a dobra.
+
+== SLIDE: Abono, férias coletivas e rescisão
+* Abono: 1/3 das férias, direito do empregado, até 15 dias antes do fim do aquisitivo
+* Coletivas: até 2 períodos, nenhum com menos de 10 dias
+* Comunicação: 15 dias antes ao Ministério e ao sindicato
+* Rescisão: vencidas sempre; proporcionais, exceto justa causa
+* Súmula 328: terço incide sobre férias gozadas ou não
+ANTONIO: O abono pecuniário, artigo cento e quarenta e três, é a conversão de um terço das férias em dinheiro. É direito do empregado, e deve ser requerido até quinze dias antes do término do período aquisitivo, e não do concessivo.
+BRUNO: Pegadinha clássica: trocar aquisitivo por concessivo. E nas férias coletivas, a conversão depende de acordo coletivo, sem requerimento individual. Até vinte dias de salário, o abono não integra a remuneração, artigo cento e quarenta e quatro.
+FRANCISCA: As férias coletivas, artigos cento e trinta e nove a cento e quarenta e um, alcançam toda a empresa ou setores, em até dois períodos anuais, nenhum menor que dez dias. A comunicação é ao órgão do Ministério e ao sindicato, quinze dias antes, com aviso afixado. Microempresas e empresas de pequeno porte são dispensadas da comunicação ao Ministério.
+THALITA: E quem tem menos de doze meses de casa?
+FRANCISCA: Tem férias proporcionais, e começa novo período aquisitivo, artigo cento e quarenta.
+ANTONIO: Na rescisão: dispensa sem justa causa ou fim de contrato a termo, vencidas mais terço e proporcionais mais terço. Pedido de demissão, o mesmo, inclusive com menos de doze meses, Súmula duzentos e sessenta e um. Justa causa, só as vencidas. Culpa recíproca, cinquenta por cento das proporcionais. Acordo, integrais.
+BRUNO: Proporcionais são um doze avos por mês ou fração superior a catorze dias. A Súmula trezentos e vinte e oito diz que o terço incide sobre as férias integrais ou proporcionais, gozadas ou não. E a prescrição conta do fim do concessivo ou da cessação do contrato.
+THALITA: Resumo relâmpago da aula. Jornada: oito e quarenta e quatro, tolerância de cinco e dez minutos. Intervalo de uma a duas horas acima de seis, só o suprimido com cinquenta por cento. Noturno urbano vinte por cento. Extras: duas por dia. Banco anual é coletivo, semestral é escrito, mensal é tácito. Doze por trinta e seis com acordo individual. Férias: trinta, vinte e quatro, dezoito, doze; fracionamento catorze, cinco e cinco; abono quinze dias antes do fim do aquisitivo.
+ANTONIO: Até a próxima aula, e bons estudos!
