@@ -1,0 +1,101 @@
+SEGMENTO s237
+== SLIDE: Sistema Nacional de Trânsito: composição
+* CONTRAN: órgão máximo normativo e consultivo; edita resoluções (art. 7º)
+* CETRAN e CONTRANDIFE: Estados e DF; segunda instância dos recursos
+* SENATRAN (antigo DENATRAN): RENACH e RENAVAM
+* PRF (art. 20) e PM (art. 23, com convênio); JARI (art. 16): primeira instância
+ANTONIO: Boa tarde, bem-vindos à aula setenta do curso, Cargo vinte e quatro, Agente da Polícia Judicial, parte um: trânsito, direção e primeiros socorros. Hoje veremos o Sistema Nacional de Trânsito e as normas de circulação, veículos, habilitação, infrações e processo administrativo. Depois, crimes de trânsito, conceitos do Anexo um, primeiros socorros e direção defensiva, ofensiva e evasiva, e fechamos com questões. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora, e trago a lei em paráfrase.
+BRUNO: Eu sou o Bruno, especialista em FCC, e mostro as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira, e pergunto o que você perguntaria.
+ANTONIO: Começando pelo Sistema Nacional de Trânsito, artigo sétimo. No topo normativo está o CONTRAN, coordenador do sistema, órgão máximo normativo e consultivo, que edita resoluções. Ele não fiscaliza nem julga recurso comum.
+THALITA: E nos Estados?
+FRANCISCA: Os CETRAN, e o CONTRANDIFE no Distrito Federal, são normativos, consultivos e coordenadores. Eles também são a segunda instância dos recursos contra decisões da JARI. Pegadinha: CONTRANDIFE é o do Distrito Federal.
+BRUNO: O órgão máximo executivo da União é a SENATRAN, antigo DENATRAN, que mantém o RENACH e o RENAVAM. A denominação mudou em dois mil e vinte e um, então confira. Os executivos de trânsito são o DETRAN e o órgão municipal integrado ao sistema; o Município só atua se estiver integrado. Os rodoviários são o DNIT, os DER e o órgão municipal nas respectivas rodovias.
+THALITA: E a polícia? PRF e PM?
+FRANCISCA: A PRF, artigo vinte, faz o patrulhamento ostensivo nas rodovias e estradas federais, e em regra não atua em rodovia estadual. A PM, artigo vinte e três, faz policiamento ostensivo de trânsito, e só autua mediante convênio com o órgão de trânsito.
+BRUNO: Sem convênio, a PM não autua. E a JARI, artigo dezesseis, julga o recurso em primeira instância e funciona junto a cada órgão executivo.
+THALITA: Resumo: CONTRAN edita, JARI julga em primeira instância, CETRAN em segunda.
+== SLIDE: Competências e normas de circulação
+* Município (art. 24): circulação, estacionamento, peso e lotação; advertência e multa
+* Estado/DETRAN (art. 22): demais infrações; suspensão e cassação
+* Mão de direção: direita; ultrapassagem pela esquerda (art. 29)
+* Cruzamento sem sinal: quem vem pela direita
+* Maior protege o menor; todos protegem o pedestre
+ANTONIO: Agora a divisão de competências. O Município, artigo vinte e quatro, fiscaliza circulação, estacionamento e parada, além de excesso de peso, dimensões e lotação. Aplica advertência e multa nas suas infrações. Cuida do estacionamento rotativo e dos veículos de tração humana e animal.
+THALITA: E o Estado?
+FRANCISCA: O Estado, pelo DETRAN, artigo vinte e dois, fiscaliza todas as demais infrações: habilitação, documentação, equipamentos. Cuida de habilitação, registro, vistoria e licenciamento, e aplica multa e também suspensão e cassação.
+BRUNO: Pegadinha: suspensão do direito de dirigir e cassação são sempre do órgão executivo estadual. Se a alternativa disser que o Município suspende a habilitação, está errada.
+THALITA: Então Município multa e adverte; suspender e cassar, só o Estado. Entendi.
+ANTONIO: Passando às normas de circulação, artigo vinte e nove. A mão de direção é a direita; a esquerda serve para ultrapassagem e para veículos mais rápidos.
+FRANCISCA: No cruzamento sem sinalização, a preferência é de quem vem da rodovia, se só um fluxo vier dela; de quem já circula na rotatória; e, nos demais casos, de quem vem pela direita.
+THALITA: Pela direita, então. Isso eu lembro da autoescola.
+BRUNO: Ultrapassagem é pela esquerda e proibida em curva ou aclive sem visibilidade, ponte, viaduto, passagem de nível e faixa de pedestres, salvo sinalização que permita.
+ANTONIO: Responsabilidade em cadeia, parágrafo segundo: o maior protege o menor, o motorizado protege o não motorizado, e todos protegem o pedestre.
+FRANCISCA: O pedestre anda no passeio; na rodovia sem passeio, no bordo da pista, em fila única, contra o fluxo. A bicicleta anda no bordo, no mesmo sentido, com preferência sobre os automotores.
+== SLIDE: Veículos de emergência
+* Art. 29, VII: prioridade de trânsito, livre circulação, parada e estacionamento
+* Condições cumulativas: urgência, alarme sonoro e luz vermelha intermitente
+* Demais condutores liberam a faixa da esquerda
+* Utilidade pública: só parada e estacionamento, sem prioridade
+ANTONIO: Veículos de emergência, artigo vinte e nove, inciso sete, é ponto certo da prova. São os de socorro de incêndio e salvamento, polícia, fiscalização e operação de trânsito, e ambulâncias. Têm prioridade de trânsito, livre circulação, estacionamento e parada.
+THALITA: Sempre que a sirene estiver ligada?
+BRUNO: Não! As condições são cumulativas: serviço de urgência, e alarme sonoro, e luz vermelha intermitente. Viatura da Polícia Judicial com sirene ligada sem urgência real não goza da prerrogativa.
+FRANCISCA: Os demais condutores liberam a faixa da esquerda, indo para a direita, e os pedestres aguardam no passeio. Já os veículos de utilidade pública, inciso oito, só têm livre parada e estacionamento no local do serviço, sinalizados, sem prioridade de circulação.
+THALITA: Então utilidade pública, como o caminhão de coleta de lixo, pode parar, mas não furar o trânsito.
+BRUNO: Isso. Prioridade de circulação só para emergência.
+THALITA: Guardei: emergência, as três condições juntas; utilidade pública, só parar e estacionar. Se a questão disser que basta ligar a sirene, já sei que está errada.
+== SLIDE: Velocidades máximas e sinalização
+* Urbana: 80, 60, 40 e 30 km/h (rápido, arterial, coletora, local)
+* Pista dupla: 110 (leves) e 90 (demais); pista simples: 100 e 90
+* Estrada: 60 km/h; mínima é metade da máxima
+* Prevalência: agente, semáforo, demais sinais, normas (art. 89)
+ANTONIO: Velocidades máximas, artigo sessenta e um. Na via urbana: trânsito rápido, oitenta quilômetros por hora; arterial, sessenta; coletora, quarenta; local, trinta.
+THALITA: E nas rodovias?
+FRANCISCA: Pista dupla: cento e dez para automóveis, camionetas e motocicletas, e noventa para os demais, como ônibus e caminhões. Pista simples: cem para automóveis, camionetas e motocicletas, e noventa para os demais. Na estrada, via rural não pavimentada: sessenta para todos.
+BRUNO: Pegadinha clássica: dar cento e dez a ônibus em pista dupla, ou cem a caminhão em pista simples. Para eles é noventa nos dois casos. Os limites valem onde não houver placa regulamentando outro valor, e a velocidade mínima é metade da máxima da via, artigo sessenta e dois.
+THALITA: Macete: automóvel, cento e dez e cem; pesado, noventa sempre.
+ANTONIO: O excesso de velocidade, artigo duzentos e dezoito: até vinte por cento, infração média; de vinte a cinquenta por cento, grave; acima de cinquenta por cento, gravíssima, com multa três vezes maior e suspensão.
+FRANCISCA: Sinalização, artigos oitenta e sete a noventa: vertical, horizontal, dispositivos auxiliares, luminosa, sonora e gestos do agente e do condutor.
+BRUNO: A ordem de prevalência, artigo oitenta e nove: primeiro as ordens do agente, depois o semáforo, depois os demais sinais, e só então as normas gerais. E sem sinalização ou com sinalização insuficiente, não se aplica sanção, artigo noventa.
+THALITA: Agente, semáforo, placas, norma. Gravei.
+== SLIDE: Veículos e habilitação
+* Transferência: 30 dias (art. 123); licenciamento anual
+* Categorias A a E (art. 143); D: B há 2 anos ou C há 1; E: C há 1 ano
+* Permissão para Dirigir: 1 ano
+* Exame médico: 10, 5 e 3 anos conforme a idade
+ANTONIO: Veículos. Pelo artigo noventa e seis, classificam-se por tração, espécie, como passageiros, carga e misto, e categoria, como oficial, particular, aluguel e aprendizagem. O novo proprietário registra a transferência em trinta dias, inclusive na mudança de município, artigo cento e vinte e três. Sem a comunicação de venda, o vendedor responde solidariamente pelas penalidades, artigo cento e trinta e quatro; confira o prazo vigente. O licenciamento é anual, e o CRLV é de porte obrigatório, admitido o digital.
+THALITA: E para dirigir? Quais os requisitos?
+FRANCISCA: Artigo cento e quarenta: ser penalmente imputável, saber ler e escrever e possuir documento de identidade. Categorias, artigo cento e quarenta e três: A, veículo motorizado de duas ou três rodas; B, até três mil e quinhentos quilos de peso bruto total e até oito lugares além do motorista; C, carga acima de três mil e quinhentos quilos, exigindo B há um ano; D, passageiros com mais de oito lugares, exigindo vinte e um anos e B há dois anos ou C há um ano; E, combinação com unidade acoplada de seis mil quilos ou mais, vinte e um anos e C há um ano.
+BRUNO: Pegadinha: para a D, dois anos na B ou um ano na C; para a E, um ano na C. A FCC inverte esses tempos.
+THALITA: B dois anos ou C um ano para a D; C um ano para a E.
+FRANCISCA: A Permissão para Dirigir vale um ano, não dois. Converte-se em CNH se não houver infração grave ou gravíssima nem reincidência em média; uma só média não impede. Se falhar, reinicia todo o processo, sem prorrogação.
+ANTONIO: E o exame médico, pela Lei catorze mil e setenta e um, de dois mil e vinte: a cada dez anos para quem tem menos de cinquenta, a cada cinco anos de cinquenta a sessenta e nove, e a cada três anos a partir de setenta.
+THALITA: Dez, cinco e três anos, conforme a idade. Anotado.
+== SLIDE: Pontos, suspensão e infrações mais cobradas
+* Pontos: gravíssima 7, grave 5, média 4, leve 3
+* Suspensão: 20, 30 ou 40 pontos em 12 meses (art. 261)
+* Art. 165: gravíssima, multa 10 vezes, suspensão por 12 meses
+* Celular, cinto, capacete e criança sem dispositivo
+ANTONIO: Natureza das infrações, artigos duzentos e cinquenta e oito e duzentos e cinquenta e nove: gravíssima, sete pontos; grave, cinco; média, quatro; leve, três. As multas-base são duzentos e noventa e três reais e quarenta e sete centavos, cento e noventa e cinco reais e vinte e três, cento e trinta reais e dezesseis, e oitenta e oito reais e trinta e oito.
+THALITA: E quando suspende a CNH por pontos?
+FRANCISCA: Artigo duzentos e sessenta e um, em doze meses: vinte pontos se houver duas ou mais gravíssimas; trinta pontos com uma gravíssima; quarenta pontos sem nenhuma gravíssima. Para quem exerce atividade remunerada, quarenta pontos, qualquer que seja a natureza.
+BRUNO: A suspensão por pontos dura de seis meses a um ano, e na reincidência em doze meses, de oito meses a dois anos. A infração com suspensão própria, de dois a oito meses, e reincidência de oito a dezoito, salvo prazo específico, como os doze meses do artigo cento e sessenta e cinco. A cassação, artigo duzentos e sessenta e três, ocorre ao dirigir suspenso, na reincidência em doze meses em infrações como a do cento e sessenta e cinco, ou na condenação por delito de trânsito, com reabilitação após dois anos.
+ANTONIO: Infrações mais cobradas. Álcool ou psicoativo, artigo cento e sessenta e cinco: gravíssima, multa dez vezes maior e suspensão por doze meses, com recolhimento da habilitação e retenção; reincidência, multa em dobro. A recusa ao teste, artigo cento e sessenta e cinco A, tem as mesmas sanções.
+THALITA: E celular?
+BRUNO: Artigo duzentos e cinquenta e dois: média; gravíssima se segurando ou manuseando. Sem cinto, cento e sessenta e sete: grave, com retenção até colocar. Sem capacete, duzentos e quarenta e quatro: gravíssima, multa e suspensão. Criança sem dispositivo, cento e sessenta e oito: gravíssima, retenção até regularizar.
+FRANCISCA: O artigo duzentos e setenta e seis sujeita às sanções qualquer concentração de álcool, observada a margem do etilômetro fixada pelo CONTRAN. A recusa é infração administrativa, não o crime do artigo trezentos e seis.
+THALITA: Então vamos resumir esse bloco: pontos são sete, cinco, quatro e três, do mais grave ao mais leve. Suspensão é com vinte, trinta ou quarenta pontos, conforme as gravíssimas. E o álcool é a infração mais pesada: multa dez vezes maior e suspensão por doze meses. Alguém me corrige se eu errei algum número?
+== SLIDE: Penalidades, medidas administrativas e processo
+* Penalidade (art. 256): pune, após processo
+* Medida (art. 269): protege a vida, de imediato
+* Apreensão deixou de ser penalidade (Lei 13.281/2016)
+* Autuação: 30 dias; penalidade: 180 ou 360 dias; JARI: 30 dias
+ANTONIO: Penalidade contra medida administrativa. Penalidade, artigo duzentos e cinquenta e seis, serve para punir e é aplicada pela autoridade após processo: advertência por escrito, multa, suspensão, cassação da CNH, cassação da PPD e curso de reciclagem.
+BRUNO: Medida administrativa, artigo duzentos e sessenta e nove, protege a vida de imediato e é aplicada pela autoridade e seus agentes, no ato: retenção e remoção do veículo, recolhimento de CNH, PPD, CRV e CLA, transbordo de carga, teste de alcoolemia, recolhimento de animais e exames de aptidão. A apreensão do veículo deixou de ser penalidade pela Lei treze mil duzentos e oitenta e um, de dois mil e dezesseis; remoção e retenção são medidas.
+THALITA: E a advertência por escrito?
+FRANCISCA: Deve ser imposta à infração leve ou média, sem outra infração nos doze meses anteriores, artigo duzentos e sessenta e sete, pela Lei catorze mil e setenta e um. Confira a redação vigente.
+ANTONIO: Processo administrativo. A notificação da autuação vem em até trinta dias, sob pena de arquivamento, artigo duzentos e oitenta e um. A defesa prévia segue o prazo indicado na notificação. A notificação da penalidade vem em até cento e oitenta dias, ou trezentos e sessenta se houve defesa prévia.
+BRUNO: Recurso à JARI: prazo mínimo de trinta dias, julgamento em trinta dias, sem efeito suspensivo, artigos duzentos e oitenta e dois e duzentos e oitenta e cinco. Segunda instância: trinta dias, perante o CETRAN ou CONTRANDIFE, ou colegiado especial da União, artigos duzentos e oitenta e oito e duzentos e oitenta e nove.
+THALITA: Macete: trinta para autuar, cento e oitenta para multar, trinta para recorrer. E o recurso à JARI não suspende a cobrança da multa, é isso? Então quem recorre ainda corre o risco de ter o prazo correndo. Vou guardar essa pegadinha com muito carinho, porque parece que a FCC adora trocar a palavra suspensivo.
+ANTONIO: Agora vamos aos crimes de trânsito, aos conceitos do Anexo um e aos primeiros socorros.
