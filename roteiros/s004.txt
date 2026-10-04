@@ -1,0 +1,53 @@
+SEGMENTO s004
+== SLIDE: O Acordo e as regras gerais de acentuação
+* Acordo de 1990, obrigatório desde 1º de janeiro de 2016
+* Monossílabos tônicos: a, e, o, com ou sem s
+* Oxítonas: a, e, o, em, ens; paroxítonas: l, n, r, x, ps, i, us, um, ã, ão
+* Proparoxítonas: todas são acentuadas
+ANTONIO: Falamos de como as palavras são formadas. Agora vamos a como elas são escritas e acentuadas, com o Novo Acordo Ortográfico. O acordo é de mil novecentos e noventa e se tornou obrigatório no Brasil em primeiro de janeiro de dois mil e dezesseis.
+THALITA: E o que ele eliminou? Eu sempre misturo o que caiu com o que ficou.
+FRANCISCA: Caiu o trema, o acento dos ditongos abertos ei e oi nas paroxítonas, o acento de êe e ôo, o acento do i e do u tônicos depois de ditongo decrescente nas paroxítonas, o acento diferencial de para, pela, pelo, polo e pera, e o acento do u tônico em gue, gui, que e qui. Mas todas as regras gerais de oxítonas, paroxítonas e proparoxítonas continuaram.
+BRUNO: Então começamos pelas gerais. Monossílabos tônicos: acentuam-se os terminados em a, e, o, seguidos ou não de s. Pá, pés, nó, três, pôs. Não levam acento ti, nu, mel, sol, flor.
+ANTONIO: Oxítonas: acentuam-se as terminadas em a, e, o, em e ens. Sofá, café, avô, também, parabéns. Com pronome depois do verbo vale a mesma regra: amá-lo, vendê-lo, compô-lo. Não levam acento caju, Itu, anel, ruim, cantar.
+THALITA: Por que anel e ruim não levam?
+FRANCISCA: Porque terminam em consoante ou em letra fora da lista. Oxítona só é acentuada quando termina em a, e, o, em, ens. Anel termina em l, ruim em m, mas após hiato com i tônico, que é outra regra.
+BRUNO: Paroxítonas são o grande campo da prova. Acentuam-se as terminadas em l, n, r, x, ps, i, is, us, um, uns, ã, ãs, ão, ãos e ditongo oral. Exemplos: útil, hífen, caráter, tórax, bíceps, júri, lápis, vírus, álbum, ímã, órfão, história, jóquei.
+ANTONIO: Não se acentuam as terminadas em a, e, o, em, ens: mesa, item, itens, hifens, polens.
+BRUNO: E aqui está a pegadinha clássica. Hífen e pólen levam acento, porque são paroxítonas terminadas em n. Mas os plurais hifens e polens não levam, porque são paroxítonas terminadas em ens. Item e itens nunca levaram.
+THALITA: Hífen com acento, hifens sem. Guardei. Mas por que essa diferença acontece?
+ANTONIO: Porque a terminação mudou. No singular a palavra termina em n e a regra manda acentuar. No plural ela passa a terminar em ens, que está na lista das que não se acentuam. A sílaba tônica é a mesma, só a terminação decide.
+BRUNO: Na prova, a FCC coloca os dois lado a lado, e quem decorou só a palavra errou. Raciocine pela terminação.
+FRANCISCA: E as proparoxítonas são todas acentuadas, sem exceção: lâmpada, médico, úmido, ínterim.
+== SLIDE: O que mudou e as regras especiais
+* Éi, ói e éu: acento em oxítonas e monossílabos, não em paroxítonas
+* Hiato com i e u tônicos: saída, saúde, país
+* Êe e ôo perderam o acento; diferencial só em pôr e pôde
+* Trema abolido; mantido em nomes estrangeiros
+ANTONIO: Vamos às regras especiais. Primeira, os ditongos abertos éi, ói e éu. Continuam acentuados em oxítonas e monossílabos: papéis, herói, anzóis, dói, céu, chapéu, réu. Mas não são mais acentuados em paroxítonas: ideia, assembleia, plateia, heroico, jiboia, paranoico, Coreia.
+BRUNO: A banca adora essa. Ela coloca ideia com acento na alternativa e a gente cai. E atenção: a queda só atinge as paroxítonas cuja acentuação dependia exclusivamente do ditongo. Destróier, contêiner e Méier continuam acentuadas, porque são paroxítonas terminadas em r, e essa regra o acordo não mudou.
+THALITA: Entendi. Então o que manda é a terminação em r.
+FRANCISCA: Exato. Segunda regra, hiato com i e u tônicos. Acentuam-se quando estão sozinhos na sílaba ou seguidos de s: saída, saúde, baú, país, egoísta, juízes. Não se acentuam se seguidos de nh, como rainha e moinho, nem quando formam sílaba com l, m, r ou z: Raul, ruim, juiz, cair.
+ANTONIO: Terceira, i e u tônicos depois de ditongo decrescente. Perderam o acento nas paroxítonas: feiura, baiuca, bocaiuva. Mas mantêm nas oxítonas: Piauí, tuiuiú, teiú.
+BRUNO: Quarta, vogais repetidas êe e ôo perderam o acento. Creem, deem, leem, veem, voo, enjoo, abençoo.
+THALITA: E o acento diferencial? Quais restaram?
+FRANCISCA: Mantido em poucos casos. Pôr, verbo, com acento, e por, preposição, sem. Pôde, passado, com acento, e pode, presente, sem. Têm, plural, e tem, singular. Vêm e vem. Contêm, mantêm, provêm e intervêm no plural. Perderam o acento para verbo, pela, pelo, polo e pera.
+ANTONIO: Há ainda o acento diferencial facultativo: fôrma, de molde, e dêmos, do subjuntivo, admitem acento. Forma e demos podem ficar sem.
+BRUNO: Dica de ouro para os verbos ter e vir e derivados. Singular sem circunflexo: ele tem, ele vem. Os derivados no singular levam agudo: ele contém, ele intervém. Plural com circunflexo: eles têm, eles vêm, eles contêm, eles intervêm. Já ver, ler, crer e dar no plural ficam sem acento: veem, leem, creem, deem.
+FRANCISCA: Quinta regra, o u tônico em gue, gui, que e qui perdeu o acento agudo: argui, apazigue, averigue, oblique. E o trema foi abolido nas palavras portuguesas: linguiça, frequente, cinquenta, tranquilo. Ficou nos nomes estrangeiros e derivados, como Müller e mülleriano.
+ANTONIO: Vamos classificar uma frase de prova. Os peritos veem que a assembleia contém vícios e têm ideia de que o heroico esforço foi em vão.
+BRUNO: Veem, sem acento, porque êe perdeu. Assembleia, paroxítona com ditongo aberto, sem acento. Contém, oxítona terminada em em, singular. Têm, diferencial de plural. Ideia e heroico, paroxítonas com ditongo aberto. E vão: o til marca nasalidade, não é acento de tonicidade.
+== SLIDE: Hífen com prefixos
+* Mesma vogal: hífen, como micro-ondas e anti-inflamatório
+* Vogais diferentes: sem hífen, como autoescola
+* Prefixo com r ou s: dobra a consoante, como antirrábico
+* Ex, vice, pós, pré e pró tônicos levam hífen
+ANTONIO: Fechamos com o hífen diante de prefixos. Prefixo terminado em vogal mais palavra iniciada pela mesma vogal pede hífen: micro-ondas, anti-inflamatório, contra-ataque, auto-observação. Vogal diferente, sem hífen: autoescola, antiaéreo, infraestrutura, extraoficial, semiaberto.
+THALITA: E com h?
+FRANCISCA: Prefixo mais palavra com h leva hífen: anti-higiênico, pré-história, super-homem, sobre-humano. As exceções consagradas são subumano, desumano, inábil e coerdeiro, sem hífen.
+BRUNO: Prefixo terminado em vogal mais r ou s não leva hífen e dobra a consoante: antirrábico, contrarregra, ultrassom, minissaia, autorretrato.
+THALITA: Dobra o r e o s. Anotei. E se o prefixo termina em consoante e a palavra começa com vogal?
+FRANCISCA: Nesse caso, em regra, junta-se sem hífen, como em interestadual e hipermercado, que vamos ver já. O hífen aparece quando a letra final do prefixo é a mesma que começa a palavra.
+ANTONIO: Prefixo terminado em r, como hiper, inter e super, mais palavra com r pede hífen: hiper-realista, inter-regional, super-resistente. Com outras letras, junto: hipermercado, interestadual, superinteressante.
+FRANCISCA: Circum e pan antes de vogal, h, m ou n levam hífen: pan-americano, pan-helênico, circum-navegação. Diante de outras letras, junto: panteísmo, circunferência.
+BRUNO: Ex com ideia de estado anterior, vice, sota e soto levam hífen: ex-diretor, vice-presidente, sota-piloto. E pós, pré e pró tônicos: pós-graduação, pré-escolar, pró-reitor. Átonos, sem hífen: pospor, prever, promover.
+ANTONIO: Muito bem, esse foi o bloco de ortografia e acentuação. Agora vamos ao próximo tema, a Redação Oficial, segundo o Manual de Redação da Presidência da República, terceira edição, de dois mil e dezoito.
