@@ -1,0 +1,122 @@
+SEGMENTO s205
+== SLIDE: Questão 1: citação na execução
+* Citação pelos oficiais de justiça (art. 880, §2º)
+* 48 horas para pagar ou garantir
+* Duas procuras em 48 horas: edital por 5 dias (§3º)
+* Seguro-garantia judicial é admitido (art. 882)
+ANTONIO: Vimos a teoria de expropriação, custas e prazos. Agora vamos praticar com as questões comentadas, estilo FCC, parte um, com as questões de um a nove. Primeira questão, de Oficial de Justiça Avaliador. Requerida a execução de sentença condenatória de quantia certa, o juiz determina a expedição de mandado de citação contra a Alfa Limitada. Pela CLT, o que acontece?
+FRANCISCA: Resumo das alternativas. A letra A fala em citação postal e quarenta e oito horas para embargar. A B fala em cinco dias para pagar e mandado que pode omitir a decisão. A C fala em duas procuras em quarenta e oito horas e edital por cinco dias. A D fala em três procuras em cinco dias e edital com vinte dias. A E fala em quarenta e oito horas para pagar, vedado o seguro-garantia.
+BRUNO: Pausa para você pensar. Lembre do artigo oitocentos e oitenta.
+THALITA: Eu iria na letra A. Citação por correio é o mais comum.
+BRUNO: Na execução, não. Pelo parágrafo segundo do artigo oitocentos e oitenta, a citação é feita pelos oficiais de justiça. E as quarenta e oito horas são para pagar ou garantir a execução, não para embargar. Os embargos têm cinco dias, pelo artigo oitocentos e oitenta e quatro.
+ANTONIO: A letra B erra o prazo, que é de quarenta e oito horas, e o mandado deve conter a decisão exequenda ou o termo de acordo não cumprido, parágrafo primeiro.
+FRANCISCA: A letra C é o gabarito: reproduz o parágrafo terceiro do artigo oitocentos e oitenta. Procurado por duas vezes no espaço de quarenta e oito horas e não encontrado, faz-se a citação por edital, publicado no jornal oficial ou afixado na sede do juízo, durante cinco dias.
+BRUNO: A letra D mistura números: os vinte dias são a antecedência do edital de praça, artigo oitocentos e oitenta e oito. E a letra E contraria o artigo oitocentos e oitenta e dois, que admite expressamente o seguro-garantia judicial.
+THALITA: Macete: duas procuras, quarenta e oito horas, edital cinco dias. E o edital de praça é outra coisa, vinte dias.
+== SLIDE: Questão 2: praça
+* Edital com 20 dias (art. 888, caput)
+* Sinal de 20%; saldo em 24 horas; perde o sinal
+* Adjudicação é preferência, não obrigação
+* Sem licitante nem adjudicação: leiloeiro (§3º)
+FRANCISCA: Segunda questão. Três afirmações sobre a praça. Item um: concluída a avaliação, a arrematação é anunciada por edital com vinte dias de antecedência. Item dois: o arrematante garante o lance com sinal de vinte por cento e, se não pagar em vinte e quatro horas, perde o sinal em benefício da execução, e o bem volta à praça. Item três: não havendo licitante, o exequente é obrigado a adjudicar pelo valor da avaliação, vedada a venda por leiloeiro. Quais estão certos?
+ANTONIO: Pense item por item antes de ouvir.
+THALITA: Os três parecem bonitos. Letra E.
+BRUNO: O item três é a armadilha. A palavra obrigado não existe na lei. Adjudicar é preferência do exequente, parágrafo primeiro do artigo oitocentos e oitenta e oito, e não obrigação. E o parágrafo terceiro diz o contrário do que o item afirma: sem licitante e sem pedido de adjudicação, os bens podem ser vendidos por leiloeiro nomeado pelo juiz.
+ANTONIO: Os itens um e dois estão corretos. O um reproduz o caput do artigo oitocentos e oitenta e oito. O dois reúne os parágrafos segundo e quarto. O gabarito é a letra A.
+FRANCISCA: A letra B esquece que o item dois também está certo. A letra C inclui o item três. A letra D só tem o item três. E a letra E inclui o três.
+THALITA: Anotei: preferência não é obrigação, e leiloeiro entra quando ninguém aparece.
+BRUNO: Fique atenta ao vocabulário. A banca troca facultativo por obrigatório sem aviso.
+THALITA: Então vou sublinhar toda palavra forte no enunciado: obrigado, sempre, nunca, vedada. Quando aparecer uma delas, desconfio e volto ao texto da lei antes de marcar.
+== SLIDE: Questão 3: embargos de terceiro por carta precatória
+* Art. 675 do CPC: 5 dias após a arrematação e antes da carta
+* Súmula 419: oferecidos no juízo deprecado
+* Exceções: bem indicado pelo deprecante ou carta devolvida
+* Contestação em 15 dias (art. 679)
+ANTONIO: Terceira questão. A execução corre em Belém, e foi expedida carta precatória para Macapá, cabendo ao juízo deprecado localizar e escolher os bens. Lá foi penhorado e arrematado um imóvel que pertencia a Tereza, que não é parte. O que ela pode fazer?
+FRANCISCA: Alternativas: A, embargos de terceiro no juízo deprecante, cinco dias da penhora. B, embargos de terceiro a qualquer tempo, mesmo após a carta. C, embargos à execução no deprecado. D, embargos de terceiro no deprecado até cinco dias depois da arrematação, sempre antes da carta. E, embargos de terceiro em quinze dias, no juízo que escolher.
+BRUNO: Pausa para pensar. Lembre dos dois limites cumulativos do artigo seiscentos e setenta e cinco do CPC.
+THALITA: Eu acho que é o deprecante, porque ele mandou a carta.
+FRANCISCA: Era assim na redação antiga da Súmula quatrocentos e dezenove do TST. A de dois mil e dezesseis inverteu: na execução por carta, os embargos de terceiro são oferecidos no juízo deprecado, salvo se o bem foi indicado pelo deprecante ou se a carta já foi devolvida. Aqui o deprecado escolheu o bem.
+ANTONIO: Então a letra D é o gabarito, com o prazo do artigo seiscentos e setenta e cinco: até cinco dias depois da arrematação, e sempre antes da assinatura da carta.
+BRUNO: A letra A erra ao dizer deprecante em qualquer hipótese, e também o prazo. A letra B esquece que o limite é a assinatura da carta; depois disso, só ação autônoma. A letra C erra a medida: embargos à execução são do executado, e o terceiro usa embargos de terceiro. A letra E mistura o prazo de contestação, que é de quinze dias, com o prazo para embargar.
+THALITA: Macete: terceiro, cinco dias, antes da carta, no deprecado.
+== SLIDE: Questão 4: desconsideração da personalidade jurídica
+* Art. 855-A, §1º: recorribilidade da decisão
+* Na fase de conhecimento: sem recurso imediato
+* Na execução: agravo de petição, sem garantia do juízo
+* Agravo de instrumento destranca recurso (art. 897, b)
+BRUNO: Quarta questão. Na execução, o juiz acolheu o incidente de desconsideração da personalidade jurídica e incluiu o sócio Bruno no polo passivo. Qual recurso cabe? A, recurso ordinário em oito dias. B, agravo de petição, independentemente de garantia do juízo. C, agravo de petição, desde que garantido o juízo. D, nenhum recurso imediato. E, agravo de instrumento, sem garantia.
+ANTONIO: Pense antes da resposta.
+THALITA: Eu chuto C. Agravo de petição só cabe com juízo garantido, certo?
+FRANCISCA: Em regra o agravo de petição pressupõe garantia, mas aqui a lei abre exceção. O artigo oitocentos e cinquenta e cinco, letra A, parágrafo primeiro, trata da recorribilidade. Na fase de cognição, a decisão é interlocutória e não cabe recurso imediato, salvo agravo interno se for do relator em tribunal. Na execução, cabe agravo de petição, independentemente de garantia do juízo. Gabarito, letra B.
+BRUNO: A letra A erra: o recurso ordinário ataca decisões definitivas ou terminativas da fase de conhecimento, artigo oitocentos e noventa e cinco. A letra C erra porque a lei dispensa a garantia expressamente.
+ANTONIO: A letra D descreve a regra da cognição, inciso um do parágrafo primeiro, e não a da execução. E a letra E confunde: agravo de instrumento serve para destrancar recurso cujo seguimento foi negado, artigo oitocentos e noventa e sete, letra B.
+THALITA: Então depende da fase. Na cognição, nada de imediato; na execução, agravo de petição sem garantia.
+ANTONIO: Exatamente. A pegadinha é o gatilho da fase.
+== SLIDE: Questão 5: responsabilidade do sócio retirante
+* Art. 10-A: subsidiária, ordem: empresa, sócios atuais, retirantes
+* Limitada ao período em que foi sócio
+* Prazo de 2 anos após a averbação da alteração
+* Fraude: solidariedade
+FRANCISCA: Quinta questão. Márcio se retirou da sociedade Beta Limitada, com alteração averbada na Junta Comercial em janeiro de dois mil e vinte e quatro. Em outubro de dois mil e vinte e cinco, Carla, empregada da sociedade de dois mil e vinte e um a dois mil e vinte e cinco, ajuizou reclamação. Sem prova de fraude, Márcio como responde? A, não responde porque saiu antes da ação. B, solidariamente, por todas as obrigações. C, subsidiariamente por tudo, inclusive depois da saída. D, subsidiariamente só se a ação fosse ajuizada em um ano. E, subsidiariamente pelo período em que foi sócio, depois de esgotados os bens da empresa e dos sócios atuais.
+ANTONIO: Pausa para pensar. O artigo dez, letra A, da CLT, é o fundamento.
+THALITA: Eu apostaria na A. Saiu antes, não tem nada com isso.
+BRUNO: Pegadinha. A ação foi ajuizada menos de dois anos depois da averbação, então o retirante ainda responde. A letra A está errada.
+ANTONIO: O artigo dez, letra A, estabelece a ordem: primeiro a empresa devedora, depois os sócios atuais, depois os sócios retirantes, e só pelas obrigações do período em que figuraram como sócios.
+FRANCISCA: A responsabilidade é subsidiária. A solidariedade só aparece quando há fraude comprovada na alteração societária, parágrafo único. Por isso a letra B está errada. A letra C erra ao incluir obrigações posteriores à retirada e ao colocar o retirante antes dos sócios atuais. A letra D troca o prazo, que é de dois anos, não um. A letra E é o gabarito.
+BRUNO: O ponto de prova é a ordem: empresa, sócios atuais, retirantes.
+THALITA: Macete: empresa, sócio de hoje, sócio de ontem. Dois anos de prazo.
+== SLIDE: Questão 6: bem de família e fiança
+* Art. 3º, VII, Lei 8.009: fiança em locação é exceção
+* Súmula 549 do STJ: penhora do bem do fiador
+* Créditos de trabalhadores da residência: inciso I revogado
+* Alto valor: lei não prevê exceção
+ANTONIO: Sexta questão, agora sobre bem de família. Pela Lei oito mil e nove, de mil novecentos e noventa, em sua redação vigente, a impenhorabilidade NÃO é oponível em execução movida: A, por obrigação decorrente de fiança em contrato de locação. B, pelos créditos de trabalhadores da própria residência e respectivas contribuições previdenciárias. C, por qualquer empregado do proprietário, dada a natureza alimentar. D, por credor de dívida comercial, se o imóvel for de elevado valor. E, pela União, para multa administrativa da fiscalização do trabalho.
+BRUNO: Pausa para você pensar. Lembre das exceções do artigo terceiro.
+THALITA: Eu iria na B, porque lembro que o doméstico podia penhorar.
+FRANCISCA: Podia, até a Lei Complementar cento e cinquenta, de dois mil e quinze, que revogou o inciso um do artigo terceiro. Hoje nem o empregado doméstico penhora o bem de família do empregador. A letra B está errada.
+BRUNO: A letra C é pior ainda: o caput deixa claro que a impenhorabilidade é oponível na execução trabalhista. Crédito trabalhista comum não é exceção.
+ANTONIO: O gabarito é a letra A. A fiança em contrato de locação é exceção do inciso sete, e a Súmula quinhentos e quarenta e nove do STJ confirma a penhora do bem de família do fiador.
+FRANCISCA: A letra D inventou exceção para imóvel de alto valor, que a lei não prevê. E a letra E: multa administrativa trabalhista não está nas exceções; o inciso quatro trata apenas de tributos devidos em função do próprio imóvel.
+THALITA: Macete: fiança de aluguel pode, doméstico não pode mais, trabalhista comum não pode.
+== SLIDE: Questão 7: penhora e impenhorabilidades
+* Seguro de vida: impenhorável, sem ressalva
+* Poupança até 40 SM: impenhorável, salvo prestação alimentícia
+* Máquinas agrícolas: respondem por dívida trabalhista (§3º)
+* Vestuário de alto valor: penhorável
+BRUNO: Sétima questão, do Oficial de Justiça. Ao cumprir mandado de penhora, o oficial observa as impenhorabilidades do CPC. É correto afirmar: A, o seguro de vida é penhorável se o executado não tem outros bens. B, os salários são absolutamente impenhoráveis, inclusive para crédito trabalhista. C, a poupança é impenhorável até quarenta salários mínimos, salvo para prestação alimentícia, independentemente da origem. D, as máquinas agrícolas nunca respondem por dívida trabalhista. E, o vestuário é impenhorável em qualquer hipótese, ainda que de elevado valor.
+ANTONIO: Pausa para pensar. Aplique o que vimos no início da aula.
+THALITA: Eu escolho a B. Salário é sagrado, né?
+FRANCISCA: É a regra, mas o parágrafo segundo do artigo oitocentos e trinta e três afasta a impenhorabilidade para prestação alimentícia de qualquer origem. A Orientação Jurisprudencial cento e cinquenta e três da SDI dois ficou restrita ao CPC de mil novecentos e setenta e três. Letra B errada.
+ANTONIO: A letra C é o gabarito. Inciso dez do artigo oitocentos e trinta e três, combinado com o parágrafo segundo.
+BRUNO: A letra A erra porque o seguro de vida é impenhorável, inciso seis, sem ressalva. A letra D erra o parágrafo terceiro: máquinas agrícolas respondem por dívida alimentar, trabalhista ou previdenciária. A letra E erra o inciso três: vestuário de elevado valor é penhorável.
+THALITA: Macete: seguro de vida nunca, poupança até quarenta e alimentos furam o limite, roupa cara pode.
+FRANCISCA: A leitura da palavra qualquer, absolutamente e nunca denuncia a alternativa errada.
+THALITA: Aprendi: na impenhorabilidade, quase tudo tem ressalva. Seguro de vida é a rara exceção sem ressalva nenhuma.
+== SLIDE: Questão 8: embargos à execução
+* Art. 884: 5 dias após a garantia; exequente tem igual prazo
+* Matéria restrita: cumprimento, quitação ou prescrição
+* Impugnação à liquidação nos próprios embargos (§3º)
+* Filantrópicas e diretores: sem garantia (§6º)
+ANTONIO: Oitava questão, sobre embargos à execução. A, quinze dias da citação, sem garantia. B, garantida a execução ou penhorados os bens, cinco dias, igual prazo ao exequente para impugnar, e matéria restrita a cumprimento, quitação ou prescrição. C, impugnação à liquidação em ação autônoma, oito dias do trânsito em julgado. D, filantrópicas devem garantir integralmente o juízo. E, a garantia vale para filantrópicas, mas não para quem foi diretor.
+FRANCISCA: Pensem. Lembrem do artigo oitocentos e oitenta e quatro e dos seus parágrafos.
+THALITA: A letra A parece o CPC, quinze dias. Mas o enunciado é da CLT, então não é.
+BRUNO: Bom raciocínio, Thalita! Na CLT o prazo é de cinco dias e pressupõe garantia. A letra A, errada.
+FRANCISCA: A letra B é o gabarito: caput e parágrafo primeiro do artigo oitocentos e oitenta e quatro.
+ANTONIO: A letra C erra. A impugnação à sentença de liquidação é feita nos próprios embargos, no mesmo prazo, parágrafo terceiro. Não há ação autônoma.
+BRUNO: A letra D contraria o parágrafo sexto, trazido pela Reforma: a exigência de garantia ou penhora não se aplica às entidades filantrópicas. A letra E erra também: a dispensa alcança as filantrópicas e também aqueles que compõem ou compuseram a diretoria dessas instituições.
+THALITA: Macete: cinco dias com garantia, filantrópica e diretores dispensados.
+FRANCISCA: Lembre também do prazo da Fazenda, que é de trinta dias.
+== SLIDE: Questão 9: execução provisória e garantias
+* Art. 899: execução provisória vai até a penhora
+* Súmula 417, III cancelada em 2016
+* OJ 59 da SDI-2: fiança bancária e seguro-garantia equivalem a dinheiro
+* Valor do débito acrescido de 30%
+BRUNO: Nona questão. Três afirmações. Item um: a CLT permite a execução provisória até a penhora. Item dois: pela jurisprudência atual do TST, na execução provisória fere direito líquido e certo a penhora em dinheiro quando nomeados outros bens. Item três: a carta de fiança bancária e o seguro-garantia judicial equivalem a dinheiro para a gradação dos bens, desde que em valor não inferior ao do débito acrescido de trinta por cento.
+ANTONIO: Pausa para pensar.
+THALITA: Os três eu acho certos. Letra E.
+FRANCISCA: Cuidado com o item dois. Esse era o inciso três da Súmula quatrocentos e dezessete do TST, que foi cancelado em dois mil e dezesseis. Hoje a penhora em dinheiro é prioritária também na execução provisória, nas penhoras realizadas a partir de dezoito de março de dois mil e dezesseis. Item dois, falso.
+ANTONIO: O item um reproduz o caput do artigo oitocentos e noventa e nove da CLT. O item três reproduz a Orientação Jurisprudencial cinquenta e nove da SDI dois e o artigo oitocentos e trinta e cinco, parágrafo segundo, do CPC. Gabarito, letra D.
+BRUNO: As outras letras erram por omitir o três, por incluir o dois, ou ambos. A letra A só traz o um, mas o três também é correto. A letra B só traz o dois, que é falso. A letra C inclui o dois. E a letra E inclui o dois.
+THALITA: Macete: provisória vai até a penhora, e fiança ou seguro equivalem a dinheiro com acréscimo de trinta por cento.
+ANTONIO: Terminamos a primeira parte. Agora vamos para as últimas cinco questões, sobre Fazenda Pública, protesto, mandado, títulos e instituição da execução.
