@@ -1,0 +1,101 @@
+SEGMENTO s096
+== SLIDE: Questão 8: delegação de competência
+* Delegação a quem não é subordinado (art. 12); só parte da competência
+* Revogável a qualquer tempo (art. 14, § 2º)
+* Indelegáveis: normativos, recursos, competência exclusiva (art. 13)
+* Decisões consideram-se editadas pelo delegado
+* Gabarito: E
+ANTONIO: Seguimos com as questões comentadas. Questão oito. Pela Lei nove mil setecentos e oitenta e quatro, a delegação de competência: A, só pode ser feita a órgão ou titular hierarquicamente subordinado. B, pode abranger a totalidade da competência do órgão, por prazo determinado. C, é irrevogável durante o prazo fixado no ato, em respeito à segurança jurídica. D, admite a edição de atos normativos pelo delegado, se prevista no ato. E, não pode ter por objeto a decisão de recursos administrativos, e as decisões adotadas por delegação consideram-se editadas pelo delegado.
+THALITA: Pausa para pensar. Vamos testar a memória! Eu vou de E.
+BRUNO: Boa. A E é a correta: artigo treze, inciso dois, decisão de recursos é indelegável, e artigo catorze, parágrafo terceiro, a decisão é considerada editada pelo delegado.
+FRANCISCA: A A erra: o artigo doze permite delegar ainda que o delegado não seja hierarquicamente subordinado. E a B: delega-se apenas parte da competência.
+THALITA: E se o ato fixa prazo, na C, não dá para revogar?
+ANTONIO: Dá. A delegação é revogável a qualquer tempo pelo delegante, artigo catorze, parágrafo segundo.
+BRUNO: A D: atos normativos são indelegáveis, artigo treze, inciso um, mesmo com previsão no ato.
+FRANCISCA: Resumo da delegação: parte da competência, publicada no meio oficial, revogável a qualquer tempo, e o ato precisa mencionar a condição de delegado.
+THALITA: Macete: CE, NO, RA não se delega, revoga-se a qualquer hora, e o delegado responde.
+== SLIDE: Questão 9: impedimento e suspeição
+* Amizade íntima ou inimizade: suspeição (art. 20)
+* Litígio do interessado com cônjuge ou companheiro: impedimento (art. 18, III)
+* Impedido: comunicar e abster-se (art. 19)
+* Recurso contra suspeição indeferida: sem efeito suspensivo (art. 21)
+* Gabarito: B
+BRUNO: Questão nove. Tereza, servidora do TRT, foi designada para instruir processo em que figura como interessado um amigo íntimo dela. Em outro processo sob sua responsabilidade, o interessado é Caio, com quem o marido de Tereza litiga judicialmente. Pela Lei nove mil setecentos e oitenta e quatro: A, no primeiro, Tereza está impedida; no segundo, pode ser arguida a suspeição. B, no primeiro, pode ser arguida a suspeição; no segundo, ela está impedida, devendo comunicar e abster-se. C, em ambos está impedida. D, em ambos pode ser arguida a suspeição, e o indeferimento admite recurso com efeito suspensivo. E, não há impedimento nem suspeição no segundo, pois o litígio envolve o cônjuge, e não ela.
+THALITA: Pausa para pensar. Eu diria que amizade íntima é impedimento, a A.
+FRANCISCA: Inverteu as figuras. Amizade íntima é suspeição, artigo vinte, de natureza subjetiva. Litígio do interessado com o cônjuge ou companheiro da autoridade é impedimento, artigo dezoito, inciso três.
+ANTONIO: Por isso a B é a correta. E o artigo dezenove: a autoridade impedida deve comunicar o fato e abster-se de atuar.
+BRUNO: A C erra, porque a amizade íntima é suspeição. A D erra duas vezes: o segundo caso é impedimento, e o recurso contra o indeferimento da suspeição não tem efeito suspensivo, artigo vinte e um.
+THALITA: E a E? O litígio é do marido dela, não dela.
+FRANCISCA: O artigo dezoito, inciso três, alcança expressamente o cônjuge ou companheiro.
+THALITA: Macete: amizade ou inimizade, suspeição; litígio com cônjuge, impedimento.
+== SLIDE: Questão 10: prazos da Lei 9.784/1999
+* Intimação: 3 dias úteis (art. 26, § 2º)
+* Parecer: 15 dias (art. 42)
+* Decisão: até 30 dias, prorrogáveis por igual período (art. 49)
+* 5 dias: prazo geral (art. 24)
+* Gabarito: D
+FRANCISCA: Questão dez. Ressalvadas disposições específicas, os prazos para: um, antecedência mínima da intimação quanto à data de comparecimento; dois, emissão de parecer por órgão consultivo de oitiva obrigatória; três, decisão da Administração após concluída a instrução, são, respectivamente: A, cinco dias úteis; dez dias; trinta dias improrrogáveis. B, três dias úteis; trinta dias; quinze dias prorrogáveis. C, três dias; quinze dias; sessenta dias. D, três dias úteis; quinze dias; até trinta dias, prorrogáveis por igual período mediante motivação expressa. E, cinco dias; quinze dias; até trinta dias, prorrogáveis uma única vez por dez dias.
+THALITA: Pausa para pensar. Essa a gente acabou de decorar: três, quinze e trinta, alternativa D.
+BRUNO: Perfeito. Artigo vinte e seis, parágrafo segundo, três dias úteis; artigo quarenta e dois, quinze dias; artigo quarenta e nove, até trinta dias, prorrogáveis por igual período, com motivação.
+ANTONIO: A A erra em tudo: cinco dias úteis, dez dias e improrrogáveis. A B troca os prazos do parecer e da decisão.
+FRANCISCA: A C erra porque a antecedência é em dias úteis, e a decisão é de até trinta dias, prorrogáveis por mais trinta, não sessenta direto.
+THALITA: E a E? Cinco dias...
+BRUNO: Cinco dias é o prazo geral do artigo vinte e quatro. E a prorrogação do artigo quarenta e nove é por igual período, não por dez dias.
+THALITA: Macete: três úteis, quinze, trinta mais trinta. E cinco dias é só o prazo geral, não confundir.
+== SLIDE: Questão 11: recurso administrativo
+* Reconsideração em 5 dias; senão sobe à autoridade superior
+* Prazo para recorrer: 10 dias (art. 59)
+* No máximo 3 instâncias (art. 57)
+* Efeito em regra devolutivo (art. 61)
+* Depósito prévio: vedado (SV 21). Gabarito: A
+ANTONIO: Questão onze. Ana teve indeferido requerimento administrativo dirigido a órgão federal e pretende recorrer. Pela Lei nove mil setecentos e oitenta e quatro: A, o recurso é dirigido à autoridade que proferiu a decisão, a qual, se não reconsiderar em cinco dias, o encaminha à autoridade superior. B, o prazo é de quinze dias, da ciência da decisão. C, tramita, no máximo, por duas instâncias. D, tem, em regra, efeito suspensivo. E, a admissibilidade pode ser condicionada a depósito prévio, se houver previsão em regulamento.
+THALITA: Pausa para pensar. Eu vou de A.
+BRUNO: Certo: artigo cinquenta e seis, parágrafo primeiro. A B troca o prazo: são dez dias, artigo cinquenta e nove.
+FRANCISCA: A C erra: no máximo três instâncias, artigo cinquenta e sete.
+THALITA: E o efeito suspensivo, na D?
+ANTONIO: Em regra, não há efeito suspensivo. Pode ser concedido havendo justo receio de prejuízo de difícil ou incerta reparação, artigo sessenta e um.
+BRUNO: A E esbarra na Súmula Vinculante vinte e um: é inconstitucional exigir depósito ou arrolamento prévios para admissibilidade de recurso administrativo.
+FRANCISCA: Lembre também: se o recorrente alega violação de súmula vinculante, a autoridade explicita as razões de aplicabilidade antes de encaminhar o recurso.
+THALITA: Macete: cinco dias para reconsiderar, dez para recorrer, três instâncias, sem caução.
+== SLIDE: Questão 12: recurso x revisão e reformatio in pejus
+* Recurso: agravamento admitido, com prévia ciência (art. 64, p. ú.)
+* Revisão: agravamento vedado (art. 65, p. ú.)
+* Revisão: a qualquer tempo, a pedido ou de ofício
+* Gabarito: C
+BRUNO: Questão doze. Márcio sofreu multa e interpôs recurso. Anos depois de encerrado o processo, surgiram fatos novos que, a seu ver, demonstram a inadequação da penalidade, e ele requereu a revisão. Pela Lei nove mil setecentos e oitenta e quatro: A, tanto no recurso quanto na revisão é vedado agravar a situação do interessado. B, a revisão só pode ser requerida em cinco anos da sanção. C, no recurso admite-se o agravamento, se o recorrente for cientificado para alegar antes da decisão; na revisão, não pode resultar agravamento da sanção. D, a revisão só pode ser instaurada a pedido do interessado. E, no recurso o agravamento é admitido sem prévia ciência; na revisão, se os fatos novos forem desfavoráveis.
+THALITA: Pausa para pensar. Eu iria na A: não pode piorar nunca.
+FRANCISCA: Aí você cai na pegadinha mais trocada do capítulo. No recurso, a reformatio in pejus é admitida, artigo sessenta e quatro, parágrafo único.
+ANTONIO: A C é a correta: no recurso, com ciência prévia do recorrente; na revisão, parágrafo único do artigo sessenta e cinco, nunca.
+BRUNO: A B erra: a revisão cabe a qualquer tempo. A D erra: cabe a pedido ou de ofício.
+THALITA: E a E? Na revisão, fato novo desfavorável poderia agravar?
+FRANCISCA: Não. Na revisão o agravamento é sempre vedado, e no recurso exige prévia cientificação.
+ANTONIO: Regra de ouro: na dúvida entre recurso e revisão, pergunte quem pode piorar. Só o recurso, e com aviso prévio.
+THALITA: Macete: recurso pode piorar com aviso; revisão nunca piora.
+== SLIDE: Questão 13: alcance da lei e motivação
+* Aplica-se aos Poderes Legislativo e Judiciário em função administrativa
+* Motivação por concordância com pareceres é permitida (aliunde)
+* Lei é subsidiária para processos específicos (art. 69)
+* Recurso e discrepância de parecer exigem motivação (art. 50, V e VII)
+* Gabarito: B
+FRANCISCA: Questão treze. Afirmações sobre a Lei nove mil setecentos e oitenta e quatro. Um: aplica-se aos órgãos do Poder Judiciário da União quando no desempenho de função administrativa. Dois: os atos que decidam recursos administrativos e os que discrepem de pareceres oficiais devem ser motivados. Três: a motivação deve ser explícita, clara e congruente, sendo vedado que consista em mera concordância com fundamentos de pareceres anteriores. Quatro: os processos específicos, regidos por lei própria, submetem-se integralmente à lei, que prevalece sobre a legislação especial. Qual conjunto está correto? A, um e três. B, um e dois. C, dois e quatro. D, um, dois e três. E, três e quatro.
+THALITA: Pausa para pensar. Eu diria que o três está certo, porque motivação tem de ser própria.
+BRUNO: Pegadinha clássica. A motivação por concordância com pareceres, a aliunde, é permitida pelo artigo cinquenta, parágrafo primeiro. O item três é falso.
+ANTONIO: O item quatro também é falso: o artigo sessenta e nove prevê aplicação apenas subsidiária da lei aos processos específicos.
+FRANCISCA: Sobram o um e o dois. O item um: artigo primeiro, parágrafo primeiro, a lei alcança os órgãos dos Poderes Legislativo e Judiciário da União quando no desempenho de função administrativa. O item dois: artigo cinquenta, incisos cinco e sete.
+THALITA: Então o gabarito é B. Macete: aliunde pode, lei específica prevalece, e a Lei nove mil setecentos e oitenta e quatro é subsidiária.
+BRUNO: Dica: quando aparecerem as palavras vedado e integralmente, desconfie delas.
+== SLIDE: Questão 14 e resumo relâmpago da aula
+* Capacidade: maiores de 18 anos (art. 10)
+* Advogado é facultativo (art. 3º, IV); intimação não presume verdade (art. 27)
+* Vedada a recusa imotivada de documentos (art. 6º, p. ú.)
+* Desistência não impede o prosseguimento se o interesse público exigir
+* Gabarito: D
+ANTONIO: Questão catorze. Quanto aos direitos e deveres do administrado e à condução do processo: A, o administrado deve ser assistido por advogado nos processos de que possam resultar sanções. B, são capazes os maiores de dezesseis anos. C, o desatendimento da intimação importa reconhecimento da verdade dos fatos alegados pela Administração. D, a desistência do pedido, por escrito, não prejudica o prosseguimento do processo se a Administração considerar que o interesse público assim o exige. E, é lícito recusar documentos fora do modelo padronizado, independentemente de motivação.
+THALITA: Pausa para pensar. Eu iria na B: dezesseis anos é o voto facultativo.
+FRANCISCA: Nada a ver. Para o processo administrativo, são capazes os maiores de dezoito anos, artigo dez.
+ANTONIO: A A: a assistência por advogado é facultativa, salvo se a lei a tornar obrigatória, artigo terceiro, inciso quatro. Lembra da Súmula Vinculante cinco no processo disciplinar.
+BRUNO: A C: o desatendimento da intimação não importa reconhecimento da verdade dos fatos nem renúncia a direito, artigo vinte e sete. A E: é vedada a recusa imotivada de documentos, e o servidor deve orientar o interessado, artigo sexto, parágrafo único.
+THALITA: Sobra a D. Gabarito D.
+FRANCISCA: Artigo cinquenta e um, caput e parágrafo segundo: a desistência escrita não prejudica o prosseguimento se o interesse público o exigir.
+THALITA: Resumo relâmpago do que mais cai nesta aula. Instrução de ofício, e prova ilícita é inadmissível. Parecer: quinze dias; se for vinculante e atrasar, o processo para; se não for vinculante, segue. Decidir: trinta mais trinta dias depois da instrução. Decisão coordenada: três ou mais órgãos, âmbito federal, sem licitação nem poder sancionador. Motivação aliunde pode. Anular é dever, revogar é poder, e a decadência é de cinco anos, do primeiro pagamento. Recurso: dez dias para recorrer, trinta para decidir, três instâncias, sem caução. Revisão: a qualquer tempo, e nunca piora a sanção.
+ANTONIO: Fechamos a aula por aqui. Bons estudos e até a próxima!

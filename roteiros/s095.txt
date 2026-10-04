@@ -1,0 +1,101 @@
+SEGMENTO s095
+== SLIDE: Questão 1: atributos do ato administrativo
+* Presunção de legitimidade é relativa e inverte o ônus da prova
+* Atos negociais e enunciativos não têm imperatividade
+* Cobrança de multa: exceção à autoexecutoriedade
+* Presunção de veracidade também é relativa
+* Gabarito: C
+ANTONIO: Vimos recurso, revisão e prazos. Agora vamos testar, com sete questões comentadas no estilo FCC. Questão um, sobre atributos do ato administrativo. A: a imperatividade está em todos os atos, inclusive nos negociais, como licença e autorização. B: a autoexecutoriedade autoriza a Administração a cobrar diretamente, sem intervenção judicial, as multas não pagas. C: a presunção de legitimidade, relativa, transfere a quem impugna o ato o ônus de provar o vício e permite que o ato produza efeitos até ser invalidado. D: a tipicidade se aplica tanto a atos unilaterais quanto a contratos administrativos, vedando ajuste não previsto em lei. E: a presunção de veracidade é absoluta quanto aos fatos certificados por agente público.
+THALITA: Pausa para pensar. Eu iria na B: autoexecutoriedade, a Administração cobra a multa sozinha.
+BRUNO: Cai na exceção clássica. A cobrança de multa exige inscrição em dívida ativa e execução fiscal. Lembra: a cobrança forçada da multa depende de execução fiscal.
+FRANCISCA: A alternativa A erra: atos negociais, como licença e autorização, e atos enunciativos, como certidão e parecer, não têm imperatividade. O particular os pede, ou eles apenas declaram algo.
+THALITA: Então a C é a correta, presunção relativa?
+ANTONIO: Sim. Presunção juris tantum: inverte o ônus da prova e garante a eficácia do ato até a invalidação.
+FRANCISCA: A D: a tipicidade, na lição de Di Pietro, é atributo dos atos unilaterais. Nos contratos, que são bilaterais, há espaço para cláusulas ajustadas.
+BRUNO: E a E é falsa: a presunção de veracidade é relativa, admite prova em contrário.
+THALITA: Macete: presunção relativa, e multa precisa de execução fiscal.
+== SLIDE: Questão 2: convalidação do vício de competência
+* Competência não exclusiva: vício sanável
+* Convalidação pela própria Administração, efeitos retroativos
+* Sem lesão ao interesse público nem prejuízo a terceiros (art. 55)
+* Ato ilegal não se revoga
+* Gabarito: A
+BRUNO: Questão dois. Pedro, Diretor de Secretaria, aplicou advertência a servidor subordinado, quando a lei atribuía essa competência, de forma não exclusiva, ao Diretor-Geral. Constatado o vício, sem lesão ao interesse público nem prejuízo a terceiros, o ato: A, pode ser convalidado pela própria Administração, por ratificação da autoridade competente, com efeitos retroativos. B, deve ser anulado, pois o vício de competência é sempre insanável. C, pode ser convalidado, mas só com efeitos a partir de sua edição. D, só pode ser convalidado pelo Judiciário. E, deve ser revogado, por ser discricionário e de autoridade incompetente.
+THALITA: Pausa para pensar. Eu iria na B: competência errada, anula.
+FRANCISCA: Cuidado: o vício de competência só é insanável quando a competência é exclusiva. Aqui não era.
+ANTONIO: A A é a correta: artigo cinquenta e cinco da Lei nove mil setecentos e oitenta e quatro. Defeito sanável, sem lesão ao interesse público nem prejuízo a terceiros, convalidado pela própria Administração, e a convalidação retroage, com efeitos ex tunc.
+BRUNO: A C erra nos efeitos. A D erra no agente: a lei atribui a convalidação à própria Administração.
+THALITA: E a E, revogar?
+FRANCISCA: Ato ilegal não se revoga. Revogação pressupõe ato válido e juízo de conveniência.
+ANTONIO: Na prova, a FCC aposta que você vai dizer que vício de competência nunca se corrige. Corrige-se quando a competência não é exclusiva.
+THALITA: Macete: competência não exclusiva, convalida e retroage; ilegal, anula; válido e inconveniente, revoga.
+== SLIDE: Questão 3: teoria dos motivos determinantes
+* Motivo declarado passa a integrar a validade do ato
+* Motivo falso ou inexistente invalida o ato
+* Ato discricionário também se sujeita a controle dos motivos
+* Vício de motivo é insanável
+* Gabarito: E
+FRANCISCA: Questão três. O Diretor-Geral de um órgão federal exonerou Lúcia de cargo em comissão, consignando que a exoneração decorria da extinção do cargo por contenção de despesas. Duas semanas depois, verificou-se que o cargo continuava existindo e foi provido por outra pessoa. O ato de exoneração é: A, válido, pois a exoneração é discricionária, insuscetível de controle quanto aos motivos. B, válido, pois a exoneração ad nutum dispensa motivação, e o motivo declarado é irrelevante. C, inválido por vício de competência, sanável por ratificação. D, inválido por vício de forma, convalidável com nova motivação. E, inválido, pois, embora a motivação fosse dispensável, o motivo declarado vincula a validade e se mostrou falso, pela teoria dos motivos determinantes.
+THALITA: Pausa para pensar. Se a exoneração é livre, eu iria na B: não precisa de motivo.
+ANTONIO: A exoneração é livre, sim, mas a Administração declarou o motivo. Se declara, ele passa a integrar a validade do ato. É a teoria dos motivos determinantes.
+BRUNO: Por isso a B está errada. E a A também: ato discricionário se sujeita a controle de legalidade, inclusive quanto à existência dos motivos.
+THALITA: E a C, competência?
+FRANCISCA: O enunciado não traz vício de competência. E na D, o vício é de motivo, falso, insanável: não se corrige com motivação posterior.
+BRUNO: Gabarito E: motivo falso ou inexistente invalida o ato.
+THALITA: Macete: declarou o motivo, o motivo precisa ser verdadeiro.
+== SLIDE: Questão 4: licença e autorização
+* Licença: vinculada e definitiva; direito subjetivo
+* Autorização: discricionária e precária; interesse do particular
+* Permissão de serviço público: contrato de adesão
+* Homologação e aprovação: controle de outro ato
+* Gabarito: B
+ANTONIO: Questão quatro. Considere os atos negociais. Um: ato vinculado e definitivo, pelo qual a Administração, verificado o preenchimento dos requisitos legais, faculta ao particular o exercício de atividade, como edificar em terreno próprio. Dois: ato discricionário e precário, pelo qual a Administração consente que o particular utilize bem público predominantemente em interesse próprio, como fechar uma rua para festa particular. Correspondem, respectivamente, a: A, autorização e licença. B, licença e autorização. C, licença e permissão de serviço público. D, homologação e autorização. E, aprovação e licença.
+THALITA: Pausa para pensar. Eu diria autorização e licença, A.
+BRUNO: Inverteu, e é a troca clássica. Licença é vinculada e definitiva, há direito subjetivo do particular. Autorização é discricionária e precária, com interesse predominante do particular.
+FRANCISCA: A C: permissão de serviço público é contrato de adesão, artigo quarenta da Lei oito mil novecentos e oitenta e sete, não ato de uso de bem.
+THALITA: E homologação e aprovação?
+ANTONIO: Homologação é controle posterior de legalidade de outro ato. Aprovação é controle discricionário de outro ato. Nenhuma das duas descreve o item um ou o item dois.
+FRANCISCA: Outra forma de fixar: na licença, o particular preenche os requisitos e a Administração tem de conceder; na autorização, a Administração avalia a conveniência e o ato é precário.
+THALITA: Macete: licença é vinculada, autorização é discricionária e precária. Gabarito B.
+== SLIDE: Questão 5: anulação e revogação
+* Anulação: Administração e Judiciário, efeitos ex tunc
+* Judiciário não revoga ato de outro Poder
+* Não se revogam atos vinculados, exauridos ou com direito adquirido
+* Art. 53: deve anular; pode revogar
+* Gabarito: D
+BRUNO: Questão cinco. Afirmações. Um: a anulação pode ser feita pela Administração e pelo Judiciário, produzindo, em regra, efeitos ex tunc. Dois: a revogação de ato do Executivo pode ser determinada pelo Judiciário quando o ato se mostrar inconveniente. Três: não podem ser revogados os atos vinculados, os que já exauriram seus efeitos e os que geraram direitos adquiridos. Quatro: pela Lei nove mil setecentos e oitenta e quatro, a Administração pode anular seus atos ilegais e deve revogá-los quando inoportunos. Qual conjunto está correto? A, um e dois. B, dois e quatro. C, um, dois e três. D, um e três. E, três e quatro.
+THALITA: Pausa para pensar. Eu diria que o dois está certo: se o ato é ruim, o juiz revoga.
+FRANCISCA: O Judiciário não revoga ato de outro Poder. Revogação é juízo de conveniência e oportunidade da própria Administração. O item dois é falso, o que derruba A, B e C.
+ANTONIO: O item quatro inverte os verbos do artigo cinquenta e três: a Administração deve anular os atos ilegais e pode revogar os inoportunos. Falso, o que derruba também a E.
+THALITA: Então sobram o um e o três, alternativa D.
+BRUNO: Isso. O um: anulação por ambos, com efeito retroativo. O três: limites materiais da revogação.
+THALITA: Macete: deve anular, pode revogar; Judiciário anula, não revoga.
+== SLIDE: Questão 6: decadência do direito de anular
+* Efeitos patrimoniais contínuos: prazo conta do primeiro pagamento
+* Prazo de 5 anos, salvo má-fé (art. 54)
+* Prazo decadencial, não prescricional
+* Impugnação só afasta a decadência se antes de consumado o prazo
+* Gabarito: A
+FRANCISCA: Questão seis. Em março de dois mil e dezenove, Rogério, servidor federal, passou a receber, de boa-fé, adicional concedido por erro de interpretação da Administração, com pagamentos mensais desde então. Em junho de dois mil e vinte e cinco, sem que antes houvesse qualquer medida de impugnação, a Administração constatou a ilegalidade. Pela Lei nove mil setecentos e oitenta e quatro: A, operou-se a decadência, pois, em efeitos patrimoniais contínuos, o prazo de cinco anos conta-se da percepção do primeiro pagamento. B, a Administração deve anular, pois atos ilegais não se convalidam pelo tempo. C, pode anular, pois o prazo conta-se do último pagamento. D, pode anular, pois o prazo é de dez anos. E, operou-se a prescrição, que pode ser interrompida por medida posterior a junho de dois mil e vinte e cinco.
+THALITA: Pausa para pensar. Eu iria na C: o pagamento continua, então o prazo conta do último.
+BRUNO: Pegadinha. Em efeitos patrimoniais contínuos, o prazo conta-se da percepção do primeiro pagamento, artigo cinquenta e quatro, parágrafo primeiro.
+ANTONIO: Primeiro pagamento em março de dois mil e dezenove; os cinco anos acabaram em março de dois mil e vinte e quatro. Em junho de dois mil e vinte e cinco, já decaiu. Gabarito A.
+FRANCISCA: A B ignora que a lei prevê expressamente a decadência para atos favoráveis ao destinatário de boa-fé. A D erra: o prazo é de cinco anos.
+THALITA: E a E, prescrição?
+BRUNO: O prazo é decadencial, não prescricional. E a medida de impugnação, parágrafo segundo, só afasta a decadência se adotada antes de consumado o prazo.
+THALITA: Macete: boa-fé, cinco anos, do primeiro pagamento, e é decadência.
+== SLIDE: Questão 7: cassação e formas de extinção do ato
+* Cassação: beneficiário descumpriu condições
+* Caducidade: norma superveniente
+* Contraposição: ato posterior de efeitos opostos
+* Renúncia: ato do próprio beneficiário
+* Gabarito: C
+ANTONIO: Questão sete. Uma empresa obteve licença de funcionamento para atuar como restaurante, mas passou a explorar no local atividade proibida, descumprindo as condições impostas para a manutenção da licença. A Administração extinguiu o ato. Essa modalidade de extinção se chama: A, caducidade. B, contraposição. C, cassação. D, revogação. E, renúncia.
+THALITA: Pausa para pensar. Eu iria na D, revogação, porque a Administração extinguiu.
+FRANCISCA: Revogação pressupõe juízo de conveniência sobre ato válido, sem culpa do beneficiário. E a licença é ato vinculado. Aqui houve descumprimento.
+BRUNO: Cassação é a extinção porque o beneficiário descumpriu condições que deveria manter. A C é a correta.
+THALITA: E caducidade?
+ANTONIO: Caducidade decorre de norma jurídica superveniente que torna inadmissível a situação antes consentida.
+FRANCISCA: Contraposição é a edição de ato posterior, de competência diversa, com efeitos opostos, como a exoneração em face da nomeação. E renúncia é ato do próprio beneficiário.
+THALITA: Macete: cassação, culpa do beneficiário; caducidade, lei nova; renúncia, ato do próprio beneficiário.
+ANTONIO: Terminamos este bloco. Na sequência, mais sete questões, sobre delegação, impedimento e suspeição, prazos, recurso, revisão e direitos do administrado.
