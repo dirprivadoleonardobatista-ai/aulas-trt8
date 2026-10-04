@@ -1,0 +1,74 @@
+SEGMENTO s075
+== SLIDE: Quem fiscaliza e quem presta contas
+* Controle externo: Congresso Nacional, com auxílio técnico do TCU
+* TCU é órgão autônomo: não integra o Legislativo (art. 70)
+* Presta contas quem usa dinheiro público, público ou privado
+* Controle interno: ciência ao TCU, sob pena de responsabilidade solidária
+* Denúncia: cidadão, partido, associação ou sindicato (art. 74, § 2º)
+ANTONIO: Vimos como uma lei nasce no processo legislativo. Agora vamos ver quem fiscaliza o dinheiro público depois que a lei está de pé: a fiscalização contábil, financeira e orçamentária, artigos setenta a setenta e cinco.
+THALITA: Fiscalizar quem, Antônio? Só o governo?
+ANTONIO: A fiscalização da União tem duas faces. O controle externo, que cabe ao Congresso Nacional com auxílio técnico do Tribunal de Contas da União, e o controle interno, que cada Poder mantém por conta própria. O artigo setenta lista cinco dimensões: contábil, financeira, orçamentária, operacional e patrimonial.
+FRANCISCA: E os parâmetros são legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas. Repare que a economicidade vai além de checar se a lei foi cumprida: ela olha se o gasto foi eficiente.
+BRUNO: Pegadinha clássica da FCC: dizer que o Tribunal de Contas faz parte do Poder Legislativo. Não faz. O TCU é órgão autônomo, não integra o Legislativo nem é subordinado a ele. O auxílio é técnico.
+THALITA: Então o titular do controle externo é o Congresso, e o Tribunal só ajuda. Certo?
+ANTONIO: Certo. O titular é o Congresso Nacional. O Tribunal presta o auxílio técnico, com independência.
+FRANCISCA: E quem presta contas? Qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos, ou pelos quais a União responda. Está no parágrafo único do artigo setenta. Até uma entidade privada que gerencie recurso público precisa prestar contas.
+THALITA: Eu chutaria que só servidor público presta contas.
+BRUNO: Errou, e a banca ama essa troca. Quem usa dinheiro público presta contas, seja público ou privado.
+ANTONIO: Sobre o controle interno: ele é mantido de forma integrada pelos três Poderes. Os responsáveis, ao tomar conhecimento de irregularidade, devem dar ciência ao Tribunal de Contas, sob pena de responsabilidade solidária. Está no artigo setenta e quatro, parágrafo primeiro.
+FRANCISCA: E a denúncia ao Tribunal pode ser feita por qualquer cidadão, partido político, associação ou sindicato. É o parágrafo segundo do mesmo artigo. Não precisa ser advogado nem ter interesse direto.
+THALITA: Macete: contas, quem usa dinheiro público; denúncia, cidadão, partido, associação e sindicato.
+== SLIDE: Artigo setenta e um: apreciar x julgar
+* Presidente: TCU aprecia, com parecer prévio em 60 dias; o Congresso julga
+* Administradores e responsáveis: o TCU julga (art. 71, II)
+* Registro de pessoal: não vale para cargo em comissão
+* Recursos da União repassados a Estados e Municípios: TCU
+* Sanções: multa proporcional ao dano; susta ATO (inciso X)
+ANTONIO: Chegamos ao coração do tema, o artigo setenta e um. O Tribunal tem competências próprias, em que ele mesmo julga, sanciona e susta atos, e competências opinativas, como o parecer sobre as contas do Presidente. A pegadinha central é a diferença entre apreciar e julgar.
+THALITA: Apreciar e julgar não são sinônimos?
+BRUNO: Para a FCC, não. Inciso primeiro: o Tribunal aprecia as contas anuais do Presidente da República, mediante parecer prévio elaborado em sessenta dias do recebimento. Quem julga essas contas é o Congresso, pelo artigo quarenta e nove, inciso nove.
+FRANCISCA: Já o inciso segundo usa o verbo julgar: o Tribunal julga as contas dos administradores e responsáveis por dinheiros, bens e valores públicos, da administração direta e indireta, e de quem der causa a perda, extravio ou irregularidade que cause prejuízo ao erário.
+THALITA: Então: Presidente, aprecia; administradores, julga.
+ANTONIO: Exatamente. A banca costuma trocar um verbo pelo outro.
+FRANCISCA: O inciso terceiro trata do registro. O Tribunal aprecia, para fins de registro, a legalidade dos atos de admissão de pessoal e das concessões de aposentadorias, reformas e pensões. Ficam de fora as nomeações para cargo em comissão e as melhorias posteriores que não alterem o fundamento legal da concessão.
+BRUNO: A pegadinha é incluir cargo em comissão no registro. Não entra.
+ANTONIO: O inciso quarto permite inspeções e auditorias por iniciativa própria ou a pedido da Câmara, do Senado ou de comissão técnica ou de inquérito. O quinto fiscaliza as contas nacionais de empresas supranacionais de cujo capital a União participe.
+FRANCISCA: O sexto fiscaliza recursos repassados pela União a Estados, Distrito Federal e Municípios por convênio, acordo ou ajuste. Recurso próprio estadual fica com o Tribunal de Contas do Estado.
+THALITA: Então se é dinheiro da União repassado, é o TCU; se é dinheiro do Estado, é o tribunal estadual.
+BRUNO: Isso. Seguindo: o sétimo manda prestar informações ao Congresso. O oitavo permite aplicar sanções, inclusive multa proporcional ao dano. O nono assina prazo para o órgão cumprir a lei. O décimo susta a execução do ato impugnado. O décimo primeiro representa ao Poder competente sobre irregularidades.
+== SLIDE: Sustar ato x sustar contrato, e outras regras
+* Ato: o próprio TCU susta (inciso X)
+* Contrato: Congresso susta; sem ação em 90 dias, o TCU decide
+* Decisão com débito ou multa: título executivo (art. 71, § 3º)
+* Art. 72: 5 dias para a autoridade, 30 dias para o TCU
+* Art. 73: 9 Ministros, mais de 35 e menos de 70 anos
+ANTONIO: Atenção ao inciso décimo: o Tribunal susta o ato impugnado, mas não o contrato. Contrato é diferente.
+FRANCISCA: Quem susta o contrato é o Congresso Nacional, diretamente, que solicita ao Poder Executivo as medidas cabíveis. Se em noventa dias nem o Congresso nem o Executivo agirem, aí sim o Tribunal decide a respeito. É o parágrafo segundo do artigo setenta e um.
+THALITA: Ato, o Tribunal susta; contrato, o Congresso. E se ninguém agir em noventa dias, volta para o Tribunal.
+BRUNO: Perfeito. E a FCC adora afirmar que o TCU susta contrato diretamente. Errado.
+ANTONIO: Outras regras: o parágrafo terceiro diz que as decisões que imputem débito ou multa têm eficácia de título executivo.
+FRANCISCA: A execução cabe ao ente lesado, não ao Tribunal nem ao Ministério Público de Contas. E o parágrafo quarto manda enviar relatório de atividades ao Congresso, trimestral e anualmente.
+ANTONIO: O artigo setenta e dois: diante de despesa não autorizada, a comissão mista permanente pede esclarecimentos à autoridade em cinco dias; se forem insuficientes, solicita pronunciamento do Tribunal em trinta dias.
+THALITA: Cinco dias para a autoridade, trinta para o Tribunal.
+ANTONIO: Agora a composição, artigo setenta e três. São nove Ministros, sede no Distrito Federal, quadro próprio de pessoal e jurisdição em todo o território nacional.
+FRANCISCA: Idade: mais de trinta e cinco e menos de setenta anos, pela Emenda Constitucional cento e vinte e dois, de dois mil e vinte e dois. Além disso, idoneidade moral, reputação ilibada, notórios conhecimentos jurídicos, contábeis, econômicos e financeiros ou de administração pública, e mais de dez anos de atividade que exija esses conhecimentos.
+BRUNO: Escolha: um terço, três Ministros, pelo Presidente com aprovação do Senado. Dois alternadamente entre auditores e membros do Ministério Público junto ao Tribunal, em lista tríplice, e um de livre escolha. Dois terços, seis Ministros, pelo Congresso Nacional.
+THALITA: Então a maioria é escolhida pelo Congresso, seis em nove.
+FRANCISCA: Isso. Eles têm as mesmas garantias dos Ministros do STJ e respondem por crimes comuns e de responsabilidade perante o STF. O auditor, quando substitui, tem as garantias do titular; nas demais atribuições, as de juiz de Tribunal Regional Federal.
+== SLIDE: Jurisprudência, tribunais estaduais e municipais
+* SV 3: contraditório no TCU, exceto concessão inicial de aposentadoria
+* TCU tem 5 anos para julgar a concessão inicial (Tema 445)
+* TCU não faz controle abstrato de constitucionalidade
+* TCE: 7 Conselheiros, 4 da Assembleia e 3 do Governador (Súmula 653)
+* Parecer sobre contas do Prefeito: só cai por 2/3 da Câmara
+ANTONIO: Agora a jurisprudência. A Súmula Vinculante três: nos processos perante o Tribunal de Contas, asseguram-se contraditório e ampla defesa quando da decisão puder resultar anulação ou revogação de ato que beneficie o interessado.
+BRUNO: A exceção é a apreciação da legalidade da concessão inicial de aposentadoria, reforma e pensão, porque é ato complexo.
+FRANCISCA: Complemento do STF, no Tema quatrocentos e quarenta e cinco: o Tribunal tem cinco anos, contados da chegada do processo, para julgar a legalidade da concessão inicial. Passado o prazo, o ato se considera registrado. E a pretensão de ressarcimento fundada em decisão de Tribunal de Contas é prescritível, Tema oitocentos e noventa e nove.
+THALITA: Cuidado com a Súmula trezentos e quarenta e sete, né?
+BRUNO: Isso. O STF tem restringido essa súmula: o TCU não faz controle abstrato de constitucionalidade nem afasta, com efeitos gerais, lei vigente. Leia a formulação da questão com calma.
+ANTONIO: Por simetria, artigo setenta e cinco, as normas dessa seção se aplicam aos tribunais estaduais e ao do Distrito Federal. Os Tribunais de Contas dos Estados têm sete Conselheiros.
+FRANCISCA: Pela Súmula seiscentos e cinquenta e três do STF, quatro são escolhidos pela Assembleia Legislativa e três pelo Governador: um entre auditores, um entre membros do Ministério Público de Contas e um de livre escolha.
+BRUNO: Nos Municípios, o controle é da Câmara Municipal, com auxílio do tribunal estadual ou do conselho de contas dos Municípios, onde houver. O parecer prévio sobre as contas do Prefeito só deixa de prevalecer por decisão de dois terços da Câmara. E é vedada a criação de novos tribunais municipais; Rio de Janeiro e São Paulo foram mantidos.
+FRANCISCA: E, segundo o STF, a Câmara julga as contas de governo e de gestão do Prefeito para fins de inelegibilidade; o parecer do Tribunal é opinativo. Tribunal de Contas dos Municípios é órgão estadual; tribunal do Município é outra coisa.
+THALITA: Resumo relâmpago do que mais cai. Apreciar é parecer, julgar é decisão. Registro não vale para cargo em comissão. Ato, o Tribunal susta; contrato, o Congresso, e depois de noventa dias volta para o Tribunal. Nove Ministros, seis escolhidos pelo Congresso e três pelo Presidente. Tribunal estadual, sete Conselheiros. E não esqueça de revisar o Poder Executivo e o processo legislativo desta aula.
+ANTONIO: Fechamos a aula por aqui. Bons estudos e até a próxima!
