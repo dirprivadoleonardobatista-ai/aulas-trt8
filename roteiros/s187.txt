@@ -1,0 +1,40 @@
+SEGMENTO s187
+== SLIDE: Exceções (arts. 799 e 800): incompetência territorial
+* Só suspeição e incompetência suspendem o feito; as demais exceções vão na defesa (art. 799)
+* Exceção territorial: 5 dias da notificação, antes da audiência (art. 800)
+* Processo suspenso; reclamante e litisconsortes: 5 dias comuns
+* Prova oral do excipiente por carta precatória no juízo que indicou
+* Decidida a exceção, o processo retoma perante o juízo competente
+BRUNO: Falamos de nulidades, e uma das formas de provocar a declaração de incompetência é a exceção. Vamos aos artigos setecentos e noventa e nove a oitocentos e dois. A regra do setecentos e noventa e nove: nas causas da Justiça do Trabalho, só podem ser opostas, com suspensão do feito, as exceções de suspeição ou incompetência.
+THALITA: E as outras exceções, como litispendência e coisa julgada?
+FRANCISCA: Vão na contestação, como preliminares, parágrafo primeiro. A decisão sobre exceção de suspeição ou incompetência é, em regra, irrecorrível de imediato, parágrafo segundo. As partes podem alegar de novo no recurso contra a decisão final.
+ANTONIO: Vamos ao procedimento da exceção de incompetência territorial, artigo oitocentos. Ela deve ser apresentada no prazo de cinco dias a contar da notificação, antes da audiência e em peça que sinalize a existência dela.
+BRUNO: Protocolada a petição, o processo fica suspenso e a audiência do artigo oitocentos e quarenta e três não se realiza até que a exceção seja decidida. Foi uma novidade da Reforma, porque antes a exceção era apresentada na audiência.
+THALITA: Então o reclamado não precisa mais se deslocar ao foro escolhido pelo autor para discutir isso.
+FRANCISCA: Exatamente. Os autos vão conclusos ao juiz, que intima o reclamante e eventuais litisconsortes para se manifestar em prazo comum de cinco dias. Se o juiz achar necessária prova oral, designa audiência, garantindo que o excipiente e as testemunhas dele sejam ouvidos por carta precatória, no juízo que o excipiente indicou como competente.
+ANTONIO: Decidida a exceção, o processo retoma o curso, com a designação de audiência, a apresentação de defesa e a instrução perante o juízo competente. Se a exceção não for apresentada no prazo, prevalece que a competência se prorroga.
+THALITA: Macete: cinco dias para opor, cinco dias para o autor responder, suspende tudo, e a prova do excipiente vai por precatória.
+== SLIDE: Súmula 214, alínea c, e exemplo da exceção
+* Interlocutórias: sem recurso imediato (Súm. 214 TST; art. 893, § 1º)
+* Exceção acolhida com remessa a TRT distinto: recurso ordinário imediato
+* Remessa dentro da mesma região: irrecorrível de imediato
+* Exemplo: Belém e Macapá (8ª Região) versus São Luís (16ª Região)
+FRANCISCA: A Súmula duzentos e quatorze do TST diz que as decisões interlocutórias não ensejam recurso imediato, salvo três exceções. A que interessa aqui é a alínea c: a decisão que acolhe a exceção de incompetência territorial e remete os autos a TRT distinto daquele a que se vincula o juízo excepcionado.
+BRUNO: Vejam o exemplo da apostila. O Márcio ajuíza ação em Belém contra a Alfa Ltda., embora tenha trabalhado em Macapá. Ambas ficam na Oitava Região. Acolhida a exceção, os autos vão para a Vara de Macapá, do mesmo TRT. A decisão é irrecorrível de imediato.
+THALITA: E se a remessa fosse para São Luís?
+ANTONIO: São Luís é Décima Sexta Região, outro TRT. Aí caberia recurso ordinário desde logo, pela Súmula duzentos e quatorze, alínea c.
+BRUNO: É a pegadinha predileta: a banca diz que acolhida a exceção sempre cabe recurso. Não: só se a remessa for para TRT distinto. E a decisão que rejeita a exceção nunca é recorrível de imediato.
+THALITA: Então: mesma região, nada; outra região, recurso ordinário na hora.
+== SLIDE: Suspeição e impedimento (arts. 801 e 802)
+* Suspeição: inimizade pessoal, amizade íntima, parentesco até o 3º grau, interesse particular
+* Perde o direito de arguir quem consentiu, não alegou quando conhecia, aceitou o juiz ou provocou o motivo
+* Art. 802: audiência em 48 horas; hoje, art. 146 CPC
+* Impedimento: art. 144 CPC; objetivo; autoriza rescisória (art. 966, II CPC)
+FRANCISCA: Agora a suspeição, artigo oitocentos e um. Os motivos são quatro: inimizade pessoal, amizade íntima, parentesco por consanguinidade ou afinidade até o terceiro grau civil, e interesse particular na causa.
+ANTONIO: E há casos em que a parte perde o direito de arguir: se consentiu na pessoa do juiz, salvo novo motivo; se deixou de alegar quando já conhecia; se, conhecida, aceitou o juiz; ou se provocou de propósito o motivo.
+THALITA: Se eu já sabia da amizade e fiquei calada, perdi o direito?
+BRUNO: Perdeu. É a perda do direito de arguir, parágrafo único do artigo oitocentos e um.
+FRANCISCA: Apresentada a exceção de suspeição, o artigo oitocentos e dois manda designar audiência em quarenta e oito horas para instrução e julgamento. Mas esse artigo foi desenhado para as Juntas colegiadas, extintas pela Emenda Constitucional vinte e quatro, de mil novecentos e noventa e nove. Hoje se aplica subsidiariamente o artigo cento e quarenta e seis do CPC: o juiz que não reconhece a suspeição ou o impedimento remete o incidente ao Tribunal. O procedimento deve ser conferido no Regimento Interno do TRT da Oitava Região.
+ANTONIO: E o impedimento? A CLT não o prevê expressamente, mas segue o artigo cento e quarenta e quatro do CPC, por aplicação subsidiária. Ele é objetivo e gera nulidade que autoriza até ação rescisória, artigo novecentos e sessenta e seis, inciso segundo, do CPC.
+THALITA: Macete: suspeição é subjetiva, quatro motivos; impedimento é objetivo, e pode dar rescisória.
+BRUNO: Com isso fechamos as exceções. Agora vamos treinar tudo, e o resto da aula, com as questões comentadas.

@@ -1,0 +1,108 @@
+SEGMENTO s188
+== SLIDE: Questões 1 e 2: custas no acordo e prazo no recesso
+* Acordo: custas de 2% sobre o valor (art. 789, I), em partes iguais se nada disposto (§ 3º)
+* R$ 20.000,00 x 2% = R$ 400,00; R$ 200,00 para cada parte
+* Prazo de 8 dias úteis (art. 775); suspensão de 20/12 a 20/1 (art. 775-A)
+* Corre 16 a 19/12; retoma em 21/1; último dia: 26/1
+* Gabaritos: Questão 1, C; Questão 2, A
+ANTONIO: Terminamos as exceções. Agora, doze questões no estilo FCC. Questão um: as partes fizeram acordo de vinte mil reais, homologado, sem cláusula sobre custas. Qual o valor e quem paga?
+THALITA: Pausa para pensar. Eu chutaria quatrocentos reais, só do reclamado.
+FRANCISCA: As custas no acordo são de dois por cento do valor, artigo setecentos e oitenta e nove, inciso primeiro. Dois por cento de vinte mil dá quatrocentos reais. Mas, sem convenção, o pagamento é em partes iguais, parágrafo terceiro: duzentos reais para cada parte. A C é a correta.
+BRUNO: A A erra valor e responsável; a B acerta o valor, mas põe tudo no reclamado; a D inventa alíquota de três por cento; e a E diz que o acordo extingue o processo sem mérito, o que é errado, porque o acordo é base de cálculo expressa e a homologação resolve o mérito.
+THALITA: Macete: acordo, dois por cento, e racha ao meio.
+BRUNO: Questão dois. A Tereza foi intimada da sentença na segunda-feira, quinze de dezembro, e quer interpor recurso ordinário, prazo de oito dias. Sem feriados locais. Qual o último dia?
+THALITA: Pausa para pensar. Contando dias úteis, eu diria vinte e seis de janeiro. Será?
+ANTONIO: Exato. Os prazos são em dias úteis, artigo setecentos e setenta e cinco. Correm de dezesseis a dezenove de dezembro, quatro dias úteis. De vinte de dezembro a vinte de janeiro há suspensão, artigo setecentos e setenta e cinco-A. Retoma em vinte e um de janeiro, com saldo de quatro dias úteis: vinte e um, vinte e dois, vinte e três e vinte e seis. A é a correta.
+FRANCISCA: A B usa regra revogada de prazos contínuos. A C erra porque a suspensão vai até vinte de janeiro, inclusive. A D diz que a suspensão interrompe e o prazo recomeça integral: errada, é suspensão, conta-se só o saldo. E a E posterga o vencimento, o que também é errado.
+THALITA: Macete: suspensão guarda o saldo.
+== SLIDE: Questões 3 e 4: jus postulandi e preposto
+* Súm. 425: jus postulandi só nas Varas e TRTs; não vale para rescisória, cautelar, MS e recursos ao TST
+* Art. 791 segue vigente após a Reforma
+* Preposto não precisa ser empregado (art. 843, § 3º); declarações obrigam o proponente (§ 1º)
+* Súm. 377 TST superada
+* Gabaritos: Questão 3, E; Questão 4, B
+BRUNO: Questão três: segundo a jurisprudência sumulada do TST, o jus postulandi das partes alcança o quê? A: todas as instâncias. B: só as Varas. C: mandado de segurança, mas não rescisória. D: foi revogado pela Reforma. E: limita-se às Varas e aos TRTs, não alcançando rescisória, cautelar, mandado de segurança e recursos do TST.
+THALITA: Pausa para pensar. Eu iria na E, que parece a mais completa.
+ANTONIO: Acertou, é a literalidade da Súmula quatrocentos e vinte e cinco. A A erra por incluir os recursos do TST. A B erra porque alcança os TRTs, inclusive o recurso ordinário. A C erra porque não alcança o mandado de segurança. A D erra porque o artigo setecentos e noventa e um segue vigente.
+FRANCISCA: Questão quatro: a Beta quer enviar como preposto o Paulo, contador autônomo que presta serviços a ela e conhece os fatos. Pode?
+THALITA: Pausa para pensar. Eu diria que não, porque tem de ser empregado.
+BRUNO: É a Súmula trezentos e setenta e sete, superada pelo artigo oitocentos e quarenta e três, parágrafo terceiro. Hoje o preposto não precisa ser empregado, mas deve ter conhecimento do fato, e as declarações dele obrigam o proponente, parágrafo primeiro. A B é a correta.
+ANTONIO: A A reproduz a súmula superada. A C erra porque as declarações obrigam. A D erra porque a substituição por preposto é faculdade do empregador. A E erra porque não se exige que seja advogado, aliás o Código de Ética da OAB até veda a cumulação.
+THALITA: Macete: preposto não precisa ser empregado, mas precisa conhecer o fato.
+== SLIDE: Questões 5 e 6: honorários e exceção territorial
+* Honorários contra beneficiário: condição suspensiva por 2 anos; não sai do crédito (ADI 5766)
+* Vedada compensação (art. 791-A, § 3º); percentuais de 5% a 15%
+* Exceção territorial: 5 dias da notificação, antes da audiência, processo suspenso
+* Reclamante e litisconsortes: prazo comum de 5 dias; precatória (art. 800)
+* Gabaritos: Questão 5, D; Questão 6, A
+FRANCISCA: Questão cinco: a Carla, beneficiária da justiça gratuita, ajuizou reclamação em dois mil e vinte e quatro e obteve procedência parcial, com crédito de quarenta mil reais. Quanto aos honorários devidos ao advogado da reclamada, o que vale?
+THALITA: Pausa para pensar. Eu diria que são descontados do crédito de quarenta mil.
+BRUNO: É exatamente o que a ADI cinco mil setecentos e sessenta e seis proibiu. A C está errada. A correta é a D: são devidos, mas ficam sob condição suspensiva de exigibilidade por dois anos após o trânsito em julgado, sem poder ser pagos com o crédito obtido em juízo.
+ANTONIO: A A erra porque há condenação, o que se suspende é a exigibilidade. A B erra porque é vedada a compensação. A E erra os percentuais, que são de cinco a quinze por cento, e o prazo, que é de dois anos.
+THALITA: Questão seis, exceção de incompetência territorial. A A diz que deve ser apresentada em cinco dias da notificação, antes da audiência, suspendendo o processo, com prazo comum de cinco dias para o reclamante e litisconsortes se manifestarem.
+FRANCISCA: Correta, artigo oitocentos, caput e parágrafos primeiro e segundo.
+BRUNO: A B é a regra anterior à Reforma. A C erra o prazo, que é de cinco dias, e a prova do excipiente é por carta precatória no juízo indicado. A D erra porque a audiência não se realiza até a decisão. A E erra porque só cabe recurso imediato na remessa a TRT distinto, Súmula duzentos e quatorze, alínea c.
+ANTONIO: Gabaritos: D na cinco e A na seis.
+== SLIDE: Questão 7: nulidades
+* I: arguir na primeira oportunidade (art. 795)
+* II: incompetência de foro, de ofício, anula só atos decisórios (art. 795, § 1º)
+* III: não se pronuncia nulidade arguida por quem deu causa (art. 796, b)
+* IV: nulidade atinge só atos dependentes (art. 798)
+* Gabarito: C (I e III)
+BRUNO: Questão sete, quatro afirmações sobre nulidades. A primeira: as nulidades devem ser arguidas na primeira vez em que a parte tiver de falar em audiência ou nos autos. A segunda: a nulidade fundada em incompetência de foro é declarada de ofício, considerando-se nulos todos os atos do processo. A terceira: não se pronuncia a nulidade arguida por quem lhe deu causa. A quarta: a nulidade prejudica todos os atos posteriores, ainda que independentes.
+THALITA: Pausa para pensar. A primeira eu sei que é certa. A segunda também, porque a incompetência anula tudo.
+FRANCISCA: Cuidado: a segunda é a pegadinha. Declarada a incompetência, são nulos só os atos decisórios, artigo setecentos e noventa e cinco, parágrafo primeiro. Falsa.
+ANTONIO: A terceira é verdadeira, artigo setecentos e noventa e seis, alínea b. E a quarta é falsa: o artigo setecentos e noventa e oito só alcança os atos posteriores que dependam do ato nulo ou sejam consequência dele.
+BRUNO: Então só a primeira e a terceira estão corretas. A resposta é a C. A A inclui a segunda, a B traz a segunda e a quarta, a D inclui a quarta e a E esquece a primeira.
+THALITA: Ah, entendi: só os decisórios caem, e só os dependentes caem.
+FRANCISCA: Isso. Gabarito: C.
+== SLIDE: Questão 8: custas e depósito recursal
+* Massa falida: não ocorre deserção por falta de custas ou depósito (Súm. 86 TST)
+* Recuperação judicial: isenta só do depósito (art. 899, § 10)
+* Conselhos profissionais: sem isenção de custas (art. 790-A, parágrafo único)
+* Liquidação extrajudicial: privilégio não se estende (Súm. 86)
+* Sociedade de economia mista: sem privilégios do DL 779/1969 (Súm. 170)
+* Gabarito: E
+ANTONIO: Questão oito. Sobre custas e depósito recursal, o que é correto? A: a empresa em recuperação judicial está isenta de custas e de depósito recursal. B: os conselhos de fiscalização profissional, por serem autarquias, estão isentos de custas. C: o privilégio da massa falida quanto à deserção estende-se à empresa em liquidação extrajudicial. D: a sociedade de economia mista goza dos privilégios do Decreto-Lei setecentos e setenta e nove, de mil novecentos e sessenta e nove. E: não ocorre deserção de recurso da massa falida por falta de custas ou de depósito.
+THALITA: Pausa para pensar. Recuperação judicial é uma crise, então eu marcaria a A.
+BRUNO: Boa tentativa. A empresa em recuperação judicial está isenta só do depósito recursal, artigo oitocentos e noventa e nove, parágrafo décimo. As custas ela paga. A A está errada.
+FRANCISCA: A B também erra: pelo parágrafo único do artigo setecentos e noventa-A, os conselhos de fiscalização profissional não têm a isenção. A C erra pela parte final da Súmula oitenta e seis: o privilégio da massa falida não se estende à liquidação extrajudicial. A D erra pela Súmula cento e setenta: a sociedade de economia mista não goza dos privilégios do Decreto-Lei setecentos e setenta e nove.
+THALITA: Então só resta a E: massa falida não tem deserção, nem por custas, nem por depósito.
+ANTONIO: Exato, Súmula oitenta e seis do TST. Gabarito: E.
+BRUNO: Dica: a massa falida é a exceção; recuperação e liquidação extrajudicial, não.
+== SLIDE: Questões 9 e 10: alçada e notificação postal
+* Alçada: sem recurso, salvo matéria constitucional (Lei 5.584/1970, art. 2º, § 4º)
+* Vale o mínimo da data do ajuizamento (Súm. 71); Súm. 356: dispositivo recepcionado
+* Notificação postal: presume-se recebida em 48 horas (Súm. 16); presunção relativa
+* Sábado: prazo começa na segunda e conta-se na terça (Súm. 262, I)
+* Gabaritos: Questão 9, B; Questão 10, D
+FRANCISCA: Questão nove. O valor da causa, não impugnado, era de um salário mínimo e meio na data do ajuizamento, e os pedidos do Bruno foram julgados improcedentes. Pela Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, cabe recurso?
+THALITA: Pausa para pensar. Eu diria que cabe recurso ordinário, porque a alçada deve ter sido revogada pela Constituição.
+BRUNO: Pegadinha. A Súmula trezentos e cinquenta e seis diz que o dispositivo foi recepcionado. Então não cabe recurso, salvo se a sentença tratar de matéria constitucional, artigo segundo, parágrafo quarto. A B é a correta.
+ANTONIO: A C erra: vale o salário mínimo da data do ajuizamento, não da sentença, Súmula setenta e um. A D erra porque há ressalva da matéria constitucional. A E erra porque o pedido de revisão é sobre o valor fixado, em quarenta e oito horas e sem efeito suspensivo.
+FRANCISCA: Questão dez. A Ana, reclamada, recebeu notificação postal expedida em uma quinta-feira, sem provar recebimento em data diferente. Pela jurisprudência do TST, o que vale?
+THALITA: Pausa para pensar. Quarenta e oito horas depois da quinta é sábado. Como sábado não é dia útil, o prazo começa na segunda, e a contagem na terça.
+BRUNO: É a D. Súmula dezesseis, quarenta e oito horas, e Súmula duzentos e sessenta e dois, inciso primeiro. A A erra por falar em mesmo dia. A B começa a correr no sábado. A C erra porque a presunção é relativa, e o ônus da prova é do destinatário. A E começa a contar no sábado, contrária à Súmula duzentos e sessenta e dois.
+ANTONIO: Gabaritos: B na nove e D na dez.
+== SLIDE: Questões 11 e 12: representação, prazo em dobro e custas
+* Procuração irregular da reclamada: prazo de 5 dias para sanar, depois revelia (Súm. 456, I e II)
+* Contrato social só se houver impugnação (OJ 255)
+* Município: prazo em dobro (DL 779/1969); litisconsortes com procuradores distintos: sem dobro (OJ 310)
+* Autarquia municipal isenta de custas, mas reembolsa se vencida (art. 790-A)
+* Menor sem representante: MPT, sindicato, MP estadual ou curador (art. 793)
+* Gabaritos: Questão 11, A; Questão 12, E
+THALITA: Questão onze: a procuração da Alfa Ltda., reclamada, não tinha o nome do signatário. O juiz deve designar cinco dias para sanar e, descumprida a determinação, considerar revel. Eu acho que é a A.
+BRUNO: Correta, Súmula quatrocentos e cinquenta e seis, incisos primeiro e segundo, em harmonia com o artigo setenta e seis, parágrafo primeiro, do CPC. A B erra: extinção é para vício do reclamante. A C erra porque antes se concede prazo.
+FRANCISCA: A D erra pela Orientação Jurisprudencial duzentos e cinquenta e cinco: o contrato social só é exigido se houver impugnação. E a E troca prazo e consequência.
+ANTONIO: Questão doze, quatro afirmações. Primeira: o Município tem prazo em dobro para recorrer. Segunda: dois litisconsortes com procuradores de escritórios distintos têm prazo em dobro. Terceira: a autarquia municipal sem atividade econômica é isenta de custas, mas, vencida, reembolsa as despesas da parte vencedora. Quarta: o menor sem representantes legais pode ajuizar reclamação por meio do MPT, do sindicato, do Ministério Público estadual ou de curador.
+THALITA: Pausa para pensar. A segunda eu achava certa, porque são dois escritórios.
+BRUNO: Falsa. Orientação Jurisprudencial trezentos e dez: não há prazo em dobro para litisconsortes com procuradores distintos no processo do trabalho. Os itens um, três e quatro estão corretos: o primeiro pelo Decreto-Lei setecentos e setenta e nove, o terceiro pelo artigo setecentos e noventa-A e o quarto pelo artigo setecentos e noventa e três.
+FRANCISCA: Resposta: E, itens um, três e quatro. A A, a B e a C incluem o item dois, e a D exclui o item um, que também é verdadeiro.
+== SLIDE: Resumo relâmpago da aula
+* Honorários: 5% a 15%, recíprocos, sem compensação; beneficiário com condição suspensiva de 2 anos
+* Nulidades: prejuízo, primeira oportunidade, só atos decisórios e dependentes
+* Exceção territorial: 5 dias, suspende, precatória; Súm. 214, c
+* Prazo em dias úteis, recesso suspende; Súm. 16 e 262; alçada e Súm. 425
+ANTONIO: Chegamos ao fim da aula, Thalita. Quer fechar com um resumo?
+THALITA: Resumo relâmpago do que mais cai na FCC. Primeiro: honorários de sucumbência de cinco a quinze por cento, recíprocos e sem compensação; o beneficiário da gratuidade fica com a obrigação sob condição suspensiva por dois anos e não paga com o crédito obtido em juízo. Segundo: nulidade exige prejuízo, deve ser arguida na primeira oportunidade, e a incompetência declarada de ofício anula só os atos decisórios. Terceiro: exceção de incompetência territorial, cinco dias da notificação, antes da audiência, suspende o processo, prova por precatória, e só cabe recurso imediato se a remessa for para TRT distinto. Quarto: prazos em dias úteis, com suspensão de vinte de dezembro a vinte de janeiro; notificação postal presumida em quarenta e oito horas. Quinto: jus postulandi só nas Varas e nos TRTs, e preposto não precisa ser empregado.
+ANTONIO: Era isso, pessoal: revisem os quadros, refaçam as questões e nos vemos na próxima aula. Bons estudos!
