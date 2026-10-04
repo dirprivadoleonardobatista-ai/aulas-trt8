@@ -1,0 +1,69 @@
+SEGMENTO s162
+== SLIDE: Deveres, embargo, SESMT e exames
+* Meio ambiente do trabalho: direito fundamental (art. 7º, XXII; art. 225)
+* Empresa cumpre e faz cumprir; empregado observa as normas (arts. 157 e 158)
+* Embargo ou interdição por grave e iminente risco (art. 161)
+* Exames admissional, periódico e demissional a cargo do empregador
+BRUNO: Depois dos meios de solução de conflitos, entramos na segurança e medicina do trabalho, artigos cento e cinquenta e quatro a duzentos e um da CLT. O meio ambiente do trabalho é direito fundamental: artigo sétimo, inciso vinte e dois, artigo duzentos, inciso oito, e artigo duzentos e vinte e cinco da Constituição.
+THALITA: Quais são os deveres de cada lado?
+FRANCISCA: A empresa deve cumprir e fazer cumprir as normas de segurança e medicina, instruir os empregados e facilitar a fiscalização, artigo cento e cinquenta e sete. O empregado deve observar as normas e instruções e colaborar, artigo cento e cinquenta e oito.
+ANTONIO: E há consequência para a recusa. O parágrafo único do artigo cento e cinquenta e oito considera ato faltoso a recusa injustificada ao uso do EPI ou às instruções. Injustificada: a palavra é a chave.
+THALITA: E o embargo? Quem decide?
+BRUNO: Diante de grave e iminente risco, a autoridade regional do trabalho pode embargar a obra ou interditar o estabelecimento. Durante a paralisação, os empregados recebem salário, artigo cento e sessenta e um, parágrafo sexto.
+FRANCISCA: Os serviços especializados em engenharia de segurança e medicina do trabalho, o SESMT, são organizados conforme o grau de risco e o número de empregados, artigo cento e sessenta e dois e Norma Regulamentadora quatro. Os exames médicos são três: admissional, periódico e demissional, por conta do empregador, artigo cento e sessenta e oito e Norma Regulamentadora sete.
+THALITA: O exame é do empregador, nunca descontado do salário, certo?
+ANTONIO: Exatamente.
+== SLIDE: CIPA: composição, mandato e estabilidade
+* Comissão Interna de Prevenção de Acidentes e de Assédio (Lei 14.457/2022)
+* Eleitos: mandato de 1 ano, uma reeleição
+* Presidente designado pelo empregador; vice eleito pelos empregados
+* Estabilidade do eleito, titular e suplente, até 1 ano após o mandato
+FRANCISCA: A CIPA. A Lei catorze mil quatrocentos e cinquenta e sete, de dois mil e vinte e dois, a rebatizou: Comissão Interna de Prevenção de Acidentes e de Assédio. É paritária, com representantes da empresa, designados, e dos empregados, eleitos em escrutínio secreto, independentemente de filiação sindical.
+THALITA: Mandato e quem preside?
+ANTONIO: O mandato dos eleitos é de um ano, permitida uma reeleição, artigo cento e sessenta e quatro, parágrafo terceiro. O presidente é designado anualmente pelo empregador, e o vice-presidente é eleito pelos empregados.
+BRUNO: A pegadinha é inverter: a FCC escreve que o presidente é eleito pelos empregados. Errado. O presidente é do empregador. O vice é dos empregados.
+FRANCISCA: A estabilidade já vimos hoje em outra aula, mas vale reforçar. O artigo cento e sessenta e cinco da CLT veda a despedida arbitrária dos titulares da representação dos empregados, assim entendida a que não se funda em motivo disciplinar, técnico, econômico ou financeiro. A Constituição, no artigo décimo, inciso dois, alínea a, do ADCT, ampliou: veda a dispensa arbitrária ou sem justa causa do eleito, do registro da candidatura até um ano após o fim do mandato.
+THALITA: E o suplente tem?
+BRUNO: Tem, pela Súmula trezentos e trinta e nove, item um. Já o representante do empregador, inclusive o presidente, não tem estabilidade.
+ANTONIO: E a garantia não é vantagem pessoal: extinto o estabelecimento, cessa. Não há despedida arbitrária, e é indevida a reintegração ou a indenização.
+THALITA: Macete: eleito tem, designado não; suplente tem; fechou o estabelecimento, acabou.
+== SLIDE: EPI e insalubridade
+* EPI gratuito, adequado e com Certificado de Aprovação
+* Súmula 289: fornecer não basta, deve fiscalizar o uso
+* Graus: 40%, 20% e 10%; perícia obrigatória
+* Súmula 448: laudo não basta, precisa estar na norma do Ministério
+ANTONIO: EPI, o equipamento de proteção individual. O artigo cento e sessenta e seis manda a empresa fornecê-lo gratuitamente, adequado ao risco e em perfeito estado, sempre que as medidas de ordem geral não ofereçam completa proteção. É subsidiário às medidas coletivas, e só pode ser vendido ou usado com Certificado de Aprovação, artigo cento e sessenta e sete.
+BRUNO: A Súmula duzentos e oitenta e nove do TST: o simples fornecimento do aparelho de proteção não exime o empregador do adicional de insalubridade. Cabe a ele tomar medidas que diminuam ou eliminem a nocividade, inclusive quanto ao uso efetivo do equipamento. Já a Súmula oitenta diz que a eliminação da insalubridade por aparelhos protetores aprovados exclui o adicional.
+THALITA: Então fornecer sem fiscalizar o uso não basta?
+FRANCISCA: Isso. Agora a insalubridade, artigos cento e oitenta e nove a cento e noventa e dois. Atividade insalubre expõe o empregado a agentes nocivos acima dos limites de tolerância. Três elementos: agente nocivo, limite de tolerância ultrapassado e tempo de exposição. O enquadramento depende do quadro do Ministério do Trabalho, a NR-quinze.
+ANTONIO: Os graus são três: máximo, quarenta por cento; médio, vinte por cento; mínimo, dez por cento. A base, nos termos da Súmula Vinculante quatro, é o salário mínimo. Cessando a exposição, cessa o direito, artigo cento e noventa e quatro.
+BRUNO: A perícia é obrigatória, por médico do trabalho ou engenheiro do trabalho registrado. A Orientação Jurisprudencial cento e sessenta e cinco da SDI-1 aceita qualquer dos dois. Em local desativado, admite-se outro meio de prova, OJ duzentos e setenta e oito.
+THALITA: O laudo basta para o adicional?
+BRUNO: Não. A Súmula quatrocentos e quarenta e oito, item um, exige que a atividade conste da relação oficial do Ministério. O item dois diz que limpeza e coleta de lixo de banheiros de uso público ou coletivo de grande circulação é grau máximo. A norma coletiva pode dispor sobre o enquadramento do grau, mas não reduzir o adicional.
+== SLIDE: Periculosidade e vedação à cumulação
+* Inflamáveis, explosivos, energia elétrica, segurança, motocicleta
+* Adicional de 30% sobre o salário básico
+* Art. 193, § 2º: o empregado opta; IRR Tema 17 veda cumulação
+* Súmula 364: permanente ou intermitente; eventual, não
+FRANCISCA: Periculosidade, artigo cento e noventa e três. As hipóteses: inflamáveis, explosivos ou energia elétrica; roubos ou outras violências físicas em segurança pessoal ou patrimonial; atividades em motocicleta, parágrafo quarto, Lei doze mil novecentos e noventa e sete, de dois mil e catorze. Há inclusão legislativa de dois mil e vinte e três para agentes das autoridades de trânsito. Confira a redação vigente após as Leis catorze mil seiscentos e oitenta e quatro e catorze mil setecentos e sessenta e seis.
+THALITA: E o percentual?
+ANTONIO: Trinta por cento sobre o salário básico, sem os acréscimos de gratificações, prêmios ou participações nos lucros. É a Súmula cento e noventa e um. Não há graduação.
+BRUNO: O parágrafo segundo é a base da vedação de cumulação: o empregado poderá optar pelo adicional de insalubridade que porventura lhe seja devido. Ou seja, havendo dupla exposição, escolhe o mais vantajoso. E o IRR Tema dezessete, de dois mil e dezenove, confirmou a recepção do parágrafo segundo e vedou a cumulação, ainda que os fatos geradores sejam distintos e autônomos.
+THALITA: E a Súmula trezentos e sessenta e quatro?
+FRANCISCA: Item um: o adicional é devido ao exposto permanentemente ou de forma intermitente, e indevido quando o contato é eventual, fortuito ou habitual por tempo extremamente reduzido. Item dois: é inválida norma coletiva que fixe adicional inferior ao legal e proporcional ao tempo de exposição.
+BRUNO: A Súmula quatrocentos e cinquenta e três diz que o pagamento espontâneo do adicional torna desnecessária a perícia. A quatrocentos e quarenta e sete exclui os tripulantes que permanecem a bordo durante o abastecimento.
+ANTONIO: Convém conferir se há tema de repercussão geral no STF sobre a cumulação, mas a posição para prova é a do IRR Tema dezessete.
+== SLIDE: Insalubridade x periculosidade: o quadro comparativo
+* Risco: dano lento à saúde x risco de morte ou dano súbito
+* Percentual: 10, 20 ou 40% x 30%
+* Base: salário mínimo x salário básico
+* Cumulação vedada em ambos
+THALITA: Vamos montar o quadro comparativo, que a FCC adora. O risco da insalubridade é o dano lento à saúde, e o da periculosidade é o risco de morte ou dano súbito.
+ANTONIO: Percentual: insalubridade, dez, vinte ou quarenta por cento; periculosidade, trinta por cento.
+FRANCISCA: Base: insalubridade, salário mínimo, pela Súmula Vinculante quatro; periculosidade, salário básico, pela Súmula cento e noventa e um.
+BRUNO: Graduação: insalubridade tem, três graus; periculosidade não tem. Contato: insalubridade, acima do limite de tolerância; periculosidade, contato permanente ou intermitente, não eventual.
+THALITA: EPI: na insalubridade pode eliminar o adicional, Súmula oitenta; na periculosidade, em regra, não elimina o risco. E cumulação: vedada em ambos, o empregado opta pelo mais vantajoso, artigo cento e noventa e três, parágrafo segundo.
+ANTONIO: Perfeito. Fixe também o roteiro de provas: CIPA com mandato de um ano e uma reeleição; presidente do empregador; EPI gratuito com certificado; insalubridade com perícia e norma do Ministério; periculosidade a trinta por cento; e vedação à cumulação.
+THALITA: Macete: insalubre, lento e escalonado; perigoso, súbito e trinta.
+BRUNO: Atenção a este ponto: na periculosidade o percentual incide sobre o salário básico, sem gratificações, prêmios ou participações. A FCC troca isso pelo salário total.
+FRANCISCA: Boa lembrança. Para fechar a segurança do trabalho, vimos órgãos, CIPA, EPI e adicionais. O próximo tema é o acidente do trabalho, as doenças ocupacionais, o meio ambiente do trabalho e o dano extrapatrimonial, artigos duzentos e vinte e três-A a duzentos e vinte e três-G.
