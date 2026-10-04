@@ -1,0 +1,54 @@
+SEGMENTO s017
+== SLIDE: Aula seis: razão, proporção e divisão proporcional
+* Aula 6: Matemática e Raciocínio Lógico
+* Razão é quociente; proporção é igualdade de razões
+* Produto dos meios é igual ao produto dos extremos
+* Divisão proporcional direta, inversa e composta
+ANTONIO: Bom dia, pessoal, e sejam bem-vindos à aula seis, de Matemática e Raciocínio Lógico. Neste bloco vamos ver razões, proporções, divisão proporcional e regra de três, e depois porcentagem, com acréscimos e descontos sucessivos. Nos próximos blocos, estatística descritiva e leitura de gráficos, e duas partes de questões comentadas.
+THALITA: Eu sou a Thalita. Matemática é meu ponto fraco, então vou perguntar sem vergonha nenhuma.
+FRANCISCA: Eu sou a Francisca, professora, e vou resolver os exemplos passo a passo.
+BRUNO: E eu sou o Bruno, especialista em FCC, e vou mostrar onde a banca esconde as pegadinhas de conta.
+ANTONIO: Razão é o quociente entre dois números, a dividido por b, com b diferente de zero. Quinze homens para dez mulheres dá a razão de três para dois. Proporção é a igualdade entre duas razões, como três quartos igual a nove doze avos.
+THALITA: E como eu sei se duas razões formam uma proporção?
+FRANCISCA: Pela propriedade fundamental: o produto dos meios é igual ao produto dos extremos. Em três quartos igual a nove doze avos, três vezes doze é trinta e seis, e quatro vezes nove também é trinta e seis. Há ainda a propriedade da soma: a razão é igual à soma dos numeradores sobre a soma dos denominadores, que é a base da divisão proporcional.
+BRUNO: Dois conceitos que a FCC usa: escala, desenho dividido pelo real, na mesma unidade; um para cinquenta mil significa que um centímetro vale quinhentos metros. E velocidade média, distância sobre tempo.
+THALITA: Então duzentos e quarenta quilômetros em três horas são oitenta por hora, certo?
+BRUNO: Certo. Passamos a um exemplo de vara, pelo Antônio.
+ANTONIO: Exemplo de vara. A razão entre processos físicos e eletrônicos é dois sétimos, e há trezentos e sessenta processos ao todo. Somamos as partes, dois mais sete, nove. Físicos são trezentos e sessenta vezes dois nonos, oitenta. Eletrônicos, duzentos e oitenta.
+THALITA: Ou seja, a soma das partes é o denominador. Anotei.
+FRANCISCA: Agora a divisão proporcional. Na direta, a constante k é o total dividido pela soma dos pesos, e cada parte é o peso vezes k. Dezoito mil reais em partes proporcionais a dois, três e quatro: a soma é nove, k é dois mil, e as partes são quatro mil, seis mil e oito mil reais.
+BRUNO: Na inversa, os pesos são os inversos dos números, e multiplica-se pelo mínimo múltiplo comum para tirar as frações. Mil e trezentos reais inversamente a dois, três e quatro: pesos seis, quatro e três. A soma é treze, k é cem, e as partes são seiscentos, quatrocentos e trezentos reais.
+THALITA: Então quem tem o maior número ganha menos. Eu confundia isso com a direta, e agora vejo que o inverso muda tudo no resultado.
+BRUNO: Exatamente. Quem tem o maior número recebe a menor parte. Se a alternativa dá mais dinheiro a quem teve mais faltas, o candidato fez divisão direta por engano. E nunca some os números originais na inversa. Some os pesos ajustados, seis mais quatro mais três.
+== SLIDE: Divisão composta e regra de três
+* Composta: peso é a direta dividida pela inversa
+* Regra de três direta: multiplica cruzado
+* Regra de três inversa: produto constante
+* Composta: comparar cada grandeza com a incógnita
+FRANCISCA: Na divisão composta, o peso é a grandeza direta dividida pela inversa. Exemplo: prêmio de cinco mil e quatrocentos reais, dividido em partes diretamente proporcionais aos processos baixados e inversamente proporcionais às faltas. Ana tem trinta processos e duas faltas. Bruno, quarenta processos e quatro faltas. Carla, vinte processos e uma falta.
+ANTONIO: Pesos: quinze, dez e vinte, soma quarenta e cinco. A constante é cento e vinte. Ana recebe mil e oitocentos, Bruno mil e duzentos, Carla dois mil e quatrocentos reais.
+THALITA: Vamos para a regra de três. Qual a diferença entre direta e inversa? Eu sempre erro na hora de decidir qual é qual.
+BRUNO: Na direta, mais causa dá mais efeito, como mais páginas, mais tempo, e multiplica-se cruzado. Na inversa, mais agentes dão menos tempo, e multiplica-se em linha, porque o produto é constante. Seis operários fazem uma obra em vinte dias. Com oito operários, seis vezes vinte é igual a oito vezes a incógnita, que dá quinze dias.
+FRANCISCA: Na composta, o roteiro tem quatro passos. Monte a tabela. Isole a coluna da incógnita. Compare cada outra grandeza com a incógnita, considerando as demais fixas, marcando se é direta ou inversa. Por fim, multiplique o valor conhecido pelas razões, invertendo as inversas.
+ANTONIO: Exemplo: oito operários, seis horas por dia, constroem cento e vinte metros de muro em dez dias. Em quantos dias doze operários, oito horas por dia, construirão trezentos e sessenta metros? Operários e dias: inversa, fator oito sobre doze. Horas e dias: inversa, fator seis sobre oito. Metros e dias: direta, fator trezentos e sessenta sobre cento e vinte.
+BRUNO: A conta: dez vezes dois terços vezes três quartos vezes três, dá quinze dias. E um método alternativo, o homem-hora: o produto do que trabalha, operários vezes horas vezes dias, dividido pelo que é produzido, os metros, é constante. Oito vezes seis vezes dez, dividido por cento e vinte, dá quatro. Com doze, oito e a incógnita sobre trezentos e sessenta, também quatro, e a incógnita é quinze dias. Sem decidir se é direta ou inversa.
+THALITA: Esse método é ótimo! Eu me perco na inversa, e aqui só preciso lembrar quem trabalha e quem é produzido. Vou treinar bastante esse.
+BRUNO: A FCC monta as erradas tratando uma grandeza inversa como direta, ou ignorando uma das grandezas. Confira sempre pelo homem-hora.
+== SLIDE: Porcentagem, fator multiplicativo e variações sucessivas
+* Aumento: um mais i; desconto: um menos i
+* Variações sucessivas se multiplicam
+* Valor original: dividir pelo fator
+* Pontos percentuais não são porcentagem
+ANTONIO: Agora a porcentagem. É uma razão de denominador cem. A regra de ouro: trabalhe sempre com o fator multiplicativo. Aumento de quinze por cento tem fator um vírgula quinze. Desconto de quinze por cento, zero vírgula oitenta e cinco. Duzentos reais com aumento de quinze por cento dão duzentos e trinta. Com desconto, cento e setenta.
+THALITA: E variações sucessivas? Posso somar as porcentagens?
+FRANCISCA: Nunca. As variações sucessivas se multiplicam. Aumento de vinte por cento e depois desconto de vinte: um vírgula dois vezes zero vírgula oito dá zero vírgula noventa e seis. Perda de quatro por cento, e não volta ao original.
+BRUNO: Mais exemplos que a banca usa. Menos dez e menos vinte: zero vírgula nove vezes zero vírgula oito, zero vírgula setenta e dois, desconto total de vinte e oito por cento, e não trinta.
+THALITA: Então o trinta é a alternativa de quem somou. E mais dez e mais cinco, quanto dá?
+BRUNO: Um vírgula um vezes um vírgula zero cinco, um vírgula cento e cinquenta e cinco: aumento de quinze vírgula cinco por cento, e não quinze.
+ANTONIO: Salário de quatro mil reais com reajuste de dez por cento em março e cinco em setembro: quatro mil seiscentos e vinte reais, aumento acumulado de quinze vírgula cinco por cento.
+FRANCISCA: A base da porcentagem é sempre o valor inicial. Preço de trezentos que cai para duzentos e cinquenta: variação de menos cinquenta sobre trezentos, menos dezesseis vírgula sessenta e sete por cento. Se sobe de duzentos e cinquenta para trezentos: cinquenta sobre duzentos e cinquenta, mais vinte por cento.
+BRUNO: Para voltar de uma queda de vinte por cento, o aumento é de vinte e cinco por cento. E para achar o valor original a partir do valor com desconto, divida pelo fator: pagou trezentos e quarenta com desconto de quinze por cento, o original é trezentos e quarenta dividido por zero vírgula oitenta e cinco, quatrocentos reais. Somar quinze por cento a trezentos e quarenta é o erro que vira alternativa.
+THALITA: E o lucro? Sobre o custo ou sobre a venda?
+ANTONIO: Depende do que o enunciado pede. Custo oitenta, venda cem: lucro de vinte. Sobre o custo, vinte por oitenta, vinte e cinco por cento. Sobre a venda, vinte por cem, vinte por cento. E pontos percentuais são a diferença entre taxas: de dez para doze por cento, dois pontos percentuais. Mas a variação relativa da taxa é dois sobre dez, aumento de vinte por cento.
+THALITA: Ponto percentual é diferença entre taxas, e porcentagem é variação relativa. Gravei.
+ANTONIO: Muito bem. Terminamos razões, regra de três e porcentagem. Agora vamos ao próximo tema: estatística descritiva e leitura de gráficos.

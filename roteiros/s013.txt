@@ -1,0 +1,31 @@
+SEGMENTO s013
+== SLIDE: Questão quinze: correlação de tempos e modos
+* Futuro do subjuntivo pede futuro do presente
+* Caso pede presente do subjuntivo
+* Hipótese irreal no passado: mais-que-perfeito e futuro do pretérito composto
+* Propor: futuro do subjuntivo é propuser
+ANTONIO: Chegamos à última questão desta aula, a de número quinze, sobre correlação de tempos e modos verbais. Ela fecha o que vimos nos blocos anteriores.
+THALITA: Pode ler, que eu já vou anotando.
+BRUNO: Questão quinze, analista judiciário. A correlação entre tempos e modos verbais está de acordo com a norma-padrão em qual alternativa? A primeira: se as partes chegarem a um acordo, o processo seria extinto com resolução do mérito. A segunda: caso o recurso for provido, a sentença será reformada pela Turma. A terceira: se o réu tivesse comparecido à audiência, não teria sido aplicada a pena de confissão. A quarta: era imprescindível que os servidores cumpram as metas fixadas pela Administração. A quinta: quando o relator propor o voto, os demais desembargadores se manifestarão. Pausa para você pensar.
+FRANCISCA: O gabarito é a terceira. Temos o mais-que-perfeito do subjuntivo, tivesse comparecido, combinado com o futuro do pretérito composto, teria sido aplicada. É a hipótese irreal no passado: o réu não compareceu, e por isso a pena foi aplicada.
+THALITA: Então a lógica é: se eu tivesse feito, teria acontecido.
+FRANCISCA: Exatamente. Agora vamos às erradas, uma a uma.
+BRUNO: A primeira mistura. O futuro do subjuntivo, chegarem, correlaciona-se com o futuro do presente: o processo será extinto. A banca troca por seria, que é futuro do pretérito, e o tempo não casa.
+ANTONIO: A segunda tem o caso. Caso exige presente do subjuntivo, ou imperfeito: caso o recurso seja provido. Caso o recurso for provido é o clássico erro de usar o futuro do subjuntivo depois de caso, que é o mesmo da lista de distratores que vimos: caso ele vier, correto é caso ele venha.
+BRUNO: A quarta: a oração principal está no pretérito imperfeito, era imprescindível, e pede o imperfeito do subjuntivo na subordinada: que os servidores cumprissem. A banca coloca cumpram, presente, para quebrar a correlação.
+FRANCISCA: E a quinta: o futuro do subjuntivo de propor é propuser, e não propor. Quando o relator propuser o voto, os demais se manifestarão. Verbos derivados de pôr, como propor, impor e dispor, seguem o pôr: puser, propuser, impuser.
+THALITA: Então vou guardar: propor segue pôr, e quando o relator propuser. Se eu lembrar do verbo pôr, acerto também impor, dispor e compor, que seguem o mesmo caminho na conjugação, não é?
+== SLIDE: Resumo relâmpago da aula quatro
+* Regência: assistir a, aspirar a, preferir a, implicar direto
+* Relativo leva a preposição: o cargo a que aspira
+* Conectivo: valor, modo verbal e pontuação
+* Crase, concordância e pontuação nas questões
+ANTONIO: Muito bem. Para fechar, a Thalita vai fazer o resumo relâmpago dos pontos da aula que mais caem na FCC.
+THALITA: Vamos lá. Regência: assistir no sentido de ver pede a, e não tem passiva. Aspirar no sentido de almejar pede a. Implicar no sentido de acarretar é direto, nunca implicar em. Preferir é preferir uma coisa a outra, sem mais e sem do que. Esquecer ou lembrar sem pronome é direto; com pronome, pede de.
+BRUNO: Acrescenta o relativo, Thalita, que é onde a banca mais pega.
+THALITA: Isso. Com relativo, a preposição do verbo vai antes dele: o cargo a que aspira, o prazo de que se esqueceu, a cidade em que reside, os recursos de que dispomos. Se o relativo for sujeito ou objeto direto, não leva preposição.
+FRANCISCA: E os conectivos?
+THALITA: Primeiro o valor, depois o modo. Concessão e condição pedem subjuntivo. Causa, conformidade e consequência, indicativo. Como causal só anteposto. Desde que pode ser tempo ou condição. Conquanto é embora, contanto que é desde que. E não obstante mais infinitivo é concessivo.
+BRUNO: Falta a parte de que e se, e as questões.
+THALITA: O que pode ser relativo, integrante, causal, consecutivo ou expletivo. O se pode ser apassivador, índice de indeterminação, reflexivo, parte do verbo ou conjunção. Com se apassivador, o verbo concorda com o sujeito paciente. Com precisar de e tratar-se de, singular. Haver existir e fazer tempo, impessoais. Crase: não antes de verbo, nem de plural sem artigo, nem de pronome de tratamento. Vírgula única entre sujeito e verbo, errado. E restritiva sem vírgula, explicativa com.
+ANTONIO: Excelente resumo. Era isso por hoje, pessoal. Revejam as questões, refaçam as que errarem e nos encontramos na próxima aula. Bons estudos!
