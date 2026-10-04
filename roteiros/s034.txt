@@ -1,0 +1,104 @@
+SEGMENTO s034
+== SLIDE: Três níveis de normas contra assédio e discriminação
+* CNJ 351/2020: política nacional; órgão: Comissão
+* CSJT 360/2023: Justiça do Trabalho; acrescenta a violência; órgão: Comitê
+* TRT8 65/2025: Subcomitês; revogou a Res. 67/2021
+* Pilares: acolhimento separado do disciplinar; sigilo, sem anonimato
+* Vedação de retaliação
+THALITA: Depois da ética, entramos num tema que a banca adora: violência, assédio e discriminação. Por onde começamos?
+ANTONIO: Pela organização em três níveis. Primeiro, a Resolução trezentos e cinquenta e um do CNJ, de dois mil e vinte, que é a política nacional, alterada várias vezes, a última em dois mil e vinte e seis. O órgão previsto é a Comissão de Prevenção e Enfrentamento do Assédio Moral, do Assédio Sexual e da Discriminação.
+FRANCISCA: Segundo nível: a Resolução trezentos e sessenta do CSJT, de dois mil e vinte e três, política da Justiça do Trabalho de primeiro e segundo graus. Ela acrescenta a violência, na linha da Convenção cento e noventa da OIT. O órgão aqui é o Comitê.
+BRUNO: Terceiro nível, o do nosso tribunal: a Resolução sessenta e cinco do TRT oito, de dois mil e vinte e cinco, que revogou a sessenta e sete de dois mil e vinte e um e foi alterada pela Resolução vinte e três de dois mil e vinte e seis. Os órgãos são Subcomitês: do Tribunal, do Foro do Pará e do Foro do Amapá.
+THALITA: Comissão no CNJ, Comitê no CSJT, Subcomitê no TRT. Gravei. E no CSJT a política cobre só o assédio, ou algo mais?
+FRANCISCA: Cobre também a violência. É a grande novidade em relação ao CNJ, e vale para a Justiça do Trabalho de primeiro e segundo graus.
+THALITA: Então: CNJ, assédio e discriminação; CSJT, violência, assédio e discriminação.
+BRUNO: Agora a pegadinha de edital. O edital cita a Resolução TRT oito sessenta e sete de dois mil e vinte e um, mas ela foi expressamente revogada pelo artigo vinte e oito da sessenta e cinco de dois mil e vinte e cinco. E a norma vigente tem justamente o nome usado no edital: Política de Prevenção e Enfrentamento da Violência, do Assédio e de Todas as Formas de Discriminação. Estude a vigente e confira se houve retificação.
+FRANCISCA: Os pilares comuns são quatro: o acolhimento é separado da esfera disciplinar, há sigilo mas o anonimato é vedado, respeita-se a vontade de quem noticia e proíbe-se a retaliação.
+== SLIDE: Definições legais
+* Assédio moral: conduta abusiva, independentemente de intencionalidade
+* Assédio moral organizacional: processo contínuo
+* Assédio sexual: conotação sexual contra a vontade; dispensa hierarquia
+* Discriminação: inclui recusa de adaptação razoável
+* CSJT: violência e assédio, ocorrência única ou repetida
+ANTONIO: Vamos às definições, do artigo segundo da resolução do CNJ. Assédio moral é a violação da dignidade ou da integridade psíquica ou física de outra pessoa por conduta abusiva, independentemente de intencionalidade, com degradação das relações socioprofissionais e do ambiente de trabalho.
+THALITA: Dá exemplos do que isso inclui?
+FRANCISCA: Exigir tarefas desnecessárias ou exorbitantes, discriminação, humilhação, constrangimento, isolamento, exclusão social, difamação ou situações humilhantes e constrangedoras capazes de causar sofrimento, dano físico ou psicológico.
+BRUNO: E aqui há uma atualização importante. A redação original exigia processo contínuo e reiterado. A atual se basta com uma conduta abusiva, independentemente de intencionalidade. A continuidade sobrevive só no assédio organizacional.
+THALITA: Então o assédio moral organizacional é diferente?
+ANTONIO: É. É um processo contínuo de condutas abusivas ou hostis, amparado por estratégias organizacionais ou métodos gerenciais que visem obter engajamento intensivo ou excluir quem a instituição não deseja manter, com desrespeito a direitos fundamentais.
+FRANCISCA: Já o assédio sexual é conduta de conotação sexual contra a vontade de alguém, verbal, não verbal ou física, com o efeito de perturbar ou constranger, afetar a dignidade ou criar ambiente intimidativo, hostil ou degradante. No âmbito administrativo, dispensa hierarquia, ao contrário do crime do artigo duzentos e dezesseis-A do Código Penal.
+BRUNO: A discriminação é toda distinção, exclusão, restrição ou preferência fundada em raça, etnia, cor, sexo, gênero, religião, deficiência, opinião política, idade, orientação sexual, identidade de gênero e outros critérios, e abrange a recusa de adaptação razoável.
+THALITA: Recusar adaptação razoável para pessoa com deficiência já é discriminação. Anotei. E o assédio sexual precisa de chefe e subordinado, como no crime?
+FRANCISCA: Não. No campo administrativo, dispensa hierarquia. Colega de mesmo nível também pode assediar. Já o crime do Código Penal exige a condição de superior hierárquico ou ascendência.
+THALITA: Entendi: no crime precisa de hierarquia, na norma administrativa não.
+== SLIDE: Violência e assédio no CSJT e comparação entre os conceitos
+* CSJT: comportamentos inaceitáveis, ou ameaças, de ocorrência única ou repetida
+* Dano físico, psicológico, sexual, patrimonial ou moral
+* Reiteração: só exigida no assédio organizacional
+* Intenção: irrelevante; basta o efeito
+FRANCISCA: A Resolução do CSJT define violência e assédio como o conjunto de comportamentos e práticas inaceitáveis, ou de suas ameaças, de ocorrência única ou repetida, que, independentemente da intencionalidade, visem, causem ou possam causar dano físico, psicológico, sexual, patrimonial ou moral, inclusive com base no gênero.
+THALITA: O que muda em relação ao CNJ?
+BRUNO: Três coisas que a banca cobra: ocorrência única ou repetida, a abrangência da ameaça e o dano patrimonial. A violência com base no gênero inclui o assédio sexual. E a Resolução do TRT oito, no artigo segundo, apenas remete aos artigos segundo e terceiro das duas resoluções.
+ANTONIO: Montando um quadro mental. Assédio moral: reiteração não exigida, intenção irrelevante. Organizacional: reiteração exigida e o autor é a instituição. Sexual: não exige reiteração nem hierarquia, basta o efeito. Discriminação: critério proibido, inclusive recusa de adaptação razoável.
+FRANCISCA: Um exemplo. A chefe Carla, numa única ocasião, exige de Tereza a revisão de mil processos em dois dias e a humilha diante da equipe. Pela redação vigente, pode configurar assédio moral, porque nem reiteração nem intenção são exigidas.
+THALITA: E se a cobrança fosse uma política permanente da unidade, para forçar pedidos de remoção?
+FRANCISCA: Aí seria assédio moral organizacional.
+BRUNO: Resumindo a pegadinha: se a questão disser que o assédio moral exige conduta reiterada e intencional, está desatualizada. Reiteração é do organizacional.
+== SLIDE: Acolhimento, notícia e sigilo
+* Acolhimento autônomo e distinto dos procedimentos disciplinares
+* Noticia quem é alvo ou quem conhece os fatos
+* Anonimato vedado; sigilo e confidencialidade
+* Registro exige consentimento expresso
+* Pessoa noticiada não é cientificada sem consentimento
+THALITA: Como funciona o acolhimento?
+ANTONIO: É um canal permanente de acolhimento, escuta e orientação, preferencialmente na gestão de pessoas. Segue a lógica do cuidado e é distinto e autônomo em relação aos procedimentos disciplinares. Noticia quem se perceba alvo ou quem tenha conhecimento dos fatos.
+FRANCISCA: O encaminhamento para sindicância ou processo disciplinar sempre respeita o desejo de quem noticia. E não representar não gera, por si só, consequências penais, cíveis ou administrativas para o noticiante.
+BRUNO: O anonimato é vedado, resguardados o sigilo e a confidencialidade. Quanto ao registro, exige consentimento expresso. Sem consentimento, a pessoa é cientificada verbalmente de que não haverá encaminhamento, e, para estatística, conta-se apenas o número de acolhimentos.
+THALITA: E a pessoa denunciada? Ela fica sabendo?
+FRANCISCA: No CNJ, a pessoa noticiada não é cientificada nem ouvida sem o consentimento de quem noticiou. Se houver risco psicossocial, gestão de pessoas e saúde podem sugerir à Presidência a realocação dos envolvidos, com a anuência deles.
+BRUNO: No TRT oito, a Corregedoria Regional é exceção ao consentimento. Por seu poder-dever, pode determinar a apuração imediata, independentemente de formalização. E notícia contra membro da Administração do tribunal, ou feita por ele, segue para o CSJT ou o CNJ.
+THALITA: Então a regra é consentimento, mas a Corregedoria pode agir de ofício. Se a questão disser que a pessoa noticiada é sempre ouvida de imediato, está errada, certo?
+BRUNO: Certo. A regra é a de que ela não é cientificada nem ouvida sem o consentimento de quem noticiou. A exceção é a Corregedoria, no TRT oito.
+ANTONIO: Isso. Sobre as instâncias de acolhimento: no CNJ e no CSJT incluem gestão de pessoas, saúde, o colegiado, acessibilidade e código de conduta, Corregedoria e Ouvidoria. O CSJT acrescenta o Comitê de Integridade. No TRT oito são gestão de pessoas, o Subcomitê, a Corregedoria e as Ouvidorias Geral e da Mulher.
+== SLIDE: Comissões, Comitês e Subcomitês
+* CNJ e CSJT: instituição em 45 dias
+* TRT8: três Subcomitês; reuniões mensais
+* Não substituem comissões de sindicância e PAD
+* Membros não integram sindicância ou PAD ao mesmo tempo
+* TRT8: 20 horas anuais de capacitação e Termo de Confidencialidade
+BRUNO: Sobre os colegiados, os prazos e números que caem. No CNJ e no CSJT, instituição em quarenta e cinco dias. No CNJ, ao menos uma comissão e, nos tribunais de médio e grande porte, uma por grau. Se a jurisdição abranger dois ou mais estados, uma por estado no primeiro grau. No CSJT, ao menos um comitê por grau.
+THALITA: E no TRT oito?
+FRANCISCA: São três Subcomitês: Tribunal, primeiro grau no Pará e primeiro grau no Amapá, com reuniões mensais. O coordenador é Desembargador, no Tribunal, ou magistrado, nos foros, indicado pela Presidência. Há servidor e terceirizado indicados pelos sindicatos, servidor com deficiência ou vulnerabilizado, representante da diversidade de gênero e voluntários.
+ANTONIO: Pela regra do CNJ, o colegiado é permanente, autônomo e independente, com reuniões ao menos semestrais. Seus membros não podem integrar ao mesmo tempo comissão de sindicância ou processo disciplinar, nem como substitutos. No TRT oito vale a mesma vedação, com vinte horas anuais de capacitação e Termo de Confidencialidade.
+THALITA: E eles podem punir quem assediou?
+BRUNO: Não! Esse é o erro clássico. Esses colegiados não substituem as comissões de sindicância e de processo disciplinar. Atribuir-lhes poder de punir é errado.
+FRANCISCA: As atribuições comuns são monitorar a política, contribuir para o diagnóstico institucional, sugerir medidas, representar contra retaliação, alertar sobre ambientes de risco e recomendar apuração, proteção dos envolvidos, preservação de provas e alterações funcionais temporárias.
+THALITA: Então eles orientam e recomendam, mas quem apura e pune é sindicância e processo disciplinar.
+== SLIDE: Fluxo no TRT8, retaliação e infrações
+* Acolhimento inicial, depois técnico, com anuência
+* Dupla do Subcomitê; instrução em 30 dias, com uma prorrogação
+* Retaliação vedada; Administração prova motivação legítima
+* Assédio sexual: infração grave
+* Semana de Combate: primeira semana de maio no TRT8
+ANTONIO: O fluxo no TRT oito, artigos doze a dezesseis. A notícia chega ao acolhimento inicial, que pode ser feito pela gestão de pessoas, pelo Subcomitê, pela Corregedoria ou pelas Ouvidorias. Com anuência, segue para o suporte psicossocial, que é o acolhimento técnico.
+FRANCISCA: O suporte faz um relatório preliminar ao Subcomitê, que independe de anuência. Com anuência, o caso vai para uma dupla do Subcomitê, por ordem de chegada. A instrução dura trinta dias, com uma prorrogação igual, e termina com relatório sucinto à Presidência. Sem interesse de quem noticiou, arquiva-se, salvo atuação da Corregedoria Regional.
+THALITA: Dá para decorar: acolhe, dupla, trinta dias, relatório à Presidência.
+BRUNO: Retaliação é vedada contra noticiante, vítima, testemunha ou colaborador de boa-fé. O rol é exemplificativo, como exoneração ou remoção imotivadas e processo disciplinar sem indícios mínimos. Havendo indícios objetivos, é a Administração quem prova a motivação legítima.
+FRANCISCA: O assédio sexual é infração disciplinar grave no CNJ e no TRT oito. A Semana de Combate é na primeira semana de maio no CSJT e no TRT oito; no CNJ, em maio, preferencialmente na primeira semana.
+THALITA: E na resolução antiga do TRT, que foi revogada?
+BRUNO: Era a segunda semana de maio, baseada só na norma do CNJ, com subcomitê especializado e conciliação. A vigente se apoia no CNJ e no CSJT e usa o acolhimento inicial e técnico. Pegadinha: segunda semana de maio é a regra velha.
+ANTONIO: E lembre que as resoluções do CNJ de dois mil e vinte e seis e do TRT vinte e três de dois mil e vinte e seis são recentes. Confira se precedem a data do edital.
+== SLIDE: Perspectiva de gênero: Resolução CNJ 492/2023
+* Protocolo para Julgamento com Perspectiva de Gênero obrigatório
+* Capacitação obrigatória, periodicidade mínima anual
+* Comitê de Acompanhamento coordenado por Conselheiro do CNJ
+* Política de participação feminina: Res. 255/2018
+THALITA: Falta o último tópico da aula, a perspectiva de gênero. É só decorar o número da resolução?
+ANTONIO: Não só. Fechando a aula, a perspectiva de gênero, na Resolução quatrocentos e noventa e dois do CNJ, de dois mil e vinte e três. Ela torna obrigatórias as diretrizes do Protocolo para Julgamento com Perspectiva de Gênero, impõe capacitação obrigatória em direitos humanos, gênero, raça e etnia, cria um Comitê de Acompanhamento e atribui a política da Resolução duzentos e cinquenta e cinco de dois mil e dezoito a outro comitê.
+THALITA: Quem promove os cursos?
+FRANCISCA: Os tribunais, em colaboração com as escolas da magistratura, em formação inicial e continuada, com periodicidade mínima anual. A capacitação constará dos regulamentos do Prêmio CNJ de Qualidade, e o Protocolo deve ficar acessível no sítio e na intranet, por QR Code, link ou card.
+BRUNO: Os comitês: o de Acompanhamento e Capacitação sobre Julgamento com Perspectiva de Gênero é coordenado por Conselheiro ou Conselheira do CNJ, de caráter nacional e permanente. Reúne as Justiças Estadual, Federal, do Trabalho, Eleitoral e Militar, a Enfam, a Enamat, a OAB, a academia e a sociedade civil, com pluralidade de gênero e raça. Faz fóruns permanentes anuais.
+FRANCISCA: O Comitê de Incentivo à Participação Institucional Feminina tem supervisão de Conselheiro e de Juiz Auxiliar da Presidência do CNJ, e propõe medidas para ampliar a representação feminina. Os dois atuam de forma articulada.
+BRUNO: Pegadinhas: capacitação facultativa, quando é obrigatória; periodicidade bienal, quando é anual; comitê coordenado pela Enfam ou pelo STF, quando é por Conselheiro do CNJ; e dizer que a Resolução quatrocentos e noventa e dois criou a política de participação feminina, quando foi a duzentos e cinquenta e cinco.
+THALITA: Resumo relâmpago do que mais cai. Sustentabilidade: revisão do PLS no máximo a cada dois anos, avaliação pelo menos uma vez ao ano, unidade elabora e Comissão aprova. Ética: Comitê com um Desembargador, não pune. Assédio moral: conduta abusiva sem exigir reiteração nem intenção; reiteração só no organizacional. Colegiados não punem. Anonimato é vedado. Perspectiva de gênero: capacitação obrigatória e anual.
+ANTONIO: Excelente, Thalita. Obrigado a todos, e bons estudos até a próxima aula!
