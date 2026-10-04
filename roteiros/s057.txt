@@ -1,0 +1,91 @@
+SEGMENTO s057
+== SLIDE: Propriedade, função social e requisição
+* Propriedade garantida, mas com função social
+* Desapropriação: justa, prévia e em dinheiro
+* Requisição: indenização posterior e só se houver dano
+* Pequena propriedade rural trabalhada pela família: impenhorável
+* Direitos autorais e inventos industriais
+ANTONIO: Terminamos a primeira metade do artigo quinto falando de sigilo, reunião e associação. Agora vem a segunda metade, que começa pela propriedade e suas restrições, nos incisos vinte e dois a trinta e um. A propriedade é garantida, mas precisa atender à sua função social.
+THALITA: Função social quer dizer que o dono não pode fazer o que bem entender com o imóvel?
+FRANCISCA: Quer dizer que o direito de propriedade convive com o interesse da coletividade. Quando o Estado precisa do bem, usa dois instrumentos. A desapropriação, por necessidade ou utilidade pública ou por interesse social, mediante procedimento legal, com indenização justa, prévia e em dinheiro, salvo exceções da própria Constituição.
+BRUNO: E a requisição é o outro instrumento, e é aí que a FCC troca as palavras. Na requisição, existe iminente perigo público, e a autoridade usa a propriedade particular. A indenização é posterior, e só se houver dano. Na desapropriação, é prévia e em dinheiro. A banca troca "posterior" por "prévia" e tira a condição "se houver dano".
+THALITA: Então, resumindo: desapropriação, prévia; requisição, depois e só se estragar.
+ANTONIO: Isso mesmo. Outros pontos do bloco: a pequena propriedade rural, definida em lei e trabalhada pela família, é impenhorável por dívidas decorrentes da atividade produtiva.
+FRANCISCA: Os direitos autorais são exclusivos do autor e transmissíveis aos herdeiros pelo prazo que a lei fixar. Os inventos industriais têm privilégio temporário de utilização. E na sucessão de bens de estrangeiro situados no Brasil, aplica-se a lei brasileira em favor do cônjuge ou dos filhos brasileiros, salvo se a lei pessoal do falecido for mais favorável a eles.
+BRUNO: Esse último é raro, mas aparece. Lembre que a regra é a lei brasileira, com a ressalva de a lei pessoal beneficiar mais o cônjuge ou os filhos brasileiros.
+THALITA: Perfeito, anotei: lei brasileira, salvo se a do falecido for melhor para a família brasileira.
+== SLIDE: Desapropriações excepcionais e direitos de informação e petição
+* Urbana sancionatória: títulos da dívida pública, até dez anos
+* Rural para reforma agrária: títulos agrários, até vinte anos
+* Confiscatória: sem indenização
+* Petição e certidão: sem taxa, sem advogado
+* Informação: mandado de segurança, não habeas data
+ANTONIO: Agora as desapropriações excepcionais, em que a indenização não é em dinheiro. Primeira: a urbana sancionatória, para imóvel não edificado ou subutilizado, paga com títulos da dívida pública, resgatáveis em até dez anos, no artigo cento e oitenta e dois.
+FRANCISCA: Segunda: a rural para reforma agrária, paga com títulos da dívida agrária, resgatáveis em até vinte anos, no artigo cento e oitenta e quatro. As benfeitorias úteis e necessárias são pagas em dinheiro.
+THALITA: E a terceira é a confiscatória, certo? Sem indenização nenhuma.
+BRUNO: Certo, no artigo duzentos e quarenta e três: propriedades onde há cultura ilegal de psicotrópicos ou trabalho escravo. Perdem-se sem indenização. A banca gosta de misturar essas três, então decore: títulos da dívida pública até dez anos, títulos da dívida agrária até vinte, confisco sem pagar.
+FRANCISCA: Passando para os incisos trinta e três e trinta e quatro. O direito à informação: receber dos órgãos públicos informações de interesse particular, coletivo ou geral, no prazo da lei, sob pena de responsabilidade. A ressalva é o sigilo imprescindível à segurança da sociedade e do Estado, na Lei doze mil quinhentos e vinte e sete, de dois mil e onze.
+BRUNO: Ponto de prova: se a informação for de terceiro ou de interesse coletivo, não cabe habeas data. O caminho é mandado de segurança.
+ANTONIO: O direito de petição serve para pedir aos Poderes públicos contra ilegalidade ou abuso de poder, ou em defesa de direitos. Independe de taxa e não exige advogado. O direito de certidão serve para obter documento em repartição pública, para defesa de direitos e esclarecimento de situação pessoal. Também independe de taxa, e a negativa ilegal se ataca por mandado de segurança.
+THALITA: Então petição e certidão são gratuitas e sem advogado. Macete: petição e certidão, taxa não, e a negativa vai para mandado de segurança.
+FRANCISCA: Quase. O advogado só é dispensado na petição; o fundamental é guardar que ambas independem de taxa.
+== SLIDE: Inafastabilidade, segurança jurídica e juiz natural
+* Inafastabilidade: lei não exclui lesão ou ameaça a direito
+* Exceção constitucional: Justiça Desportiva
+* Direito adquirido, ato jurídico perfeito e coisa julgada
+* SV 21 e SV 28: depósito prévio é inconstitucional
+* Juízo de exceção proibido; Justiças especializadas são permanentes
+* Júri: plenitude de defesa e crimes dolosos contra a vida
+BRUNO: Inciso trinta e cinco: a lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito. Daí não existir instância administrativa de curso forçado. A exceção está na própria Constituição: a Justiça Desportiva, no artigo duzentos e dezessete, parágrafo primeiro.
+THALITA: E o habeas data só com recusa administrativa? Isso não afronta a inafastabilidade?
+FRANCISCA: Não afronta. A Súmula dois do STJ exige a prova da recusa porque, sem ela, falta interesse de agir. Já as Súmulas Vinculantes vinte e um e vinte e oito proíbem exigir depósito ou arrolamento prévio para recurso administrativo, e depósito prévio para ação judicial sobre crédito tributário.
+ANTONIO: Inciso trinta e seis: a lei não prejudica o direito adquirido, o ato jurídico perfeito e a coisa julgada. Cuidado: não há direito adquirido a regime jurídico, nem contra a Constituição originária.
+THALITA: E juiz natural? Justiça do Trabalho, Militar e Eleitoral são tribunais de exceção?
+BRUNO: Não, são justiças especializadas, permanentes e previamente criadas. Tribunal de exceção é o criado depois do fato, sob medida para o caso.
+FRANCISCA: O júri, no inciso trinta e oito, tem plenitude de defesa, sigilo das votações, soberania dos veredictos e competência para os crimes dolosos contra a vida. Plenitude de defesa é mais do que ampla defesa. E o foro por prerrogativa previsto na Constituição Federal prevalece sobre o júri; o previsto só na Constituição estadual, não, conforme a Súmula Vinculante quarenta e cinco.
+THALITA: E os princípios penais, incisos trinta e nove e quarenta?
+ANTONIO: Não há crime nem pena sem lei anterior. E a lei penal só retroage para beneficiar, até alcançando fatos já com trânsito em julgado.
+== SLIDE: Quadro-chave: inafiançáveis e imprescritíveis
+* Racismo e grupos armados: inafiançáveis e imprescritíveis
+* Tortura, tráfico, terrorismo e hediondos: inafiançáveis e sem graça ou anistia
+* Mnemônico RAÇÃO e 3T + H
+* Injúria racial é racismo: imprescritível
+* Mandantes, executores e omissos respondem
+BRUNO: Chegamos ao quadro-chave dos incisos quarenta e dois a quarenta e quatro. A FCC adora. Racismo e ação de grupos armados contra a ordem constitucional são inafiançáveis e imprescritíveis. Tortura, tráfico de entorpecentes, terrorismo e crimes hediondos são inafiançáveis e insuscetíveis de graça ou anistia, mas prescrevem.
+THALITA: Eu confundo tudo. Tem macete?
+FRANCISCA: Tem: RAÇÃO é imprescritível. RA de racismo, mais AÇÃO de grupos armados. Os outros quatro são os três T mais H: tortura, tráfico, terrorismo e hediondos. Esses não são imprescritíveis, mas não têm graça nem anistia.
+THALITA: Então, quando a prova disser que tortura é imprescritível, está errado.
+ANTONIO: Exatamente. E todos os seis são inafiançáveis. No inciso quarenta e três, respondem os mandantes, os executores e quem, podendo evitar, se omitir.
+BRUNO: A jurisprudência recente cobra. O STF enquadrou a homotransfobia na Lei do Racismo, na ADO vinte e seis e no mandado de injunção quatro mil setecentos e trinta e três. E considerou a injúria racial espécie de racismo, logo imprescritível, no Habeas Corpus cento e cinquenta e quatro mil duzentos e quarenta e oito. A Lei catorze mil quinhentos e trinta e dois, de dois mil e vinte e três, levou a injúria racial para a Lei sete mil setecentos e dezesseis.
+FRANCISCA: Passando às penas, incisos quarenta e cinco a cinquenta. A pena não passa do condenado, mas a reparação do dano e o perdimento de bens podem alcançar os sucessores até o limite do patrimônio transferido.
+THALITA: E quais penas existem?
+ANTONIO: Privação ou restrição de liberdade, perda de bens, multa, prestação social alternativa e suspensão ou interdição de direitos. São vedadas as de morte, salvo guerra declarada, as de caráter perpétuo, trabalhos forçados, banimento e as cruéis.
+BRUNO: Atenção: o que se veda é o trabalho forçado. O trabalho do preso, remunerado e com remição, é permitido. Perda de bens é pena admitida; confisco geral e banimento não.
+== SLIDE: Extradição e devido processo
+* Brasileiro nato: nunca é extraditado
+* Naturalizado: crime comum anterior ou tráfico
+* Estrangeiro: sim, salvo crime político ou de opinião
+* Devido processo, contraditório e ampla defesa
+* Provas ilícitas inadmissíveis; presunção de inocência
+THALITA: Extradição, então: brasileiro nato, nunca?
+FRANCISCA: Nunca. O naturalizado só por crime comum praticado antes da naturalização, ou por comprovado envolvimento em tráfico de entorpecentes, antes ou depois, na forma da lei. O estrangeiro pode ser extraditado, salvo por crime político ou de opinião.
+BRUNO: Pegadinha: o português equiparado é tratado como estrangeiro, mas pelo Tratado de Amizade só pode ser extraditado para Portugal. A competência para julgar o pedido é do STF.
+ANTONIO: Agora o devido processo, dos incisos cinquenta e três em diante. O juiz natural, no sentido positivo, é a autoridade competente. O devido processo legal é formal e substancial, ligado à razoabilidade. E o contraditório e a ampla defesa valem no processo judicial e no administrativo.
+FRANCISCA: A Súmula Vinculante cinco diz que a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição. As provas ilícitas são inadmissíveis, com a teoria dos frutos da árvore envenenada e as exceções da fonte independente e da descoberta inevitável.
+THALITA: E presunção de inocência: só vai preso depois do trânsito em julgado?
+BRUNO: O STF, nas ADCs quarenta e três, quarenta e quatro e cinquenta e quatro, vedou a execução provisória automática da pena. A exceção é a condenação pelo júri, que pode ser executada de imediato, conforme o Tema mil e sessenta e oito, em dois mil e vinte e quatro. Mas confira a redação vigente da tese.
+ANTONIO: Os demais: o civilmente identificado não se submete à identificação criminal, salvo hipóteses legais. A ação privada subsidiária cabe se o Ministério Público ficar inerte, e não se arquivar. A publicidade só se restringe para defender intimidade ou interesse social.
+== SLIDE: Prisão, garantias finais e parágrafos do artigo quinto
+* Prisão: flagrante ou ordem escrita e fundamentada
+* Prisão civil: só devedor de alimentos (SV 25)
+* Habeas corpus e habeas data são gratuitos
+* §1º a §4º: aplicação imediata, abertura, tratados, TPI
+* Tratado com três quintos e dois turnos equivale a emenda
+FRANCISCA: Prisão: só em flagrante ou por ordem escrita e fundamentada de juiz competente. Exceções: transgressão militar e crime propriamente militar. A prisão é comunicada imediatamente ao juiz e à família, e o preso tem direito ao silêncio, a advogado e a saber quem o prendeu. O silêncio não gera presunção de culpa.
+BRUNO: Prisão ilegal é relaxada; na legal, concede-se liberdade provisória quando cabível. E prisão civil: só do devedor de alimentos, de forma voluntária e inescusável. Depositário infiel, o texto prevê, mas a Súmula Vinculante vinte e cinco veda em qualquer modalidade.
+THALITA: Fechando: assistência jurídica gratuita para quem comprova insuficiência, prestada pela Defensoria. Erro judiciário gera indenização. E habeas corpus e habeas data são sempre gratuitos.
+ANTONIO: E mandado de segurança e ação popular não são gratuitos por natureza. A razoável duração do processo veio pela Emenda quarenta e cinco, e a proteção de dados, inclusive digitais, pela Emenda cento e quinze, de dois mil e vinte e dois.
+FRANCISCA: Os parágrafos. O primeiro: aplicação imediata, alcançando todo o Título dois. O segundo: rol não exaustivo, com direitos decorrentes do regime, dos princípios e dos tratados, como a anterioridade tributária na ADI novecentos e trinta e nove.
+BRUNO: O terceiro: tratados de direitos humanos aprovados em cada Casa, em dois turnos, por três quintos, equivalem a emendas, como a Convenção de Nova York. Sem esse rito, são supralegais, conforme o Recurso Extraordinário quatrocentos e sessenta e seis mil trezentos e quarenta e três. O quarto: submissão ao Tribunal Penal Internacional, e entrega ao TPI não é extradição.
+THALITA: Exemplo para fixar: um brasileiro naturalizado em dois mil e dezenove, acusado de roubo em dois mil e quinze e de tráfico em dois mil e vinte e dois, pode ser extraditado pelos dois fatos?
+ANTONIO: Pode: o roubo é comum e anterior à naturalização, e o tráfico autoriza a qualquer tempo. Se fosse nato, nunca. Agora, no próximo tema, vamos aos remédios constitucionais.
