@@ -1,0 +1,107 @@
+SEGMENTO s097
+== SLIDE: Boas-vindas e noção de controle
+* Aula 28: Controle, improbidade, acesso à informação e LGPD
+* Controle: poder-dever de fiscalizar e corrigir
+* Administração, Legislativo (com Tribunal de Contas), Judiciário e cidadão
+* Mérito só pela própria Administração
+ANTONIO: Olá, pessoal, bem-vindos à aula vinte e oito, de Direito Administrativo: controle, improbidade, acesso à informação e LGPD. Hoje vemos as noções e classificações do controle, o controle legislativo e os Tribunais de Contas, o controle judicial e a improbidade administrativa, com a Lei oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois, e a Lei catorze mil duzentos e trinta, de dois mil e vinte e um. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei e a jurisprudência.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro a pegadinha da banca.
+THALITA: Eu sou a Thalita, concurseira, e pergunto o que você perguntaria.
+ANTONIO: Controle da Administração é o conjunto de mecanismos jurídicos pelos quais se verifica se a atividade administrativa observa a lei, os princípios do artigo trinta e sete e as finalidades públicas, com possibilidade de correção: anulação, revogação, sustação, sanção ou responsabilização.
+THALITA: É uma faculdade ou uma obrigação?
+FRANCISCA: Não é faculdade. Quem tem competência de controle tem o dever de exercê-la. É exercido pela própria Administração, pelo Legislativo, com auxílio do Tribunal de Contas, pelo Judiciário e, em certa medida, pelo cidadão.
+BRUNO: Regra de ouro: mérito, ou seja, conveniência e oportunidade, só é revisto pela própria Administração. Legislativo e Judiciário controlam a legalidade, salvo previsão constitucional expressa.
+THALITA: Mérito é com a Administração. Legalidade, com os outros.
+== SLIDE: Classificações do controle
+* Órgão: administrativo, legislativo, judicial
+* Momento: prévio, concomitante, posterior
+* Posição: interno, externo, externo popular
+* Hierárquico x finalístico
+ANTONIO: As classificações mais cobradas. Pelo órgão: administrativo, legislativo e judicial. Administrativo é a própria Administração, por autotutela, recurso e tutela. Legislativo é o Congresso, suas Casas, comissões, CPIs e o Tribunal de Contas. Judicial é o Poder Judiciário, mediante provocação.
+FRANCISCA: Pelo momento: prévio, ou preventivo, como a autorização do Senado para operação de crédito externo, artigo cinquenta e dois, inciso cinco. Concomitante, como a auditoria durante a execução de uma obra. Posterior, ou corretivo, como homologação, anulação e julgamento de contas.
+THALITA: E o controle interno e externo?
+BRUNO: Interno é dentro do mesmo Poder, como a corregedoria e a CGU em relação ao Executivo. Externo é um Poder fiscalizando outro, como o TCU sobre o Executivo ou o juiz anulando ato do Executivo. Popular é o do cidadão, pela ação popular ou denúncia ao TCU.
+ANTONIO: Quanto ao aspecto, legalidade, que pode gerar anulação, e mérito, que pode gerar revogação, só pela Administração que editou o ato. Quanto à iniciativa, de ofício, como a autotutela, ou provocado, como recurso, representação, petição e ação judicial.
+FRANCISCA: E a relação entre controlador e controlado: hierárquico, dentro da mesma pessoa jurídica, pleno, permanente e automático; e finalístico, da Administração direta sobre a indireta, que depende de previsão legal e se limita aos fins da entidade.
+THALITA: Hierárquico é automático. Finalístico depende de lei. Vou resumir as seis classificações do meu jeito: órgão, momento, posição, aspecto, iniciativa e relação. Se a questão falar que o controle interno é o exercido por outro Poder, eu já sei que está trocado, porque interno é dentro do mesmo Poder.
+== SLIDE: Pegadinhas e controle administrativo
+* Controle finalístico não pressupõe hierarquia
+* Judiciário não revoga ato do Executivo
+* Revoga os próprios atos administrativos
+* SV 21 e SV 5
+BRUNO: Pegadinhas clássicas. Primeira: o controle finalístico pressupõe hierarquia. Errado, não há hierarquia entre ente central e autarquia, apenas vinculação. Segunda: o Judiciário pode revogar ato do Executivo por inconveniência. Errado, só anula por ilegalidade. Terceira: o Judiciário não revoga atos. Errado se dito de forma absoluta: ele revoga os próprios atos administrativos, como uma portaria do presidente do TRT.
+THALITA: Então ele revoga os dele, mas não os do outro Poder.
+FRANCISCA: Isso. O controle administrativo tem vários instrumentos. Autotutela, pelas Súmulas trezentos e quarenta e seis e quatrocentos e setenta e três e pelo artigo cinquenta e três da lei do processo. Decadência de cinco anos para anular atos favoráveis, salvo má-fé, artigo cinquenta e quatro. Recurso administrativo, em regra sem efeito suspensivo, artigos cinquenta e seis a sessenta e cinco.
+ANTONIO: Direito de petição, de qualquer pessoa, independentemente de taxas, contra ilegalidade ou abuso, artigo quinto, inciso trinta e quatro, alínea a. E a supervisão ministerial, a tutela sobre a Administração indireta, do Decreto-Lei duzentos.
+BRUNO: Duas súmulas vinculantes. A vinte e um: é inconstitucional exigir depósito ou arrolamento prévio de dinheiro ou bens como condição de admissibilidade de recurso administrativo. E a cinco: a ausência de defesa técnica por advogado no processo disciplinar não ofende a Constituição.
+THALITA: Recurso administrativo, sem depósito. PAD, advogado facultativo. E o Judiciário revoga só os próprios atos, como a portaria do presidente do tribunal. Essa eu não erro mais, porque a banca adora a versão absoluta, com a palavra nunca ou sempre.
+== SLIDE: Controle interno: artigo 74
+* Sistema integrado dos três Poderes
+* Metas do PPA, legalidade e resultados, operações de crédito
+* Apoia o controle externo
+* Responsabilidade solidária; denúncia: C-P-A-S
+ANTONIO: Os três Poderes devem manter, de forma integrada, um sistema de controle interno. Artigo setenta e quatro. A FCC cobra a lista de finalidades e os dois parágrafos.
+FRANCISCA: Inciso um: avaliar o cumprimento das metas do plano plurianual e a execução dos programas de governo e dos orçamentos. Inciso dois: comprovar a legalidade e avaliar os resultados, eficácia e eficiência, da gestão orçamentária, financeira e patrimonial, inclusive da aplicação de recursos públicos por entidades privadas. Inciso três: controlar operações de crédito, avais, garantias, direitos e haveres da União. Inciso quatro: apoiar o controle externo.
+BRUNO: Cuidado: o controle interno apoia o controle externo, não o substitui nem se subordina ao TCU. E não fala em julgar contas, isso é do TCU, artigo setenta e um, inciso dois.
+THALITA: E se o responsável souber de irregularidade?
+ANTONIO: Parágrafo primeiro: deve dar ciência ao TCU, sob pena de responsabilidade solidária. A FCC troca por subsidiária, e é errado. Parágrafo segundo: qualquer cidadão, partido político, associação ou sindicato pode denunciar irregularidades ao TCU.
+FRANCISCA: A FCC exclui o sindicato ou exige associação constituída há um ano. Errado. Esse requisito de um ano é do mandado de segurança coletivo e da ação civil pública. Exemplo: o auditor interno de uma autarquia federal descobre pagamentos em duplicidade a uma empreiteira e não comunica ao TCU. Apurado o prejuízo de oitocentos mil reais, responde solidariamente com os autores.
+THALITA: Denúncia ao TCU: C-P-A-S: Cidadão, Partido, Associação, Sindicato.
+== SLIDE: Controle político do Congresso
+* Art. 49, V: susta atos normativos que exorbitem
+* Art. 49, IX: Congresso julga as contas do Presidente
+* Art. 50: convocação de Ministro; informações em 30 dias
+* CPI: terço dos membros, fato determinado, prazo certo
+ANTONIO: Controle político do Congresso. Artigo quarenta e nove, inciso cinco: sustar atos normativos do Executivo que exorbitem do poder regulamentar ou dos limites da delegação legislativa. Sustar não é revogar nem anular, e só atinge atos normativos que exorbitem.
+THALITA: E as contas do Presidente da República?
+FRANCISCA: Inciso nove: quem julga é o Congresso. O TCU só emite parecer prévio. E o inciso dez permite fiscalizar e controlar, diretamente ou por qualquer das Casas, atos do Executivo, inclusive da Administração indireta.
+BRUNO: Artigo cinquenta: Câmara, Senado ou comissões podem convocar Ministro de Estado ou titular de órgão subordinado à Presidência, e a ausência injustificada é crime de responsabilidade. Não alcança o Presidente da República. No parágrafo segundo, as Mesas podem encaminhar pedidos escritos de informação, e a recusa, o não atendimento em trinta dias ou a informação falsa é crime de responsabilidade. A FCC troca por quinze ou sessenta dias.
+ANTONIO: CPI, artigo cinquenta e oito, parágrafo terceiro. Criada pela Câmara e pelo Senado, em conjunto ou separadamente, com requerimento de um terço dos membros, fato determinado e prazo certo. Tem poderes de investigação próprios das autoridades judiciais, além dos regimentais.
+THALITA: Um terço, fato determinado, prazo certo.
+== SLIDE: Poderes e limites da CPI; artigo 70
+* CPI investiga; conclusões vão ao Ministério Público
+* Pode quebrar sigilo bancário, fiscal e telefônico, com fundamentação
+* Reserva de jurisdição: sem interceptação, busca domiciliar, prisão
+* Art. 70: fiscalização contábil, financeira, orçamentária, operacional, patrimonial
+FRANCISCA: A CPI não condena nem aplica pena: as conclusões são encaminhadas ao Ministério Público para responsabilização civil ou criminal. Pode quebrar sigilo bancário, fiscal e de registros telefônicos, por decisão fundamentada do colegiado, convocar testemunhas e investigados e requisitar documentos.
+THALITA: E o que ela não pode?
+BRUNO: Não pode, por reserva de jurisdição: interceptação telefônica, busca e apreensão domiciliar, prisão, salvo flagrante, indisponibilidade de bens e demais cautelares. Também não pode impedir o investigado de se calar ou de ser assistido por advogado. Assertivas erradas: a CPI decreta indisponibilidade de bens, a CPI autoriza escuta telefônica. Correta: a CPI determina a quebra do sigilo bancário mediante decisão fundamentada.
+ANTONIO: Artigo setenta: a fiscalização contábil, financeira, orçamentária, operacional e patrimonial, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas. Exercida pelo Congresso, no controle externo, e pelo sistema de controle interno de cada Poder.
+FRANCISCA: E, no parágrafo único, prestam contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos, ou pelos quais a União responda.
+THALITA: CPI investiga, não julga. Reserva de jurisdição é do juiz.
+== SLIDE: TCU: competências do artigo 71, incisos um a quatro
+* I: aprecia contas do Presidente; parecer em 60 dias
+* II: julga contas dos administradores
+* III: registro de admissões, aposentadorias, reformas e pensões
+* IV: inspeções e auditorias
+ANTONIO: Agora o Tribunal de Contas da União, artigo setenta e um. O titular do controle externo é o Congresso, o TCU é órgão auxiliar, mas com competências próprias, e não é subordinado ao Legislativo. Distinção mais cobrada: apreciar e julgar.
+THALITA: Como diferenciar?
+FRANCISCA: Inciso um: o TCU aprecia as contas anuais do Presidente, com parecer prévio em sessenta dias do recebimento. É parecer opinativo, e o julgamento é do Congresso. Inciso dois: o TCU julga as contas dos administradores e responsáveis por dinheiros, bens e valores públicos da Administração direta e indireta, e de quem causar perda ou extravio com prejuízo ao erário. Aqui decide de modo definitivo na esfera administrativa.
+BRUNO: Inciso três: apreciar, para fins de registro, a legalidade de admissões de pessoal e de concessões de aposentadorias, reformas e pensões. Excluídas as nomeações para cargo em comissão e as melhorias posteriores que não alterem o fundamento legal.
+ANTONIO: Inciso quatro: inspeções e auditorias, por iniciativa própria ou da Câmara, do Senado ou de comissão. Pode agir de ofício.
+THALITA: Presidente, aprecia. Demais gestores, julga.
+== SLIDE: TCU: demais incisos, sustação e título executivo
+* VI: recursos repassados por convênio; VIII: multa proporcional ao dano
+* X: susta ato; contrato: Congresso (§1º)
+* §2º: 90 dias; §3º: título executivo
+* Exemplo: sobrepreço de dois milhões
+ANTONIO: Inciso seis: fiscalizar recursos repassados pela União a Estados, Distrito Federal e Municípios por convênio, acordo ou ajuste. Repasses voluntários, não os constitucionais obrigatórios, como FPE e FPM. Inciso oito: aplicar sanções previstas em lei, inclusive multa proporcional ao dano. Inciso nove: assinar prazo para correção de ilegalidade.
+FRANCISCA: Inciso dez: sustar o ato impugnado, se não atendido, comunicando a Câmara e o Senado. Ato, o TCU susta diretamente. Parágrafo primeiro: contrato, a sustação é adotada diretamente pelo Congresso, que pede providências ao Executivo.
+THALITA: E se o Congresso ficar parado?
+BRUNO: Parágrafo segundo: se Congresso ou Executivo não agirem em noventa dias, o TCU decide. A FCC troca por trinta ou sessenta. Parágrafo terceiro: as decisões que imputem débito ou multa têm eficácia de título executivo, cobrado pelo ente credor, via advocacia pública, não pelo TCU nem pelo MP de Contas.
+ANTONIO: Exemplo: o TCU detecta sobrepreço de dois milhões de reais em contrato de autarquia. Assina prazo para correção. Não atendido, comunica o Congresso, que deve sustar o contrato. Passados noventa dias sem providência, o próprio TCU decide. Se impuser multa ao gestor, o acórdão é título executivo extrajudicial, cobrado pela AGU.
+THALITA: Ato, TCU susta. Contrato, Congresso, e o TCU só depois de noventa dias.
+== SLIDE: Jurisprudência sobre Tribunais de Contas
+* SV 3: contraditório, exceto concessão inicial de aposentadoria
+* Tema 445: cinco anos para julgar a concessão inicial
+* Súmula 347: leitura restritiva
+* Tema 899: ressarcimento prescritível
+FRANCISCA: Jurisprudência. A Súmula Vinculante três: nos processos no TCU, garante-se contraditório e ampla defesa quando a decisão puder anular ou revogar ato que beneficie o interessado, exceto na apreciação da legalidade da concessão inicial de aposentadoria, reforma e pensão. A concessão inicial é ato complexo, que só se aperfeiçoa com o registro.
+THALITA: E o prazo do TCU para registrar?
+BRUNO: Tema quatrocentos e quarenta e cinco: cinco anos, contados da chegada do processo à Corte. Ultrapassado o prazo, considera-se registrado o ato. Limita a exceção da súmula vinculante três no tempo.
+ANTONIO: Súmula trezentos e quarenta e sete do Supremo: o enunciado original admitia que o Tribunal de Contas apreciasse a constitucionalidade de leis. Hoje é lida restritivamente: o TC não faz controle abstrato nem com efeitos gerais, pode afastar no caso concreto norma flagrantemente inconstitucional, sobretudo em matéria pacificada pelo Supremo.
+BRUNO: A assertiva de que o TC declara inconstitucionalidade com efeito vinculante é sempre errada. Confira se a questão pede segundo a súmula ou segundo a jurisprudência recente.
+FRANCISCA: Tema oitocentos e noventa e nove: é prescritível a pretensão de ressarcimento fundada em decisão de Tribunal de Contas. Não confundir com o Tema oitocentos e noventa e sete, improbidade dolosa, imprescritível. Pelo artigo setenta e cinco, as normas do TCU se aplicam aos Tribunais de Contas dos Estados e Municípios, e os estaduais têm sete conselheiros. Fica vedada a criação de novos Tribunais de Contas municipais, artigo trinta e um, parágrafo quarto.
+THALITA: Cinco anos para registrar. Ressarcimento prescreve. Sete conselheiros nos Estados.
+ANTONIO: Muito bem. Entendido o controle legislativo, passamos ao controle judicial da Administração e à improbidade administrativa, com a Lei oito mil quatrocentos e vinte e nove e a reforma de dois mil e vinte e um: sujeitos, dolo e tipos.

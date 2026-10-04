@@ -1,0 +1,124 @@
+SEGMENTO s092
+== SLIDE: Lei do processo administrativo: abrangência
+* Lei geral do processo administrativo federal
+* Judiciário e Legislativo da União, só em função administrativa
+* Órgão, entidade e autoridade (art. 1º, §2º)
+* Art. 69: subsidiária às leis específicas
+ANTONIO: Terminamos anulação, revogação, convalidação e conversão. Agora o último bloco da aula, a Lei do Processo Administrativo Federal, a nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove. Ela vale para a Administração direta e indireta da União, e também para os órgãos do Legislativo e do Judiciário da União, quando exercem função administrativa. Logo, vale para o TRT da oitava região.
+THALITA: Mas o Judiciário só aplica essa lei quando administra, certo? Não no processo judicial.
+FRANCISCA: Exato. Ela não se aplica à função jurisdicional nem à legislativa. Também não é lei nacional: Estados e Municípios têm leis próprias, embora a jurisprudência admita aplicação subsidiária, como a Súmula seiscentos e trinta e três do STJ, quanto ao artigo cinquenta e quatro.
+BRUNO: O artigo sessenta e nove diz que os processos específicos, como o processo disciplinar da Lei oito mil cento e doze e as licitações, seguem a lei própria, e a nove mil setecentos e oitenta e quatro se aplica apenas de modo subsidiário. A FCC diz que ela revogou ou prevalece sobre leis específicas. Errado.
+ANTONIO: Três definições do artigo primeiro, parágrafo segundo. Órgão é a unidade de atuação integrante da estrutura da Administração direta e da indireta. Entidade é a unidade de atuação dotada de personalidade jurídica. Autoridade é o servidor ou agente público dotado de poder de decisão.
+THALITA: Órgão não tem personalidade, entidade tem, autoridade decide. Fácil de lembrar.
+== SLIDE: Princípios do artigo segundo e primeiros critérios
+* Caput: legalidade, finalidade, motivação, razoabilidade, proporcionalidade
+* Também moralidade, ampla defesa, contraditório, segurança jurídica
+* Interesse público e eficiência
+* Impessoalidade e publicidade: só no parágrafo único
+ANTONIO: O artigo segundo, caput, traz onze princípios expressos: legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.
+THALITA: E publicidade e impessoalidade? Estão no artigo trinta e sete.
+BRUNO: Por isso a pegadinha. Elas não constam do rol nominal do caput do artigo segundo, aparecem como critérios no parágrafo único: divulgação oficial e objetividade sem promoção pessoal. Se a questão pedir princípios expressamente previstos no caput, essa diferença aparece.
+FRANCISCA: Os critérios do parágrafo único. Inciso um: atuar conforme a lei e o Direito, a juridicidade. Inciso dois: atender a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou competências, salvo autorização em lei. A ressalva existe. Inciso três: objetividade no atendimento do interesse público, vedada a promoção pessoal.
+ANTONIO: Inciso quatro: padrões éticos de probidade, decoro e boa-fé, a moralidade. Inciso cinco: divulgação oficial dos atos, ressalvado o sigilo previsto na Constituição, a publicidade. Inciso seis: adequação entre meios e fins, vedadas obrigações e sanções além do estritamente necessário. Inciso sete: indicar os pressupostos de fato e de direito da decisão.
+THALITA: Então no cinco o sigilo é o previsto na Constituição, não em qualquer lei.
+BRUNO: Isso, a FCC troca a fonte do sigilo.
+== SLIDE: Critérios finais e princípios típicos do processo
+* VIII: formalidades essenciais; IX: formas simples
+* X: comunicação, alegações finais, provas e recursos
+* XI: gratuidade; XII: impulsão de ofício
+* XIII: vedada retroação de nova interpretação
+ANTONIO: Inciso oito: observar as formalidades essenciais à garantia dos direitos dos administrados. Não todas as formalidades, as essenciais. Inciso nove: adotar formas simples, suficientes para dar certeza e segurança. É o informalismo moderado.
+FRANCISCA: Inciso dez: garantir comunicação, alegações finais, produção de provas e recursos nos processos que possam resultar em sanções e nas situações de litígio. Inciso onze: proibida a cobrança de despesas processuais, ressalvadas as previstas em lei, a gratuidade como regra. Inciso doze: impulsão de ofício, sem prejuízo da atuação dos interessados, a oficialidade.
+THALITA: E o treze, que é o que cai mais?
+BRUNO: Interpretar a norma do modo que melhor atenda ao fim público, vedada a aplicação retroativa de nova interpretação. A Administração pode mudar de entendimento, mas a nova orientação só alcança situações futuras. Não confunda com a anulação de ato ilegal, do artigo cinquenta e quatro: o que se veda é rever ato legal à luz de interpretação nova.
+ANTONIO: Princípios típicos do processo administrativo, cobrados como implícitos: oficialidade, informalismo, gratuidade, verdade material, pela instrução de ofício do artigo vinte e nove, e pluralidade de instâncias, pelo recurso do artigo cinquenta e sete.
+THALITA: Oficialidade, informalismo, gratuidade, verdade material, instâncias. Cinco.
+== SLIDE: Direitos e deveres do administrado
+* Art. 3º: respeito, ciência, vista, alegações antes da decisão
+* Advogado facultativo; SV 5
+* Art. 4º: verdade, lealdade, não agir de modo temerário
+* Prestar informações e colaborar
+ANTONIO: Direitos do administrado, artigo terceiro. Um: ser tratado com respeito pelas autoridades e servidores, que devem facilitar o exercício de direitos e o cumprimento de obrigações. Dois: ter ciência da tramitação, vista dos autos, obter cópias e conhecer as decisões, nos processos em que seja interessado.
+FRANCISCA: Três: formular alegações e apresentar documentos antes da decisão, que serão objeto de consideração. Quatro: fazer-se assistir, facultativamente, por advogado, salvo quando a lei obrigar a representação.
+BRUNO: Pegadinha: dizer que o advogado é obrigatório. É facultativo. E a Súmula Vinculante cinco confirma: a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.
+ANTONIO: Deveres, artigo quarto. Um: expor os fatos conforme a verdade. Dois: proceder com lealdade, urbanidade e boa-fé. Três: não agir de modo temerário. Quatro: prestar as informações solicitadas e colaborar para o esclarecimento dos fatos.
+THALITA: Direitos: respeito, ciência, alegações, advogado facultativo. Deveres: verdade, lealdade, sem temeridade, colaborar.
+FRANCISCA: Resumo perfeito, Thalita.
+== SLIDE: Início do processo, interessados e capacidade
+* Início de ofício ou a pedido (art. 5º)
+* Requerimento escrito; recusa imotivada vedada
+* Pedido único para interessados em situação idêntica
+* Capacidade: maiores de 18 anos (art. 10)
+ANTONIO: O processo pode começar de ofício ou a pedido do interessado, artigo quinto. O requerimento deve ser escrito, salvo quando admitida a solicitação oral, e conter o órgão destinatário, a identificação do interessado, o domicílio ou local para comunicações, o pedido com fatos e fundamentos, data e assinatura.
+THALITA: E se o servidor achar que faltou documento?
+FRANCISCA: Fica vedada a recusa imotivada de documentos, e o servidor deve orientar o interessado a suprir as falhas. É o parágrafo único do artigo sexto. O artigo sétimo manda os órgãos elaborarem formulários padronizados, e o oitavo permite pedido único para vários interessados com pedidos idênticos, salvo norma em contrário.
+BRUNO: Quem são os interessados, pelo artigo nono? Primeiro, quem inicia o processo, pessoa física ou jurídica. Segundo, quem, sem ter iniciado, tem direitos ou interesses que possam ser afetados pela decisão. Terceiro, organizações e associações representativas quanto a direitos coletivos. Quarto, pessoas ou associações legalmente constituídas quanto a direitos difusos.
+ANTONIO: Capacidade, artigo dez: maiores de dezoito anos, ressalvada previsão especial em ato normativo próprio. A FCC troca por vinte e um anos, ou por dezesseis se assistidos.
+THALITA: Dezoito, e só.
+== SLIDE: Competência, delegação e avocação
+* Competência irrenunciável (art. 11)
+* Delegação: parcial, revogável, até a órgão não subordinado
+* Indelegáveis: normativos, recursos e competência exclusiva
+* Avocação: excepcional, temporária, de órgão inferior
+ANTONIO: Competência é irrenunciável, e deve ser exercida pelo órgão a que foi atribuída como própria, salvo delegação e avocação legalmente admitidas. É o artigo onze.
+THALITA: Delegar é passar a competência para outro?
+FRANCISCA: Transfere o exercício de parte da competência, nunca toda, a outro órgão ou titular, ainda que não subordinado, quando for conveniente por razões técnicas, sociais, econômicas, jurídicas ou territoriais. Aplica-se também à delegação de órgão colegiado ao respectivo presidente. A delegação e sua revogação são publicadas no meio oficial.
+BRUNO: O artigo treze, o mais cobrado em prova de TRT: não podem ser objeto de delegação a edição de atos de caráter normativo, a decisão de recursos administrativos e as matérias de competência exclusiva. O mnemônico é CE-NO-RA.
+THALITA: Competência exclusiva, normativos, recursos administrativos. CE-NO-RA.
+ANTONIO: A delegação especifica matérias, poderes, limites, duração e objetivos, e pode ressalvar o exercício pelo delegante. É revogável a qualquer tempo. Decisões tomadas por delegação mencionam essa qualidade e são consideradas editadas pelo delegado, artigo catorze, parágrafo terceiro.
+FRANCISCA: Daí a Súmula quinhentos e dez do STF: praticado o ato por autoridade no exercício de competência delegada, contra ela cabe mandado de segurança. Exemplo: o Presidente do TRT delega ao Diretor-Geral a assinatura de contratos até certo valor. Válido. Mas não pode delegar a decisão dos recursos contra atos do próprio Diretor-Geral, nem a edição de resolução normativa.
+BRUNO: A avocação, artigo quinze, é excepcional e temporária, por motivos relevantes devidamente justificados, e só de órgão hierarquicamente inferior. Delegação dispensa hierarquia, avocação exige.
+THALITA: Delegação pode ser a quem não é subordinado. Avocação, só do inferior.
+== SLIDE: Competência supletiva e impedimento x suspeição
+* Art. 17: autoridade de menor grau hierárquico
+* Impedimento: interesse, intervenção anterior, litígio
+* Suspeição: amizade íntima ou inimizade notória
+* Omissão do dever de comunicar: falta grave
+ANTONIO: Antes de impedimento e suspeição, duas regras de competência. O artigo dezesseis manda divulgar os locais das sedes e, quando conveniente, a unidade competente em matéria de interesse especial. E o artigo dezessete: não havendo competência legal específica, o processo começa perante a autoridade de menor grau hierárquico para decidir.
+THALITA: Agora impedimento e suspeição, que sempre confundo!
+FRANCISCA: Impedimento, artigos dezoito e dezenove, é situação objetiva, presunção absoluta de parcialidade. Hipóteses: interesse direto ou indireto na matéria; ter participado ou vir a participar como perito, testemunha ou representante, ou se isso ocorrer com cônjuge, companheiro ou parente e afins até o terceiro grau; e estar litigando judicial ou administrativamente com o interessado ou com seu cônjuge ou companheiro.
+BRUNO: A autoridade deve comunicar o fato e abster-se de atuar. E a omissão desse dever é falta grave para fins disciplinares.
+ANTONIO: Suspeição, artigos vinte e vinte e um, é situação subjetiva, presunção relativa: amizade íntima ou inimizade notória com algum dos interessados ou com seus cônjuges, companheiros, parentes e afins até o terceiro grau. Pode ser arguida pelo interessado, e o indeferimento admite recurso, sem efeito suspensivo.
+BRUNO: Trocas clássicas: amizade íntima como impedimento, errado, é suspeição. Litigar com o cônjuge do interessado como suspeição, errado, é impedimento. Segundo grau em vez de terceiro, errado. E recurso com efeito suspensivo, errado.
+THALITA: Macete: impedimento é I de interesse, intervenção anterior e litígio. Suspeição é S de sentimento.
+== SLIDE: Forma, tempo e lugar dos atos
+* Forma livre, salvo exigência de lei (art. 22)
+* Escrito, em vernáculo, com data, local e assinatura
+* Dias úteis; prazo geral de 5 dias, até o dobro
+* Lugar: preferencialmente na sede do órgão
+ANTONIO: Artigo vinte e dois: os atos do processo não dependem de forma determinada, salvo exigência expressa de lei. Quando por escrito, em vernáculo, com data, local e assinatura da autoridade responsável.
+THALITA: Precisa reconhecer firma?
+FRANCISCA: Só quando houver dúvida de autenticidade, salvo imposição legal. A autenticação de cópias pode ser feita pelo próprio órgão, e as páginas são numeradas sequencialmente e rubricadas.
+BRUNO: Tempo, artigo vinte e três: os atos são praticados em dias úteis, no horário normal de funcionamento, mas se conclui após o horário o ato iniciado cujo adiamento prejudique o procedimento ou cause dano. Prazo geral, artigo vinte e quatro: cinco dias, na falta de disposição específica, salvo força maior, dilatável até o dobro mediante comprovada justificação.
+ANTONIO: Lugar, artigo vinte e cinco: preferencialmente na sede do órgão, cientificado o interessado se for outro o local.
+THALITA: Cinco dias, até o dobro, justificado. Dez no máximo.
+== SLIDE: Comunicação dos atos e intimação
+* Antecedência mínima de 3 dias úteis (art. 26, §2º)
+* Meios: ciência no processo, AR, telegrama; publicação oficial
+* Comparecimento supre a nulidade
+* Revelia não gera confissão (art. 27)
+ANTONIO: Comunicação dos atos, artigo vinte e seis. A intimação deve conter identificação do intimado e do órgão, finalidade, data, hora e local, se deve comparecer pessoalmente ou por representante, aviso de que o processo continua mesmo sem comparecimento, e fatos e fundamentos legais.
+THALITA: Com quanta antecedência?
+FRANCISCA: Mínimo de três dias úteis quanto à data de comparecimento. A ciência pode ser no processo, por via postal com aviso de recebimento, telegrama ou outro meio que assegure a certeza da ciência. Para interessados indeterminados, desconhecidos ou sem domicílio definido, publicação oficial.
+BRUNO: Intimações sem as prescrições legais são nulas, mas o comparecimento do administrado supre a falta ou irregularidade. E o artigo vinte e sete: o desatendimento da intimação não importa reconhecimento da verdade dos fatos nem renúncia a direito, e garante-se a ampla defesa. Não existe revelia com confissão ficta no processo administrativo. A FCC transpõe a lógica do processo civil, e a alternativa está errada.
+ANTONIO: O artigo vinte e oito diz que se intimam os atos que imponham deveres, ônus, sanções ou restrição de direitos, e outros de interesse do administrado.
+THALITA: Intimação: três dias úteis; comparecer supre; revelia sem confissão.
+== SLIDE: Pegadinha: o caso do servidor impedido
+* Interesse na matéria gera impedimento
+* Omissão do dever de comunicar é falta grave
+* Amizade íntima gera suspeição, que pode ser arguida
+* Recurso contra indeferimento: sem efeito suspensivo
+ANTONIO: Um caso prático para fixar. Um chefe de setor do TRT vai decidir um requerimento feito por uma empresa da qual a irmã dele é sócia. Qual é a situação?
+THALITA: Parece impedimento, porque ele tem interesse indireto na matéria, e a irmã é parente até o terceiro grau.
+FRANCISCA: Correto. Ele deve comunicar o fato à autoridade competente e abster-se de atuar. Se deixar de comunicar, comete falta grave para fins disciplinares.
+THALITA: E se fosse só um amigo muito próximo dele?
+BRUNO: Aí seria suspeição, por amizade íntima. Nesse caso, a suspeição pode ser arguida pelo interessado. Se a alegação for indeferida, cabe recurso, sem efeito suspensivo.
+ANTONIO: Resumindo: fato objetivo e verificável é impedimento, com dever de comunicar; sentimento é suspeição, que o interessado argui.
+== SLIDE: Resumo relâmpago da aula
+* Atributos PATI; elementos COFIFOMOB
+* Anulação x revogação; convalidação; art. 54
+* Lei 9.784: CE-NO-RA, impedimento x suspeição
+* Intimação: 3 dias úteis; revelia sem confissão
+FRANCISCA: Para fechar: lembre que a Lei do Processo Administrativo é geral e subsidiária, e que ela não se aplica à função jurisdicional, mesmo quando o TRT aplica a lei na sua atividade administrativa.
+THALITA: Resumo relâmpago do que mais cai na FCC nesta aula. Um: atributos, PATI, só a presunção está em todos os atos, e ela é relativa. Dois: elementos, COFIFOMOB, competência, finalidade e forma são vinculados. Três: cassação é culpa do beneficiário, caducidade é lei nova. Quatro: anulação é dever, ex tunc, cinco anos para ato favorável; revogação é faculdade, ex nunc, só pela própria Administração. Cinco: convalidação, só competência não exclusiva e forma não essencial. Seis: delegação, CE-NO-RA, não delega normativo, recurso nem competência exclusiva; avocação, só de inferior. Sete: impedimento é interesse, intervenção e litígio; suspeição é amizade íntima ou inimizade notória. Oito: intimação com três dias úteis, comparecimento supre a nulidade e revelia não gera confissão.
+ANTONIO: É isso, pessoal. Revisem os quadros, refaçam as questões e nos vemos na próxima aula. Bons estudos!
