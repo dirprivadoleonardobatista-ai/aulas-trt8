@@ -1,0 +1,71 @@
+SEGMENTO s109
+== SLIDE: Questão 10: responsabilidade por encargos trabalhistas
+* Gabarito D
+* Só nos serviços contínuos com dedicação exclusiva de mão de obra
+* Previdenciários: solidária; trabalhistas: subsidiária
+* Exige falha comprovada na fiscalização
+FRANCISCA: Continuando as questões, a décima. Márcio era empregado da Gama, contratada por autarquia federal para serviços contínuos de limpeza com dedicação exclusiva de mão de obra. A Gama deixou de pagar verbas trabalhistas e de recolher contribuições previdenciárias. Pela Lei de Licitações, a Administração: A, responde solidariamente pelos encargos trabalhistas, independentemente de culpa. B, jamais responde, pois só o contratado é responsável. C, responde subsidiariamente pelos previdenciários e solidariamente pelos trabalhistas, se houver falha na fiscalização. D, responde solidariamente pelos previdenciários e subsidiariamente pelos trabalhistas, se comprovada falha na fiscalização. E, responde subsidiariamente pelos trabalhistas pelo mero inadimplemento, conforme a Súmula trezentos e trinta e um do TST. Pausa para você pensar.
+THALITA: Eu lembro do macete: previdenciário solidário, trabalhista subsidiário. Então D.
+BRUNO: Acertou. A D é a literalidade do artigo cento e vinte e um, parágrafo segundo.
+ANTONIO: A A erra porque a responsabilidade trabalhista é subsidiária e depende de falha comprovada na fiscalização. Não é independente de culpa.
+FRANCISCA: A B é a pegadinha do "jamais". A regra do caput e do parágrafo primeiro é que só o contratado responde, mas o parágrafo segundo a excepciona, exclusivamente nos serviços contínuos com dedicação exclusiva de mão de obra.
+BRUNO: A C inverte as espécies de responsabilidade. E a E diz que basta o mero inadimplemento. Nem a lei nem a Súmula trezentos e trinta e um, item cinco, aceitam isso: exige-se conduta culposa, como na ADC dezesseis e no Tema duzentos e quarenta e seis do STF.
+THALITA: Então "mero inadimplemento" é palavra-chave de erro.
+== SLIDE: Questão 11: direito do contratado à extinção
+* Gabarito A
+* Atraso de pagamento superior a 2 meses da nota fiscal
+* Suspensão superior a 3 meses; 90 dias úteis em suspensões repetidas
+* Supressão só quando exceder 25%
+* Interesse público: motivo da Administração
+ANTONIO: Décima primeira, estilo Técnico. O contratado tem direito à extinção do contrato na hipótese de: A, atraso superior a dois meses, contado da emissão da nota fiscal, dos pagamentos devidos pela Administração. B, suspensão por ordem escrita por prazo superior a trinta dias. C, supressão que acarrete modificação do valor dentro do limite de vinte e cinco por cento. D, repetidas suspensões que totalizem sessenta dias úteis, mesmo em grave perturbação da ordem interna. E, razões de interesse público justificadas pelo próprio contratado e reconhecidas pela autoridade máxima. Pausa para você pensar.
+THALITA: Dois meses de atraso eu lembro bem. A A.
+BRUNO: Correto, artigo cento e trinta e sete, parágrafo segundo, inciso quatro.
+FRANCISCA: A B erra no número: a suspensão deve ser por prazo superior a três meses, não trinta dias. Inciso dois.
+ANTONIO: A C é dentro do limite. O direito surge quando a supressão excede o limite do artigo cento e vinte e cinco, inciso um do parágrafo segundo.
+BRUNO: A D erra duas vezes. As suspensões repetidas devem totalizar noventa dias úteis, não sessenta. E essa hipótese não é admitida em calamidade, grave perturbação da ordem interna ou guerra, parágrafo terceiro, inciso um.
+THALITA: E a E, de interesse público?
+FRANCISCA: Interesse público é motivo de extinção a cargo da Administração, justificado pela autoridade máxima do órgão, artigo cento e trinta e sete, inciso oito. Não é direito do contratado.
+THALITA: Macete: três meses, noventa dias úteis, dois meses de atraso.
+== SLIDE: Questão 12: crimes em licitações
+* Gabarito C
+* Pagar com preterição da ordem cronológica: art. 337-H do CP
+* Violação de sigilo: detenção de 2 a 3 anos
+* Contratação direta ilegal: reclusão de 4 a 8 anos
+* Multa: piso de 2% do valor do contrato
+BRUNO: Décima segunda, estilo Agente da Polícia Judicial, sobre crimes em licitações, previstos no Código Penal pela lei nova. A: devassar o sigilo de proposta é punido com reclusão de quatro a oito anos e multa. B: admitir ou dar causa à contratação direta fora das hipóteses legais é punido com detenção de três meses a um ano. C: pagar fatura com preterição da ordem cronológica configura modificação ou pagamento irregular em contrato administrativo, com reclusão de quatro a oito anos e multa. D: a multa não poderá ser inferior a cinco por cento do valor do contrato. E: os crimes não se aplicam às licitações das sociedades de economia mista. Pausa para você pensar.
+THALITA: Eu não sei as penas de cor. Fico com a C porque lembro da ordem cronológica.
+FRANCISCA: Boa. A C é correta, artigo trezentos e trinta e sete-H do Código Penal.
+ANTONIO: A A erra na pena. Violação de sigilo em licitação, artigo trezentos e trinta e sete-J, é detenção de dois a três anos e multa.
+FRANCISCA: A B também troca. A contratação direta ilegal, artigo trezentos e trinta e sete-E, é reclusão de quatro a oito anos e multa, e não detenção de três meses a um ano.
+BRUNO: A D inventa o piso: o mínimo da multa é de dois por cento do valor do contrato, artigo trezentos e trinta e sete-P.
+THALITA: E a E, sobre as estatais?
+ANTONIO: Errada. O artigo primeiro, parágrafo primeiro, da Lei quatorze mil cento e trinta e três exclui as estatais da lei, mas ressalva o artigo cento e setenta e oito, que inseriu os crimes no Código Penal. Esses crimes se aplicam também às estatais.
+THALITA: Macete: duas penas de quatro a oito: contratação direta ilegal e pagamento fora da ordem.
+== SLIDE: Questão 13: formalização e garantias
+* Gabarito B
+* Garantia: a critério da autoridade; contratado escolhe a modalidade
+* Grande vulto: seguro-garantia com retomada, até 30%
+* 10% depende de complexidade e riscos, não de grande vulto
+* Contrato verbal: até dez mil reais
+FRANCISCA: Décima terceira, considerando os valores originais da lei. A: a garantia é obrigatória em todos os contratos de obras, e a Administração escolhe a modalidade. B: em obras e serviços de engenharia de grande vulto, pode ser exigido seguro-garantia com cláusula de retomada, de até trinta por cento. C: a garantia é de até cinco por cento, com elevação para até dez por cento exclusivamente em contratações de grande vulto. D: é válido o contrato verbal em qualquer compra de pronto pagamento, independentemente do valor. E: o instrumento de contrato é obrigatório nas compras com entrega imediata e integral quando o valor superar o limite de dispensa. Pausa para você pensar.
+THALITA: Essa eu fiz em aula: B, trinta por cento com retomada.
+BRUNO: Certa! Artigo noventa e nove. A A erra em dois pontos: a garantia é exigida a critério da autoridade, com previsão no edital, e a modalidade é escolhida pelo contratado, artigo noventa e seis.
+ANTONIO: A C é a troca que a apostila avisou. A majoração para até dez por cento depende de justificativa de complexidade técnica e riscos, artigo noventa e oito, e não do grande vulto.
+FRANCISCA: A D erra no valor. O contrato verbal é nulo, salvo pequenas compras ou serviços de pronto pagamento de valor não superior a dez mil reais, artigo noventa e cinco, parágrafo segundo, valor atualizável por decreto.
+BRUNO: A E é o inverso: nas compras com entrega imediata e integral, sem obrigações futuras, o instrumento pode ser substituído independentemente do valor, artigo noventa e cinco, inciso dois.
+THALITA: Macete: dez por cento por complexidade, trinta por cento por grande vulto, e nunca "obrigatória".
+== SLIDE: Questão 14 e resumo final da aula
+* Gabarito D
+* Agente de contratação: servidor efetivo ou empregado público
+* Comissão: mínimo de 3 membros, responsabilidade solidária
+* Pregoeiro conduz o pregão; agente vai até a homologação
+* Segregação de funções é princípio
+ANTONIO: Última questão da aula, a décima quarta, sobre agentes públicos nas licitações. A: o agente de contratação pode ser ocupante exclusivamente de cargo em comissão, com certificação de escola de governo. B: a comissão terá no mínimo cinco membros, com responsabilidade individual. C: no pregão, o responsável pela condução se chama presidente da comissão e vai até a assinatura do contrato. D: em licitação de bens ou serviços especiais, o agente pode ser substituído por comissão com no mínimo três membros, que respondem solidariamente, ressalvado o membro que divergir de forma fundamentada e registrada em ata. E: a segregação de funções é mera recomendação. Pausa para você pensar.
+THALITA: Pela palavra "solidariamente com ressalva", vou de D.
+BRUNO: Correta, literalidade do artigo oitavo, parágrafo segundo.
+FRANCISCA: A A erra: o agente de contratação é designado entre servidores efetivos ou empregados públicos dos quadros permanentes, artigo oitavo, caput. Cargo só em comissão não serve.
+ANTONIO: A B troca o número e a responsabilidade: são no mínimo três membros, e a responsabilidade é solidária, não individual.
+BRUNO: A C tem dois erros: no pregão, o agente se chama pregoeiro, parágrafo quinto, e a atuação vai até a homologação, não até a assinatura do contrato.
+FRANCISCA: A E é errada: a segregação de funções é princípio, artigo quinto, e é vedada a designação do mesmo agente para funções mais suscetíveis a riscos simultaneamente, artigo sétimo, parágrafo primeiro.
+THALITA: Chegamos ao fim da aula! Vou fazer o resumo relâmpago do que mais cai na FCC. Garantia: cinco por cento, dez por complexidade, trinta com retomada em grande vulto. Contínuos: cinco anos, até dez. Alterações: vinte e cinco por cento, e cinquenta só no acréscimo de reforma. Responsabilidade trabalhista: só com falha de fiscalização, previdenciária solidária, trabalhista subsidiária. Contratado pode extinguir com três meses de suspensão ou dois meses de atraso. Prazos de proposta: oito dias úteis para bens, vinte e cinco para engenharia especial. Inidoneidade: três a seis anos. E recurso: intenção imediata, razões em três dias úteis.
+ANTONIO: Excelente resumo, Thalita. Bons estudos a todos, e até a próxima aula!

@@ -1,0 +1,53 @@
+SEGMENTO s113
+== SLIDE: Boas-vindas e classificação dos bens públicos
+* Aula 33: bens públicos
+* Bem público: bem de pessoa jurídica de direito público interno (art. 98 do CC)
+* Uso comum, uso especial e dominicais
+* Afetação e desafetação
+ANTONIO: Olá, pessoal, boas-vindas à aula trinta e três! Estamos em Direito Administrativo, quinta parte, serviços públicos, parcerias, responsabilidade do Estado e bens públicos. Hoje vamos tratar dos bens públicos e depois resolver questões no estilo FCC.
+THALITA: Eu sou a Thalita, concurseira, e vou perguntar o que você perguntaria.
+FRANCISCA: Eu sou a Francisca, professora, e trago a lei e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC, e mostro as pegadinhas.
+ANTONIO: Pelo artigo noventa e oito do Código Civil, são públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno. Todos os outros são particulares, seja qual for a pessoa a que pertencem. O critério é subjetivo: o que importa é o dono.
+THALITA: Então bem de empresa pública é público?
+BRUNO: Não! Bens de empresas públicas e sociedades de economia mista são privados. A FCC adora dizer que são públicos. Porém, quando afetados à prestação de serviço público, o STF lhes estende algumas proteções, como a impenhorabilidade dos bens da ECT, que se sujeita a precatórios.
+FRANCISCA: O artigo noventa e nove do Código Civil traz as três classes. Uso comum do povo: utilização geral pela coletividade, como rios, mares, estradas, ruas e praças. Uso especial: destinados a serviço ou estabelecimento da Administração, inclusive de autarquias, como edifício de repartição, escola, hospital, fórum e veículos oficiais. Dominicais: patrimônio disponível, objeto de direito pessoal ou real da entidade, como terras devolutas, prédio desocupado e títulos.
+THALITA: Quais são afetados?
+ANTONIO: Uso comum e uso especial são afetados, têm finalidade pública. Os dominicais não são afetados.
+FRANCISCA: E o parágrafo único do artigo noventa e nove diz que, salvo lei em contrário, são dominicais os bens das pessoas jurídicas de direito público com estrutura de direito privado, como fundações públicas de direito privado.
+BRUNO: Afetação é a atribuição de finalidade pública ao bem, por lei, ato ou fato. Desafetação é a retirada dessa finalidade, tornando-o dominical, em regra por lei ou ato autorizado por lei, podendo decorrer de fato, como um incêndio que destrói o prédio.
+THALITA: Afetado tem finalidade; dominical está disponível.
+== SLIDE: Regime jurídico dos bens públicos
+* Inalienabilidade relativa: afetados, não; dominicais, sim
+* Impenhorabilidade: precatórios e RPV (art. 100 da CF)
+* Imprescritibilidade: nem dominicais são usucapíveis
+* Não onerabilidade: sem penhor, hipoteca ou anticrese
+ANTONIO: O regime jurídico tem quatro atributos. O artigo cem do Código Civil diz que os bens de uso comum e de uso especial são inalienáveis enquanto conservarem sua qualificação, na forma que a lei determinar. O artigo cento e um permite alienar os dominicais, observadas as exigências da lei.
+THALITA: Então a inalienabilidade não é absoluta?
+FRANCISCA: Não, é relativa. Dura enquanto o bem conserva a qualificação. Desafetado, pode ser alienado na forma da lei. Para imóveis: interesse público, avaliação, autorização legislativa e leilão. Para móveis, sem autorização legislativa, artigo setenta e seis da Lei quatorze mil cento e trinta e três.
+BRUNO: Impenhorabilidade: a execução contra a Fazenda segue o regime de precatórios ou de requisição de pequeno valor, artigo cem da Constituição. A exceção é o sequestro, por preterição da ordem ou por não alocação orçamentária.
+THALITA: E usucapião?
+ANTONIO: Imprescritibilidade: nenhum bem público pode ser usucapido, inclusive o dominical. O artigo cento e dois do Código Civil e os artigos cento e oitenta e três, parágrafo terceiro, e cento e noventa e um, parágrafo único, da Constituição.
+BRUNO: A Súmula trezentos e quarenta do Supremo diz que, desde o Código Civil, os bens dominicais, como os demais bens públicos, não podem ser adquiridos por usucapião.
+FRANCISCA: E a Súmula seiscentos e dezenove do STJ: a ocupação indevida de bem público é mera detenção, precária, sem direito a retenção ou indenização por acessões e benfeitorias.
+THALITA: E a não onerabilidade?
+ANTONIO: Bens públicos não podem ser dados em penhor, hipoteca ou anticrese. Em regra, sem exceção.
+BRUNO: Pegadinhas de prova: dizer que bens dominicais podem ser usucapidos por serem disponíveis, errado, Súmula trezentos e quarenta. Dizer que a inalienabilidade é absoluta, errado. E dizer que os bens de sociedade de economia mista são públicos, errado, artigo noventa e oito.
+THALITA: Macete: relativa, impenhorável, imprescritível e não onerável.
+== SLIDE: Uso privativo de bem público por terceiros
+* Autorização e permissão: atos precários
+* Concessão de uso: contrato, prazo determinado
+* CDRU e CUEM: direitos reais e direito subjetivo
+* Cessão de uso: transferência gratuita entre órgãos
+FRANCISCA: Agora o uso de bem público por terceiros. A autorização de uso é ato unilateral, discricionário e precário, com interesse predominante do particular, em regra sem licitação. Exemplo: fechar uma rua para uma festa.
+THALITA: E a permissão?
+BRUNO: A permissão de uso também é ato unilateral, discricionário e precário, mas com interesse público e privado, e licitação quando houver disputa. Exemplo: banca de jornal e box de feira.
+ANTONIO: A concessão de uso é um contrato administrativo, com prazo determinado, licitação em regra, e é estável. Exemplo: restaurante em aeroporto, lanchonete em repartição.
+THALITA: Como separo precário de estável?
+FRANCISCA: O macete da apostila: precários são os atos, autorização e permissão, "apagáveis a qualquer tempo". Estáveis são os contratos e direitos reais: concessões, CDRU e CUEM.
+BRUNO: A concessão de direito real de uso, a CDRU, é direito real resolúvel, previsto no Decreto-Lei duzentos e setenta e um, de mil novecentos e sessenta e sete. Serve a fins sociais, como regularização fundiária, urbanização, industrialização e cultivo. É transmissível e resolve-se se houver desvio de finalidade. Exemplo: distrito industrial.
+ANTONIO: A cessão de uso é a transferência gratuita do uso entre órgãos ou entidades, por colaboração administrativa, formalizada por termo. Exemplo: município cede sala a órgão estadual.
+FRANCISCA: E a CUEM, concessão de uso especial para fins de moradia, é direito subjetivo, ato vinculado, gratuito e uma única vez. Exige posse própria por cinco anos ininterruptos e sem oposição, de até duzentos e cinquenta metros quadrados de imóvel público urbano, para moradia, sem ser proprietário ou concessionário de outro imóvel. Vem da Medida Provisória dois mil duzentos e vinte, de dois mil e um.
+BRUNO: Atenção: a Lei treze mil quatrocentos e sessenta e cinco, de dois mil e dezessete, alterou o marco temporal da posse, para posse até vinte e dois de dezembro de dois mil e dezesseis. Confira a redação vigente do artigo primeiro.
+THALITA: Fechando: autorização e permissão são precárias; concessão é contrato; CDRU é direito real; CUEM é direito subjetivo.
+ANTONIO: Muito bem. Agora vamos às questões comentadas no estilo FCC.
