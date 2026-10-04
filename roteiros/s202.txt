@@ -1,0 +1,75 @@
+SEGMENTO s202
+== SLIDE: Mandado de citação e edital
+* Art. 880: pagar em 48 horas ou garantir, sob pena de penhora
+* Mandado leva a decisão ou o termo de acordo
+* Citação pelo oficial; não encontrado 2 vezes em 48 horas: edital por 5 dias
+* Multa de 10% do art. 523 do CPC: inaplicável na JT
+FRANCISCA: Vimos o sócio retirante e as execuções especiais. Agora a fase prática: a citação do executado. Requerida a execução, o juiz manda expedir mandado de citação, artigo oitocentos e oitenta. Em obrigação de fazer, cumpre-se no prazo e modo do título. Em pagamento em dinheiro, inclusive contribuições sociais, o executado tem quarenta e oito horas para pagar ou garantir a execução, sob pena de penhora.
+THALITA: Quarenta e oito horas. Mas eu me confundo com os outros prazos: cinco dias, quinze dias.
+BRUNO: É exatamente a pegadinha da tabela. Cinco dias é o prazo dos embargos, depois da garantia. Quinze dias é do artigo quinhentos e vinte e três do CPC, que não vale aqui. E a multa de dez por cento desse artigo é inaplicável na Justiça do Trabalho, conforme o TST em incidente de recurso repetitivo, Tema quatro. A CLT tem regra própria.
+ANTONIO: O mandado deve conter a decisão exequenda ou o termo de acordo não cumprido, parágrafo primeiro. E a citação é pessoal, feita pelo oficial de justiça. A lei fala em oficiais de diligência, nomenclatura antiga. É diferente da notificação postal da fase de conhecimento, artigo oitocentos e quarenta e um, parágrafo primeiro.
+THALITA: E se o oficial não encontrar o executado?
+FRANCISCA: Parágrafo terceiro: procurado duas vezes no espaço de quarenta e oito horas e não encontrado, faz-se citação por edital, publicado no jornal oficial ou, na falta, afixado na sede do juízo, durante cinco dias.
+BRUNO: Pegadinhas: não é três vezes, e não é em cinco dias; são duas procuras em quarenta e oito horas. E o edital é de cinco dias, não vinte, porque vinte é o edital de praça.
+ANTONIO: Exemplo: o oficial procura a executada na segunda às dez horas e na terça às nove, sem encontrá-la. Certifica as duas diligências. O juízo expede edital por cinco dias. Terminado o edital, correm as quarenta e oito horas para pagar ou garantir.
+THALITA: Então o prazo de quarenta e oito horas é depois da citação, e no caso do edital, depois dos cinco dias.
+
+== SLIDE: Garantia, penhora e protesto
+* Art. 882: depósito, seguro-garantia ou nomeação de bens (ordem do art. 835 CPC)
+* Art. 883: penhora de tantos bens quantos bastem; juros desde o ajuizamento
+* Art. 883-A: protesto, cadastros e BNDT só após 45 dias da citação
+* Pagamento na secretaria, com termo de quitação em 2 vias (art. 881)
+ANTONIO: O pagamento é feito na secretaria, com termo de quitação em duas vias, assinadas por exequente, executado e servidor. Se o exequente não comparecer, a quantia é depositada mediante guia, artigo oitocentos e oitenta e um.
+THALITA: E se o executado não tem dinheiro na hora, o que faz?
+FRANCISCA: Pode garantir a execução, artigo oitocentos e oitenta e dois, de três formas, à escolha dele: depósito da quantia atualizada e acrescida das despesas processuais, apresentação de seguro-garantia judicial ou nomeação de bens à penhora, observada a ordem do artigo oitocentos e trinta e cinco do Código de Processo Civil.
+BRUNO: Se não paga nem garante, segue-se a penhora, artigo oitocentos e oitenta e três, de tantos bens quantos bastem para pagar a condenação, acrescida de custas e juros de mora. Atenção: os juros correm desde o ajuizamento da reclamação, não desde a citação. E a penhora deve ser suficiente, sem excesso.
+THALITA: Entendi. E aquele negócio de protesto e nome sujo?
+ANTONIO: Artigo oitocentos e oitenta e três-A. A decisão transitada em julgado somente pode ser levada a protesto, gerar inscrição em órgãos de proteção ao crédito ou no Banco Nacional de Devedores Trabalhistas depois de quarenta e cinco dias, contados da citação, se não houver garantia do juízo.
+FRANCISCA: São três medidas, protesto, cadastros e BNDT, e três condições: trânsito em julgado, quarenta e cinco dias da citação e ausência de garantia.
+BRUNO: A cronologia preferida da FCC: quarenta e oito horas para pagar ou garantir; cinco dias para embargos; quarenta e cinco dias para protesto e BNDT; dez dias para a avaliação; vinte dias para o edital de praça; vinte e quatro horas para o saldo do lance.
+THALITA: Vou anotar essa sequência. E a certidão negativa de débitos trabalhistas?
+ANTONIO: Artigo seiscentos e quarenta e dois-A: gratuita, eletrônica, válida por cento e oitenta dias. Se o débito estiver garantido por penhora suficiente ou com a exigibilidade suspensa, a certidão é positiva com efeitos de negativa.
+
+== SLIDE: O oficial avaliador e as ferramentas eletrônicas
+* Art. 721, §2º: mandado não cumprido em 9 dias é redistribuído
+* Art. 721, §3º: avaliação no prazo do art. 888, 10 dias
+* SISBAJUD: bloqueio sem ciência prévia; 5 dias para alegar excesso
+* RENAJUD, INFOJUD e CNIB
+FRANCISCA: Agora o núcleo da atividade do Oficial de Justiça Avaliador. Pelo artigo setecentos e vinte e um, parágrafo segundo, da CLT, o mandado não cumprido em nove dias, sem justificativa, é redistribuído a outro oficial, e o faltoso sujeita-se às penalidades. Na avaliação, o oficial tem o prazo do artigo oitocentos e oitenta e oito, dez dias.
+THALITA: A avaliação é sempre do oficial? Ou chama perito?
+BRUNO: Pelo artigo oitocentos e setenta do CPC, a avaliação é feita pelo próprio oficial. Avaliador especializado só se exigidos conhecimentos técnicos, com laudo em até dez dias.
+ANTONIO: Das ferramentas, o dinheiro vem primeiro: o SISBAJUD, sucessor do BACENJUD, para bloqueio de ativos financeiros. O bloqueio é feito sem ciência prévia do executado, artigo oitocentos e cinquenta e quatro do CPC.
+FRANCISCA: Depois do bloqueio o executado tem cinco dias para alegar impenhorabilidade ou excesso. Rejeitada a alegação, o bloqueio se converte em penhora sem lavratura de termo. Depois vêm o RENAJUD, para restrição de veículos, o INFOJUD, para dados da Receita Federal, e a CNIB, indisponibilidade nacional de imóveis.
+THALITA: Dá para penhorar salário para pagar crédito trabalhista?
+BRUNO: Dá. A impenhorabilidade cede à prestação alimentícia independentemente de sua origem, artigo oitocentos e trinta e três, parágrafo segundo, e artigo quinhentos e vinte e nove, parágrafo terceiro, do CPC, limitada a cinquenta por cento dos ganhos líquidos. A Orientação Jurisprudencial cento e cinquenta e três da SDI-2 ficou restrita a atos da vigência do CPC de mil novecentos e setenta e três.
+ANTONIO: Outras penhoras especiais: faturamento, em percentual que não inviabilize a atividade, se não houver outros bens, com administrador-depositário, artigo oitocentos e sessenta e seis do CPC. Penhora no rosto dos autos, que é a averbação em outro processo do direito que o executado ali pleiteia. E imóvel ou veículo, por termo nos autos com certidão da matrícula.
+THALITA: Resumo: dinheiro primeiro pelo SISBAJUD, depois veículos, dados fiscais e imóveis.
+
+== SLIDE: Auto de penhora e conduta na diligência
+* Art. 838 CPC: data e lugar, partes, descrição dos bens, depositário
+* Auto pelo oficial; termo pela secretaria
+* Sem bens: descrever o que guarnece a residência (art. 836)
+* Porta fechada: ordem de arrombamento, 2 oficiais, 2 testemunhas (art. 846)
+* Imóvel de casado: intima-se o cônjuge (art. 842)
+BRUNO: Artigo oitocentos e trinta e oito do CPC. A penhora é realizada mediante auto ou termo, que conterá a data e o lugar; os nomes do exequente e do executado; a descrição dos bens com suas características; e a nomeação do depositário. São requisitos cumulativos, e sem depositário a penhora não se aperfeiçoa.
+THALITA: Qual a diferença entre auto e termo?
+FRANCISCA: Auto é lavrado pelo oficial na própria diligência. Termo é lavrado pela secretaria nos autos. A avaliação do oficial consta de vistoria e laudo anexados ao auto, indicando os bens, características, estado e valor, artigo oitocentos e setenta e dois do CPC. Imóvel divisível é avaliado em partes, ouvindo-se as partes em cinco dias.
+ANTONIO: E se o oficial chega e não há bens penhoráveis? Ele descreve na certidão os bens que guarnecem a residência ou o estabelecimento, mesmo sem ordem expressa, e o executado fica depositário provisório, artigo oitocentos e trinta e seis. Se o produto dos bens fosse absorvido pelas custas, o oficial não realiza a penhora.
+THALITA: E se o executado fecha as portas?
+BRUNO: O oficial comunica ao juiz e pede ordem de arrombamento, artigo oitocentos e quarenta e seis. Deferido, vão dois oficiais, com auto circunstanciado assinado por duas testemunhas, força policial se necessário, e auto em duplicata, uma via nos autos e outra para a autoridade policial.
+FRANCISCA: Imóvel de executado casado: intima-se também o cônjuge, salvo separação absoluta, artigo oitocentos e quarenta e dois. Nova avaliação cabe por erro ou dolo do avaliador, alteração posterior do valor do bem ou fundada dúvida sobre o valor, artigo oitocentos e setenta e três.
+THALITA: Macete: auto tem data, partes, bens e depositário. Porta fechada: dois oficiais e duas testemunhas.
+ANTONIO: Isso mesmo. Resumindo a lógica da diligência: sempre descrever, nunca extrapolar a ordem.
+
+== SLIDE: Depositário e fechamento da aula
+* Depositário (art. 840 CPC): banco oficial, depositário judicial ou executado
+* SV 25: prisão civil de depositário infiel é ilícita
+* Exemplo do auto: caminhão, avaliado, depositário o sócio-gerente
+FRANCISCA: O depositário, artigo oitocentos e quarenta do CPC. Dinheiro e metais preciosos ficam em banco oficial. Móveis e imóveis urbanos ficam com o depositário judicial e, na falta dele, com o exequente. Imóveis rurais, bens de difícil remoção ou com anuência do exequente ficam com o executado.
+THALITA: E se o depositário não entregar o bem? Pode ser preso?
+BRUNO: Não. A Súmula Vinculante vinte e cinco do STF diz que é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.
+ANTONIO: Exemplo da apostila: a oficiala Carla lavra o auto em catorze de maio de dois mil e vinte e seis, no pátio da Alfa Limitada, em Belém. Exequente Paulo, executada Alfa. Caminhão de determinada marca, ano dois mil e dezenove, em bom estado, avaliado em duzentos e oitenta mil reais. Depositário o sócio-gerente, que assina. Sem a nomeação do depositário, a penhora estaria incompleta.
+FRANCISCA: E note que o auto reúne todos os elementos: data, lugar, partes, descrição, estado, valor e depositário.
+THALITA: Resumo relâmpago do que mais cai na FCC nesta aula. Execução de ofício só sem advogado, mas contribuições sempre de ofício. Competência de quem julgou ou conciliou. Fonte subsidiária: LEF e depois CPC. Execução provisória vai até a penhora. Seguro-garantia cobre débito mais trinta por cento. RPV: sessenta, quarenta e trinta salários. Sócio retirante: dois anos da averbação, subsidiário, solidário na fraude. Citação por oficial; quarenta e oito horas; edital depois de duas procuras em quarenta e oito horas, por cinco dias. Protesto e BNDT depois de quarenta e cinco dias. Auto de penhora com depositário.
+BRUNO: Acrescento: o pagamento é de quarenta e oito horas, não cinco nem quinze dias, e a multa do CPC não vale na Justiça do Trabalho.
+ANTONIO: Foi uma ótima aula. Bons estudos e até a próxima!
