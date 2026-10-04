@@ -1,0 +1,102 @@
+SEGMENTO s170
+== SLIDE: Greve: conceito e requisitos formais
+* Art. 9º CF e Lei 7.783/1989: suspensão coletiva, temporária e pacífica
+* Total ou parcial, dirigida ao empregador
+* Negociação frustrada, assembleia, comissão se não houver sindicato
+* Aviso: 48 horas (regra); 72 horas (essenciais, a empregadores e usuários)
+ANTONIO: Fechamos a negociação coletiva, e quando ela fracassa chegamos à greve. A base é o artigo nono da Constituição e a Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove. O artigo nono assegura o direito de greve e diz que cabe aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses a defender.
+THALITA: Então quem manda na greve é o trabalhador, não o sindicato?
+FRANCISCA: A titularidade é dos trabalhadores, mas o exercício é coletivo, normalmente conduzido pelo sindicato. E a Constituição remete à lei a definição dos serviços essenciais, o atendimento das necessidades inadiáveis e a punição dos abusos.
+BRUNO: Conceito de prova: greve é a suspensão coletiva, temporária e pacífica, total ou parcial, da prestação pessoal de serviços a empregador. Cada palavra é cobrada.
+ANTONIO: Coletiva: é ato de grupo. Paralisação individual é falta, não greve. Temporária: pode ter prazo indeterminado, mas não definitiva, porque definitiva seria abandono. Pacífica: violência descaracteriza o movimento lícito.
+FRANCISCA: Total ou parcial: pode atingir todos ou só parte dos trabalhadores ou setores. E dirigida ao empregador, tudo no artigo segundo.
+THALITA: Agora os requisitos formais. Quais são?
+ANTONIO: Primeiro, tentativa prévia de negociação: a greve só é facultada após frustrada a negociação ou inviável a arbitragem, artigo terceiro e Orientação Jurisprudencial onze da SDC. Segundo, assembleia convocada pela entidade sindical, na forma do estatuto, que fixa quórum e formalidades.
+FRANCISCA: Se não houver sindicato, a assembleia dos interessados delibera e forma uma comissão de negociação, artigo quarto, parágrafo segundo. O sindicato ou a comissão representa os grevistas, inclusive perante a Justiça do Trabalho.
+BRUNO: Terceiro requisito, o aviso prévio. Regra geral: empregador ou entidade patronal notificados com no mínimo quarenta e oito horas. Nas atividades essenciais, o artigo treze exige comunicação a empregadores e usuários com no mínimo setenta e duas horas.
+THALITA: Quarenta e oito para o empregador, setenta e duas para empregador e usuário, nas essenciais.
+BRUNO: Perfeito. Troca de prazo é o alvo número um da FCC. E ela também troca usuários por Ministério Público.
+THALITA: Macete: essencial tem mais gente para avisar, então tem mais tempo. Setenta e duas horas.
+ANTONIO: Ótimo macete. Vamos ver agora o que cada lado pode e não pode fazer.
+== SLIDE: Direitos, deveres e efeitos sobre o contrato
+* Grevistas: persuasão pacífica, arrecadar fundos, divulgar o movimento
+* Proibido: impedir acesso ao trabalho, ameaçar pessoas, danificar bens
+* Empregador: não constranger, não rescindir, não contratar substitutos
+* Contrato SUSPENSO; exceções: art. 9º, parágrafo único, e art. 14
+BRUNO: O artigo sexto garante aos grevistas o emprego de meios pacíficos de persuasão, a arrecadação de fundos e a livre divulgação do movimento.
+FRANCISCA: Em contrapartida, não podem violar nem constranger direitos fundamentais de terceiros, impedir o acesso ao trabalho de quem quer trabalhar, ameaçar pessoas ou danificar bens.
+THALITA: E o empregador, pode reagir?
+BRUNO: Pode contratar substitutos apenas nas hipóteses do artigo nono, parágrafo único, e do artigo quatorze. Não pode constranger o empregado a comparecer ao trabalho nem frustrar a divulgação do movimento. E não pode rescindir contratos nem contratar substitutos fora das exceções, artigo sétimo, parágrafo único.
+ANTONIO: Quanto aos efeitos, a natureza é de suspensão do contrato, artigo sétimo. Em regra, sem salário e sem contagem de tempo de serviço.
+THALITA: Então o contrato não acaba nem é interrompido: fica suspenso. Certo?
+FRANCISCA: Certo. E o período é regido por acordo, convenção, laudo arbitral ou decisão da Justiça do Trabalho. As partes podem negociar o pagamento ou a compensação dos dias parados.
+BRUNO: Dispensa durante a greve é vedada. As exceções são a greve abusiva, artigo quatorze, ou falta grave individual. Contratação de substitutos também é vedada, com as exceções do artigo nono, parágrafo único, quando não há acordo sobre equipes de manutenção, e do artigo quatorze, em caso de abuso.
+THALITA: E os dias parados? Pagam ou não?
+ANTONIO: Em regra, não são remunerados. Mas a jurisprudência admite pagamento se a greve decorreu de descumprimento grave do empregador, como atraso de salários.
+FRANCISCA: Sobre greve abusiva, a Orientação Jurisprudencial dez da SDC do TST diz que é incompatível a concessão de garantias ou vantagens aos participantes. Em paráfrase: o abuso afasta os benefícios pleiteados para o período.
+THALITA: Resumindo: greve lícita, contrato suspenso e sem dispensa; greve abusiva, sem vantagens e com exceções liberadas.
+BRUNO: Boa síntese. Agora vamos às atividades essenciais, que a prova adora.
+== SLIDE: Atividades essenciais e serviços indispensáveis
+* Art. 10: água, energia, gás, combustíveis, saúde, medicamentos e alimentos
+* Funerários, transporte coletivo, esgoto e lixo, telecomunicações
+* Nuclear, dados, tráfego aéreo, compensação bancária
+* Ensino, comércio e correios NÃO estão no rol
+* Arts. 11 a 12: serviços indispensáveis e necessidades inadiáveis
+ANTONIO: O artigo dez traz as atividades essenciais. Inciso um: tratamento e abastecimento de água, produção e distribuição de energia elétrica, gás e combustíveis. Dois: assistência médica e hospitalar. Três: distribuição e comercialização de medicamentos e alimentos. Quatro: serviços funerários. Cinco: transporte coletivo.
+FRANCISCA: Seis: captação e tratamento de esgoto e lixo. Sete: telecomunicações. Oito: guarda, uso e controle de substâncias radioativas e materiais nucleares. Nove: processamento de dados ligados a serviços essenciais. Dez: controle de tráfego aéreo. Onze: compensação bancária.
+BRUNO: Esses onze são os incisos originais e são os mais cobrados. Depois vieram acréscimos por leis posteriores, entre elas a Lei treze mil oitocentos e quarenta e seis, de dois mil e dezenove, e a Lei catorze mil e quarenta e sete, de dois mil e vinte: atividades médico-periciais ligadas ao regime geral de previdência, à assistência social e à carreira de perito médico federal, e atividades portuárias.
+FRANCISCA: A apostila alerta para conferir a redação vigente e a numeração exata desses incisos. Para a prova, atenção aos onze originais.
+THALITA: Então educação é essencial, né? Escola para de funcionar, a sociedade para.
+BRUNO: Caiu na pegadinha, Thalita! O rol do artigo dez não inclui ensino, bancos em geral, só a compensação bancária, comércio em geral nem correios. Dizer que educação é atividade essencial na Lei de Greve está errado.
+THALITA: Ufa, ainda bem que perguntei. Ensino, comércio e correios, fora.
+ANTONIO: Agora, nos serviços essenciais, o artigo onze determina que sindicato, empregadores e trabalhadores garantam, de comum acordo, a prestação mínima para atender às necessidades inadiáveis da comunidade.
+FRANCISCA: Necessidades inadiáveis são aquelas cujo não atendimento põe em perigo iminente a sobrevivência, a saúde ou a segurança da população. Se as partes se omitirem, o Poder Público assegura a prestação dos serviços indispensáveis, artigo doze.
+BRUNO: A Orientação Jurisprudencial trinta e oito da SDC diz que é abusiva a greve em serviços essenciais quando não assegurado o atendimento básico das necessidades inadiáveis dos usuários.
+ANTONIO: Em qualquer atividade, o artigo nono prevê equipes de manutenção, mediante acordo, para evitar dano irreparável a bens, máquinas e equipamentos e permitir a retomada. Sem acordo, o empregador pode contratar diretamente.
+== SLIDE: Abuso, lockout e greves atípicas
+* Abuso: descumprir a lei ou manter paralisação após acordo ou decisão (art. 14)
+* Não é abusiva: exigir cláusula ou fato novo imprevisto
+* Lockout vedado; salários devidos (art. 17)
+* Greve política e de solidariedade: em regra abusivas
+THALITA: Quando a greve vira abusiva?
+ANTONIO: O artigo quatorze diz que há abuso ao descumprir as normas da lei ou manter a paralisação após acordo, convenção ou decisão judicial.
+FRANCISCA: Mas há exceção na vigência de norma coletiva. A greve não é abusiva se visa exigir o cumprimento de cláusula ou se decorre de fato novo ou imprevisto que altere substancialmente a relação de trabalho. É o parágrafo único do artigo quatorze.
+BRUNO: A responsabilidade por ilícitos é apurada na esfera trabalhista, civil ou penal, e o Ministério Público requisita inquérito quando houver indício de crime. Artigo quinze.
+THALITA: E o lockout? É a greve do patrão, né?
+ANTONIO: É a paralisação por iniciativa do empregador para frustrar negociação ou dificultar o atendimento de reivindicações. É vedada, artigo dezessete, e os trabalhadores têm direito aos salários do período.
+BRUNO: Pegadinha: alternativa que diz que o lockout é lícito, ou que os dias parados não são pagos, está errada.
+FRANCISCA: Dois tipos atípicos. A greve política, dirigida contra o Poder Público, sem reivindicação que o empregador possa atender, tende a ser considerada abusiva pelo TST. A greve de solidariedade, em apoio a outra categoria, sem pauta própria perante o empregador, em regra é tida por abusiva, salvo interesse profissional próprio dos grevistas.
+THALITA: Política e solidariedade: em regra, abusivas. Anotei.
+ANTONIO: Um exemplo. Os motoristas da Viação Gama, de transporte coletivo, decidem em assembleia paralisar na segunda-feira às seis horas. Comunicam a empresa no sábado às dez horas e não avisam a população.
+BRUNO: Duas falhas. O aviso deveria ter setenta e duas horas, e não quarenta e quatro, e deveria atingir também os usuários. A greve é abusiva, pelos artigos treze e quatorze.
+THALITA: Eu ia dizer que bastava avisar a empresa. Errei de novo. Fico com setenta e duas horas e usuários.
+FRANCISCA: Faz parte, o erro de agora evita o erro na prova.
+== SLIDE: Competência, dissídio de greve e servidores
+* Art. 114, II, CF: Justiça do Trabalho julga ações sobre exercício do direito de greve
+* SV 23: possessórias da iniciativa privada
+* Dissídio: MPT em atividade essencial com lesão ao interesse público
+* Econômico exige comum acordo; originária no TRT ou TST (SDC)
+ANTONIO: Quanto à competência, o artigo cento e catorze, inciso dois, da Constituição, atribui à Justiça do Trabalho as ações que envolvam o exercício do direito de greve. A Súmula Vinculante vinte e três acrescenta que a Justiça do Trabalho julga ação possessória ajuizada em razão de greve dos trabalhadores da iniciativa privada.
+FRANCISCA: No dissídio de greve, têm legitimidade as partes interessadas e, em atividade essencial com possibilidade de lesão ao interesse público, o Ministério Público do Trabalho. É o artigo cento e catorze, parágrafo terceiro, e o artigo oitavo da lei de greve. O tribunal decide pela procedência, total ou parcial, ou pela improcedência das reivindicações.
+BRUNO: Já o dissídio de natureza econômica exige comum acordo das partes, artigo cento e catorze, parágrafo segundo. A competência originária é do TRT, se o conflito não exceder sua jurisdição, ou do TST, na SDC, se exceder, conforme a Lei sete mil setecentos e um, de mil novecentos e oitenta e oito.
+THALITA: E servidor público pode fazer greve?
+ANTONIO: O artigo trinta e sete, inciso sete, da Constituição prevê o direito nos termos de lei específica, que ainda não foi editada. Nos Mandados de Injunção seiscentos e setenta, setecentos e oito e setecentos e doze, o STF mandou aplicar, no que couber, a Lei sete mil setecentos e oitenta e três.
+FRANCISCA: Quanto aos dias parados, o Tema quinhentos e trinta e um diz que a Administração deve descontar, admitida compensação por acordo. Não cabe desconto se a greve decorreu de conduta ilícita do Poder Público.
+BRUNO: Sobre a competência para servidores, o Tema quinhentos e quarenta e quatro: a Justiça comum julga a abusividade da greve de servidores da administração direta, autarquias e fundações públicas, inclusive celetistas.
+THALITA: E policiais?
+FRANCISCA: Tema quinhentos e quarenta e um: é vedado o exercício do direito de greve por policiais civis e por todos os servidores que atuem diretamente na área de segurança pública. Os militares têm proibição constitucional de greve e sindicalização, no artigo cento e quarenta e dois, parágrafo terceiro, inciso quatro.
+BRUNO: Para o cargo de Agente da Polícia Judicial, a vedação do Tema quinhentos e quarenta e um atinge quem atua diretamente na segurança pública. A apostila manda conferir no edital e na jurisprudência o enquadramento específico da Polícia Judicial.
+THALITA: Então não vou afirmar nada além disso na prova.
+== SLIDE: Resumo relâmpago da aula
+* Sindical: autorização individual, prévia e expressa (ADI 5794)
+* Confederativa só filiados (SV 40); assistencial com oposição (Tema 935)
+* Acordo prevalece sobre convenção; ultratividade vedada
+* 611-A exemplificativo, 611-B taxativo; greve: 48 e 72 horas
+ANTONIO: Vamos fechar com o resumo.
+THALITA: Hora do resumo relâmpago do que mais cai na FCC! Primeiro: contribuição sindical só com autorização individual, prévia e expressa. Confederativa só de filiado, Súmula Vinculante quarenta. Assistencial pode alcançar toda a categoria, se for prevista em acordo ou convenção e houver direito de oposição, Tema novecentos e trinta e cinco.
+BRUNO: Acrescente: acordo coletivo sempre prevalece sobre convenção, artigo seiscentos e vinte. Duração máxima de dois anos, sem ultratividade. O depósito é em oito dias e a vigência começa em três dias.
+THALITA: Isso! Rol do seiscentos e onze-A é exemplificativo, o do seiscentos e onze-B é taxativo. Intervalo mínimo de trinta minutos pode ser negociado, adicional de horas extras de cinquenta por cento, não. O Tema mil e quarenta e seis valida limitação sem contrapartida explícita, respeitados os direitos absolutamente indisponíveis.
+FRANCISCA: E na greve: suspensão do contrato, aviso de quarenta e oito horas, ou setenta e duas horas nas essenciais, a empregadores e usuários. Dispensa e substituição só com abuso. Lockout é vedado, com salários devidos.
+THALITA: Competência é da Justiça do Trabalho, e o Ministério Público do Trabalho pode ajuizar dissídio em atividade essencial. Servidores: Justiça comum julga abusividade, e policiais não podem fazer greve. Fechei?
+BRUNO: Fechou com chave de ouro. Estude esses números e as trocas de palavras, porque é onde a banca pega.
+ANTONIO: Chegamos ao fim desta aula. Bons estudos e até a próxima!
