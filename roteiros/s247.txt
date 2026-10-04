@@ -1,0 +1,87 @@
+SEGMENTO s247
+== SLIDE: Registro, porte e requisitos de aquisição
+* Lei 10.826/2003: SINARM, aquisição, registro, porte
+* Registro: arma dentro de casa ou do local de trabalho
+* Porte: levar a arma consigo; proibido, salvo exceções
+* Requisitos do art. 4º; idade mínima 25 anos
+* Inciso XI não está entre as exceções de idade
+ANTONIO: Terminamos o uso da força e agora entramos no Estatuto do Desarmamento, a Lei dez mil oitocentos e vinte e seis, de dois mil e três. A sequência é: SINARM, na Polícia Federal, depois aquisição, registro, porte, que em regra é proibido, e por fim os crimes. O regulamento vigente é o Decreto onze mil seiscentos e quinze, de dois mil e vinte e três.
+THALITA: Registro e porte não são a mesma coisa?
+FRANCISCA: Não, e a banca adora essa confusão. O registro autoriza manter a arma dentro da residência ou do local de trabalho, se o titular for responsável pelo estabelecimento. O porte autoriza levar a arma consigo, fora desses locais.
+BRUNO: Os dois são expedidos pela Polícia Federal, depois da autorização do SINARM. Mas o registro é direito de quem cumpre os requisitos. Já o porte é proibido em todo o território, salvo as exceções do artigo sexto.
+THALITA: Então registro é dentro, porte é fora.
+ANTONIO: Isso. E para adquirir, o artigo quarto pede: declarar efetiva necessidade, comprovar idoneidade, com certidões e sem responder a inquérito ou processo, ter ocupação lícita e residência certa, e comprovar capacidade técnica e aptidão psicológica.
+FRANCISCA: Soma-se a idade mínima de vinte e cinco anos, do artigo vinte e oito. As exceções são integrantes dos incisos primeiro, segundo, terceiro, quinto, sexto, sétimo e décimo do artigo sexto.
+BRUNO: E olha a pegadinha do século. O inciso décimo primeiro, dos tribunais e do Ministério Público, não está entre as exceções. Então um policial judicial de vinte e dois anos não pode adquirir arma particular.
+THALITA: Mas ele pode andar armado a serviço?
+FRANCISCA: Pode, com o porte funcional, só que da arma institucional, que pertence ao tribunal.
+BRUNO: Resumindo: idade não é exceção para o policial judicial, e o porte funcional é da arma da instituição.
+== SLIDE: Porte funcional e o artigo 7º-A
+* Incisos I a III: Forças Armadas, órgãos do art. 144, guardas
+* Incisos V a X: ABIN, polícias legislativas, agentes prisionais
+* Inciso XI: tribunais e MPs, servidores em funções de segurança
+* Arma da instituição; registro e porte em nome dela
+* Até 50% dos servidores em funções de segurança
+FRANCISCA: Vamos ao porte funcional, no artigo sexto. Os incisos primeiro a terceiro alcançam as Forças Armadas, os órgãos do artigo cento e quarenta e quatro, incisos primeiro a quinto, a Força Nacional e as guardas municipais. Os limites populacionais antes exigidos para guardas foram derrubados nas ADIs cinco mil quinhentos e trinta e oito e cinco mil novecentos e quarenta e oito.
+THALITA: E os outros incisos?
+ANTONIO: Do quinto ao décimo temos a ABIN e o GSI, polícias legislativas, agentes prisionais e escoltas, segurança privada, desportistas, e auditores da Receita e do Trabalho.
+BRUNO: E o inciso décimo primeiro é o nosso: tribunais, do artigo noventa e dois da Constituição, e Ministérios Públicos. O uso é exclusivo de servidores efetivamente em funções de segurança, conforme regulamento do CNJ e do CNMP.
+THALITA: Só servidor de segurança? Não é todo mundo do tribunal?
+BRUNO: Só quem está em função de segurança. Se a questão disser todos os servidores, erra.
+FRANCISCA: O artigo sétimo A detalha. A propriedade das armas é da instituição, que responde por elas e as guarda. Registro e porte são expedidos pela Polícia Federal em nome da instituição, e não há taxa.
+ANTONIO: E o limite: o presidente do tribunal designa os portadores, até cinquenta por cento dos servidores em funções de segurança.
+THALITA: Então no máximo metade pode portar.
+FRANCISCA: Segundo a Resolução quatrocentos e sessenta e sete do CNJ, alterada pela quinhentos e sessenta e seis de dois mil e vinte e quatro, esse limite se aplica só aos portes simultâneos no dia de serviço. E ela permite estender o porte para a defesa pessoal fora de serviço.
+BRUNO: Mas confira sempre o texto oficial, e leia o comando da questão para ver qual norma ela cobra.
+== SLIDE: Crimes do Estatuto: artigos 12 a 18
+* Art. 12: posse irregular de uso permitido, 1 a 3 anos
+* Art. 14: porte ilegal de uso permitido, 2 a 4 anos
+* Art. 16: uso restrito, 3 a 6 anos; proibido, 4 a 12
+* Arts. 17 e 18: comércio ilegal e tráfico internacional, hediondos
+* Aumentos dos arts. 19, 20 e 21-A
+ANTONIO: Agora os crimes, dos artigos doze a dezoito. O doze é a posse irregular de arma de uso permitido, na residência ou no trabalho, com detenção de um a três anos. Cabe suspensão condicional do processo.
+THALITA: E o treze?
+FRANCISCA: Omissão de cautela: o menor de dezoito anos, ou pessoa com deficiência mental, se apodera da arma. Detenção de um a dois anos, e é crime de menor potencial ofensivo.
+BRUNO: O catorze é o porte ilegal de arma de uso permitido, reclusão de dois a quatro anos. O quinze é o disparo em lugar habitado ou via pública, sem visar a outro crime, também de dois a quatro anos. A inafiançabilidade desses dois foi declarada inconstitucional na ADI três mil cento e doze.
+THALITA: E o dezesseis?
+ANTONIO: Posse ou porte de arma de uso restrito, reclusão de três a seis anos, com figuras do parágrafo primeiro, como numeração raspada e venda a criança. Se a arma for de uso proibido, o parágrafo segundo eleva para quatro a doze anos.
+FRANCISCA: O dezessete é o comércio ilegal, reclusão de seis a doze anos, e o dezoito é o tráfico internacional, de oito a dezesseis. Ambos são hediondos.
+BRUNO: E aqui vem a pegadinha da hediondez. No artigo dezesseis, só a arma de uso proibido é hedionda. Arma de uso restrito não é. Os artigos dezessete e dezoito são sempre hediondos. E a vedação de liberdade provisória do artigo vinte e um caiu na ADI três mil cento e doze.
+THALITA: Então dezesseis restrito não é hediondo, dezesseis proibido é.
+FRANCISCA: Quanto aos aumentos, a metade no artigo dezenove, para os artigos dezessete e dezoito com arma proibida ou restrita. A metade no artigo vinte, para os artigos catorze a dezoito praticados por integrante dos órgãos dos artigos sexto, sétimo e oitavo, ou por reincidente específico. E dois terços no artigo vinte e um A, para os artigos doze, catorze e dezesseis ligados ao tráfico de drogas, pela Lei quinze mil trezentos e cinquenta e oito, de dois mil e vinte e seis.
+ANTONIO: Confira se esse artigo vinte e um A é anterior ao edital.
+== SLIDE: Segurança pública e polícia judicial
+* Art. 144: PF, PRF, PFF, polícias civis, PMs, bombeiros, polícias penais
+* Guardas municipais: ADPF 995 e SUSP
+* Polícia judicial não consta do art. 144
+* Poder de polícia administrativa, interno aos tribunais
+* Res. CNJ 344/2020 e Res. CSJT 315/2021
+THALITA: Agora a segurança pública. Quem está no artigo cento e quarenta e quatro?
+FRANCISCA: Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, polícias civis, polícias militares e corpos de bombeiros, e polícias penais, incluídas pela Emenda Constitucional cento e quatro, de dois mil e dezenove, com a segurança dos estabelecimentos penais no parágrafo quinto A.
+BRUNO: As guardas municipais estão no parágrafo oitavo e protegem bens, serviços e instalações do Município. Na ADPF novecentos e noventa e cinco, o STF decidiu que integram o sistema de segurança pública. O Tema seiscentos e cinquenta e seis de repercussão geral reconhece o policiamento ostensivo e comunitário, mas confira a tese.
+ANTONIO: O SUSP, da Lei treze mil seiscentos e setenta e cinco, de dois mil e dezoito, cria o Sistema Único e a Política Nacional de Segurança Pública, e as guardas municipais são integrantes operacionais.
+THALITA: E a polícia judicial, está no cento e quarenta e quatro?
+BRUNO: Não! E essa é a pegadinha central. A polícia judicial não consta do artigo cento e quarenta e quatro. É poder de polícia administrativa interna dos tribunais, na Resolução trezentos e quarenta e quatro do CNJ.
+FRANCISCA: Afirmar que a polícia judicial integra a segurança pública como polícia judiciária é falso.
+THALITA: Então polícia judicial é administrativa e interna, e polícia judiciária é a que investiga.
+ANTONIO: Exatamente. A base é a Resolução trezentos e quarenta e quatro do CNJ, de dois mil e vinte, alterada pela quatrocentos e trinta, de dois mil e vinte e um, que a Resolução trezentos e quinze do CSJT consolidou na Justiça do Trabalho, republicada em março de dois mil e vinte e seis pela Resolução quatrocentos e trinta e dois.
+== SLIDE: Poder de polícia judicial e Resolução CSJT 315
+* Presidente do tribunal responde pelo poder de polícia
+* Flagrante: voz de prisão e custódia até a autoridade policial
+* CNH categoria B; abuso da força é infração funcional
+* Prazo de implantação nos TRTs: 12 meses
+* Porte: designação discricionária e precária, validade de 3 anos
+* GAS de 35%; IMPO mínimo de dois instrumentos
+BRUNO: Vamos ao conceito. Quem responde pelo poder de polícia judicial é o presidente do tribunal. Exercem esse poder ele, os magistrados que presidem turmas, sessões e audiências, e os agentes e inspetores.
+FRANCISCA: A finalidade é a boa ordem dos trabalhos, a proteção de bens e serviços e a incolumidade de magistrados, servidores, advogados, partes e frequentadores. O técnico ou analista da especialidade Segurança passou a se chamar Agente ou Inspetor da Polícia Judicial.
+THALITA: E se acontecer um flagrante no tribunal?
+ANTONIO: Presidente, magistrados e agentes dão voz de prisão e mantêm o preso sob custódia até entregá-lo à autoridade policial. A CNH exigida é no mínimo categoria B, para o cargo e para escolta, segurança pessoal, policiamento ostensivo e condução de veículos. E o uso desnecessário ou imoderado da força é infração funcional, apurada com contraditório.
+FRANCISCA: Na Resolução trezentos e quinze do CSJT, o prazo de implantação nos TRTs é de doze meses. Os gestores são agentes e inspetores do próprio quadro, com exceção motivada. As medidas mínimas incluem controle de fluxo, crachá, câmeras, pórtico detector para todos, raio X, cofre para armas e proibição de ingresso armado.
+THALITA: Todos passam pelo pórtico?
+BRUNO: Com ressalvas: magistrados, escolta de presos e policiais judiciais lotados no prédio. Já o porte é designação discricionária e precária, com documento de validade de três anos, renovável. Ao portar, a pessoa leva autorização de porte, identidade funcional e distintivo.
+ANTONIO: Embriaguez ou disparo culposo levam à suspensão do porte de seis meses a três anos, que não é pena. Todo agente deve ter no mínimo dois instrumentos de menor potencial ofensivo e equipamento de proteção, armado ou não.
+FRANCISCA: A capacitação tem dezessete disciplinas mínimas. A GAS é de trinta e cinco por cento do vencimento básico, com reciclagem anual, setenta por cento de nota, setenta e cinco por cento de frequência e teste físico. A carteira funcional tem fé pública em todo o país.
+BRUNO: E o alerta final: a CSJT trezentos e quinze mantém três anos para o porte, enquanto a Resolução quatrocentos e sessenta e sete do CNJ, na redação da quinhentos e sessenta e seis, fala em prazo indeterminado, com testes a cada cinco anos. Se a questão disser segundo a CSJT trezentos e quinze, é três anos.
+THALITA: Deixa eu arriscar o resumo. Registro é dentro de casa, porte é fora. Policial judicial não tem exceção de idade para comprar arma, e o porte é da arma do tribunal, para quem está em função de segurança. Hediondo no artigo dezesseis é só o uso proibido. E polícia judicial é administrativa, não está no artigo cento e quarenta e quatro. Acertei?
+ANTONIO: Acertou tudo, e ficou muito bom para memorizar.
+THALITA: Anotei. Agora a próxima parte é legislação penal especial e as questões comentadas.
