@@ -1,0 +1,85 @@
+SEGMENTO s019
+== SLIDE: Questão um: negação da condicional
+* Negação de se p então q: p e não q
+* A inversa é outra condicional; a contrapositiva é equivalente
+* Negar a parte errada ou aplicar De Morgan à condicional são erros
+* Gabarito: Tereza termina o relatório e não sai mais cedo
+ANTONIO: Terminamos a teoria de estatística. Agora, a primeira parte das questões comentadas de Matemática e Raciocínio Lógico. Vamos começar pela lógica.
+THALITA: Lógica me dá medo, mas vamos.
+BRUNO: Questão um, analista judiciário. Considere a afirmação: se Tereza termina o relatório, então ela sai mais cedo. Uma afirmação que corresponde à negação lógica é: a primeira, se Tereza não termina o relatório, então ela não sai mais cedo. A segunda, Tereza termina o relatório e não sai mais cedo. A terceira, Tereza não termina o relatório e sai mais cedo. A quarta, se Tereza não sai mais cedo, então ela não termina o relatório. A quinta, Tereza não termina o relatório ou não sai mais cedo. Pausa para você pensar.
+FRANCISCA: O gabarito é a segunda. Chame de p terminar o relatório e de q sair mais cedo. A negação de se p então q é p e não q: mantém o antecedente, troca o se então por e, e nega o consequente. É a única linha que torna a condicional falsa, verdadeiro seguido de falso.
+THALITA: Por que a primeira não serve?
+BRUNO: A primeira é a inversa, outra condicional, nem negação nem equivalente. Basta ver que as duas podem ser verdadeiras ao mesmo tempo, quando Tereza termina e sai cedo.
+ANTONIO: A terceira, não p e q, é uma linha em que a condicional original é verdadeira, falso seguido de verdadeiro dá verdadeiro. O erro é negar a parte errada.
+THALITA: Deixa eu ver se entendi o macete. Para negar um se então, eu mantenho o primeiro pedaço, troco o se então por e, e nego o segundo pedaço. Se eu tentar negar trocando a ordem ou negando os dois lados, eu caio numa pegadinha, não é? Vou anotar essa receita no caderno, porque ela aparece sempre.
+FRANCISCA: A quarta é a contrapositiva, equivalente à original, e não sua negação. A quinta, não p ou não q, é a negação de p e q, pelo De Morgan, não de se p então q. Erro: aplicar De Morgan à condicional.
+== SLIDE: Questões dois e três: diagramas e equivalências
+* Todo A é B não autoriza todo B é A
+* Algum servidor do setor Xis fora dos bacharéis está fora dos oficiais
+* Negação de todo é algum não
+* De Morgan: negação do e vira ou
+THALITA: Questão dois: duas premissas. Todo oficial de justiça avaliador é bacharel em Direito. Algum servidor do setor Xis não é bacharel em Direito. É necessariamente verdadeiro que: primeira, nenhum servidor do setor Xis é oficial. Segunda, algum oficial não é servidor do setor Xis. Terceira, todo bacharel é oficial. Quarta, algum servidor do setor Xis não é oficial. Quinta, algum bacharel é servidor do setor Xis. Pausa para você pensar.
+BRUNO: A quarta. Desenhe os oficiais dentro do círculo dos bacharéis. Existe um servidor do setor Xis fora dos bacharéis, logo fora dos oficiais, que ficam dentro. Esse servidor garante que algum servidor do setor não é oficial.
+FRANCISCA: A primeira é possível, mas não necessária: o setor pode ter bacharéis oficiais, desde que tenha também um não bacharel. A segunda: as premissas nada dizem sobre oficiais fora do setor. A terceira é a recíproca da primeira premissa, e todo A é B não autoriza todo B é A. A quinta: a segunda premissa garante um servidor fora dos bacharéis, não um dentro.
+THALITA: Então, nos diagramas, a regra é desenhar só o que as premissas obrigam. O que é possível mas não obrigatório não vale como resposta. Preciso me lembrar de que a palavra necessariamente é o que separa a certa das erradas nessas questões, e de que a recíproca nunca vem de graça.
+ANTONIO: Questão três, três afirmações. Um: a negação de todo servidor da vara é pontual é algum servidor da vara não é pontual. Dois: se Bruno é técnico, então Carla é analista, equivale a se Carla não é analista, então Bruno não é técnico. Três: não é verdade que Bruno é técnico e Carla é analista equivale a Bruno não é técnico e Carla não é analista. Quais estão corretas? Pausa para você pensar.
+THALITA: Eu marcaria um e dois, e o três me parece estranho.
+BRUNO: Acertou: gabarito, a segunda alternativa, um e dois. O um: negação de todo é algum não, um contraexemplo basta. O dois é a contrapositiva, equivalente. O três está errado: pelo De Morgan, a negação de p e q é não p ou não q. O correto seria Bruno não é técnico ou Carla não é analista.
+FRANCISCA: As demais: a primeira ignora o dois. A terceira inclui o três, que mantém o e depois de negar as partes. Basta testar: Bruno técnico e Carla não analista torna a primeira frase verdadeira e a segunda falsa. A quarta e a quinta incluem o três, errado, ou excluem o um.
+== SLIDE: Questão quatro: quem mente
+* Davi e Bruno formam par contraditório
+* Só uma verdade: Ana e Carla mentem
+* Carla mentindo em não fui eu: Carla é a culpada
+* Gabarito: Carla esqueceu e Davi disse a verdade
+ANTONIO: Questão quatro. Um de quatro servidores esqueceu a sala aberta. Ana diz foi o Bruno. Bruno diz foi o Davi. Carla diz não fui eu. Davi diz o Bruno está mentindo. Só um disse a verdade. Quem esqueceu e quem disse a verdade, respectivamente? Primeira: Ana e Carla. Segunda: Bruno e Ana. Terceira: Davi e Bruno. Quarta: Carla e Bruno. Quinta: Carla e Davi. Pausa para você pensar.
+FRANCISCA: Gabarito, a quinta. Bruno e Davi formam um par contraditório, porque Davi diz que Bruno mente. Então exatamente um dos dois fala a verdade. Como só há uma verdade, Ana e Carla mentem. Carla mente em não fui eu, então ela é a culpada. Conferindo: Ana falsa, Bruno falso, Carla falsa, Davi verdadeiro. Uma única verdade, Davi.
+THALITA: Então o par contraditório já resolveu metade.
+BRUNO: Exato. As erradas testam outras hipóteses. Se a culpada fosse Ana, Carla e Davi diriam a verdade, duas verdades. Se fosse Bruno, três verdades. Se fosse Davi, Bruno e Carla verdadeiros. E a quarta acerta a culpada, mas Bruno mente quando a culpada é Carla. Só acerta metade.
+THALITA: Nessas de mentira, o jeito é procurar logo o par contraditório, porque ele corta o problema ao meio. Depois eu só confiro cada hipótese contando quantas verdades saem. Se der um número diferente do enunciado, descarto a alternativa e passo para a próxima sem dó.
+ANTONIO: Questão cinco, associação. Lúcia, Márcio e Tereza, em Nazaré, Marco e Umarizal, com carro, moto e ônibus. Um: Lúcia não atua em Nazaré nem no Marco. Dois: quem atua em Nazaré usa ônibus. Três: Tereza usa carro. A primeira alternativa diz Tereza atua no Marco e Lúcia usa moto. Pausa para você pensar.
+FRANCISCA: É essa mesma. Lúcia está no Umarizal. Tereza usa carro, e quem está em Nazaré usa ônibus, então Tereza não está em Nazaré, está no Marco. Sobra Nazaré para Márcio, de ônibus. Sobra a moto para Lúcia.
+BRUNO: As erradas: Márcio atua em Nazaré, não no Marco. O carro é de Tereza, não de Lúcia. O ônibus é de Nazaré, e no Umarizal Lúcia usa moto. E Tereza em Nazaré contradiz a segunda informação.
+== SLIDE: Questões seis e sete: sequências
+* Sequência cinco, nove, sete, onze: mais quatro, menos dois
+* Termos pares formam progressão de razão dois
+* O quadragésimo termo é o vigésimo termo par: quarenta e sete
+* Letras: mais três, menos um, no alfabeto de vinte e seis
+ANTONIO: Questão seis. Sequência cinco, nove, sete, onze, nove, treze, onze. O quadragésimo termo é: quarenta e três, quarenta e cinco, quarenta e nove, quarenta e sete ou oitenta e cinco? Pausa para você pensar.
+BRUNO: Gabarito, quarenta e sete. A lei é mais quatro, menos dois, alternados. Os termos de posição par, nove, onze, treze, formam uma progressão de razão dois. O quadragésimo é o vigésimo termo par: nove mais dezenove vezes dois, quarenta e sete.
+THALITA: E as outras? Parecem todas razoáveis.
+FRANCISCA: Quarenta e três é o trigésimo nono, aplicou a fórmula dos ímpares ao par. Quarenta e cinco é o quadragésimo primeiro, erro de contagem de pares. Quarenta e nove é o quadragésimo segundo, usou vinte em vez de dezenove. E oitenta e cinco supôs aumento de dois a cada termo, mas o aumento líquido é dois a cada dois termos.
+THALITA: Nas sequências, o melhor é achar a lei por pares de termos e escrever a fórmula da progressão. Quando eu erro um número só, a banca já tem a alternativa pronta com o meu engano, então conto de novo as posições antes de marcar. Também confiro se o termo pedido é par ou ímpar.
+ANTONIO: Questão sete: alfabeto de vinte e seis letras. A sequência é bê, ê, dê, gê, efe, a nona letra, agá, e pede duas letras. Pausa para você pensar.
+BRUNO: Pelas posições: dois, cinco, quatro, sete, seis, nove, oito. O padrão é mais três, menos um. Próximos: oito mais três, onze, que é a letra cá; onze menos um, dez, a letra jota. Cá e jota.
+FRANCISCA: Ele e jota seria o alfabeto sem a letra cá, de vinte e três. Jota e a nona letra aplicou mais dois. Ele e cá aplicou mais quatro. E cá e eme acertou o cá, mas aplicou mais dois em seguida, ignorando a alternância.
+== SLIDE: Questões oito e nove: calendário e múltiplos
+* Primeiro de fevereiro a primeiro de maio: oitenta e nove dias
+* Oitenta e nove dividido por sete deixa resto cinco
+* Rotinas a cada oito, doze e vinte dias: mínimo múltiplo comum, cento e vinte
+* Cento e vinte dias a partir de segunda: terça-feira
+THALITA: Questão oito, calendário. Em ano não bissexto, primeiro de fevereiro caiu numa segunda-feira. Primeiro de maio caiu em: quarta, sexta, domingo, segunda ou sábado? Pausa para você pensar.
+ANTONIO: Sábado. De primeiro de fevereiro a primeiro de maio: vinte e oito de fevereiro, mais trinta e um de março, mais trinta de abril, oitenta e nove dias. Oitenta e nove é sete vezes doze, mais cinco. Segunda mais cinco, sábado.
+BRUNO: As erradas: quarta considerou todos os meses com trinta e um dias, noventa e três. Sexta contou só até trinta de abril, oitenta e oito. Domingo tratou o ano como bissexto, noventa dias. E segunda supôs treze semanas exatas.
+FRANCISCA: Questão nove: rotinas de cópia a cada oito, doze e vinte dias, executadas juntas numa segunda-feira. A próxima vez em que as três serão executadas no mesmo dia cairá numa terça, quarta, sexta, sábado ou segunda? Pausa para você pensar.
+ANTONIO: Terça. Fatorando: oito é dois ao cubo, doze é dois ao quadrado vezes três, vinte é dois ao quadrado vezes cinco. Mínimo múltiplo comum: cento e vinte dias. Cento e vinte é sete vezes dezessete, mais um. Segunda mais um, terça-feira.
+BRUNO: Quarta vem de multiplicar os intervalos ou errar o mínimo múltiplo, ambos com resto dois. Sexta usou o máximo divisor comum, quatro dias, no lugar do mínimo múltiplo comum. Sábado somou os intervalos, quarenta. E segunda supôs, sem calcular, que o ciclo fecharia em semanas completas, mas cento e vinte não é múltiplo de sete.
+== SLIDE: Questões dez e onze: frações e regra de três composta
+* Frações que sobram: três quartos, três quintos, dois terços
+* Fração final: três décimos do salário
+* Regra de três composta: oito sobre doze, seis sobre cinco, quatro mil e quinhentos sobre três mil
+* Resposta: doze dias
+THALITA: Em calendário e múltiplos, o que vale é o resto da divisão por sete. Quando o enunciado fala de coincidir de novo, eu penso em mínimo múltiplo comum, e não em soma ou produto. E a contagem de dias, mês a mês, eu confiro duas vezes, porque um dia a mais já muda o dia da semana inteiro.
+ANTONIO: Questão dez. Carla gastou um quarto do salário com aluguel, dois quintos do restante com alimentação e um terço do que sobrou com transporte, restando mil e oitocentos reais. O salário é: quatro mil, seis mil, nove mil, doze mil ou cento e oito mil reais? Pausa para você pensar.
+FRANCISCA: Seis mil reais. Pense nas frações que sobram. Depois do aluguel, três quartos. Depois da alimentação, três quintos do resto. Depois do transporte, dois terços do resto. A fração final é três quartos vezes três quintos vezes dois terços, dezoito sessenta avos, três décimos. Três décimos do salário igual a mil e oitocentos, salário seis mil.
+BRUNO: Confira: seis mil menos mil e quinhentos, quatro mil e quinhentos. Menos mil e oitocentos, dois mil e setecentos. Menos novecentos, mil e oitocentos. Fecha.
+THALITA: E o erro de quatro mil?
+BRUNO: Esqueceu a etapa do transporte. Nove mil usou dois quintos como se fosse a fração que sobra. Doze mil usou um terço, o gasto, como sobra. E cento e oito mil somou as frações como se incidissem sobre o total.
+FRANCISCA: Questão onze, a última. Oito servidores, seis horas por dia, digitalizam três mil páginas em dez dias. Doze servidores, cinco horas por dia, digitalizarão quatro mil e quinhentas páginas em: oito, dez, doze, dezoito ou vinte e sete dias? Pausa para você pensar.
+ANTONIO: Doze dias. Servidores e dias, inversa: oito sobre doze. Horas e dias, inversa: seis sobre cinco. Páginas e dias, direta: quatro mil e quinhentos sobre três mil. Dez vezes dois terços vezes seis quintos vezes três meios, doze.
+BRUNO: Pelo homem-hora: oito vezes seis vezes dez, quatrocentos e oitenta, para três mil páginas. Quatro mil e quinhentas exigem setecentos e vinte. Doze vezes cinco são sessenta por dia, e setecentos e vinte sobre sessenta, doze dias.
+THALITA: E as erradas?
+FRANCISCA: Oito dias ignorou o aumento de páginas. Dez dias ignorou a mudança de horas. Dezoito ignorou o número de servidores. E vinte e sete tratou servidores como direta, mais servidores, mais dias.
+BRUNO: Para quem erra a regra de três composta, minha dica é sempre conferir pelo homem-hora, como fizemos agora. Se os dois métodos baterem, pode marcar sem medo.
+THALITA: Então a lição das questões de hoje é parecida: ler o enunciado devagar, montar o esquema na folha, resolver passo a passo e depois confrontar o resultado com os erros típicos que a banca coloca nas outras alternativas. Cada alternativa errada, aqui, tinha uma história de engano por trás, e conhecer essa história ajuda a não cair.
+FRANCISCA: Perfeito, Thalita. É isso que faz diferença: o aluno que conhece o erro típico reconhece a armadilha antes de cair nela, e ganha tempo na prova para conferir as demais questões com calma.
+ANTONIO: Muito bem. Esse foi o primeiro bloco de questões da aula. No próximo, a segunda parte das questões comentadas de Matemática e Raciocínio Lógico, estilo FCC. Vamos lá.
