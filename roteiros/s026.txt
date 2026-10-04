@@ -1,0 +1,89 @@
+SEGMENTO s026
+== SLIDE: Aula 8: Regimento Interno do TRT da Oitava Região
+* Texto-base atualizado em 22 de junho de 2026 (versão do edital)
+* Últimas alterações: Atos Regimentais 24 e 25
+* Sede em Belém; jurisdição no Pará e no Amapá
+* 23 Desembargadores: 18 de carreira e 5 do quinto constitucional
+ANTONIO: Olá, pessoal, bem-vindos! Esta é a aula oito do nosso curso, e o tema é o Regimento Interno do Tribunal Regional do Trabalho da Oitava Região. Hoje é a primeira parte da disciplina. Vamos ver a organização e a composição do tribunal, a eleição dos dirigentes e, por fim, quem julga o quê: Pleno, Seções e Turmas.
+THALITA: Eu sou a Thalita, concurseira como você. Vou perguntar tudo o que você perguntaria, e depois tento resumir com macete.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase e os exemplos concretos, para a regra sair do papel.
+BRUNO: E eu sou o Bruno, especialista em FCC. Meu trabalho é mostrar onde a banca arma a pegadinha.
+ANTONIO: Um aviso importante antes de começar. O texto-base é o Regimento atualizado em vinte e dois de junho de dois mil e vinte e seis, baixado do portal oficial do tribunal. É a versão indicada no edital. As últimas mudanças foram os Atos Regimentais vinte e quatro e vinte e cinco, dessa mesma data.
+BRUNO: Ou seja, se você estudou por versão antiga, atualize. A banca cobra o texto vigente, e a novidade de junho pode virar questão.
+THALITA: Beleza. Então, para começar: quantos desembargadores tem o tribunal?
+FRANCISCA: Vinte e três, todos vitalícios, nomeados pelo Presidente da República. É o artigo segundo. A sede é em Belém, e a jurisdição abrange o Pará e o Amapá. Dos vinte e três, dezoito vêm por promoção entre os titulares de Vara do Trabalho, no critério alternado de antiguidade e merecimento.
+THALITA: E os outros cinco?
+FRANCISCA: É o quinto constitucional. Dois vêm da advocacia, no efetivo exercício da profissão. Dois vêm do Ministério Público da União, junto à Justiça do Trabalho. E a quinta cadeira alterna: ora um advogado, ora um procurador do trabalho.
+ANTONIO: Guarde a conta: dezoito de carreira, dois, dois e um alternado. Dezoito mais cinco dá vinte e três.
+BRUNO: E tem um detalhe que a FCC adora. Na lista tríplice do quinto, só votam os membros efetivos. O artigo vinte e seis diz isso. Juiz convocado não vota.
+THALITA: Entendi. Convocado ajuda a julgar, mas não escolhe quem entra pelo quinto.
+== SLIDE: Órgãos do tribunal e pegadinhas do artigo terceiro
+* Pleno: todos os Desembargadores e os convocados durante a convocação
+* SE I e SE II: 11 membros cada; SE I com o Vice, SE II com o Corregedor
+* 4 Turmas de 5 membros; julgam 3 (art. 31)
+* Ouvidoria fora do art. 3º; não há Órgão Especial
+* Parentesco até o 3º grau; foro: STJ
+ANTONIO: Vamos aos órgãos, que estão no artigo terceiro. Primeiro, o Tribunal Pleno: todos os desembargadores, mais os juízes convocados enquanto durar a convocação. Depois, duas Seções Especializadas, a primeira e a segunda, com onze desembargadores cada.
+FRANCISCA: A Seção Especializada Um é presidida pelo Vice-Presidente. A Seção Especializada Dois é presidida pelo Corregedor. Isso está no artigo vinte e sete, alíneas a e b.
+THALITA: E as Turmas?
+FRANCISCA: São quatro, com cinco desembargadores cada. Mas só três julgam: o relator e os que o sucedem em antiguidade. Artigo trinta e um, parágrafo terceiro.
+ANTONIO: Há ainda a Presidência, a Vice-Presidência e a Corregedoria, que são cargos de direção eleitos. Também aparecem o Conselho da Ordem do Mérito Jus et Labor e a Escola da Magistratura, a EMATRA Oito, cujos dirigentes o Pleno elege.
+BRUNO: Agora as pegadinhas. Primeira: a Ouvidoria não está no artigo terceiro. Ela só aparece no artigo duzentos e noventa e três, parágrafo primeiro, como unidade vinculada à Presidência. Segunda: Presidente, Vice e Corregedor não integram Turma, artigo trinta e dois. Terceira: o TRT oito não tem Órgão Especial.
+THALITA: Macete: dirigente não senta em Turma, e Órgão Especial não existe. Se a questão disser que existe, errado.
+BRUNO: Perfeito.
+FRANCISCA: Outras regras de composição. Cônjuges e parentes, em linha reta ou colateral até o terceiro grau, não se sentam na mesma Turma ou Seção. No Pleno, o primeiro que votar exclui o outro. É o artigo quinto.
+ANTONIO: As vedações estão no artigo nono: outro cargo, salvo um de magistério, recebimento de custas ou participações e atividade político-partidária.
+THALITA: E se o desembargador cometer um crime?
+FRANCISCA: Crimes comuns e de responsabilidade são julgados pelo Superior Tribunal de Justiça, artigo dez. E a antiguidade conta-se do efetivo exercício. Havendo empate, desempata-se pela posse, depois pela nomeação, pela colocação no concurso, pelo tempo de serviço público e, por último, pela idade.
+== SLIDE: Eleição e mandato dos dirigentes
+* Votam os efetivos, na 1ª quinzena de outubro, escrutínio único e secreto
+* Elegíveis: só os 3 mais antigos não impedidos pela LOMAN
+* Mandato de 2 anos, sem reeleição; posse até 8 de dezembro
+* Maioria absoluta dos votos válidos
+* Quatro anos de direção: sai da lista de elegíveis (art. 14, § 4º)
+ANTONIO: Passamos à eleição dos dirigentes. Quem vota são os membros efetivos, na primeira quinzena de outubro, em escrutínio único e secreto. Artigo catorze, parágrafo segundo.
+THALITA: E qualquer desembargador pode concorrer?
+FRANCISCA: Não. Concorrem exclusivamente os três mais antigos que não estejam impedidos pela LOMAN. O mandato é de dois anos, vedada a reeleição, e a posse acontece até oito de dezembro. A vitória exige maioria absoluta dos votos válidos. Havendo empate, novo escrutínio. Persistindo, vence o mais antigo e depois o mais idoso.
+BRUNO: Cuidado com o parágrafo quarto. Quem exerceu cargo de direção por quatro anos não figura mais entre os elegíveis, até que se esgotem todos os nomes, na ordem de antiguidade. É a mesma lógica do artigo cento e dois da LOMAN. E só contam como direção Presidente, Vice e Corregedor. Presidir Turma não conta.
+THALITA: Então, quem foi Presidente de Turma pode ser candidato normalmente?
+BRUNO: Sem prejuízo nenhum.
+ANTONIO: A ordem da eleição é Presidente, Vice e Corregedor, com dois escrutinadores. O ausente pode votar pelo correio, desde que o voto chegue até o dia anterior à eleição. E a recusa do cargo, que é um múnus, só vale por motivo ponderável, apresentado antes da eleição, a critério da maioria.
+FRANCISCA: Um detalhe prático: a distribuição de processos fica suspensa sessenta dias antes da posse.
+THALITA: E se o presidente sair no meio do mandato?
+FRANCISCA: Depende do tempo. Imagine que a Presidente tomou posse em dezembro de dois mil e vinte e cinco e se aposentou em março de dois mil e vinte e seis. Faltava muito, menos de um ano de mandato. Haverá nova eleição na sessão seguinte, e o eleito apenas completa o biênio. Agora, se a aposentadoria fosse em fevereiro de dois mil e vinte e sete, já passado o primeiro ano, o Vice assumiria até o fim, sem eleição, e o mais antigo assumiria a Vice.
+ANTONIO: E o Presidente de Turma é eleito pelos pares na primeira sessão ordinária após a posse da Administração, por dois anos, sem reeleição. Na vacância, assume o mais antigo, salvo vaga antes de um ano, que gera nova eleição.
+== SLIDE: Competências: Pleno, Seções e Turmas
+* Pleno: atos do próprio tribunal, inconstitucionalidade, IUJ, IRDR, IAC, reclamação
+* Seções: HC, MS contra juiz de Vara, rescisórias, conflitos entre Varas
+* SE I: exclusiva em dissídio coletivo e greve (art. 30)
+* Turmas: recursos ordinários, agravos de petição e de instrumento
+* Das Turmas não cabe recurso ao Pleno nem à Seção (art. 36)
+THALITA: Bom, eleição entendida: três mais antigos, dois anos, sem reeleição, posse até oito de dezembro. Agora vem a parte que eu mais confundo, que é saber quem julga o quê. Dá para organizar isso?
+ANTONIO: Dá, e é a parte mais cobrada: a competência de cada órgão. Em resumo, o Pleno julga atos do próprio tribunal e de seus membros, inconstitucionalidade, uniformização de jurisprudência, IRDR, IAC, reclamação, conflitos internos e matéria administrativa. As Seções cuidam das ações originárias. As Turmas julgam recursos.
+BRUNO: A troca preferida da banca é esta. Mandado de segurança contra ato de juiz de Vara é julgado pela Seção, artigo vinte e nove, inciso primeiro, alínea b. Mandado de segurança contra ato de Desembargador, de Turma, de Seção ou do próprio Pleno é julgado pelo Pleno, artigo vinte e três, inciso primeiro, alínea b.
+THALITA: Deixa eu resumir com macete: ato de juiz de Vara, Seção; ato de desembargador, de Turma, de Seção ou do Pleno, Pleno. Então quanto mais alto o autor do ato, mais alto o órgão. É isso mesmo?
+FRANCISCA: Boa regra de bolso. Na ação rescisória é parecido. Só a rescisória de acórdão do próprio Pleno fica no Pleno. A de acórdão de Seção, de Turma, de Vara ou de juiz de direito vai para as Seções.
+ANTONIO: Habeas corpus, como regra geral, é das Seções. Também são das Seções a ação anulatória, a ação ordinária e a ação civil pública. E os conflitos de competência entre Varas, ou entre juízes de direito investidos, ou entre uns e outros, também são das Seções.
+FRANCISCA: Já o conflito entre Seções e Turmas, entre estas e o Pleno, ou entre Seções e o Pleno, é do Pleno, em única instância. O Pleno julga também o desaforamento e a suspeição de Desembargador, inclusive do Presidente, nos feitos do Pleno.
+BRUNO: Dissídio coletivo, homologação de acordo, revisão e extensão de sentença normativa e ações de greve são competência exclusiva da Seção Especializada Um. Artigo trinta. Exclusiva, hein.
+THALITA: E a Turma?
+FRANCISCA: Julga recurso ordinário, agravo de petição e agravo de instrumento. Também julga a suspeição ou o impedimento de juiz de primeiro grau. Agravo regimental contra despacho do Presidente da Turma ou do relator fica na Turma. Já o agravo contra decisão do Presidente ou do Corregedor vai ao Pleno.
+BRUNO: E lembre: embargos de declaração são julgados pelo órgão que prolatou a decisão. Das Turmas não cabe recurso ao Pleno nem à Seção, artigo trinta e seis.
+THALITA: Então a Turma tem a última palavra dentro do tribunal, só restando recurso ao TST. Meu resumo da aula até aqui: Pleno julga os atos do tribunal e os incidentes, Seções cuidam das ações originárias, e Turmas julgam os recursos. Fechou?
+FRANCISCA: Fechou. Só lembre que a Seção Especializada Um tem a exclusividade do dissídio coletivo e da greve.
+== SLIDE: Quóruns e atribuições administrativas do Pleno
+* Pleno instala com maioria absoluta; decide por maioria simples
+* Seções: mínimo de 6 Desembargadores, incluindo o Presidente
+* Recurso administrativo: 30 dias; lista de antiguidade: 15 dias
+* Dois terços: afastar denunciado; recusar promoção por antiguidade
+* Competência residual do Pleno (art. 23, LVI)
+ANTONIO: Fechando o tema, os quóruns. O Pleno se instala com maioria absoluta e delibera por maioria simples, salvo quando se exige quórum especial. A verificação considera apenas os cargos efetivamente ocupados. É o artigo vinte e dois.
+FRANCISCA: Em matéria administrativa só votam os efetivos, convocados com no mínimo cinco dias de antecedência, mesmo que estejam de férias ou licença. As Seções deliberam com no mínimo seis desembargadores, incluindo o Presidente, que vota como os demais. Para completar quórum, convoca-se por sorteio membro da outra Seção.
+THALITA: Posso arriscar os prazos? Recurso administrativo, quinze dias?
+BRUNO: Quase. Recurso administrativo e pedido de reconsideração têm prazo de trinta dias. Quinze dias é o prazo da reclamação contra a lista de antiguidade dos juízes, contado da publicação.
+THALITA: Trinta para recurso, quinze para antiguidade. Anotado.
+ANTONIO: Agora os quóruns qualificados. Afastar magistrado denunciado ou querelado exige dois terços dos efetivos. Aposentadoria, disponibilidade e remoção por interesse público pedem maioria absoluta. Advertir ou censurar juiz de primeiro grau exige maioria dos efetivos, com ampla defesa.
+FRANCISCA: Recusar promoção por antiguidade também exige dois terços dos efetivos, com fundamentação. Já a remoção ou permuta de Desembargador entre Turmas se resolve por maioria simples.
+BRUNO: A escala de férias deve ser aprovada antes do início do ano forense. E o Pleno tem competência residual: toda matéria que não esteja atribuída a outro órgão cai nele.
+THALITA: Então: dois terços para afastar e para recusar antiguidade; maioria absoluta para aposentar e remover por interesse público.
+ANTONIO: Isso mesmo. Na sequência, vamos conhecer as atribuições do Presidente, do Vice, do Corregedor e do Presidente de Turma, além da distribuição, do relator e da pauta.

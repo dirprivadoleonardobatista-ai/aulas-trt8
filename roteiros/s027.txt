@@ -1,0 +1,56 @@
+SEGMENTO s027
+== SLIDE: Presidente e Vice-Presidente
+* Presidente: representa, convoca o Pleno, desempata (exceto inconstitucionalidade)
+* Precatórios: processamento e sequestro, ouvido o MP
+* Relatório anual na última quinzena de março
+* Vice: substitui o Presidente, preside a SE I, admissibilidade do RR
+* Vice desempata nas Turmas
+ANTONIO: Vimos quem julga o quê. Agora, quem comanda o tribunal. O Presidente representa o Tribunal, convoca e preside o Pleno, colhe os votos e proclama o resultado. Julga em quarenta e oito horas o pedido de revisão do valor da alçada.
+BRUNO: E desempata no Pleno, exceto em inconstitucionalidade. Essa exceção cai muito.
+THALITA: Por que a exceção?
+FRANCISCA: Porque declarar a inconstitucionalidade exige maioria absoluta, então o voto de qualidade não resolve. Além disso, o Presidente determina o processamento de precatórios e autoriza o sequestro, ouvido o Ministério Público. Nomeia os diretores de foro e pode delegar atribuições ao Vice e aos presidentes de Turma, de comum acordo.
+ANTONIO: Se o juiz não requerer a aposentadoria compulsória até quarenta dias antes de completar setenta e cinco anos, o Presidente a instaura de ofício. Apresenta o relatório anual na última quinzena de março e indica ao Pleno o juiz a convocar quando o afastamento passa de trinta dias.
+BRUNO: Novidade de vinte e dois de junho de dois mil e vinte e seis: ele aprecia a tutela provisória que dá efeito suspensivo a recurso ao TST. Guarde isso.
+THALITA: Agora o Vice. Ele substitui o Presidente, certo?
+FRANCISCA: Sim, mas sem acumular os dois cargos. Preside, concilia e instrui audiências de dissídio coletivo. Examina a admissibilidade do recurso de revista e despacha os agravos de instrumento contra as denegações. Despacha protestos judiciais e pedidos de SLAT, e desempata nas Turmas.
+BRUNO: Ele preside a Seção Especializada Um. Mas atenção: o Presidente pode participar do julgamento de dissídio coletivo nessa Seção e, nesse caso, é ele quem preside a sessão. Fora disso, quem preside é o Vice.
+THALITA: E o agravo contra a decisão do Vice que nega seguimento à revista?
+FRANCISCA: Vai ao Pleno, e o próprio Vice é o relator. Isso vale quando a negativa se funda em conformidade com tese vinculante do TST.
+THALITA: Deixa eu resumir o Presidente e o Vice. O Presidente administra, distribui precatórios e desempata, menos em inconstitucionalidade. O Vice substitui, preside a Seção Um e examina a revista. Certo?
+BRUNO: Certo. E repare na troca que a banca faz: ela atribui ao Presidente a admissibilidade da revista. Errado, essa é função do Vice.
+THALITA: Entendi. Presidente decide precatório, Vice decide revista.
+== SLIDE: Corregedor e Presidente de Turma
+* Corregedor: Desembargador vitalício, mandato de 2 anos
+* Correição ordinária anual; parcial em 5 dias, informações em 10
+* AgR da correição vai ao Pleno em 8 dias
+* Presidente de Turma preside, vota e relata
+* Substituições e comissões: Jurisprudência, Regimento, Revista
+ANTONIO: O Corregedor é um desembargador vitalício eleito para mandato de dois anos. Faz correição ordinária nos Foros e Varas, obrigatoriamente uma vez por ano. E preside a Seção Especializada Dois.
+FRANCISCA: A correição parcial cabe contra ato atentatório à boa ordem processual sem recurso legal, e é apresentada em cinco dias da ciência. Pedem-se informações em dez dias. Cabe liminar, submetida ao Pleno, e a decisão sai em dez dias.
+THALITA: E se perder, vai recorrer para a Seção Especializada Dois?
+BRUNO: Pegadinha clássica. O agravo regimental vai ao Pleno, em oito dias, e não à Seção. E o relatório do Corregedor vai ao Pleno, na última sessão do mês seguinte ao fim de cada ano de gestão.
+THALITA: Então a Seção Especializada Dois, que ele preside, não julga o recurso contra as próprias decisões de correição?
+FRANCISCA: Exatamente. Quem revisa é o Pleno. Guarde isso: correição ordinária, uma vez por ano, obrigatória; correição parcial, cinco dias para pedir.
+THALITA: Cinco para pedir, dez para informar, dez para decidir, oito para o agravo. Vou decorar a sequência.
+ANTONIO: O Presidente de Turma preside, vota e relata. Convoca desembargador de outra Turma para quórum ou desempate. Apresenta relatório ao Presidente do Tribunal na primeira quinzena de fevereiro. Redistribui por sorteio os processos de relator afastado por mais de noventa dias e integra a Comissão de Jurisprudência.
+FRANCISCA: Nas substituições: o Presidente é substituído pelo Vice e depois pelos demais, em ordem decrescente de antiguidade. O Vice, pelo mais antigo. O Corregedor, pelo mais antigo que não tenha exercido a administração. O Presidente de Turma, pelo mais antigo da Turma.
+THALITA: E as comissões?
+FRANCISCA: Jurisprudência tem cinco membros: o Vice, que preside, e os quatro presidentes de Turma. Reúne-se a cada trimestre e dá parecer em IUJ, IAC e IRDR. A de Regimento tem seis membros, quatro eleitos pelas Turmas e dois pelo Pleno, vedada a reeleição. A de Revista tem dois desembargadores, um juiz titular e um substituto, e a revista é semestral.
+== SLIDE: Distribuição, relator e pauta
+* Distribuição diária, igualitária, por sorteio eletrônico
+* Dirigentes não concorrem; relator tem 90 dias corridos
+* Não há revisor: artigo 116 revogado
+* Relator nega seguimento (art. 118); AgR em 8 dias
+* Pauta com 48 horas; adiamento só por petição conjunta
+ANTONIO: Chegamos à distribuição. É igualitária, com o mesmo número de processos por gabinete, ainda que o titular esteja afastado, salvo convocação para o TST. Presidente, Vice e Corregedor não concorrem. O relator fica vinculado, salvo impedimento, suspeição, afastamento superior a noventa dias ou força maior.
+BRUNO: O visto do relator é de noventa dias corridos. No dissídio coletivo com greve, oito dias úteis. E não existe revisor, o artigo cento e dezesseis foi revogado.
+THALITA: Posso arriscar? O relator tem noventa dias úteis para o visto?
+BRUNO: Quase. São noventa dias corridos, e não úteis. Pegadinha de prova.
+THALITA: Corridos, anotado. E o sumaríssimo?
+FRANCISCA: Distribuição imediata, o relator libera em dez dias, e a certidão de julgamento serve de acórdão. Já a prevenção funciona assim: o primeiro recurso torna o relator prevento para os seguintes, no mesmo processo ou em processo conexo.
+ANTONIO: O relator nega seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou contrário a súmula ou jurisprudência dominante. Para dar provimento sozinho, o confronto tem de ser com o STF ou tribunal superior. Cabe agravo em oito dias, e, se for manifestamente infundado, a multa vai de um a dez por cento do valor corrigido da causa.
+BRUNO: Na pauta: publicação com no mínimo quarenta e oito horas. Preferência para dissídio coletivo, embargos de declaração, habeas corpus e mandado de segurança. Dispensam pauta habeas corpus, embargos, conflito de competência, agravo regimental e matéria administrativa, com exceções. O adiamento só se dá por petição conjunta.
+THALITA: Então, pauta de quarenta e oito horas e adiamento só se as partes pedirem juntas. E sem revisor, porque o artigo cento e dezesseis acabou.
+FRANCISCA: Isso. Outro ponto útil: em matéria administrativa, o relator é o Presidente, que vota em primeiro lugar. E o Ministério Público do Trabalho atua obrigatoriamente em mandado de segurança, rescisória, ação civil pública, dissídio coletivo, casos com incapazes e inconstitucionalidade.
+THALITA: Gravei: tudo que mexe com interesse público maior chama o MPT.
+ANTONIO: Certo. Adiante, veremos as sessões, a sustentação oral, a votação e os incidentes de uniformização.
