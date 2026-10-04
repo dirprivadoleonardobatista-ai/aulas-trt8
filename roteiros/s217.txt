@@ -1,0 +1,83 @@
+SEGMENTO s217
+== SLIDE: Questões um a três: capacidade, emancipação e ausência
+* Q1: absolutamente incapaz hoje é só o menor de 16 anos
+* Q2: emancipação pelos pais, por instrumento público, sem homologação
+* Q3: sucessão definitiva: ausente com 80 anos e 5 de notícias
+ANTONIO: Terminamos o negócio jurídico, a invalidade, a prescrição e a prova. Agora é hora de treinar com questões comentadas, no estilo da FCC. Primeiro pense, depois conferimos.
+THALITA: Vou tentar acertar todas. Pode mandar a primeira.
+BRUNO: Questão um. De acordo com o Código Civil, com a redação do Estatuto da Pessoa com Deficiência, quem é absolutamente incapaz de exercer pessoalmente os atos da vida civil? A, o pródigo. B, quem por causa permanente não puder exprimir sua vontade. C, o menor de dezesseis anos. D, a pessoa com deficiência mental grave. E, o ébrio habitual. Pausa para você pensar.
+THALITA: Eu iria na B, porque não exprimir a vontade parece incapacidade total.
+FRANCISCA: Era assim antes da reforma. Hoje a B é hipótese de incapacidade relativa, artigo quarto, inciso três. O gabarito é a C: o artigo terceiro traz uma única hipótese, o menor de dezesseis anos.
+BRUNO: A A está errada, o pródigo é relativamente incapaz, artigo quarto, inciso quatro. A D está errada porque a deficiência não afeta a plena capacidade, conforme a lei brasileira de inclusão. E a E, o ébrio habitual, também é relativamente incapaz.
+THALITA: Então só menor de dezesseis é absoluto. Fica o macete.
+ANTONIO: Questão dois. Tereza, com dezesseis anos completos, vive com a mãe, pois o pai faleceu. A mãe quer emancipá-la. A emancipação A, pode ser concedida pela mãe, por instrumento público, sem homologação judicial. B, depende de sentença, ouvido o Ministério Público. C, exige instrumento particular com firma reconhecida e homologação. D, só seria possível com dezessete anos. E, depende da concordância de parente paterno.
+THALITA: Fico com a A, mas na dúvida pela B.
+FRANCISCA: A resposta é A. Um dos pais concede na falta do outro, por instrumento público, sem homologação, artigo quinto, parágrafo único, inciso um. A B está errada, porque a sentença só vale para o menor sob tutela.
+BRUNO: A C erra duas vezes: o instrumento é público, e não precisa homologação. A D erra a idade: bastam dezesseis anos completos. E a E inventa uma exigência que não existe.
+ANTONIO: Questão três, sobre ausência. A, a sucessão provisória pode ser requerida seis meses após a arrecadação. B, a sentença produz efeitos imediatamente. C, todos os sucessores provisórios fazem seus todos os frutos. D, voltando o ausente após a sucessão definitiva, recebe integralmente os bens. E, a sucessão definitiva pode ser requerida provando-se que o ausente conta oitenta anos e que de cinco datam suas últimas notícias.
+THALITA: Eu chutaria a D, porque se ele volta é dono dos bens.
+FRANCISCA: Não, ele só recebe se voltar nos dez anos seguintes, e no estado em que os bens se acharem, artigo trinta e nove. A correta é a E, artigo trinta e oito.
+BRUNO: A A erra o prazo: um ano, ou três se deixou representante, artigo vinte e seis. A B erra: os efeitos começam cento e oitenta dias após a publicação. A C erra: só descendente, ascendente e cônjuge ficam com todos os frutos; os demais capitalizam metade.
+== SLIDE: Questões quatro e cinco: desconsideração e pertenças
+* Q4: abuso por desvio de finalidade ou confusão patrimonial
+* Insolvência e grupo econômico, por si, não bastam
+* Q5: pertenças não seguem o principal (art. 94)
+* Má-fé: só indenização, sem retenção por benfeitorias (art. 1.220)
+ANTONIO: Questão quatro. Nos termos do artigo cinquenta do Código Civil, a desconsideração da personalidade jurídica. A, pode ser decretada de ofício sempre que a empresa for insolvente. B, exige abuso, caracterizado por desvio de finalidade ou confusão patrimonial. C, autoriza-se pela simples existência de grupo econômico. D, caracteriza-se quando houver expansão da finalidade original. E, atinge todos os sócios, ainda que não beneficiados.
+THALITA: Eu marcaria a E, porque a empresa é dos sócios.
+BRUNO: Cuidado, essa é a armadilha. A E está errada, porque a desconsideração alcança só os beneficiados direta ou indiretamente pelo abuso.
+FRANCISCA: A correta é a B, que reproduz os pressupostos do caput: abuso da personalidade, por desvio de finalidade ou confusão patrimonial. Adotamos a teoria maior.
+ANTONIO: A A erra duas vezes: exige requerimento da parte ou do Ministério Público, e a insolvência sozinha não basta.
+BRUNO: A C também erra, porque o parágrafo quarto veda a desconsideração pela simples existência de grupo econômico. E a D erra porque o parágrafo quinto afasta o desvio de finalidade na mera expansão da atividade.
+THALITA: Teoria maior: abuso mais requerimento. Anotei!
+FRANCISCA: Questão cinco. Márcio vendeu sua fazenda a Bruno sem mencionar os tratores utilizados de modo duradouro na propriedade. A, os tratores acompanham a fazenda, pois o acessório sempre segue o principal. B, benfeitorias voluptuárias são as que aumentam ou facilitam o uso. C, o possuidor de má-fé tem direito de retenção pelas benfeitorias necessárias. D, os tratores, como pertenças, não se incluem na venda, salvo se o contrário resultar da lei, da vontade ou das circunstâncias. E, pertenças são partes integrantes do bem principal.
+THALITA: Eu iria na A. Acessório segue o principal.
+BRUNO: É a regra geral, mas as pertenças são a exceção. O artigo noventa e quatro diz que não seguem o principal, salvo disposição em contrário. A correta é a D, artigos noventa e três e noventa e quatro.
+ANTONIO: A B descreve as benfeitorias úteis, não as voluptuárias, que são de mero deleite. A C erra: o possuidor de má-fé só é indenizado pelas necessárias, sem direito de retenção, artigo mil duzentos e vinte.
+FRANCISCA: E a E erra frontalmente. O artigo noventa e três define as pertenças justamente como bens que não são partes integrantes, mas se destinam ao uso do bem principal.
+THALITA: Pertença não é parte, é serviçal do principal. Boa imagem.
+== SLIDE: Questões seis a oito: coação, invalidade e acidentais
+* Q6: coação, 4 anos do dia em que cessar (art. 178, I)
+* Q7: simulação é nula; anulabilidade não vem de ofício
+* Q8: termo inicial suspende o exercício, não a aquisição
+* Puramente potestativa é defesa; prazo a favor do devedor
+ANTONIO: Questão seis. Carla celebrou contrato sob coação, que cessou um ano depois. O prazo para pleitear a anulação é de A, dois anos da celebração. B, quatro anos do dia em que cessou a coação. C, quatro anos da celebração. D, três anos da cessação. E, dez anos da celebração.
+THALITA: Quatro anos da celebração, a C. Ah, espera. Coação é a exceção!
+BRUNO: Você mesma se corrigiu. A resposta é B, artigo cento e setenta e oito, inciso um. Na C, contam-se da celebração o erro, o dolo, a fraude, o estado de perigo e a lesão.
+FRANCISCA: A A traz dois anos, que é o prazo residual do artigo cento e setenta e nove. A D inventa três anos. E a E mistura com a prescrição geral de dez anos, do artigo duzentos e cinco.
+ANTONIO: Questão sete. Considere: um, o negócio simulado é anulável. Dois, a nulidade pode ser pronunciada de ofício e não convalesce pelo tempo. Três, a anulabilidade pode ser declarada de ofício. Quatro, o negócio anulável pode ser confirmado, ressalvado direito de terceiro. Está correto o que se afirma em A, um e três apenas. B, um, dois e quatro. C, três e quatro. D, um e dois. E, dois e quatro apenas.
+THALITA: O item um parece certo, porque simulação é um defeito, e defeito anula.
+FRANCISCA: Justamente a armadilha. A simulação é a exceção: gera nulidade, artigo cento e sessenta e sete. Então o item um é falso, e já caem a A, a B e a D.
+BRUNO: O item dois é verdadeiro, artigos cento e sessenta e oito e cento e sessenta e nove. O três é falso, porque a anulabilidade não se pronuncia de ofício. O quatro é verdadeiro, artigo cento e setenta e dois. Gabarito E.
+THALITA: Eliminei pela simulação, então. Boa estratégia.
+ANTONIO: Questão oito, sobre elementos acidentais. A, o termo inicial suspende o exercício, mas não a aquisição. B, o encargo suspende a aquisição em qualquer caso. C, a condição resolutiva impossível invalida o negócio. D, é lícita a condição que sujeita o negócio ao puro arbítrio de uma parte. E, nos contratos, presume-se o prazo em favor do credor.
+THALITA: A letra A, direto, por causa do artigo cento e trinta e um.
+BRUNO: Correto, a A é o gabarito. A B só vale se o encargo for imposto como condição suspensiva, artigo cento e trinta e seis. A C erra: a resolutiva impossível tem-se por inexistente.
+FRANCISCA: A D erra: a condição puramente potestativa é defesa, artigo cento e vinte e dois. E a E troca as pessoas: o prazo se presume a favor do devedor, artigo cento e trinta e três.
+== SLIDE: Questões nove e dez: prazos e interrupção
+* Q9: honorários de profissionais liberais prescrevem em 5 anos
+* Aluguéis e reparação civil: 3 anos; alimentos: 2; seguro: 1
+* Q10: interrupção ocorre uma só vez (art. 202)
+* Renúncia só depois de consumada a prescrição (art. 191)
+ANTONIO: Questão nove. Segundo o artigo duzentos e seis, prescreve em cinco anos a pretensão A, relativa a aluguéis de prédios urbanos. B, de reparação civil. C, para haver prestações alimentares. D, dos profissionais liberais em geral pelos seus honorários, contado da conclusão dos serviços. E, do segurado contra o segurador.
+THALITA: Cinco anos... os honorários, a D. Mas eu confundia com aluguéis.
+BRUNO: Gabarito D, parágrafo quinto, inciso dois. Aluguéis são três anos, parágrafo terceiro, inciso um. Reparação civil, três anos, inciso cinco do mesmo parágrafo.
+FRANCISCA: Alimentos prescrevem em dois anos, a partir do vencimento de cada prestação. E o segurado contra o segurador tem um ano, parágrafo primeiro, inciso dois.
+THALITA: Macete da escadinha: um ano, seguro; dois, alimentos; três, aluguel e reparação; cinco, honorários e dívida líquida.
+ANTONIO: Excelente. Última questão, a dez. A empresa Alfa tinha crédito contra a Beta, que, por e-mail, reconheceu a dívida. Meses depois, a Alfa fez protesto cambial do título. Sobre a prescrição, A, o protesto cambial interrompeu novamente o prazo. B, não corre prescrição entre pessoas jurídicas do mesmo grupo econômico. C, o reconhecimento inequívoco, ainda que extrajudicial, interrompeu a prescrição, que não poderá ser novamente interrompida. D, a interrupção suspende o prazo, que retoma pelo saldo. E, a renúncia pode ser feita antes de consumada a prescrição.
+THALITA: Eu arriscaria a A, porque protesto cambial também interrompe.
+FRANCISCA: Ele interrompe, mas só uma vez. O e-mail, como ato inequívoco de reconhecimento do devedor, já interrompeu. Aí o artigo duzentos e dois, caput, impede nova interrupção. Gabarito C.
+BRUNO: A B inventa uma hipótese de impedimento que não existe nos artigos cento e noventa e sete a cento e noventa e nove. A D confunde interrupção com suspensão: na interrupção o prazo recomeça do zero. E a E erra, porque a renúncia só vale depois de consumada, artigo cento e noventa e um.
+THALITA: Fechamos com a pegadinha preferida da banca: uma só vez.
+== SLIDE: Revisão relâmpago e despedida
+* Validade, acidentais e defeitos: pegadinhas de prazo e de nulidade
+* Invalidade: nulidade de ofício; anulabilidade só pelos interessados
+* Prescrição: interrupção uma só vez; renúncia só após consumada
+* Prova: confissão, escritura pública e Súmula 301 do STJ
+ANTONIO: Para fechar, vamos revisar o que mais cai na prova.
+THALITA: Hora do resumo relâmpago. Primeiro: escada ponteana, existência, validade e eficácia, e escritura pública acima de trinta salários mínimos. Segundo: condição é futuro e incerto, termo é futuro e certo, e termo inicial suspende o exercício, não a aquisição.
+BRUNO: Isso. Terceiro, nos defeitos, o prazo é de quatro anos da celebração, mas na coação conta-se da cessação. Lesão não exige dolo de aproveitamento, estado de perigo exige. E simulação é nula.
+THALITA: Quarto: nulidade pode ser alegada de ofício e não convalesce. Anulabilidade só os interessados alegam, e pode ser confirmada. Quinto: prescrição atinge a pretensão, decadência o direito potestativo, e a interrupção só vale uma vez.
+FRANCISCA: Sexto: prazos do artigo duzentos e seis, cinco anos para honorários de profissionais liberais, três para reparação civil e aluguéis, dois para alimentos. E a renúncia à prescrição só vale depois de consumada.
+THALITA: E o último: a recusa ao exame de DNA gera presunção relativa de paternidade, Súmula trezentos e um do STJ. Guardei tudo, professor!
+ANTONIO: Muito bem, pessoal. Fechamos a parte geral do Direito Civil. Bons estudos, e até a próxima aula!
