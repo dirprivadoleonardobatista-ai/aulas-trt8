@@ -1,0 +1,54 @@
+SEGMENTO s191
+== SLIDE: Artigo 844: arquivamento e custas do reclamante
+* Ausência do reclamante: arquivamento
+* § 2º: custas, ainda que beneficiário da gratuidade
+* Justificar em 15 dias motivo legalmente justificável
+* § 3º: pagamento é condição para nova ação
+ANTONIO: Vimos a audiência e seu fracionamento. Agora, o que acontece quando alguém falta. O artigo oitocentos e quarenta e quatro diz que o não comparecimento do reclamante importa arquivamento, e o do reclamado importa revelia, além de confissão quanto à matéria de fato.
+FRANCISCA: O parágrafo primeiro usa poderá: havendo motivo relevante, o juiz pode suspender o julgamento e designar nova audiência. É faculdade.
+THALITA: E o reclamante que falta, perde só a ação?
+BRUNO: Perde mais. Pelo parágrafo segundo, é condenado a pagar custas, calculadas na forma do artigo setecentos e oitenta e nove, ainda que beneficiário da justiça gratuita, salvo se comprovar, em quinze dias, que a ausência ocorreu por motivo legalmente justificável.
+ANTONIO: Perceba: legalmente justificável, e não qualquer motivo. E o prazo é de quinze dias. A FCC troca por cinco, oito ou trinta.
+FRANCISCA: O parágrafo terceiro diz que o pagamento dessas custas é condição para a propositura de nova demanda. E o STF, na ADI cinco mil setecentos e sessenta e seis, em dois mil e vinte e um, declarou constitucional esse dispositivo, a condenação em custas do reclamante ausente, ainda que beneficiário da gratuidade. Inconstitucionais foram as regras que impunham ao beneficiário o pagamento de honorários periciais e advocatícios com créditos obtidos no processo.
+THALITA: Exemplo?
+BRUNO: Bruno ajuizou reclamação contra a Beta S.A. e faltou à audiência inicial sem justificativa. A reclamação foi arquivada e ele foi condenado em custas de dois por cento sobre o valor da causa: cinquenta mil reais, mil reais de custas, embora beneficiário da gratuidade. Para ajuizar nova ação, comprova o pagamento. Se faltar de novo e houver segundo arquivamento seguido, fica seis meses sem reclamar, artigo setecentos e trinta e dois.
+THALITA: Custas mesmo com gratuidade, quinze dias para justificar, pagamento como condição para nova ação.
+== SLIDE: Revelia, confissão e as quatro exceções
+* Reclamado ausente: revelia + confissão sobre matéria de fato
+* § 4º: contestação de litisconsorte, direito indisponível, falta de documento, fato inverossímil
+* § 5º: advogado presente, contestação e documentos aceitos
+* Ambos ausentes: arquivamento
+ANTONIO: Se falta o reclamado, há revelia e confissão quanto à matéria de fato. Mas o parágrafo quarto traz quatro exceções, em que a revelia não produz esse efeito.
+FRANCISCA: Primeira: havendo pluralidade de reclamados, algum deles contesta a ação. Segunda: o litígio versa sobre direitos indisponíveis. Terceira: a petição inicial não vem acompanhada de instrumento que a lei considere indispensável à prova do ato. Quarta: as alegações de fato do reclamante são inverossímeis ou contrariam prova dos autos.
+THALITA: Se um dos reclamados contesta, vale para todos?
+BRUNO: Cuidado com a pegadinha. A lei diz que algum deles conteste, não todos. Basta que um conteste. E direitos indisponíveis afastam a confissão.
+ANTONIO: O parágrafo quinto: ainda que ausente o reclamado, presente o advogado, aceitam-se contestação e documentos. O reclamado continua ausente, mas a defesa é recebida. Isso mitigou a Súmula cento e vinte e dois do TST, que considerava revel o reclamado ausente mesmo com advogado com procuração.
+FRANCISCA: Quando ambos faltam, prevalece a consequência da ausência do autor: arquivamento.
+THALITA: Quadro: autor falta, arquivamento com custas; réu falta, revelia e confissão ficta, com as quatro exceções; os dois faltam, arquivamento.
+== SLIDE: Pegadinhas do artigo 844 em caso concreto
+* Custas mesmo com gratuidade; 15 dias para justificar
+* Um litisconsorte contesta: sem confissão
+* Advogado presente: defesa recebida
+* Dois arquivamentos seguidos: seis meses
+ANTONIO: Vamos treinar com casos rápidos. Primeiro caso: a reclamante, beneficiária da gratuidade, falta à audiência inicial e não apresenta justificativa. O que acontece?
+THALITA: Arquivamento, e como a gratuidade não protege contra isso, ela é condenada em custas. Para propor nova ação, tem de pagar.
+FRANCISCA: Correto. E se ela comprovar, em quinze dias, que faltou por motivo legalmente justificável, como internação, fica livre das custas.
+BRUNO: Segundo caso: reclamação contra duas empresas, a Alfa e a Beta. A Alfa falta à audiência, mas a Beta comparece e contesta. A revelia da Alfa produz confissão?
+THALITA: Eu diria que sim, porque a Alfa faltou.
+ANTONIO: Quase, Thalita, mas não. Como a Beta contestou, a revelia da Alfa não produz o efeito de confissão quanto à matéria de fato, pela primeira exceção do parágrafo quarto.
+THALITA: Entendi. Basta um contestar.
+FRANCISCA: Terceiro caso: a reclamada falta, mas seu advogado comparece com a contestação e documentos. A defesa é aceita, pelo parágrafo quinto. A reclamada segue ausente, mas a defesa é recebida.
+ANTONIO: E uma última dica: se o pedido envolve direito indisponível, a confissão ficta fica afastada, mesmo havendo revelia.
+== SLIDE: Súmulas 122, 74 e 9 e a OJ 152
+* Súmula 122: atestado médico com impossibilidade de locomoção
+* OJ 152: ente público sujeita-se à revelia
+* Súmula 74: confissão em audiência em prosseguimento, se intimado com a cominação
+* Súmula 9: sem arquivamento em prosseguimento
+BRUNO: A segunda parte da Súmula cento e vinte e dois continua muito cobrada: a revelia pode ser ilidida mediante atestado médico que declare expressamente a impossibilidade de locomoção do empregador ou do seu preposto no dia da audiência.
+THALITA: Então atestado simples, só dizendo que estava doente, não vale?
+FRANCISCA: Não vale. Precisa declarar expressamente a impossibilidade de locomoção.
+ANTONIO: A Orientação Jurisprudencial cento e cinquenta e dois da SDI-um: a pessoa jurídica de direito público se sujeita à revelia do artigo oitocentos e quarenta e quatro. Mas a confissão pode ser afastada quando a causa versa sobre direitos indisponíveis.
+BRUNO: Súmula setenta e quatro. Item um: aplica-se a confissão à parte que, expressamente intimada com aquela cominação, não comparece à audiência em prosseguimento em que deveria depor. Item dois: a prova pré-constituída pode ser confrontada com a confissão ficta, sem cerceamento de defesa no indeferimento de provas posteriores. Item três: a vedação de prova posterior só se aplica à parte confessa, sem afetar o poder-dever do juiz de conduzir o processo.
+FRANCISCA: Súmula nove: a ausência do reclamante na audiência em prosseguimento, depois de contestada a ação, não gera arquivamento. Revelia é a ausência do reclamado. Confissão ficta é presunção relativa, afastável por prova pré-constituída. Confissão real é a admissão expressa em depoimento, prova plena contra o confitente.
+THALITA: Atenção: a confissão ficta atinge matéria de fato, e não matéria de direito.
+ANTONIO: Exato. O juiz continua obrigado a aplicar corretamente a lei aos fatos presumidos. Agora que sabemos o que ocorre quando as partes faltam, vamos ao tema das provas no processo do trabalho.

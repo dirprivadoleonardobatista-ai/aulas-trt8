@@ -1,0 +1,52 @@
+SEGMENTO s190
+== SLIDE: Regras gerais da audiência: artigos 813 a 817
+* Audiências públicas, dias úteis, das 8 às 18 horas
+* Máximo de 5 horas seguidas, salvo matéria urgente
+* Juiz atrasado: 15 minutos (art. 815, § 1º)
+* Parte atrasada: sem tolerância (OJ 245 SDI-1)
+ANTONIO: Com a reclamação e a notificação resolvidas, chegamos à audiência. As regras gerais estão nos artigos oitocentos e treze a oitocentos e dezessete. As audiências são públicas, realizadas na sede do juízo ou tribunal em dias úteis previamente fixados, entre oito e dezoito horas, sem ultrapassar cinco horas seguidas, salvo matéria urgente.
+THALITA: Mas eu tinha decorado seis às vinte horas.
+BRUNO: Esse é o artigo setecentos e setenta, que trata dos atos processuais em geral. A audiência é das oito às dezoito. Troca clássica da FCC.
+FRANCISCA: À hora marcada, o juiz declara aberta a audiência, e o secretário ou escrivão chama as partes, testemunhas e demais pessoas. Se, até quinze minutos depois da hora, o juiz não comparecer, os presentes podem se retirar, e o ocorrido consta do livro de registro, artigo oitocentos e quinze, parágrafo primeiro.
+THALITA: E se eu, a parte, atrasar quinze minutos?
+BRUNO: Não há tolerância. A Orientação Jurisprudencial duzentos e quarenta e cinco da SDI-um diz que inexiste previsão legal tolerando atraso da parte. A tolerância de quinze minutos é só para o juiz.
+ANTONIO: A Lei catorze mil seiscentos e cinquenta e sete, de dois mil e vinte e três, acrescentou uma regra: se a audiência não se inicia injustificadamente em até trinta minutos após o horário, mesmo com o juiz presente, partes e advogados podem se retirar, consignando seus nomes, e a audiência é remarcada para a data mais próxima, sem penalidade. Confira a redação vigente dos parágrafos segundo e terceiro do artigo oitocentos e quinze.
+FRANCISCA: Se a audiência for em outro local, a designação é por edital com vinte e quatro horas de antecedência, artigo oitocentos e treze, parágrafo primeiro.
+THALITA: Quadro: juiz, quinze minutos; audiência atrasada, trinta minutos; parte, nenhuma; duração máxima, cinco horas; outro local, vinte e quatro horas.
+== SLIDE: Presença das partes e representação
+* Art. 843: comparecimento pessoal, mesmo com advogado
+* Plúrimas e ações de cumprimento: sindicato pode representar
+* § 2º: colega ou sindicato só evita arquivamento
+* § 3º supera a Súmula 377 TST
+BRUNO: Pelo artigo oitocentos e quarenta e três, na audiência de julgamento devem estar presentes reclamante e reclamado, independentemente do comparecimento de seus representantes. A exceção são as reclamatórias plúrimas e as ações de cumprimento, em que os empregados podem se fazer representar pelo sindicato da categoria.
+THALITA: Então, mesmo com advogado, tenho de ir?
+ANTONIO: Sim, a regra é o comparecimento pessoal.
+FRANCISCA: Se por doença ou outro motivo poderoso, devidamente comprovado, o empregado não puder comparecer, pode ser representado por outro empregado da mesma profissão ou pelo sindicato. Essa representação serve apenas para evitar o arquivamento.
+BRUNO: Já o empregador pode se fazer substituir pelo gerente ou outro preposto que conheça o fato, cujas declarações o obrigam. O parágrafo terceiro, da Reforma, dispensa que o preposto seja empregado, superando a Súmula trezentos e setenta e sete do TST, que exigia isso, salvo doméstico e micro ou pequeno empresário.
+THALITA: Então, o preposto pode ser qualquer pessoa que conheça os fatos?
+FRANCISCA: Exatamente.
+== SLIDE: Sequência da audiência una
+* Abertura e pregão; 1ª proposta de conciliação (art. 846)
+* Defesa em 20 minutos ou escrita no PJe (art. 847)
+* Instrução: partes, testemunhas, peritos (art. 848)
+* Razões finais de 10 minutos; 2ª proposta; sentença (art. 850)
+ANTONIO: Vamos à sequência da audiência una, do artigo oitocentos e quarenta e três ao oitocentos e cinquenta e dois. Primeiro, abertura e pregão. Depois, a primeira proposta de conciliação, artigo oitocentos e quarenta e seis: aberta a audiência, o juiz propõe a conciliação.
+THALITA: O acordo é obrigatório?
+FRANCISCA: A proposta é obrigatória, o juiz deve fazê-la. O acordo é facultativo. Havendo acordo, o termo é decisão irrecorrível, artigo oitocentos e trinta e um, e pode prever cláusula penal pelo descumprimento, sem prejuízo do cumprimento.
+BRUNO: Não havendo acordo, vem a defesa. O reclamado tem vinte minutos, após a leitura da reclamação, quando não dispensada por ambas as partes. Pode também apresentar defesa escrita pelo PJe até a audiência, parágrafo único do artigo oitocentos e quarenta e sete. A exceção de incompetência territorial segue rito próprio: cinco dias da notificação, antes da audiência.
+ANTONIO: Em seguida, a instrução: interrogatório das partes, depois testemunhas, depois peritos e técnicos, artigo oitocentos e quarenta e oito.
+FRANCISCA: Terminada a instrução, razões finais de até dez minutos para cada parte. Em seguida, o juiz renovará a proposta de conciliação e, não havendo acordo, profere a decisão, artigo oitocentos e cinquenta. A ata é juntada em quarenta e oito horas, artigo oitocentos e cinquenta e um, parágrafo segundo.
+BRUNO: A palavra é renovará: a segunda proposta também é obrigatória. E razões finais são dez minutos para cada parte, e não vinte. Defesa, vinte; razões finais, dez.
+THALITA: Macete: conciliação, defesa de vinte, instrução, razões de dez, conciliação de novo, sentença. E se acontece força maior?
+ANTONIO: Pelo artigo oitocentos e quarenta e nove, a audiência continua na primeira data desimpedida, sem nova notificação.
+== SLIDE: Fracionamento da audiência
+* Lei: audiência contínua (art. 849)
+* Prática: inicial, instrução e julgamento (art. 765)
+* Ausência do autor na inicial: arquivamento
+* Em prosseguimento: Súmula 9; confissão ficta, Súmula 74
+FRANCISCA: Por lei, a audiência é contínua, artigo oitocentos e quarenta e nove. Na prática, porém, as Varas a fracionam em inicial, para conciliação e defesa, instrução e julgamento, com base no poder de direção do juiz, artigo setecentos e sessenta e cinco.
+THALITA: E isso muda alguma coisa?
+BRUNO: Muda muito, nos efeitos da ausência. A ausência do reclamante na audiência inicial gera arquivamento. Na audiência em prosseguimento, não, pela Súmula nove. Pode gerar confissão ficta, pela Súmula setenta e quatro.
+THALITA: Então vou guardar assim: a lei diz audiência contínua, mas a prática fraciona em inicial, instrução e julgamento. Se eu faltar na inicial, o processo é arquivado. Se eu faltar depois que a ação já foi contestada, não arquiva, mas posso ser considerado confesso, se tiver sido intimado com essa advertência. Está certo?
+FRANCISCA: Está certíssimo, Thalita. É exatamente esse o raciocínio da prova.
+ANTONIO: É exatamente isso que veremos agora: a ausência das partes, com arquivamento, revelia e confissão.
