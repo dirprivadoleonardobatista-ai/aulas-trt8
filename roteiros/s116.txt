@@ -1,0 +1,72 @@
+SEGMENTO s116
+== SLIDE: Aula 34: agentes públicos e a Lei 8.112
+* Agente público: gênero, quem exerce função estatal
+* Espécies: políticos, estatutários, empregados, temporários, militares, particulares
+* O vínculo define o regime
+* Aula: classificação, regime constitucional, CLT, greve, Lei 8.112
+ANTONIO: Olá, pessoal, bem-vindos à aula trinta e quatro de Direito Administrativo. Hoje começamos os agentes públicos e a Lei oito mil cento e doze, de mil novecentos e noventa. Veremos a classificação dos agentes, o regime constitucional dos servidores, o emprego público e a greve, e depois os requisitos, o concurso, as formas de provimento, a posse, o exercício, o estágio probatório e a estabilidade. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro as pegadinhas da banca.
+THALITA: E eu sou a Thalita, concurseira. Pergunto o que vocês perguntariam e resumo com macetes.
+ANTONIO: Vamos ao conceito. Agente público é o gênero: toda pessoa física que exerce, ainda que transitoriamente ou sem remuneração, função estatal.
+THALITA: Mesmo sem receber nada? Eu achava que precisava de salário para ser agente.
+FRANCISCA: Não precisa. Mesário e jurado são agentes públicos, embora não sejam remunerados como servidores.
+BRUNO: E a banca explora isso. Afirmar que, não sendo remunerado, não é agente público, é errado. O particular em colaboração é agente público para fins de responsabilidade: o mesário que pratica ilícito responde por improbidade e é considerado funcionário público para fins penais, pelo artigo trezentos e vinte e sete do Código Penal.
+ANTONIO: As espécies são seis: agentes políticos, servidores estatutários, empregados públicos, temporários, militares e particulares em colaboração. E o vínculo define o regime: cargo, no regime estatutário; emprego, no regime da CLT; e função, na contratação temporária ou na confiança.
+THALITA: Então três palavras: cargo, emprego e função.
+ANTONIO: Exato. Primeira espécie: agentes políticos. São o primeiro escalão do Estado, e suas atribuições vêm diretamente da Constituição. O vínculo é político, não profissional. Exemplos: chefes do Executivo, ministros e parlamentares.
+FRANCISCA: Para parte da doutrina e para o Supremo, entram também magistrados e membros do Ministério Público.
+BRUNO: Segunda espécie: servidores estatutários, titulares de cargo efetivo ou em comissão. O vínculo é legal, e pode ser alterado unilateralmente por lei. É o caso dos analistas e técnicos judiciários.
+THALITA: Então, se a lei muda o regime, o estatutário não pode reclamar de direito adquirido ao regime.
+FRANCISCA: Isso mesmo. Não há direito adquirido a regime jurídico, embora direitos já incorporados sejam protegidos.
+
+== SLIDE: Empregados, temporários, militares e particulares
+* Empregados públicos: CLT, mas com concurso obrigatório
+* Temporários: art. 37, IX, CF; Lei 8.745/1993; função sem cargo
+* Militares: estatuto próprio; EC 18/1998
+* Particulares em colaboração: jurados, mesários, notários
+ANTONIO: Terceira espécie: empregados públicos. Ocupam emprego público, regido pela CLT, mas ingressam por concurso, conforme o artigo trinta e sete, inciso dois. Exemplos: empregados da Caixa e dos Correios.
+THALITA: Se é CLT, eu entro sem concurso?
+BRUNO: Não. Essa é a pegadinha. Celetista na Administração também só entra por concurso. A contratação sem concurso é nula.
+FRANCISCA: Quarta espécie: os temporários. São contratados por necessidade temporária de excepcional interesse público, pelo artigo trinta e sete, inciso nove, e pela Lei oito mil setecentos e quarenta e cinco, de mil novecentos e noventa e três. Eles exercem função, sem ocupar cargo ou emprego, com regime administrativo especial. Exemplos: recenseadores e professores substitutos.
+THALITA: Temporário não tem cargo. Tem só função.
+ANTONIO: Exatamente. Quinta espécie: militares. Forças Armadas, polícias militares e bombeiros militares, com estatuto próprio, nos artigos quarenta e dois e cento e quarenta e dois da Constituição. Desde a Emenda dezoito, de mil novecentos e noventa e oito, não são mais chamados de servidores militares.
+BRUNO: A FCC pode trocar e chamar de servidor militar. Hoje, correto é militar.
+FRANCISCA: Sexta espécie: particulares em colaboração. Exercem função pública sem vínculo profissional, de forma episódica ou por delegação. Há requisitados, voluntários, delegados e credenciados. Exemplos: jurados, mesários, notários, pelo artigo duzentos e trinta e seis, e concessionários.
+THALITA: Macete de memória: políticos, estatutários, empregados, temporários, militares e particulares. Eu gravei o PEETMP como se fosse uma sigla.
+BRUNO: Funciona! Mas preste atenção: a prova pergunta mais pelas diferenças do vínculo do que pela lista.
+ANTONIO: Perfeito. E, para a prova, guarde: estatutário, vínculo legal e cargo; empregado, CLT e emprego; temporário, regime especial e função.
+
+== SLIDE: Cargo, emprego, função e cargo em comissão
+* Cargo: criado por lei, denominação própria, pago pelos cofres públicos
+* Emprego: encargos de trabalho preenchidos por celetista
+* Função de confiança: exclusivamente servidor efetivo
+* Cargo em comissão: livre nomeação; percentual mínimo de carreira
+* SV 13: nepotismo até o terceiro grau
+FRANCISCA: Vamos distinguir os institutos. Cargo público é o conjunto de atribuições e responsabilidades da estrutura organizacional, criado por lei, com denominação própria e vencimento pago pelos cofres públicos, conforme o artigo terceiro da Lei oito mil cento e doze.
+THALITA: E o emprego público?
+ANTONIO: É o núcleo de encargos de trabalho preenchido por agente contratado sob a CLT. Também depende de concurso.
+BRUNO: Agora a pegadinha mais cobrada: função de confiança e cargo em comissão. O artigo trinta e sete, inciso cinco, diz que as funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo. Os cargos em comissão são preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei.
+THALITA: Então função de confiança só para efetivo. Cargo em comissão, qualquer pessoa, mas com cota mínima de carreira.
+FRANCISCA: Perfeito. Dois advérbios decidem a questão: exclusivamente, para a função, e percentual mínimo, para o cargo em comissão. Ambos se destinam apenas às atribuições de direção, chefia e assessoramento. O Supremo, no Tema mil e dez, não admite cargo em comissão para tarefas técnicas ou burocráticas.
+ANTONIO: No Judiciário da União, as funções comissionadas vão de um a seis, e os cargos em comissão, de um a quatro.
+BRUNO: Agora a Súmula Vinculante treze, sobre nepotismo. Veda a nomeação de cônjuge, companheiro ou parente, em linha reta, colateral ou por afinidade, até o terceiro grau, da autoridade nomeante ou de servidor da mesma pessoa jurídica em cargo de direção, chefia ou assessoramento. Vale para cargo em comissão, de confiança ou função gratificada, e inclui o ajuste mediante designações recíprocas, o chamado nepotismo cruzado.
+THALITA: Cônjuge, parente até o terceiro grau, e vale para cruzado também.
+
+== SLIDE: Regime constitucional dos servidores
+* Concurso; validade de 2 anos, prorrogável uma vez
+* Acumulação vedada, com exceções e compatibilidade de horários
+* Readaptação: cargo compatível, remuneração mantida
+* Estabilidade: 3 anos e avaliação especial
+* Perda do cargo: quatro portas na Constituição
+ANTONIO: Os artigos trinta e sete a quarenta e um da Constituição formam o núcleo duro do regime dos servidores, e prevalecem sobre a Lei oito mil cento e doze. Acesso por concurso de provas ou provas e títulos, salvo cargos em comissão. Validade de até dois anos, prorrogável uma vez, por igual período.
+THALITA: E quem passou fica esperando?
+FRANCISCA: No prazo improrrogável de validade, os aprovados têm prioridade sobre novos concursados.
+BRUNO: A acumulação é vedada, salvo dois cargos de professor, um de professor com um técnico ou científico, ou dois privativos de profissionais de saúde, sempre com compatibilidade de horários e respeito ao teto.
+ANTONIO: Duas novidades da reforma da previdência. Readaptação: o servidor é lotado em cargo compatível com a limitação, mantida a remuneração do cargo de origem. E a aposentadoria com uso de tempo de contribuição do cargo rompe o vínculo que gerou esse tempo.
+FRANCISCA: A estabilidade vem no artigo quarenta e um: são estáveis após três anos de efetivo exercício os servidores nomeados para cargo efetivo em virtude de concurso, com avaliação especial de desempenho por comissão.
+THALITA: E o estável só perde o cargo em duas situações, certo?
+BRUNO: Cuidado, essa é a pegadinha. Pela Constituição, o estável perde o cargo por sentença judicial transitada em julgado, por processo administrativo com ampla defesa, por avaliação periódica de desempenho, na forma de lei complementar, e por exoneração por excesso de despesa com pessoal. São quatro portas.
+FRANCISCA: Já a Lei oito mil cento e doze, no artigo vinte e dois, só menciona duas, porque é anterior à Emenda dezenove. Se a questão diz em conformidade com a Constituição, quatro. Em conformidade com a lei, duas.
+THALITA: Resumindo, preciso olhar o comando da questão.
+ANTONIO: Exatamente. E em novembro de dois mil e vinte e quatro, na ADI dois mil cento e trinta e cinco, o Supremo validou a Emenda dezenove no ponto que acabou com o regime jurídico único. Confira os detalhes do acórdão. A seguir, veremos o emprego público e o direito de greve.
