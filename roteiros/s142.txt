@@ -1,0 +1,91 @@
+SEGMENTO s142
+== SLIDE: Boas-vindas: aula 41 e o conceito de contrato
+* Aula 41: contrato de trabalho, vida e morte do vínculo
+* Hoje: contrato individual; depois alteração; suspensão e interrupção
+* Art. 442: acordo tácito ou expresso, correspondente à relação de emprego
+* Art. 442-A: experiência prévia de no máximo 6 meses
+ANTONIO: Olá, pessoal! Bem-vindos à aula quarenta e um, de Direito do Trabalho: contrato de trabalho, vida e morte do vínculo. Hoje começamos pelo contrato individual de trabalho, depois veremos a alteração do contrato e, por fim, suspensão e interrupção. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, também professora. Trago a lei em paráfrase, a jurisprudência e exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira. Pergunto o que vocês estão pensando e dou os macetes.
+ANTONIO: O artigo quatrocentos e quarenta e dois define o contrato individual de trabalho como o acordo tácito ou expresso, correspondente à relação de emprego. O parágrafo único afasta o vínculo entre a cooperativa e seus associados, e entre estes e os tomadores, qualquer que seja o ramo.
+THALITA: Tácito? Quer dizer que mesmo sem papel assinado há contrato?
+FRANCISCA: Isso. A CLT adotou uma definição híbrida: fala em acordo, mas o vincula à relação de emprego. O que importa é a realidade. Presentes pessoa física, pessoalidade, não eventualidade, onerosidade e subordinação, há contrato, ainda que ninguém tenha assinado papel algum. É a primazia da realidade.
+BRUNO: O parágrafo único vale só para a cooperativa verdadeira. A fraudulenta, que intermedia mão de obra, cai no artigo nono.
+ANTONIO: O artigo quatrocentos e quarenta e dois traço A diz que o empregador não pode exigir do candidato comprovação de experiência prévia por tempo superior a seis meses no mesmo tipo de atividade.
+THALITA: Seis meses é o teto. Anotado.
+BRUNO: Número clássico de prova. E a carteira de trabalho prova o contrato, mas não o constitui, artigo quatrocentos e cinquenta e seis.
+== SLIDE: Prova, características e classificação
+* Art. 456: CTPS gera presunção relativa (Súmula 12)
+* Parágrafo único: todo e qualquer serviço compatível com a condição pessoal
+* Contrato: consensual, sinalagmático, oneroso, comutativo
+* Intuitu personae só em relação ao empregado
+FRANCISCA: A prova do contrato, artigo quatrocentos e cinquenta e seis, é feita pelas anotações da carteira profissional ou por instrumento escrito, suprida por todos os meios permitidos em direito. As anotações da carteira geram presunção apenas relativa, Súmula doze do TST, e podem ser derrubadas por qualquer meio de prova.
+THALITA: E se não tiver cláusula dizendo o que o empregado faz?
+FRANCISCA: O parágrafo único responde: entende-se que o empregado se obrigou a todo e qualquer serviço compatível com a sua condição pessoal. É a base do jus variandi ordinário quanto às funções.
+ANTONIO: As características do contrato. Direito privado, ajuste entre particulares, ainda que permeado por normas de ordem pública. Consensual, ou não solene: aperfeiçoa-se pelo simples consentimento, salvo os que exigem forma escrita, como aprendiz, temporário, intermitente, atleta e artista. Sinalagmático: obrigações recíprocas, trabalho e salário.
+BRUNO: Oneroso: há contraprestação econômica. Comutativo: prestações certas e conhecidas desde o início, e os riscos do negócio são do empregador. Intuitu personae: pessoal em relação ao empregado, e não ao empregador, por causa da sucessão. Trato sucessivo: execução continuada. Subordinativo: elemento que distingue do autônomo. E complexo: admite contratos acessórios, como o comodato de imóvel.
+THALITA: Macete: pessoal só do empregado. O patrão pode mudar.
+FRANCISCA: Quanto à classificação: tácito ou expresso, verbal ou escrito, por prazo indeterminado, que é a regra, ou determinado, que é exceção. Há ainda a modalidade especial do intermitente, sempre escrito.
+ANTONIO: O artigo quatrocentos e quarenta e três permite acordar tácita ou expressamente, verbalmente ou por escrito, por prazo determinado ou indeterminado, ou para prestação de trabalho intermitente.
+== SLIDE: Prazo determinado: quando é válido
+* Art. 443, §1º: termo prefixado, serviço especificado ou acontecimento previsível
+* §2º: serviço transitório, atividade empresarial transitória, experiência
+* Fora das hipóteses: prazo indeterminado
+* Prazo máximo: 2 anos; experiência: 90 dias
+BRUNO: O prazo determinado é exceção, e sempre cai. Parágrafo primeiro do artigo quatrocentos e quarenta e três: vigência dependente de termo prefixado, da execução de serviços especificados ou da realização de certo acontecimento suscetível de previsão aproximada, como o fim da safra.
+THALITA: Mas quando posso usar?
+FRANCISCA: Parágrafo segundo: o contrato por prazo determinado só é válido em três hipóteses. Alínea a: serviço cuja natureza ou transitoriedade justifique a predeterminação do prazo. Alínea b: atividades empresariais de caráter transitório. Alínea c: contrato de experiência.
+ANTONIO: Fora dessas três hipóteses, é por prazo indeterminado, ainda que o papel diga o contrário. Note a diferença: na alínea a, o transitório é o serviço, como substituir empregada em licença-maternidade. Na alínea b, é a própria atividade empresarial, como uma loja montada só para a temporada de Natal.
+THALITA: Serviço transitório, atividade transitória e experiência. Três.
+BRUNO: O prazo máximo geral é de dois anos, artigo quatrocentos e quarenta e cinco. A experiência, no máximo noventa dias, no parágrafo único.
+FRANCISCA: A FCC troca noventa por cento e vinte dias, uma prorrogação por duas, seis meses por um ano, e diz que a prorrogação pode ultrapassar o limite.
+== SLIDE: Prorrogação, sucessividade e extinção antecipada
+* Art. 451: uma única prorrogação
+* Súmula 188: experiência prorrogável até 90 dias
+* Art. 452: novo contrato a termo em 6 meses: indeterminado
+* Arts. 479 e 480: metade da remuneração até o termo
+ANTONIO: Artigo quatrocentos e cinquenta e um: o contrato a termo que for prorrogado mais de uma vez passa a vigorar sem determinação de prazo. É uma prorrogação, tácita ou expressa. A experiência pode ser prorrogada, respeitado o teto de noventa dias, como quarenta e cinco mais quarenta e cinco, ou trinta mais sessenta, Súmula cento e oitenta e oito.
+THALITA: Então são duas travas: quantidade de prorrogações e duração total.
+FRANCISCA: Exatamente. O artigo quatrocentos e cinquenta e um limita a quantidade, uma. O quatrocentos e quarenta e cinco limita a duração. As duas regras são cumulativas.
+BRUNO: O artigo quatrocentos e cinquenta e dois combate o picote do vínculo: o contrato que suceder, dentro de seis meses, a outro por prazo determinado é por prazo indeterminado. Salvo se a expiração do anterior dependeu da execução de serviços especializados ou da realização de certos acontecimentos.
+THALITA: Exemplo: contratada em experiência de trinta dias, prorrogada por sessenta, está certo. Se prorrogar de novo, vira indeterminado. E se for recontratada quatro meses depois, já nasce indeterminado.
+FRANCISCA: Isso. Quanto à rescisão antecipada, o empregador que dispensa sem justa causa paga indenização de metade da remuneração devida até o termo, artigo quatrocentos e setenta e nove. O empregado que rompe antecipadamente indeniza os prejuízos, limitado ao que receberia em idênticas condições, artigo quatrocentos e oitenta.
+ANTONIO: Contrato de seis meses, três mil reais por mês, rompido pelo empregador no fim do segundo mês, sem cláusula assecuratória. Faltavam quatro meses, doze mil reais. A indenização é metade, seis mil reais, além de saldo, décimo terceiro e férias proporcionais. Não há aviso prévio.
+BRUNO: E se houver cláusula assecuratória do direito recíproco de rescisão, exercida a cláusula, aplicam-se as regras do contrato por prazo indeterminado, com aviso prévio e multa de quarenta por cento do FGTS, artigo quatrocentos e oitenta e um e Súmula cento e sessenta e três.
+THALITA: Mas existe contrato a prazo especial?
+FRANCISCA: Sim. A Lei nove mil seiscentos e um, de mil novecentos e noventa e oito, criou contrato a prazo especial, instituído por norma coletiva, para admissões que representem acréscimo no número de empregados. Nele não se aplica o artigo quatrocentos e cinquenta e um. E o temporário da Lei seis mil e dezenove tem regime próprio.
+== SLIDE: Validade e nulidade: ilícito x proibido
+* Validade: agente capaz, objeto lícito, forma prescrita ou não defesa
+* Nulidade com efeitos ex nunc, salvo objeto ilícito
+* Ilícito: sem efeitos; proibido: efeitos plenos
+* OJ 199 SDI-1: jogo do bicho
+ANTONIO: Agora a validade do contrato. Pelo artigo cento e quatro do Código Civil, aplicado subsidiariamente, são elementos de validade: agente capaz, objeto lícito e forma prescrita ou não defesa em lei.
+THALITA: E se o contrato for nulo, tudo volta como estava?
+FRANCISCA: No Direito do Trabalho, não. A força de trabalho já foi despendida e não pode ser devolvida. Por isso, a regra é a irretroatividade da nulidade, efeitos para a frente, salvo quando o objeto é ilícito.
+BRUNO: Distinção clássica. Trabalho ilícito é a atividade tipificada como crime ou contravenção, como jogo do bicho, tráfico, contrabando. Não produz nenhum efeito trabalhista; o contrato é nulo desde a origem. A OJ cento e noventa e nove da SDI-um diz que é nulo o contrato para atividade do jogo do bicho.
+ANTONIO: Trabalho proibido, ou irregular, é atividade lícita, mas vedada para certas pessoas ou circunstâncias. Por exemplo, menor de dezesseis anos fora da aprendizagem, menor de dezoito anos em trabalho noturno, perigoso ou insalubre, ou estrangeiro irregular. Produz todos os efeitos até a declaração da nulidade. A norma protetiva não pode ser usada contra quem ela protege.
+THALITA: Ilícito, nada. Proibido, tudo até declarar a nulidade. Entendi.
+== SLIDE: Questão-treino: contrato a termo
+* Experiência de 120 dias: errado, máximo de 90
+* Duas prorrogações: vira prazo indeterminado
+* Recontratação em 3 meses: prazo indeterminado
+* Art. 479: metade do que faltava
+BRUNO: Pausa para você pensar. A banca dá quatro afirmações. Um: o contrato de experiência pode durar cento e vinte dias. Dois: o contrato a termo pode ser prorrogado duas vezes, desde que respeitados dois anos. Três: o empregado recontratado a termo três meses depois mantém o contrato a prazo determinado. Quatro: na rescisão antecipada pelo empregador, a indenização é a metade da remuneração até o termo.
+THALITA: Eu chuto que só a última está certa. A primeira estoura o limite de noventa dias.
+FRANCISCA: Correto. A segunda também erra: o artigo quatrocentos e cinquenta e um permite uma única prorrogação, e a segunda converte em prazo indeterminado, mesmo dentro dos dois anos.
+BRUNO: A terceira erra pelo artigo quatrocentos e cinquenta e dois: dentro de seis meses, o novo contrato é por prazo indeterminado, salvo as exceções de serviços especializados ou acontecimentos certos.
+ANTONIO: A quarta está certa, artigo quatrocentos e setenta e nove. Sem cláusula assecuratória, o empregador paga metade da remuneração que seria devida até o termo, e não há aviso prévio.
+THALITA: Macete para guardar: noventa, uma, seis meses e metade. Noventa de experiência, uma prorrogação, seis meses de intervalo e metade na rescisão antecipada.
+== SLIDE: Súmula 363 e contratação sem concurso
+* Contratação pública sem concurso, após 1988: nula
+* Devidos: saldo de horas e FGTS
+* Não devidos: multa de 40%, aviso, 13º, férias
+* Não confundir ilícito com proibido
+FRANCISCA: Súmula trezentos e sessenta e três do TST: a contratação de servidor público, após a Constituição de mil novecentos e oitenta e oito, sem prévia aprovação em concurso, encontra óbice no artigo trinta e sete, inciso segundo e parágrafo segundo. Só confere direito ao pagamento da contraprestação pactuada, em relação ao número de horas trabalhadas, respeitado o valor da hora do salário mínimo, e ao FGTS.
+THALITA: Então não recebe aviso prévio nem multa de quarenta por cento?
+BRUNO: Não recebe. Nem décimo terceiro, nem férias com um terço, nem anotação na carteira e demais verbas rescisórias. Só saldo de horas e depósitos do FGTS, artigo dezenove traço A da Lei oito mil e trinta e seis.
+ANTONIO: A súmula trata de nulidade por falta de concurso em entes da Administração direta e indireta. Não se confunde com empregado de empresa privada, nem com servidor admitido antes de mil novecentos e oitenta e oito.
+BRUNO: A pegadinha é misturar os dois casos. O jogo do bicho, ilícito, não gera nem FGTS. O contrato sem concurso, proibido por norma de ordem pública, gera saldo mais FGTS.
+THALITA: Macete: sem concurso, saldo mais FGTS e mais nada.
+FRANCISCA: E o próximo passo: o contrato já está formado e vivo. Como ele pode mudar ao longo do tempo? É a alteração do contrato de trabalho, nosso próximo tema.
