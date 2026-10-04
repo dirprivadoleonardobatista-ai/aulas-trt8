@@ -1,0 +1,79 @@
+SEGMENTO s175
+== SLIDE: Aula 51: organização da Justiça do Trabalho
+* Direito Processual do Trabalho, parte 1: organização, competência, auxiliares e princípios
+* Três graus: Varas do Trabalho, TRTs e TST
+* Art. 111 CF: TST, TRTs e juízes do trabalho
+* EC 24/1999: fim da representação classista; Juntas viram Varas
+ANTONIO: Olá, pessoal, sejam bem-vindos! Esta é a aula cinquenta e um do nosso curso, de Direito Processual do Trabalho, primeira parte. Hoje vamos ver a organização da Justiça do Trabalho, a competência material do artigo cento e catorze da Constituição, os conflitos de competência, os serviços auxiliares e, por fim, peritos, honorários periciais e gratuidade de justiça.
+FRANCISCA: Eu sou a Francisca, professora, e vou trazer a lei em paráfrase, a jurisprudência e os exemplos concretos.
+BRUNO: Eu sou o Bruno, especialista em FCC, e vou mostrar como a banca cobra cada ponto e onde ela arma as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira. Vou perguntar o que vocês, alunos, perguntariam, e vou tentar resumir tudo com macetes.
+ANTONIO: Vamos ao primeiro tema. A estrutura tem três graus: as Varas do Trabalho, com juiz singular, os Tribunais Regionais do Trabalho, em vinte e quatro regiões, e o Tribunal Superior do Trabalho, com vinte e sete ministros.
+FRANCISCA: A Justiça do Trabalho integra o Poder Judiciário da União. Segundo o artigo cento e onze da Constituição, são três órgãos: o Tribunal Superior do Trabalho, os Tribunais Regionais do Trabalho e os juízes do trabalho.
+THALITA: Mas na CLT ainda aparece Junta de Conciliação e Julgamento. Isso não acabou?
+BRUNO: Acabou. A Emenda Constitucional vinte e quatro, de mil novecentos e noventa e nove, extinguiu a representação classista e transformou as Juntas em Varas do Trabalho. O artigo cento e dezesseis diz que nas Varas a jurisdição é exercida por um juiz singular.
+ANTONIO: Antes, o modelo era colegiado: um juiz togado e dois vogais classistas. Hoje, onde a CLT fala em Junta ou presidente da Junta, leia-se Vara do Trabalho e juiz do trabalho.
+BRUNO: E atenção: a FCC costuma manter a nomenclatura antiga nas alternativas que copiam a CLT. Isso não torna a alternativa errada.
+THALITA: Então se aparecer Junta de Conciliação na alternativa literal da CLT, não me assusto.
+FRANCISCA: Isso mesmo. Agora vamos ver quem compõe cada órgão e como se chega lá.
+== SLIDE: Composição, investidura e quinto constitucional
+* TST: 27 ministros; maioria absoluta do Senado (art. 111-A)
+* TRT: no mínimo 7 juízes; sem sabatina (art. 115)
+* Idade: mais de 35 (TST) ou 30 (TRT) e menos de 70 (EC 122/2022)
+* Quinto: advogados e MPT com mais de 10 anos
+ANTONIO: O TST tem vinte e sete ministros, brasileiros com mais de trinta e cinco e menos de setenta anos, de notável saber jurídico e reputação ilibada. A nomeação é pelo Presidente da República, depois de aprovação pela maioria absoluta do Senado.
+FRANCISCA: O TRT tem no mínimo sete juízes, os desembargadores, recrutados, quando possível, na própria região. Exige-se mais de trinta e menos de setenta anos, e a nomeação é pelo Presidente da República, sem sabatina no Senado.
+THALITA: E o juiz da Vara?
+BRUNO: Entra por concurso público de provas e títulos, como juiz substituto, artigos cento e doze e cento e dezesseis. E o teto de menos de setenta anos veio da Emenda Constitucional cento e vinte e dois, de dois mil e vinte e dois, que elevou o antigo teto de sessenta e cinco. Questão desatualizada com sessenta e cinco anos hoje está errada.
+ANTONIO: Sobre o quinto constitucional: em ambos os tribunais, um quinto das vagas é de advogados com mais de dez anos de efetiva atividade profissional e de membros do Ministério Público do Trabalho com mais de dez anos de efetivo exercício, conforme o artigo noventa e quatro.
+FRANCISCA: As demais vagas diferem. No TST, são juízes dos TRTs oriundos da magistratura de carreira, indicados pelo próprio TST. No TRT, é promoção de juízes do trabalho, alternadamente por antiguidade e merecimento.
+THALITA: Deixa eu resumir. Senado só para o TST, maioria absoluta. TRT é sem sabatina. Certo?
+BRUNO: Certo, e são as três pegadinhas clássicas. Primeira: dizer que a nomeação de juiz de TRT depende do Senado, falso. Segunda: trocar maioria absoluta por maioria simples ou dois terços. Terceira: dizer que o TRT tem no máximo sete juízes, quando o número é mínimo.
+THALITA: Mínimo sete, máximo nenhum. Entendi o macete.
+FRANCISCA: E aproveitando que falamos de TRT, o nosso TRT da Oitava Região tem sede em Belém e jurisdição sobre o Pará e o Amapá.
+ANTONIO: Vamos então aos institutos que complementam essa estrutura.
+== SLIDE: Justiça itinerante, CSJT, ENAMAT e juízes de direito
+* Itinerante e câmaras regionais: art. 115, §§ 1º e 2º CF
+* ENAMAT e CSJT: art. 111-A, § 2º; CSJT com efeito vinculante
+* Reclamação no TST (EC 92/2016)
+* Juiz de direito: recurso ao TRT; Súmulas 10 e 180 do STJ
+FRANCISCA: Começando pela justiça itinerante. Os TRTs instalam audiências nos limites da sua jurisdição, usando equipamentos públicos e comunitários. As câmaras regionais permitem que o tribunal funcione descentralizado, para assegurar o acesso em todas as fases do processo. Ambas estão no artigo cento e quinze.
+BRUNO: A ENAMAT é a Escola Nacional de Formação e Aperfeiçoamento de Magistrados do Trabalho, que funciona junto ao TST e regulamenta os cursos oficiais de ingresso e promoção. Já o CSJT, Conselho Superior da Justiça do Trabalho, supervisiona a parte administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus.
+THALITA: E as decisões do CSJT valem só como recomendação?
+ANTONIO: Não, têm efeito vinculante. E a Emenda Constitucional noventa e dois, de dois mil e dezesseis, deu ao TST competência originária para a reclamação, destinada a preservar sua competência e garantir a autoridade de suas decisões.
+FRANCISCA: Agora, o juiz de direito com jurisdição trabalhista. Nas comarcas sem Vara do Trabalho, a lei pode atribuir essa jurisdição ao juiz estadual, que atua como órgão da Justiça do Trabalho. Tem a mesma competência das Varas, artigo seiscentos e sessenta e nove da CLT.
+THALITA: E se eu recorrer da decisão dele, vou para o Tribunal de Justiça?
+BRUNO: Pegadinha! O recurso vai para o TRT da respectiva região, não para o TJ. E, instalada a Vara, cessa a competência do juiz de direito, inclusive para executar as sentenças que ele mesmo proferiu. É a Súmula dez do STJ.
+THALITA: Então ele não fica com a execução das próprias sentenças. Anotei.
+ANTONIO: Exatamente. A competência é transferida integralmente. E se houver conflito entre o juiz de direito investido e uma Vara da mesma região, quem resolve é o TRT, pela Súmula cento e oitenta do STJ.
+BRUNO: A FCC afirma que ele conserva a execução. Está errado.
+THALITA: Então vou guardar assim: instalou a Vara, o juiz de direito sai de cena, inclusive da execução, e o recurso sempre vai para o TRT. Dá para errar de olho fechado se eu lembrar do TRT, e não do Tribunal de Justiça.
+== SLIDE: Competência territorial das Varas: artigo 651
+* Regra: local da prestação de serviços (art. 651, caput)
+* § 1º: viajante, filial subordinada, depois domicílio
+* § 3º: empregador itinerante, celebração ou prestação
+* Competência relativa; exceção em 5 dias (art. 800)
+ANTONIO: A competência em razão do lugar é relativa. Deve ser arguida por exceção, não pode ser declarada de ofício e prorroga-se se não for arguida.
+FRANCISCA: A regra geral do artigo seiscentos e cinquenta e um é o local onde o empregado presta serviços ao empregador, ainda que contratado em outro local ou no estrangeiro. Vale para quem é reclamante ou reclamado.
+THALITA: E se for vendedor viajante?
+BRUNO: Parágrafo primeiro: Vara da localidade onde a empresa tenha agência ou filial à qual o empregado esteja subordinado. Na falta, a Vara do domicílio do empregado ou da localidade mais próxima.
+FRANCISCA: Parágrafo segundo: a competência das Varas brasileiras alcança dissídios em agência ou filial no estrangeiro, desde que o empregado seja brasileiro e não haja convenção internacional em sentido contrário. E o parágrafo terceiro: se o empregador realiza atividades fora do lugar do contrato, o empregado escolhe o foro da celebração ou o da prestação.
+ANTONIO: Um exemplo. Carla foi contratada em Belém pela Alfa Eventos, que monta feiras itinerantes, e trabalhou em Macapá e Santarém. Pelo parágrafo terceiro, pode ajuizar em Belém ou em qualquer lugar onde prestou serviços.
+FRANCISCA: Já Bruno, vendedor da Beta, subordinado à filial de Marabá, ajuíza em Marabá. Sem filial a que se subordinasse, seria no domicílio dele.
+BRUNO: E, se o trabalhador usa a faculdade do parágrafo terceiro, a Orientação Jurisprudencial cento e quarenta e nove da SDI-dois diz que o juiz não pode declarar de ofício a incompetência territorial.
+THALITA: E se a empresa quiser contestar o foro?
+FRANCISCA: Pela Reforma, no artigo oitocentos, a exceção é apresentada em cinco dias, contados da notificação, antes da audiência. Ela suspende o processo, o reclamante tem cinco dias para manifestação, e se for preciso o juiz designa audiência, com oitiva de testemunhas do excipiente por carta precatória no juízo que ele indicou.
+BRUNO: A jurisprudência do TST admite, excepcionalmente, o domicílio do empregado quando a empresa atua em todo o país. Mas é construção jurisprudencial. Em prova de letra de lei, prevalece o artigo seiscentos e cinquenta e um.
+== SLIDE: Órgãos internos do TRT e do TST
+* TRT: Pleno, Turmas, Seções; Órgão Especial se mais de 25 julgadores
+* TST: Pleno, Órgão Especial, SDC, SDI-1, SDI-2 e Turmas
+* SDI-1 = embargos; SDI-2 = rescisória e mandado de segurança
+* Recurso de revista: sempre Turma
+ANTONIO: O TRT funciona em Tribunal Pleno e, se o regimento prevê, em Turmas e Seções Especializadas. Tribunais com mais de vinte e cinco julgadores podem criar Órgão Especial, artigo noventa e três, inciso onze.
+FRANCISCA: No TST, o Pleno trata das matérias de maior relevância institucional: eleição da direção, súmulas e precedentes normativos, arguição de inconstitucionalidade. O Órgão Especial cuida de matérias administrativas e regimentais.
+THALITA: E a SDC e as SDIs?
+BRUNO: A SDC julga dissídios coletivos que excedam a área de um TRT, recursos ordinários contra decisões de TRTs em dissídio coletivo e homologação de acordos nesses processos.
+FRANCISCA: A SDI-um julga embargos contra decisões de Turmas divergentes entre si ou contrárias a súmula, orientação do TST ou súmula vinculante, conforme o artigo oitocentos e noventa e quatro, inciso dois, da CLT. A SDI-dois julga ações rescisórias e mandados de segurança de competência originária, recursos ordinários em rescisória, mandado de segurança e habeas corpus, e conflitos de competência.
+THALITA: Macete: SDI-um é embargos, o recurso que uniformiza. SDI-dois são as ações originárias, rescisória e mandado de segurança. E recurso de revista?
+BRUNO: Sempre julgado por Turma, que também decide agravo de instrumento em recurso de revista. Atenção: a distribuição exata entre Pleno e Órgão Especial depende do Regimento Interno vigente, então confira a redação atual se a questão citar o regimento.
+ANTONIO: Fechamos a organização da Justiça do Trabalho. Agora que sabemos quem são os órgãos, vamos ver o que eles podem julgar: a competência material do artigo cento e catorze da Constituição.
