@@ -1,0 +1,88 @@
+SEGMENTO s222
+== SLIDE: Direitos reais, propriedade e usucapião
+* Direito real: oponível a todos, sequela, preferência; rol taxativo (art. 1.225)
+* Propriedade: usar, gozar, dispor e reaver (art. 1.228)
+* Imóvel: registro, acessão, usucapião
+* Usucapião: 15, 10, 5 e 2 anos conforme a modalidade
+ANTONIO: Depois da posse, chegamos ao direito real mais importante: a propriedade. Direito real é oponível a todos, com sequela e preferência, e só a lei o cria. O rol do artigo mil duzentos e vinte e cinco é taxativo.
+THALITA: E o que entra nesse rol?
+FRANCISCA: Propriedade; os de gozo, como superfície, servidões, usufruto, uso, habitação e laje; o do promitente comprador; e os de garantia, penhor, hipoteca e anticrese. Propriedade é usar, gozar, dispor e reaver, artigo mil duzentos e vinte e oito.
+BRUNO: Atos emulativos, aqueles praticados só para prejudicar o vizinho, são vedados. E jazidas e minas são da União.
+ANTONIO: Para o imóvel, o registro transfere a propriedade. Sem ele, o alienante continua dono. Também há a acessão, por ilhas, aluvião, avulsão, álveo abandonado, plantações e construções.
+THALITA: E avulsão? Nunca decorei.
+BRUNO: Avulsão é quando uma porção de terra se desprende e vai para outro terreno. O dono reclama em um ano.
+FRANCISCA: Construção em terreno alheio pertence ao dono do solo, com indenização a quem agiu de boa-fé. Mas se a obra valer consideravelmente mais que o terreno, o construtor de boa-fé adquire o solo, pagando indenização. É a acessão inversa.
+ANTONIO: Agora a usucapião, a campeã de prova. Extraordinária: quinze anos, sem título e sem boa-fé. Se houver moradia habitual ou obras produtivas, cai para dez.
+THALITA: E a ordinária?
+FRANCISCA: Dez anos, com justo título e boa-fé. Cai para cinco quando a compra foi onerosa, com registro depois cancelado, e há moradia ou investimento.
+BRUNO: As especiais são de cinco anos. Rural: até cinquenta hectares, produtiva, com moradia e sem outro imóvel. Urbana: até duzentos e cinquenta metros quadrados, moradia, sem outro imóvel, uma única vez.
+THALITA: Então a familiar é a de dois anos, para quem foi abandonado no lar?
+FRANCISCA: Isso. Imóvel urbano até duzentos e cinquenta metros quadrados, partilhado com ex-cônjuge ou companheiro que abandonou o lar, com posse direta e exclusiva.
+ANTONIO: A coletiva é de cinco anos. E nos móveis: três anos com título e boa-fé, cinco sem eles.
+THALITA: Deixa eu repetir para fixar. Quinze anos sem nada, dez com título e boa-fé, cinco nas especiais, dois na familiar. Nos móveis, três com título e cinco sem. Falta só treinar a diferença entre rural e urbana, que eu sempre embaralho.
+== SLIDE: Usucapião: pegadinhas e aquisição de móveis
+* Bem público não se usucapia (Súmula 340 STF)
+* Modo originário; soma de posses (art. 1.243)
+* Móveis: tradição, ocupação, descoberta, tesouro
+* Tesouro: metade para o dono do prédio e metade para o descobridor
+BRUNO: A escada de prazos é este macete: dois, familiar; três, móvel com título; cinco, as especiais, a coletiva, a ordinária tabular e o móvel sem título; dez, ordinária e extraordinária com moradia; quinze, extraordinária pura.
+THALITA: As pegadinhas, quais são?
+ANTONIO: Trocar dez por quinze, e cinquenta hectares por duzentos e cinquenta metros. E dizer que a extraordinária exige boa-fé: errado.
+FRANCISCA: Bens públicos não se usucapem, Súmula trezentos e quarenta do STF. A usucapião pode ser alegada em defesa, Súmula duzentos e trinta e sete. É modo originário, admite soma de posses, e valem as causas suspensivas e interruptivas da prescrição. Também existe a via extrajudicial.
+BRUNO: Exemplo: Márcio deixou o lar, e Ana ficou no apartamento de cento e vinte metros, sem outro imóvel, por dois anos, sem oposição. Ela usucape a fração dele. Se fossem trezentos metros, não caberia essa modalidade.
+THALITA: Agora os bens móveis. A tradição transfere a propriedade?
+ANTONIO: Transfere. Se feita por quem não é dono, não transfere, salvo adquirente de boa-fé em leilão ou loja, ou se o alienante adquirir depois a propriedade.
+FRANCISCA: Ocupação: quem se apodera de coisa sem dono a adquire. Na descoberta, quem acha coisa perdida a devolve, e tem direito a recompensa mínima de cinco por cento do valor.
+THALITA: E tesouro? Eu achei um baú no sítio do meu tio!
+BRUNO: Se você achou por acaso, metade para o dono do prédio e metade para você. Se achado pelo próprio dono, por pesquisa que ele ordenou ou por terceiro não autorizado, é todo do dono.
+FRANCISCA: Na especificação, quem cria espécie nova com matéria alheia a adquire, se irreversível e de boa-fé, ou se a mão de obra valer muito mais que a matéria.
+ANTONIO: E confusão, comistão e adjunção são misturas de líquidos, de sólidos ou justaposição. Se separáveis, voltam aos donos. Se inseparáveis, formam condomínio, ou o dono da coisa principal adquire e indeniza.
+THALITA: Entendi: misturou sem separar, condomínio.
+== SLIDE: Perda da propriedade e função social
+* Perda: alienação, renúncia, abandono, perecimento, desapropriação
+* Abandono: após 3 anos, Município ou DF (urbano) ou União (rural)
+* Reivindicatória: não prescreve, cede à usucapião
+* Função social: plano diretor (urbana); quatro requisitos (rural)
+BRUNO: Perda da propriedade, artigo mil duzentos e setenta e cinco. Ocorre por alienação, renúncia, abandono, perecimento e desapropriação. Nos imóveis, alienação e renúncia só têm efeito com o registro.
+FRANCISCA: No abandono, o imóvel arrecadado como vago passa, depois de três anos, ao Município ou ao Distrito Federal, se urbano, ou à União, se rural. Há presunção absoluta quando, cessada a posse, o dono deixa de pagar os tributos.
+THALITA: E se alguém tomar meu imóvel? Reivindico?
+ANTONIO: A reivindicatória é do dono sem posse contra quem possui ou detém injustamente. Não prescreve, mas cede à usucapião consumada.
+BRUNO: Passemos à função social da propriedade, garantia condicionada pela Constituição e princípio da ordem econômica. Pegadinha clássica: a urbana se mede pelo plano diretor.
+FRANCISCA: Se o proprietário urbano não cumpre, a Constituição prevê parcelamento ou edificação compulsórios, depois IPTU progressivo e, por fim, desapropriação com títulos resgatáveis em até dez anos.
+THALITA: E a rural?
+ANTONIO: A rural cumpre a função social quando atende, ao mesmo tempo, a quatro requisitos do artigo cento e oitenta e seis: aproveitamento racional; uso adequado dos recursos naturais e preservação ambiental; respeito às leis trabalhistas; e bem-estar de proprietários e trabalhadores.
+BRUNO: Atenção: cumulativos. Basta falhar em um e a banca considera descumprida.
+FRANCISCA: Imóvel rural improdutivo pode ser desapropriado para reforma agrária, com títulos da dívida agrária resgatáveis em até vinte anos. As benfeitorias úteis e necessárias são pagas em dinheiro.
+THALITA: Urbana, plano diretor. Rural, quatro requisitos juntos. Gravei.
+== SLIDE: Direito de vizinhança e condomínio geral
+* Uso anormal: segurança, sossego e saúde (art. 1.277)
+* Passagem forçada: imóvel encravado, com indenização cabal
+* Janelas: 1,5 m da divisa urbana; desfazimento em ano e dia
+* Condomínio geral: divisão a qualquer tempo; indivisão até 5 anos
+ANTONIO: Agora a vizinhança. O proprietário pode fazer cessar interferências prejudiciais à segurança, ao sossego e à saúde. É o uso anormal, do artigo mil duzentos e setenta e sete.
+FRANCISCA: Sobre árvores, o tronco na divisa presume-se comum. Raízes e ramos que invadem podem ser cortados até o plano divisório. Os frutos caídos pertencem ao dono do solo onde caíram.
+THALITA: E se meu terreno não tem saída para a rua?
+BRUNO: É a passagem forçada, artigo mil duzentos e oitenta e cinco. Prédio encravado, sem acesso a via pública, nascente ou porto: o vizinho cede passagem mediante indenização cabal. E não confunda com a servidão de passagem, que é direito real voluntário, registrado, por mera utilidade.
+ANTONIO: O prédio inferior recebe as águas que correm naturalmente do superior. E, para construir, janela, terraço ou varanda ficam a um metro e meio da divisa urbana.
+FRANCISCA: São setenta e cinco centímetros se não houver visão direta, e três metros na zona rural. O desfazimento deve ser exigido em ano e dia da conclusão da obra.
+THALITA: Um e meio, setenta e cinco, três. Já decorei.
+BRUNO: No condomínio geral, a divisão pode ser exigida a todo tempo. A indivisão pactuada vale até cinco anos, prorrogável. Doador ou testador também podem impor até cinco anos.
+ANTONIO: Se a coisa é indivisível, será vendida, e o condômino tem preferência sobre estranhos. Na venda de quota, o preterido deposita o preço em cento e oitenta dias.
+== SLIDE: Condomínio edilício, resolúvel e fiduciária
+* Convenção: 2/3 das frações ideais; alteração e destinação: 2/3 dos votos
+* Multas: 2% pelo atraso; 5 vezes; 10 vezes para antissocial
+* Obras: voluptuárias 2/3; úteis maioria; novo pavimento unanimidade
+* Síndico: pode ser estranho; mandato de até 2 anos
+* Fiduciária: registro; devedor possuidor direto; pacto comissório nulo
+FRANCISCA: Condomínio edilício é a campeã de quóruns. A convenção é subscrita por pelo menos dois terços das frações ideais e obriga mesmo sem registro, Súmula duzentos e sessenta do STJ. A alteração da convenção e a mudança de destinação exigem dois terços dos votos.
+THALITA: Mudança de destinação não era unanimidade?
+BRUNO: Era, mas a lei catorze mil quatrocentos e cinco, de dois mil e vinte e dois, passou para dois terços. E a lei catorze mil trezentos e nove admitiu assembleia eletrônica.
+ANTONIO: Atraso na contribuição: juros convencionados ou um por cento ao mês, mais multa de até dois por cento. Descumprimento de dever: até cinco vezes a contribuição mensal. Se for reiterado, até cinco vezes, por três quartos dos demais condôminos. E o antissocial reiterado, até dez vezes.
+THALITA: Dou um exemplo: mensalidade de oitocentos reais. Festas insuportáveis, multa de até oito mil. Descumprir deveres, até quatro mil, com três quartos dos demais.
+BRUNO: Perfeito. Dois terços e três quartos, cinco e dez vezes, esses são os números trocados pela banca.
+FRANCISCA: Nas obras, voluptuárias exigem dois terços; úteis, maioria; necessárias, o síndico ou qualquer condômino faz, sem autorização; novo pavimento, unanimidade.
+ANTONIO: O síndico pode ser estranho ao condomínio, tem mandato de até dois anos, renovável, e é destituído pela maioria absoluta. Garagem não se aliena nem se aluga a estranhos, salvo autorização na convenção. E o adquirente responde pelos débitos do alienante.
+THALITA: Síndico precisa ser condômino? Errado, pode ser estranho.
+BRUNO: Duas propriedades especiais. Resolúvel: resolvida pela condição ou termo do título, caem os direitos concedidos na pendência. Fiduciária: bem móvel infungível transferido ao credor em garantia, constituída pelo registro, e o devedor é possuidor direto.
+THALITA: Resumo rápido: fiduciária se constitui com registro, o devedor fica com a posse direta, e ficar com a coisa sem leilão, de jeito nenhum.
+FRANCISCA: Nula a cláusula que permite ao credor ficar com a coisa, o pacto comissório. Imóveis seguem a lei nove mil quinhentos e catorze. Agora vamos aos direitos reais sobre coisa alheia e às questões comentadas.
