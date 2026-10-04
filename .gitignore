@@ -1,0 +1,5 @@
+saida/
+.cache_tts/
+__pycache__/
+*.pyc
+amostras_vozes/

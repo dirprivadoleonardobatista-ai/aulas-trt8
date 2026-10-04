@@ -1,0 +1,63 @@
+name: producao
+
+# Sessoes do Claude Code na nuvem fazem push de roteiros/ (num branch claude/... ou no main).
+# 1) integrar: copia so os roteiros validos do branch para o main
+# 2) render:   gera voz, slides e video das aulas completas e publica no release "aulas"
+on:
+  push:
+    paths: ["roteiros/**"]
+  workflow_dispatch:
+    inputs:
+      aula:
+        description: "Refazer so esta aula (ex.: a012). Vazio = todas as prontas"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  integrar:
+    if: github.ref_name != 'main'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: integrar
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Integrar roteiros do branch
+        run: python3 ferramentas/integrar.py "${{ github.ref_name }}"
+
+  render:
+    needs: integrar
+    if: ${{ always() && (needs.integrar.result == 'success' || needs.integrar.result == 'skipped') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    concurrency:
+      group: render
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar ffmpeg e bibliotecas
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q "edge-tts==7.2.8" pillow
+      - name: Gerar e publicar as aulas prontas
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TTS_PARALELO: "6"
+        run: |
+          if [ -n "${{ inputs.aula }}" ]; then
+            python -m estudio.render --aula "${{ inputs.aula }}" --max-minutos 300
+          else
+            python -m estudio.render --max-minutos 300
+          fi
