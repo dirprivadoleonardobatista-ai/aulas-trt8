@@ -1,0 +1,39 @@
+SEGMENTO s157
+== SLIDE: Questão 12: minutos residuais e tempo de trajeto
+* Art. 58, § 1º: tolerância de 5 minutos por marcação, 10 por dia
+* Súmula 366: ultrapassado o limite, paga-se todo o tempo
+* Art. 58, § 2º: trajeto não conta na jornada
+* Horas in itinere extintas pela Lei 13.467/2017
+BRUNO: Terminamos a primeira parte das questões. Vamos à segunda. Questão doze: Tereza bate o ponto às sete e cinquenta e dois e às dezessete e três, numa jornada de oito às dezessete, com uma hora de intervalo. Usa o transporte da empresa até um local rural de difícil acesso. Fatos de dois mil e vinte e cinco. A diz que nenhum minuto é extra, porque cada variação não passou de dez minutos. B diz que só se pagam os minutos que passaram de dez, e o trajeto conta. C diz que se pagam os onze minutos e o trajeto não conta. D diz que se pagam os onze e o trajeto conta, por ser local de difícil acesso. E diz que se pagam só três minutos.
+THALITA: Pausa para você pensar. Eu somaria: oito minutos antes da entrada e três depois da saída, onze no total. Mas o limite era de dez, certo?
+FRANCISCA: O artigo cinquenta e oito, parágrafo primeiro, diz que não são descontadas nem computadas as variações de até cinco minutos em cada marcação, observado o limite de dez minutos diários. Aqui os oito minutos passaram de cinco, e o total de onze passou de dez. Ultrapassou o limite.
+ANTONIO: E, pela Súmula trezentos e sessenta e seis do TST, ultrapassado o limite, conta-se a totalidade do tempo excedente. Não só o que sobrou. Então os onze minutos são extras. Isso derruba a A, a B e a E.
+BRUNO: Sobra a escolha entre C e D, que é sobre o trajeto. O artigo cinquenta e oito, parágrafo segundo, diz que o tempo de deslocamento até o local de trabalho não é computado na jornada, inclusive quando o transporte é fornecido pelo empregador. As horas in itinere foram extintas pela Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete.
+THALITA: Então a D está errada porque ainda aplica as horas de trajeto.
+FRANCISCA: Isso. Gabarito C.
+ANTONIO: Macete: cinco por marcação, dez por dia; passou, paga tudo; trajeto nunca conta.
+== SLIDE: Questão 13: repouso semanal, domingos e feriados
+* Domingos e feriados não compensados: pagamento em dobro (Súmula 146)
+* RSR após o sétimo dia: pagamento em dobro (OJ 410)
+* Súmula 110: horas após o repouso, com prejuízo do intervalo, são extras
+* Art. 7º, XV, CF: repouso preferencialmente aos domingos
+THALITA: Questão treze. Item um: domingos e feriados trabalhados e não compensados são pagos em dobro, sem prejuízo do repouso semanal. Item dois: a concessão do repouso depois do sétimo dia consecutivo de trabalho importa pagamento em dobro. Item três: no revezamento, as horas trabalhadas depois do repouso de vinte e quatro horas, com prejuízo do intervalo de onze horas entre jornadas, são extras, inclusive com adicional. Item quatro: o repouso semanal deve ser concedido obrigatoriamente aos domingos. Quais estão corretos?
+FRANCISCA: Pausa para você pensar. Vou começar pelo item quatro, que é o mais fácil de derrubar.
+BRUNO: O artigo sétimo, inciso quinze, da Constituição diz repouso semanal remunerado, preferencialmente aos domingos. Preferencialmente, e não obrigatoriamente. O item quatro está errado.
+ANTONIO: O item um está correto: é a Súmula cento e quarenta e seis do TST. O trabalho em domingo ou feriado não compensado é pago em dobro, sem prejuízo da remuneração do repouso semanal. O item dois também: a Orientação Jurisprudencial quatrocentos e dez da SDI-1 manda pagar em dobro o repouso concedido após o sétimo dia consecutivo de trabalho, sem prejuízo da remuneração relativa ao próprio repouso.
+THALITA: E o item três, do intervalo de onze horas?
+FRANCISCA: Está certo, pela Súmula cento e dez. No revezamento, as horas trabalhadas em seguida ao repouso semanal de vinte e quatro horas, com prejuízo do intervalo mínimo de onze horas consecutivas entre jornadas, devem ser pagas como extraordinárias, inclusive com o adicional.
+BRUNO: Então os itens corretos são um, dois e três. Gabarito E. A alternativa A inclui o item quatro e omite o dois e o três. A C e a D também incluem o quatro. A B omite o um.
+THALITA: Macete: domingo e feriado, dobro; sétimo dia, dobro; domingo é só preferencialmente.
+== SLIDE: Questão 14: horas extras e o resumo da aula
+* Súmula 291: supressão de horas extras habituais, indenização
+* Serviços inadiáveis: até 12 horas (art. 61, § 2º)
+* Súmula 340: comissionista puro recebe só o adicional
+* Súmula 376: todas as horas trabalhadas são pagas
+ANTONIO: Questão catorze. Sobre trabalho extraordinário, qual afirmação é correta? A diz que nos serviços inadiáveis a jornada pode ser prorrogada sem limite. B diz que a supressão de serviço suplementar habitual por pelo menos um ano gera indenização de um mês das horas suprimidas para cada ano ou fração igual ou superior a seis meses. C diz que a recuperação de horas por paralisação acidental pode ser de duas horas diárias por sessenta dias, sem autorização. D diz que o comissionista puro recebe a hora extra com cinquenta por cento sobre divisor de duzentos e vinte. E diz que o limite de duas horas diárias exime o empregador de pagar o excedente.
+THALITA: Pausa para você pensar. A letra B parece conhecida, de uma súmula.
+BRUNO: É a Súmula duzentos e noventa e um do TST, gabarito B. A supressão total ou parcial, pelo empregador, do serviço suplementar prestado com habitualidade, durante pelo menos um ano, assegura indenização correspondente ao valor de um mês das horas suprimidas, total ou parcialmente, para cada ano ou fração igual ou superior a seis meses.
+FRANCISCA: A A erra: nos serviços inadiáveis o limite é de doze horas, artigo sessenta e um, parágrafo segundo. A ausência de limite expresso é a da força maior. A C erra o prazo e a autorização: são quarenta e cinco dias por ano, com autorização prévia da autoridade e teto de dez horas diárias, parágrafo terceiro.
+ANTONIO: A D mistura: o comissionista puro, pela Súmula trezentos e quarenta, recebe apenas o adicional sobre o valor-hora das comissões, com divisor igual às horas efetivamente trabalhadas. E a E erra, porque a Súmula trezentos e setenta e seis, item um, diz que todas as horas trabalhadas devem ser pagas, mesmo acima do limite.
+THALITA: Então, resumo relâmpago do que mais cai na FCC nesta aula. Teletrabalho: ida só por acordo, volta por ordem com quinze dias, comparecimento habitual não descaracteriza, norma do estabelecimento de lotação. Intervalo suprimido: paga só o suprimido, com cinquenta por cento, indenizatório. Banco de horas: seis meses individual escrito, um ano coletivo. Noturno: urbano das vinte e duas às cinco com vinte por cento e hora reduzida; rural, vinte e cinco por cento e hora cheia. Férias: tabela trinta, vinte e quatro, dezoito e doze; fracionamento em três períodos com um de catorze; abono, um terço. Doze por trinta e seis, individual escrito. Minutos residuais: passou de dez, paga tudo.
+ANTONIO: Excelente resumo, Thalita. Encerramos a aula quarenta e cinco. Bons estudos e até a próxima!
