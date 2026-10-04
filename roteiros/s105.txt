@@ -1,0 +1,74 @@
+SEGMENTO s105
+== SLIDE: Fases do processo e inversão (art. 17)
+* Fases: preparatória, divulgação, propostas e lances, julgamento, habilitação, recursal, homologação
+* Inversão: ato motivado, benefícios explícitos e previsão no edital
+* Forma eletrônica preferencial; presencial motivada, com gravação
+* Divulgação no PNCP; recurso em fase única
+ANTONIO: Já conhecemos os conceitos e os agentes. Agora o caminho: o processo licitatório, pelo artigo dezessete, tem fases em ordem. Primeiro a preparatória, depois a divulgação do edital, as propostas e lances, o julgamento, a habilitação, a fase recursal e a homologação.
+THALITA: Então primeiro julga e depois habilita?
+FRANCISCA: Essa é a regra: julga-se a proposta e só depois se examinam os documentos do vencedor. A habilitação pode vir antes do julgamento, a chamada inversão de fases, mas é exceção.
+BRUNO: E a inversão exige três requisitos cumulativos: ato motivado, explicitação dos benefícios decorrentes e previsão expressa no edital. Faltou um, não pode.
+ANTONIO: A forma eletrônica é preferencial, não obrigatória. Se for presencial, precisa ser motivada, e a sessão pública deve ser registrada em ata e gravada em áudio e vídeo.
+THALITA: Então se a questão disser que a forma eletrônica é obrigatória sempre, está errada.
+BRUNO: Errada, é preferencial.
+FRANCISCA: Na fase preparatória entram o estudo técnico, o termo de referência ou projeto, o orçamento, a matriz de riscos e o edital. Ela termina com o controle prévio de legalidade feito pela assessoria jurídica.
+ANTONIO: Na divulgação, o edital integral vai ao Portal Nacional de Contratações Públicas, o PNCP, e um extrato sai no diário oficial e em jornal diário de grande circulação.
+FRANCISCA: No julgamento, vale o critério do edital. Em obras e serviços de engenharia, proposta inferior a setenta e cinco por cento do valor orçado é considerada inexequível. E, se ficar abaixo de oitenta e cinco por cento, exige-se garantia adicional.
+THALITA: Setenta e cinco é inexequível, e abaixo de oitenta e cinco, garantia a mais.
+BRUNO: A fase recursal é única, depois da habilitação. E o orçamento pode ser sigiloso, sempre acessível aos órgãos de controle. Exceção: no critério de maior desconto, o preço estimado ou máximo consta do edital.
+FRANCISCA: Na homologação, a autoridade superior pode sanear, revogar, anular, ou adjudicar e homologar.
+
+== SLIDE: Modalidades e critérios de julgamento
+* Pregão: bens e serviços comuns, inclusive engenharia comum; menor preço ou maior desconto
+* Concorrência: especiais; obras; qualquer critério exceto maior lance
+* Concurso, leilão e diálogo competitivo
+* Convite e tomada de preços foram extintos
+* Maior retorno econômico: só em contrato de eficiência
+ANTONIO: São cinco modalidades, no artigo vinte e oito: pregão, concorrência, concurso, leilão e diálogo competitivo. O rol é taxativo, e a lei veda criar outras modalidades ou combinar as existentes.
+THALITA: E o convite e a tomada de preços?
+BRUNO: Foram extintos. Se a questão falar nelas como modalidades da nova lei, está errada. E credenciamento, pré-qualificação e registro de preços não são modalidades, são procedimentos auxiliares.
+FRANCISCA: O pregão é obrigatório para bens e serviços comuns, inclusive serviço comum de engenharia. Não serve para serviços técnicos de natureza predominantemente intelectual, nem para obras, nem para serviços especiais de engenharia. Os critérios são só menor preço ou maior desconto.
+THALITA: Então pregão com técnica e preço, nunca.
+BRUNO: Nunca. Esta é a pegadinha preferida.
+ANTONIO: A concorrência serve para bens e serviços especiais e para obras e serviços de engenharia, comuns e especiais. Admite menor preço, maior desconto, melhor técnica, técnica e preço, e maior retorno econômico.
+FRANCISCA: O concurso é para trabalho técnico, científico ou artístico, com critério de melhor técnica ou conteúdo artístico, mediante prêmio ou remuneração. O leilão é para alienação de bens imóveis, ou de móveis inservíveis ou legalmente apreendidos, pelo critério de maior lance, sem habilitação.
+THALITA: Leilão de móvel qualquer, então, não pode.
+BRUNO: Só inservíveis ou apreendidos. Já o diálogo competitivo é para inovação tecnológica, adaptação de soluções de mercado, ou quando não se consegue definir as especificações com precisão. Tem comissão de três servidores efetivos.
+ANTONIO: Sobre os critérios, o artigo trinta e três tem seis: menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance e maior retorno econômico. Na técnica e preço, a proposta técnica tem peso máximo de setenta por cento.
+FRANCISCA: O maior retorno econômico só vale para contrato de eficiência, com remuneração em percentual da economia. E serviços técnicos intelectuais acima de trezentos mil reais, no valor original, pedem melhor técnica ou técnica e preço, salvo inexigibilidade.
+
+== SLIDE: Prazos mínimos e modos de disputa
+* Escada em dias úteis: 8, 10, 15, 25, 35 e 60
+* Bens: 8 (menor preço) ou 15; serviços comuns: 10; especiais: 25
+* Integrada: 60; semi-integrada: 35
+* Aberto: lances públicos; vedado com técnica e preço
+* Fechado: vedado isolado com menor preço ou maior desconto
+ANTONIO: Os prazos mínimos do artigo cinquenta e cinco contam-se em dias úteis, da divulgação do edital. A dica é decorar a escada: oito, dez, quinze, vinte e cinco, trinta e cinco e sessenta.
+THALITA: Fala devagar, que eu preciso encaixar cada número!
+FRANCISCA: Para bens, oito dias úteis se o critério for menor preço ou maior desconto, e quinze nos demais critérios. Para serviços comuns e obras e serviços comuns de engenharia, dez dias úteis com menor preço ou maior desconto. Para serviços e obras especiais, vinte e cinco.
+ANTONIO: A contratação integrada tem sessenta dias úteis. A semi-integrada e os demais serviços e obras, trinta e cinco. O maior lance, quinze. E técnica e preço ou melhor técnica, trinta e cinco.
+THALITA: Então oito, dez, quinze, vinte e cinco, trinta e cinco, sessenta. Bens primeiro, serviços depois, integrada no fim.
+BRUNO: Dois detalhes cobrados. A modificação do edital reabre os prazos, salvo se não afetar a formulação das propostas. E a redução do prazo até a metade só vale para o Ministério da Saúde, no SUS, por decisão fundamentada.
+ANTONIO: Agora os modos de disputa, no artigo cinquenta e seis. No modo aberto, os licitantes apresentam lances públicos e sucessivos. No fechado, as propostas são sigilosas até a data e hora marcadas.
+FRANCISCA: O modo aberto é vedado quando o critério é técnica e preço. E o modo fechado não pode ser usado isoladamente com menor preço ou maior desconto.
+THALITA: Aberto não vai com técnica e preço, e fechado, sozinho, não vai com menor preço.
+BRUNO: Perfeito. E a FCC costuma trocar um pelo outro.
+
+== SLIDE: Habilitação e procedimentos auxiliares
+* Jurídica, técnica, fiscal social e trabalhista, econômico-financeira
+* Técnica: parcela relevante a partir de 4%; mínimo até 50%
+* Econômica: dois exercícios; patrimônio mínimo até 10%; sem faturamento mínimo
+* Auxiliares: credenciamento, pré-qualificação, PMI, registro de preços, cadastral
+* Ata de registro de preços: um ano, prorrogável
+ANTONIO: Habilitação, artigos sessenta e dois a setenta. São quatro espécies: jurídica, técnica, fiscal, social e trabalhista, e econômico-financeira. Em regra, só o vencedor apresenta documentos.
+FRANCISCA: A jurídica comprova a existência da empresa e, se for o caso, a autorização para a atividade. A técnica traz registro profissional e atestados. A parcela relevante deve ser a partir de quatro por cento do valor estimado, e o quantitativo mínimo exigido pode ir até cinquenta por cento.
+BRUNO: Na fiscal, social e trabalhista: CPF ou CNPJ, regularidade nas Fazendas federal, estadual e municipal, FGTS, Justiça do Trabalho e cumprimento da proibição de trabalho de menores.
+THALITA: E na econômico-financeira, o que não pode exigir?
+BRUNO: Não pode exigir faturamento mínimo anterior nem índices de rentabilidade. Pode pedir demonstrações dos dois últimos exercícios, certidão negativa de falência e capital ou patrimônio líquido mínimo de até dez por cento.
+ANTONIO: Os procedimentos auxiliares estão no artigo setenta e oito: credenciamento, pré-qualificação, procedimento de manifestação de interesse, sistema de registro de preços e registro cadastral. Nenhum é modalidade.
+FRANCISCA: No credenciamento, todos que preencherem os requisitos são credenciados, e a contratação é paralela e não excludente, por inexigibilidade. A pré-qualificação seleciona previamente licitantes ou bens, com validade de até um ano.
+THALITA: E o PMI?
+FRANCISCA: A iniciativa privada apresenta estudos e projetos. Não gera preferência, não obriga a licitar, e o ressarcimento é pago só pelo vencedor da licitação.
+BRUNO: O registro de preços tem ata de um ano, prorrogável por igual período, e não obriga a contratar. O carona fica limitado a cinquenta por cento por aderente e ao dobro do quantitativo total. Órgão federal não pode aderir a ata estadual, distrital ou municipal.
+THALITA: E o registro cadastral é unificado no PNCP, com chamamento ao menos uma vez por ano.
+ANTONIO: Muito bem. Falta ver quando a licitação não acontece: a contratação direta, a anulação, os recursos, as sanções e o contrato administrativo. É o nosso próximo tema.
