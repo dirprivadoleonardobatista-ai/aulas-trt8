@@ -1,0 +1,69 @@
+SEGMENTO s211
+== SLIDE: PJe: Lei 11.419 e atos eletrônicos
+* Lei 11.419/2006; Res. CSJT 185/2017
+* Assinatura: certificado digital ou cadastro no Judiciário
+* Petição tempestiva até as 24 horas do último dia
+* Intimação: no dia da consulta; sem consulta, 10 dias corridos
+ANTONIO: Terminamos os recursos. Agora vamos ao Processo Judicial Eletrônico, o PJe. A base legal é a Lei onze mil quatrocentos e dezenove, de dois mil e seis, que trata da informatização do processo judicial. Na Justiça do Trabalho, a regulamentação é a Resolução cento e oitenta e cinco, de dois mil e dezessete, do CSJT.
+THALITA: A lei vale para processo trabalhista também?
+FRANCISCA: Vale. O artigo primeiro, parágrafo primeiro, diz que se aplica a processos civis, penais e trabalhistas, em qualquer grau de jurisdição. A assinatura eletrônica pode ser digital, com certificado de autoridade certificadora credenciada, ou por cadastro do usuário no Poder Judiciário.
+BRUNO: O envio de petições e recursos exige credenciamento prévio, com identificação presencial. O ato considera-se praticado no dia e hora do envio ao sistema, com protocolo eletrônico. E o parágrafo único do artigo terceiro: a petição enviada para cumprir prazo é tempestiva se transmitida até as vinte e quatro horas do último dia.
+THALITA: Então vale até meia-noite, não até o fim do expediente do fórum.
+BRUNO: Exatamente. Confira o horário na regulamentação do sistema, mas a regra é essa.
+FRANCISCA: Sobre diário eletrônico, a data da publicação é o primeiro dia útil seguinte ao da disponibilização, e o prazo começa no primeiro dia útil seguinte à publicação. A intimação por portal dispensa publicação em diário para quem se cadastrou, e considera-se feita no dia em que o intimando consulta o teor. Se a consulta for em dia não útil, vale para o primeiro dia útil seguinte.
+ANTONIO: E se ele não consulta? Aí entra a intimação tácita: considera-se feita automaticamente ao fim de dez dias corridos do envio.
+THALITA: Dez dias corridos ou úteis?
+BRUNO: Corridos! Mas os prazos processuais trabalhistas, depois da Reforma, contam-se em dias úteis, pelo artigo setecentos e setenta e cinco da CLT. A FCC adora inverter.
+FRANCISCA: Exemplo: a intimação da Tereza é enviada ao portal na segunda, dia dois. Ela não consulta. Contam-se dez dias corridos, e a intimação considera-se feita no dia doze. O prazo de oito dias úteis do recurso ordinário começa no primeiro dia útil seguinte. Se tivesse consultado no dia quatro, a intimação seria do dia quatro.
+THALITA: Deixa eu repetir para ver se entendi. Enviou na segunda, ninguém abriu, a intimação vale no décimo segundo dia, contando dez corridos. Depois o prazo do recurso é em dias úteis e só começa no dia útil seguinte. Se abrir antes, vale a data da abertura. É isso?
+ANTONIO: É isso mesmo, Thalita. Outras regras: as intimações eletrônicas, inclusive da Fazenda Pública, são pessoais. A citação também pode ser eletrônica, desde que a íntegra dos autos fique acessível. Se o sistema estiver indisponível no vencimento do prazo, ele se prorroga para o primeiro dia útil seguinte à solução. Documentos produzidos eletronicamente com garantia de origem e signatário são considerados originais.
+== SLIDE: Resoluções, Juízo 100% Digital e atos remotos
+* Art. 847, parágrafo único: defesa escrita pelo PJe até a audiência
+* Res. CNJ 345/2020: Juízo 100% Digital, facultativo
+* Res. CNJ 354/2020: audiências telepresenciais
+* Balcão Virtual e Domicílio Judicial Eletrônico
+* Conferir redação vigente de resoluções
+THALITA: Eu li que tem um tal de Juízo cem por cento digital. O que é isso?
+BRUNO: É a Resolução trezentos e quarenta e cinco, de dois mil e vinte, do CNJ. Todos os atos são praticados exclusivamente por meio eletrônico e remoto. A escolha é facultativa: o autor opta no ajuizamento, e o réu pode se opor. Há retratação, nos termos da resolução.
+FRANCISCA: Outras normas: a Resolução trezentos e cinquenta e quatro, de dois mil e vinte, trata do cumprimento digital de atos e das audiências telepresenciais ou por videoconferência. A trezentos e setenta e dois, de dois mil e vinte e um, criou o Balcão Virtual, com atendimento imediato por videoconferência em horário de expediente. E a quatrocentos e cinquenta e cinco, de dois mil e vinte e dois, instituiu o Portal de Serviços do Judiciário, o Domicílio Judicial Eletrônico e o Diário de Justiça Eletrônico Nacional.
+ANTONIO: Na CLT, o parágrafo único do artigo oitocentos e quarenta e sete, incluído pela Reforma, permite que a parte apresente defesa escrita pelo sistema de processo eletrônico até a audiência. E a Resolução do CSJT padroniza uso, governança e infraestrutura do PJe na Justiça do Trabalho, inclusive o sigilo da defesa até a audiência.
+THALITA: Isso eu vi na questão, que defesa escrita é permitida no PJe.
+BRUNO: Exato. Mas atenção: a disciplina das audiências telepresenciais e do Juízo cem por cento digital foi alterada por resoluções posteriores do CNJ e por atos do CSJT e do Tribunal Regional da Oitava Região. Antes de memorizar detalhes, como prazos de oposição e retratação, confira a redação vigente na data do edital.
+THALITA: Então o que devo guardar é a ideia: facultativo, tudo remoto, defesa escrita permitida no sistema. Os números das resoluções eu só conheço para reconhecer, sem me prender a prazo de oposição.
+== SLIDE: Reforma Trabalhista no processo: prazos, custos e gratuidade
+* Prazos em dias úteis (art. 775)
+* Honorários de sucumbência de 5% a 15% (art. 791-A)
+* Justiça gratuita: até 40% do teto do RGPS (art. 790)
+* Custas: 2%, teto de 4 vezes o limite do RGPS
+* ADI 5766: honorários periciais e créditos do processo
+ANTONIO: Agora a Reforma Trabalhista, a Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, no processo. Ela mudou o processo em quatro frentes: custos, forma, execução e recursos. Parte foi alterada pelo Supremo, na ADI cinco mil setecentos e sessenta e seis e nas ADCs cinquenta e oito e cinquenta e nove.
+FRANCISCA: Vamos pelo quadro antes e depois. Primeiro, os prazos: antes em dias corridos, hoje em dias úteis, artigo setecentos e setenta e cinco. Segundo, honorários de sucumbência: antes só na assistência sindical, Súmula duzentos e dezenove; hoje de cinco a quinze por cento, inclusive na sucumbência recíproca, artigo setecentos e noventa e um, letra A. Para o beneficiário da justiça gratuita, a exigibilidade fica suspensa por dois anos, e o Supremo afastou o uso automático de créditos obtidos em juízo para pagá-los.
+THALITA: E a justiça gratuita? Antes bastava declarar pobreza.
+BRUNO: Hoje é concedida a quem ganha até quarenta por cento do teto do regime geral de previdência, ou comprova insuficiência de recursos, artigo setecentos e noventa, parágrafos terceiro e quarto. Os honorários periciais: a lei impunha ao sucumbente mesmo com gratuidade, mas o Supremo declarou inconstitucional esse trecho na ADI cinco mil setecentos e sessenta e seis, e a União responde.
+ANTONIO: As custas continuam de dois por cento, mas agora com teto de quatro vezes o limite do regime geral, artigo setecentos e oitenta e nove.
+THALITA: Macete: prazo em dias úteis, honorários de cinco a quinze, gratuidade até quarenta por cento do teto.
+== SLIDE: Reforma Trabalhista: petição, audiência e execução
+* Inicial: pedido certo, determinado e com valor (art. 840, §1º)
+* Ausência do reclamante: custas mesmo com gratuidade
+* Preposto não precisa ser empregado (art. 843, §3º)
+* Prescrição intercorrente: 2 anos (art. 11-A)
+* Execução de ofício só sem advogado (art. 878)
+FRANCISCA: Continuando o quadro. Petição inicial: antes o pedido sem valor era admitido no rito ordinário; hoje deve ser certo, determinado e com indicação de valor, artigo oitocentos e quarenta, parágrafo primeiro. Ausência do reclamante: custas mesmo com gratuidade, salvo justificativa em quinze dias, e o pagamento condiciona nova ação. O Supremo manteve essa regra.
+BRUNO: Revelia: antes, a ausência do réu era revelia mesmo com advogado presente; hoje, se o advogado comparece, aceitam-se contestação e documentos, artigo oitocentos e quarenta e quatro, parágrafo quinto. Preposto: pela Súmula trezentos e setenta e sete, devia ser empregado; hoje não precisa, artigo oitocentos e quarenta e três, parágrafo terceiro.
+THALITA: E a desistência?
+ANTONIO: Antes livre até a sentença; hoje, depois de oferecida a contestação, depende do consentimento do réu, artigo oitocentos e quarenta e um, parágrafo terceiro. Incompetência territorial: antes arguida em audiência; hoje é exceção em cinco dias da notificação, antes da audiência, suspendendo o processo, artigo oitocentos.
+FRANCISCA: Prescrição intercorrente: antes inaplicável na Justiça do Trabalho, Súmula cento e catorze; hoje, dois anos contados do descumprimento de determinação judicial na execução, declarável de ofício, artigo onze, letra A. Desconsideração da personalidade: incidente do CPC aplicado à Justiça do Trabalho, e a decisão na execução desafia agravo de petição, sem garantia, artigo oitocentos e cinquenta e cinco, letra A. Execução de ofício: só quando a parte não tem advogado, artigo oitocentos e setenta e oito.
+BRUNO: Acordo extrajudicial: processo de jurisdição voluntária, com petição conjunta e advogados distintos, artigos oitocentos e cinquenta e cinco, letras B a E.
+THALITA: Macete: inicial líquida, preposto livre, intercorrente de dois anos, execução de ofício só sem advogado.
+== SLIDE: Reforma Trabalhista: recursos e direito intertemporal
+* Depósito recursal em conta judicial, com metade para pequenos
+* Transcendência: art. 896-A
+* Correção: ADCs 58 e 59, IPCA-E e SELIC
+* IN 41/2018: honorários só em ações propostas após 11/11/2017
+ANTONIO: Nos recursos, a Reforma mudou o depósito recursal: conta judicial, índices da poupança, metade para pequenos, isenções e seguro-garantia, artigo oitocentos e noventa e nove. A transcendência foi detalhada no artigo oitocentos e noventa e seis, letra A, e exige transcrição dos embargos de declaração na preliminar de negativa de prestação jurisdicional, artigo oitocentos e noventa e seis, parágrafo primeiro-A, inciso quatro.
+FRANCISCA: A Reforma também revogou os parágrafos terceiro a sexto do artigo oitocentos e noventa e seis, acabando com o incidente de uniformização obrigatório nos Tribunais Regionais. Vale conferir. E criou rigor para edição de súmulas, no artigo setecentos e dois, trecho declarado inconstitucional pelo Supremo na ADI seis mil cento e oitenta e oito.
+BRUNO: A correção pela TR no artigo oitocentos e setenta e nove, parágrafo sétimo, foi afastada pelo Supremo nas ADCs cinquenta e oito e cinquenta e nove: aplica-se o IPCA-E na fase pré-judicial e a SELIC depois do ajuizamento. Com a Lei catorze mil novecentos e cinco, de dois mil e vinte e quatro, passou a IPCA mais juros legais. Confira.
+THALITA: Mas a lei vale para processos antigos?
+BRUNO: Pela Instrução Normativa quarenta e um, de dois mil e dezoito, honorários de sucumbência só nas ações propostas depois de onze de novembro de dois mil e dezessete. Nas anteriores seguem a Lei cinco mil quinhentos e oitenta e quatro e as Súmulas duzentos e dezenove e trezentos e vinte e nove. As normas processuais têm aplicação imediata, sem atingir situações já consolidadas, e a transcendência só vale para acórdãos regionais publicados a partir da mesma data.
+THALITA: Macete: lei nova processual aplica-se logo, mas honorários só para ação nova.
+ANTONIO: Pronto. Agora vamos para a uniformização de jurisprudência, os precedentes obrigatórios e o quadro de súmulas e orientações jurisprudenciais processuais.
