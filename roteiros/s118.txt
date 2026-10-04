@@ -1,0 +1,84 @@
+SEGMENTO s118
+== SLIDE: Lei 8.112: conceitos legais
+* Servidor: pessoa legalmente investida em cargo público (art. 2º)
+* Cargo: criado por lei, denominação própria, pago pelos cofres públicos
+* Proibido serviço gratuito, salvo previsão legal (art. 4º)
+* Provimento por ato da autoridade; investidura ocorre com a posse
+FRANCISCA: Resolvidos o regime constitucional e a greve, entramos na Lei oito mil cento e doze, de mil novecentos e noventa, o Regime Jurídico Único dos servidores civis da União. Começamos pelos conceitos do artigo segundo ao sétimo.
+THALITA: Então o primeiro conceito é o de servidor, claro.
+ANTONIO: Sim. Servidor é a pessoa legalmente investida em cargo público, pelo artigo segundo. E cargo público, pelo artigo terceiro, é o conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor.
+BRUNO: O cargo é criado por lei, com denominação própria e vencimento pago pelos cofres públicos, para provimento em caráter efetivo ou em comissão, e é acessível a todos os brasileiros.
+THALITA: Todos os brasileiros. Estrangeiro não pode, então?
+FRANCISCA: Pela lei federal, não. A Constituição admite acesso de estrangeiros na forma da lei, e o artigo quinto, parágrafo terceiro, permite a universidades e instituições de pesquisa federais prover cargos com professores, técnicos e cientistas estrangeiros.
+ANTONIO: O artigo quarto proíbe a prestação de serviços gratuitos, salvo os casos previstos em lei. O provimento é feito por ato da autoridade competente de cada Poder, artigo sexto. E a investidura ocorre com a posse, artigo sétimo.
+BRUNO: A pegadinha é dizer que a investidura ocorre com a nomeação, ou com o exercício. Não: com a posse.
+THALITA: Nomeação provê, posse investe, exercício é o começo do trabalho. Gravei assim.
+FRANCISCA: Isso. E guarde que servidor, nesta lei, é só o titular de cargo. Empregado público e temporário ficam fora do regime.
+
+== SLIDE: Requisitos de investidura: artigo 5º
+* Seis requisitos básicos
+* Brasileiro, direitos políticos, quitação militar e eleitoral
+* Escolaridade; idade mínima de 18 anos; aptidão física e mental
+* Pessoa com deficiência: reserva de até 20%
+* Escolaridade na posse, Súmula 266 STJ
+ANTONIO: O artigo quinto lista seis requisitos básicos. Primeiro, nacionalidade brasileira. Segundo, gozo dos direitos políticos. Terceiro, quitação com as obrigações militares e eleitorais. Quarto, nível de escolaridade exigido para o cargo. Quinto, idade mínima de dezoito anos. Sexto, aptidão física e mental.
+THALITA: Eu li que brasileiro nato é exigido. É isso?
+BRUNO: Pegadinha clássica. Basta ser brasileiro, nato ou naturalizado, ressalvados os cargos privativos de brasileiro nato do artigo doze, parágrafo terceiro, da Constituição. E outra: idade mínima é dezoito anos, não vinte e um.
+FRANCISCA: O parágrafo primeiro admite outros requisitos, desde que as atribuições do cargo os justifiquem e estejam em lei. O parágrafo segundo assegura à pessoa com deficiência o direito de se inscrever em concurso para cargo compatível, e reserva até vinte por cento das vagas.
+BRUNO: Até vinte por cento, não no mínimo. A FCC troca para no mínimo.
+THALITA: Então vinte é o teto, não o piso. Entendi.
+ANTONIO: Agora alguns pontos da jurisprudência. A escolaridade e a habilitação se comprovam na posse, e não na inscrição, pela Súmula duzentos e sessenta e seis do Superior Tribunal de Justiça.
+FRANCISCA: O limite de idade só é legítimo se previsto em lei e justificado pela natureza das atribuições do cargo, conforme a Súmula seiscentos e oitenta e três do Supremo. O exame psicotécnico só vale com previsão em lei e critérios objetivos, pela Súmula Vinculante quarenta e quatro.
+BRUNO: A aptidão física e mental é verificada em inspeção médica oficial prévia à posse, artigo catorze. Só toma posse quem for julgado apto.
+THALITA: Macete: escolaridade na posse, idade só se a lei justificar, psicotécnico só com lei e critério objetivo.
+
+== SLIDE: Concurso público e direito à nomeação
+* Provas ou provas e títulos; duas etapas
+* Validade: 2 anos, prorrogável uma vez
+* Edital no Diário Oficial e jornal de grande circulação
+* Art. 12, § 2º: proíbe novo concurso enquanto houver aprovado válido
+* Tema 161: dentro das vagas, direito à nomeação
+BRUNO: O concurso está no artigo onze: provas ou provas e títulos, podendo realizar-se em duas etapas. A inscrição pode ser condicionada ao pagamento de taxa, quando indispensável ao custeio, ressalvadas as isenções.
+FRANCISCA: A validade é de até dois anos, prorrogável uma única vez, por igual período. O prazo e as condições são fixados em edital publicado no Diário Oficial da União e em jornal diário de grande circulação.
+THALITA: Dois mais dois, quatro anos no máximo. Posso afirmar isso?
+ANTONIO: Pode. E tem uma regra especial no artigo doze, parágrafo segundo: não se abrirá novo concurso enquanto houver candidato aprovado em concurso anterior com prazo de validade não expirado.
+BRUNO: Atenção ao contraste com a Constituição. O artigo trinta e sete, inciso quatro, da Constituição apenas dá prioridade ao aprovado no concurso anterior, admitindo novo certame dentro do prazo. A Lei oito mil cento e doze é mais rígida: proíbe a abertura, no âmbito federal.
+THALITA: Então se a questão cobra a Lei, proíbe. Se cobra a Constituição, só dá prioridade.
+FRANCISCA: Exato. Verifique também a Lei quatorze mil novecentos e sessenta e cinco, de dois mil e vinte e quatro, que trata de normas gerais de concursos públicos, quanto à vigência e aplicação ao certame.
+ANTONIO: Agora a jurisprudência do direito à nomeação. Tema cento e sessenta e um do Supremo: o aprovado dentro do número de vagas do edital tem direito subjetivo à nomeação.
+BRUNO: Já o Tema setecentos e oitenta e quatro: o surgimento de novas vagas ou a abertura de novo concurso, no prazo de validade, não gera, por si só, direito à nomeação dos aprovados fora das vagas, salvo preterição arbitrária e imotivada.
+THALITA: Então aprovado fora das vagas só tem direito se houver preterição arbitrária.
+FRANCISCA: Isso. E a Súmula quinze do Supremo: dentro do prazo de validade, o aprovado tem direito à nomeação quando o cargo for preenchido sem observância da classificação.
+
+== SLIDE: Formas de provimento: o quadro mestre
+* Sete formas vigentes: nomeação, promoção, readaptação, reversão, aproveitamento, reintegração, recondução
+* Ascensão e transferência: revogadas e inconstitucionais (SV 43)
+* Nomeação: único originário; exige posse
+* Remoção e redistribuição não são formas de provimento
+ANTONIO: O artigo oitavo lista as formas de provimento. Provimento é o ato que preenche o cargo. São sete formas vigentes: nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução.
+THALITA: Mas eu vi que a numeração pula, de dois para cinco.
+BRUNO: Porque ascensão e transferência foram revogadas pela Lei nove mil quinhentos e vinte e sete, de mil novecentos e noventa e sete, e são inconstitucionais, pela Súmula Vinculante quarenta e três: é inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso, em cargo que não integra a carreira na qual anteriormente investido.
+FRANCISCA: A nomeação é o único provimento originário, e o único que pressupõe posse. Pode ser em caráter efetivo, para cargo isolado ou de carreira, com concurso, ou em comissão, inclusive como interino, para cargos de confiança vagos.
+THALITA: Então os outros seis são derivados.
+ANTONIO: Isso. A promoção é a movimentação na carreira para classe superior. Não interrompe o tempo de exercício, que é contado no novo posicionamento, a partir da publicação do ato.
+FRANCISCA: A readaptação é a investidura em cargo compatível com limitação física ou mental verificada em inspeção médica. O cargo deve ter atribuições afins, respeitadas habilitação, escolaridade e equivalência de vencimentos. Sem vaga, exerce como excedente. Se for julgado incapaz, aposenta-se.
+BRUNO: A reversão é o retorno do aposentado. O aproveitamento é o retorno obrigatório do servidor em disponibilidade. A reintegração é a reinvestidura do estável no cargo anterior, quando a demissão é invalidada. A recondução é o retorno do estável ao cargo anteriormente ocupado.
+THALITA: Macete: reversão, aposentado. Aproveitamento, disponível. Reintegração, demissão invalidada. Recondução, volta ao cargo anterior.
+ANTONIO: E lembre: remoção e redistribuição não são formas de provimento.
+
+== SLIDE: Reversão, reintegração, recondução e o efeito dominó
+* Reversão por invalidez: junta médica declara insubsistentes os motivos
+* No interesse da Administração: cinco requisitos cumulativos
+* Limite de 70 anos no art. 27
+* Reintegração: cargo extinto, disponibilidade; cargo provido, ocupante sai
+* Recondução: inabilitação em estágio ou reintegração
+FRANCISCA: Vamos aprofundar a reversão, artigo vinte e cinco. É o retorno do aposentado, em duas hipóteses. Por invalidez, quando junta médica oficial declarar insubsistentes os motivos da aposentadoria. Ou no interesse da Administração, desde que ele tenha solicitado a reversão, a aposentadoria tenha sido voluntária, fosse estável na atividade, tenha se aposentado nos cinco anos anteriores ao pedido, e haja cargo vago.
+THALITA: Então o interesse da Administração exige cinco requisitos juntos.
+BRUNO: Cumulativos, sim. A reversão por invalidez, que é de ofício, independe de vaga: se o cargo estiver provido, o servidor atua como excedente.
+ANTONIO: Outras regras. Reverte no mesmo cargo ou no resultante de sua transformação. O tempo de exercício conta para nova aposentadoria. No interesse da Administração, recebe a remuneração do cargo, em substituição aos proventos. E o recálculo de proventos pelas regras atuais só ocorre se permanecer pelo menos cinco anos no cargo.
+FRANCISCA: E o artigo vinte e sete veda a reversão do aposentado que já tenha completado setenta anos. Embora a aposentadoria compulsória hoje seja aos setenta e cinco, pela lei, a resposta é setenta.
+BRUNO: Se a questão disser nos termos da Lei oito mil cento e doze, setenta. Se invocar a Constituição, confira a posição da banca.
+THALITA: E o efeito dominó? Eu me perco com quem sai e quem entra.
+ANTONIO: Imagine que a demissão de A seja anulada. A é reintegrado no cargo. Se o cargo foi extinto, ele fica em disponibilidade. Se o cargo foi provido por B, B estável é reconduzido ao cargo de origem, sem indenização, ou aproveitado em outro, ou posto em disponibilidade.
+FRANCISCA: A recondução ocorre em dois casos: inabilitação em estágio probatório de outro cargo, ou reintegração do anterior ocupante. E o disponível tem aproveitamento obrigatório em cargo compatível, sob pena de cassação da disponibilidade, se não entrar em exercício no prazo, salvo doença.
+BRUNO: A FCC troca reintegração com recondução. Reintegração é demissão invalidada. Recondução é volta ao cargo anterior. O Supremo admite recondução também de quem desiste voluntariamente do estágio em novo cargo. Próximo tema: posse, exercício, estágio probatório e estabilidade.
