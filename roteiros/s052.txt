@@ -1,0 +1,113 @@
+SEGMENTO s052
+== SLIDE: Boas-vindas e plano da aula dezesseis
+* Aula 16: Direito Constitucional I
+* Normas, controle de constitucionalidade e princípios fundamentais
+* Aplicabilidade, interpretação, vigência e controle: teoria geral
+* Depois: difuso, concentrado, estadual, arts. 1º a 4º e questões
+ANTONIO: Olá, pessoal, sejam bem-vindos à aula dezesseis do curso. Hoje começamos Direito Constitucional, com o tema normas, controle e princípios fundamentais. Eu sou o Antônio, professor, e vou conduzir a aula.
+FRANCISCA: Eu sou a Francisca, professora. Vou trazer a Constituição em paráfrase, a jurisprudência e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Vou mostrar como a banca cobra e onde estão as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira, e vou perguntar o que vocês perguntariam.
+ANTONIO: O roteiro de hoje é este. Primeiro, a aplicabilidade das normas constitucionais, depois a interpretação constitucional, a vigência e eficácia das normas no tempo e a teoria geral do controle de constitucionalidade. Na sequência, controle difuso e concentrado, controle estadual, princípios fundamentais dos artigos primeiro a quarto e questões comentadas.
+THALITA: Muita coisa. Por onde a gente começa?
+ANTONIO: Pela aplicabilidade. A ideia central: toda norma constitucional tem alguma eficácia jurídica. O que varia é o grau.
+FRANCISCA: José Afonso da Silva divide em três espécies: eficácia plena, contida e limitada. A limitada ainda se subdivide em normas de princípio institutivo e normas programáticas. E Maria Helena Diniz propõe outra classificação, que também cai.
+BRUNO: A FCC cobra essas classificações quase todo ano, geralmente com um exemplo constitucional para você identificar a espécie. Então prestem atenção nos exemplos.
+THALITA: Beleza. Vamos nessa então, começando pela plena.
+== SLIDE: Eficácia plena, contida e limitada
+* Plena: direta, imediata e integral; a lei não restringe nem é necessária
+* Contida: direta e imediata, mas a lei pode restringir
+* Limitada: indireta, mediata e reduzida; lei é necessária
+* Art. 37, I: contida para brasileiros, limitada para estrangeiros
+ANTONIO: A norma de eficácia plena tem aplicabilidade direta, imediata e integral. A lei não é necessária e também não pode restringir. Exemplos: o artigo segundo, separação de Poderes; o artigo catorze, parágrafo segundo, que trata dos inalistáveis; e o artigo dezessete, parágrafo quarto, que veda organização paramilitar.
+THALITA: E a contida?
+FRANCISCA: Na contida, a aplicação também é direta e imediata, mas pode não ser integral. Michel Temer a chama de restringível. A lei posterior pode restringir o alcance dela e, enquanto a lei não vem, o direito é exercido amplamente. O exemplo clássico é o artigo quinto, inciso treze: é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer.
+BRUNO: O exemplo prático é o Exame de Ordem. O direito nasce pronto, e a lei do Estatuto da OAB contém o alcance dele. Outro exemplo: a locomoção no território nacional, no artigo quinto, inciso quinze, nos termos da lei.
+THALITA: Então na contida a lei restringe, e na limitada a lei completa?
+ANTONIO: Exatamente. Guarde assim: restringe ou completa. Na limitada a aplicabilidade é indireta, mediata e reduzida, também chamada diferida. A lei posterior é necessária para produzir os efeitos principais. Exemplos: o artigo trinta e sete, inciso sete, greve do servidor nos termos e nos limites definidos em lei específica; e o artigo sétimo, inciso onze, participação nos lucros conforme definido em lei.
+FRANCISCA: Tem um exemplo que a apostila destaca: o artigo trinta e sete, inciso primeiro. Os cargos públicos são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei. Um inciso, duas eficácias.
+THALITA: Deixa eu arriscar. Para brasileiros é limitada, porque depende de lei, e para estrangeiros é contida.
+FRANCISCA: Quase. É o contrário. Para brasileiros, o acesso já existe e a lei só fixa requisitos: contida. Para estrangeiros, sem lei não há como provê-los: limitada.
+BRUNO: Pegadinha extra. A contida pode ser restringida também por outras normas constitucionais, como o estado de defesa e o estado de sítio, e por conceitos ético-jurídicos, como ordem pública e bons costumes. Afirmar que somente lei restringe é erro.
+THALITA: Entendi. Então a lei é só um dos meios de restringir a contida.
+== SLIDE: Eficácia limitada, mandado de injunção e Maria Helena Diniz
+* Limitada: institutiva (impositiva ou facultativa) e programática
+* Produz eficácia negativa: revoga o incompatível e vincula
+* Omissão: mandado de injunção e ADO
+* Diniz: absoluta, plena, restringível e complementável
+ANTONIO: A eficácia limitada se subdivide em duas. Primeiro, as de princípio institutivo, ou organizativo, que traçam esquemas gerais de estruturação de órgãos, entidades ou institutos. Segundo, as de princípio programático, que fixam programas e fins a serem perseguidos pelo Estado.
+FRANCISCA: As institutivas podem ser impositivas, quando dizem a lei disporá, como o artigo cento e treze, sobre os órgãos da Justiça do Trabalho. Ou facultativas, quando dizem a lei poderá, como o artigo cento e vinte e cinco, parágrafo terceiro, que permite à lei estadual criar a Justiça Militar estadual.
+THALITA: E as programáticas?
+FRANCISCA: São as que marcam a Constituição dirigente. Exemplos: o artigo terceiro, com os objetivos fundamentais; o artigo cento e noventa e seis, saúde; o duzentos e cinco, educação; e o duzentos e quinze, cultura.
+BRUNO: Agora a pegadinha recorrente. A alternativa diz que as normas de eficácia limitada não produzem nenhum efeito até a edição da lei. Errado. Elas produzem, desde logo, eficácia negativa, também chamada paralisante.
+THALITA: Como assim eficácia negativa?
+BRUNO: Elas revogam a legislação anterior incompatível, impedem lei em sentido contrário, servindo de parâmetro de controle, e vinculam o intérprete. O que falta é a eficácia positiva plena.
+ANTONIO: E se o Estado não regulamenta a norma limitada, cabe mandado de injunção, previsto no artigo quinto, inciso setenta e um, e a ação direta de inconstitucionalidade por omissão, no artigo cento e três, parágrafo segundo.
+FRANCISCA: Em jurisprudência, na greve do servidor, o artigo trinta e sete, inciso sete, o Supremo, nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze, mandou aplicar, no que couber, a Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, até a edição da lei específica.
+THALITA: Agora a Maria Helena Diniz, que me confunde.
+ANTONIO: Ela coloca no topo as normas de eficácia absoluta, ou supereficazes, que são intangíveis: nem emenda pode aboli-las, como as cláusulas pétreas do artigo sessenta, parágrafo quarto. Depois a eficácia plena, que produz todos os efeitos, mas é emendável. A relativa restringível equivale à contida. E a relativa complementável equivale à limitada.
+BRUNO: Macete: restringível é contida, complementável é limitada, absoluta é cláusula pétrea. E a FCC atribui a classificação ao autor errado, por exemplo dizendo normas supereficazes segundo José Afonso da Silva. Isso está errado.
+THALITA: Anotado: supereficaz é da Maria Helena Diniz.
+== SLIDE: Interpretação constitucional: os princípios
+* Unidade, efeito integrador, máxima efetividade
+* Justeza, concordância prática, força normativa
+* Interpretação conforme: norma polissêmica; sem legislador positivo
+* Duplas que a FCC troca
+FRANCISCA: Passando para a interpretação constitucional. Além dos métodos clássicos, que são o gramatical, o sistemático, o histórico e o teleológico, a Constituição se interpreta por princípios próprios, sistematizados por Konrad Hesse e Canotilho.
+BRUNO: E a FCC cobra o reconhecimento do princípio pela descrição. Vamos às palavras-chave.
+ANTONIO: Unidade da Constituição: as normas são lidas como sistema, sem contradições, e não há hierarquia entre normas originárias. Palavras-chave: sistema, evitar antinomias. Efeito integrador: preferir soluções que favoreçam a integração política e social. Palavras-chave: integração e coesão.
+THALITA: E a máxima efetividade?
+FRANCISCA: Dar à norma o sentido que lhe confira maior eficácia social, sobretudo nos direitos fundamentais. Já a força normativa, de Hesse, prefere as interpretações que deem eficácia ótima e atualidade à Constituição como um todo.
+BRUNO: A justeza, ou conformidade funcional, impede que o intérprete subverta a repartição de funções fixada pelo constituinte: palavra-chave, não usurpar. A concordância prática, ou harmonização, coordena bens constitucionais em conflito para evitar o sacrifício total de um deles: palavra-chave, ponderação.
+THALITA: Quais as duplas que a FCC troca?
+BRUNO: Primeira, máxima efetividade contra força normativa: uma é a eficácia social da norma, a outra é a eficácia ótima da Constituição inteira. Segunda, unidade contra concordância prática: unidade evita contradições, concordância resolve colisão concreta sem anular um bem. Terceira, justeza contra efeito integrador: separação de funções contra unidade política.
+THALITA: Eu diria que concordância prática é quando dois direitos colidem e a gente manda o mais forte vencer.
+FRANCISCA: Cuidado, Thalita. Não é mandar o mais forte vencer. É coordenar os dois para que nenhum seja totalmente sacrificado. Esse é o ponto.
+ANTONIO: Por fim, a interpretação conforme. Diante de norma infraconstitucional polissêmica, ou plurissignificativa, adota-se o sentido compatível com a Constituição e afastam-se os demais.
+BRUNO: Os limites: só cabe se a norma admitir mais de um sentido, não pode contrariar a letra clara da lei, e o juiz não atua como legislador positivo.
+FRANCISCA: Técnica vizinha é a declaração parcial de inconstitucionalidade sem redução de texto: afasta uma hipótese de aplicação e mantém o texto. Ambas estão na Lei nove mil oitocentos e sessenta e oito, de mil novecentos e noventa e nove, artigo vinte e oito, parágrafo único.
+== SLIDE: Vigência e eficácia das normas no tempo
+* Recepção: norma anterior compatível permanece válida
+* Não recepção: incompatível é revogada, sem inconstitucionalidade superveniente
+* Repristinação só se expressa; desconstitucionalização, não
+* CLT recepcionada como lei ordinária; CTN, como lei complementar
+ANTONIO: Agora, a vigência e eficácia no tempo. Quando surge uma nova Constituição, a ordem infraconstitucional anterior é testada só quanto ao conteúdo. O que é compatível é recepcionado; o incompatível é revogado.
+THALITA: Isso é a recepção, né?
+FRANCISCA: É. Na recepção, a norma anterior materialmente compatível permanece válida, com a natureza que a nova ordem exige para a matéria. Na não recepção, a norma incompatível é revogada, e não se fala em inconstitucionalidade superveniente. O Supremo decidiu isso na ADI dois.
+BRUNO: Exemplos preferidos da banca. A CLT nasceu como decreto-lei, espécie que não existe na Constituição de oitenta e oito, e foi recepcionada como lei ordinária. O Código Tributário Nacional nasceu lei ordinária e foi recepcionado como lei complementar, porque o artigo cento e quarenta e seis exige lei complementar para normas gerais tributárias.
+THALITA: Importa então a compatibilidade material, não a forma de origem.
+ANTONIO: Perfeito. Outros fenômenos. Repristinação é quando a lei revogada volta a vigorar porque a revogadora perdeu a vigência. No Brasil, só se for expressa, segundo o artigo segundo, parágrafo terceiro, da LINDB.
+FRANCISCA: Desconstitucionalização seria as normas da Constituição anterior sobreviverem como leis ordinárias. Não é adotada, salvo previsão expressa. Já a recepção material de normas constitucionais ocorre excepcionalmente, por prazo certo, como no artigo trinta e quatro do ADCT. E a mutação constitucional é a alteração informal do sentido da norma, sem mudar o texto.
+BRUNO: Consequências cobradas. Um: norma anterior à Constituição de oitenta e oito não é objeto de ADI; no controle concentrado, cabe ADPF. Dois: o juízo de não recepção não exige reserva de plenário. Três: não existe constitucionalidade superveniente; lei inconstitucional na origem não se convalida por emenda posterior.
+THALITA: Eu ia dizer que repristinação e efeito repristinatório são a mesma coisa.
+FRANCISCA: Não são, e a banca explora. Repristinação é legislativa e depende de cláusula expressa. O efeito repristinatório é do controle: a declaração de inconstitucionalidade, por atingir a norma desde a origem, restaura a legislação que ela teria revogado. E a cautelar em ADI torna aplicável a legislação anterior, salvo manifestação em sentido contrário, no artigo onze, parágrafo segundo, da lei já citada.
+== SLIDE: Controle de constitucionalidade: teoria geral
+* Brasil: controle jurisdicional misto, difuso e concentrado
+* Difuso: modelo americano, incidental, em regra inter partes
+* Concentrado: modelo austríaco, via principal, erga omnes
+* Preventivo: CCJ, veto jurídico, MS de parlamentar
+ANTONIO: Chegamos ao controle de constitucionalidade, que é a verificação da compatibilidade das normas com a Constituição, pressuposto da supremacia e da rigidez constitucionais. O Brasil adota o controle jurisdicional misto: difuso, por qualquer juiz no caso concreto, e concentrado, pelo Supremo diante da Constituição Federal ou pelo Tribunal de Justiça diante da Constituição Estadual.
+THALITA: Qual a diferença na origem de cada um?
+FRANCISCA: O difuso vem do modelo norte-americano, do caso Marbury contra Madison, de mil oitocentos e três. O concentrado vem do modelo austríaco, da Constituição de mil novecentos e vinte, com Kelsen.
+BRUNO: No difuso, qualquer juiz exerce, a via é incidental, de exceção ou de defesa, a questão constitucional é a causa de pedir, e os efeitos são, em regra, entre as partes e retroativos. No concentrado, o órgão é de cúpula, a via é a ação direta, o processo é objetivo, a questão constitucional é o próprio pedido, e os efeitos são para todos, vinculantes e retroativos.
+THALITA: Então no concentrado a inconstitucionalidade é o pedido, e no difuso é só o argumento.
+ANTONIO: Boa síntese. Quanto ao momento, o controle pode ser preventivo, sobre projeto, ou repressivo, sobre norma pronta. O preventivo é feito pelo Legislativo, nas Comissões de Constituição e Justiça; pelo Executivo, no veto jurídico do artigo sessenta e seis, parágrafo primeiro; e pelo Judiciário, no mandado de segurança impetrado exclusivamente por parlamentar.
+FRANCISCA: No julgamento do mandado de segurança trinta e dois mil e trinta e três, em dois mil e treze, o Supremo disse que o mandado de segurança de parlamentar só cabe contra proposta de emenda manifestamente ofensiva a cláusula pétrea ou contra proposição cuja tramitação viole regra constitucional do processo legislativo. Não cabe para discutir o conteúdo de projeto de lei.
+BRUNO: O repressivo é do Judiciário, como regra, mas o Legislativo também atua: o artigo quarenta e nove, inciso cinco, sustando atos normativos do Executivo que exorbitem do poder regulamentar ou dos limites de delegação, e a rejeição de medida provisória, no artigo sessenta e dois, parágrafo quinto.
+THALITA: E a Súmula trezentos e quarenta e sete do Supremo, sobre Tribunal de Contas apreciar a constitucionalidade de leis?
+BRUNO: Boa lembrança. O próprio Supremo relativizou esse entendimento. Antes da prova, confira o alcance atual.
+== SLIDE: Espécies de vício de inconstitucionalidade
+* Formal orgânico, subjetivo, objetivo e por pressupostos
+* Material: conteúdo incompatível com a Constituição
+* Indireto ou reflexo: crise de legalidade, não cabe ADI
+* Por arrastamento: estende-se a normas dependentes
+ANTONIO: Para fechar, as espécies de vício. O vício formal orgânico acontece quando ente incompetente edita a norma, como lei estadual sobre direito do trabalho, ofendendo o artigo vinte e dois, inciso primeiro.
+THALITA: E o formal subjetivo?
+FRANCISCA: É o vício de iniciativa. Exemplo: lei de iniciativa parlamentar que cria cargos no Executivo, contra o artigo sessenta e um, parágrafo primeiro, inciso segundo, alínea a. O formal objetivo é o vício nas demais fases do processo legislativo, como lei complementar aprovada por maioria simples.
+BRUNO: Tem ainda o vício formal por violação a pressupostos objetivos, que é a ausência de requisito constitucional do ato, como medida provisória sem relevância e urgência. E o material, quando o conteúdo é incompatível com a Constituição, como lei que institui pena de caráter perpétuo.
+THALITA: Esses indiretos, ou reflexos, o que são?
+ANTONIO: É quando um decreto regulamentar viola a lei e só por via oblíqua a Constituição. É crise de legalidade, e não cabe ADI. Já a inconstitucionalidade por arrastamento é a que se estende a normas dependentes, ainda que não impugnadas, uma exceção ao princípio do pedido.
+BRUNO: E um alerta de prova: a sanção do chefe do Executivo não convalida o vício de iniciativa. A antiga Súmula cinco do Supremo está superada.
+THALITA: Resumindo o que vimos hoje. Na aplicabilidade, plena não precisa de lei, contida a lei restringe e limitada a lei completa. Na interpretação, cuidado com as duplas que a banca troca. No tempo, norma anterior compatível é recepcionada e a incompatível é revogada. E vício de iniciativa não some só porque o governador sancionou a lei.
+FRANCISCA: Isso. Com a teoria geral pronta, a gente já tem base para o próximo tema: o controle difuso, a reserva de plenário e o papel do Senado, e depois o controle concentrado, com ADI, ADC, ADO e ADPF.
+ANTONIO: Então vamos em frente: como funciona o controle difuso e o que diz o artigo cinquenta e dois, inciso dez, da Constituição.

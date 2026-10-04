@@ -1,0 +1,102 @@
+SEGMENTO s048
+== SLIDE: Capacidade civil: a deficiência não a afeta
+* Art. 6º da LBI: a deficiência não afeta a plena capacidade civil
+* "Inclusive" = rol exemplificativo, com seis incisos
+* Casar, direitos sexuais e reprodutivos, filhos, família, adoção
+* Vedada a esterilização compulsória
+ANTONIO: Fechando a aula, chegamos ao ponto em que a lei mexe de verdade no Código Civil. Depois de acessibilidade, informação e acesso à justiça, vamos ver a capacidade civil, a curatela, a tomada de decisão apoiada e os crimes da lei. É a parte em que a FCC mais gosta de armar pegadinha.
+THALITA: Capacidade civil é poder casar e assinar contrato, certo? Eu sempre misturo isso com curatela.
+FRANCISCA: É a aptidão para exercer sozinho os atos da vida civil. E o artigo sexto da Lei Brasileira de Inclusão diz que a deficiência não afeta a plena capacidade civil da pessoa. Repare na palavra inclusive: depois dela vem uma lista, mas a lista é apenas exemplificativa. A regra geral é a presunção de capacidade, mesmo na deficiência intelectual ou mental.
+BRUNO: E a banca cobra exatamente essa presunção. Se a alternativa disser que a pessoa com deficiência mental é incapaz, já nasceu errada. A pessoa é presumidamente capaz, e qualquer limitação precisa ser pontual e justificada.
+THALITA: Então o rol do artigo sexto não é fechado. Mas o que tem nele?
+ANTONIO: Seis incisos. O primeiro: casar-se e constituir união estável. O segundo: exercer direitos sexuais e reprodutivos. O terceiro: decidir sobre o número de filhos e ter acesso a informações sobre reprodução e planejamento familiar.
+FRANCISCA: O quarto é o mais sensível: conservar a fertilidade, e fica vedada a esterilização compulsória. O quinto garante o direito à família e à convivência familiar e comunitária. E o sexto permite exercer guarda, tutela, curatela e adoção, como adotante ou adotando, em igualdade de condições com as demais pessoas.
+BRUNO: Palavra-chave de prova: esterilização compulsória. Se uma alternativa disser que o juiz pode autorizá-la por causa da deficiência, marque como errada sem medo.
+THALITA: Deixa eu resumir. A deficiência não tira o direito de casar, de decidir sobre filhos, de manter a fertilidade, de ter família e de adotar. É isso?
+ANTONIO: É isso. E repare que o sexto inciso fala até em exercer a curatela: a pessoa com deficiência pode ser curadora de outra pessoa. Isso mostra o quanto a lei a enxerga como capaz.
+FRANCISCA: Exatamente. A lógica é de igualdade com as demais pessoas, e não de proteção que anula a vontade. A proteção, quando existe, vem depois, de forma excepcional, como veremos na curatela.
+BRUNO: Guardem esse contraste: capacidade é a regra, curatela é a exceção. A FCC adora inverter.
+== SLIDE: O Código Civil antes e depois da LBI
+* Art. 3º do CC: absolutamente incapazes, só os menores de 16 anos
+* Art. 4º: relativamente incapazes passam a incluir quem não puder exprimir vontade
+* Art. 1.767: curatela deixa de citar "deficientes mentais"
+* Art. 1.550, §2º: PcD mental em idade núbil pode casar
+ANTONIO: Agora vamos ver o que mudou no texto do Código Civil. Antes da lei, o artigo terceiro listava como absolutamente incapazes os menores de dezesseis anos, quem por enfermidade ou deficiência mental não tivesse discernimento, e quem por causa transitória não pudesse exprimir a vontade.
+THALITA: E depois da lei?
+ANTONIO: Depois da lei, sobrou somente o menor de dezesseis anos. Só ele é absolutamente incapaz.
+BRUNO: Essa é a frase que mais cai. Maior de idade nunca é absolutamente incapaz depois da LBI. Se a alternativa disser que o maior com deficiência mental grave é absolutamente incapaz, está errada.
+FRANCISCA: E o artigo quarto, dos relativamente incapazes, ganhou nova redação. Hoje ele traz os maiores de dezesseis e menores de dezoito anos, os ébrios habituais e os viciados em tóxico, quem por causa transitória ou permanente não puder exprimir sua vontade, e os pródigos. Antes ele falava em discernimento reduzido por deficiência mental.
+THALITA: Então quem não consegue exprimir a vontade deixou de ser absolutamente incapaz e virou relativamente incapaz?
+FRANCISCA: Isso mesmo. Mudou de categoria. E o critério deixou de ser a deficiência e passou a ser a impossibilidade de exprimir a vontade.
+ANTONIO: O mesmo vale para o artigo mil setecentos e sessenta e sete, que trata de quem fica sujeito à curatela. Saíram os deficientes mentais e os excepcionais. Ficaram quem não puder exprimir vontade, os ébrios habituais e viciados em tóxico, e os pródigos.
+BRUNO: E tem o casamento. Antes, o casamento do enfermo mental sem discernimento era nulo. Agora, o artigo mil quinhentos e cinquenta, parágrafo segundo, diz que a pessoa com deficiência mental ou intelectual em idade núbil pode casar, expressando a vontade diretamente ou por meio de responsável ou curador.
+THALITA: Idade núbil é a idade para casar, né? Dezesseis anos.
+BRUNO: Isso, com a autorização dos pais ou representantes até os dezoito.
+FRANCISCA: Agora o alerta que o material destaca. Como a prescrição não corre apenas contra os absolutamente incapazes, conforme o artigo cento e noventa e oito, inciso primeiro, do Código Civil, ela corre contra a pessoa com deficiência maior de dezesseis anos. É consequência prática bem cobrada.
+THALITA: Macete meu: deficiência sozinha não gera curatela. O que conta é não conseguir exprimir a vontade.
+BRUNO: Perfeito. Esse é o critério.
+== SLIDE: Curatela: medida extraordinária e proporcional
+* Art. 84: PcD tem direito ao exercício da capacidade legal
+* Curatela: extraordinária, proporcional, pelo menor tempo possível
+* Art. 85: afeta só atos patrimoniais e negociais
+* Não alcança corpo, sexualidade, casamento, voto, trabalho
+* Art. 87: curador provisório, ouvido o MP
+ANTONIO: Vamos à curatela, nos artigos oitenta e quatro a oitenta e sete. O artigo oitenta e quatro garante à pessoa com deficiência o direito ao exercício da capacidade legal em igualdade de condições. Quando necessário, ela será submetida à curatela.
+THALITA: Quando necessário. Então não é automática.
+FRANCISCA: Não é. O parágrafo terceiro diz que a curatela é medida protetiva extraordinária, proporcional às necessidades do caso e que durará o menor tempo possível. Guarde as três palavras: extraordinária, proporcional e menor tempo possível.
+BRUNO: A FCC troca essas palavras. Escreve que a curatela é medida ordinária, ou que dura enquanto a pessoa viver. Ambas erradas.
+ANTONIO: O parágrafo segundo ainda diz que é facultado à pessoa adotar a tomada de decisão apoiada. E o parágrafo quarto manda o curador prestar contas anualmente ao juiz, com o balanço do respectivo ano.
+THALITA: Contas todo ano. Anotei.
+FRANCISCA: Agora o artigo oitenta e cinco, o mais cobrado. A curatela afetará tão somente os atos relacionados aos direitos de natureza patrimonial e negocial. Ou seja, o curador administra bens e celebra negócios.
+BRUNO: E o parágrafo primeiro enumera o que a curatela não alcança: o direito ao próprio corpo, à sexualidade, ao matrimônio, à privacidade, à educação, à saúde, ao trabalho e ao voto. A alternativa que diz que a curatela abrange o direito ao voto ou ao matrimônio é erro recorrente.
+THALITA: Então o curador não decide se o curatelado casa, vota ou faz tratamento.
+BRUNO: Isso. Mas cuidado com a saúde: a curatela não alcança o direito à saúde como regra, e quem decide é a própria pessoa.
+FRANCISCA: O parágrafo segundo exige que a sentença exponha as razões e motivações da curatela. E o terceiro diz que, para pessoa institucionalizada, o juiz prefere curador com vínculo familiar, afetivo ou comunitário.
+ANTONIO: O artigo oitenta e seis diz que a situação de curatela não é exigida para emissão de documentos oficiais. E o oitenta e sete permite, em caso de relevância e urgência, que o juiz, ouvido o Ministério Público, nomeie curador provisório, de ofício ou a requerimento.
+THALITA: Resumo: extraordinária, proporcional, pouco tempo, só dinheiro e negócios, contas anuais.
+== SLIDE: Tomada de decisão apoiada e comparação com a curatela
+* Art. 1.783-A do CC: a PcD elege no mínimo 2 apoiadores idôneos
+* Termo de apoio com limites, compromissos e prazo
+* Só a própria pessoa pede; ela pode encerrar a qualquer tempo
+* Divergência com risco relevante: o juiz decide, ouvido o MP
+* Curatela substitui ou assiste; TDA apoia
+FRANCISCA: A tomada de decisão apoiada está no artigo mil setecentos e oitenta e três A do Código Civil. A pessoa com deficiência elege pelo menos duas pessoas idôneas, de sua confiança e com quem mantenha vínculo, para apoiá-la nas decisões sobre atos da vida civil.
+THALITA: Pelo menos duas. Já gravei: no mínimo dois apoiadores.
+ANTONIO: Isso. Quem faz o pedido é a própria pessoa a ser apoiada, indicando expressamente os apoiadores. Junto vem o termo de apoio, que traz os limites do apoio, os compromissos dos apoiadores, o prazo de vigência e o respeito à vontade e aos interesses do apoiado.
+BRUNO: A pegadinha clássica é dizer que o Ministério Público ou um parente pode requerer a tomada de decisão apoiada. Errado: só a própria pessoa.
+FRANCISCA: No procedimento, o juiz, assistido por equipe multidisciplinar e depois de ouvir o Ministério Público, ouve pessoalmente o requerente e os apoiadores. A decisão do apoiado vale perante terceiros, sem restrições, se estiver dentro dos limites do apoio.
+THALITA: E se o terceiro desconfiar?
+FRANCISCA: Ele pode pedir que os apoiadores contra-assinem o contrato, especificando por escrito a sua função.
+ANTONIO: Se houver negócio com risco ou prejuízo relevante e divergência entre apoiado e apoiador, o juiz decide, ouvido o Ministério Público. E, se o apoiador agir com negligência, pressão indevida ou descumprir as obrigações, qualquer pessoa pode denunciar ao Ministério Público ou ao juiz, e o apoiador será destituído se a denúncia for procedente.
+BRUNO: Sobre o término: o apoiado pode encerrar o acordo a qualquer tempo, mas o apoiador só pode pedir exclusão com a manifestação do juiz. E aplicam-se as regras de prestação de contas da curatela, no que couber.
+THALITA: Agora a comparação. Curatela é imposta, tomada de decisão apoiada é voluntária. Na curatela, pedem os legitimados do Código de Processo Civil; na apoiada, só o próprio apoiado.
+BRUNO: E na curatela a capacidade fica limitada nos atos fixados na sentença; na apoiada, o apoiado mantém plena capacidade. O alcance da curatela é só patrimonial e negocial; o da apoiada é o definido no termo de apoio.
+ANTONIO: Guarde a frase: curatela substitui ou assiste; a tomada de decisão apoiada apoia. A vontade é sempre do apoiado.
+== SLIDE: Crimes da LBI: artigos 88 a 91
+* Art. 88: discriminação, reclusão de 1 a 3 anos; mídia, 2 a 5 anos
+* Art. 89: apropriação de bens, reclusão de 1 a 4 anos
+* Art. 90: abandono, reclusão de 6 meses a 3 anos
+* Art. 91: cartão ou documento, detenção de 6 meses a 2 anos
+* Aumento de um terço em várias hipóteses
+BRUNO: Chegamos à parte que é pura memorização: os crimes dos artigos oitenta e oito a noventa e um. Começando pelo oitenta e oito: praticar, induzir ou incitar discriminação em razão da deficiência. Pena de reclusão de um a três anos e multa.
+THALITA: E tem aumento?
+BRUNO: Aumenta de um terço se a vítima estiver sob cuidado e responsabilidade do agente. E se a discriminação for por meios de comunicação social ou publicação de qualquer natureza, a reclusão vai de dois a cinco anos, e multa.
+FRANCISCA: Nesse caso de mídia, o juiz, ouvido o Ministério Público ou a pedido dele, pode determinar, ainda antes do inquérito, sob pena de desobediência, o recolhimento ou a busca e apreensão do material e a interdição de mensagens ou páginas na internet. A destruição do material é efeito da condenação, depois do trânsito em julgado.
+ANTONIO: O artigo oitenta e nove pune quem se apropria de ou desvia bens, proventos, pensão, benefícios, remuneração ou qualquer rendimento da pessoa com deficiência. Reclusão de um a quatro anos e multa. Aumenta de um terço se praticado por tutor, curador, síndico, liquidatário, inventariante, testamenteiro ou depositário judicial, ou por quem se apropriou em razão de ofício ou profissão.
+THALITA: O noventa é abandonar a pessoa em hospital, certo?
+FRANCISCA: Em hospital, casa de saúde, entidade de abrigamento ou congênere. Reclusão de seis meses a três anos, e multa. A mesma pena vale para quem não prover as necessidades básicas da pessoa com deficiência, estando obrigado por lei ou mandado.
+BRUNO: E o noventa e um: reter ou utilizar cartão magnético, meio eletrônico ou documento da pessoa, destinado ao recebimento de benefícios ou operações financeiras, para obter vantagem indevida. Detenção de seis meses a dois anos, e multa, com aumento de um terço se praticado por tutor ou curador.
+THALITA: Macete: o único com detenção é o noventa e um, o do cartão. A maior pena é a da discriminação pela mídia, de dois a cinco anos.
+BRUNO: Isso. E o abandono tem a menor pena mínima entre os de reclusão. Outra pegadinha: a causa de aumento do artigo noventa e um cita apenas tutor ou curador, enquanto a do oitenta e nove tem rol amplo.
+FRANCISCA: Um exemplo. Tereza, curadora do tio com deficiência, saca todo mês parte da aposentadoria dele e gasta consigo. Responde pelo artigo oitenta e nove, reclusão de um a quatro anos, com aumento de um terço por ser curadora. Se só retivesse o cartão do tio para obter vantagem indevida, seria o artigo noventa e um, com detenção, também aumentada de um terço.
+== SLIDE: Resumo relâmpago da aula e despedida
+* Capaz é a regra; só menor de 16 é absolutamente incapaz
+* Curatela: extraordinária, só atos patrimoniais e negociais
+* TDA: só o apoiado pede, mínimo de 2 apoiadores
+* Crime com detenção: apenas o art. 91
+THALITA: Hora do resumo relâmpago do que mais cai na FCC nesta aula. Primeiro: depois da lei, maior de idade nunca é absolutamente incapaz; só o menor de dezesseis anos. Segundo: a deficiência sozinha não gera curatela; o critério é não conseguir exprimir a vontade.
+BRUNO: Acrescento: a prescrição corre contra a pessoa com deficiência maior de dezesseis anos, e a esterilização compulsória é vedada.
+THALITA: Terceiro: curatela é extraordinária, proporcional e pelo menor tempo possível, e só alcança atos patrimoniais e negociais. Não alcança voto, casamento, trabalho nem saúde. Quarto: tomada de decisão apoiada é voluntária, só o apoiado pede, e precisa de no mínimo dois apoiadores.
+FRANCISCA: E lembrando do começo da aula: a lei define a pessoa com deficiência pelo impedimento de longo prazo, em interação com barreiras, e adota o modelo social. Acessibilidade e atendimento prioritário também caem muito.
+THALITA: Quinto: nos crimes, o único com detenção é o do cartão, artigo noventa e um; a maior pena é a da discriminação pela mídia, de dois a cinco anos; e o aumento de um terço aparece para tutor ou curador.
+ANTONIO: Era isso, pessoal. Obrigado por acompanharem, revisem as tabelas e nos vemos na próxima aula.
