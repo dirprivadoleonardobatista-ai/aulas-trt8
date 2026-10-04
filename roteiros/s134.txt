@@ -1,0 +1,88 @@
+SEGMENTO s134
+== SLIDE: Boas-vindas: aula 39 e o princípio da proteção
+* Aula 39: fundamentos, relação de emprego e sujeitos
+* Hoje: princípios e fontes do Direito do Trabalho
+* Proteção: in dubio pro operario, norma mais favorável, condição mais benéfica
+* Súmula 51 do TST
+ANTONIO: Olá, pessoal, sejam bem-vindos à aula trinta e nove, de Direito do Trabalho: fundamentos, relação de emprego e sujeitos. Hoje veremos princípios e fontes. Depois, os direitos constitucionais do artigo sétimo, relação de trabalho e relação de emprego, figuras afins, trabalho intermitente e espécies de empregado. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, também professora, e trago a lei em paráfrase e a jurisprudência.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as pegadinhas.
+THALITA: E eu sou a Thalita, concurseira. Pergunto o que vocês estão pensando e dou os macetes.
+ANTONIO: O Direito do Trabalho nasce para compensar, no plano jurídico, a desigualdade econômica entre quem vende a força de trabalho e quem a compra. O núcleo é o princípio da proteção, que se desdobra em três regras de aplicação.
+THALITA: Quais são?
+FRANCISCA: In dubio pro operario, norma mais favorável e condição mais benéfica. A primeira atua na interpretação: se uma norma admite mais de um sentido razoável, prefere-se o que beneficia o trabalhador.
+BRUNO: E não se aplica à prova! No processo, quem tem o ônus e não prova, perde, conforme o artigo oitocentos e dezoito da CLT e o artigo trezentos e setenta e três do Código de Processo Civil. A FCC adora usar o in dubio pro operario para desempatar prova dividida. Errado.
+ANTONIO: A norma mais favorável vale para a escolha entre várias normas válidas sobre a mesma matéria: aplica-se a mais benéfica, independentemente da hierarquia. Os limites são as normas proibitivas de ordem pública e as regras de prevalência dos artigos seiscentos e onze traço A e seiscentos e vinte.
+THALITA: Então a norma mais favorável nem sempre é a de maior hierarquia.
+BRUNO: Isso. A hierarquia trabalhista é dinâmica. Afirmar que a mais favorável é sempre a de maior hierarquia é erro clássico.
+FRANCISCA: A condição mais benéfica protege a vantagem incorporada ao contrato, por cláusula ou regulamento. Não pode ser suprimida para quem já a recebia.
+== SLIDE: Súmula 51 e exemplo da licença-prêmio
+* Súmula 51, I: revogação de vantagem de regulamento só vale para novos empregados
+* Súmula 51, II: opção por um regulamento é renúncia ao outro
+* Não vale para norma coletiva com prazo
+* Pegadinha: supressão para todos
+THALITA: Dá um exemplo? Fica mais fácil.
+FRANCISCA: Em dois mil e vinte, o regulamento da empresa Alfa previa licença-prêmio de trinta dias a cada cinco anos. Em dois mil e vinte e quatro, ela revogou o benefício. Carla, admitida em dois mil e dezenove, mantém o direito. Bruno, admitido em dois mil e vinte e cinco, não.
+BRUNO: Essa é a Súmula cinquenta e um do TST, item primeiro: a alteração ou revogação de vantagem de regulamento só alcança os contratados depois da mudança. Quem já estava no emprego conserva a regra antiga.
+ANTONIO: O item segundo trata de dois regulamentos coexistindo. Se o empregado opta por um, isso equivale à renúncia às regras do outro. Se a Alfa criasse um plano novo opcional e Carla aderisse, perderia as vantagens do plano antigo.
+THALITA: Então se eu aderir ao plano novo, perco o antigo. Anotado.
+BRUNO: A pegadinha é dizer que a súmula permite suprimir a vantagem de todos, a partir da publicação do novo regulamento. Errado. A condição mais benéfica vale para vantagens contratuais e regulamentares, não para normas coletivas com prazo de vigência.
+FRANCISCA: E também há a Súmula duzentos e doze, sobre continuidade: se o empregador nega a prestação de serviço e o despedimento, cabe a ele provar como o contrato terminou, porque a continuidade gera presunção favorável ao empregado. Na prática, presume-se dispensa sem justa causa.
+THALITA: Quer dizer que o ônus é do patrão?
+FRANCISCA: Isso, quando ele nega o serviço e a dispensa, o ônus de provar o término é dele.
+== SLIDE: Irrenunciabilidade, continuidade e primazia da realidade
+* Irrenunciabilidade: arts. 9º, 444 e 468 da CLT
+* Exceções: acordo homologado, quitação anual, PDV, hipersuficiente, arbitragem
+* Continuidade: contrato por prazo indeterminado
+* Primazia da realidade: fatos acima da forma (art. 9º)
+ANTONIO: Os demais princípios são satélites da proteção. Primeiro, a irrenunciabilidade, ou indisponibilidade: o empregado não pode abrir mão, sobretudo no curso do contrato, de direitos assegurados por norma imperativa. Atos que fraudem a CLT são nulos, artigo nono.
+THALITA: Mas existe renúncia que vale, não existe?
+BRUNO: Existem exceções, e a Reforma ampliou. Transação em juízo. Acordo extrajudicial homologado, artigos oitocentos e cinquenta e cinco traço B a E. Quitação anual de obrigações, artigo quinhentos e sete traço B. Programa de demissão voluntária com quitação ampla prevista em norma coletiva, artigo quatrocentos e setenta e sete traço B. Empregado hipersuficiente, artigo quatrocentos e quarenta e quatro, parágrafo único. E arbitragem, artigo quinhentos e sete traço A.
+FRANCISCA: A continuidade presume que o contrato é por prazo indeterminado e que o vínculo tende a se prolongar, artigos quatrocentos e quarenta e três e quatrocentos e quarenta e cinco. A exceção são os contratos a termo, nas hipóteses legais, o temporário e o intermitente.
+THALITA: E primazia da realidade?
+ANTONIO: Os fatos vividos prevalecem sobre a forma documental. Se o contrato diz autônomo mas há subordinação de fato, vale o emprego. O artigo quatrocentos e quarenta e dois traço B, do autônomo formal, só vale se não houver subordinação.
+FRANCISCA: No setor público, o concurso do artigo trinta e sete, inciso segundo, da Constituição impede o vínculo.
+BRUNO: Cuidado com esse ponto: primazia da realidade não gera vínculo com a Administração sem concurso.
+== SLIDE: Inalterabilidade lesiva e intangibilidade salarial
+* Art. 468: só por mútuo consentimento e sem prejuízo
+* Reversão de cargo de confiança; gratificação não se incorpora (art. 468, §2º)
+* Transferência: art. 469; adicional de 25% se provisória
+* Intangibilidade: art. 462; Súmula 342
+THALITA: Fala de alteração do contrato. Posso mudar o que quiser se o empregado concordar?
+ANTONIO: Não. O artigo quatrocentos e sessenta e oito exige mútuo consentimento e ausência de prejuízo direto ou indireto ao empregado. A alteração lesiva é nula, mesmo com a assinatura dele.
+FRANCISCA: As exceções: o jus variandi do empregador, nas mudanças não essenciais; a reversão do ocupante de cargo de confiança ao cargo efetivo, parágrafo primeiro; a transferência nos casos do artigo quatrocentos e sessenta e nove; e a redução salarial por norma coletiva, artigo sétimo, inciso sexto, da Constituição.
+BRUNO: Sobre a gratificação de função, o parágrafo segundo, trazido pela Reforma, diz que ela não se incorpora após a reversão, com ou sem justo motivo, independentemente do tempo no cargo. Isso colide com a Súmula trezentos e setenta e dois, que incorporava após dez anos. Para a prova, prevalece a literalidade da CLT. A súmula fica restrita a quem completou os dez anos antes de onze de novembro de dois mil e dezessete.
+THALITA: Já a transferência?
+FRANCISCA: Se exigir mudança de domicílio, depende de anuência, salvo cargo de confiança, cláusula expressa com real necessidade do serviço, ou extinção do estabelecimento. Se for provisória, gera adicional de vinte e cinco por cento enquanto durar.
+ANTONIO: E a intangibilidade salarial protege o salário contra descontos indevidos e credores. O artigo quatrocentos e sessenta e dois permite descontos por adiantamento, por lei, por norma coletiva, por dano, doloso sempre e culposo se pactuado.
+BRUNO: A Súmula trezentos e quarenta e dois do TST diz que descontos autorizados previamente e por escrito, para plano de saúde, seguro, previdência privada, associação ou cooperativa, são válidos, salvo prova de coação ou outro vício.
+THALITA: Macete dos satélites: I, C, P, I, I. Irrenunciabilidade, Continuidade, Primazia, Inalterabilidade, Intangibilidade.
+== SLIDE: Fontes: materiais, formais, heterônomas e autônomas
+* Materiais: fatores sociais; formais: exteriorização da norma
+* Heterônomas: CF, leis, decretos, sentença normativa
+* Autônomas: convenção e acordo coletivo, costume
+* Hierarquia dinâmica; arts. 611-A, 611-B e 620
+ANTONIO: Passamos às fontes. As materiais são os fatores sociais que provocam a criação da norma: greves, pressão sindical, crises econômicas, revolução tecnológica. As formais são os modos de exteriorização da norma.
+THALITA: E dentro das formais?
+FRANCISCA: Dividem-se em heterônomas e autônomas. Heterônomas vêm do Estado ou de terceiro: Constituição, leis, medidas provisórias, decretos, tratados ratificados, sentença normativa e súmulas vinculantes.
+BRUNO: As autônomas são criadas pelos próprios destinatários: convenção coletiva, entre sindicato e sindicato; acordo coletivo, entre sindicato profissional e empresa; e o costume. O regulamento de empresa tem natureza controvertida, e costuma ser tratado como cláusula contratual, conforme a Súmula cinquenta e um.
+THALITA: E a hierarquia? É aquela pirâmide?
+ANTONIO: No direito comum, a pirâmide é rígida. No Direito do Trabalho, a hierarquia é dinâmica: no topo fica a norma mais favorável, com limite nas normas de ordem pública, como saúde e segurança.
+FRANCISCA: A Reforma criou regras de prevalência. O artigo seiscentos e onze traço A faz o negociado prevalecer sobre o legislado nos temas listados. O seiscentos e onze traço B lista objetos ilícitos, um rol de direitos intocáveis. E o artigo seiscentos e vinte diz que o acordo coletivo sempre prevalece sobre a convenção.
+BRUNO: E o Supremo, no Tema mil e quarenta e seis, decidiu que normas coletivas podem limitar ou afastar direitos trabalhistas, considerando a adequação setorial negociada, sem exigir vantagens compensatórias explícitas, desde que preservados os direitos absolutamente indisponíveis.
+THALITA: Negociado prevalece, menos nos direitos indisponíveis. Entendi.
+== SLIDE: Artigo 8º da CLT após a Reforma
+* Caput: integração de lacunas; interesse público acima do particular
+* §1º: direito comum é fonte subsidiária
+* §2º: súmulas não restringem direitos nem criam obrigações
+* §3º: intervenção mínima na autonomia coletiva
+ANTONIO: O artigo oitavo da CLT. O caput diz que, na falta de disposição legal ou contratual, o julgador decide por jurisprudência, analogia, equidade, princípios gerais, sobretudo trabalhistas, usos e costumes e direito comparado, sem que interesse de classe ou particular prevaleça sobre o interesse público.
+THALITA: Então o juiz pode afastar a lei se achar justo?
+FRANCISCA: Não. O rol é de integração de lacunas. Não autoriza afastar lei expressa. O parágrafo primeiro diz que o direito comum é fonte subsidiária do Direito do Trabalho. A Reforma suprimiu a ressalva de compatibilidade com os princípios trabalhistas, mas a doutrina ainda a exige.
+BRUNO: Parágrafo segundo: súmulas e enunciados do TST e dos Tribunais Regionais não podem restringir direitos previstos em lei nem criar obrigações que não estejam nela previstas. Atinge TST e TRTs. Não fala em Supremo. A FCC afirma que súmulas do TST podem criar obrigações não previstas em lei para suprir lacunas. Errado.
+ANTONIO: Parágrafo terceiro: ao examinar convenção ou acordo coletivo, a Justiça do Trabalho analisa exclusivamente a conformidade dos elementos essenciais do negócio jurídico, previstos no artigo cento e quatro do Código Civil, guiando-se pelo princípio da intervenção mínima na autonomia da vontade coletiva.
+THALITA: Elementos essenciais: agente capaz, objeto lícito, forma prescrita ou não defesa em lei. É isso?
+ANTONIO: Exatamente.
+BRUNO: A banca troca intervenção mínima por intervenção máxima ou proteção integral. Ambas erradas.
+THALITA: Resumindo o artigo oitavo: caput é lacuna, parágrafo primeiro é direito comum subsidiário, parágrafo segundo trava as súmulas e parágrafo terceiro manda o juiz respeitar o que o sindicato negociou, olhando só os elementos essenciais. Vou repetir isso até a prova, porque a FCC adora trocar uma palavra só.
+FRANCISCA: E a nossa próxima parada: os direitos constitucionais dos trabalhadores, do artigo sétimo da Constituição, e a diferença entre relação de trabalho e relação de emprego. É o tema que vem agora.

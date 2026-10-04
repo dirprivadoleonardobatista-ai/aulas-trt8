@@ -1,0 +1,105 @@
+SEGMENTO s129
+== SLIDE: Dever de apurar e a denúncia
+* Autoridade que souber de irregularidade deve apurar (art. 143)
+* Sindicância ou PAD, sempre com ampla defesa
+* Denúncia: escrita, identificada, com endereço e autenticidade (art. 144)
+* Denúncia anônima: Súmula 611 do STJ
+ANTONIO: Vimos as penalidades e os prazos de prescrição. Agora vamos ao caminho que leva até elas: a sindicância e o processo administrativo disciplinar, nos artigos cento e quarenta e três a cento e setenta e três da Lei oito mil cento e doze.
+THALITA: Esse é o tema que mais me assusta. Por onde começa?
+FRANCISCA: Pelo dever de apurar. O artigo cento e quarenta e três diz que a autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a apuração imediata, por sindicância ou por processo disciplinar, assegurada ao acusado ampla defesa.
+BRUNO: Atenção à palavra obrigada. Não é faculdade da autoridade. Se ela sabe e não apura, também responde. E o instrumento depende da gravidade do fato, como veremos.
+THALITA: E como o fato chega até a autoridade? Por denúncia?
+ANTONIO: Pode ser por denúncia. O artigo cento e quarenta e quatro exige que ela seja escrita, com identificação e endereço do denunciante, e que a autenticidade seja confirmada. Se o fato narrado claramente não é infração disciplinar nem ilícito penal, a denúncia é arquivada.
+THALITA: Então denúncia anônima não vale?
+FRANCISCA: Aqui está a diferença entre a letra da lei e a jurisprudência. A lei exige identificação. Mas o Superior Tribunal de Justiça, na Súmula seiscentos e onze, admite que a Administração, no exercício do poder-dever de autotutela, instaure o processo com base em denúncia anônima, desde que haja motivação e amparo em investigação ou sindicância prévia.
+BRUNO: A prova costuma indicar qual fonte está em jogo. Se a questão fala em lei seca, a denúncia precisa ser identificada. Se fala em jurisprudência, a denúncia anônima serve como notícia, que a Administração apura por iniciativa própria.
+THALITA: Entendi. Então o processo disciplinar, o PAD, serve para quê, exatamente?
+ANTONIO: O artigo cento e quarenta e oito define: é o instrumento destinado a apurar a responsabilidade do servidor por infração praticada no exercício de suas atribuições, ou que tenha relação com as atribuições do cargo em que se encontre investido.
+== SLIDE: Sindicância: resultados e prazo
+* Resultados: arquivamento, advertência, suspensão até 30 dias ou PAD (art. 145)
+* Prazo: 30 dias, prorrogáveis por igual período
+* PAD obrigatório se a pena puder superar 30 dias de suspensão (art. 146)
+* Autos da sindicância integram o PAD (art. 154)
+FRANCISCA: A sindicância é o instrumento mais leve. O artigo cento e quarenta e cinco prevê três resultados possíveis: arquivamento do processo; aplicação de penalidade de advertência ou de suspensão de até trinta dias; ou instauração de processo disciplinar.
+BRUNO: Aí vem a pegadinha. Quem lê suspensão de até noventa dias na sindicância trocou o número. Na sindicância, é até trinta dias. E a sindicância nunca resulta em demissão: a demissão só sai de PAD.
+THALITA: Quanto tempo dura a sindicância?
+ANTONIO: Até trinta dias, prorrogáveis por igual período, a critério da autoridade superior. Já o artigo cento e quarenta e seis torna o processo disciplinar obrigatório quando o ilícito puder ensejar suspensão superior a trinta dias, demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão.
+THALITA: Resumindo: pena leve pode ser sindicância, pena pesada exige PAD.
+FRANCISCA: Isso. E os autos da sindicância integram o PAD como peça informativa da instrução, artigo cento e cinquenta e quatro. Se o relatório da sindicância concluir que a infração está capitulada como ilícito penal, a autoridade encaminha cópia ao Ministério Público, sem esperar o término do processo disciplinar.
+BRUNO: A doutrina separa dois tipos. A sindicância investigativa, também chamada preparatória, colhe elementos para saber se há infração e quem é o autor. É inquisitorial, sem contraditório formal, e não interrompe a prescrição.
+ANTONIO: Já a sindicância punitiva, ou acusatória, tem acusado definido, exige contraditório e ampla defesa e pode terminar em advertência ou suspensão de até trinta dias. Interrompe a prescrição, pela Súmula seiscentos e trinta e cinco do Superior Tribunal de Justiça.
+THALITA: E a investigativa pode ser dispensada?
+FRANCISCA: Pode, se a autoridade já tem elementos suficientes para abrir logo o processo disciplinar.
+== SLIDE: Afastamento preventivo e comissão processante
+* Afastamento preventivo: até 60 dias, prorrogável por igual prazo, com remuneração (art. 147)
+* Comissão: três servidores estáveis (art. 149)
+* Presidente: cargo efetivo superior, mesmo nível ou escolaridade igual ou superior
+* Impedimento: parentes até o 3º grau
+BRUNO: Antes da comissão, uma medida cautelar: o afastamento preventivo, artigo cento e quarenta e sete. A autoridade instauradora do processo disciplinar pode afastar o servidor do exercício do cargo, para que ele não influencie na apuração, por até sessenta dias, prorrogáveis por igual prazo.
+THALITA: E ele fica sem salário?
+BRUNO: Não. É sem prejuízo da remuneração. E aqui está outra pegadinha: não confunda com a suspensão, que é penalidade e é sem remuneração. O afastamento é cautelar, não antecipa culpa. Findo o prazo, cessam os efeitos, mesmo que o processo não esteja concluído.
+ANTONIO: Vamos à comissão processante, artigo cento e quarenta e nove. São três servidores estáveis, designados pela autoridade competente, que indica entre eles o presidente.
+FRANCISCA: O presidente deve ocupar cargo efetivo superior ou de mesmo nível do indiciado, ou ter nível de escolaridade igual ou superior. O secretário é designado pelo presidente e pode ser um dos membros.
+THALITA: Macete: superior, igual ou escolaridade maior. A exigência não é de estabilidade maior.
+FRANCISCA: Exato. E o parágrafo segundo veda que integre a comissão cônjuge, companheiro ou parente do acusado, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau.
+BRUNO: A comissão atua com independência e imparcialidade, com o sigilo necessário à elucidação do fato. As reuniões e audiências são reservadas, e as deliberações constam de atas.
+ANTONIO: Sempre que necessário, os membros se dedicam em tempo integral, com dispensa de ponto até a entrega do relatório.
+THALITA: Três estáveis, até o terceiro grau, e reuniões reservadas. Anotado.
+== SLIDE: Fases do PAD e prazos de conclusão
+* Três fases: instauração, inquérito e julgamento (art. 151)
+* Inquérito: instrução, defesa e relatório
+* Conclusão: 60 dias, prorrogáveis por mais 60
+* Julgamento: 20 dias; excesso de prazo só anula com prejuízo
+ANTONIO: O processo disciplinar tem três fases, artigo cento e cinquenta e um. Primeira, instauração, com a publicação do ato que constitui a comissão. Segunda, inquérito administrativo, que compreende instrução, defesa e relatório. Terceira, julgamento.
+THALITA: E quanto tempo dura tudo isso?
+FRANCISCA: A comissão tem sessenta dias, contados da publicação do ato que a constituiu, para concluir os trabalhos, admitida prorrogação por igual prazo, quando as circunstâncias o exigirem. Depois, a autoridade julgadora tem vinte dias para decidir, contados do recebimento do processo, artigo cento e sessenta e sete.
+BRUNO: Cuidado com a consequência do atraso. O julgamento fora do prazo não implica nulidade do processo, conforme o artigo cento e sessenta e nove, parágrafo primeiro. E o Superior Tribunal de Justiça, na Súmula quinhentos e noventa e dois, diz que o excesso de prazo só gera nulidade com demonstração de prejuízo à defesa.
+THALITA: Eu chutaria que passou do prazo, anulou tudo. Errei de novo.
+BRUNO: É a pegadinha clássica. Sem prejuízo comprovado, o processo continua válido.
+ANTONIO: No inquérito, vigora o contraditório com ampla defesa. A comissão promove tomada de depoimentos, acareações, investigações e diligências, e pode recorrer a técnicos e peritos, artigo cento e cinquenta e cinco.
+FRANCISCA: Quanto à prova emprestada, a Súmula quinhentos e noventa e um do Superior Tribunal de Justiça admite, se autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa.
+THALITA: Sessenta mais sessenta de comissão, vinte para julgar.
+== SLIDE: Instrução: provas, testemunhas e interrogatório
+* Direitos do servidor (art. 156): acompanhar, arrolar testemunhas, produzir provas
+* Presidente pode negar pedidos impertinentes ou protelatórios
+* Testemunha depõe oralmente (art. 158)
+* Interrogatório do acusado: depois das testemunhas (art. 159)
+FRANCISCA: Na instrução, o artigo cento e cinquenta e seis garante ao servidor: acompanhar o processo pessoalmente ou por intermédio de procurador, arrolar e reinquirir testemunhas, produzir provas e contraprovas e formular quesitos, quando se tratar de prova pericial.
+BRUNO: O presidente pode denegar pedidos considerados impertinentes, meramente protelatórios ou de nenhum interesse para o esclarecimento dos fatos. A perícia é indeferida quando a comprovação do fato independer de conhecimento especial de perito.
+THALITA: E as testemunhas? Podem mandar o depoimento por escrito?
+ANTONIO: Não. O depoimento é oral, reduzido a termo, e a testemunha não pode trazê-lo por escrito. As testemunhas são inquiridas separadamente, e havendo contradição, procede-se à acareação. A intimação é por mandado do presidente, e, se for servidor, comunica-se ao chefe da repartição.
+FRANCISCA: O interrogatório do acusado vem depois da oitiva das testemunhas. Havendo mais de um acusado, cada um é ouvido separadamente. O procurador pode assistir ao interrogatório, mas não pode interferir nas perguntas e respostas, embora possa reinquirir as testemunhas, por intermédio do presidente.
+BRUNO: Se houver dúvida sobre a sanidade mental do acusado, a comissão propõe a realização de exame por junta médica oficial, da qual participe pelo menos um médico psiquiatra, em incidente em auto apartado, artigo cento e sessenta.
+THALITA: Ordem certa: testemunhas primeiro, acusado depois.
+FRANCISCA: E o servidor convocado para depor fora da sede, como testemunha, denunciado ou indiciado, tem direito a transporte e diárias, assim como os membros da comissão em diligência essencial, artigo cento e setenta e três.
+== SLIDE: Indiciação, citação, defesa e revelia
+* Indiciação: fatos imputados e provas (art. 161)
+* Defesa: 10 dias; 20 se dois ou mais indiciados; dobro para diligências
+* Edital: defesa em 15 dias da última publicação
+* Revelia: defensor dativo (art. 164)
+ANTONIO: Encerrada a instrução, vem a indiciação. Tipificada a infração disciplinar, a comissão formula a indiciação, especificando os fatos imputados e as respectivas provas, artigo cento e sessenta e um.
+THALITA: E o servidor é avisado como?
+FRANCISCA: Por citação, mediante mandado expedido pelo presidente da comissão, para apresentar defesa escrita no prazo de dez dias, assegurando-se vista do processo na repartição. Havendo dois ou mais indiciados, o prazo é comum e de vinte dias. O prazo pode ser prorrogado pelo dobro, para diligências reputadas indispensáveis.
+BRUNO: Os números caem muito. Dez, individual. Vinte, para dois ou mais indiciados. Dobro, na prorrogação para diligências. Quinze, no edital, contados da última publicação. As pegadinhas: vinte dias para cada indiciado, prorrogação por dez dias e edital com dez dias.
+THALITA: E se o servidor não for encontrado?
+ANTONIO: Se estiver em lugar incerto e não sabido, a citação é por edital, publicado no Diário Oficial da União e em jornal de grande circulação, e a defesa é apresentada em quinze dias, a partir da última publicação. Se recusar assinar o ciente, o prazo conta da data declarada em termo pelo membro da comissão, com duas testemunhas.
+FRANCISCA: Considera-se revel o indiciado regularmente citado que não apresenta defesa no prazo. A revelia é declarada por termo nos autos. Aí a autoridade instauradora designa defensor dativo, que deve ser servidor de cargo efetivo superior ou de mesmo nível, ou com escolaridade igual ou superior.
+BRUNO: A revelia não dispensa a defesa. O defensor dativo apresenta. E ele é servidor, não advogado.
+THALITA: E a Súmula Vinculante cinco?
+FRANCISCA: Diz que a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição. A antiga Súmula trezentos e quarenta e três do Superior Tribunal de Justiça foi cancelada. O servidor pode, mas não precisa, ter advogado.
+ANTONIO: E a Súmula seiscentos e quarenta e um do Superior Tribunal de Justiça: a portaria de instauração não precisa expor os fatos em detalhes. O detalhamento é exigido na indiciação.
+== SLIDE: Relatório, julgamento e nulidades
+* Relatório minucioso e sempre conclusivo (art. 165)
+* Julgamento: 20 dias; pena maior vai à autoridade competente
+* Autoridade pode divergir do relatório, motivadamente (art. 168)
+* Súmula 665 do STJ: Judiciário não reexamina o mérito
+BRUNO: Apresentada a defesa, a comissão elabora o relatório, artigo cento e sessenta e cinco. Deve ser minucioso, com resumo das peças principais e menção às provas em que baseou a convicção, e sempre conclusivo quanto à inocência ou à responsabilidade do servidor. Se reconhecer a responsabilidade, indica o dispositivo transgredido, com agravantes e atenuantes.
+THALITA: E depois, para quem vai?
+ANTONIO: Para a autoridade que determinou a instauração, que julga em vinte dias. Se a pena exceder a alçada dela, o processo vai à autoridade competente, que decide em igual prazo. Com vários indiciados e sanções diversas, julga a autoridade competente para a pena mais grave. Demissão e cassação são julgadas pelas autoridades do artigo cento e quarenta e um, inciso primeiro.
+FRANCISCA: Reconhecida a inocência no relatório, a autoridade arquiva, salvo se o relatório for flagrantemente contrário à prova dos autos. A autoridade acata o relatório, exceto se contrário às provas. Nesse caso, pode, motivadamente, agravar a penalidade, abrandá-la ou isentar o servidor de responsabilidade.
+THALITA: Então ela não está presa ao relatório.
+BRUNO: Mas não vale divergir por simples discordância. É preciso motivação e fundamento nas provas.
+ANTONIO: Verificada a ocorrência de vício insanável, a autoridade declara a nulidade total ou parcial do processo e ordena a constituição de outra comissão para instauração de novo processo, artigo cento e sessenta e nove. Se a infração estiver capitulada como crime, o processo é remetido ao Ministério Público, artigo cento e setenta e um.
+FRANCISCA: E o servidor sob processo só pode ser exonerado a pedido, ou aposentar-se voluntariamente, após a conclusão do processo e o cumprimento da penalidade, artigo cento e setenta e dois. O Judiciário, pela Súmula seiscentos e sessenta e cinco do Superior Tribunal de Justiça, controla legalidade e regularidade, mas não reexamina o mérito, salvo ilegalidade flagrante, teratologia ou desproporção manifesta.
+THALITA: Resumo relâmpago da aula. Deveres do artigo cento e dezesseis: ordem manifestamente ilegal não se cumpre. Proibições: advertência até o oitavo e décimo nono, demissão do nono ao décimo sexto, suspensão nos dois últimos. Acumulação: exceção constitucional, e dez dias para optar. Três esferas independentes; só inexistência do fato ou negativa de autoria afasta a administrativa. Prescrição: cinco anos, dois anos, cento e oitenta dias. Abandono: mais de trinta dias seguidos; inassiduidade: sessenta em doze meses. PAD: sessenta mais sessenta, defesa de dez dias.
+ANTONIO: Bons estudos a todos, e até a próxima aula.
