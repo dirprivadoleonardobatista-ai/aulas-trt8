@@ -1,0 +1,57 @@
+SEGMENTO s133
+== SLIDE: Questão 11: efeitos das penalidades
+* Improbidade: indisponibilidade de bens e ressarcimento (art. 136)
+* Infração do art. 117, IX: incompatibiliza por 5 anos (art. 137)
+* Retorno vedado em definitivo: art. 132, I, IV, VIII, X e XI
+* Cancelamento do registro: advertência, 3 anos; suspensão, 5
+* Gabarito: cê
+BRUNO: Vamos à segunda parte das questões da aula. Questão onze: quatro afirmações sobre os efeitos e a aplicação das penalidades disciplinares na Lei oito mil cento e doze.
+FRANCISCA: Afirmação um: a demissão por improbidade administrativa implica indisponibilidade de bens e ressarcimento ao erário, sem prejuízo da ação penal. Afirmação dois: a demissão por valer-se do cargo para obter proveito pessoal incompatibiliza o ex-servidor para nova investidura em cargo público federal pelo prazo de cinco anos. Afirmação três: o servidor demitido por inassiduidade habitual fica definitivamente impedido de voltar ao serviço público federal. Afirmação quatro: o registro da advertência é cancelado após cinco anos de efetivo exercício.
+ANTONIO: As alternativas: A, só a um; bê, dois e três; cê, um e dois; dê, três e quatro; E, um, dois e quatro. Pausa para você pensar.
+THALITA: Eu acho que a quatro é verdadeira, porque cinco anos é um número que eu lembro desse assunto.
+BRUNO: Lembra, mas é o prazo da suspensão. A advertência é cancelada em três anos de efetivo exercício, no artigo cento e trinta e um. A afirmação quatro é falsa.
+FRANCISCA: A afirmação três também é falsa. O impedimento definitivo de retorno alcança as hipóteses do artigo cento e trinta e dois, incisos um, quatro, oito, dez e onze. A inassiduidade, que é o inciso três, não está entre elas.
+ANTONIO: A um está no artigo cento e trinta e seis, e a dois no artigo cento e trinta e sete, que remete ao artigo cento e dezessete, inciso nove. Logo, só a um e a dois são corretas. Gabarito: cê.
+THALITA: Então a letra A erra por omitir a dois, e a dê e a E por incluir a falsa. Fechado!
+== SLIDE: Questão 12: defesa técnica no PAD
+* Súmula Vinculante 5 do STF
+* Ausência de advogado não gera nulidade
+* Defensor dativo é servidor designado para o revel
+* Súmula 343 do STJ: superada
+* Defesa técnica é facultativa
+* Gabarito: dê
+FRANCISCA: Questão doze. Márcio respondeu a PAD sem advogado e sem defensor designado, mas apresentou defesa escrita por conta própria e acompanhou os atos. Punido, alegou nulidade por falta de defesa técnica. O que diz o Supremo?
+BRUNO: A letra A: o processo é nulo, pois o advogado é obrigatório em todas as fases. A letra bê: nulo, salvo se tiver defensor dativo, que é sempre advogado. A letra cê: válido somente se a pena for advertência. A letra dê: válido, pois a falta de defesa técnica por advogado no PAD não ofende a Constituição. A letra E: válido apenas se o servidor assinar termo de renúncia ao advogado.
+ANTONIO: Pausa para você pensar.
+THALITA: Eu marcaria a bê, porque defensor dativo me soa como segurança para o acusado.
+BRUNO: O defensor dativo existe, mas é servidor designado para o revel, no artigo cento e sessenta e quatro, parágrafo segundo, e não necessariamente advogado. A ausência de advogado não gera nulidade.
+FRANCISCA: A letra A erra porque a obrigatoriedade foi afastada pela Súmula Vinculante cinco, e a antiga Súmula trezentos e quarenta e três do STJ perdeu sentido. A letra cê erra porque a súmula não distingue por espécie de pena. A letra E erra porque não se exige termo de renúncia: a defesa técnica é facultativa.
+ANTONIO: A letra dê reproduz a Súmula Vinculante cinco. Gabarito: dê.
+THALITA: Macete: no PAD, advogado é um direito, não uma obrigação.
+== SLIDE: Questões 13 e 14: acumulação e julgamento
+* Dois cargos efetivos lícitos + cargo em comissão: art. 120
+* Afastamento de ambos, salvo compatibilidade declarada
+* Julgamento acata o relatório, salvo contrário às provas
+* Autoridade pode agravar, abrandar ou isentar (art. 168)
+* Vício insanável: nulidade (art. 169); prazo vencido não anula
+FRANCISCA: Questão treze. Carla ocupa licitamente dois cargos efetivos, com compatibilidade de horários, e é nomeada para cargo em comissão. Em regra, o que acontece?
+BRUNO: A letra A: fica afastada de ambos os cargos efetivos, salvo se as autoridades máximas dos órgãos declararem compatibilidade de horário e de local com o exercício de um deles. A letra bê: afastada de apenas um, à escolha. A letra cê: exerce os três, pois o cargo em comissão não se submete à acumulação. A letra dê: será demitida de um por acumulação ilegal. A letra E: exerce os três se a soma respeitar o teto.
+ANTONIO: Pausa para pensar.
+THALITA: Eu penso na cê, porque comissão é cargo livre, não é?
+FRANCISCA: Não. O cargo em comissão entra na regra do artigo cento e vinte, que manda afastar dos dois cargos efetivos, salvo a declaração de compatibilidade pelas autoridades máximas. A letra A é a correta. A bê erra por mencionar só um cargo. A dê erra porque a acumulação original era lícita, e não há demissão. A E erra porque respeitar o teto não afasta a regra do artigo cento e vinte.
+ANTONIO: Gabarito da treze: A. Vamos à catorze.
+BRUNO: Questão catorze. A comissão propôs suspensão de quinze dias a Paulo, mas as provas mostram conduta mais grave, enquadrada em demissão. O que a autoridade julgadora faz?
+ANTONIO: A letra A: acata integralmente o relatório. A bê: só pode abrandar. A cê: declara a nulidade e manda nova comissão. A dê: reconhece a nulidade se julgar depois de vinte dias. A E: pode, motivadamente, agravar, abrandar ou isentar o servidor, quando o relatório contrariar as provas dos autos.
+FRANCISCA: A letra E. O artigo cento e sessenta e oito manda acatar o relatório, exceto se contrário às provas, e o parágrafo único permite agravar, abrandar ou isentar, com motivação. A letra cê confunde: a nulidade com nova comissão é para vício insanável, artigo cento e sessenta e nove. A letra dê erra porque julgar fora do prazo não anula o processo, parágrafo primeiro do artigo cento e sessenta e nove.
+BRUNO: E a letra bê e a letra A erram por limitar a autoridade. Gabarito: E.
+== SLIDE: Resumo relâmpago da aula 38
+* Rito sumário: 2 servidores, defesa de 5 dias, 30 + até 15
+* PAD ordinário: 3 servidores, defesa de 10 dias, 60 + 60
+* Revisão: a qualquer tempo, ônus do requerente, nunca agrava
+* Prescrição: 5 anos, 2 anos, 180 dias
+* Instâncias independentes; art. 126: fato ou autoria
+FRANCISCA: Antes de fechar, um recado: perceba como as questões da FCC exploram trocas de número, de prazo e de quem decide. Treinar a tabela mestra é meio caminho andado.
+BRUNO: E a leitura atenta das palavras sempre, nunca, apenas e qualquer. Elas geralmente denunciam a alternativa errada.
+THALITA: Meu resumo relâmpago da aula: rito sumário, dois servidores, defesa de cinco dias, trinta mais até quinze; PAD ordinário, três servidores, defesa de dez dias, sessenta mais sessenta; revisão, a qualquer tempo, ônus de quem pede e nunca agrava; prescrição, cinco anos, dois anos e cento e oitenta dias; instâncias independentes, salvo absolvição por inexistência do fato ou negativa de autoria; e advogado no PAD, nunca obrigatório.
+FRANCISCA: Muito bom, Thalita. Só um reforço: a advertência é cancelada em três anos e a suspensão em cinco, o contrário do que muita gente decora.
+ANTONIO: Grande resumo, pessoal. Bons estudos e até a próxima aula!

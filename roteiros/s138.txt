@@ -1,0 +1,64 @@
+SEGMENTO s138
+== SLIDE: Aula 40: o empregador e seus poderes
+* Empregador: conceito, alteridade e equiparação (art. 2º)
+* Poderes: diretivo, regulamentar, fiscalizatório e disciplinar
+* Grupo econômico e sucessão de empregadores
+* Depois: responsabilidade solidária e subsidiária, plataformas
+* Questões comentadas estilo FCC
+ANTONIO: Bem-vindos à aula quarenta, a segunda parte de Direito do Trabalho sobre fundamentos, relação de emprego e sujeitos. Hoje vamos estudar o empregador: conceito, poderes, grupo econômico e sucessão. Depois, responsabilidade solidária e subsidiária, terceirização e trabalho por plataformas digitais, e por fim questões comentadas no estilo FCC.
+THALITA: Eu sou a Thalita, concurseira, e estou ansiosa porque grupo econômico e sucessão me confundem demais!
+FRANCISCA: Eu sou a Francisca, professora. Vou trazer a lei em paráfrase e a jurisprudência.
+BRUNO: Eu sou o Bruno, especialista em FCC, e vou mostrar como a banca cobra.
+ANTONIO: Começamos pelo conceito. O artigo segundo da CLT considera empregador a empresa, individual ou coletiva, que, assumindo os riscos da atividade econômica, admite, assalaria e dirige a prestação pessoal de serviço.
+THALITA: Tem alguma palavra-chave nesse conceito?
+FRANCISCA: Duas. O verbo assumindo consagra a alteridade: os riscos do negócio são do empregador, e os prejuízos não podem ser repassados ao empregado. O salário é devido mesmo em período de prejuízo. E a expressão prestação pessoal é a fonte legal da pessoalidade.
+BRUNO: Outro ponto: a despersonalização. O que importa é a empresa, a atividade organizada, não a pessoa do dono. Trocar o dono não extingue os contratos.
+FRANCISCA: E o parágrafo primeiro equipara a empregador, só para a relação de emprego, os profissionais liberais, as instituições de beneficência, as associações recreativas e outras entidades sem fins lucrativos que admitam empregados.
+THALITA: Então condomínio, associação e ONG também podem ser empregadores, mesmo sem lucro?
+ANTONIO: Exatamente. O empregador equiparado não exige finalidade lucrativa.
+== SLIDE: Poderes do empregador e seus limites
+* Diretivo: organizar funções, horários e metas; veda alteração lesiva
+* Regulamentar: normas internas aderem ao contrato (Súmula 51)
+* Fiscalizatório: ponto, e-mail, câmeras; intimidade protegida
+* Disciplinar: advertência, suspensão e justa causa
+* Suspensão acima de 30 dias: rescisão injusta (art. 474)
+* Revista íntima: vedada; Lei 13.271/2016
+BRUNO: Passemos aos poderes do empregador. São quatro: diretivo, regulamentar, fiscalizatório e disciplinar.
+FRANCISCA: O poder diretivo, ou organizacional, é o de organizar a atividade: funções, horários, métodos e metas, limitado pelo contrato, pela lei e pela norma coletiva. Veda-se a alteração lesiva, do artigo quatrocentos e sessenta e oito. O poder regulamentar é o de editar normas internas, que aderem ao contrato, conforme a Súmula cinquenta e um do TST, e não podem contrariar a lei.
+THALITA: E o poder de fiscalizar? Pode instalar câmera em qualquer lugar?
+BRUNO: Não. O poder fiscalizatório permite controlar ponto, produtividade, e-mail corporativo e câmeras em áreas comuns, mas respeita a intimidade e a privacidade do inciso dez do artigo quinto da Constituição. São vedadas câmeras em banheiros e vestiários, e a revista íntima é proibida.
+ANTONIO: Sobre revista íntima, há duas regras. O artigo trezentos e setenta e três A, inciso seis, da CLT proíbe revistas íntimas em empregadas, e o TST estende a vedação aos homens, por isonomia. E a Lei treze mil duzentos e setenta e um, de dois mil e dezesseis, proíbe empresas privadas e órgãos da administração pública de adotar revista íntima de funcionárias e de clientes do sexo feminino.
+FRANCISCA: A multa é de vinte mil reais ao empregador, revertida a órgãos de proteção dos direitos da mulher, e em dobro na reincidência. Já a revista de bolsas e pertences, impessoal, generalizada e sem contato físico, vem sendo admitida pelo TST.
+THALITA: Macete: a lei alcança funcionárias e clientes, multa de vinte mil, dobrada na reincidência.
+BRUNO: Isso! E o poder disciplinar permite advertência, suspensão e dispensa por justa causa, com proporcionalidade, imediatidade, vedação de dupla punição e não discriminação. Suspensão acima de trinta dias consecutivos equivale a rescisão injusta, artigo quatrocentos e setenta e quatro. Então "suspensão de quarenta e cinco dias" é pegadinha. A multa salarial também é vedada como regra, com exceção do atleta profissional.
+== SLIDE: Grupo econômico
+* Subordinação: empresas sob direção, controle ou administração de outra
+* Coordenação: autonomia, mas integram o grupo (Reforma)
+* Efeito: responsabilidade solidária
+* Mera identidade de sócios não basta (art. 2º, §3º)
+* Exige interesse integrado, comunhão de interesses e atuação conjunta
+* Súmula 129 do TST e Tema 1232 do STF
+FRANCISCA: Vamos ao grupo econômico, nos parágrafos segundo e terceiro do artigo segundo da CLT. Quando uma ou mais empresas, cada uma com personalidade própria, estão sob a direção, o controle ou a administração de outra, há o grupo por subordinação, ou hierárquico.
+THALITA: E existe grupo sem uma empresa mandando nas outras?
+ANTONIO: Existe. É o grupo por coordenação, horizontal, em que as empresas mantêm autonomia, mas integram grupo econômico. A Reforma reconheceu isso expressamente. O efeito é a responsabilidade solidária pelas obrigações decorrentes da relação de emprego.
+BRUNO: Mas o parágrafo terceiro limita: a mera identidade de sócios não caracteriza grupo. São necessários interesse integrado, efetiva comunhão de interesses e atuação conjunta. A FCC adora afirmar que bastam sócios em comum.
+THALITA: Você poderia dar um exemplo?
+FRANCISCA: Márcio e Paulo são sócios da Alfa, uma padaria, e da Beta, uma oficina mecânica, em endereços distintos, com clientes, empregados e contabilidade separados. Pela só coincidência de sócios, não há grupo. Se a Beta prestasse serviços exclusivos à Alfa, com caixa comum e gestão integrada, haveria interesse integrado e atuação conjunta.
+ANTONIO: A Súmula cento e vinte e nove do TST diz que o empregado que presta serviços a mais de uma empresa do mesmo grupo, na mesma jornada, mantém um único contrato, salvo ajuste em contrário. É a base da tese do empregador único.
+BRUNO: E o Tema mil duzentos e trinta e dois do STF discute se empresa do grupo que não participou da fase de conhecimento pode ser incluída apenas na execução. A orientação admite a inclusão, com procedimento próprio, contraditório e demonstração dos requisitos, nos moldes do incidente de desconsideração da personalidade jurídica. Confira se o julgamento foi concluído e a redação final da tese. A antiga Súmula duzentos e cinco, que exigia participação na fase de conhecimento, está cancelada desde dois mil e três.
+== SLIDE: Sucessão de empregadores
+* Contratos em curso não são afetados (arts. 10 e 448)
+* Sucessor responde por tudo (art. 448-A)
+* Sucedido: solidário só se houver fraude
+* Sócio retirante: subsidiário, ações em até 2 anos (art. 10-A)
+* Falência e recuperação: sem sucessão trabalhista
+* OJ 261 e OJ 411 da SDI-1
+FRANCISCA: Última parte do segmento: a sucessão de empregadores. Os artigos dez e quatrocentos e quarenta e oito dizem que mudanças na propriedade ou na estrutura jurídica da empresa não prejudicam os direitos adquiridos nem afetam os contratos em curso.
+THALITA: E quem paga os débitos trabalhistas antigos?
+BRUNO: O artigo quatrocentos e quarenta e oito A responde: o sucessor responde por todas as obrigações, inclusive as do tempo da empresa sucedida. O sucedido só responde solidariamente se houver fraude na transferência.
+THALITA: Então o sucedido nunca responde, só em caso de fraude, e de forma solidária?
+ANTONIO: Isso mesmo. Já o sócio retirante responde subsidiariamente pelo período em que foi sócio, apenas em ações ajuizadas até dois anos após averbada sua saída. A ordem é empresa devedora, sócios atuais e retirantes, e é solidário se houver fraude.
+FRANCISCA: Na falência e na recuperação judicial, a alienação judicial de filiais ou unidades produtivas não gera sucessão trabalhista, conforme a Lei onze mil e cem, de dois mil e cinco, e a ADI três mil novecentos e trinta e quatro.
+BRUNO: Duas orientações da SDI um: a duzentos e sessenta e um diz que, na sucessão entre bancos, o banco sucessor responde também pelas obrigações do período anterior. A quatrocentos e onze diz que o sucessor não responde solidariamente por débitos de outra empresa do grupo da sucedida que ele não adquiriu, se a devedora direta era solvente, ressalvada má-fé ou fraude.
+THALITA: Pegadinha da FCC é dizer que o sucedido sempre responde subsidiariamente, ou que o sucessor só responde pelos débitos posteriores. Ambas erradas!
+ANTONIO: Exatamente. E cláusula contratual de não responsabilidade entre comprador e vendedor não vale contra o empregado, só em ação regressiva. Agora vamos à responsabilidade solidária e subsidiária, terceirização e plataformas digitais.
