@@ -1,0 +1,97 @@
+SEGMENTO s215
+== SLIDE: Boas-vindas e pessoa natural: início e capacidade
+* Aula 63: Direito Civil, parte geral
+* Personalidade: nascimento com vida (art. 2º)
+* Nascituro: direitos resguardados desde a concepção
+* Capacidade de direito x capacidade de fato
+ANTONIO: Olá, pessoal! Bem-vindos à aula sessenta e três, Direito Civil, parte geral. Hoje vamos ver pessoa natural, direitos da personalidade, pessoas jurídicas, domicílio e bens. Depois, negócio jurídico, invalidade, prescrição, decadência e prova, e fechamos com questões comentadas, estilo FCC. Eu sou o Antônio.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase e a jurisprudência.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro as pegadinhas da banca.
+THALITA: E eu sou a Thalita, concurseira. Pergunto, resumo e arrisco respostas, algumas erradas.
+ANTONIO: A personalidade civil começa com o nascimento com vida. Basta respirar; a viabilidade é irrelevante. O nascituro tem direitos resguardados desde a concepção, artigo segundo do Código Civil.
+THALITA: Mas então o nascituro é pessoa?
+FRANCISCA: Aqui há três teorias. A natalista diz que a personalidade só começa no nascimento. A concepcionista diz que o nascituro já é pessoa, e é a prevalente no STJ, que reconhece dano moral e o seguro DPVAT ao nascituro. A condicional diz que os direitos dependem do nascimento com vida. O natimorto, segundo o Enunciado um do CJF, tem protegidos o nome, a imagem e a sepultura.
+BRUNO: Distinga também capacidade de direito, que é a aptidão para titularizar direitos e deveres, artigo primeiro, e toda pessoa tem. E capacidade de fato, que é a aptidão para exercer pessoalmente os atos, e pode faltar, nas incapacidades.
+THALITA: Macete: de direito todo mundo tem; de fato pode faltar.
+== SLIDE: Incapacidades após a LBI
+* Absolutamente incapaz: só o menor de 16 anos (art. 3º)
+* Relativamente incapazes: art. 4º
+* Absoluto: representação e nulidade; relativo: assistência e anulabilidade
+* Pessoa com deficiência é plenamente capaz (LBI, art. 6º)
+ANTONIO: Esse é um tema que a banca ama: as incapacidades depois do Estatuto da Pessoa com Deficiência, a Lei treze mil cento e quarenta e seis, de dois mil e quinze. São absolutamente incapazes de exercer pessoalmente os atos da vida civil apenas os menores de dezesseis anos.
+THALITA: Só os menores? E o doente mental?
+BRUNO: Essa é a pegadinha. Hoje nenhum maior de idade é absolutamente incapaz. A lei eliminou as hipóteses de enfermidade mental e de impossibilidade de exprimir vontade.
+FRANCISCA: Os relativamente incapazes, artigo quarto: maiores de dezesseis e menores de dezoito; ébrios habituais e viciados em tóxico; quem, por causa transitória ou permanente, não puder exprimir vontade; e os pródigos. A lei retirou a deficiência mental com discernimento reduzido. Quem não consegue exprimir vontade era caso de incapacidade absoluta e virou relativa. A capacidade dos indígenas é regulada por lei especial.
+ANTONIO: O pródigo, na curatela, fica privado apenas dos atos de disposição patrimonial, artigo mil setecentos e oitenta e dois.
+BRUNO: Os efeitos: o absolutamente incapaz é suprido por representação, o ato que pratica sozinho é nulo, e a prescrição não corre contra ele. O relativamente incapaz é suprido por assistência, o ato é anulável, e a prescrição corre normalmente.
+THALITA: Deixa eu ver se entendi a diferença na prática. Se uma criança de doze anos vende um bem sozinha, o ato é nulo, e quem a representa é que age por ela. Se um rapaz de dezessete vende sozinho, o ato pode ser anulado, e ele age assistido pelos pais. É isso mesmo?
+FRANCISCA: É isso. E a pessoa com deficiência é plenamente capaz, artigo sexto da Lei Brasileira de Inclusão. A curatela é extraordinária e restrita a atos patrimoniais e negociais, artigo oitenta e cinco. Há ainda a tomada de decisão apoiada, artigo mil setecentos e oitenta e três, letra A, pedida pela própria pessoa, com dois apoiadores.
+THALITA: Macete: absoluto, menor de dezesseis, nulo, representação. Relativo, assistência, anulável.
+== SLIDE: Emancipação, fim da personalidade e ausência
+* Emancipação voluntária: 16 anos, instrumento público, sem homologação
+* Judicial: menor sob tutela; legal: casamento, emprego público efetivo, colação de grau, economia própria
+* Morte real, presumida e comoriência
+* Ausência: curadoria, sucessão provisória e definitiva
+ANTONIO: A emancipação está no parágrafo único do artigo quinto. Voluntária: concedida pelos pais, ou por um deles na falta do outro, ao menor com dezesseis anos completos, por instrumento público, sem necessidade de homologação judicial, com registro. Judicial: por sentença, ouvido o tutor, para o menor sob tutela com dezesseis anos.
+FRANCISCA: As hipóteses legais: casamento, mas menor de dezesseis não casa em hipótese alguma, após a Lei treze mil oitocentos e onze, de dois mil e dezenove; exercício de emprego público efetivo, e cargo comissionado não emancipa; colação de grau em ensino superior; e economia própria, quando o menor de dezesseis anos completos tem estabelecimento civil ou comercial, ou relação de emprego.
+BRUNO: Atenção: a emancipação é irrevogável, e divórcio ou viuvez não a desfaz. Na emancipação voluntária, os pais continuam respondendo pelos ilícitos do filho, Enunciado quarenta e um do CJF e STJ.
+THALITA: E o fim da personalidade?
+ANTONIO: Pela morte real, com certidão de óbito. Pela morte presumida com ausência, quando a lei autoriza a sucessão definitiva. E pela morte presumida sem ausência, artigo sétimo: quando é extremamente provável a morte de quem estava em perigo de vida, ou o desaparecido em campanha, não encontrado até dois anos após o fim da guerra. A sentença fixa a data provável do óbito. Comoriência: falecidos na mesma ocasião, sem prova de quem morreu primeiro, presumem-se simultaneamente mortos, sem transmissão de herança entre eles.
+FRANCISCA: Ausência. Primeiro a curadoria dos bens: o juiz nomeia curador, com preferência para cônjuge não separado, pais e descendentes. Depois a sucessão provisória: um ano da arrecadação, ou três anos se deixou procurador, com efeito cento e oitenta dias após publicada. Ascendentes, descendentes e cônjuge dispensam garantia e fazem seus todos os frutos; os demais capitalizam metade.
+BRUNO: A sucessão definitiva vem dez anos depois do trânsito da provisória, ou quando o ausente tem oitenta anos e está sem notícias há cinco. Dissolve o casamento. O ausente que retorna nos dez anos seguintes recebe os bens no estado em que se acharem.
+THALITA: Macete: um ou três, cento e oitenta dias, dez, dez.
+== SLIDE: Direitos da personalidade
+* Intransmissíveis e irrenunciáveis (art. 11)
+* Morto: cônjuge e parentes até o 4º grau (art. 12)
+* Corpo: art. 13; gratuita após a morte e revogável (art. 14)
+* Imagem: Súmula 403 do STJ; biografias: ADI 4815
+* Pessoa jurídica pode sofrer dano moral (Súmula 227)
+FRANCISCA: Os direitos da personalidade são vida, corpo, nome, imagem, honra e privacidade. O artigo onze os declara intransmissíveis e irrenunciáveis, sem limitação voluntária do exercício, salvo lei. O Enunciado quatro do CJF admite limitação temporária e específica, como a cessão de imagem.
+THALITA: E se alguém morre, quem defende?
+BRUNO: O artigo doze legitima o cônjuge e parentes em linha reta ou colateral até o quarto grau. Pegadinha: no artigo vinte, sobre imagem, só cônjuge, ascendentes e descendentes.
+ANTONIO: O artigo treze veda a disposição do corpo com diminuição permanente da integridade ou contrária aos bons costumes, salvo exigência médica. Transplante segue lei especial. O artigo catorze permite a disposição gratuita do corpo após a morte, para fim científico ou altruístico, e é revogável a qualquer tempo. O artigo quinze diz que ninguém é constrangido a tratamento ou cirurgia com risco de vida.
+FRANCISCA: Os artigos dezesseis a dezenove protegem o nome contra exposição ao desprezo, mesmo sem intenção difamatória, e contra uso em propaganda sem autorização. O pseudônimo é protegido se a atividade for lícita. O artigo vinte permite proibir divulgação de escritos ou imagem se ofender a honra ou tiver fim comercial, mas o Supremo, na ADI quatro mil oitocentos e quinze, dispensou autorização para biografias. O artigo vinte e um: a vida privada é inviolável.
+THALITA: Então se alguém usa meu nome numa propaganda sem eu autorizar, mesmo sem me ofender, já é violação? E uma biografia sobre mim não precisa de autorização, certo?
+BRUNO: Duas súmulas do STJ: a quatrocentos e três, publicação não autorizada da imagem com fins econômicos ou comerciais gera indenização independente de prova do prejuízo. E a duzentos e vinte e sete: a pessoa jurídica pode sofrer dano moral, coerente com o artigo cinquenta e dois.
+THALITA: Macete: direitos da personalidade, intransmissíveis. Imagem comercial, dano presumido.
+== SLIDE: Pessoas jurídicas e desconsideração
+* Direito público: art. 41; direito privado: art. 44
+* Existência com o registro (art. 45); anulação em 3 anos
+* Desconsideração (art. 50): desvio de finalidade ou confusão patrimonial
+* Só a requerimento, não de ofício
+* Teoria maior x teoria menor
+ANTONIO: As pessoas jurídicas de direito público interno estão no artigo quarenta e um: União, Estados, Distrito Federal, Territórios, Municípios, autarquias, inclusive associações públicas, e demais entidades públicas criadas por lei. As de direito privado, no artigo quarenta e quatro: associações, sociedades, fundações, organizações religiosas e partidos políticos. A EIRELI foi revogada.
+FRANCISCA: A existência começa com a inscrição do ato constitutivo no registro. A anulação da constituição tem prazo decadencial de três anos, contado da publicação da inscrição, artigo quarenta e cinco. Pelo artigo quarenta e nove, letra A, a pessoa jurídica não se confunde com sócios, associados, instituidores ou administradores.
+THALITA: E quando se desconsidera?
+BRUNO: Pelo artigo cinquenta, na redação da Lei treze mil oitocentos e setenta e quatro, de dois mil e dezenove, o pressuposto é o abuso da personalidade: desvio de finalidade ou confusão patrimonial. A iniciativa é por requerimento da parte ou do Ministério Público, nunca de ofício. Alcança bens particulares de administradores ou sócios beneficiados direta ou indiretamente pelo abuso.
+FRANCISCA: Desvio de finalidade é usar a pessoa jurídica para lesar credores e praticar ilícitos. Confusão patrimonial é a ausência de separação de fato: a sociedade paga dívidas do sócio, ou vice-versa, ou há transferência de ativos sem contraprestação. A desconsideração inversa alcança bens da pessoa jurídica por obrigação do sócio. Mero grupo econômico não basta, e a expansão da finalidade original não é desvio.
+ANTONIO: A teoria maior, do Código Civil, exige insolvência mais abuso. A teoria menor, do CDC, artigo vinte e oito, parágrafo quinto, e da Lei nove mil seiscentos e cinco, artigo quarto, basta a personalidade ser obstáculo ao ressarcimento. O procedimento é o incidente dos artigos cento e trinta e três a cento e trinta e sete do CPC, aplicável à CLT pelo artigo oitocentos e cinquenta e cinco, letra A.
+BRUNO: Erros típicos: dizer que basta a insolvência, ou que o juiz decreta de ofício.
+THALITA: Macete: abuso mais requerimento. Sem abuso, só insolvência, é só na teoria menor.
+== SLIDE: Associações, fundações e domicílio
+* Associações: sem fins econômicos; exclusão por justa causa
+* Fundações: escritura pública ou testamento; velamento pelo MP
+* Estatuto alterado por 2/3; aprovação do MP em 45 dias
+* Domicílio voluntário, profissional, aparente e de eleição
+* Necessário: incapaz, servidor, militar, marítimo e preso
+FRANCISCA: Associações, artigos cinquenta e três a sessenta e um, são união de pessoas sem fins econômicos, sem direitos e obrigações recíprocos entre associados. A exclusão só ocorre por justa causa, com defesa e recurso. A assembleia geral destitui administradores e altera o estatuto.
+ANTONIO: Fundações, artigos sessenta e dois a sessenta e nove: dotação especial de bens livres, por escritura pública ou testamento, com fins restritos ao rol do parágrafo único do artigo sessenta e dois. Se o estatuto não é feito no prazo do instituidor ou em cento e oitenta dias, cabe ao Ministério Público. A alteração exige dois terços dos gestores, aprovação do MP em quarenta e cinco dias, e a minoria impugna em dez dias. O velamento é do MP do Estado onde situada; no Distrito Federal, o MPDFT.
+THALITA: E domicílio?
+BRUNO: O voluntário geral é a residência com ânimo definitivo; com várias residências, qualquer delas. O profissional é o lugar da profissão, para as relações profissionais. O aparente é onde for encontrada a pessoa sem residência habitual. O de eleição é fixado em contrato escrito.
+FRANCISCA: Para a pessoa jurídica: União, o Distrito Federal; Estados, as capitais; Municípios, a sede da administração; demais, a diretoria ou o estatuto; e cada estabelecimento para seus atos.
+ANTONIO: O domicílio necessário, artigo setenta e seis: incapaz, o do representante ou assistente; servidor público, onde exerce permanentemente as funções; militar, onde servir, e na Marinha e Aeronáutica a sede do comando imediato; marítimo, onde o navio estiver matriculado; preso, onde cumpre a sentença.
+THALITA: Macete: incapaz, servidor, militar, marítimo, preso.
+== SLIDE: Bens: classificações, acessórios e bens públicos
+* Imóveis, móveis, fungíveis, consumíveis e coletivos
+* Frutos, produtos e pertenças (art. 94)
+* Benfeitorias necessárias, úteis e voluptuárias
+* Bens públicos: inalienáveis enquanto afetados; imprescritíveis
+BRUNO: Bens. Imóveis por lei: direitos reais sobre imóveis e o direito à sucessão aberta. A edificação removida inteira e o material separado para reemprego continuam imóveis. Móveis por lei: energias com valor econômico e direitos pessoais patrimoniais; material de construção não empregado é móvel.
+FRANCISCA: Fungíveis são substituíveis por outros da mesma espécie; consumíveis são destruídos pelo uso ou destinados à alienação. Os coletivos são a universalidade de fato, como uma biblioteca, e a de direito, como a herança.
+THALITA: E os acessórios?
+ANTONIO: Frutos são utilidades renováveis, naturais, industriais ou civis; produtos esgotam a substância, como o minério. Ambos podem ser objeto de negócio antes de separados. Pertenças não são partes integrantes: destinam-se duradouramente ao uso, serviço ou aformoseamento de outro bem, como o trator da fazenda e os quadros da casa. São exceção à gravitação: o negócio sobre o principal não abrange as pertenças, salvo lei, vontade ou circunstâncias, artigo noventa e quatro.
+THALITA: Então se eu vendo a fazenda, o trator não vai junto automaticamente? Só vai se o contrato disser ou se as circunstâncias indicarem?
+BRUNO: Isso mesmo. Benfeitorias: necessárias conservam o bem ou evitam deterioração; o possuidor, de boa ou má-fé, é indenizado, mas só o de boa-fé tem retenção. Úteis aumentam ou facilitam o uso; na boa-fé, indenização e retenção; na má-fé, nada. Voluptuárias são mero deleite; na boa-fé, levantamento se não pagas; na má-fé, nada. Acréscimo sem intervenção do proprietário, como aluvião, não é benfeitoria, artigo noventa e sete.
+FRANCISCA: Quanto aos bens públicos, os de uso comum e uso especial são inalienáveis enquanto afetados; a desafetação os torna dominicais. Os dominicais são alienáveis, observadas as exigências legais, artigo cento e um. Todos os bens públicos são imprescritíveis, não sujeitos a usucapião, artigo cento e dois e Constituição, artigos cento e oitenta e três, parágrafo terceiro, e cento e noventa e um.
+THALITA: Macete: pertença não acompanha o principal, bem público não se usucapia.
+ANTONIO: Pessoal, vamos agora ao negócio jurídico, à invalidade, à prescrição e à decadência.
