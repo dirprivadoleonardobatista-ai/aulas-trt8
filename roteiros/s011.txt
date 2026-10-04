@@ -1,0 +1,102 @@
+SEGMENTO s011
+== SLIDE: Aula quatro: regência verbal, assistir, aspirar e visar
+* Aula 4: Gramática aplicada, o núcleo da FCC
+* Regência: relação entre termo regente e termo regido
+* Assistir: prestar assistência, ver, caber
+* Aspirar e visar mudam de sentido conforme a preposição
+ANTONIO: Bom dia, pessoal, e sejam bem-vindos à aula quatro do nosso curso. Hoje é Língua Portuguesa, Gramática aplicada, o núcleo da FCC. Neste primeiro bloco vamos ver regência verbal e nominal, coordenação, subordinação e conectivos, e morfossintaxe com reescrita de frases. Depois, em dois blocos, vêm as questões comentadas.
+THALITA: Eu sou a Thalita, concurseira, e vou fazer as perguntas que a gente tem vontade de fazer nessa matéria cheia de preposição.
+FRANCISCA: Eu sou a Francisca, professora, e vou trazer exemplos concretos de cada regra.
+BRUNO: E eu sou o Bruno, especialista em FCC. Vou mostrar como a banca monta a pegadinha.
+ANTONIO: Comecemos pelo conceito. Regência é a relação de dependência entre o termo regente, que pode ser um verbo ou um nome, e o termo regido, marcada ou não por preposição. Três ideias para guardar. Primeira, verbos de regência múltipla mudam de sentido conforme a preposição, como assistir, aspirar, visar, implicar e proceder. Segunda, a preposição exigida pelo verbo da oração adjetiva vai para antes do relativo. Terceira, a regência determina o pronome e a crase.
+THALITA: Por onde eu começo? Tem verbo demais.
+FRANCISCA: Pelo assistir, que a FCC ama. Com o sentido de prestar assistência, é transitivo direto: o advogado assiste o reclamante, e o pronome é o, assiste-o. Com o sentido de ver, presenciar, é transitivo indireto com a preposição a: assistimos à sessão. O pronome é a ela, e não lhe, e não admite voz passiva.
+BRUNO: Cuidado, porque a banca escreve a sessão foi assistida por todos, achando que está certo. Está errado, porque assistir no sentido de ver não tem passiva.
+ANTONIO: E o terceiro sentido é caber, ser direito de, também com a preposição a: assiste ao empregado o direito de recorrer. Aqui o pronome é lhe: assiste-lhe o direito.
+THALITA: Então, de novo. Prestar assistência, direto. Ver, a ela. Caber, lhe.
+FRANCISCA: Isso. Agora o aspirar. Com o sentido de sorver, inspirar, é transitivo direto: aspirar o ar, aspirá-lo. Com o sentido de almejar, é transitivo indireto com a: aspira ao cargo, e o pronome é a ele.
+BRUNO: Já o visar. Com o sentido de mirar ou pôr visto, é direto: visar o alvo, visar o passaporte, visá-lo. Com o sentido de objetivar, tradicionalmente pede a: o programa visa ao bem comum. Hoje se aceita também o direto, mas na dúvida a banca costuma tratar o a como a forma culta.
+== SLIDE: Implicar, preferir, esquecer, lembrar e informar
+* Implicar: acarretar é direto; implica em é erro
+* Preferir X a Y, sem mais e sem do que
+* Esquecer, lembrar e esquecer-se, lembrar-se
+* Informar, avisar, notificar: algo a alguém ou alguém de algo
+ANTONIO: O implicar tem três sentidos. Acarretar é transitivo direto: a falta implica advertência. O erro clássico é implica em. Envolver é transitivo direto e indireto com em: implicou o sócio na fraude. E antipatizar é com: implica com o colega.
+THALITA: Então a medida implicará em gastos está errada?
+BRUNO: Errada. É a medida implicará gastos. Essa aparece direto na lista de distratores.
+FRANCISCA: Obedecer e desobedecer são transitivos indiretos com a: obedecer às leis. Com pessoa, o pronome é lhe: obedecer-lhe. E admitem passiva, porque a língua culta aceita as leis foram obedecidas.
+BRUNO: Preferir pede preferir uma coisa a outra: prefiro conciliar a litigar. Erros: prefiro mais, e prefiro isso do que aquilo. A banca coloca os dois num mesmo erro.
+ANTONIO: Verbos de movimento, chegar, ir, voltar, pedem a: chegou ao fórum, foi à audiência. Chegou no fórum é coloquial.
+FRANCISCA: Esquecer e lembrar, sem pronome, são transitivos diretos: esqueci o prazo. Esquecer-se e lembrar-se, com pronome, pedem de: esqueci-me do prazo. Erros: esqueci do prazo e me esqueci o prazo.
+THALITA: Esqueci o prazo ou esqueci-me do prazo. Os dois certos. E lembrar, no sentido de advertir?
+FRANCISCA: Transitivo direto e indireto: algo a alguém ou alguém de algo. Lembrou ao cliente o prazo, ou lembrou o cliente do prazo. Do mesmo grupo: informar, avisar, notificar, cientificar. Informou o fato ao réu, ou informou o réu do fato.
+BRUNO: E o erro clássico mistura as duas: informou ao réu do fato. Errado, porque junta as duas construções.
+ANTONIO: Proceder tem três sentidos. Ter fundamento é intransitivo: a alegação não procede. Realizar é indireto com a: procedeu-se à leitura da ata. Originar-se é indireto com de: o recurso procede de Macapá.
+FRANCISCA: Simpatizar e antipatizar são com, e não pronominais: simpatizo com a tese, e não me simpatizo. Residir, morar e situar-se pedem em: residente na rua tal. Residente à rua tal é condenado. E pedir: pediu ao juiz que adiasse a sessão. Pedir para que adiasse é erro, pois pedir para só vale com o sentido de licença.
+== SLIDE: Regência nominal e pronome relativo
+* Favorável, contrário, alheio, avesso, relativo: a
+* Compatível com; passível de; preferível a
+* Relativo com preposição: ao qual, de que, em que
+* Sujeito ou objeto direto: sem preposição
+BRUNO: A regência nominal segue a mesma lógica. Acessível, alheio, avesso, contrário, favorável, equivalente, relativo e propenso pedem a: favorável ao acordo, alheio aos fatos.
+FRANCISCA: Apto, necessário e essencial admitem a ou para: apto ao cargo ou para o cargo. Compatível pede com: compatível com a função. Passível, imbuído e constituído pedem de, e constituído aceita também por: passível de recurso.
+ANTONIO: Preferível pede a. É preferível conciliar a litigar. Nunca do que, e nunca mais preferível. E residente, situado e sito pedem em: situado na avenida Presidente Vargas.
+THALITA: Agora vem a parte difícil: o relativo.
+ANTONIO: O método tem três passos. Primeiro, isole a oração adjetiva: o servidor aspira a quê? Segundo, ponha o antecedente: o servidor aspira ao cargo. Terceiro, leve a preposição para antes do relativo: o cargo a que, ou ao qual, o servidor aspira.
+FRANCISCA: Vamos aplicar. A sessão a que assistimos, porque assistir no sentido de ver pede a. O prazo de que se esqueceu, porque esquecer-se pede de. A cidade em que reside, porque residir pede em. O colega com quem simpatizo. Os recursos de que dispomos. A conclusão a que chegou.
+BRUNO: A FCC põe o erro típico em cada uma: o cargo que aspira, a sessão que assistimos, o prazo que se esqueceu, a cidade que reside, o colega que simpatizo. Todas erradas, falta a preposição.
+THALITA: E com o cujo? Aquele que tem sempre dúvida.
+FRANCISCA: Cujo carrega a preposição consigo: o autor de cuja tese discordo, porque discordar pede de. E o parecer com o qual concordo, porque concordar pede com. A tese a que o relator era favorável, pois a regência é nominal, favorável a.
+BRUNO: Para tempo e motivo: no dia em que, o motivo por que recorreu, em que por que equivale a pelo qual. No dia que é coloquial. E atenção: o processo que analisei não leva preposição, porque analisar é transitivo direto.
+ANTONIO: Duas checagens finais. Se o relativo for sujeito ou objeto direto, não há preposição: a decisão que implica prejuízo; o voto que o relator proferiu. E com preposição de duas ou mais sílabas, use o qual, não que: a lei segundo a qual, a mesa sobre a qual.
+== SLIDE: Coordenação, subordinação e orações substantivas
+* Coordenadas são independentes: aditivas, adversativas, alternativas, conclusivas, explicativas
+* Subordinadas: substantivas, adjetivas e adverbiais
+* Substantiva: teste de trocar a oração por isso
+* A FCC cobra o valor do conectivo e a substituição
+FRANCISCA: Agora coordenação e subordinação. As coordenadas são sintaticamente independentes: aditivas, adversativas, alternativas, conclusivas e explicativas. As subordinadas exercem função na principal: substantivas, que têm função de substantivo; adjetivas, de adjunto adnominal; e adverbiais, que expressam circunstâncias.
+BRUNO: O que a FCC cobra é o valor semântico do conectivo e a troca por outro de mesmo valor, ajustando modo verbal e pontuação. É um dos assuntos mais frequentes da prova.
+ANTONIO: Começando pelas substantivas. O teste é trocar a oração por isso. Subjetiva é o sujeito: é necessário que todos compareçam. Objetiva direta: o juiz determinou que a parte se manifestasse. Objetiva indireta: a parte necessita de que o prazo seja dilatado.
+FRANCISCA: Completiva nominal é complemento de nome: tinha certeza de que venceria. Predicativa: o certo é que o prazo expirou. Apositiva: exigiu uma coisa, que os prazos fossem cumpridos.
+THALITA: Então a diferença entre objetiva indireta e completiva nominal é o termo que pede a preposição?
+BRUNO: Isso. Se a preposição vem de um verbo, objetiva indireta. Se vem de um nome, como certeza, completiva nominal.
+ANTONIO: As adjetivas, restritivas e explicativas, nós já vimos antes. As adverbiais recebem o nome do valor do conectivo, e é isso que vamos organizar agora.
+THALITA: Qual conectivo para qual valor? Posso fazer uma tabelinha mental?
+FRANCISCA: Pode. Causa: porque, visto que, já que, uma vez que, dado que, porquanto, na medida em que, e como, só anteposto. Equivalentes: por mais infinitivo, devido a, em razão de, em virtude de. Modo indicativo. Exemplo: como o prazo expirou, o recurso não foi conhecido.
+BRUNO: Consequência: tão, tanto, tal ou tamanho seguidos de que, mais de modo que, de sorte que. Indicativo. O voto foi tão claro que ninguém divergiu. Concessão: embora, conquanto, ainda que, mesmo que, posto que, se bem que, nem que. Equivalentes: apesar de, a despeito de, não obstante, em que pese. Subjuntivo: embora tenha recorrido, perdeu.
+ANTONIO: Condição: se, caso, desde que, contanto que, a menos que, a não ser que, salvo se, sem que. Subjuntivo: desde que haja provas, o pedido será deferido. Conformidade: conforme, consoante, segundo, como. Indicativo. Finalidade: para que, a fim de que. Subjuntivo.
+FRANCISCA: Proporção: à medida que, à proporção que, ao passo que, quanto mais. Tempo: quando, enquanto, assim que, logo que, sempre que, depois que. Adição: e, nem, não só mas também. Alternância: ou ou, ora ora, quer quer. Comparação: como, assim como, mais que, do que.
+BRUNO: Adversidade: mas, porém, contudo, todavia, entretanto, no entanto. Conclusão: logo, portanto, por isso, por conseguinte, assim, destarte, e pois posposto. Explicação: pois anteposto, porque, porquanto.
+== SLIDE: Conectivos de duplo valor e substituição
+* Desde que: tempo no indicativo, condição no subjuntivo
+* Como: causa só anteposta, comparação, conformidade
+* Posto que é concessão; conquanto é embora
+* Substituição: valor, mesmo conectivo, modo, pontuação
+ANTONIO: Agora as pegadinhas dos conectivos de duplo valor. Desde que: no indicativo é tempo, como em desde que assumiu. No subjuntivo é condição, como em desde que haja provas.
+FRANCISCA: Como pode ser causa, comparação ou conformidade. Causa só anteposta: como chovia, ficou em casa. Comparação: agiu como um juiz. Conformidade: como prevê a lei.
+BRUNO: Ao passo que pode ser proporção ou contraste: Ana estuda, ao passo que Bruno trabalha, equivale a enquanto. Posto que é concessão tradicional, não causa. Posto que fosse tarde, continuou, igual a embora.
+THALITA: E conquanto e contanto que? Parecem iguais.
+FRANCISCA: São parônimos. Conquanto é embora, concessão. Contanto que é desde que, condição. Sem que pode ser condição, como em sem que haja prova, não há condenação.
+ANTONIO: Pois também confunde. Anteposto, é explicativo. Posposto ao verbo e entre vírgulas, é conclusivo. Não obstante é concessão com nome ou infinitivo, como em não obstante as provas, absolveu. Entre orações, é adversidade: provou; não obstante, perdeu.
+BRUNO: E na medida em que, causa, contra à medida que, proporção. A banca troca um pelo outro.
+ANTONIO: Agora o método de substituição em quatro passos. Um, identificar o valor do original. Dois, escolher outro do mesmo valor. Três, ajustar o modo verbal: concessivas e condicionais pedem subjuntivo; causais e conformativas, indicativo. Quatro, ajustar posição e pontuação.
+FRANCISCA: Exemplos. Embora o prazo tenha expirado, a parte recorreu. Corretas: ainda que o prazo tenha expirado, apesar de o prazo ter expirado, não obstante ter expirado o prazo. Erradas: porquanto o prazo tenha expirado, que é causa; e embora o prazo expirou, que erra o modo.
+BRUNO: O recurso não foi conhecido porque era intempestivo. Corretas: visto que era, uma vez que era, por ser intempestivo, e como era intempestivo, anteposto. Errada: o recurso não foi conhecido, como era intempestivo, com como causal posposto.
+THALITA: Se houver acordo, o processo será extinto. Posso trocar por caso haja acordo?
+FRANCISCA: Pode, e por havendo acordo, e na hipótese de haver acordo. Errado: caso houver, pelo modo, e conquanto haja, que é concessão.
+ANTONIO: Mas, não concluiu, troca por contudo, todavia, no entanto e porém. Não por portanto, que é conclusão, nem porquanto, que é causa. E para que as partes se manifestem, troque por a fim de que as partes se manifestem. Conforme determina a lei, por consoante, segundo ou como.
+== SLIDE: Morfossintaxe, que, se e reescrita
+* Que: relativo, integrante, causal, consecutivo, expletivo
+* Se: apassivador, indeterminação, reflexivo, parte do verbo, condicional
+* Reescrita: conferir correção e sentido a cada alteração
+* Distratores recorrentes da FCC
+BRUNO: Último bloco: morfossintaxe, classe mais função. As palavras mais cobradas são que e se. O que pode ser pronome relativo, que troca por o qual: o processo que chegou. Conjunção integrante, que a oração troca por isso: sei que chegou. Conjunção causal ou explicativa: saia, que está tarde. Consecutiva, depois de tão, tal ou tanto: falou tanto que cansou. E partícula expletiva, que pode ser retirada: nós é que decidimos.
+FRANCISCA: O se tem mais funções. Pronome apassivador, com verbo transitivo direto: publicaram-se os editais. Índice de indeterminação do sujeito, com verbo transitivo indireto, intransitivo ou de ligação, na terceira pessoa do singular: precisa-se de peritos.
+ANTONIO: Reflexivo ou recíproco: o réu defendeu-se; cumprimentaram-se. Parte integrante do verbo, nos essencialmente pronominais: ele se queixou da demora, arrepender-se, dignar-se. Conjunção condicional, igual a caso: se houver acordo. E conjunção integrante, na interrogativa indireta: perguntou se havia acordo.
+THALITA: E na reescrita, o que eu confiro?
+FRANCISCA: Cada alteração dispara uma checagem. Inversão da ordem: concordância e pontuação. Os prazos foram cumpridos vira foram cumpridos os prazos. Troca de verbo por sinônimo: regência e crase. Visa ao lucro vira objetiva o lucro, e a preposição cai.
+BRUNO: Troca de masculino por feminino: crase. Refiro-me ao parecer vira refiro-me à manifestação. Oração desenvolvida por reduzida: tempo e sujeito. Encerrada a audiência equivale a depois que a audiência foi encerrada. Nominalização: preposição e adjuntos. Após analisar os autos equivale a após a análise dos autos.
+ANTONIO: Os distratores recorrentes são estes. A reunião onde se decidiu o caso, correto: em que ou na qual. O servidor cujo o filho, correto: cujo filho. A medida implicará em gastos, correto: implicará gastos.
+BRUNO: Prefiro mais conciliar do que litigar, correto: prefiro conciliar a litigar. Caso ele vier, correto: caso ele venha. É proibido a entrada, correto: é proibida a entrada. Segue anexo as cópias, correto: seguem anexas. E a nível de, correto: em nível de ou no âmbito de.
+THALITA: Muito material. Já estou ansiosa para ver como isso cai em questão.
+ANTONIO: É o que vamos fazer agora. No próximo bloco, o primeiro de dois, trabalharemos questões comentadas no estilo FCC, a começar pela crase.
