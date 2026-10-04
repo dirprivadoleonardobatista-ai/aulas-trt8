@@ -1,0 +1,133 @@
+SEGMENTO s248
+== SLIDE: Lei 9.099: menor potencial ofensivo e transação penal
+* Menor potencial ofensivo: pena máxima de até 2 anos
+* Termo circunstanciado e ausência de flagrante
+* Composição civil: sentença irrecorrível
+* Transação penal: proposta do MP, sem reincidência
+* Vedações: condenação definitiva, benefício em 5 anos
+ANTONIO: Fechamos o bloco de polícia judicial e agora entramos na legislação penal especial. Primeiro, a Lei nove mil e noventa e nove, de mil novecentos e noventa e cinco, na parte criminal. É o Juizado Especial Criminal.
+THALITA: Esse eu sei: pena de até dois anos, certo?
+BRUNO: Quase. Menor potencial ofensivo são as contravenções e os crimes com pena máxima de até dois anos, com ou sem multa. Máxima, Thalita. A banca vive trocando por mínima.
+FRANCISCA: Nessas infrações a autoridade policial lavra o termo circunstanciado e o envia ao Juizado, com autor e vítima. E se o autor é encaminhado ao Juizado, ou se compromete a comparecer, não é preso em flagrante nem presta fiança.
+THALITA: Então não tem prisão em flagrante nem fiança. Anotado.
+ANTONIO: Depois vem a composição civil dos danos. Quando homologada pelo juiz, por sentença irrecorrível, vale como título executivo. E na ação privada ou condicionada à representação, ela equivale a renúncia ao direito de queixa ou de representação.
+BRUNO: Lembre disso: na ação pública incondicionada, a composição civil não extingue a punibilidade.
+FRANCISCA: Agora a transação penal. O Ministério Público propõe pena restritiva de direitos ou multa de imediato, sem processo. Se o autor aceita e o juiz homologa, isso não gera reincidência e não conta como antecedente. O registro serve só para impedir novo benefício por cinco anos.
+THALITA: E quem não pode ter transação?
+ANTONIO: Quem já foi condenado definitivamente a pena privativa de liberdade por crime, quem recebeu esse benefício nos últimos cinco anos, e quem tem antecedentes desfavoráveis, conduta social ou personalidade que não indiquem a medida como suficiente.
+BRUNO: A Súmula Vinculante trinta e cinco completa: se a transação homologada é descumprida, volta-se à situação anterior, e o Ministério Público pode oferecer denúncia.
+THALITA: Então descumpriu, vai a denúncia. Entendi.
+FRANCISCA: Exato, e esse é um bom macete para memorizar.
+== SLIDE: Suspensão condicional do processo e Maria da Penha
+* Sursis processual: pena mínima de até 1 ano
+* Suspensão de 2 a 4 anos, em qualquer crime que caiba
+* Condições: reparar dano, comarca, comparecimento mensal
+* Revogação obrigatória e facultativa
+* Violência doméstica: Lei 9.099 inaplicável
+BRUNO: Chegamos ao artigo oitenta e nove, a suspensão condicional do processo, o sursis processual. Aqui a regra é pela pena mínima, não pela máxima: pena mínima igual ou inferior a um ano.
+THALITA: E vale só para o Juizado?
+ANTONIO: Não. Dentro ou fora do Juizado. O Ministério Público propõe a suspensão por dois a quatro anos, desde que o réu não esteja sendo processado nem tenha sido condenado por outro crime.
+FRANCISCA: As condições do parágrafo primeiro são reparar o dano, salvo impossibilidade, proibição de frequentar certos lugares, proibição de se ausentar da comarca sem autorização e comparecer mensalmente em juízo.
+THALITA: E a revogação? Sempre acontece se ele descumprir?
+BRUNO: Depende. É obrigatória se o réu for processado por outro crime ou não reparar o dano sem motivo justificado. É facultativa se for processado por contravenção ou descumprir outra condição.
+THALITA: Então outro crime ou dano não reparado: obrigatória. Contravenção ou outra condição: facultativa.
+ANTONIO: Perfeito. Agora duas súmulas importantes. A Súmula duzentos e quarenta e três do STJ e a Súmula setecentos e vinte e três do STF dizem que, no concurso de crimes e no crime continuado, a pena mínima considerada inclui o aumento. Se passar de um ano, não cabe o sursis processual.
+FRANCISCA: Em outras palavras, soma-se o aumento mínimo antes de comparar com um ano.
+BRUNO: E a pegadinha clássica: violência doméstica contra a mulher. A Lei nove mil e noventa e nove é inaplicável, qualquer que seja a pena, pelo artigo quarenta e um da Lei onze mil trezentos e quarenta, de dois mil e seis. A Súmula quinhentos e trinta e seis do STJ confirma: não cabem transação nem suspensão do processo.
+THALITA: Resumindo: Juizado usa pena máxima de dois anos, sursis usa pena mínima de um ano.
+FRANCISCA: Esse é o macete que cai todo ano.
+== SLIDE: Violência institucional e racismo
+* Art. 15-A da Lei 13.869/2019: procedimentos desnecessários e repetitivos
+* Detenção de 3 meses a 1 ano e multa
+* Injúria racial migrou para o art. 2º-A da Lei 7.716
+* Reclusão de 2 a 5 anos; imprescritível e inafiançável
+* Racismo recreativo e funcionário público: aumento
+ANTONIO: Vamos à violência institucional, introduzida pela Lei catorze mil trezentos e vinte e um, de dois mil e vinte e dois, no artigo quinze A da Lei treze mil oitocentos e sessenta e nove. A conduta é submeter vítima ou testemunha de crime violento a procedimentos desnecessários, repetitivos ou invasivos, que a façam reviver a violência.
+THALITA: Dá um exemplo concreto?
+FRANCISCA: Imagine uma vítima de estupro obrigada a contar o mesmo fato para vários agentes, repetidas vezes, sem necessidade. A pena é detenção de três meses a um ano e multa, infração de menor potencial ofensivo.
+BRUNO: Os aumentos pegam: se o agente permite que um terceiro intimide a vítima, aumenta em dois terços. Se o próprio agente intimida, a pena é em dobro.
+THALITA: Dois terços para terceiro, dobro para o próprio agente.
+ANTONIO: Agora racismo e injúria racial, na Lei sete mil setecentos e dezesseis, de mil novecentos e oitenta e nove, com a Lei catorze mil quinhentos e trinta e dois, de dois mil e vinte e três. O artigo segundo A trouxe a injúria racial, que saiu do artigo cento e quarenta, parágrafo terceiro, do Código Penal. A pena é reclusão de dois a cinco anos e multa, com aumento de metade se houver concurso de duas ou mais pessoas.
+FRANCISCA: O artigo vinte pune praticar, induzir ou incitar discriminação por raça, cor, etnia, religião ou procedência nacional, com reclusão de um a três anos e multa. O artigo vinte A traz o racismo recreativo, quando há contexto ou intuito de diversão, com aumento de um terço até a metade.
+BRUNO: E o artigo vinte B: se os crimes dos artigos segundo A e vinte forem praticados por funcionário público no exercício da função, ou a pretexto dela, aumenta de um terço até a metade. Isso é cobrado com exemplo de servidor.
+THALITA: Mas injúria racial não prescreve, né?
+FRANCISCA: Isso, o Habeas Corpus cento e cinquenta e quatro mil duzentos e quarenta e oito, do STF, de dois mil e vinte e um, entendeu que a injúria racial é espécie de racismo, logo imprescritível e inafiançável. E na ADO vinte e seis e no Mandado de Injunção quatro mil setecentos e trinta e três, o STF enquadrou a homotransfobia nos tipos da Lei sete mil setecentos e dezesseis.
+ANTONIO: E atenção: a injúria religiosa, contra idoso ou contra pessoa com deficiência continua no artigo cento e quarenta, parágrafo terceiro, do Código Penal. Só raça, cor, etnia e procedência nacional migraram.
+== SLIDE: Estatuto da Pessoa Idosa
+* Pessoa com 60 anos ou mais
+* Prioridade especial: maiores de 80 anos
+* Gratuidade no transporte urbano: 65 anos
+* Ação penal pública incondicionada
+* Lei 9.099 não se aplica aos crimes contra idoso
+BRUNO: Agora o Estatuto da Pessoa Idosa, a Lei dez mil setecentos e quarenta e um, de dois mil e três, com a Lei catorze mil quatrocentos e vinte e três, de dois mil e vinte e dois. Idoso é a pessoa com sessenta anos ou mais, artigo primeiro.
+THALITA: E aquela prioridade especial?
+FRANCISCA: Os maiores de oitenta anos têm preferência sobre os demais idosos, no artigo terceiro, parágrafo segundo. Já a tramitação processual prioritária, no artigo setenta e um, vale para partes com sessenta anos ou mais.
+ANTONIO: A gratuidade no transporte coletivo urbano, artigo trinta e nove, é aos sessenta e cinco anos, bastando documento que comprove a idade.
+BRUNO: Pegadinha clássica: sessenta para ser idoso, sessenta e cinco para a gratuidade, oitenta para a prioridade especial.
+THALITA: Sessenta, sessenta e cinco, oitenta. Vou decorar em ordem crescente.
+FRANCISCA: Quanto à ação penal, o artigo noventa e cinco diz que os crimes do Estatuto são de ação pública incondicionada, e não se aplicam as imunidades patrimoniais dos artigos cento e oitenta e um e cento e oitenta e dois do Código Penal. Então o filho que furta o pai idoso não fica isento.
+ANTONIO: E a Lei nove mil e noventa e nove? Pela redação do artigo noventa e quatro dada pela Lei quinze mil cento e sessenta e três, de dois mil e vinte e cinco, ela não se aplica aos crimes do Estatuto nem aos crimes com violência contra idoso, qualquer que seja a pena.
+BRUNO: Antes, o rito do Juizado valia para crimes com pena máxima de até quatro anos, e a ADI três mil e noventa e seis limitou isso ao procedimento, sem benefícios despenalizadores. A lei nova afastou a Lei nove mil e noventa e nove por completo e elevou penas, como no artigo noventa e nove, de dois a cinco anos. Confira se é anterior ao edital.
+THALITA: Então se a questão é antiga, a resposta antiga pode ser a certa?
+FRANCISCA: Pode ser, por isso leia o ano do edital.
+== SLIDE: Lei 5.553: retenção de documento
+* Proibida retenção de documento de identificação
+* Dados extraídos em até 5 dias; depois, só por ordem judicial
+* Portaria: anotar no ato e devolver imediatamente
+* Contravenção: prisão simples de 1 a 3 meses ou multa
+* Responde quem ordenou a retenção
+ANTONIO: Fechando a legislação especial, a Lei cinco mil quinhentos e cinquenta e três, de mil novecentos e sessenta e oito. Ninguém, pessoa física ou jurídica, pública ou privada, pode reter documento de identificação, nem sequer cópia autenticada.
+THALITA: Mas e quem precisa conferir os dados?
+BRUNO: Quem exige o documento extrai os dados em até cinco dias e o devolve. Além disso, só por ordem judicial.
+FRANCISCA: E na portaria de prédios, o parágrafo segundo do artigo segundo é específico: os dados são anotados no ato e o documento é devolvido imediatamente.
+THALITA: Se o porteiro do fórum retém a identidade até a saída do visitante, está errado?
+ANTONIO: Está. É contravenção penal, com prisão simples de um a três meses ou multa. E responde quem ordenou a retenção. O executor só responde se desobedeceu a ordens expressas.
+BRUNO: Cuidado com o exemplo clássico: o chefe da segurança ordenou, o agente apenas cumpriu, então responde o chefe. E cinco dias é a regra geral, na portaria é na hora. As bancas misturam as duas.
+THALITA: Cinco dias, regra geral. Na portaria, devolve na hora.
+FRANCISCA: Perfeito. Encerramos a matéria. Agora vamos treinar com as questões comentadas.
+== SLIDE: Questões 1 a 3: bloqueio, código de conduta e capacitação
+* Q1: veículo em bloqueio, regra e exceção
+* Q2: código de conduta da ONU
+* Q3: capacitação obrigatória, anual, em serviço
+* Disparo de advertência é vedado
+BRUNO: Questão um. Pela Lei treze mil e sessenta, o uso de arma de fogo contra veículo que desrespeita bloqueio policial é: A, sempre legítimo; B, depende de autorização do superior; C, ilegítimo, salvo risco de morte ou lesão; D, legítimo após disparo de advertência; E, ilegítimo em qualquer hipótese. Pausa para você pensar.
+THALITA: Eu vou na C.
+ANTONIO: Correta. A regra é a ilegitimidade e há exceção para o risco de morte ou lesão. A A erra porque a regra é a ilegitimidade. A B erra porque a lei não prevê autorização hierárquica. A D erra porque a Portaria oitocentos e cinquenta e cinco veda disparo de advertência. E a E erra porque há exceção.
+FRANCISCA: Questão dois, sobre o Código de Conduta. Item um: a força só pode ser usada quando estritamente necessária. Item dois: guerra ou ameaça à segurança nacional não justificam tortura. Item três: informações confidenciais podem ser divulgadas se houver interesse jornalístico. Pause e pense.
+THALITA: O um e o dois estão certos, o três está errado. Letra B.
+BRUNO: Isso. Item um é o artigo terceiro, item dois é o artigo quinto, e o item três contraria o dever de sigilo do artigo quarto. Então A omite o dois. C e D incluem o três. E também inclui o três.
+ANTONIO: Questão três. A capacitação sobre uso da força, segundo o Decreto doze mil trezentos e quarenta e um, é: A, facultativa; B, bienal e fora do horário; C, obrigatória só para quem porta arma; D, quinquenal; E, obrigatória, anual e no horário de serviço.
+THALITA: Letra E, sem dúvida.
+FRANCISCA: Correto, artigo quarto. A facultativa erra. A bienal erra porque é anual e em serviço. A C erra porque abrange todos. A D confunde com os testes do porte na Resolução quatrocentos e sessenta e sete do CNJ.
+== SLIDE: Questões 4 a 6: armas do tribunal, uso proibido e polícia judicial
+* Q4: arma do tribunal, registro em nome da instituição
+* Q5: art. 16, § 2º: 4 a 12 anos e hediondo
+* Q6: polícia judicial, dois IMPO
+BRUNO: Questão quatro. Segundo o Estatuto do Desarmamento, as armas dos servidores de tribunais em funções de segurança: A, pertencem à instituição, com registro e porte pela Polícia Federal em nome dela, sem taxa; B, são particulares no SIGMA; C, podem ser portadas por todos os servidores; D, dependem de taxa anual; E, podem ser adquiridas aos dezoito anos.
+THALITA: Letra A.
+ANTONIO: Certo, artigo sétimo A. A B erra porque são institucionais. A C erra porque só quem está em função de segurança, com limite de cinquenta por cento. A D erra porque não há taxa. E a E erra porque a idade mínima é vinte e cinco anos.
+FRANCISCA: Questão cinco. Márcio foi flagrado portando uma pistola de uso proibido. O crime é: A, do artigo catorze; B, de menor potencial ofensivo; C, do artigo dezesseis, caput, não hediondo; D, do artigo dezesseis, parágrafo segundo, com pena de quatro a doze anos e hediondo; E, admite transação.
+THALITA: Letra D.
+BRUNO: Certo. Uso proibido é o parágrafo segundo do artigo dezesseis, e é hediondo. O artigo catorze trata de arma de uso permitido. A pena máxima supera dois anos, então não é de menor potencial ofensivo e não cabe transação.
+ANTONIO: Questão seis, sobre as Resoluções trezentos e quarenta e quatro do CNJ e trezentos e quinze do CSJT. A, o poder de polícia é exclusivo do diretor-geral; B, a polícia judicial integra o artigo cento e quarenta e quatro; C, o porte vale cinco anos; D, em flagrante, libera-se o autor e lavra-se termo; E, os agentes portam no mínimo dois instrumentos de menor potencial ofensivo, armados ou não.
+THALITA: Eu escolho E.
+FRANCISCA: Correta, artigo trinta e dois. A A erra porque responde o presidente do tribunal. A B erra porque é polícia administrativa. A C erra porque a validade é de três anos. E a D erra porque se dá voz de prisão e se entrega o preso à autoridade policial.
+== SLIDE: Questões 7 a 10: sursis, portaria, injúria racial e idoso
+* Q7: sursis com pena mínima de 1 ano
+* Q8: documento devolvido imediatamente na portaria
+* Q9: injúria racial por funcionário, aumentada
+* Q10: crimes contra idoso, ação incondicionada
+BRUNO: Questão sete. A suspensão condicional do processo: A, cabe em crimes com pena mínima de até um ano, por dois a quatro anos; B, só em menor potencial ofensivo; C, é proposta pelo juiz; D, aplica-se à violência doméstica; E, é revogada obrigatoriamente se o réu for processado por contravenção.
+THALITA: Letra A.
+ANTONIO: Correta. A B erra porque cabe também fora do Juizado. A C erra porque a proposta é do Ministério Público. A D erra pela Súmula quinhentos e trinta e seis. E a E erra porque, no caso de contravenção, a revogação é facultativa.
+FRANCISCA: Questão oito. O documento de identidade exigido para entrar em prédio público deve ser: A, retido até a saída; B, devolvido em até cinco dias; C, retido com ordem do chefe da segurança; D, devolvido imediatamente após anotar os dados; E, copiado e retido por vinte e quatro horas.
+THALITA: Letra D.
+BRUNO: Certo. Retenção até a saída é contravenção. Cinco dias é a regra geral, não a da portaria. Só ordem judicial autoriza reter além do prazo.
+ANTONIO: Questão nove. Ana, servidora pública, em serviço, ofendeu Carla por causa da cor, em tom de brincadeira. Segundo a Lei sete mil setecentos e dezesseis: A, aplica-se o artigo cento e quarenta do Código Penal; B, é injúria racial, de dois a cinco anos, aumentada de um terço até a metade; C, é atípica por ser brincadeira; D, depende de representação; E, prescreve em quatro anos.
+THALITA: Letra B.
+FRANCISCA: Correta. A injúria racial passou para o artigo segundo A, e aplicam-se os artigos vinte A e vinte B. A brincadeira agrava, não exclui. A ação é pública incondicionada e o crime é imprescritível.
+BRUNO: Questão dez, Estatuto da Pessoa Idosa. A, idoso tem sessenta e cinco anos; B, gratuidade aos sessenta; C, ação pública incondicionada, sem as imunidades dos artigos cento e oitenta e um e cento e oitenta e dois; D, prioridade especial aos maiores de setenta; E, o filho que furta o pai fica isento.
+THALITA: Letra C.
+ANTONIO: Certo, artigo noventa e cinco. A idade é sessenta, a gratuidade é sessenta e cinco, a prioridade especial é oitenta, e a imunidade do artigo cento e oitenta e um fica afastada.
+THALITA: Agora o resumo relâmpago do que mais cai. Uso da força: arma de fogo é último recurso, não se atira em fuga desarmada, veículo no bloqueio só com risco de morte, e tortura é proibida sempre. Estatuto do Desarmamento: registro dentro, porte fora, vinte e cinco anos sem exceção para tribunais, arma da instituição, e hediondo só no uso proibido. Polícia judicial: administrativa, fora do artigo cento e quarenta e quatro, porte de três anos na CSJT trezentos e quinze, dois instrumentos de menor potencial ofensivo. Legislação especial: Juizado pela pena máxima de dois anos, sursis pela mínima de um ano, injúria racial na Lei sete mil setecentos e dezesseis, idoso sessenta, sessenta e cinco e oitenta, e portaria devolve o documento na hora.
+ANTONIO: Foi um prazer estudar com vocês, e boa prova a todos!
