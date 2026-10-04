@@ -1,0 +1,105 @@
+SEGMENTO s063
+== SLIDE: Questão 8: cargos privativos de nato
+* Gabarito B: Ministro do STJ pode ser naturalizado
+* A: Ministro da Defesa é privativo de nato
+* C: Presidente do Senado é privativo de nato
+* D e E: oficial das Forças Armadas e Ministro do STF também
+BRUNO: Seguindo nas questões, voltamos à nacionalidade. Questão oito, de técnico. Paulo, nascido em Portugal, naturalizou-se brasileiro. Nos termos da Constituição, ele poderá ocupar qual cargo?
+THALITA: Pausa para você pensar. Eu diria Ministro do Supremo, que é um cargo de muito prestígio, a letra E.
+FRANCISCA: Prestígio não é critério, Thalita. O critério é o rol do artigo doze, parágrafo terceiro. Ministro do Supremo é privativo de nato, porque integra a linha sucessória. Letra E errada.
+ANTONIO: A letra A, Ministro de Estado da Defesa, é privativo de nato, inciso sete, incluído pela Emenda Constitucional vinte e três, de mil novecentos e noventa e nove. Errada.
+BRUNO: A letra C, Presidente do Senado, também é privativo de nato, porque integra a linha sucessória. E a letra D, oficial das Forças Armadas, é privativo de nato.
+THALITA: Então sobra a B, Ministro do Superior Tribunal de Justiça.
+FRANCISCA: Isso. O Ministro do Superior Tribunal de Justiça não consta do rol taxativo do artigo doze, parágrafo terceiro. Letra B correta.
+ANTONIO: Lembra do mnemônico MP três ponto COM: Ministro do Supremo, Presidente e Vice da República, Presidente da Câmara, Presidente do Senado, Carreira diplomática, Oficial das Forças Armadas, Ministro da Defesa.
+THALITA: O STJ não está ali. Nem o Tribunal Superior do Trabalho.
+BRUNO: A banca adora colocar Ministro do STJ, Senador, Deputado ou Ministro das Relações Exteriores. Todos podem ser naturalizados.
+== SLIDE: Questão 9: perda da nacionalidade após a EC 131
+* Gabarito E: pedido expresso, ressalvada a apatridia
+* A: aquisição de outra nacionalidade não gera mais perda
+* B: cancelamento exige sentença judicial, por fraude ou atentado
+* C e D: hipóteses inexistentes
+FRANCISCA: Questão nove, de analista. Com a redação dada pela Emenda Constitucional cento e trinta e um, de dois mil e vinte e três, ao artigo doze, será declarada a perda da nacionalidade do brasileiro que faça o quê?
+THALITA: Pausa para pensar. Eu lembro que adquirir outra nacionalidade fazia perder. Então a letra A.
+BRUNO: Essa é a pegadinha de quem estudou pela versão antiga. A hipótese da letra A foi suprimida pela emenda. Hoje, adquirir outra nacionalidade não gera perda. Letra A errada.
+ANTONIO: A letra B fala em cancelamento da naturalização por ato do Ministro da Justiça, por atividade nociva ao interesse nacional. Errado em dois pontos: o cancelamento exige sentença judicial, e hoje se funda em fraude na naturalização ou atentado contra a ordem constitucional e o Estado Democrático.
+THALITA: E a C, quinze anos no exterior?
+FRANCISCA: Não existe essa hipótese. Quinze anos é o prazo da naturalização extraordinária. Errada.
+BRUNO: A letra D diz que crime comum anterior à naturalização gera perda sem decisão judicial. Crime anterior autoriza extradição, no artigo quinto, inciso cinquenta e um, não perda automática. Errada.
+ANTONIO: A letra E é a correta: pedido expresso de perda perante autoridade brasileira competente, ressalvadas as situações que acarretem apatridia. Artigo doze, parágrafo quarto, inciso segundo. E o parágrafo quinto admite a reaquisição da nacionalidade originária.
+THALITA: Macete: perda hoje é pedido expresso, ou cancelamento judicial só por fraude ou atentado.
+FRANCISCA: Boa síntese.
+== SLIDE: Questão 10: idades mínimas
+* Gabarito D: 21 anos para Prefeito e Deputado Distrital
+* A: Senador tem 35 anos
+* B: juiz de paz tem 21 anos
+* C: Governador tem 30 anos; E: Vice-Prefeito tem 21 anos
+BRUNO: Questão dez, de técnico. É condição de elegibilidade a idade mínima de qual? As alternativas trocam os números, é decoreba.
+THALITA: Pausa para pensar. Eu lembro: trinta e cinco, trinta, vinte e um, dezoito. Então Senador é trinta e cinco, e a letra A está errada.
+ANTONIO: Isso mesmo. Senador tem trinta e cinco anos, no artigo catorze, parágrafo terceiro, inciso seis, alínea a. A letra A está errada.
+FRANCISCA: A letra B diz dezoito anos para juiz de paz. Juiz de paz tem vinte e um. Errada. A letra C diz trinta e cinco para Governador. Governador tem trinta. Errada.
+THALITA: A D diz vinte e um para Prefeito e Deputado Distrital. Esse eu marcaria.
+BRUNO: Correta. Prefeito, Vice-Prefeito e Deputados, federal, estadual e distrital, têm vinte e um anos.
+ANTONIO: A letra E diz vinte e cinco anos para Vice-Prefeito. Vice-Prefeito tem vinte e um, e não existe faixa de vinte e cinco anos na Constituição.
+THALITA: Rapidinho: trinta e cinco, Presidente, Vice e Senador. Trinta, Governador e Vice. Vinte e um, Deputado, Prefeito e juiz de paz. Dezoito, Vereador.
+FRANCISCA: Perfeito. E lembre que a idade é aferida na data da posse, salvo a de dezoito anos, que é na data-limite do registro.
+== SLIDE: Questão 11: inelegibilidade reflexa
+* Gabarito A: inelegível para Deputada Estadual pelo Amapá
+* SV 18: divórcio no curso do mandato não afasta
+* B: restrição só no território do titular
+* C e E: Senado e Vereador estão na jurisdição do Governador
+ANTONIO: Questão onze, de analista. Tereza é casada com o Governador do Amapá, que exerce o primeiro mandato. Ela nunca teve mandato eletivo. Nas eleições seguintes, à luz do artigo catorze e da jurisprudência do Supremo, o que se pode dizer?
+THALITA: Pausa para pensar. Eu acho que ela pode ser vereadora em Macapá, porque o cargo é municipal e o marido é governador do Estado. A letra E.
+BRUNO: Cuidado. A inelegibilidade reflexa vale no território de jurisdição do titular. O Governador tem jurisdição sobre todo o Estado, inclusive os Municípios do Amapá. Então Tereza não pode ser vereadora em Macapá. Letra E errada.
+FRANCISCA: A letra A está correta. Ela é inelegível para Deputada Estadual pelo Amapá, e o divórcio no curso do mandato não afastaria a inelegibilidade, conforme a Súmula Vinculante dezoito.
+THALITA: A letra B diz inelegível em todo o território nacional. Isso é exagero, né?
+ANTONIO: É exagero. A restrição limita-se ao território de jurisdição do titular. Ela poderia concorrer em outro Estado, se lá tivesse domicílio eleitoral.
+BRUNO: A letra C diz que ela poderia ser Senadora pelo Amapá se o marido não fosse candidato à reeleição. A circunscrição do Senado coincide com o Estado. O fato de o marido não concorrer não afasta, salvo se ele renunciar seis meses antes do pleito.
+FRANCISCA: E a letra D diz que o divórcio em qualquer momento antes da eleição afastaria. Contraria a Súmula Vinculante dezoito, que trata do divórcio no curso do mandato.
+THALITA: Fixei: jurisdição do Governador é o Estado inteiro, e divórcio no meio do mandato não salva.
+== SLIDE: Questão 12: perda e suspensão dos direitos políticos
+* Gabarito C: condenação criminal, improbidade e incapacidade são suspensão
+* Cancelamento da naturalização é perda
+* Cassação é vedada
+FRANCISCA: Questão doze, de analista. Quatro situações: condenação criminal transitada em julgado; cancelamento da naturalização por sentença; improbidade administrativa; incapacidade civil absoluta. Segundo a doutrina majoritária, quais são suspensão dos direitos políticos?
+THALITA: Pausa para pensar. Eu marcaria todas, letra E, porque tudo parece suspensão.
+BRUNO: Cuidado. O cancelamento da naturalização é hipótese de perda. Por isso a letra E está errada, assim como as letras A e D, que incluem o item dois.
+ANTONIO: A letra B inclui o item dois e omite o um e o três. Errada.
+FRANCISCA: A letra C é a correta: condenação criminal, improbidade e incapacidade civil absoluta, que são causas temporárias. Suspensão.
+THALITA: Como eu lembro a diferença mesmo?
+BRUNO: Perda é por vínculo ou recusa à obrigação geral, e o retorno depende de novo ato. Suspensão é temporária e cessa com o fim da causa.
+ANTONIO: E lembre que a cassação de direitos políticos é vedada. Se a alternativa disser cassação, está errada.
+THALITA: Macete: naturalização cancelada é perda, o resto é suspensão.
+FRANCISCA: Para as quatro situações da questão, sim.
+== SLIDE: Questão 13: direitos coletivos dos sindicatos
+* Gabarito B: unicidade sindical, base não inferior a um Município
+* A: estabilidade vai do registro da candidatura até um ano após o mandato
+* C: SV 40, contribuição confederativa só dos filiados
+* D: apenas registro; E: participação em negociação é obrigatória
+BRUNO: Questão treze, de analista. De acordo com o artigo oitavo e a jurisprudência do Supremo, qual afirmação é correta sobre sindicatos? Tema que cai muito em TRT.
+THALITA: Pausa para pensar. A letra A diz que a estabilidade vai da posse até seis meses depois do mandato. Eu acho que é isso.
+FRANCISCA: Quase. O marco inicial é o registro da candidatura a cargo de direção ou representação sindical, e a estabilidade vai até um ano após o final do mandato, inclusive para o suplente, no artigo oitavo, inciso oito. Letra A errada.
+ANTONIO: A letra B é correta. É o princípio da unicidade sindical: vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria na mesma base territorial, que não pode ser inferior à área de um Município. Artigo oitavo, inciso dois.
+BRUNO: A letra C diz que a contribuição confederativa é exigível de todos, filiados ou não. A Súmula Vinculante quarenta diz que só é exigível dos filiados.
+THALITA: E a D, que diz que a fundação do sindicato depende de autorização do Ministério do Trabalho?
+FRANCISCA: Não. Exige-se apenas registro no órgão competente, vedadas a interferência e a intervenção. Artigo oitavo, inciso primeiro.
+ANTONIO: A letra E diz que a participação dos sindicatos nas negociações coletivas é facultativa. É obrigatória, artigo oitavo, inciso seis.
+THALITA: Macete: unicidade, um Município no mínimo; contribuição confederativa só filiado.
+BRUNO: Isso.
+== SLIDE: Questão 14, resumo relâmpago e despedida
+* Gabarito D: cláusula de desempenho e migração sem perda do mandato
+* A: personalidade de direito privado, nasce no registro civil
+* B: coligação só nas majoritárias; C: fidelidade não alcança Senador
+* E: a lei eleitoral vige na publicação
+ANTONIO: Questão catorze, de oficial de justiça. Sobre os partidos políticos e a anterioridade eleitoral, qual afirmação é correta?
+THALITA: Pausa para pensar. Eu diria a letra C, o Senador que se desliga do partido perde o mandato, porque a fidelidade parece geral.
+BRUNO: A fidelidade partidária do artigo dezessete, parágrafo sexto, alcança deputados e vereadores. Não se aplica a cargos majoritários, como Senador, segundo a ADI cinco mil e oitenta e um. Letra C errada.
+FRANCISCA: A letra A diz que os partidos adquirem personalidade com o registro no Tribunal Superior Eleitoral, como pessoas jurídicas de direito público. A personalidade é de direito privado e nasce no registro civil, e o estatuto é depois registrado no Tribunal Superior Eleitoral.
+ANTONIO: A letra B diz que são permitidas coligações nas proporcionais, com vinculação nacional. Coligações só nas majoritárias, sem obrigatoriedade de vinculação, no artigo dezessete, parágrafo primeiro. Errada.
+BRUNO: A letra E diz que a lei do processo eleitoral só entra em vigor um ano depois. Ela entra em vigor na publicação. Apenas não se aplica à eleição que ocorra até um ano da vigência. Artigo dezesseis.
+THALITA: Então a D é a certa. O eleito por partido que não atingiu a cláusula de desempenho mantém o mandato e pode migrar sem perdê-lo, mas isso não conta para o fundo nem para o tempo de rádio e televisão.
+FRANCISCA: Literalidade do artigo dezessete, parágrafo quinto. Correta.
+THALITA: Agora meu resumo relâmpago do que mais cai na FCC nesta aula. Primeiro: nato é por nascimento, e o filho de pais estrangeiros nascido aqui só não é brasileiro se um deles estiver a serviço do próprio país. Segundo: cargos privativos de nato, MP três ponto COM, e Ministro do STJ não está na lista.
+BRUNO: E a perda da nacionalidade mudou: só pedido expresso, com ressalva de apatridia, ou cancelamento judicial por fraude ou atentado.
+THALITA: Terceiro: idades trinta e cinco, trinta, vinte e um e dezoito. Quarto: inelegibilidade reflexa vale no território do titular, e a Súmula Vinculante dezoito diz que divórcio no meio do mandato não salva. Quinto: cassação é vedada, perda é naturalização cancelada, o resto é suspensão. Sexto: coligação só nas majoritárias, fidelidade só para deputado e vereador, e a lei eleitoral nova não vale para eleição em menos de um ano.
+ANTONIO: Era isso, pessoal. Obrigado por acompanharem, revisem os quadros e nos vemos na próxima aula.
