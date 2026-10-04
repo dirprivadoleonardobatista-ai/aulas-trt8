@@ -1,0 +1,58 @@
+SEGMENTO s231
+== SLIDE: Ônus da prova e meios de prova
+* Estática (art. 373): autor, fato constitutivo; réu, impeditivo, modificativo ou extintivo
+* Dinâmica: decisão fundamentada, sem prova diabólica
+* Testemunhas: até 10, 3 por fato (art. 357, § 6º)
+* Perícia: 15 dias para impedimento, assistente e quesitos
+ANTONIO: Fechamos a tutela provisória; agora as provas. Ônus da prova, artigo trezentos e setenta e três: ao autor cabe provar o fato constitutivo do seu direito; ao réu, o fato impeditivo, modificativo ou extintivo.
+THALITA: E se for muito difícil o autor provar?
+FRANCISCA: Aí entra a distribuição dinâmica, parágrafo primeiro. O juiz redistribui o ônus por decisão fundamentada, diante de impossibilidade ou excessiva dificuldade, ou de maior facilidade de prova do fato contrário, dando à parte oportunidade de se desincumbir.
+BRUNO: Limite: não pode gerar prova diabólica para quem recebe o encargo. As partes também podem convencionar o ônus, antes ou durante o processo, mas não em direito indisponível nem se dificultar excessivamente o direito. A decisão vem no saneamento, e cabe agravo de instrumento.
+THALITA: Prova diabólica é a impossível de produzir, não é? Então o juiz não pode inverter se a outra parte fica sem saída.
+ANTONIO: Isso mesmo. Meios de prova. Depoimento pessoal: requerido pela parte contrária ou de ofício, com intimação pessoal e advertência; ausência ou recusa gera pena de confesso.
+FRANCISCA: Confissão é admitir fato contrário ao próprio interesse. É ineficaz em direito indisponível, irrevogável, mas anulável por erro de fato ou coação, e em regra indivisível.
+BRUNO: Testemunhal: incapazes, impedidos e suspeitos não depõem, artigo quatrocentos e quarenta e sete. O limite de dez, sendo três por fato, está no artigo trezentos e cinquenta e sete, parágrafo sexto. O advogado intima a testemunha por carta com aviso de recebimento, juntada três dias antes, ou a leva à audiência, presumindo-se desistência se faltar.
+FRANCISCA: A intimação judicial ocorre quando a carta frustra, para servidor ou militar, e para testemunha arrolada pelo Ministério Público ou Defensoria. As perguntas são feitas diretamente pelas partes.
+THALITA: Na perícia, são quinze dias para arguir impedimento, indicar assistente e apresentar quesitos?
+ANTONIO: Isso. O assistente não se sujeita a impedimento, e o laudo vem vinte dias antes da audiência. Pode haver perícia consensual.
+== SLIDE: Audiência, fundamentação, coisa julgada e remessa necessária
+* Audiência: perito, partes, testemunhas; debates de 20 + 10 minutos
+* Art. 489, § 1º: decisão genérica não é fundamentada
+* Coisa julgada material (art. 502); prejudicial (art. 503, § 1º)
+* Remessa necessária: 1.000, 500 ou 100 salários mínimos (art. 496)
+BRUNO: Audiência de instrução, artigo trezentos e sessenta e um: primeiro perito e assistentes; depois depoimento do autor e do réu; por fim, testemunhas do autor e do réu. Debates: vinte minutos para cada parte, prorrogáveis por dez; em causa complexa, memoriais em quinze dias sucessivos. A sentença vem na audiência ou em trinta dias.
+THALITA: Vinte mais dez e trinta dias. Ok. E o que é decisão mal fundamentada?
+FRANCISCA: O artigo quatrocentos e oitenta e nove, parágrafo primeiro, diz que não é fundamentada a decisão que apenas indica, reproduz ou parafraseia norma sem relacioná-la ao caso, usa conceito indeterminado sem explicar sua incidência, invoca motivo que serviria a qualquer decisão, não enfrenta argumento capaz de infirmar a conclusão, cita precedente sem identificar fundamentos determinantes, ou afasta precedente sem demonstrar distinção ou superação.
+BRUNO: Resumo para prova: decisão genérica, que serve para qualquer processo, não está fundamentada.
+ANTONIO: Coisa julgada. A formal é a imutabilidade dentro do processo. A material, artigo quinhentos e dois, é a imutabilidade e indiscutibilidade da decisão de mérito irrecorrível. Motivos e verdade dos fatos não fazem coisa julgada, artigo quinhentos e quatro.
+FRANCISCA: A questão prejudicial pode fazer, artigo quinhentos e três, parágrafo primeiro, se dela depender o mérito, houver contraditório prévio e efetivo, não na revelia, e o juízo for competente para julgá-la como principal. Afasta-se se houver restrição probatória.
+THALITA: Então na revelia a prejudicial não faz coisa julgada, porque não houve contraditório.
+BRUNO: Perfeito. Remessa necessária, artigo quatrocentos e noventa e seis: sentença contra a Fazenda Pública ou que acolhe embargos à execução fiscal. Dispensada abaixo de mil salários mínimos para a União, quinhentos para Estados, Distrito Federal e capitais, e cem para os demais Municípios, ou se a sentença seguir súmula de tribunal superior, repetitivo, IRDR, IAC ou orientação vinculante do próprio ente.
+== SLIDE: Liquidação e cumprimento de quantia certa
+* Liquidação: arbitramento ou procedimento comum (fato novo)
+* Pagar em 15 dias; multa de 10% e honorários de 10% (art. 523)
+* Impugnação em 15 dias, independente de penhora (art. 525)
+* Efeito suspensivo: garantia, fundamentos relevantes e dano grave
+* Súmulas 517 e 519 STJ
+ANTONIO: Liquidação: sentença ilíquida pede liquidação, e mero cálculo a dispensa. Por arbitramento, quando a sentença ou convenção determinar, ou a natureza do objeto exigir. Pelo procedimento comum, quando houver fato novo a provar, com o réu intimado na pessoa do advogado para contestar em quinze dias. Não se rediscute a lide, cabe na pendência de recurso, e a decisão é agravável.
+THALITA: Então arbitramento é perito, e procedimento comum é fato novo.
+FRANCISCA: Isso. Cumprimento de quantia certa, artigos quinhentos e vinte e três a quinhentos e vinte e cinco. Intimação pelo Diário, na pessoa do advogado; carta com aviso de recebimento se sem procurador ou passado um ano do trânsito. Quinze dias para pagar, sob multa de dez por cento e honorários de dez por cento. Pagamento parcial: só incide sobre o restante.
+BRUNO: A impugnação é em quinze dias após o prazo de pagamento, independentemente de penhora ou nova intimação, e o prazo em dobro do artigo duzentos e vinte e nove se aplica.
+THALITA: Quais as matérias?
+BRUNO: Citação nula na revelia, ilegitimidade, inexequibilidade ou inexigibilidade, penhora ou avaliação incorretas, excesso ou cumulação indevida, incompetência, e causa extintiva superveniente à sentença. Alegando excesso, tem de indicar o valor correto com demonstrativo, senão há rejeição liminar.
+FRANCISCA: O efeito suspensivo não é automático: exige garantia do juízo, fundamentos relevantes e risco de dano grave.
+ANTONIO: Na jurisprudência, Súmula quinhentos e dezessete do STJ: honorários são devidos, haja ou não impugnação, após escoado o prazo de pagamento voluntário. E Súmula quinhentos e dezenove: rejeitada a impugnação, não cabem honorários.
+THALITA: Macete: pagou em quinze dias, escapou da multa e dos honorários; não pagou, os dez por cento mais dez por cento caem em cima.
+== SLIDE: Cumprimento provisório, fazer, alimentos e Fazenda
+* Provisório: responsabilidade objetiva do exequente; caução com dispensas
+* Astreintes: de ofício, Súmula 410 STJ exige intimação pessoal
+* Alimentos: 3 dias; prisão de 1 a 3 meses; desconto até 50%
+* Fazenda: 30 dias para impugnar; sem multa; precatório ou RPV
+ANTONIO: Modalidades. Provisório, artigos quinhentos e vinte e quinhentos e vinte e um: responsabilidade objetiva do exequente; multa e honorários também incidem; caução para levantar dinheiro ou alienar bens, dispensada em crédito alimentar, necessidade do credor, agravo do artigo mil e quarenta e dois pendente ou decisão conforme súmula ou repetitivo.
+THALITA: Provisório: o risco é de quem executa.
+FRANCISCA: Fazer e não fazer, artigos quinhentos e trinta e seis e quinhentos e trinta e sete: astreintes de ofício, em qualquer fase; o juiz altera o valor ou a periodicidade das vincendas; são devidas ao exequente e exigíveis provisoriamente, com levantamento após o trânsito. Pela Súmula quatrocentos e dez do STJ, exige-se intimação pessoal prévia do devedor.
+BRUNO: Alimentos, artigo quinhentos e vinte e oito: intimação pessoal para pagar, provar que pagou ou justificar em três dias. A prisão é de um a três meses, em regime fechado; há protesto e desconto em folha até cinquenta por cento dos ganhos líquidos. A prisão só vale para as três prestações anteriores ao ajuizamento e as vencidas no curso do processo, Súmula trezentos e nove, hoje no parágrafo sétimo. Cumprir a prisão não quita a dívida.
+THALITA: Então as parcelas mais antigas seguem pelo rito da penhora.
+ANTONIO: Fazenda Pública, artigos quinhentos e trinta e quatro e quinhentos e trinta e cinco: intimação do representante judicial para impugnar em trinta dias, sem a multa de dez por cento, e pagamento por precatório ou requisição de pequeno valor.
+FRANCISCA: Resumindo: Fazenda, trinta dias e sem multa. Particular, quinze dias e com multa.
+THALITA: Anotado! Agora é a vez do processo de execução, impenhorabilidade, parcelamento e embargos.
