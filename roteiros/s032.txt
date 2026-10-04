@@ -1,0 +1,51 @@
+SEGMENTO s032
+== SLIDE: Aula 10: ética, sustentabilidade, assédio e equidade
+* Resolução CNJ 400/2021: Política de Sustentabilidade
+* Código de Ética dos Servidores do TRT8 (Res. 88/2012)
+* Violência, assédio e discriminação
+* Perspectiva de gênero (Res. CNJ 492/2023)
+* Alterada pelas Res. 550/2024, 594/2024 e 641/2025
+ANTONIO: Bem-vindos à aula dez, Noções de Legislação: ética, sustentabilidade, assédio e equidade. Hoje, primeira parte. Começamos pela Resolução quatrocentos do CNJ, de dois mil e vinte e um, a Política de Sustentabilidade do Poder Judiciário. Depois, o Código de Ética dos servidores do TRT oito, a prevenção ao assédio e à discriminação e a perspectiva de gênero.
+THALITA: Eu sou a Thalita, concurseira. Vou perguntar o que você perguntaria.
+FRANCISCA: Sou a Francisca, professora. Trago a norma em paráfrase e os exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC, e mostro onde a banca pega.
+ANTONIO: A resolução foi alterada pelas Resoluções quinhentos e cinquenta e quinhentos e noventa e quatro, ambas de dois mil e vinte e quatro, e pela seiscentos e quarenta e um, de dois mil e vinte e cinco. O artigo segundo define a política como ações ambientalmente corretas, economicamente viáveis, socialmente justas e inclusivas, culturalmente diversas e inovadoras.
+THALITA: Quais são as dimensões, uma a uma?
+FRANCISCA: A ambiental reduz impacto, com redução de consumo, reciclagem e análise do ciclo de vida. A econômica busca eficiência do gasto, olhando a real necessidade da compra. A social trata de bem-estar, saúde preventiva, acessibilidade e inclusão. A cultural, da convivência entre ideias, gêneros e regionalismos. E a inovadora, incluída em dois mil e vinte e cinco, trata de novas tecnologias e métodos.
+BRUNO: A FCC pode trocar a dimensão pelo objetivo. Guarde o par: econômica, custo-benefício; social, acessibilidade e inclusão.
+THALITA: Deixa eu tentar: ambiental é reduzir impacto, econômica é gastar bem, social é inclusão, cultural é diversidade e inovadora é tecnologia. Faltou alguma?
+FRANCISCA: Nenhuma. São cinco dimensões, e a quinta é a mais recente, de dois mil e vinte e cinco. Se a questão listar só quatro, desconfie de que ela está desatualizada.
+THALITA: E as definições do artigo terceiro?
+FRANCISCA: Quadro de pessoal são magistrados e servidores. Quadro auxiliar inclui estagiários, terceirizados, conciliadores e jovens aprendizes. Material de consumo perde a identidade física ou tem uso limitado a dois anos. O PLS-Jud é o sistema que recebe os dados dos planos.
+== SLIDE: Plano de Logística Sustentável
+* PLS: indicadores, metas, plano de ações e relatório anual
+* Instituído por ato do Presidente; revisão no máximo a cada 2 anos
+* Avaliação pela Comissão, pelo menos 1 vez ao ano
+* Relatório ao CNJ até 28 de fevereiro
+* Neutralidade de carbono até 2030
+ANTONIO: O instrumento central é o Plano de Logística Sustentável, o PLS. Alinha-se à Estratégia Nacional do Judiciário, com metas, prazos e monitoramento. Também é instrumento da Política de Governança de Contratações, e o plano de capacitação deve abordar sustentabilidade e os objetivos de desenvolvimento sustentável da Agenda dois mil e trinta.
+THALITA: O que ele precisa conter?
+FRANCISCA: Indicadores sobre onze temas: insumos, energia, água e esgoto, resíduos, qualidade de vida, sensibilização, deslocamento, obras, equidade e diversidade, contratações sustentáveis e descarbonização. Mais série histórica, metas, metodologia e unidades gestoras.
+THALITA: E o plano de ações?
+FRANCISCA: Tem objetivo, detalhamento, unidades, cronograma e recursos. Não precisa integrar o texto do PLS, é alterado com aprovação da Comissão e deve ser publicado no sítio.
+BRUNO: Agora os prazos, que a banca adora. O PLS é instituído por ato do Presidente do órgão. A revisão é no máximo a cada dois anos. Pegadinha clássica: trocar por no mínimo ou anualmente. A avaliação pela Comissão Gestora é pelo menos uma vez ao ano e não equivale à revisão.
+THALITA: Então revisão de dois em dois anos, no máximo, e avaliação todo ano, pelo menos. Posso resumir como macete: revisão tem teto, avaliação tem piso?
+BRUNO: Ótimo macete. Revisão tem teto de dois anos; avaliação tem piso de uma vez por ano.
+THALITA: E o relatório?
+ANTONIO: Publicado e enviado ao CNJ pelo PLS-Jud até vinte e oito de fevereiro do ano seguinte. Os dados mensais vão até o dia trinta do mês subsequente. A neutralidade de carbono é até dois mil e trinta, com inventário, redução e compensação de gases de efeito estufa. O ajuste inicial dos planos era de cento e vinte dias.
+== SLIDE: Unidade, Comissão Gestora e contratações
+* Unidade: permanente, elabora o PLS e o relatório
+* Comissão: presidida por magistrado, aprova e propõe a revisão
+* Contratações sustentáveis, logística reversa, Guia
+* Balanço da Sustentabilidade: DPJ do CNJ e IDS
+FRANCISCA: A unidade de sustentabilidade é permanente e assessora planejamento, implementação e monitoramento. Vincula-se preferencialmente à Presidência, à Secretaria-Geral ou à Diretoria-Geral. Tem no mínimo três servidores em tribunais com mais de cinco mil servidores, e dois nos demais.
+BRUNO: A Comissão Gestora é um colegiado presidido por magistrado, com no mínimo cinco servidores titulares de unidade, cobrindo gestão estratégica, sustentabilidade e compras. Macete: a unidade elabora o relatório e a Comissão aprova; a Comissão propõe a revisão e a unidade promove.
+THALITA: Então se a questão disser que a Comissão elabora o relatório, está errada. E se disser que a unidade aprova, também?
+BRUNO: Também. A unidade elabora e fomenta ações; a Comissão delibera sobre indicadores e metas, aprova os relatórios e sugere iniciativas. A FCC adora inverter esses verbos.
+FRANCISCA: E quanto à vinculação, a unidade se liga preferencialmente à Presidência, mas é só preferência, não obrigação. Preferencialmente é a palavra que a banca pode cortar.
+THALITA: Anotei: preferencialmente, não obrigatoriamente.
+ANTONIO: Nas contratações, avaliam-se a real necessidade, a série histórica, o ciclo de vida, a especificação sustentável, o impacto nas metas do PLS, o descarte com logística reversa e as compras compartilhadas.
+FRANCISCA: Entre os critérios estão madeira de manejo sustentável, eficiência energética, uso racional de água, agricultura familiar, embalagens mínimas e, desde dois mil e vinte e cinco, treinamento dos terceirizados nos três primeiros meses do contrato. Cada órgão institui seu Guia de Contratações Sustentáveis.
+THALITA: E o Balanço da Sustentabilidade?
+FRANCISCA: É elaborado e publicado pelo Departamento de Pesquisas Judiciárias do CNJ, com os dados do PLS-Jud, e composto pelo Índice de Desempenho da Sustentabilidade, o IDS. Cadastrar boas práticas no Portal do CNJ é recomendável. E confira no texto oficial a redação vigente após a Resolução seiscentos e quarenta e um.
+ANTONIO: Muito bem. No próximo tema, vamos ao Código de Ética dos Servidores do TRT da Oitava Região.

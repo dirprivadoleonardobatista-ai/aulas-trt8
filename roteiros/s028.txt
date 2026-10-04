@@ -1,0 +1,50 @@
+SEGMENTO s028
+== SLIDE: Sessões, sustentação oral e votação
+* Ordem da sessão (art. 128) e do julgamento (art. 132)
+* Sustentação oral: 15 minutos por parte; 45 com litisconsortes
+* Não cabe em ED, conflito, AI, tutelas, exceções (art. 133-A, § 2º)
+* Cabe no IUJ, no IAC e no IRDR (30 minutos)
+* Vista regimental: 10 dias, prorrogáveis por igual período
+ANTONIO: Vamos fechar a aula com as sessões e os incidentes. Na sessão, a ordem é: verificação de presentes, aprovação da ata anterior, pauta judiciária, matéria administrativa, comunicações e propostas e, por fim, o expediente. A matéria administrativa e o expediente podem inverter a ordem.
+THALITA: E o julgamento de cada processo, como é?
+FRANCISCA: Relatório, defesa oral, manifestação do Ministério Público do Trabalho, pronunciamento do relator, discussão, votação e proclamação. É o artigo cento e trinta e dois. O relator ainda tem cinco minutos improrrogáveis para a fala final.
+BRUNO: Atenção à sustentação oral. São quinze minutos por parte. Com litisconsortes, o total é de quarenta e cinco minutos, até quinze para cada um. Fala primeiro o recorrente. Se ambos recorrem, fala primeiro o autor, e o mesmo vale nas ações originárias.
+THALITA: E como o advogado se inscreve?
+FRANCISCA: Presencialmente, até o início da sessão. Por videoconferência, até vinte e quatro horas antes. E o advogado sem mandato não sustenta.
+BRUNO: Agora o que não cabe: embargos de declaração, conflito de competência, agravo de instrumento, exceções de suspeição e impedimento, tutelas provisórias, incidente de desconsideração da personalidade jurídica e retorno para juízo de retratação. Agravo interno também não, salvo contra decisão monocrática de mérito, extinção de ação originária ou liminar em mandado de segurança.
+THALITA: Então cabe no incidente de uniformização, no de assunção de competência e no IRDR? Resumindo: sustentação oral cabe nos três incidentes de uniformização e não cabe em agravo de instrumento, embargos e conflito?
+BRUNO: Cabe. No IRDR, as partes do processo originário e o Ministério Público têm trinta minutos. Os demais interessados dividem trinta minutos e se inscrevem dois dias antes.
+ANTONIO: Outros prazos: a vista regimental é de dez dias, prorrogáveis por igual período. Faltando quórum, esperam-se quinze minutos, e a sessão passa para o primeiro dia útil desimpedido. A votação começa pelo relator e segue em ordem decrescente de antiguidade.
+== SLIDE: Voto do Presidente, empates e acórdão
+* Presidente não vota em matéria judiciária, salvo art. 151-A
+* Pleno: Presidente desempata, exceto em inconstitucionalidade
+* Turma: Vice; Seção: Presidente da outra Seção
+* HC: decisão favorável ao paciente; AgR: decisão agravada
+* Voto vencido faz parte do acórdão
+THALITA: Eu confundo quando o Presidente vota. Vamos organizar?
+FRANCISCA: Em matéria administrativa, ele vota primeiro e como os demais. Em matéria judiciária, não vota, salvo inconstitucionalidade, empate, uniformização, IRDR, reclamação e incidente de assunção de competência. É o artigo cento e cinquenta e um-A.
+BRUNO: E os empates. Pleno, em matéria judiciária: desempata o Presidente. Em inconstitucionalidade ele não desempata, porque exige maioria absoluta. Na Turma, desempata o Vice. Na Seção, desempata quem preside a outra Seção.
+THALITA: E no habeas corpus?
+BRUNO: Prevalece a decisão mais favorável ao paciente. No agravo regimental, a decisão agravada. No recurso administrativo, a decisão recorrida.
+FRANCISCA: Há uma contradição no texto que a apostila registra. O artigo cento e oito fala em voto de qualidade do Presidente no empate administrativo, mas o artigo cento e cinquenta e um, parágrafo único, manda prevalecer a decisão recorrida. Responda conforme o artigo que o enunciado transcrever.
+THALITA: Tá. Então é conferir qual artigo a questão citou. E se ela só disser que o Presidente desempata no recurso administrativo, sem citar artigo?
+BRUNO: Aí desconfie. O texto mais recente manda prevalecer a decisão recorrida, de modo que o desempate do Presidente fica sem apoio. Mas se o enunciado transcrever o artigo cento e oito, responda conforme ele.
+FRANCISCA: E lembre que o Presidente, em matéria administrativa, é o relator e vota primeiro. Isso ajuda a lembrar que a lógica administrativa é diferente da judiciária.
+ANTONIO: Sobre o acórdão: o redator é o relator. Se ele for vencido, redige quem primeiro votou na tese vencedora. Se vencido só na preliminar, o relator redige. O voto vencido é declarado e faz parte do acórdão, inclusive para prequestionamento. O prazo recursal corre da publicação da conclusão do acórdão.
+== SLIDE: Incidentes e uniformização
+* Inconstitucionalidade: maioria absoluta, inclusive o Presidente
+* IUJ: parecer da Comissão em 30 dias; gera súmula
+* IAC: mínimo de 20 dias entre pauta e julgamento
+* IRDR: questão só de direito; julgamento em 1 ano
+* Súmulas: 4 Turmas por unanimidade ou cada Turma por maioria simples
+THALITA: Agora vêm os incidentes, que eu sempre misturo. Qual é a regra geral de quórum para uniformizar?
+ANTONIO: O Pleno uniformiza por súmulas e por teses de IRDR e IAC, aprovadas por maioria absoluta dos efetivos. Impedidos e suspeitos entram no cálculo. Só se desconsideram os cargos vagos.
+FRANCISCA: A inconstitucionalidade pode ser arguida pelo relator, por desembargador, pelo Ministério Público ou pelas partes, até o início da votação. A Turma ou Seção suspende e remete ao Pleno, que decide por maioria absoluta, inclusive com o Presidente.
+BRUNO: No IUJ, o julgador só suscita ao votar. A remessa ao Pleno é irrecorrível, a Comissão de Jurisprudência dá parecer em trinta dias, e a decisão gera súmula. No IAC, a questão é relevante, de grande repercussão social, sem repetição em múltiplos processos, com mínimo de vinte dias entre pauta e julgamento.
+THALITA: Posso arriscar? IUJ e IAC são a mesma coisa, só mudam de nome?
+BRUNO: Não, e a banca adora essa troca. O IUJ nasce de divergência entre Turmas ou Seções. O IAC trata de questão de direito relevante, de grande repercussão social, mas sem repetição em múltiplos processos. Repetição em massa é caso de IRDR.
+THALITA: Entendi: divergência é IUJ, relevância sem repetição é IAC, repetição é IRDR. E o IRDR?
+FRANCISCA: Exige repetição efetiva, questão unicamente de direito e risco à isonomia e à segurança jurídica, requisitos simultâneos. O pedido vai ao Presidente. O julgamento deve sair em um ano, depois do qual cessa a suspensão. A reclamação cabe contra decisões de Turma, até o trânsito em julgado, com informações em dez dias e contestação em quinze.
+BRUNO: Para sumular, o tribunal precisa de acórdãos das quatro Turmas, por unanimidade, ou de cada Turma por maioria simples. Publica-se três vezes no DEJT. A proposta de revisão vai por maioria simples, mas a reformulação efetiva exige maioria absoluta dos efetivos.
+THALITA: Resumo relâmpago do que mais cai na FCC: ato de juiz de Vara, mandado de segurança na Seção; ato de desembargador ou do Pleno, no Pleno. Dissídio coletivo e greve, só Seção Um. Dirigentes: três mais antigos, dois anos, sem reeleição. Presidente desempata no Pleno, menos em inconstitucionalidade; Vice desempata nas Turmas. Sustentação: quinze minutos, e não cabe em embargos. Não há revisor.
+ANTONIO: Perfeito, Thalita. Bons estudos, e até a próxima aula!
