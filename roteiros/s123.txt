@@ -1,0 +1,132 @@
+SEGMENTO s123
+== SLIDE: Aula 36: petição, seguridade e carreiras do Judiciário
+* Direito de petição: arts. 104 a 115 da Lei 8.112/1990
+* Seguridade do servidor e contratação temporária (síntese)
+* Lei 11.416/2006: carreiras do Judiciário da União
+* Depois: questões comentadas estilo FCC
+* Requerimento, reconsideração e recursos em escala ascendente
+ANTONIO: Bem-vindos à aula trinta e seis, a última parte de Direito Administrativo sobre agentes públicos e Lei oito mil cento e doze, de mil novecentos e noventa. Hoje vamos fechar a lei com o direito de petição, passar pela seguridade social do servidor e pela contratação temporária, e depois entrar na Lei onze mil quatrocentos e dezesseis, de dois mil e seis, que organiza as carreiras do Judiciário da União. No fim, questões comentadas no estilo da FCC.
+THALITA: Eu sou a Thalita, concurseira, e já aviso: carreira do Judiciário é o assunto que mais me interessa, porque é o meu cargo dos sonhos!
+FRANCISCA: Eu sou a Francisca, professora. Vou trazer a lei em paráfrase e os exemplos concretos.
+BRUNO: E eu sou o Bruno, especialista em FCC. Meu papel é mostrar onde a banca arma as pegadinhas.
+ANTONIO: Vamos começar pelo direito de petição, artigos cento e quatro a cento e quinze. A sequência é esta: primeiro o requerimento, depois o pedido de reconsideração, depois os recursos, um após o outro, subindo na hierarquia.
+THALITA: Então começa tudo com um requerimento?
+FRANCISCA: Isso. O requerimento é dirigido à autoridade competente para decidir, mas segue por intermédio da chefia imediata do servidor. Se o pedido for indeferido, cabe o pedido de reconsideração, que vai para a mesma autoridade que expediu o ato ou que proferiu a primeira decisão.
+BRUNO: E aqui vem a primeira trava que a FCC adora: o pedido de reconsideração não pode ser renovado. Uma vez só. A banca escreve que ele é renovável uma vez, e está errado.
+THALITA: Entendi. Reconsideração é uma chance só, na mesma autoridade. E se ela negar?
+ANTONIO: Aí cabe recurso. O recurso é cabível contra o indeferimento da reconsideração e também contra as decisões sobre recursos que foram interpostos antes, sucessivamente. Ele vai para a autoridade imediatamente superior à que decidiu e, depois, subindo em escala ascendente, sempre encaminhado pela chefia imediata.
+FRANCISCA: Pensem numa escadinha. A cada decisão desfavorável, sobe um degrau, até chegar à autoridade máxima daquele caminho.
+THALITA: Macete: requerimento, reconsideração uma vez só, depois recursos subindo a escada.
+ANTONIO: Perfeito. Agora os prazos, que é onde mora o perigo.
+== SLIDE: Prazos, efeitos e prescrição do direito de requerer
+* Despacho em 5 dias e decisão em 30 dias
+* Reconsideração ou recurso: 30 dias da publicação ou ciência
+* Efeito suspensivo: a juízo da autoridade (art. 109)
+* Prescrição: 5 anos (demissão, patrimônio) ou 120 dias (art. 110)
+* Reconsideração e recurso INTERROMPEM a prescrição
+THALITA: Prazos! Já peguei o caderno para anotar tudo direitinho.
+ANTONIO: O requerimento e o pedido de reconsideração devem ser despachados em cinco dias e decididos em trinta dias. Já o prazo do servidor para pedir reconsideração ou para recorrer é de trinta dias, contados da publicação ou da ciência da decisão.
+THALITA: Então temos cinco, trinta e trinta. Eu sempre confundo qual é qual.
+BRUNO: Separe assim: cinco dias é o prazo da Administração para despachar, trinta dias para decidir, e trinta dias é o prazo do servidor para reconsiderar ou recorrer. A FCC já trocou o prazo de recurso por dez dias. Cuidado: dez dias é o prazo da Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove, que é outro diploma.
+FRANCISCA: Sobre o efeito do recurso: o efeito suspensivo pode ser concedido, a juízo da autoridade competente. Ele não é automático. E se o recurso for provido, os efeitos retroagem à data do ato impugnado.
+THALITA: Então a banca erra quando escreve que o recurso sempre tem efeito suspensivo.
+BRUNO: Exatamente. Sempre é a palavra-chave do erro.
+ANTONIO: Agora a prescrição, no artigo cento e dez. O direito de requerer prescreve em cinco anos quanto aos atos de demissão, de cassação de aposentadoria ou disponibilidade, ou que afetem interesse patrimonial e créditos resultantes das relações de trabalho. Nos demais casos, prescreve em cento e vinte dias, salvo quando outro prazo for fixado em lei.
+FRANCISCA: Ou seja, cinco anos para o que é grave ou patrimonial, e cento e vinte dias como prazo residual. A contagem começa na data da publicação do ato impugnado, ou da ciência do interessado, quando o ato não for publicado.
+THALITA: Eu arrisco um macete: grave ou dinheiro, cinco anos; o resto, cento e vinte dias. Está certo?
+ANTONIO: Está ótimo. E mais três regras: o pedido de reconsideração e o recurso, quando cabíveis, interrompem a prescrição. Não suspendem, interrompem.
+BRUNO: Quem escreve suspende, errou. Além disso, a prescrição é de ordem pública e a Administração não pode relevá-la.
+FRANCISCA: Fecham o bloco a vista do processo, na repartição, assegurada ao servidor ou ao procurador, e os prazos, que são fatais e improrrogáveis, salvo força maior.
+== SLIDE: Autotutela e a decadência de cinco anos
+* Art. 114: Administração revê atos ilegais a qualquer tempo
+* Lei 9.784/1999, art. 54: decadência em 5 anos
+* Vale para atos com efeitos favoráveis, salvo má-fé
+* Prazos do direito de petição: fatais e improrrogáveis
+* Pegadinhas: renovar reconsideração, relevar prescrição
+ANTONIO: O artigo cento e catorze trata da autotutela: a Administração deverá rever seus atos, a qualquer tempo, quando eivados de ilegalidade.
+THALITA: A qualquer tempo mesmo? Sem limite nenhum?
+BRUNO: Aí está o alerta da apostila. Esse artigo precisa ser lido junto com o artigo cinquenta e quatro da Lei nove mil setecentos e oitenta e quatro. Decai em cinco anos o direito de anular atos dos quais decorram efeitos favoráveis ao destinatário, salvo má-fé.
+FRANCISCA: Um exemplo: a Administração concede uma vantagem por erro, de boa-fé do servidor. Passados cinco anos, ela perde o direito de anular aquele ato. Se houve má-fé, não há esse prazo.
+THALITA: Então o a qualquer tempo é a regra da lei do servidor, mas existe esse limite na lei do processo administrativo.
+ANTONIO: Isso. E guardem o resumo das trocas típicas: recurso sempre com efeito suspensivo, errado; reconsideração renovável, errado; prescrição suspensa, errado, é interrompida; Administração pode relevar a prescrição, errado.
+== SLIDE: Seguridade do servidor: licenças e auxílios
+* Título VI (arts. 183 a 231): benefícios do plano de seguridade
+* Licença saúde: perícia; acima de 120 dias em 12 meses, junta oficial
+* Gestante 120 dias (+60); paternidade 5 dias (+15)
+* Adotante: Tema 782 do STF; amamentação até 6 meses
+* Natalidade e funeral; pensão e auxílio-reclusão
+THALITA: Resumo do resumo: nunca renovar reconsideração e nunca suspender prescrição. Anotado! Próximo assunto?
+ANTONIO: Vamos ao Título seis, a seguridade do servidor, artigos cento e oitenta e três a duzentos e trinta e um. Tratamento enxuto, com foco nas licenças e nos números. Esse título foi muito remodelado pelas Emendas quarenta e um, de dois mil e três, e cento e três, de dois mil e dezenove, e pela Lei treze mil cento e trinta e cinco, de dois mil e quinze.
+THALITA: Por onde começo a decorar?
+FRANCISCA: Pela licença para tratamento da própria saúde. Ela pode ser a pedido ou de ofício, com base em perícia médica, sem prejuízo da remuneração. Se a licença exceder cento e vinte dias em doze meses, depende de junta médica oficial.
+BRUNO: A licença à gestante é de cento e vinte dias consecutivos, sem prejuízo da remuneração, e pode começar no primeiro dia do nono mês, salvo antecipação por orientação médica. Existe prorrogação de sessenta dias, pelo Programa Empresa Cidadã.
+THALITA: E a paternidade?
+FRANCISCA: Cinco dias consecutivos, prorrogáveis por mais quinze, pelo Decreto oito mil setecentos e trinta e sete, de dois mil e dezesseis.
+BRUNO: Detalhes que caem: no caso de natimorto, a servidora é reexaminada após trinta dias, e no aborto atestado, ela tem trinta dias de repouso remunerado.
+ANTONIO: Na amamentação, até o filho completar seis meses, a servidora tem uma hora de descanso por dia, que pode ser dividida em dois períodos de meia hora.
+FRANCISCA: A licença à adotante é interessante. A lei previa noventa dias para criança até um ano e trinta dias para mais de um ano. Mas o Supremo, no Tema setecentos e oitenta e dois, fixou que o prazo não pode ser inferior ao da gestante nem variar com a idade do adotado.
+THALITA: Ou seja, adotante, o mesmo prazo da gestante!
+BRUNO: Isso. Acidente em serviço dá licença com remuneração integral. O auxílio-natalidade equivale ao menor vencimento do serviço público, inclusive no natimorto, e em parto múltiplo há acréscimo de cinquenta por cento por nascituro. O auxílio-funeral é de um mês da remuneração ou provento, pago em quarenta e oito horas.
+ANTONIO: E pensão e auxílio-reclusão tiveram regras alteradas pela Lei treze mil cento e trinta e cinco e pela Emenda cento e três. Confira sempre a redação vigente.
+== SLIDE: Contratação temporária e as carreiras do Judiciário
+* Título VII (arts. 232 a 235) revogado pela Lei 8.745/1993
+* Art. 37, IX, CF; Tema 612 e Tema 551 do STF
+* Regime Geral de Previdência
+* Lei 11.416/2006: Analista, Técnico e Auxiliar Judiciário
+* Oficial de Justiça e Polícia Judicial como especialidades
+THALITA: Esse título eu confesso que nunca entendi: foi revogado, mas ainda cai em prova?
+ANTONIO: Cai, sim, como contraste. O Título sete tratava da contratação temporária, mas foi revogado pela Lei oito mil setecentos e quarenta e cinco, de mil novecentos e noventa e três. O fundamento constitucional é o artigo trinta e sete, inciso nove.
+THALITA: E quando pode contratar temporário?
+FRANCISCA: Só em casos excepcionais previstos em lei, com prazo predeterminado, necessidade temporária e interesse público excepcional. Pelo Tema seiscentos e doze do Supremo, não vale para serviços ordinários e permanentes.
+BRUNO: Sobre direitos, o Tema quinhentos e cinquenta e um do Supremo diz que o contratado não tem direito a décimo terceiro e férias com um terço, salvo previsão legal ou contratual, ou desvirtuamento por prorrogações sucessivas. A previdência é o Regime Geral.
+ANTONIO: Agora a Lei onze mil quatrocentos e dezesseis, de dois mil e seis. Três carreiras: Analista, Técnico e Auxiliar Judiciário.
+FRANCISCA: O Analista faz planejamento, organização, coordenação, supervisão técnica, assessoramento, estudo, pesquisa, laudos, pareceres e tarefas de elevado grau de complexidade. Exige curso superior, correlacionado com a especialidade, se for o caso.
+THALITA: E o Técnico?
+BRUNO: Suporte técnico e administrativo. Antes exigia ensino médio ou curso técnico, mas a Lei catorze mil quatrocentos e cinquenta e seis, de dois mil e vinte e dois, passou a exigir ensino superior completo. Cuidado: a apostila manda conferir a redação vigente.
+FRANCISCA: O Auxiliar faz atividades básicas de apoio operacional, com ensino fundamental.
+ANTONIO: Duas especialidades de destaque: o Oficial de Justiça Avaliador Federal, que é Analista da área judiciária e cumpre mandados e atos externos, e a segurança, hoje chamada polícia judicial, para Analistas e Técnicos da área administrativa.
+== SLIDE: Classes, padrões, progressão e promoção
+* Classe A: padrões 1 a 5; B: 6 a 10; C: 11 a 13
+* Ingresso: padrão 1 da classe A, por concurso
+* Progressão: padrão a padrão, mesma classe
+* Promoção: muda de classe, exige curso de aperfeiçoamento
+* Interstício de 1 ano nos dois casos
+THALITA: Agora vem a parte que eu mais quero entender: como a gente cresce na carreira!
+ANTONIO: A estrutura é simples: classe A com padrões um a cinco, classe B com seis a dez, classe C com onze a treze. O ingresso é sempre no padrão um da classe A, por concurso de provas ou de provas e títulos.
+THALITA: E como subo?
+FRANCISCA: De dois jeitos. A progressão é o movimento de um padrão para o seguinte, dentro da mesma classe. Já a promoção é a mudança do último padrão de uma classe para o primeiro da classe seguinte, ou seja, do cinco para o seis, e do dez para o onze.
+BRUNO: Agora o ponto decisivo. Na progressão, o interstício é de um ano e basta a avaliação formal de desempenho. Na promoção, o interstício também é de um ano, em relação à progressão anterior, mas exige, cumulativamente, avaliação de desempenho e participação em curso de aperfeiçoamento, oferecido preferencialmente pelo órgão.
+THALITA: Então a promoção exige o curso, e a progressão não. Posso resumir: progressão, avaliação; promoção, avaliação mais curso?
+BRUNO: Perfeito. E o interstício é de um ano nos dois casos, nunca dois anos nem dezoito meses.
+FRANCISCA: Um alerta: a distribuição dos padrões por classe consta do anexo da lei, e pode ter havido reestruturação posterior das tabelas.
+== SLIDE: Remuneração, GAJ, GAE, GAS e Adicional de Qualificação
+* Vencimento básico + GAJ + vantagens permanentes
+* GAJ: 140% do vencimento básico (Lei 13.317/2016)
+* GAE 35% (Oficial de Justiça); GAS 35% (segurança)
+* AQ: doutorado 12,5%, mestrado 10%, especialização 7,5%
+* Graduação 5%; treinamento 1% a cada 120 horas, até 3%
+THALITA: Falando em crescer, e o contracheque? Quero saber quanto vai ser!
+ANTONIO: A remuneração é composta de vencimento básico, mais a Gratificação Judiciária, a GAJ, mais as vantagens pecuniárias permanentes. A GAJ é um percentual sobre o vencimento básico: cento e quarenta por cento, depois da Lei treze mil trezentos e dezessete, de dois mil e dezesseis.
+FRANCISCA: Há duas gratificações específicas. A GAE, de atividade externa, é exclusiva dos Oficiais de Justiça Avaliadores Federais, e vale trinta e cinco por cento do vencimento básico. A GAS, de atividade de segurança, é dos Analistas e Técnicos com atribuições de segurança, também trinta e cinco por cento, condicionada à participação em programa de reciclagem anual.
+THALITA: Esses servidores podem receber GAE ou GAS e ainda ter função comissionada?
+BRUNO: Não. A lei veda a percepção da GAE e da GAS pelo servidor designado para função comissionada ou nomeado para cargo em comissão.
+ANTONIO: Falta o Adicional de Qualificação, o AQ. Ele é devido por conhecimentos adicionais, comprovados por títulos, diplomas ou certificados de pós-graduação e por ações de treinamento, em áreas de interesse do órgão. Não é devido quando o curso é requisito de ingresso no cargo.
+THALITA: E os percentuais?
+FRANCISCA: Doutorado, doze vírgula cinco por cento; mestrado, dez por cento; especialização, sete vírgula cinco por cento; graduação, para cargos que não a exigem, cinco por cento. Treinamento: um por cento a cada cento e vinte horas, até o limite de três por cento.
+BRUNO: A regra de ouro: os títulos não se acumulam entre si, recebe-se o maior. Mas o treinamento soma ao título.
+FRANCISCA: Exemplo: Márcio, Oficial de Justiça, vencimento básico hipotético de dez mil reais, mestrado e duzentas e quarenta horas de treinamento. Ele recebe dez mil de vencimento, mais catorze mil de GAJ, mais três mil e quinhentos de GAE, mais mil do mestrado e duzentos do treinamento. Se fosse doutor e mestre, receberia só os doze vírgula cinco por cento do doutorado.
+== SLIDE: Funções comissionadas, cargos em comissão e nepotismo
+* FC-1 a FC-6 e CJ-1 a CJ-4: direção, chefia e assessoramento
+* FCs: mínimo de 80% para servidores das carreiras
+* CJs: mínimo de 50% para efetivos do quadro
+* Nepotismo: cônjuge, companheiro ou parente até o 3º grau
+* Conferir Leis 14.456/2022, 14.523/2023 e 14.687/2023
+ANTONIO: Por fim, as funções comissionadas, de F C um a F C seis, e os cargos em comissão, de C J um a C J quatro, para direção, chefia e assessoramento.
+BRUNO: Os números que a FCC inverte: cada órgão destina, no mínimo, oitenta por cento das funções comissionadas a servidores das carreiras do Judiciário da União. Já nos cargos em comissão, no mínimo cinquenta por cento são para servidores efetivos do quadro do órgão. A banca troca os percentuais, ou troca no mínimo por no máximo.
+THALITA: Vou fixar: função, oitenta; cargo, cinquenta; e sempre no mínimo.
+FRANCISCA: As funções gerenciais são exercidas preferencialmente por servidores com formação superior. E o restante das funções pode ir para efetivos de outras carreiras ou empregados públicos, observados requisitos de qualificação e experiência.
+ANTONIO: Sobre nepotismo: é vedada a nomeação ou designação, para cargo em comissão e função comissionada, de cônjuge, companheiro ou parente até o terceiro grau, inclusive, dos membros e juízes vinculados. Exceção: se for servidor efetivo das carreiras do Judiciário, a vedação se restringe a servir perante o magistrado que gera a incompatibilidade.
+THALITA: E quem regulamenta?
+FRANCISCA: O Supremo, os Tribunais Superiores, o CNJ, o Conselho da Justiça Federal, o Conselho Superior da Justiça do Trabalho e o TJDFT, cada um no âmbito de suas competências.
+BRUNO: E um último alerta: a lei foi alterada pela Lei treze mil trezentos e dezessete, a catorze mil quatrocentos e cinquenta e seis, a catorze mil quinhentos e vinte e três e pela catorze mil seiscentos e oitenta e sete. Confira o teor exato antes da prova, principalmente quanto à polícia judicial e às tabelas.
+ANTONIO: Teoria vista. Agora vamos para as questões comentadas no estilo FCC, para testar tudo o que aprendemos nesta disciplina. Preparem papel e caneta!

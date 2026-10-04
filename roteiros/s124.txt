@@ -1,0 +1,146 @@
+SEGMENTO s124
+== SLIDE: Questão 1: formas de provimento
+* Provimento: art. 8º da Lei 8.112/1990
+* Ascensão e transferência: revogadas
+* Remoção e redistribuição: deslocamentos
+* Posse: ato de investidura, não é provimento
+* Gabarito: C
+ANTONIO: Terminamos a teoria sobre petição, seguridade e carreiras. Agora é hora de treinar com questões no estilo FCC, cobrindo toda a disciplina. Primeira questão, para Analista Judiciário: quais são formas de provimento de cargo público na Lei oito mil cento e doze?
+THALITA: Já estou ansiosa. Quais são as alternativas?
+BRUNO: A letra A traz nomeação, promoção, ascensão, readaptação e reversão. A letra bê, nomeação, transferência, aproveitamento, reintegração e recondução. A letra cê, promoção, readaptação, reversão, aproveitamento e recondução. A letra dê, nomeação, remoção, redistribuição, reintegração e recondução. E a letra E, promoção, readaptação, posse, aproveitamento e reintegração.
+ANTONIO: Pausa para você pensar. Pause o vídeo, leia com calma e marque a sua resposta.
+THALITA: Eu chuto a letra A, porque tem nomeação e reversão, que eu sei que são formas de provimento.
+FRANCISCA: Quase! Mas a letra A traz a ascensão, que estava no artigo oitavo, inciso três, e foi revogada pela Lei nove mil quinhentos e vinte e sete, de mil novecentos e noventa e sete. Além disso, é inconstitucional, conforme a Súmula Vinculante quarenta e três.
+BRUNO: A letra bê tem o mesmo defeito, com a transferência, que também foi revogada. A letra dê mistura coisas de natureza diferente: remoção, do artigo trinta e seis, e redistribuição, do artigo trinta e sete, são deslocamentos, não formas de provimento.
+FRANCISCA: A letra E erra ao incluir a posse. A posse é o ato de investidura, do artigo sétimo, e não uma forma de provimento.
+ANTONIO: Sobra a letra cê. Promoção, readaptação, reversão, aproveitamento e recondução constam todas do artigo oitavo, nos incisos dois, cinco, seis, sete e nove. Gabarito: cê.
+THALITA: Macete: as revogadas são ascensão e transferência. Se a alternativa traz uma das duas, descarta.
+BRUNO: E se trouxer posse, remoção ou redistribuição, também descarta.
+== SLIDE: Questão 2: posse e exercício
+* Posse: 30 dias da publicação do ato de provimento
+* Exercício: 15 dias da posse, sob pena de exoneração
+* Posse por procuração específica é possível
+* Declaração de bens: apresentada no ato da posse
+* Gabarito: A
+ANTONIO: Segunda questão, para Técnico Judiciário. Ana foi aprovada em concurso para cargo efetivo do Tribunal Regional do Trabalho, e o ato de nomeação foi publicado. Pelo que diz a lei, qual alternativa está correta?
+BRUNO: A letra A diz que a posse ocorre em até trinta dias contados da publicação do ato de provimento e que, depois de empossada, Ana tem quinze dias para entrar em exercício, sob pena de exoneração. A letra bê diz quinze dias para a posse e trinta para o exercício, sob pena de demissão. A letra cê diz que, sem posse no prazo, Ana será exonerada de ofício.
+FRANCISCA: A letra dê afirma que a posse é personalíssima e não admite procuração. E a letra E diz que a declaração de bens só é exigida ao fim do estágio probatório.
+ANTONIO: Pausa para você pensar.
+THALITA: Eu aposto na letra cê, porque se a pessoa não toma posse, é razoável que seja exonerada, né?
+FRANCISCA: Não, Thalita. Sem posse, o ato de provimento é tornado sem efeito, conforme o artigo treze, parágrafo sexto. Exoneração só existe para quem tomou posse e não entrou em exercício, no artigo trinta e quatro, parágrafo único, inciso dois.
+BRUNO: A letra bê inverte os prazos e ainda coloca demissão, que é penalidade, e não consequência de falta de exercício. A letra dê está errada porque o artigo treze, parágrafo terceiro, permite posse por procuração específica. E a letra E erra porque a declaração de bens é apresentada no ato da posse, no parágrafo quinto do mesmo artigo.
+ANTONIO: Portanto, a letra A é a correta: trinta dias da publicação para a posse, quinze dias da posse para o exercício, sob pena de exoneração.
+THALITA: Então: posse, trinta; exercício, quinze; não tomou posse, sem efeito; não entrou em exercício, exonerado.
+== SLIDE: Questão 3: reversão
+* Reversão a pedido: art. 25, II
+* Requisitos: aposentadoria voluntária, estabilidade, 5 anos, cargo vago
+* Excedente só na reversão por invalidez
+* Aproveitamento: servidor em disponibilidade
+* Gabarito: E
+ANTONIO: Terceira questão. Bruno, o servidor da questão, é federal estável e aposentou-se voluntariamente há quatro anos. Arrependido, requereu o retorno e a Administração manifestou interesse. Qual alternativa descreve esse retorno?
+BRUNO: A letra A diz aproveitamento, independentemente de cargo vago. A letra bê, reintegração com ressarcimento de todas as vantagens. A letra cê, reversão, podendo exercer como excedente se não houver cargo vago. A letra dê, recondução, por ser estável. E a letra E, reversão no interesse da Administração, exigindo cargo vago, e só com proventos pelas regras atuais se ficar pelo menos cinco anos no cargo.
+ANTONIO: Pause e pense.
+THALITA: Parece que a letra cê está certa, porque reversão é o nome certo, e o excedente me lembra algo.
+FRANCISCA: Boa memória, mas o exercício como excedente é da reversão por invalidez, do artigo vinte e cinco, parágrafo terceiro. Na reversão a pedido exige-se cargo vago, no artigo vinte e cinco, inciso dois, alínea e.
+BRUNO: A letra A erra porque aproveitamento é o retorno do servidor em disponibilidade, do artigo trinta. A letra bê erra porque reintegração pressupõe demissão invalidada, artigo vinte e oito. A letra dê erra porque recondução é o retorno ao cargo anterior por inabilitação em estágio ou reintegração do anterior ocupante, artigo vinte e nove.
+FRANCISCA: A letra E está certa: reversão no interesse da Administração, a pedido, com aposentadoria voluntária, estabilidade, aposentadoria nos cinco anos anteriores, cargo vago, e o parágrafo quinto trata dos proventos.
+ANTONIO: Gabarito: E.
+THALITA: Eu havia errado, mas agora sei: excedente é só na invalidez; a pedido exige vaga.
+== SLIDE: Questão 4: estágio probatório
+* Fatores: assiduidade, disciplina, iniciativa, produtividade, responsabilidade
+* Avaliação homologada 4 meses antes do fim do período
+* Licença para interesses particulares: vedada no estágio
+* Estável não aprovado em novo cargo: recondução
+* Gabarito: B
+ANTONIO: Quarta questão, para Analista Judiciário, Oficial de Justiça. Quatro afirmações sobre estágio probatório. Afirmação um: os fatores de avaliação são assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade. Afirmação dois: quatro meses antes de findo o período, a avaliação, feita por comissão, é submetida à homologação da autoridade competente.
+FRANCISCA: Afirmação três: ao servidor em estágio probatório pode ser concedida licença para tratar de interesses particulares, a critério da Administração. Afirmação quatro: o servidor estável não aprovado no estágio de novo cargo será reconduzido ao cargo anterior.
+BRUNO: As alternativas: A, um e dois apenas; bê, um, dois e quatro apenas; cê, dois e três apenas; dê, um, três e quatro apenas; E, todas.
+ANTONIO: Pausa para pensar. Quais são verdadeiras?
+THALITA: Eu acho que as quatro, porque todas parecem razoáveis.
+BRUNO: A pegadinha está na três. O artigo noventa e um exige que o servidor não esteja em estágio probatório para a licença por interesse particular. E o artigo vinte, parágrafo quarto, só admite durante o estágio as licenças do artigo oitenta e um, incisos um a quatro.
+FRANCISCA: A afirmação um está no artigo vinte, incisos um a cinco. A dois está no parágrafo primeiro do artigo vinte. E a quatro combina o parágrafo segundo do artigo vinte com o artigo vinte e nove, inciso um.
+ANTONIO: Então são corretas a um, a dois e a quatro. Gabarito: bê.
+BRUNO: A letra A erra por omitir a quatro. A cê, por incluir a três e omitir a um e a quatro. A dê e a E, porque incluem a três.
+THALITA: Macete: no estágio, nada de licença por interesse particular.
+== SLIDE: Questão 5: remoção para acompanhar cônjuge
+* Remoção a pedido: art. 36, parágrafo único, III, a
+* Cônjuge servidor deslocado no interesse da Administração
+* Independe do interesse da Administração
+* Licença do art. 84: sem remuneração
+* Gabarito: dê
+ANTONIO: Quinta questão, para Técnico Judiciário, Agente da Polícia Judicial. Carla, servidora do TRT da oitava Região em Belém, é casada com Paulo, servidor federal removido de ofício, no interesse da Administração, para Macapá. Segundo a lei, o que Carla poderá obter?
+FRANCISCA: A letra A, redistribuição para Macapá, por ser deslocamento a pedido. A letra bê, remoção a pedido, a critério da Administração, sem previsão legal específica. A letra cê, remoção de ofício com ajuda de custo. A letra dê, remoção a pedido, independentemente do interesse da Administração, para acompanhar o cônjuge. A letra E, licença por afastamento do cônjuge, por prazo indeterminado e com remuneração.
+ANTONIO: Pausa para você pensar.
+THALITA: Eu iria na letra E, porque a licença acompanha o cônjuge!
+BRUNO: Cuidado. A licença do artigo oitenta e quatro existe, mas é sem remuneração, conforme o parágrafo primeiro. A letra A erra porque redistribuição desloca o cargo para outro órgão do mesmo Poder, no interesse da Administração, artigo trinta e sete.
+FRANCISCA: A letra bê erra porque há previsão específica: artigo trinta e seis, parágrafo único, inciso três, alínea a. A letra cê erra porque não se trata de remoção de ofício, e na remoção a pedido não há ajuda de custo, artigo cinquenta e três, parágrafo terceiro.
+ANTONIO: A letra dê é a correta: o cônjuge servidor foi deslocado no interesse da Administração, então a remoção a pedido independe do interesse da Administração. Gabarito: dê.
+THALITA: Macete: cônjuge deslocado de ofício, remoção a pedido garantida.
+BRUNO: E ela não tem ajuda de custo. Isso aparece como pegadinha.
+== SLIDE: Questões 6 e 7: vacância e gratificações
+* Vacância: art. 33, rol de 7 hipóteses
+* Reversão, recondução e remoção NÃO são vacância
+* Serviço extraordinário: 50% e 2 horas por jornada
+* Noturno: 22h às 5h, 25%
+* Insalubridade e periculosidade: opção por um
+ANTONIO: Sexta questão: a vacância do cargo decorre de qual rol? A letra A: exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo inacumulável e falecimento. As demais trocam itens por reversão, recondução, remoção e disponibilidade.
+FRANCISCA: A letra A é a correta. Reproduz o artigo trinta e três, nos incisos um, dois, três, seis, sete, oito e nove. Reversão e recondução são formas de provimento. Remoção é deslocamento no mesmo quadro, não vacância. E disponibilidade não consta do artigo trinta e três.
+THALITA: Então promoção é vacância? Eu achava que era provimento!
+BRUNO: Boa dúvida. Promoção gera vacância no cargo de origem, e por isso consta no artigo trinta e três, ao lado de readaptação. Na prova, treine reconhecer as peças do rol.
+ANTONIO: Sétima questão: gratificações e adicionais. A letra A diz que o serviço extraordinário tem acréscimo de vinte e cinco por cento e limite de três horas. A letra bê, que o adicional noturno é de vinte e duas às seis, com vinte por cento. A letra cê, que o serviço extraordinário tem acréscimo de cinquenta por cento, só em situações excepcionais e temporárias, com limite de duas horas por jornada.
+FRANCISCA: A letra dê diz que o servidor com direito a insalubridade e periculosidade recebe os dois cumulativamente. E a letra E, que a gratificação natalina é um doze avos da remuneração de novembro, paga até trinta de novembro.
+ANTONIO: Pausa para você pensar.
+THALITA: Eu marcaria a cê, porque cinquenta por cento me soa familiar.
+BRUNO: Acertou! Artigos setenta e três e setenta e quatro: cinquenta por cento e duas horas por jornada. A letra A erra nos dois números. A letra bê erra porque o adicional noturno vai das vinte e duas às cinco horas, com vinte e cinco por cento, artigo setenta e cinco.
+FRANCISCA: A letra dê erra porque o servidor deve optar por um dos adicionais, artigo sessenta e oito, parágrafo primeiro. A letra E erra porque a base é a remuneração de dezembro, e o pagamento ocorre até o dia vinte de dezembro, artigos sessenta e três e sessenta e quatro.
+ANTONIO: Gabarito: sexta, A; sétima, cê.
+== SLIDE: Questão 8: licenças com remuneração
+* Capacitação: art. 87, até 3 meses a cada quinquênio, com remuneração
+* Interesse particular: sem remuneração (art. 91)
+* Afastamento do cônjuge: sem remuneração
+* Mandato classista: sem remuneração (art. 92)
+* Doença em família: 60 dias com remuneração
+THALITA: Essa dupla eu acertei só metade. Vamos para a próxima, que preciso me recuperar!
+ANTONIO: Oitava questão: de acordo com a Lei oito mil cento e doze, é concedida com remuneração a licença de qual alternativa?
+BRUNO: A letra A, para tratar de interesses particulares, por até três anos consecutivos. A letra bê, por afastamento do cônjuge deslocado para o exterior. A letra cê, para mandato classista em sindicato. A letra dê, por doença em pessoa da família, por até noventa dias, consecutivos ou não, a cada doze meses. A letra E, para capacitação, por até três meses, após cada quinquênio de efetivo exercício, no interesse da Administração.
+ANTONIO: Pausa para você pensar.
+THALITA: Eu penso na letra dê, porque doença na família tem remuneração, certo?
+FRANCISCA: Tem, mas só até sessenta dias. Os noventa dias são sem remuneração, artigo oitenta e três, parágrafo segundo. Por isso a letra dê está errada.
+BRUNO: A letra A, interesse particular, é sem remuneração, artigo noventa e um. A letra bê, afastamento do cônjuge, também é sem remuneração e por prazo indeterminado, artigo oitenta e quatro, parágrafo primeiro. E a letra cê, mandato classista, sem remuneração, artigo noventa e dois.
+FRANCISCA: A letra E é a correta: licença para capacitação do artigo oitenta e sete, com a respectiva remuneração.
+THALITA: Macete: capacitação é a única com salário dessa lista, as outras, sem.
+ANTONIO: Gabarito: E.
+== SLIDE: Questões 9 e 10: afastamentos e férias
+* Casamento: 8 dias consecutivos (art. 97, III, a)
+* Falecimento: rol não inclui avós nem parentes por afinidade
+* Férias: 12 meses para o primeiro período
+* Acúmulo até 2 períodos; parcelamento em até 3 etapas
+* Pagamento até 2 dias antes; interrupção por autoridade máxima
+THALITA: Licença é um assunto que mistura tudo na minha cabeça, mas agora a regra do salário ficou clara. Vamos adiante?
+ANTONIO: Nona questão. Márcio, servidor do TRT, casou-se em dez de maio. Na semana seguinte, faleceu o avô da esposa. Considerando apenas o artigo noventa e sete, por quanto tempo ele pode se ausentar?
+BRUNO: Letra A, cinco dias de casamento e dois de falecimento. Bê, oito dias consecutivos de casamento, sem previsão de ausência pelo falecimento do avô da esposa. Cê, oito de casamento e oito de falecimento. Dê, três dias de casamento. E, oito dias úteis de casamento e um dia de falecimento.
+ANTONIO: Pausa para pensar.
+THALITA: Eu diria letra cê, oito e oito, para ser justo.
+FRANCISCA: A lei não é justa nesse ponto. O artigo noventa e sete, inciso três, alínea a, dá oito dias consecutivos pelo casamento. Mas a alínea bê não inclui avós nem parentes por afinidade, além de madrasta, padrasto e enteados. Gabarito: bê.
+BRUNO: A letra E erra ao dizer dias úteis: são consecutivos. A letra dê erra no número.
+ANTONIO: Décima questão, sobre férias. A letra A exige seis meses para o primeiro período. A bê permite acumular até três períodos. A cê permite interrupção por necessidade declarada pela chefia imediata. A dê permite parcelar em até três etapas, a pedido do servidor e no interesse da Administração. A E diz que o pagamento será até cinco dias antes.
+FRANCISCA: A letra dê está correta, artigo setenta e sete, parágrafo terceiro. A A erra, são doze meses, parágrafo primeiro. A bê erra, o acúmulo é de até dois períodos. A cê erra, a necessidade deve ser declarada pela autoridade máxima do órgão, artigo oitenta. A E erra, o pagamento é até dois dias antes, artigo setenta e oito.
+THALITA: Macete: doze meses, dois períodos, duas dias antes, três parcelas.
+BRUNO: Bom! Só lembre que é até dois dias antes, no plural certo.
+ANTONIO: Gabarito: nona, bê; décima, dê.
+== SLIDE: Questão 11: direito de petição e fechamento
+* Reconsideração: não pode ser renovada (art. 106)
+* Efeito suspensivo: a juízo da autoridade; prazo de 30 dias
+* Prescrição: 5 anos ou 120 dias (art. 110)
+* Reconsideração e recurso interrompem a prescrição
+* Despacho em 5 dias e decisão em 30 dias
+THALITA: Última da primeira parte? Então vou caprichar na atenção, porque petição acabamos de ver!
+ANTONIO: Décima primeira questão, a que amarra a nossa aula de hoje. Tereza, servidora federal, teve indeferido um requerimento sobre cálculo de vantagem pecuniária. Sobre o direito de petição, qual alternativa está correta?
+BRUNO: A letra A diz que a reconsideração pode ser renovada uma vez, com fatos novos. A bê, que o recurso tem sempre efeito suspensivo, com prazo de dez dias. A cê, que o direito de requerer prescreve em cento e vinte dias nos casos que não envolvam demissão, cassação, interesse patrimonial ou créditos, salvo outro prazo em lei. A dê, que reconsideração e recurso suspendem a prescrição, que pode ser relevada por equidade. A E, que o requerimento é despachado em trinta dias e decidido em sessenta.
+ANTONIO: Pause e pense.
+THALITA: Eu marco a cê, porque tem cento e vinte dias e a exceção em lei, que parece o texto do artigo cento e dez.
+FRANCISCA: Isso mesmo. A letra A erra, pois o pedido de reconsideração não pode ser renovado, artigo cento e seis. A letra bê erra duas vezes: o efeito suspensivo é a juízo da autoridade, artigo cento e nove, e o prazo é de trinta dias, artigo cento e oito.
+BRUNO: A letra dê troca interrupção por suspensão e diz que a Administração releva a prescrição, mas ela é interrompida, artigo cento e onze, e é de ordem pública, artigo cento e doze. E a letra E inverte os prazos: despacho em cinco dias e decisão em trinta, artigo cento e seis, parágrafo único.
+FRANCISCA: Detalhe curioso: na prática, o caso da Tereza envolve interesse patrimonial, então o prazo dela seria de cinco anos, pelo artigo cento e dez, inciso um. Mas a alternativa cê só descreve a regra geral, e por isso está correta. Gabarito: cê.
+THALITA: Resumindo meu aprendizado: letra da lei, número exato e atenção às palavras sempre, nunca e apenas. Fechado!
+ANTONIO: Fechamos a primeira parte das questões. Na próxima, continuamos com mais questões comentadas para consolidar a disciplina.
