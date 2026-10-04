@@ -1,0 +1,54 @@
+SEGMENTO s021
+== SLIDE: Boas-vindas e Windows 11 contra Windows 10
+* Aula de Noções de Informática
+* Windows 11: barra centralizada, Layouts de Ajuste, mais requisitos
+* Requisitos do 11: só sessenta e quatro bits, TPM dois ponto zero
+* Configurações no 11; Painel de Controle continua existindo
+ANTONIO: Olá, pessoal, bem-vindos! Esta é a aula sete, de Noções de Informática. Hoje vamos de Windows dez e onze, organização de arquivos e pastas, depois Google Workspace, redes, navegadores e busca, segurança da informação e, no fim, questões comentadas estilo FCC. Eu sou o Antônio, professor.
+FRANCISCA: Eu sou a Francisca, professora. Trago o funcionamento de cada recurso, com exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC, e vou mostrar o que a banca cobra de verdade.
+THALITA: E eu sou a Thalita, concurseira. Vou perguntar o que vocês perguntariam.
+ANTONIO: Começando pelas diferenças entre o Windows dez e o onze. No dez, a barra de tarefas pode ir para qualquer borda, e o menu Iniciar tem blocos dinâmicos. No onze, os ícones ficam centralizados, embora possam alinhar à esquerda, a barra fica fixa embaixo, e o Iniciar traz Fixados e Recomendado, sem blocos dinâmicos.
+THALITA: E as janelas?
+FRANCISCA: No dez há o Snap Assist. No onze, além do Snap, os Layouts de Ajuste, com Windows mais Z, e os Grupos de Ajuste. O Explorador de Arquivos do dez usa a faixa de opções; o do onze, uma barra de comandos simplificada e abas.
+BRUNO: Requisitos: o dez roda em trinta e dois ou sessenta e quatro bits. O onze, só sessenta e quatro, com TPM dois ponto zero e UEFI com Inicialização Segura. O suporte do dez foi encerrado em catorze de outubro de dois mil e vinte e cinco.
+THALITA: E o Painel de Controle? Sumiu no onze?
+BRUNO: Pegadinha! Não eliminou. Parte das opções migrou para Configurações, que abre com Windows mais I: Sistema, Bluetooth e dispositivos, Rede e Internet, Personalização, Aplicativos, Contas, Hora e idioma, Acessibilidade, Privacidade e segurança e Windows Update. Windows mais A, no onze, são as configurações rápidas; as notificações ficam em Windows mais N.
+== SLIDE: Explorador de Arquivos e atalhos
+* Win E abre o Explorador; Alt P, painel de visualização
+* Arrastar: mesma unidade move, unidade diferente copia
+* Ctrl copia, Shift move, Alt cria atalho
+* Atalhos: Win D, Win L, Win V, Win Shift S, Ctrl Shift Esc
+FRANCISCA: Explorador de Arquivos: Windows mais E. O painel de visualização, com Alt mais P, mostra o conteúdo sem abrir o arquivo. O painel de detalhes, Alt, Shift e P, mostra propriedades. Modos de exibição: ícones, lista, detalhes, blocos e conteúdo. Extensões e itens ocultos vêm ocultos por padrão e aparecem no menu Exibir.
+THALITA: E arrastar com o mouse? Eu sempre erro.
+BRUNO: Sem tecla: na mesma unidade, move; em unidade diferente, copia. Com Ctrl, copia sempre. Com Shift, move sempre. Com Alt, cria atalho. A pegadinha: arrastar um arquivo de C para um pendrive copia, não move.
+ANTONIO: Atalhos. Windows D mostra ou oculta a área de trabalho. Windows M minimiza todas as janelas. Windows L bloqueia o computador. Windows R abre o Executar, Windows S a pesquisa, Windows X o Menu de Link Rápido.
+THALITA: Windows V é a área de transferência, e Windows Shift S é o recorte, certo?
+FRANCISCA: Certo. Windows V mostra o histórico da área de transferência, que precisa estar ativado, guarda até vinte e cinco itens, e os fixados sobrevivem à reinicialização. Windows Shift S abre a Ferramenta de Captura. Windows Print Screen salva a tela em Imagens, Capturas de Tela.
+BRUNO: Mais: Windows Tab, Visão de Tarefas; Windows Ctrl D cria nova área virtual; Windows Ctrl com setas alterna entre áreas; Windows Ctrl F4 fecha a área atual, e as janelas migram para a vizinha, não são fechadas. Alt Tab alterna janelas, Alt F4 fecha a ativa. Ctrl Shift Esc abre o Gerenciador de Tarefas direto, e Ctrl Alt Del, a tela de segurança.
+== SLIDE: Lixeira, OneDrive, Snap e Segurança do Windows
+* Delete envia para a Lixeira; Shift Delete exclui definitivamente
+* Pendrive e pasta de rede não passam pela Lixeira
+* OneDrive: sincronizar não é backup
+* Segurança do Windows: Defender, firewall, SmartScreen
+ANTONIO: Mais atalhos de arquivos: F2 renomeia, F5 atualiza, Delete envia para a Lixeira, Shift Delete exclui definitivamente, Ctrl Shift N cria nova pasta no Explorador, Alt Enter abre as propriedades, Alt seta para cima sobe um nível. Cuidado: Ctrl Shift N no Chrome abre janela anônima.
+THALITA: E o que não vai para a Lixeira?
+FRANCISCA: Além do Shift Delete, itens de pendrive e cartão, itens de pastas de rede e itens maiores que a capacidade da Lixeira, com aviso. O que vai para a Lixeira pode ser restaurado ao local original.
+BRUNO: OneDrive é a nuvem da Microsoft integrada ao Explorador, com cinco gigabytes gratuitos. Arquivos sob demanda: nuvem, só on-line; círculo vazado, disponível localmente; círculo verde preenchido, sempre manter neste dispositivo. Backup de pastas sincroniza Área de Trabalho, Documentos e Imagens. Mas sincronizar não é fazer backup: exclusão e ransomware se replicam na nuvem. Socorre o histórico de versões.
+THALITA: Então vou anotar: Shift Delete apaga de vez, pendrive não tem volta, e OneDrive espelha o erro, não protege dele. Se a banca disser que sincronizar é backup, está errado.
+ANTONIO: Segurança do Windows: proteção contra vírus e ameaças, com o Microsoft Defender Antivírus em tempo real e o Acesso controlado a pastas contra ransomware. Firewall por perfil: domínio, privada e pública. SmartScreen alerta sobre arquivos e sites maliciosos. Segurança do dispositivo: isolamento de núcleo, TPM, inicialização segura.
+THALITA: O Defender desativa quando instalo outro antivírus?
+ANTONIO: Sim, se desativa sozinho. E firewall e antivírus são ferramentas distintas.
+== SLIDE: Organização da informação: arquivos, pastas e programas
+* Caminho absoluto parte da raiz; relativo parte da pasta atual
+* Atalho aponta para o original; apagar o atalho não apaga o arquivo
+* Nomes de arquivo não aceitam certos caracteres
+* Extensões: dupla extensão é golpe
+FRANCISCA: Organização da informação. Arquivo é nome mais extensão. Pasta é contêiner hierárquico. Caminho é o endereço na árvore. Programa é o executável associado às extensões. Caminho absoluto parte da raiz: C, dois-pontos, barra invertida, Users, Ana, Documentos, ata ponto pdf. Relativo parte da pasta atual, e dois pontos significam a pasta acima.
+THALITA: E o atalho?
+BRUNO: Aponta para outro arquivo. Apagar o atalho não apaga o original. Associação é o vínculo entre extensão e programa padrão. Nomes de arquivo no Windows não diferenciam maiúsculas de minúsculas e não podem conter barra invertida, barra, dois-pontos, asterisco, interrogação, aspas, menor, maior e barra vertical.
+ANTONIO: Extensões. Texto: docx, odt, rtf, txt. Planilha: xlsx, ods, csv. Apresentação: pptx, odp. Imagem: jpg, png, gif, svg, sendo svg vetorial e png sem perda. Áudio e vídeo: mp3, wav, mp4, avi. Compactados: zip, rar, sete z. Executáveis: exe, msi, bat e dll.
+THALITA: Então boleto ponto pdf ponto exe... vira só boleto ponto pdf?
+BRUNO: Exatamente: como o Windows oculta extensões conhecidas, aparece como boleto ponto pdf, mas é executável. Exibir extensões é boa prática de segurança.
+THALITA: Resumo: caminho absoluto começa na raiz, relativo na pasta atual, e extensão escondida é perigo.
+ANTONIO: Fechamos Windows e organização de arquivos. No próximo tema, Google Workspace, redes e internet, navegadores e ferramentas de busca.

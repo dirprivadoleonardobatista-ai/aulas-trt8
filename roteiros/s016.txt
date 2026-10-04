@@ -1,0 +1,81 @@
+SEGMENTO s016
+== SLIDE: Calendário e dias da semana
+* Calendário se resolve pelo resto da divisão por sete
+* Mês de trinta e um dias desloca três; de trinta, dois
+* Fevereiro comum desloca zero; bissexto, um
+* Bissexto: divisível por quatro, séculos só por quatrocentos
+ANTONIO: Depois das sequências, vamos para orientação temporal e espacial, números inteiros e racionais, MMC, MDC e frações. Começo pelo calendário: tudo se resolve pelo resto da divisão por sete.
+THALITA: Como assim? Eu sempre contei nos dedos.
+FRANCISCA: Pelo resto fica mais rápido. Um mês de trinta e um dias deixa resto três: o mesmo dia do mês seguinte cai três dias à frente. Mês de trinta dias, dois dias à frente. Fevereiro comum, vinte e oito dias, resto zero: mesmo dia da semana. Fevereiro bissexto, vinte e nove dias, resto um.
+BRUNO: E o ano. Ano comum tem trezentos e sessenta e cinco dias, resto um: a mesma data cai um dia da semana à frente no ano seguinte. Ano bissexto, trezentos e sessenta e seis, resto dois, passando por vinte e nove de fevereiro.
+ANTONIO: Ano bissexto é o divisível por quatro, exceto os anos de século, os terminados em zero zero, que só são bissextos se divisíveis por quatrocentos. Dois mil foi bissexto. Mil novecentos e dois mil e cem não são.
+THALITA: Então exemplo: quinze de março caiu numa quarta. Que dia cai quinze de junho do mesmo ano?
+FRANCISCA: De quinze de março a quinze de junho: trinta e um de março, mais trinta de abril, mais trinta e um de maio. Noventa e dois dias. Noventa e dois é sete vezes treze mais um. Resto um: quarta mais um, quinta-feira.
+BRUNO: Outro: hoje é sábado, daqui a cem dias será que dia? Cem é sete vezes catorze mais dois. Sábado mais dois, segunda-feira.
+THALITA: E a dica do mês com cinco semanas?
+ANTONIO: Mês de trinta e um dias tem quatro semanas completas mais três dias: os três primeiros dias da semana em que o mês começa aparecem cinco vezes. Começou numa terça, terá cinco terças, cinco quartas e cinco quintas.
+BRUNO: Atenção: daqui a n dias conta a partir de amanhã. Do dia um ao dia dez, contagem inclusiva, são dez dias, mas a distância entre os dois é de nove. Veja se a questão pede distância ou contagem.
+== SLIDE: Relógios e orientação espacial
+* Hora: trinta graus por hora, meio grau por minuto
+* Minutos: seis graus por minuto
+* Ângulo: módulo de trinta H menos cinco vírgula cinco M
+* Giros: converter em graus no sentido horário
+FRANCISCA: Relógios. O ponteiro das horas anda trinta graus por hora, meio grau por minuto. O dos minutos anda seis graus por minuto. O ângulo entre os ponteiros, às H horas e M minutos, é o módulo de trinta H menos cinco vírgula cinco M. Se passar de cento e oitenta graus, use trezentos e sessenta menos o valor.
+THALITA: Então às três e quarenta: trinta vezes três, noventa; cinco vírgula cinco vezes quarenta, duzentos e vinte. Diferença, cento e trinta graus.
+BRUNO: Perfeito. Os ponteiros se sobrepõem onze vezes a cada doze horas. E o relógio que adianta: adianta três minutos por hora, acertado ao meio-dia. Às vinte horas, oito horas vezes três minutos, vinte e quatro minutos de adiantamento. Marca vinte horas e vinte e quatro.
+ANTONIO: Orientação espacial. Giro de noventa graus a partir do norte, no sentido horário, leva ao leste; no anti-horário, ao oeste. Cento e oitenta, sul, nos dois sentidos. Duzentos e setenta horário, oeste; anti-horário, leste.
+THALITA: Exemplo: Pedro olha para o norte, gira noventa à direita e depois duzentos e setenta à esquerda. Direita é positivo, esquerda negativo: noventa menos duzentos e setenta, menos cento e oitenta. Sul!
+ANTONIO: Isso. Converta tudo em graus no sentido horário, some, e o resto da divisão por trezentos e sessenta dá a posição final.
+== SLIDE: Inteiros, racionais e ordem das operações
+* Naturais, inteiros, racionais e irracionais
+* Zero é natural; menos três é menor que menos um
+* Ordem: parênteses, potências, multiplicação e divisão, soma e subtração
+* Divisibilidade: critérios por dois, três, quatro, cinco, seis, oito, nove, onze
+BRUNO: Base aritmética de toda a prova. Naturais começam no zero. Inteiros incluem os negativos, e menos três é menor que menos um. Racionais são frações e dízimas periódicas, então zero vírgula três três três é um terço, racional. Irracionais são as dízimas não periódicas, como raiz de dois e pi.
+FRANCISCA: Regra de sinais: multiplicação e divisão, sinais iguais dão positivo, diferentes dão negativo. Potência de base negativa com expoente par dá positivo, ímpar dá negativo.
+BRUNO: E a pegadinha: menos dois ao quadrado entre parênteses dá quatro, mas menos dois ao quadrado sem parênteses dá menos quatro, porque o expoente atinge só o dois.
+THALITA: Ordem das operações é parênteses, depois potência e raiz, multiplicação e divisão da esquerda para a direita, por último soma e subtração. Exemplo: dezoito dividido por três vezes dois, menos cinco menos dois ao cubo.
+ANTONIO: Parênteses: dois ao cubo é oito, cinco menos oito dá menos três. Depois, da esquerda para a direita, dezoito dividido por três é seis, seis vezes dois é doze. Doze menos menos três dá quinze. O erro clássico é fazer três vezes dois primeiro e chegar a seis.
+FRANCISCA: Divisibilidade. Por dois, termina em par. Por três, soma dos algarismos divisível por três. Por quatro, dois últimos algarismos formam múltiplo de quatro. Por cinco, termina em zero ou cinco. Por seis, divisível por dois e por três. Por oito, três últimos algarismos formam múltiplo de oito. Por nove, soma divisível por nove. Por dez, termina em zero.
+THALITA: E o onze?
+BRUNO: Diferença entre a soma dos algarismos de ordem ímpar e de ordem par é múltiplo de onze, incluindo zero. Dois mil setecentos e vinte e oito: oito mais sete, quinze, menos dois mais dois, quatro: onze.
+== SLIDE: Divisores, MMC e MDC
+* Primo: só dois divisores; um não é primo
+* Número de divisores: soma um nos expoentes e multiplica
+* MMC: maiores expoentes; MDC: menores dos comuns
+* MMC para coincidir, MDC para repartir sem sobra
+ANTONIO: Múltiplos e divisores. Primo tem exatamente dois divisores naturais, um e ele mesmo. Dois, três, cinco, sete, onze, treze. O dois é o único primo par. E o um não é primo nem composto. Para testar se é primo, basta testar divisores primos até a raiz quadrada.
+THALITA: E o número de divisores?
+FRANCISCA: Fatore. Trezentos e sessenta é dois ao cubo vezes três ao quadrado vezes cinco. Soma um em cada expoente e multiplica: quatro vezes três vezes dois, vinte e quatro divisores.
+BRUNO: MMC e MDC. O MMC é o menor múltiplo comum: todos os fatores primos, cada um com o maior expoente. O MDC é o maior divisor comum: só os fatores comuns, com o menor expoente. Palavras-gatilho do MMC: novamente juntos, próxima vez, coincidir. Do MDC: maior tamanho possível, sem sobras.
+ANTONIO: Exemplo de MMC. Três linhas de ônibus partem juntas às seis horas, com intervalos de doze, dezoito e trinta minutos. Doze é dois ao quadrado vezes três. Dezoito é dois vezes três ao quadrado. Trinta é dois vezes três vezes cinco. MMC: dois ao quadrado, três ao quadrado e cinco: cento e oitenta minutos, três horas. Voltam a partir juntas às nove.
+THALITA: E o MDC? Duas fitas de oitenta e quatro e cento e vinte centímetros, cortadas em pedaços iguais, do maior tamanho possível?
+FRANCISCA: Oitenta e quatro é dois ao quadrado vezes três vezes sete. Cento e vinte é dois ao cubo vezes três vezes cinco. MDC: dois ao quadrado vezes três, doze centímetros. Pedaços: sete mais dez, dezessete.
+BRUNO: A FCC combina MMC com calendário: as rotinas coincidiram numa segunda, quando coincidem de novo? Ache o MMC em dias e tire o resto por sete. E os erros: somar os intervalos, multiplicá-los ou trocar MMC por MDC. O MMC nunca é menor que o maior número, e o MDC nunca é maior que o menor.
+== SLIDE: Frações e fração do restante
+* Soma: igualar denominadores; multiplicação direta; divisão pelo inverso
+* "De" significa multiplicação
+* Geratriz de dízima periódica
+* Fração do restante: multiplicar o que sobra
+THALITA: Agora frações. Para somar, iguala denominadores pelo MMC. Um quarto mais dois terços é três doze avos mais oito doze avos, onze doze avos. Multiplicar é direto. Dividir, conserva a primeira e inverte a segunda.
+ANTONIO: E a palavra de é multiplicação: dois quintos de trezentos, cento e vinte. Dízima simples: período sobre tantos noves quantos forem os algarismos do período. Zero vírgula três três três é três nonos, um terço. Zero vírgula um cinco um cinco é quinze noventa e nove avos, cinco trinta e três avos.
+FRANCISCA: Dízima composta: parte não periódica seguida do período, menos a não periódica, sobre noves e zeros. Zero vírgula um dois dois dois é doze menos um, sobre noventa: onze noventa avos.
+BRUNO: Fração do total contra fração do restante, o clássico. Ana gastou dois quintos com aluguel e um terço do restante com alimentação, ficando com mil e duzentos reais. Quanto tinha?
+THALITA: Eu somaria dois quintos mais um terço, onze quinze avos. Sobrariam quatro quinze avos, e daria quatro mil e quinhentos.
+BRUNO: Era a armadilha. Após o aluguel sobram três quintos. A alimentação consome um terço desses, sobrando dois terços deles. Três quintos vezes dois terços dá dois quintos do total. Dois quintos de x igual a mil e duzentos: x igual a três mil reais.
+ANTONIO: Método rápido: escreva só as frações que sobram em cada etapa e multiplique. Gastou um quarto, sobra três quartos; gastou dois quintos do resto, sobra três quintos; o produto é a fração final. E atenção: gastou um terço e um quarto do salário, ambos sobre o total, soma; um terço e depois um quarto do restante, multiplica.
+== SLIDE: Pegadinhas de aritmética na FCC
+* Expressão: cuidado com sinal e expoente
+* MMC e MDC: não somar nem multiplicar intervalos
+* Fração: distinguir total de restante
+THALITA: Antes de fechar, quero listar as pegadinhas desse bloco para eu não cair. Sinal e expoente nas expressões, trocar MMC por MDC, e confundir fração do total com fração do restante.
+BRUNO: É isso mesmo. Na dúvida, releia o enunciado e pergunte: a fração incide sobre o total inicial ou sobre o que sobrou? E o problema pede coincidência, que é MMC, ou divisão em partes iguais, que é MDC?
+ANTONIO: Faça sempre um teste rápido de razoabilidade na resposta. O MMC nunca é menor que o maior dos números, e o resultado de uma fração do restante nunca passa do total.
+== SLIDE: Trabalho conjunto e resumo da aula
+* Dois agentes juntos: um sobre t igual a um sobre a mais um sobre b
+* Um enche e outro esvazia: subtrai
+* Resumo relâmpago dos pontos que mais caem
+FRANCISCA: Último tópico: trabalho conjunto, torneiras e servidores. Dois agentes juntos: um sobre t é um sobre a mais um sobre b, ou t igual a a vezes b dividido por a mais b. Torneiras de três e seis horas: dezoito dividido por nove, duas horas.
+BRUNO: Quando um enche e outro esvazia, subtrai. Enche em quatro horas, esvazia em doze: três doze avos menos um doze avo, dois doze avos, um sexto: seis horas.
+THALITA: Hora do resumo relâmpago. Lógica: condicional só é falsa em verdadeiro e falso, e a negação dela é p e não q. Negar todo é algum não. Contrapositiva é equivalente; recíproca e inversa, não. Sequência, olha diferença, razão e resto de ciclo. Calendário, resto por sete. MMC para coincidir, MDC para repartir. E fração do restante, multiplica o que sobra.
+ANTONIO: Ótimo resumo, Thalita. Fim de aula, bons estudos e até a próxima!
