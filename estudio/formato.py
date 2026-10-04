@@ -22,6 +22,8 @@ VOZES = {
 
 FAIXA_MIN, FAIXA_MAX = 0.93, 1.25        # tolerancia sobre a meta de palavras
 MAX_PARTICIPACAO = 0.45                   # nenhuma voz passa disto
+MIN_PARTICIPACAO = 0.12                   # (estrito) toda voz chega a isto
+PALAVRAS_POR_SLIDE_MAX = 420              # (estrito) mais que isso pede outro slide
 FALA_MAX_CHARS = 900
 
 PROIBIDOS = [
@@ -70,8 +72,10 @@ def ler(texto):
     return {"segmento": seg, "slides": slides}, erros
 
 
-def validar(texto, seg_plano):
-    """-> (roteiro, erros, resumo). erros vazio = aprovado."""
+def validar(texto, seg_plano, estrito=False):
+    """-> (roteiro, erros, resumo). erros vazio = aprovado.
+    estrito: regras de qualidade cobradas so de quem escreve (o roteirista);
+    a integracao e a montagem aceitam roteiros antigos sem elas."""
     rot, erros = ler(texto)
     sid = seg_plano["id"]
     if rot["segmento"] != sid:
@@ -117,6 +121,15 @@ def validar(texto, seg_plano):
     presentes = [v for v, n in por_voz.items() if n > 0]
     if len(presentes) < minimo_vozes:
         erros.append("só %d vozes participaram; use as quatro" % len(presentes))
+    if estrito and meta >= 900:
+        for v, n in por_voz.items():
+            if total and n / total < MIN_PARTICIPACAO:
+                erros.append("%s tem só %.0f%% das palavras (mín. %.0f%%): dê mais falas a ela/ele"
+                             % (v, 100 * n / total, 100 * MIN_PARTICIPACAO))
+        precisa = max(2, round(total / PALAVRAS_POR_SLIDE_MAX))
+        if len(slides) < precisa:
+            erros.append("só %d slides para %d palavras: divida em pelo menos %d slides"
+                         % (len(slides), total, precisa))
     for v, n in por_voz.items():
         if total and n / total > MAX_PARTICIPACAO:
             erros.append("%s tem %.0f%% das palavras (máx. %.0f%%)" % (v, 100 * n / total, 100 * MAX_PARTICIPACAO))

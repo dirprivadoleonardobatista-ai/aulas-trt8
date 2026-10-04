@@ -104,7 +104,7 @@ def conferir_e_commitar(segs):
             print("ERRO: %s não é um segmento do plano. Apague esse arquivo." % arq)
             return False
         with open(arq, encoding="utf-8") as f:
-            _, erros, resumo = validar(f.read(), seg)
+            _, erros, resumo = validar(f.read(), seg, estrito=True)
         if erros:
             print("=" * 70)
             print("CORRIJA roteiros/%s.txt antes de seguir (use Edit; não reescreva o arquivo todo):" % sid)

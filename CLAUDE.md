@@ -9,7 +9,9 @@ de `roteiros/`.
 
 1. Rode `python ferramentas/roteirista.py proximo` com os parâmetros do pedido
    (ex.: `--turno par --limite 12 --lote 2`). Ele mostra os próximos segmentos:
-   a FONTE da apostila, a META de palavras e a posição na aula.
+   a FONTE da apostila, a META de palavras e a posição na aula. Rode o comando
+   exatamente assim, SEM `| head`, `| tail`, `grep` ou `2>&1`: a fonte precisa
+   chegar inteira.
 2. Escreva cada roteiro inteiro de uma vez com a ferramenta Write em
    `roteiros/<id>.txt` — todos os segmentos mostrados, na MESMA resposta.
    Não leia outros arquivos, não abra a apostila inteira, não planeje em
@@ -41,7 +43,8 @@ FRANCISCA: fala...
 - THALITA (Thalita, concurseira): pergunta o que o aluno perguntaria, pede exemplo, resume com macetes.
 
 Alterne sempre (nunca a mesma voz duas vezes seguidas). Falas de 1 a 5 frases.
-Ninguém passa de 45% das palavras. Conversa de verdade: um responde ao outro,
+Cada voz fica entre 12% e 45% das palavras: a THALITA não só pergunta, ela
+também resume, dá macetes e arrisca respostas (às vezes erradas, e alguém corrige). Conversa de verdade: um responde ao outro,
 completa, discorda e corrige quando faz sentido. Chamar pelo nome, só de vez em quando.
 
 ## Escrever para o ouvido (a voz é sintética e lê tudo ao pé da letra)
@@ -63,7 +66,7 @@ completa, discorda e corrige quando faz sentido. Chamar pelo nome, só de vez em
 - Questões da fonte: leia o enunciado resumido, dê tempo para pensar
   ("pausa para você pensar") e comente cada alternativa.
 - Se a fonte não sustenta um detalhe, não o afirme.
-- Slides: um a cada ~330 palavras de fala, título até 80 caracteres, tópicos
+- Slides: um a cada ~330 palavras de fala (no máximo 420), título até 80 caracteres, tópicos
   até 110 caracteres. Os tópicos resumem o que as falas daquele slide explicam.
 
 ## Tamanho
