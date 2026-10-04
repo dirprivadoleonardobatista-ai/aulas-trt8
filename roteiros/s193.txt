@@ -1,0 +1,83 @@
+SEGMENTO s193
+== SLIDE: Sumaríssimo: cabimento e exclusões
+* Até 40 salários mínimos da data do ajuizamento (art. 852-A)
+* Rito obrigatório; só dissídios individuais
+* Excluída a Administração direta, autárquica e fundacional
+* Empresa pública e sociedade de economia mista podem ser rés
+* Ordinário é o rito residual
+ANTONIO: Terminamos as provas. Agora a última parte da aula: os procedimentos. São três: ordinário, sumaríssimo e sumário. Vamos começar pelo sumaríssimo, nos artigos oitocentos e cinquenta e dois, letra A, até letra I.
+THALITA: Quando se usa o sumaríssimo?
+ANTONIO: Nos dissídios individuais cujo valor não exceda quarenta vezes o salário mínimo vigente na data do ajuizamento. E o rito é obrigatório: o texto diz que ficam submetidos, não que podem ficar.
+FRANCISCA: Duas coisas para anotar. O salário mínimo considerado é o da data do ajuizamento. E o artigo fala em dissídios individuais, então não cabe em dissídio coletivo.
+BRUNO: A exclusão é o ponto de prova. O parágrafo único do artigo oitocentos e cinquenta e dois, letra A, exclui as demandas em que é parte a Administração Pública direta, autárquica e fundacional.
+THALITA: Então se a ré for empresa pública, não vale o sumaríssimo?
+BRUNO: Pegadinha, e eu vi a Thalita caindo. Empresa pública e sociedade de economia mista não estão na exclusão. A exclusão alcança só pessoas jurídicas de direito público. Elas podem ser rés no sumaríssimo.
+FRANCISCA: Um exemplo. A Carla ajuizou ação contra a Gama Empresa Pública Municipal com pedidos que somam trinta e cinco salários mínimos. O rito é o sumaríssimo. Se a ré fosse uma autarquia municipal, o rito seria o ordinário, independentemente do valor.
+THALITA: Então ordinário é o que sobra: acima de quarenta salários mínimos, ou qualquer valor com ente de direito público.
+FRANCISCA: Perfeito. O ordinário é o rito residual.
+== SLIDE: Sumaríssimo: pedido, citação e audiência
+* Pedido certo ou determinado, com valor (art. 852-B, I)
+* Sem citação por edital; autor indica endereço correto
+* Apreciação em 15 dias do ajuizamento: prazo impróprio
+* Descumprir incisos I ou II: arquivamento e custas
+* Audiência única, prova toda nela (arts. 852-C a 852-H)
+ANTONIO: Agora as regras do artigo oitocentos e cinquenta e dois, letra B. Primeiro, o pedido deve ser certo ou determinado e indicar o valor correspondente.
+THALITA: Então não pode pedir sem dizer quanto vale?
+FRANCISCA: Não pode, no sumaríssimo. Segundo, não se faz citação por edital, e cabe ao autor indicar corretamente o nome e o endereço do reclamado. Terceiro, a reclamação deve ser apreciada em no máximo quinze dias do ajuizamento, podendo constar de pauta especial.
+BRUNO: A FCC cobra a consequência. Se o reclamante não cumpre o pedido líquido ou o endereço correto, a reclamação é arquivada e ele paga custas sobre o valor da causa.
+THALITA: E se o juiz passar dos quinze dias? Anula tudo?
+BRUNO: Não. O prazo de quinze dias é impróprio, dirigido ao juízo. Não gera nulidade.
+ANTONIO: A audiência é única. Pelo artigo oitocentos e cinquenta e dois, letra H, todas as provas serão produzidas na audiência de instrução e julgamento, ainda que não requeridas previamente. Os documentos são impugnados de imediato, sem interrupção da audiência.
+FRANCISCA: Cada parte pode levar até duas testemunhas, que comparecem independentemente de intimação. Só será deferida intimação de testemunha comprovadamente convidada que faltar, e o juiz pode determinar sua condução coercitiva.
+THALITA: E perícia?
+ANTONIO: Só quando a prova do fato exigir, ou quando a lei impuser. O juiz fixa logo o prazo, o objeto e nomeia o perito. As partes se manifestam sobre o laudo em cinco dias, prazo comum.
+BRUNO: Se a audiência for interrompida, o prosseguimento e a solução do processo ocorrem em no máximo trinta dias, salvo motivo relevante justificado nos autos.
+FRANCISCA: Os outros artigos completam o quadro. A audiência é conduzida por juiz titular ou substituto. O juiz tem ampla liberdade para limitar provas excessivas ou protelatórias, valorizando as regras de experiência comum ou técnica. A conciliação é estimulada em qualquer fase. A ata registra de forma resumida os atos essenciais. Incidentes que interfiram no prosseguimento são decididos de plano, e os demais, na sentença.
+== SLIDE: Sentença e recursos no sumaríssimo
+* Sentença sem relatório, mas com fundamentação (art. 852-I)
+* Recurso ordinário: 8 dias, relator libera em 10, sem revisor
+* Acórdão é a certidão de julgamento
+* Revista: súmula do TST, súmula vinculante ou violação direta da CF
+* Súmula 442: não cabe revista por OJ, divergência ou lei federal
+ANTONIO: A sentença, no artigo oitocentos e cinquenta e dois, letra I, menciona os elementos de convicção do juízo, com resumo dos fatos relevantes da audiência, dispensado o relatório.
+THALITA: Dispensa o relatório e pronto? Não precisa fundamentar?
+FRANCISCA: Precisa. Dispensa-se o relatório, não a fundamentação. O juiz adota a decisão mais justa e equânime, atendendo aos fins sociais da lei, e as partes são intimadas ali mesmo, na audiência.
+BRUNO: Recursos. No recurso ordinário, o prazo continua de oito dias. O que muda é o processamento: distribuição imediata, relator libera em até dez dias, sem revisor, e parecer oral do Ministério Público do Trabalho na sessão, se entender necessário.
+THALITA: E o acórdão?
+BRUNO: É a própria certidão de julgamento. Se a sentença for confirmada pelos próprios fundamentos, a certidão serve de acórdão.
+ANTONIO: E o recurso de revista é o mais restrito. Pelo artigo oitocentos e noventa e seis, parágrafo nono, só cabe por contrariedade a súmula de jurisprudência uniforme do TST, por contrariedade a súmula vinculante do Supremo, ou por violação direta da Constituição Federal.
+THALITA: Três hipóteses. Então por violação de lei federal não cabe?
+FRANCISCA: Não cabe. Nem por divergência jurisprudencial, nem por contrariedade a orientação jurisprudencial. É a Súmula quatrocentos e quarenta e dois do TST.
+BRUNO: Se a questão disser que cabe revista por divergência entre Tribunais Regionais no sumaríssimo, está errada.
+== SLIDE: Sumário ou alçada
+* Até 2 salários mínimos (Lei 5.584/1970, art. 2º)
+* Valor indeterminado: juiz fixa antes da instrução
+* Impugnação nas razões finais; revisão ao Presidente do TRT em 48 horas
+* Sem recurso, salvo matéria constitucional
+* Súmulas 356 e 71 do TST
+ANTONIO: Passamos ao procedimento sumário, dos dissídios de alçada. Está no artigo segundo, parágrafos terceiro e quarto, da Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta. Aplica-se às causas de valor que não exceda dois salários mínimos.
+THALITA: E se o autor não indicar o valor?
+FRANCISCA: O juiz fixa o valor antes da instrução. A parte pode impugnar nas razões finais e, mantido o valor, pedir revisão ao Presidente do TRT em quarenta e oito horas.
+BRUNO: O mais cobrado: nas causas de alçada, salvo matéria constitucional, nenhum recurso cabe da sentença. E é dispensável o resumo dos depoimentos na ata.
+THALITA: Então só se tiver questão constitucional?
+BRUNO: Isso. E nesse caso cabe recurso extraordinário, não revista.
+ANTONIO: Duas súmulas. A trezentos e cinquenta e seis diz que o parágrafo quarto do artigo segundo foi recepcionado pela Constituição de oitenta e oito, sendo lícito fixar a alçada pelo salário mínimo.
+FRANCISCA: E a Súmula setenta e um: a alçada é fixada pelo valor dado à causa na data do ajuizamento, se não houver impugnação, e é inalterável no curso do processo.
+THALITA: Sumário, dois salários mínimos, sem recurso, só constitucional.
+== SLIDE: Quadro comparativo e revisão relâmpago
+* Ordinário: 3 testemunhas; sumaríssimo: 2; sumário: 3
+* Sumaríssimo: 40 SM, 15 dias, 5 dias para laudo, 30 dias após interrupção
+* Vedações: edital, Administração direta, relatório
+* Revista no sumaríssimo: três hipóteses
+* Ônus da prova: autor constitutivo, réu os demais
+ANTONIO: Vamos juntar tudo num comparativo. Valor da causa: ordinário acima de quarenta salários mínimos, ou qualquer valor com ente de direito público; sumaríssimo até quarenta; sumário até dois.
+FRANCISCA: Administração direta, autárquica e fundacional: no ordinário e no sumário pode, no sumaríssimo está excluída. Citação por edital: cabe no ordinário e no sumário, não cabe no sumaríssimo.
+BRUNO: Pedido: no ordinário é certo, determinado e com valor, pelo artigo oitocentos e quarenta, parágrafo primeiro. No sumaríssimo é certo ou determinado, com valor. No sumário, se for indeterminado, o juiz fixa o valor.
+THALITA: E testemunhas e perícia?
+FRANCISCA: Testemunhas: três, duas e três. Intimação da ausente: basta a ausência no ordinário e no sumário; no sumaríssimo, só se comprovadamente convidada. Perícia: conforme a necessidade, exceto no sumaríssimo, em que só se a prova exigir ou a lei impuser.
+BRUNO: Laudo: prazo do juiz no ordinário e no sumário, cinco dias comuns no sumaríssimo. Sentença: com relatório nos dois outros, sem relatório no sumaríssimo. Recurso ordinário: regular no ordinário, relator em dez dias e certidão no sumaríssimo, e incabível no sumário, salvo matéria constitucional.
+ANTONIO: A lista de números do sumaríssimo é ouro: quarenta salários mínimos, quinze dias para apreciar, duas testemunhas, cinco dias para o laudo, trinta dias após interrupção, dez dias para o relator. E três vedações: edital, Administração direta, autárquica e fundacional, e relatório na sentença.
+THALITA: Agora o resumo relâmpago da aula inteira, o que mais cai na FCC. Primeiro: revelia gera presunção relativa de veracidade dos fatos, e a ausência do reclamante leva ao arquivamento. Segundo: autor prova o fato constitutivo, réu os impeditivos, modificativos e extintivos, e a inversão do ônus exige decisão fundamentada antes da instrução. Terceiro: testemunhas, três, duas e seis. Quarto: parente até terceiro grau é informante, e litigar contra a mesma empresa não gera suspeição. Quinto: no sumaríssimo, quarenta salários mínimos, sem Administração direta, sem edital, sem relatório. Sexto: sumário, dois salários mínimos, sem recurso, salvo matéria constitucional.
+BRUNO: Está de parabéns, Thalita. Só lembre que empresa pública pode ser ré no sumaríssimo.
+THALITA: Anotado: autarquia fora, empresa pública dentro.
+ANTONIO: Fechamos a aula por aqui. Bons estudos e até a próxima!
