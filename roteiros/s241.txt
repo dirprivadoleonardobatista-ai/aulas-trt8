@@ -1,0 +1,106 @@
+SEGMENTO s241
+== SLIDE: Planejamento de segurança em três níveis
+* Estratégico: alta administração, longo prazo, política e diretrizes
+* Tático: gestores setoriais, médio prazo, planos por área
+* Operacional: execução, curto prazo, POP, escalas e postos
+* Ciclo: diagnóstico, riscos, medidas, plano, implantação, revisão
+* Modular, em fases, com proporcionalidade custo-benefício
+ANTONIO: Vimos como o tribunal protege dignitários e magistrados e como analisa riscos. Agora vamos transformar essa análise em plano de segurança, em estrutura física, em combate a incêndio e, no fim, em gerenciamento de crises.
+THALITA: Plano de segurança soa genérico. A banca cobra o quê, exatamente?
+BRUNO: Cobra os três níveis. O estratégico é da alta administração, de longo prazo, e o produto dele é a política e as diretrizes de segurança. O tático é dos gestores setoriais, de médio prazo, e gera planos por área: instalações, pessoas, informação.
+FRANCISCA: E o operacional é de quem executa, no curto prazo. O produto são os procedimentos operacionais padrão, as escalas e os postos de serviço. Ou seja, a política vira plano, e o plano vira rotina de quem está na portaria.
+THALITA: Então macete: estratégico decide a política, tático faz o plano, operacional faz o procedimento. Certo?
+ANTONIO: Certo. Agora a metodologia, que é um ciclo contínuo. Começa no diagnóstico, passa pela análise de riscos, define as medidas, monta o plano, implanta e termina na avaliação e revisão. Mas termina para recomeçar.
+BRUNO: A FCC adora a palavra ciclo. Se a alternativa disser que o planejamento termina com a implantação, está errada, porque falta a avaliação e a revisão.
+FRANCISCA: Duas características importantes. Modularidade: o plano se divide em módulos autônomos e integrados, como controle de acesso, circuito de câmeras, brigada e transporte. Cada módulo pode ser revisto sozinho, sem derrubar o plano inteiro.
+THALITA: E faseamento é implantar por etapas?
+FRANCISCA: Isso. Primeiro o que tem maior risco, conforme o orçamento permite.
+ANTONIO: Os princípios são objetividade, flexibilidade, continuidade, integração, proporcionalidade entre custo e benefício, e sigilo. Não faz sentido gastar mais para proteger um bem do que ele vale.
+THALITA: Eu chuto que sigilo é o que mais cai, porque o plano não pode vazar.
+BRUNO: Todos podem cair, Thalita. Mas a proporcionalidade custo-benefício é a que a banca usa para montar a pegadinha do plano perfeito, sem olhar o orçamento.
+== SLIDE: Segurança física em camadas
+* Defesa em profundidade: perímetro, área, edificação, setor, ativo crítico
+* Barreiras naturais e físicas: muros, grades, portões, blindagens
+* Controle de acesso de pessoas, veículos e materiais
+* Iluminação: contínua, de emergência, de reserva e portátil
+* Dissuadir, detectar, retardar, responder
+ANTONIO: Passando para a segurança física. A ideia central é a defesa em profundidade: várias camadas, uma dentro da outra. Perímetro externo, depois a área, a edificação, o setor e, no centro, o ativo crítico.
+THALITA: Tipo cebola?
+ANTONIO: Exatamente. Cada camada retarda o invasor e dá tempo para a resposta. E o objetivo geral é dissuadir, detectar, retardar e responder.
+FRANCISCA: As barreiras podem ser naturais, como rios e relevo, ou físicas, como muros, grades, portões, cancelas e blindagens. Em fórum, o que mais vemos são as físicas.
+BRUNO: Controle de acesso vale para pessoas, veículos e materiais. Entram aí a identificação, a credencial, o pórtico detector de metais, o raio X, a catraca e o registro de entrada, em livro ou em sistema.
+THALITA: Se a questão falar só de pessoas, está incompleta?
+BRUNO: Pode estar. Se a alternativa disser que o controle de acesso se restringe às pessoas, desconfie.
+FRANCISCA: Sobre iluminação, são quatro tipos: contínua, de emergência, de reserva e portátil. Ela ilumina o perímetro e ofusca o invasor, nunca o vigilante.
+THALITA: Então a luz fica apontada para fora, e o vigilante enxerga no escuro relativo. Boa.
+ANTONIO: Guarde a lógica: iluminação boa deixa o invasor exposto e o vigilante protegido.
+== SLIDE: Sensores, alarmes e biometria
+* IVP: detecta calor de corpo em movimento, não emite energia
+* Micro-ondas: ativo, efeito Doppler, mais falso alarme
+* Dupla tecnologia: dispara só com os dois sensores
+* Magnético, vibração, quebra de vidro e cerca perimetral
+* Biometria: FAR é o erro grave, FRR é o erro de conveniência
+BRUNO: Vamos aos sensores. O infravermelho passivo, IVP, detecta a variação de calor de um corpo em movimento. É passivo porque não emite energia nenhuma.
+THALITA: E o de micro-ondas é o contrário?
+FRANCISCA: Isso, é ativo. Emite ondas e capta a alteração delas, pelo efeito Doppler. Como as ondas atravessam materiais finos, ele gera mais falsos alarmes.
+BRUNO: A solução é a dupla tecnologia, que junta os dois e só dispara quando ambos detectam. Reduz falso alarme. Pegadinha clássica: dizer que dispara com qualquer um dos dois.
+THALITA: Dispara só com os dois. Anotado.
+ANTONIO: Ainda temos o magnético, que usa ímã e contato em porta e janela e detecta abertura. O de vibração, ou sísmico, capta impacto em parede, cofre ou vidro, e indica arrombamento. O de quebra de vidro reconhece a frequência sonora do vidro partido. E a cerca perimetral, com cabo sensor, cerca eletrificada ou barreira de feixe, é a primeira camada.
+FRANCISCA: O alarme tem central, que processa os sinais, zonas e monitoramento remoto vinte e quatro horas com resposta. A zona setoriza e indica o local do disparo. A zona de pânico funciona o dia inteiro.
+THALITA: Agora biometria. Digital, facial, íris e voz?
+BRUNO: A digital é barata e difundida, mas sofre com dedo sujo ou desgastado. A facial não tem contato, mas é sensível a luz e ângulo. A íris tem alta precisão e custo maior. A voz funciona à distância, mas sofre com ruído e gravação.
+ANTONIO: E o ponto mais cobrado: FAR e FRR. A FAR é a taxa de falsa aceitação: o impostor entra. É o erro mais grave para a segurança. A FRR é a falsa rejeição: o usuário legítimo é barrado, erro de conveniência.
+THALITA: Se eu deixo o sistema mais rigoroso, a FAR cai e a FRR sobe, certo?
+BRUNO: Certo. E o ponto de equilíbrio entre as duas é a taxa de erro igual.
+== SLIDE: CFTV, inteligência artificial e LGPD
+* Câmera fixa e PTZ, analógica com DVR, IP com NVR
+* Analíticos: cerca virtual, objeto abandonado, LPR, reconhecimento facial
+* Dado biométrico é dado pessoal sensível
+* Finalidade, necessidade, transparência e segurança
+* Exclusão da LGPD só para segurança pública e persecução penal
+FRANCISCA: No circuito de câmeras, a fixa tem campo de visão único. A PTZ se move na horizontal e na vertical e dá zoom, tudo por controle remoto.
+ANTONIO: Quanto ao sistema, a analógica usa cabo coaxial e grava em DVR. A IP é digital, trafega em rede, pode ser alimentada pelo próprio cabo de rede, o PoE, e grava em NVR.
+THALITA: Macete: D de analógica com D de DVR, N de rede, de network, com NVR?
+BRUNO: Funciona. E tem os analíticos com inteligência artificial: cerca virtual, objeto abandonado ou removido, contagem de pessoas, leitura de placas, a LPR, e reconhecimento facial.
+FRANCISCA: Aqui entra a LGPD. Dado biométrico é dado pessoal sensível, artigo quinto, inciso dois. Se o tribunal usa biometria para controle de acesso, precisa de finalidade definida, necessidade, transparência e segurança, e, conforme o risco, de relatório de impacto.
+THALITA: Mas segurança não está fora da LGPD?
+FRANCISCA: Só em parte. A exclusão do artigo quarto, inciso três, alcança apenas o tratamento para fins exclusivos de segurança pública, defesa e persecução penal. Controle de acesso do prédio do tribunal não é isso.
+BRUNO: E a banca explora exatamente aí: afirma que qualquer tratamento por órgão de segurança está fora da lei. Errado.
+ANTONIO: Agora vamos ao fogo, que é o próximo assunto.
+== SLIDE: Fogo, classes de incêndio e métodos de extinção
+* Tetraedro: combustível, comburente, calor, reação em cadeia
+* Classe A: sólidos com brasa; água, espuma, pó ABC
+* Classe B: líquidos e gases; sem jato d'água
+* Classe C: energizados; gás carbônico e pó, sem água
+* Classes D e K; NR-23 enxugada em 2022
+FRANCISCA: O fogo é um tetraedro: combustível, comburente, calor e reação em cadeia. Extinguir é retirar um desses elementos. E o agente certo depende da classe.
+THALITA: Quais são as classes?
+FRANCISCA: A, B, C, D e K. A é sólido que queima em superfície e profundidade e deixa brasa, como papel, madeira e tecido. Serve água, espuma e pó ABC.
+BRUNO: B são líquidos e gases inflamáveis, que queimam só na superfície. Serve espuma, pó e gás carbônico. Proibido jato d'água.
+ANTONIO: C é equipamento energizado. Usa gás carbônico ou pó químico. Água e espuma conduzem eletricidade, então ficam proibidas.
+THALITA: E se eu desligar a energia?
+FRANCISCA: Boa pergunta. Desligada a energia, o fogo deixa de ser classe C e passa a ser tratado conforme o material que queima, em geral classe A.
+BRUNO: D são metais pirofóricos, como magnésio, titânio e sódio. Pó especial classe D, e água proibida. K são óleos e gorduras de cozinha, com agente saponificante.
+THALITA: Água só na A, então, e proibida nas outras?
+BRUNO: Quase. Na B e na C é proibida, e na D e na K também. Guarde: água é para sólido comum.
+ANTONIO: Os métodos de extinção: resfriamento retira calor, com água. Abafamento retira o oxigênio, com espuma, gás carbônico ou cobertor. Isolamento retira o combustível. Extinção química quebra a reação em cadeia, com pó.
+FRANCISCA: A propagação do calor é por condução, por contato em sólidos, por convecção, com massas de ar e gases quentes que sobem andares, e por irradiação, com ondas de calor à distância. A brigada de incêndio é o grupo treinado para prevenção, primeiro combate, abandono de área e primeiros socorros.
+BRUNO: Sobre a NR-23, de dois mil e vinte e dois: o empregador adota medidas conforme a legislação estadual e as normas técnicas, informa os trabalhadores, mantém saídas sinalizadas e desobstruídas, e portas que não impeçam a saída durante a jornada. Mas o detalhe de extintores por classe saiu dela e está nas normas técnicas e nos Bombeiros.
+== SLIDE: Gerenciamento de crises
+* Objetivos: preservar vidas e depois aplicar a lei
+* Critérios: necessidade, validade do risco, aceitabilidade
+* Gerente decide; negociador não decide concessões
+* Posto de comando fica entre os perímetros
+* Fases: pré-confronto, resposta imediata, plano específico, resolução
+FRANCISCA: Gerenciamento de crises. Crise é um evento crucial que exige resposta especial para uma solução aceitável. Os objetivos têm ordem: primeiro preservar vidas, depois aplicar a lei.
+THALITA: Se a banca inverter a ordem, a questão está errada?
+BRUNO: Está. E toda ação passa por três critérios: necessidade, se a ação é indispensável agora; validade do risco, se o risco compensa a redução da ameaça; e aceitabilidade, se é aceitável legal, moral e eticamente.
+FRANCISCA: Os papéis são quatro. O gerente da crise decide e coordena todos os grupos. O negociador dialoga com o causador, mas não decide concessões. O grupo tático prepara as alternativas, inclusive atiradores de precisão. E o posto de comando é o centro de decisão.
+BRUNO: Pegadinha: o posto de comando fica entre os perímetros, fora da linha de tiro. Nunca dentro do interno. O interno envolve o ponto crítico, a chamada zona estéril. O externo isola a área para curiosos e imprensa e abriga o comando e o apoio.
+THALITA: Então negociador e gerente são pessoas diferentes, para o negociador não ser pressionado.
+ANTONIO: Perfeito. Agora as fases. Pré-confronto é a preparação. Na resposta imediata, você conta com três ações: conter, isolar e negociar. Conter é impedir que a crise se expanda. Isolar é cortar o contato do causador com o exterior, inclusive telefones.
+FRANCISCA: Depois vem o plano específico, com os dados coletados, e a resolução, que é a execução, seguida de relatório e desmobilização.
+THALITA: E o grau de risco? Eu lembro que quatro é o pior.
+BRUNO: Isso. Um é alto risco, recursos locais. Dois é altíssimo, recursos locais especializados. Três é ameaça extraordinária, com reforço de outras unidades. Quatro é ameaça exótica, química, biológica ou nuclear, com recursos externos, inclusive federais.
+FRANCISCA: As alternativas táticas vão em escalada. Negociação é a preferencial. Depois, técnicas não letais. Depois, tiro de comprometimento, só com risco iminente e autorização do comando. Por último, invasão tática, de maior risco aos reféns.
+BRUNO: E na negociação, concessão só em troca de contrapartida. Pode dar alimentos, água, remédio, atendimento médico. Armas, munição, explosivos, drogas, bebida e troca de reféns são inegociáveis. Agora vamos para a inteligência, a segurança da informação e o cerimonial, e depois treinar com questões.
