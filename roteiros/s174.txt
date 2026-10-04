@@ -1,0 +1,58 @@
+SEGMENTO s174
+== SLIDE: Questões 7 e 8: Tema 1046 e condutas na greve
+* Tema 1046: norma coletiva pode limitar direitos, salvo os absolutamente indisponíveis
+* Não precisa explicitar contrapartidas nem ser homologada pela Justiça do Trabalho
+* Greve regular: dispensa de grevistas (art. 7º, parágrafo único) e lockout (art. 17) são vedados
+* Sem acordo sobre equipes de manutenção, o empregador contrata diretamente (art. 9º, parágrafo único)
+ANTONIO: Voltamos às questões, agora da sete à doze. Mesmo ritmo: leiam, pausem e só depois ouçam o comentário. A sete pergunta sobre o Tema mil e quarenta e seis da repercussão geral. Segundo o Supremo, acordos e convenções coletivos que limitem ou afastem direitos trabalhistas são o quê?
+THALITA: Pausa para você pensar. Minha aposta é a B: constitucionais sempre, até quando suprimirem direito da Constituição, porque vale a autonomia coletiva.
+BRUNO: Cuidado com o sempre. A B está errada, porque o limite são os direitos absolutamente indisponíveis. A A diz que seriam inconstitucionais, salvo indicação expressa de vantagens compensatórias. Também errada: a tese dispensa a explicitação das contrapartidas.
+FRANCISCA: A correta é a C: constitucionais, independentemente de explicitar vantagens compensatórias, desde que respeitados os direitos absolutamente indisponíveis. A D exige homologação da Justiça do Trabalho, o que não existe. E a E diz que só vale depois da Lei treze mil quatrocentos e sessenta e sete, mas o caso paradigma tratava de horas de percurso, em norma anterior à Reforma. Gabarito: C.
+THALITA: Então o macete é: vale a negociação, sem contrapartida escrita, mas não passa do piso indisponível.
+ANTONIO: Isso. Questão oito, sobre greve regularmente deflagrada na Zeta Metalúrgica. Três condutas da empresa. Primeira: dispensar dez grevistas sem justa causa para pressionar o fim do movimento. Segunda: contratar diretamente trabalhadores para manter equipes que evitem a deterioração irreversível das máquinas, diante da recusa do sindicato em acordar essas equipes. Terceira: paralisar a empresa antes da greve para frustrar a negociação. Pela Lei sete mil setecentos e oitenta e três, o que é lícito?
+BRUNO: Pausa para pensar. Item um: a rescisão durante a greve é vedada, artigo sétimo, parágrafo único. Ilícito.
+FRANCISCA: Item três descreve o lockout, a paralisação pelo empregador, vedada pelo artigo dezessete. Ilícito também.
+THALITA: E o item dois é o lícito? Contratar mesmo contra a vontade do sindicato?
+FRANCISCA: Sim, porque, sem acordo sobre as equipes de manutenção, o empregador pode contratar diretamente os serviços, artigo nono, parágrafo único. Só o item dois é lícito: alternativa E.
+BRUNO: E repare como os itens um e três derrubam as alternativas A, B, C e D de uma vez. Achou o item ilícito, eliminou quase tudo.
+== SLIDE: Questões 9 e 10: Súmulas Vinculantes e sistema sindical
+* SV 23: possessória decorrente de greve na iniciativa privada é da Justiça do Trabalho
+* SV 22: acidente contra o empregador; contra o INSS, Justiça Estadual; SV 40 e SV 53
+* Greve de servidor estatutário: Justiça comum (Tema 544)
+* Federação: 5 sindicatos; confederação: 3 federações, sede na Capital da República (arts. 534 e 535)
+* Centrais ficam fora do sistema confederativo e não celebram normas coletivas
+ANTONIO: Questão nove. De acordo com as Súmulas Vinculantes, compete à Justiça do Trabalho julgar o quê? A: indenização por acidente de trabalho contra o INSS. B: ação possessória decorrente do exercício do direito de greve na iniciativa privada. C: cobrança de contribuição confederativa de não filiado. D: execução de ofício de contribuições previdenciárias em vínculo apenas declarado, sem condenação em pecúnia. E: abusividade de greve de servidores estatutários de autarquia federal.
+THALITA: Pausa para pensar. Eu iria na A, porque acidente de trabalho é com a gente.
+FRANCISCA: Boa tentativa, mas a Súmula Vinculante vinte e dois trata da ação do empregado contra o empregador. A ação acidentária contra o INSS é da Justiça Estadual.
+BRUNO: A correta é a B: Súmula Vinculante vinte e três. Na C, a Súmula Vinculante quarenta diz que a confederativa só é exigível dos filiados. Na D, a Súmula Vinculante cinquenta e três limita a execução às contribuições sobre as parcelas da condenação ou do acordo.
+ANTONIO: E na E, a greve de servidores da administração direta, autárquica e fundacional é da Justiça comum, conforme o Tema quinhentos e quarenta e quatro.
+THALITA: Macete: possessória de greve privada é nossa; servidor estatutário é Justiça comum.
+FRANCISCA: Questão dez, sobre o sistema sindical, pela CLT e pela Lei onze mil seiscentos e quarenta e oito, de dois mil e oito. A: federações com três sindicatos e confederações com cinco federações. B: confederações com sede em qualquer capital. C: centrais fazem parte do sistema confederativo e celebram convenções. D: federações com cinco sindicatos e confederações com três federações, sede na Capital da República. E: categoria diferenciada exige vantagens de convenção da qual a empresa não participou.
+BRUNO: Pausa. A letra A inverte os números: são cinco sindicatos para a federação e três federações para a confederação, artigos quinhentos e trinta e quatro e quinhentos e trinta e cinco. A B erra o local: a sede é na Capital da República.
+THALITA: E a C? Eu achava que central sindical podia assinar convenção.
+ANTONIO: Pegadinha. As centrais ficam fora do sistema confederativo e não celebram normas coletivas. A E contraria a Súmula trezentos e setenta e quatro do TST, que já vimos. Gabarito: D.
+THALITA: Cinco sindicatos, três federações, Capital da República. Anotado.
+== SLIDE: Questão 11: ultratividade da norma coletiva
+* Convenção vencida: cláusulas deixam de vigorar, sem ultratividade (art. 614, § 3º; ADPF 323)
+* Súmula 277 do TST declarada inconstitucional na ADPF 323
+* Cláusula normativa não se incorpora definitivamente ao contrato
+* Prazo máximo de dois anos; sem prorrogação automática (art. 615)
+* Gabarito: A
+BRUNO: Questão onze. A convenção dos bancários teve vigência de primeiro de setembro de dois mil e vinte e três a trinta e um de agosto de dois mil e vinte e cinco, e nenhuma norma nova foi celebrada. Ana quer continuar recebendo o auxílio-creche, previsto só na convenção. À luz da CLT e do STF, o que vale?
+THALITA: Pausa para pensar. Eu diria que o auxílio permanece, porque a Súmula duzentos e setenta e sete diz que as cláusulas ficam valendo até nova norma.
+ANTONIO: Era assim, mas a Súmula duzentos e setenta e sete foi declarada inconstitucional pelo Supremo na ADPF trezentos e vinte e três. Então a B está errada. A correta é a A: as cláusulas deixam de vigorar com o fim do prazo, porque é vedada a ultratividade, artigo seiscentos e catorze, parágrafo terceiro.
+FRANCISCA: A C diz que as cláusulas se incorporam definitivamente ao contrato de Ana. Errada: não há incorporação definitiva das cláusulas normativas. A D fala que a convenção seria nula por ter vigência máxima de um ano. Errada: o máximo é de dois anos, e o prazo foi respeitado.
+BRUNO: E a E afirma que a convenção se prorroga automaticamente por mais dois anos, se não houver denúncia. Não existe prorrogação automática: depende de nova deliberação, artigo seiscentos e quinze.
+THALITA: Então o macete é: acabou o prazo, acabou a cláusula. Gabarito A.
+== SLIDE: Questão 12 e revisão relâmpago da aula
+* Terceirização, inclusive de atividade-fim, é lícita (Tema 725; ADPF 324)
+* Ente público: responsabilidade subsidiária só com culpa comprovada pelo autor (Temas 246 e 1118)
+* Inversão do ônus da prova não basta para responsabilizar a Administração
+* Gabarito: E
+FRANCISCA: Última questão. Bruno, vigilante da Ômega Serviços, prestava serviços em órgão da administração federal. Dispensado, não recebeu as verbas rescisórias. Pela jurisprudência vinculante do Supremo, a União responde como? A: solidariamente, porque terceirizar atividade-fim é ilícito. B: subsidiariamente, de forma automática, pelo simples inadimplemento. C: subsidiariamente, cabendo à União provar a fiscalização, pela inversão do ônus da prova. D: nunca. E: subsidiariamente, apenas se o autor comprovar a conduta negligente na fiscalização e o nexo com o dano.
+THALITA: Pausa para pensar. Eu iria na C: se a União fiscaliza, que prove.
+BRUNO: É a armadilha do Tema mil cento e dezoito: não se admite responsabilização baseada apenas na inversão do ônus da prova. A B também erra, porque o Tema duzentos e quarenta e seis veda a transferência automática.
+ANTONIO: A A erra duas vezes: a terceirização, inclusive de atividade-fim, é lícita, Tema setecentos e vinte e cinco e ADPF trezentos e vinte e quatro, e a responsabilidade não é solidária. A D erra porque a responsabilidade é possível quando comprovada a culpa. Gabarito: E, síntese dos Temas duzentos e quarenta e seis e mil cento e dezoito.
+FRANCISCA: Quem prova a falha na fiscalização é o autor. Sem prova de culpa, a Administração não responde.
+THALITA: Hora do resumo relâmpago do que mais cai na FCC. Primeiro: sindicato sem autorização do Estado, unicidade em qualquer grau, sindicato obrigatório na negociação. Segundo: acordo coletivo prevalece sobre convenção, e o adicional de hora extra não cai abaixo de cinquenta por cento. Terceiro: negociação vale, mas não ultrapassa direito absolutamente indisponível, e a ultratividade acabou. Quarto: greve essencial pede aviso de setenta e duas horas, e dispensa de grevista e lockout são proibidos. Quinto: Reforma só vale a partir de onze de novembro de dois mil e dezessete, e cuidado com súmula superada. Sexto: Administração só responde na terceirização com culpa comprovada.
+ANTONIO: Era isso, pessoal: revisem os quadros, refaçam as questões e nos vemos na próxima aula. Bons estudos!
