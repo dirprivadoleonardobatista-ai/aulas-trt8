@@ -1,0 +1,50 @@
+SEGMENTO s035
+== SLIDE: Programa de Equidade: objetivos e conceitos
+* Equidade de raça, gênero, etnia, orientação sexual, identidade de gênero, idade e deficiência
+* Público: magistrados, servidores, terceirizados, estagiários, aprendizes e usuários
+* Equidade: ações universais e ações afirmativas
+* Raça: fenótipo; etnia: costumes e afinidades linguísticas
+* Gênero: construção social; sexo: características biológicas
+ANTONIO: Olá, pessoal, bem-vindos à aula onze, da disciplina de Noções de Legislação: ética, sustentabilidade, assédio e equidade. Esta é a segunda parte da disciplina. Hoje estudamos o Programa de Equidade de Raça, Gênero e Diversidade, da Resolução trezentos e sessenta e oito do CSJT, de dois mil e vinte e três, e depois resolvemos questões no estilo da FCC. Eu sou o Antônio.
+FRANCISCA: Eu sou a Francisca, e trago a norma em paráfrase.
+BRUNO: Eu sou o Bruno, e mostro como a banca cobra.
+THALITA: E eu sou a Thalita, a concurseira da turma. Vou perguntar tudo!
+ANTONIO: O Programa busca a equidade de raça, gênero, etnia, orientação sexual, identidade de gênero, idade e de pessoas com deficiência. Destina-se a magistrados, servidores, terceirizados, estagiários, aprendizes e, no que couber, aos usuários da Justiça do Trabalho.
+THALITA: Equidade é a mesma coisa que igualdade?
+FRANCISCA: Não exatamente. Pelo artigo segundo, equidade é garantir direitos por ações universais e também por ações afirmativas, voltadas a grupos historicamente oprimidos.
+BRUNO: Os conceitos do artigo segundo caem muito. Raça é a hierarquia social baseada no fenótipo. Etnia envolve costumes e afinidades linguísticas que criam pertencimento. A banca troca uma pela outra.
+THALITA: Fenótipo é raça; costume e língua é etnia. E gênero e sexo?
+ANTONIO: Gênero são características socialmente construídas. Sexo são características biológicas.
+FRANCISCA: A identidade de gênero pode ser cisgênero, transgênero, independentemente de cirurgia, e não binária. O etarismo é a discriminação por idade, geralmente dos mais novos em relação aos mais velhos. E a interseccionalidade é a interação de dois ou mais sistemas de subordinação, como racismo, sexismo, capacitismo, etarismo e classe.
+BRUNO: Alerta: transgênero não exige cirurgia. É pegadinha frequente.
+THALITA: Gênero é construído; sexo é biológico. Anotado.
+== SLIDE: Princípios e ações do Programa
+* Seis princípios (art. 3º)
+* Dignidade; igualdade e não discriminação; ambiente sadio e seguro
+* Primazia da abordagem preventiva e socioeducativa
+* Cultura de paz; laicidade do Estado
+* Equidade de gênero em comitês e grupos de trabalho (art. 5º)
+ANTONIO: São seis os princípios, no artigo terceiro. Dignidade; igualdade e não discriminação; ambiente sadio e seguro; primazia da abordagem preventiva e socioeducativa; cultura de paz; e laicidade do Estado.
+THALITA: Seis princípios. Dá para fazer uma frase: dignidade, igualdade, ambiente, prevenção, paz e laicidade.
+FRANCISCA: Boa! E entre as ações do artigo quinto, destaca-se a equidade de gênero na composição de comitês e grupos de trabalho, ressalvados os colegiados eletivos ou regimentais.
+BRUNO: A banca pergunta o que é prioridade: é a abordagem preventiva e socioeducativa, não a punitiva. Se a alternativa disser que o Programa prioriza a punição, está errada.
+THALITA: E laicidade é o quê? Religião?
+ANTONIO: É a laicidade do Estado: o Estado não adota nem favorece religião. Entra como princípio do Programa.
+FRANCISCA: A gestão cabe ao Comitê Gestor Nacional, criado no CSJT pelo artigo sexto, e aos Comitês Gestores Regionais, nos Tribunais Regionais do Trabalho. O Nacional é presidido pelo Ministro Presidente do CSJT, com Ministro Coordenador e Vice-Coordenador. Tem ainda cinco magistrados, um por região, preferencialmente com deficiência, negro, LGBTQIAP, mulher e com mais de sessenta anos, e dois servidores do TST ou do CSJT.
+BRUNO: O mandato do Nacional permite recondução por um mandato consecutivo ou três alternados. As reuniões são trimestrais, e não podem participar os punidos por ato de discriminação.
+== SLIDE: Comitê Regional e o macete dos números
+* Criado em cada TRT em até 90 dias (art. 8º)
+* Coordenação conjunta: um indicado e um eleito; mandato de 2 anos
+* Mínimo de 8 membros: 2 magistrados, 5 servidores eleitos, 1 indicado
+* Reuniões trimestrais; relatório até 31 de janeiro
+* Horas na jornada (art. 14); omissos: Presidência do CSJT (art. 15)
+ANTONIO: Vamos ao Comitê Gestor Regional. Ele é criado em cada Tribunal em até noventa dias, artigo oitavo. A coordenação é conjunta: um magistrado indicado pela Presidência e um magistrado eleito.
+THALITA: E quantos membros?
+FRANCISCA: No mínimo oito: dois magistrados, cinco servidores eleitos, com deficiência, negro, mulher, LGBTQIAP e com mais de sessenta anos, e um servidor indicado pela Diretoria-Geral, preferencialmente da área de sustentabilidade.
+BRUNO: O mandato é de dois anos, com a mesma regra de recondução, e a eleição é em votação secreta, conduzida pela Presidência. As reuniões são trimestrais e documentadas. Quem foi punido por discriminação fica impedido.
+THALITA: Tem os meses temáticos, não tem?
+ANTONIO: Tem. Março, gênero; junho, população LGBTQIAP; setembro, pessoas com deficiência; novembro, raça e etnia. O relatório ao Comitê Nacional vai até trinta e um de janeiro.
+FRANCISCA: Já o Nacional faz metas bianuais, reuniões com os gestores regionais ao menos semestrais e relatório anual à Presidência do CSJT. As horas dedicadas ao Comitê integram a jornada, artigo catorze, e os casos omissos são resolvidos pela Presidência do CSJT, artigo quinze.
+BRUNO: Macete: noventa, dois, três, trinta e um. Noventa dias para criar, mandato de dois anos, reuniões a cada três meses e relatório até trinta e um de janeiro. Não confunda com os quarenta e cinco dias das comissões de assédio.
+THALITA: Noventa, dois, três, trinta e um. Vou gravar.
+ANTONIO: Muito bem. No próximo tema, as questões comentadas, estilo FCC, para treinar tudo isso.
