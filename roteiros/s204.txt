@@ -1,0 +1,38 @@
+SEGMENTO s204
+== SLIDE: Praça, arrematação e preço vil
+* Avaliação em 10 dias; edital com 20 dias de antecedência (art. 888)
+* Maior lance; sinal de 20%; saldo em 24 horas
+* Inadimplemento: perde o sinal em benefício da execução
+* Preço vil: abaixo do mínimo ou de 50% da avaliação
+ANTONIO: Vimos a defesa do executado e de terceiros. Agora, se a penhora segue em frente, o bem vai ser vendido: é a expropriação. Pelo artigo oitocentos e oitenta e oito, concluída a avaliação, em dez dias da nomeação do avaliador, segue-se a arrematação, anunciada por edital com vinte dias de antecedência.
+THALITA: Vinte dias? No CPC não é menos?
+BRUNO: No CPC o mínimo é cinco dias. Na CLT, vinte. A banca troca esses números. Guarde: avaliação, dez dias; edital, vinte.
+FRANCISCA: A arrematação ocorre em dia, hora e lugar anunciados, e o bem é vendido pelo maior lance. O arrematante garante o lance com sinal de vinte por cento e tem vinte e quatro horas para pagar o saldo. Se não pagar, perde o sinal em benefício da execução, e o bem volta à praça.
+THALITA: Eu chuto vinte e cinco por cento, quarenta e oito horas.
+BRUNO: Errou duas vezes. Vinte e cinco por cento é a entrada do parcelamento do artigo oitocentos e noventa e cinco do CPC, e o saldo é em vinte e quatro horas, não quarenta e oito.
+FRANCISCA: O preço vil é o lance abaixo do mínimo do edital ou, se não houver mínimo, abaixo de cinquenta por cento da avaliação, conforme o artigo oitocentos e noventa e um do CPC. Exemplo: imóvel avaliado em duzentos mil reais, edital sem mínimo. Lance de noventa mil é vil. Lance de cento e vinte mil é aceito: o arrematante deposita vinte e quatro mil de sinal e tem vinte e quatro horas para pagar os noventa e seis mil restantes.
+ANTONIO: Não havendo licitante e não requerendo o exequente a adjudicação, o bem pode ser vendido por leiloeiro nomeado pelo juiz. Assinado o auto pelo juiz, arrematante e leiloeiro, a arrematação é perfeita, acabada e irretratável.
+== SLIDE: Adjudicação, alienação particular e remição
+* Arrematação: terceiro, hasta pública, maior lance
+* Adjudicação: preferência do exequente (art. 888, §1º)
+* Alienação por iniciativa particular (art. 880 do CPC)
+* Remição só pelo valor total da condenação (art. 13 da Lei 5.584)
+THALITA: Sobram três palavras que eu confundo: adjudicação, alienação e remição.
+FRANCISCA: Vamos separar. Arrematação é a aquisição por terceiro em hasta pública, presencial ou eletrônica, pelo maior lance. Adjudicação é a preferência do exequente, parágrafo primeiro do artigo oitocentos e oitenta e oito: ele fica com o bem. A alienação por iniciativa particular é feita pelo exequente, por si, por corretor ou por leiloeiro credenciado, artigo oitocentos e oitenta do CPC.
+BRUNO: Sobre o valor da adjudicação, prevalece que, havendo licitantes, o exequente adjudica pelo maior lance e, sem eles, pela avaliação, artigo oitocentos e setenta e seis do CPC. A apostila manda conferir, então não marque questão literal sem checar.
+ANTONIO: Remição da execução é outro instituto: o executado paga toda a dívida antes de adjudicados ou alienados os bens. E o artigo treze da Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, diz que, em qualquer hipótese, a remição só é deferível se o executado oferecer preço igual ao valor da condenação.
+THALITA: Então não basta igualar o maior lance?
+FRANCISCA: Não basta. Na Justiça do Trabalho é preciso pagar toda a condenação. Aquela remição de bens por cônjuge e parentes virou, no CPC de dois mil e quinze, direito de adjudicação dessas pessoas, no artigo oitocentos e setenta e seis, parágrafo quinto.
+BRUNO: Macete: adjudica quem quer o bem, remite quem paga tudo.
+== SLIDE: Custas na execução e quadro de prazos
+* Custas do art. 789-A: do executado, pagas ao final
+* Embargos, agravo de petição, de terceiro: R$ 44,26 cada
+* Prazos: 48 horas, 5 dias, 8 dias, 10 dias, 20 dias, 24 horas
+* Prescrição intercorrente: 2 anos
+ANTONIO: Fechando o segmento: custas e prazos. As custas da execução seguem a tabela fixa do artigo setecentos e oitenta e nove, letra A, sempre de responsabilidade do executado e pagas ao final.
+BRUNO: Os valores: autos de arrematação, adjudicação e remição, cinco por cento do valor, até mil novecentos e quinze reais e trinta e oito centavos. Diligência do oficial de justiça, onze reais e seis centavos na zona urbana e vinte e dois reais e treze centavos na rural. Agravo de instrumento, agravo de petição e embargos à execução, de terceiro e à arrematação, quarenta e quatro reais e vinte e seis centavos cada. Recurso de revista e impugnação à sentença de liquidação, cinquenta e cinco reais e trinta e cinco centavos cada. Armazenagem, um décimo por cento da avaliação por dia. Cálculos do contador, meio por cento do valor liquidado, até seiscentos e trinta e oito reais e quarenta e seis centavos.
+THALITA: Muito número. Vamos ao quadro de prazos?
+BRUNO: Vamos. Impugnação aos cálculos, oito dias comuns. Pagar ou garantir, quarenta e oito horas. Edital de citação, depois de duas procuras em quarenta e oito horas, por cinco dias. Protesto, SERASAJUD e BNDT, quarenta e cinco dias da citação, sem garantia. Embargos à execução, cinco dias, e trinta para a Fazenda.
+ANTONIO: Avaliação, dez dias. Edital de praça, vinte dias de antecedência. Saldo da arrematação, vinte e quatro horas. Embargos de terceiro, até cinco dias após o ato expropriatório e antes da carta. Agravo de petição, oito dias. Prescrição intercorrente, dois anos.
+THALITA: Resumindo: quarenta e oito horas, cinco dias, oito dias, dez, vinte e vinte e quatro horas. Cada número num ato.
+FRANCISCA: Agora vamos praticar tudo isso com as questões comentadas, estilo FCC, na próxima parte.
