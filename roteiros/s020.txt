@@ -1,0 +1,30 @@
+SEGMENTO s020
+== SLIDE: Questões doze a quatorze: sucessivas, inversa e média
+* Variações sucessivas se multiplicam: um vírgula vinte e cinco, zero vírgula oito, um vírgula um
+* Divisão inversa: pesos seis, quatro e três
+* Média de grupos: trabalhe com a soma
+* Média das médias é erro de alternativa
+ANTONIO: Vamos para a segunda parte das questões comentadas de Matemática, continuando com porcentagem, divisão proporcional e média.
+THALITA: Já tô com a calculadora mental ligada.
+BRUNO: Questão doze, técnico judiciário. O preço de um equipamento sofreu aumento de vinte e cinco por cento em janeiro, desconto de vinte por cento em fevereiro e novo aumento de dez por cento em março. Em relação ao preço antes de janeiro, o preço após março é: quinze por cento maior, cinco por cento maior, igual, dez por cento maior ou quatro vírgula cinco por cento maior? Pausa para você pensar.
+FRANCISCA: Gabarito, dez por cento maior, a quarta. O fator total é um vírgula vinte e cinco, vezes zero vírgula oitenta, vezes um vírgula dez. Um vírgula vinte e cinco vezes zero vírgula oito dá um, e um vezes um vírgula dez dá um vírgula dez. Exemplo com cem reais: cento e vinte e cinco, depois cem, depois cento e dez.
+BRUNO: As erradas: quinze por cento somou as taxas, vinte e cinco menos vinte mais dez. Cinco por cento somou vinte e cinco menos vinte e esqueceu março. Igual calculou certo até fevereiro, mas esqueceu o aumento de março. E quatro vírgula cinco por cento achou que vinte e cinco e menos vinte dá perda de cinco, zero vírgula noventa e cinco, e aplicou março.
+THALITA: Variações sucessivas, multiplica. Anotado.
+ANTONIO: Questão treze. Gratificação de três mil e novecentos reais dividida entre três servidores em partes inversamente proporcionais às faltas: duas, três e quatro faltas. Quem teve duas faltas receberá: oitocentos e sessenta e seis vírgula sessenta e sete, novecentos, mil e duzentos, mil e trezentos ou mil e oitocentos reais? Pausa para você pensar.
+FRANCISCA: Mil e oitocentos, a quinta. Os pesos inversos são um meio, um terço e um quarto. Multiplicando por doze, seis, quatro e três, soma treze. A constante é três mil e novecentos sobre treze, trezentos. Partes: seis vezes trezentos, mil e oitocentos para duas faltas; quatro vezes trezentos, mil e duzentos; três vezes trezentos, novecentos. A soma fecha em três mil e novecentos.
+BRUNO: Cada errada tem uma história. Oitocentos e sessenta e seis vírgula sessenta e sete é divisão direta, e quem falta menos receberia menos, o oposto do enunciado. Novecentos é a parte de quem teve quatro faltas. Mil e duzentos é a de quem teve três. E mil e trezentos dividiu igualmente, ignorando a proporcionalidade.
+THALITA: Questão catorze, médias. No setor A, doze servidores com média de idade trinta anos. No setor B, dezoito servidores com média quarenta. Se um servidor de sessenta e sete anos for lotado no setor B, a média de todos passa a ser: trinta e sete, trinta e seis, trinta e cinco, aproximadamente trinta e oito vírgula dois ou cinquenta e um vírgula cinco anos? Pausa para você pensar.
+ANTONIO: Trinta e sete anos, a primeira. Trabalhe com as somas. Setor A: doze vezes trinta, trezentos e sessenta. Setor B: dezoito vezes quarenta, setecentos e vinte. Soma, mil e oitenta. Com o novo servidor, mil cento e quarenta e sete, dividido por trinta e um, trinta e sete.
+BRUNO: As erradas: trinta e seis é a média antes de lotar o servidor. Trinta e cinco é a média das médias, ignorando os tamanhos dos grupos. Trinta e oito vírgula dois somou a idade, mas não aumentou a quantidade. E cinquenta e um vírgula cinco fez a média entre a média antiga e a idade nova, como se tivessem o mesmo peso.
+== SLIDE: Questão quinze e resumo relâmpago
+* Moda um; mediana um, e não um e meio
+* Setor de seis em vinte servidores: cento e oito graus
+* Resumo: multiplique variações, use pesos inversos, conte as somas
+* Mediana vem do rol completo, não da coluna de valores
+FRANCISCA: Questão quinze, a última. A tabela mostra vinte servidores por número de faltas: zero faltas, seis servidores; uma falta, nove; duas faltas, três; três faltas, dois. Três afirmações. Um: a moda é uma falta. Dois: a mediana é um e meio. Três: em gráfico de setores, o setor dos servidores sem faltas teria ângulo de cento e oito graus. Qual está correta? Pausa para você pensar.
+BRUNO: Gabarito, a terceira: um e três. A moda é uma falta, porque a maior frequência, nove, corresponde a ela. A mediana: são vinte servidores, centrais o décimo e o décimo primeiro. As acumuladas: zero falta ocupa as posições um a seis; uma falta, de sete a quinze. Logo, ambos valem um, e a mediana é um, e não um e meio.
+THALITA: Então o um e meio é a mediana da coluna de valores, e esse é o erro, certo?
+BRUNO: Certo, a média dos valores centrais da coluna faltas, um e dois. Não é a mediana dos vinte servidores. O três: seis sobre vinte é trinta por cento, trinta por cento de trezentos e sessenta graus é cento e oito graus. Verdadeira. A média, para registro, é um vírgula zero cinco.
+ANTONIO: As erradas: a primeira esquece o três. A segunda inclui o dois, falso. A quarta inclui o dois e exclui o um. E a quinta marca os três, mas o dois é falso, pelo erro de calcular a mediana sobre os valores distintos em vez do rol completo.
+THALITA: Hora do resumo relâmpago do que mais cai. Variações sucessivas se multiplicam, nunca se somam: mais vinte e menos vinte dá perda de quatro por cento. Valor original com desconto, divida pelo fator. Ponto percentual não é porcentagem. Divisão inversa: pesos são os inversos, quem tem o maior número recebe a menor parte. Regra de três composta: compare cada grandeza com a incógnita, e confira pelo homem-hora. Média de grupos: use a soma, nunca a média das médias. Mediana: ordene o rol completo e use a frequência acumulada. Setor do gráfico: fração vezes trezentos e sessenta graus. E na lógica: negação de se p então q é p e não q, negação de todo é algum não, e De Morgan troca e por ou.
+ANTONIO: Excelente resumo, Thalita. Era isso por hoje, pessoal: revejam as questões e nos encontramos na próxima aula. Bons estudos!
