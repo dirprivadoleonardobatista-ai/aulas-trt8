@@ -1,0 +1,49 @@
+SEGMENTO s005
+== SLIDE: Atributos da redação oficial e pronomes de tratamento
+* Redação oficial: comunicações e atos normativos do Poder Público
+* Clareza, objetividade, concisão, coesão, impessoalidade, formalidade, norma-padrão
+* Pronome de tratamento: verbo, possessivo e pronome na terceira pessoa
+* Vossa para falar com; Sua para falar sobre
+ANTONIO: Terminamos a ortografia. Agora entramos na Redação Oficial, segundo o Manual de Redação da Presidência da República, terceira edição, de dois mil e dezoito. Redação oficial é a forma pela qual o Poder Público redige comunicações e atos normativos. A terceira edição unificou ofício, aviso e memorando no padrão ofício, passou a tratar o e-mail como comunicação oficial e simplificou os pronomes de tratamento.
+THALITA: Quais são os atributos que preciso saber?
+FRANCISCA: Sete. Clareza e precisão, objetividade, concisão, coesão e coerência, impessoalidade, formalidade e padronização, e uso da norma-padrão. Clareza é compreensão imediata, sentido único. A violação típica é a ambiguidade ou o termo técnico sem explicação.
+BRUNO: Objetividade é ir direto ao assunto, com a ideia principal em destaque. O vício são os rodeios e as introduções longas. Concisão é o máximo de informação com o mínimo de palavras, sem cortar o essencial. O vício são as redundâncias e os pleonasmos viciosos.
+ANTONIO: Coesão e coerência é a ligação lógica entre frases e parágrafos, sem contradição, e o vício é o conectivo mal empregado. Impessoalidade é comunicar em nome do serviço público, sem impressões pessoais. Violam a impessoalidade as opiniões, a adjetivação subjetiva e o tom de intimidade.
+FRANCISCA: Formalidade e padronização pedem polidez, civilidade e uniformidade de diagramação. Violam gírias, abreviações informais e formatos variados. Por fim, a norma-padrão é a língua culta, sem regionalismos nem jargão, sem coloquialismos nem estrangeirismos desnecessários.
+BRUNO: Atenção a uma pegadinha: concisão não é economia de pensamento nem corte de informação essencial. É eliminar o supérfluo. A FCC já trocou concisão por brevidade a qualquer custo. Errado!
+THALITA: Concisão corta o que sobra, não o que falta. Entendi.
+ANTONIO: Agora a concordância com pronomes de tratamento. O verbo vai para a terceira pessoa, embora o pronome se dirija à segunda. Vossa Excelência decidiu, e não decidistes.
+FRANCISCA: Os possessivos também ficam na terceira pessoa: Vossa Senhoria nomeará seu assessor, e não vosso. E o adjetivo concorda com o sexo da pessoa, não com o gênero gramatical do pronome, uma silepse de gênero. Se for juiz, Vossa Excelência está atarefado. Se for juíza, atarefada.
+BRUNO: E tem a distinção entre Vossa e Sua. Vossa é quando você fala com a autoridade: Vossa Excelência aprovou? Sua é quando fala sobre ela: Sua Excelência, o Ministro, aprovou.
+THALITA: Vossa é com, Sua é sobre. Gostei do macete.
+== SLIDE: Formas de tratamento, vocativos e endereçamento
+* Vossa Excelência: chefes de Poder e demais autoridades
+* Excelentíssimo Senhor: exclusivo dos chefes de Poder
+* Ilustríssimo e digníssimo: dispensados; doutor não é tratamento
+* Decreto de 2019 vale só para o Executivo federal
+ANTONIO: Vamos às formas de tratamento. Para os chefes de Poder, o Presidente da República, o Presidente do Congresso Nacional e o Presidente do STF, o tratamento é Vossa Excelência, e o vocativo é Excelentíssimo Senhor mais o cargo: Excelentíssimo Senhor Presidente da República.
+FRANCISCA: Para as demais autoridades tratadas por Excelência, como ministros, parlamentares, magistrados, membros do Ministério Público, governadores e prefeitos, o tratamento continua Vossa Excelência, mas o vocativo é Senhor mais o cargo: Senhor Ministro, Senhor Juiz, Senhora Desembargadora.
+BRUNO: E é aqui que a FCC coloca a armadilha. Excelentíssimo Senhor é exclusivo dos chefes de Poder. Para ministro, senador, juiz ou desembargador o vocativo é Senhor mais o cargo, embora no corpo do texto o tratamento continue Vossa Excelência. Ela costuma pôr Excelentíssimo Senhor Senador como alternativa correta falsa.
+THALITA: E para as outras pessoas?
+ANTONIO: Para as demais autoridades e para particulares, o tratamento é Vossa Senhoria, e o vocativo, Senhor mais nome ou cargo: Senhor Diretor, Senhora Fulana de Tal. Para reitores de universidade, Vossa Magnificência, e o vocativo, Magnífico Reitor.
+FRANCISCA: No endereçamento, para Excelência: A Sua Excelência o Senhor, nome, cargo e endereço. Para Senhoria: Ao Senhor, nome, cargo e endereço. O Manual dispensou Ilustríssimo para autoridades tratadas por Vossa Senhoria e para particulares. Digníssimo foi abolido, porque a dignidade é pressuposto do cargo.
+BRUNO: E doutor não é forma de tratamento. É título acadêmico, e deve-se evitar usá-lo indiscriminadamente.
+ANTONIO: Mas há um detalhe de atualização. O Decreto nove mil setecentos e cinquenta e oito, de dois mil e dezenove, posterior à terceira edição, determinou que, na comunicação com agentes públicos da administração federal, o Poder Executivo, o único pronome de tratamento seja senhor ou senhora. Veda Vossa Excelência, Vossa Senhoria, doutor, ilustríssimo, digníssimo e similares, com ressalvas.
+FRANCISCA: Esse decreto não alterou o Manual e não rege os demais Poderes. Se o edital pede Manual, terceira edição, dois mil e dezoito, responda pelo Manual. Se a questão mencionar o decreto, aplique-o ao Executivo federal.
+== SLIDE: Padrão ofício, fechos e e-mail
+* Padrão ofício: aviso, ofício e memorando passam a se chamar ofício
+* Respeitosamente sobe; atenciosamente fica ou desce
+* E-mail só vale como original com certificação digital
+* E-mail segue vocativo e fecho formais
+BRUNO: Agora o padrão ofício. A antiga distinção entre aviso, ofício e memorando foi abolida. Todos seguem uma diagramação única e se chamam ofício.
+ANTONIO: As partes: cabeçalho, com o Brasão de Armas da República no topo, centralizado, e o nome do órgão em maiúsculas. Depois, a identificação do expediente: nome do documento, número, ano e siglas do órgão, alinhada à esquerda. Em seguida, local e data por extenso, alinhados à direita, com ponto final.
+FRANCISCA: Vêm o endereçamento e o assunto, que resume o teor em poucas palavras, com ponto final. O texto tem introdução, desenvolvimento e conclusão, com parágrafos numerados, salvo quando organizados em itens ou títulos. Se só encaminha documentos, pode ser breve. Depois, fecho, identificação do signatário, dispensada para o Presidente da República, e numeração de páginas obrigatória a partir da segunda.
+BRUNO: Na formatação, o Manual padroniza fonte Times New Roman, tamanho doze no corpo do texto, papel A quatro e margens e recuos fixos. Se o edital destacar valores numéricos, confira no Manual.
+THALITA: E os fechos?
+ANTONIO: Só dois. Respeitosamente, para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República. Atenciosamente, para mesma hierarquia ou inferior. Autoridades estrangeiras seguem o rito próprio do Itamaraty.
+THALITA: Respeitosamente sobe, atenciosamente fica ou desce.
+FRANCISCA: Isso. E o Manual eliminou fórmulas longas como sem mais para o momento, subscrevo-me.
+BRUNO: Agora o e-mail. É forma de comunicação oficial válida, por sua celeridade e baixo custo. Para valer como documento original, precisa de certificação digital que ateste a identidade do remetente. O campo assunto deve ser claro e específico. Vocativo e tratamento seguem as mesmas regras.
+FRANCISCA: O fecho padrão é atenciosamente. Att, abraços e saudações não são fechos oficiais. E os anexos devem ser mencionados no corpo da mensagem.
+BRUNO: A FCC dá duas afirmações como falsas. Primeira: o e-mail, por ser informal, dispensa vocativo e fecho. Falso. Segunda: todo e-mail tem valor documental de original. Falso, depende da certificação digital.
+ANTONIO: Perfeito. Fechamos a teoria desta aula. Agora vamos colocar tudo à prova, com questões comentadas no estilo da FCC.
