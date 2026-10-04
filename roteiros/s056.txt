@@ -1,0 +1,122 @@
+SEGMENTO s056
+== SLIDE: Boas-vindas: aula 17, direitos e garantias fundamentais
+* Título II da CF: cinco capítulos
+* Direito é o bem; garantia é o instrumento; remédio é a garantia processual
+* Nenhum direito é absoluto
+* Roteiro: art. 5º, remédios e direitos sociais
+ANTONIO: Olá, pessoal, sejam bem-vindos à aula dezessete do nosso curso, Direito Constitucional, parte dois: direitos e garantias fundamentais. Eu sou o Antônio, professor, e hoje vamos ver a teoria geral e o artigo quinto, depois a propriedade e as garantias processuais e penais, os remédios constitucionais e, por fim, os direitos sociais.
+THALITA: Oi, gente! Eu sou a Thalita, concurseira, e prometo fazer as perguntas que vocês fariam.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei, a jurisprudência e exemplos.
+BRUNO: E eu sou o Bruno, especialista em FCC. Vou mostrar como a banca cobra e onde ela arma as pegadinhas.
+ANTONIO: Vamos começar organizando o terreno. O Título dois da Constituição reúne cinco capítulos: direitos individuais e coletivos, no artigo quinto; direitos sociais, nos artigos seis a onze; nacionalidade, nos artigos doze e treze; direitos políticos, nos artigos catorze a dezesseis; e partidos políticos, no artigo dezessete.
+THALITA: Então o artigo quinto sozinho é um capítulo inteiro?
+FRANCISCA: Sim, e é enorme. Antes dele, três palavras que a banca confunde. Direito é o bem protegido, tem natureza declaratória. Garantia é o instrumento que protege esse bem, tem natureza assecuratória. E remédio é a garantia processual: habeas corpus, mandado de segurança, mandado de injunção, habeas data e ação popular.
+BRUNO: Na prova, a troca clássica é chamar o direito de garantia, ou o contrário. Direito declara, garantia assegura. Guarde isso.
+ANTONIO: Boa. E mais uma ideia central: nenhum direito é absoluto. Todos convivem e se limitam reciprocamente. Se dois direitos fundamentais colidem, faz-se ponderação.
+BRUNO: A FCC cobra o artigo quinto pela letra, principalmente as exceções da casa, da reunião, da associação e do sigilo. Esses quatro blocos são altíssima incidência, e vamos passar por todos.
+THALITA: Combinado, vou anotar.
+== SLIDE: Características dos direitos fundamentais
+* Historicidade, relatividade, irrenunciabilidade
+* Inalienabilidade e imprescritibilidade
+* Aplicabilidade imediata (art. 5º, §1º)
+* Eficácia horizontal (RE 201.819)
+* Dimensões: liberdade, igualdade e fraternidade
+ANTONIO: Vamos às características. A primeira é a historicidade: os direitos surgem e se ampliam ao longo da história, e daí vêm as gerações, ou dimensões. A pegadinha é que as dimensões se somam, uma não substitui a outra.
+THALITA: Então a segunda dimensão não revoga a primeira.
+FRANCISCA: Isso. A primeira dimensão é a liberdade, ligada à abstenção do Estado: vida, propriedade, expressão, direitos políticos. A segunda é a igualdade material, que exige prestação estatal: saúde, educação, direitos trabalhistas. A terceira é a fraternidade ou solidariedade, de titularidade difusa: meio ambiente, paz, patrimônio comum.
+BRUNO: Segunda característica: relatividade. Os direitos podem ceder diante de outro direito fundamental, por ponderação. Até a vida admite exceção, no caso de pena de morte em guerra declarada.
+THALITA: Terceira: irrenunciabilidade. Eu pensei que ninguém pode renunciar mesmo, nunca.
+ANTONIO: O ponto é: o titular pode deixar de exercer, mas não pode renunciar em definitivo. Não exercer é diferente de renunciar. A banca gosta de dizer que o direito pode ser renunciado, e isso está errado.
+FRANCISCA: Quarta: inalienabilidade e imprescritibilidade. Os direitos não se vendem nem se perdem pelo não uso. Mas a pretensão patrimonial decorrente pode prescrever, por exemplo, a cobrança de uma indenização.
+BRUNO: Quinta: aplicabilidade imediata, do artigo quinto, parágrafo primeiro. As normas definidoras de direitos fundamentais têm aplicação imediata. Cuidado: isso não quer dizer que todas sejam de eficácia plena. Algumas dependem de lei.
+THALITA: Já peguei a sexta: eficácia horizontal. Direitos fundamentais valem também entre particulares?
+FRANCISCA: Valem. O STF, no Recurso Extraordinário duzentos e um mil oitocentos e dezenove, decidiu que uma associação privada não pode excluir sócio sem ampla defesa. Os direitos vinculam também as relações privadas.
+BRUNO: E a destinatária do artigo quinto: o caput menciona brasileiros e estrangeiros residentes no País. Mas o STF estende os direitos ao estrangeiro não residente, que está em trânsito, e ele pode impetrar habeas corpus.
+ANTONIO: Pessoas jurídicas também titularizam direitos compatíveis com a natureza delas: honra objetiva, propriedade, sigilo.
+THALITA: Então a literalidade do caput, "residentes", é uma armadilha: o STF amplia.
+== SLIDE: Igualdade, legalidade e liberdade de pensamento (incisos I a V)
+* I: igualdade; a própria CF pode criar diferenças
+* II: legalidade; particular x Administração
+* III: tortura sem exceção
+* IV: anonimato proibido
+* V: resposta proporcional e indenização cumulável
+ANTONIO: Agora os incisos. O inciso primeiro diz que homens e mulheres são iguais em direitos e obrigações, nos termos da Constituição. A pegadinha: a própria Constituição pode criar diferenças, como a licença-gestante maior e regras de aposentadoria. Já a lei só pode diferenciar se houver correlação lógica com o motivo.
+THALITA: Então homem e mulher serem iguais não impede a licença-maternidade mais longa.
+FRANCISCA: Não impede. O inciso segundo é a legalidade: ninguém é obrigado a fazer ou deixar de fazer algo senão em virtude de lei. Para o particular, vale o que a lei não proíbe. Para a Administração, só o que a lei autoriza, conforme o artigo trinta e sete.
+BRUNO: Essa distinção cai muito. Se a questão disser que o administrador pode fazer tudo que a lei não proíbe, está errada.
+THALITA: O terceiro é fácil: tortura. Vedação sem exceção, certo?
+ANTONIO: Certo. Ninguém será submetido a tortura nem a tratamento desumano ou degradante. Não há exceção, nem em guerra.
+FRANCISCA: No inciso quarto, a manifestação do pensamento é livre, mas o anonimato é vedado. O que se proíbe é o anonimato, e não o pseudônimo identificável.
+BRUNO: A banca troca: diz que o pseudônimo é vedado. Errado. O que não pode é o anonimato, porque a pessoa precisa poder ser responsabilizada.
+THALITA: Ah, então eu posso usar nome artístico, o que importa é que dê para saber quem é.
+ANTONIO: Perfeito. O inciso quinto assegura o direito de resposta proporcional ao agravo, além da indenização por dano material, moral ou à imagem. Essas indenizações são cumuláveis.
+BRUNO: Boa para prova: "direito de resposta exclui indenização". Errado.
+== SLIDE: Crença, expressão e privacidade (incisos VI a X)
+* VI: crença inviolável; Estado laico
+* VII: assistência religiosa em internação coletiva
+* VIII: escusa de consciência, dois requisitos
+* IX: sem censura; STF: biografia e diploma
+* X: intimidade, honra e imagem; PJ e dano moral
+ANTONIO: Inciso sexto: a consciência e a crença são invioláveis, o livre exercício dos cultos é assegurado e os locais de culto são protegidos, na forma da lei. O Estado é laico, mas laico não é antirreligioso.
+THALITA: Então o Estado não pode ser contra religião nenhuma, mas também não adota uma.
+FRANCISCA: Isso. O inciso sétimo garante assistência religiosa nas entidades civis e militares de internação coletiva, como presídios, hospitais e quartéis, nos termos da lei.
+BRUNO: O inciso oitavo é o da escusa de consciência. Ninguém perde direitos por crença ou convicção, salvo se a invocar para se eximir de obrigação legal a todos imposta e recusar cumprir prestação alternativa. São dois requisitos que se somam: invocar para fugir da obrigação geral e recusar a prestação alternativa. A consequência é a perda dos direitos políticos, do artigo quinze, inciso quatro.
+THALITA: Então se a pessoa recusa o serviço militar mas aceita a prestação alternativa, não perde nada.
+ANTONIO: Exatamente. Inciso nono: é livre a atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença. Classificação indicativa não é censura.
+FRANCISCA: A jurisprudência é rica. O STF entendeu que a Lei de Imprensa não foi recepcionada, na ADPF cento e trinta. As biografias dispensam autorização prévia do biografado, na ADI quatro mil oitocentos e quinze. Jornalista não precisa de diploma, no Recurso Extraordinário quinhentos e onze mil novecentos e sessenta e um. E a marcha da maconha é protegida como reunião e expressão, na ADPF cento e oitenta e sete.
+ANTONIO: Por fim, o inciso décimo: são invioláveis a intimidade, a vida privada, a honra e a imagem, com direito a indenização pelo dano. A pessoa jurídica pode sofrer dano moral, pela chamada honra objetiva.
+FRANCISCA: Honra objetiva é a reputação perante terceiros, e uma empresa pode ter sua reputação ferida.
+BRUNO: E a pegadinha: dizer que pessoa jurídica não tem direito à honra. Errado.
+== SLIDE: Inviolabilidade do domicílio (inciso XI)
+* Casa é asilo inviolável, em sentido amplo
+* Flagrante, desastre e socorro: a qualquer hora
+* Ordem judicial: somente de dia
+* Tema 280: fundadas razões, justificadas depois
+* Abuso de autoridade: após 21h ou antes das 5h
+ANTONIO: Chegamos ao tema de altíssima incidência: a inviolabilidade do domicílio, no inciso décimo primeiro. A casa é asilo inviolável: só se entra com consentimento do morador, salvo nas hipóteses que a Constituição prevê.
+THALITA: E o que é "casa" para a Constituição? Só a minha casa, mesmo?
+FRANCISCA: O sentido é amplo. É qualquer compartimento habitado, o aposento ocupado de habitação coletiva, como um quarto de hotel ocupado, e o compartimento fechado ao público onde se exerce profissão, como escritório e consultório.
+BRUNO: Agora, a tabela mental. Sem consentimento, pode entrar em quatro hipóteses. Flagrante delito, desastre e prestar socorro: a qualquer hora, dia ou noite, sem ordem judicial. E por determinação judicial: somente durante o dia.
+THALITA: Então flagrante, desastre e socorro valem sempre, e ordem do juiz só de dia. Estou certa?
+ANTONIO: Certa. E repare que a ordem judicial é a única que depende de dia. É a chamada reserva de jurisdição: só o juiz autoriza entrada forçada por ordem. Fiscal, delegado e CPI não podem.
+BRUNO: As pegadinhas clássicas são quatro. Primeira: por determinação judicial, a qualquer hora. Errado, só de dia. Segunda: em flagrante, apenas durante o dia. Errado, é a qualquer hora. Terceira: fiscal ou autoridade sanitária entrando à força sem ordem judicial. Inválido. Quarta: CPI determinando busca domiciliar. Vedado.
+FRANCISCA: Na jurisprudência, o Tema duzentos e oitenta, do Recurso Extraordinário seiscentos e três mil seiscentos e dezesseis: a entrada forçada em casa sem mandado, inclusive à noite, é lícita quando amparada em fundadas razões, justificadas depois, de que há flagrante dentro da casa. Se não houver razões, o agente responde e os atos são nulos. Crimes permanentes, como guardar droga, mantêm o estado de flagrância.
+THALITA: E o que é "dia"? Seis da manhã às seis da tarde?
+FRANCISCA: Aí há oscilação. A doutrina fala em dois critérios: o cronológico, de seis às dezoito horas, e o físico-astronômico, da aurora ao crepúsculo. A Lei de Abuso de Autoridade, a treze mil oitocentos e sessenta e nove, de dois mil e dezenove, pune quem cumpre mandado de busca domiciliar depois das vinte e uma horas ou antes das cinco.
+== SLIDE: Sigilo, profissão e locomoção (incisos XII a XV)
+* XII: correspondência, dados e telefone
+* Interceptação: só ordem judicial, para fins penais (Lei 9.296/1996)
+* CPI: quebra de dados, nunca interceptação
+* XIII: profissão, eficácia contida
+* XIV e XV: informação e locomoção
+ANTONIO: Inciso décimo segundo: o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas. O texto só admite exceção para as comunicações telefônicas: por ordem judicial, na forma da lei, para investigação criminal ou instrução processual penal.
+THALITA: Então a correspondência não tem exceção nenhuma?
+FRANCISCA: O texto não prevê, mas o STF admite restrição excepcional, por exemplo carta de preso, quando há segurança em jogo. Os dados bancários, fiscais e registros telefônicos podem ser quebrados por juiz, por CPI em ato fundamentado e, quanto a dados bancários, pela Receita, na forma da Lei Complementar cento e cinco, de dois mil e um.
+BRUNO: Atenção, porque aqui há uma armadilha dupla. Interceptação telefônica é reserva de jurisdição: só o juiz pode. CPI não pode determinar interceptação, mas pode quebrar o sigilo dos registros telefônicos, que são dados.
+THALITA: Registros: quem ligou para quem e quando. Interceptação: ouvir a conversa.
+ANTONIO: Perfeito. Além disso, a interceptação só serve para fins penais. Não se defere para instruir ação trabalhista ou cível, embora o STF admita a prova emprestada já produzida licitamente. A Lei nove mil duzentos e noventa e seis, de mil novecentos e noventa e seis, é a lei de regência.
+FRANCISCA: E a gravação feita por um dos interlocutores, sem que o outro saiba, é lícita, conforme o Tema duzentos e trinta e sete.
+BRUNO: Cuidado para não confundir: gravar a própria conversa é lícito; grampear conversa alheia sem ordem judicial, não.
+ANTONIO: Os incisos treze a quinze. O treze garante a livre profissão, atendidas as qualificações que a lei fixar. É de eficácia contida. O Exame de Ordem é constitucional, no Recurso Extraordinário seiscentos e três mil quinhentos e oitenta e três, e músico não precisa de registro em conselho, no Recurso Extraordinário quatrocentos e catorze mil quatrocentos e vinte e seis.
+THALITA: O catorze é o acesso à informação, com sigilo da fonte para jornalista, certo?
+FRANCISCA: Isso. E o quinze é a locomoção: livre em tempo de paz, podendo qualquer pessoa entrar, permanecer ou sair do País com seus bens, nos termos da lei. A garantia é o habeas corpus.
+== SLIDE: Reunião e associação (incisos XVI a XXI)
+* Reunião: pacífica, sem armas, local aberto, aviso prévio
+* Não exige autorização; Tema 855
+* Associação: sem fins paramilitares; sem interferência
+* Dissolução: decisão judicial com trânsito em julgado
+* Suspensão: decisão judicial; MS coletivo: Súmula 629
+ANTONIO: Mais um bloco de altíssima incidência. A reunião exige fins pacíficos e sem armas, em local aberto ao público, com prévio aviso à autoridade competente, e sem frustrar outra reunião convocada anteriormente para o mesmo local. Autorização do poder público, não precisa.
+THALITA: Aviso ou pedido? Eu confundo.
+BRUNO: Aviso. Não é pedido, é comunicação. O Estado não autoriza, só toma conhecimento. A banca troca "aviso" por "autorização" o tempo todo.
+FRANCISCA: O Tema oitocentos e cinquenta e cinco, do STF, diz que o aviso não exige formalidade. Basta que a informação chegue ao poder público de modo a permitir que ele garanta o caráter pacífico do ato e evite conflito com outra reunião. E a defesa da reunião é por mandado de segurança, e não habeas corpus, salvo se o problema for a locomoção.
+ANTONIO: Vamos ao exemplo. A associação Alfa promove passeata em praça pública e comunica a prefeitura por ofício dois dias antes. O prefeito exige autorização formal. Inconstitucional: basta o aviso.
+THALITA: E se o Ministério Público quiser encerrar a associação?
+FRANCISCA: Precisa de ação judicial. A dissolução compulsória só ocorre por decisão judicial transitada em julgado. Já a suspensão das atividades pode ser por decisão judicial, sem trânsito em julgado, inclusive por liminar.
+BRUNO: A tabela de trocas da FCC: dissolução por ato administrativo, errado. Suspensão exige trânsito em julgado, errado, o trânsito só vale para dissolução. Criação de cooperativa depende de autorização, errado. E associação de caráter paramilitar, desde que para fins lícitos: errado, porque é sempre vedada.
+THALITA: Então as associações e cooperativas, na forma da lei, não dependem de autorização, e o Estado não pode interferir no funcionamento.
+ANTONIO: Isso. E há liberdade negativa: ninguém é obrigado a se associar nem a permanecer associado.
+FRANCISCA: Por último, representação e substituição. No inciso vinte e um, as entidades associativas, quando expressamente autorizadas, representam os filiados judicial e extrajudicialmente. Na ação ordinária coletiva, o STF exige autorização expressa, individual ou por assembleia, e beneficia os filiados que constam da lista anexada à inicial, no Tema oitenta e dois.
+BRUNO: No mandado de segurança coletivo é substituição processual, e a Súmula seiscentos e vinte e nove do STF dispensa autorização dos associados. Para sindicatos, o artigo oitavo, inciso três, também dá substituição ampla.
+THALITA: Macete: representação precisa de autorização; substituição, não.
+ANTONIO: Muito bem. Esses são os pontos mais cobrados do início do artigo quinto. No próximo segmento, avançamos para a propriedade, as garantias processuais e penais e os parágrafos primeiro a quarto do artigo quinto.

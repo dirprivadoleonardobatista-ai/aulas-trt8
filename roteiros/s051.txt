@@ -1,0 +1,109 @@
+SEGMENTO s051
+== SLIDE: Questão 7: o direito ao trabalho na LBI
+* Lei 13.146/2015, arts. 34 a 38: trabalho da PcD
+* Correta: C, colocação competitiva e trabalho com apoio (art. 37)
+* A: obrigação vale para qualquer pessoa jurídica (art. 34, §1º)
+* B: aptidão plena é vedada (art. 34, §3º)
+* D e E: seleção privada também se submete à LBI; política cobre acesso e permanência
+ANTONIO: Vamos continuar a bateria de questões comentadas, agora com a questão sete, da FCC, no estilo analista do TRT. Ela trata do direito ao trabalho da pessoa com deficiência, nos artigos trinta e quatro a trinta e oito da Lei brasileira de inclusão, a Lei treze mil cento e quarenta e seis, de dois mil e quinze. Pausa para você pensar.
+THALITA: Eu li e fiquei em dúvida entre a B e a C. A B diz que o empregador pode exigir aptidão plena, desde que faça isso de forma igual para todos os candidatos. Parece justo, não parece?
+BRUNO: Parece, e é justamente essa a armadilha. A banca coloca um "desde que" bonitinho para disfarçar uma proibição. O artigo trinta e quatro, parágrafo terceiro, veda expressamente a exigência de aptidão plena. Então a B está errada, mesmo sendo igual para todos.
+FRANCISCA: Isso mesmo. A lógica da lei é avaliar a capacidade do candidato com as adaptações necessárias, e não exigir que ele seja perfeito. Agora vamos à alternativa certa, a C. O artigo trinta e sete diz que a inclusão no trabalho se dá por colocação competitiva, em igualdade de oportunidades com as demais pessoas, e o parágrafo único explica que isso pode ocorrer com trabalho com apoio.
+THALITA: Então trabalho com apoio é uma forma de colocação competitiva. Não é um trabalho separado, protegido.
+BRUNO: Vamos às outras. A alternativa A diz que a obrigação de ambiente acessível só vale para empresa privada com cem ou mais empregados. Aqui a FCC mistura duas coisas. O artigo trinta e quatro, parágrafo primeiro, alcança pessoas jurídicas de direito público, privado ou de qualquer natureza. Os cem empregados são o critério da cota, que é outra lei, a oito mil duzentos e treze.
+THALITA: Ah, então a cota veio de carona. Acessibilidade vale para todos; cota depende do tamanho.
+FRANCISCA: Perfeito. A D diz que a entidade contratada para fazer processo seletivo privado não precisa seguir as regras de acessibilidade. Errado. O artigo trinta e oito manda observar a lei e as normas de acessibilidade tanto em seleção pública quanto privada, e vale também para a empresa terceirizada que aplica a prova.
+BRUNO: E a E afirma que as políticas públicas só cuidam do acesso ao trabalho. A palavra "só" denuncia. O artigo trinta e cinco fala em acesso e também em permanência no campo de trabalho. Então a política pública tem que garantir que a pessoa entre e fique.
+THALITA: Resumindo: A, qualquer pessoa jurídica. B, aptidão plena proibida. C, certa. D, seleção privada também. E, acesso e permanência.
+== SLIDE: Questão 8: a cota da Lei 8.213
+* Gama S.A.: 450 empregados, aprendiz com deficiência
+* Escala do art. 93: 2%, 3%, 4% e 5%
+* 201 a 500 empregados: 3%
+* Aprendiz com deficiência não conta para a cota (art. 93, §3º)
+* Dispensa sem justa causa exige substituto prévio (art. 93, §1º)
+ANTONIO: Questão oito. Uma empresa tem quatrocentos e cinquenta empregados, nenhum deles com deficiência ou reabilitado. Ana é aprendiz com deficiência e a única nessa condição. A pergunta é sobre a cota da Lei oito mil duzentos e treze, de mil novecentos e noventa e um. Pense antes de olhar o gabarito.
+THALITA: Eu chutaria a B, dois por cento, e contaria a Ana. Ela tem deficiência e está na empresa, então deveria valer.
+FRANCISCA: Esse raciocínio é muito comum, mas tem dois erros. Primeiro, o percentual. O artigo noventa e três escalona a cota: dois por cento para empresas de cem a duzentos empregados, três por cento de duzentos e um a quinhentos, quatro por cento de quinhentos e um a mil, e cinco por cento acima de mil.
+THALITA: Então quatrocentos e cinquenta cai no três por cento. Entendi.
+BRUNO: E o segundo erro é contar a Ana. O parágrafo terceiro do artigo noventa e três diz que o aprendiz com deficiência não entra no cálculo da cota, porque a aprendizagem tem lógica própria. A FCC adora esse detalhe, porque o candidato acha que toda pessoa com deficiência conta.
+ANTONIO: Então a empresa deve preencher três por cento com pessoas habilitadas ou beneficiárias reabilitadas da Previdência, sem computar a aprendiz. Gabarito E.
+THALITA: Mas e a A? Ela diz que a cota só vale acima de quinhentos empregados.
+BRUNO: Errada. A cota começa a partir de cem empregados, já no caput do artigo noventa e três. Quinhentos é só uma faixa da escala.
+FRANCISCA: A C afirma que o percentual é cinco por cento para todas as empresas de cem ou mais. Também errada, porque a escala é de dois, três, quatro e cinco, conforme o tamanho. O cinco só vale para quem passa de mil empregados.
+THALITA: Macete: dois, três, quatro, cinco, subindo de cem em cem até mil, mais ou menos. Cem, duzentos e um, quinhentos e um, mil e um.
+BRUNO: A ideia está certa. Agora a D, bem perigosa: diz que a empresa pode dispensar livremente trabalhador com deficiência contratado por prazo indeterminado, desde que pague as verbas. O parágrafo primeiro exige que a dispensa sem justa causa, no contrato por prazo indeterminado, só ocorra depois da contratação de substituto em condição semelhante.
+== SLIDE: Questão 9: cão-guia em estabelecimentos
+* Lei 11.126/2005: direito de ingressar e permanecer com cão-guia
+* Abrange locais públicos, de uso público e privados de uso coletivo
+* Recusa é discriminação: interdição e multa
+* Não pode exigir focinheira nem autorização prévia
+* Vale para cegueira e baixa visão e para transporte internacional
+ANTONIO: Questão nove, agora para técnico judiciário. Bruno, que é uma pessoa cega, tenta entrar com o cão-guia num restaurante privado. O gerente exige focinheira e diz que o direito só vale em locais públicos. É a Lei onze mil cento e vinte e seis, de dois mil e cinco, e seu regulamento.
+THALITA: Eu acho que o gerente tem razão em parte, porque é um restaurante privado. Mas aí não sei se a lei pega.
+FRANCISCA: Pega, sim. O artigo primeiro assegura à pessoa com deficiência visual usuária de cão-guia o direito de ingressar e permanecer com o animal em todos os meios de transporte e em estabelecimentos abertos ao público, de uso público e privados de uso coletivo, desde que observadas as condições de saúde e higiene do animal. Restaurante é privado de uso coletivo.
+BRUNO: Então a alternativa A, que limita a repartições públicas e transporte público, está errada. E a B, que diz que Bruno tem direito e que impedi-lo é ato de discriminação sujeito a interdição e multa, é a correta. Ela se apoia nos artigos primeiro e terceiro.
+THALITA: Interdição do estabelecimento? Só por causa disso?
+FRANCISCA: A lei prevê sanções para quem impede ou dificulta o ingresso, como interdição do estabelecimento até que a situação se regularize, e multa. É coisa séria.
+ANTONIO: Vamos às pegadinhas. A C diz que o ingresso depende de autorização prévia do dono e de focinheira. Não existe exigência de autorização, e o regulamento veda a exigência de focinheira quando o cão está com arreio.
+BRUNO: A D tenta restringir a pessoas com cegueira total. Errado: a deficiência visual da lei abrange cegueira e baixa visão. A FCC gosta de estreitar o conceito para ver quem cai.
+THALITA: E a E? Ela diz que o direito vale em transporte nacional, mas não em transporte internacional com origem no Brasil.
+FRANCISCA: Errada. O parágrafo segundo do artigo primeiro estende o direito ao transporte internacional que parte do território brasileiro.
+THALITA: Resumo rápido: cão-guia entra em tudo que é aberto ao público ou de uso coletivo, sem focinheira, sem pedir licença, cegueira ou baixa visão, e até em transporte internacional saindo do Brasil.
+== SLIDE: Questão 10: competências e Convenção de Nova York
+* Legislar sobre PcD: competência concorrente (art. 24, XIV)
+* Cuidar da proteção: competência comum (art. 23, II)
+* AEE preferencialmente na rede regular (art. 208, III)
+* Convenção aprovada pelo art. 5º, §3º: equivale a emenda constitucional
+ANTONIO: Questão dez, com afirmativas. A primeira diz que legislar sobre proteção e integração social das pessoas com deficiência é competência privativa da União. A segunda, que cuidar da proteção é competência comum de todos os entes. A terceira, que o atendimento educacional especializado é preferencialmente na rede regular. E a quarta, que a Convenção tem status supralegal.
+THALITA: Eu marquei a primeira como certa. Parece que quem legisla sobre tudo é a União.
+FRANCISCA: Esse é o erro típico. O artigo vinte e quatro, inciso catorze, da Constituição coloca a proteção e integração social das pessoas com deficiência na competência concorrente. A União edita normas gerais, e Estados e Distrito Federal legislam também. Então a primeira é falsa.
+BRUNO: Atenção, porque a FCC troca privativa por concorrente o tempo todo. Se o item disser privativa, desconfie.
+THALITA: E a segunda? Cuidar da proteção e garantia.
+FRANCISCA: Essa é verdadeira. O artigo vinte e três, inciso dois, fala em cuidar da saúde e assistência pública, da proteção e garantia das pessoas com deficiência. É competência administrativa comum da União, dos Estados, do Distrito Federal e dos Municípios.
+ANTONIO: A terceira também é verdadeira: o artigo duzentos e oito, inciso três, garante atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino.
+THALITA: Fica faltando a quarta. Se a Convenção foi aprovada em dois turnos com três quintos, não seria supralegal?
+BRUNO: Aí está a pegadinha. Supralegal é o status dos tratados de direitos humanos aprovados sem esse quórum. Quando passam pelo rito do artigo quinto, parágrafo terceiro, com três quintos em cada Casa e dois turnos, eles equivalem a emenda constitucional. E a Convenção sobre os direitos das pessoas com deficiência foi aprovada assim, pelo Decreto Legislativo cento e oito, de dois mil e oito.
+FRANCISCA: Foi o primeiro tratado a ter esse status. Então a quarta é falsa.
+THALITA: Fechando: verdadeiras, a segunda e a terceira. Alternativa D.
+== SLIDE: Questão 11: reserva de vagas em concursos federais
+* CF art. 37, VIII: a lei fixa o percentual
+* Lei 8.112, art. 5º, §2º: até 20% das vagas
+* Decreto 9.508/2018: mínimo de 5%, inclusive contratação temporária
+* Fração arredondada para cima
+* Cargo com atribuições compatíveis; ampla concorrência é faculdade
+ANTONIO: Questão onze. Reserva de vagas para pessoas com deficiência em concursos públicos federais, segundo a Constituição, a Lei oito mil cento e doze, de mil novecentos e noventa, e o Decreto nove mil quinhentos e oito, de dois mil e dezoito. Pense um instante.
+THALITA: Eu lembrava só do cinco por cento. A alternativa A fala em até vinte por cento, mínimo de cinco, e diz que o candidato pode optar pela ampla concorrência. Parece completa demais para estar certa.
+FRANCISCA: Completa e correta. O parágrafo segundo do artigo quinto da Lei oito mil cento e doze assegura às pessoas com deficiência até vinte por cento das vagas oferecidas no concurso. O decreto fixa o piso de cinco por cento. E o artigo quarto, parágrafo segundo, da Lei brasileira de inclusão diz que a pessoa com deficiência não é obrigada a usufruir da ação afirmativa.
+BRUNO: Essa última parte é importante. Candidato com deficiência pode concorrer às vagas reservadas e também à ampla concorrência. Por isso a D, que o obriga a ficar nas reservadas, está errada.
+THALITA: E a B? Dez por cento direto na Constituição?
+BRUNO: Errada. O artigo trinta e sete, inciso oito, só diz que a lei reservará percentual dos cargos e empregos públicos. Quem fixa o número é a lei, não a Constituição.
+FRANCISCA: A C diz que a pessoa com deficiência pode se inscrever para qualquer cargo, mesmo com atribuições incompatíveis, cabendo à Administração adaptar. Errado. A lei exige que as atribuições do cargo sejam compatíveis com a deficiência do candidato. Isso é avaliado na equipe multiprofissional.
+ANTONIO: Exatamente. E agora a E, que tem dois erros escondidos: diz que o mínimo de cinco por cento vale só para cargos efetivos e que a fração é desprezada.
+BRUNO: O decreto alcança também as contratações temporárias, e quando o cálculo dá número quebrado, a fração é arredondada para o primeiro número inteiro subsequente, desde que não ultrapasse o limite de vinte por cento. Nada de desprezar fração.
+THALITA: Resumo de macete: de cinco a vinte por cento, arredonda para cima, temporário também, e a pessoa escolhe se quer usar a reserva.
+== SLIDE: Questão 12: justiça, cartórios e capacidade legal
+* Art. 83 da LBI: cartório não pode criar óbice nem exigir curador
+* Art. 80: tecnologia assistiva também para advogados, juízes e outros
+* Art. 86: documento oficial dispensa prova de curatela
+* Art. 79, §1º: capacitação inclui servidores e sistema penitenciário
+* Recusa é discriminação
+ANTONIO: Última questão da bateria, a doze, para oficial de justiça. Trata do acesso à justiça e dos serviços notariais em relação à pessoa com deficiência, na Lei treze mil cento e quarenta e seis. Pense antes da resposta.
+THALITA: Na dúvida, eu iria pela C, porque fala em capacidade legal plena, e isso lembra a lei. Mas prefiro entender o erro das outras.
+FRANCISCA: Boa estratégia. A C é a correta: o artigo oitenta e três diz que serviços notariais e de registro não podem negar nem criar óbices ou condições diferenciadas ao atendimento por motivo de deficiência, e devem reconhecer a capacidade legal plena. O parágrafo único afirma que o descumprimento é discriminação.
+BRUNO: A B tenta o contrário, dizendo que o cartório pode exigir curador para escritura com pessoa com deficiência intelectual, por segurança jurídica. Não pode. Isso viola exatamente o artigo oitenta e três, porque a pessoa com deficiência tem capacidade legal e curatela não é regra.
+ANTONIO: Vamos à D, que diz que para emitir documentos oficiais será exigida a comprovação de curatela. É o oposto. O artigo oitenta e seis dispensa a exigência de situação de curatela para emitir documentos oficiais da pessoa com deficiência.
+BRUNO: A A usa o "apenas": os recursos de tecnologia assistiva seriam só para quando a pessoa com deficiência for parte. Errado. O artigo oitenta estende os recursos também a testemunhas, advogados, defensores públicos, magistrados e membros do Ministério Público com deficiência.
+FRANCISCA: E a E fala em capacitação só para magistrados. O artigo setenta e nove, parágrafo primeiro, inclui membros e servidores do Judiciário, do Ministério Público, da Defensoria, dos órgãos de segurança pública e do sistema penitenciário.
+== SLIDE: Revisão relâmpago da aula
+* Trabalho: sem aptidão plena; colocação competitiva
+* Cota: 2, 3, 4 e 5%; aprendiz não conta
+* Cão-guia em estabelecimentos privados de uso coletivo
+* Concurso: de 5% a 20%, arredonda para cima
+* Cartório: capacidade legal plena, sem curador por padrão
+THALITA: Chegou a hora do resumo relâmpago do que mais cai na FCC. Primeiro, trabalho: a Lei brasileira de inclusão proíbe exigir aptidão plena e prevê colocação competitiva, inclusive com trabalho com apoio. A obrigação de acessibilidade alcança qualquer pessoa jurídica.
+BRUNO: Segundo, a cota da Lei oito mil duzentos e treze: a partir de cem empregados, com percentuais de dois, três, quatro e cinco por cento, e aprendiz com deficiência não conta no cálculo. A dispensa sem justa causa pede substituto antes.
+FRANCISCA: Terceiro, o cão-guia: acesso a locais abertos ao público, de uso coletivo e a transportes, sem focinheira e sem autorização, com multa e interdição em caso de discriminação.
+THALITA: Quarto, concursos: a Constituição manda a lei fixar o percentual, a Lei oito mil cento e doze fala em até vinte por cento, o decreto fixa o piso de cinco, a fração arredonda para cima e o candidato escolhe se usa a reserva.
+ANTONIO: E, por último, cartório e acesso à justiça: capacidade legal plena, sem exigir curador, sem exigir curatela para documentos oficiais.
+THALITA: Macete geral: desconfie de "apenas", "somente" e "restringe-se". A FCC adora esses estreitadores.
+ANTONIO: É isso, pessoal. Bons estudos, e até a próxima aula!
