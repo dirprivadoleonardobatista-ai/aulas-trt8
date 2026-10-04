@@ -1,0 +1,88 @@
+SEGMENTO s088
+== SLIDE: Questão 7: Lei 13.655/2018 na LINDB
+* Consequências práticas: art. 20, caput
+* Responsabilidade pessoal: dolo ou erro grosseiro (art. 28)
+* Consulta pública: facultativa, exceto atos de mera organização interna
+* Compromisso: oitiva do órgão jurídico e publicação oficial (art. 26)
+* Regime de transição só quando indispensável. Gabarito: E
+ANTONIO: Seguimos com as questões comentadas. Questão sete. Com as alterações da Lei treze mil seiscentos e cinquenta e cinco, de dois mil e dezoito, na Lei de Introdução às Normas do Direito Brasileiro, passou a ser previsto que: A, a edição de atos normativos por autoridade administrativa, inclusive os de mera organização interna, deve ser precedida de consulta pública. B, o agente público responde pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou culpa, ainda que leve. C, o compromisso celebrado com os interessados produz efeitos desde a assinatura, dispensada a oitiva do órgão jurídico. D, a decisão que estabelecer interpretação nova sobre norma de conteúdo indeterminado deve sempre prever regime de transição. E, nas esferas administrativa, controladora e judicial, não se decide com base em valores jurídicos abstratos sem considerar as consequências práticas da decisão.
+THALITA: Pausa para pensar. Eu iria na B: responde por dolo ou culpa.
+FRANCISCA: A responsabilidade pessoal é por dolo ou erro grosseiro, artigo vinte e oito. Culpa leve não basta.
+BRUNO: A A erra duas vezes: a consulta pública é facultativa, o texto diz poderá, e não se aplica aos atos de mera organização interna, artigo vinte e nove.
+THALITA: E o compromisso, na C?
+ANTONIO: Exige oitiva do órgão jurídico e só produz efeitos após a publicação oficial, artigo vinte e seis.
+FRANCISCA: A D diz que sempre deve prever transição. Errado: o regime de transição é exigido quando indispensável ao cumprimento proporcional, equânime e eficiente, artigo vinte e três.
+BRUNO: Sobra a E, correta: artigo vinte, caput, o chamado consequencialismo.
+THALITA: Macete: dolo ou erro grosseiro; consequências práticas; transição, só se indispensável.
+== SLIDE: Questão 8: delegação na Lei 9.784/1999
+* Delegação revogável a qualquer tempo; atos editados pelo delegado
+* Pode ser feita a quem não é subordinado (art. 12)
+* Indelegáveis: normativos, recursos e competência exclusiva (art. 13)
+* Motivo relevante justificado é requisito da avocação (art. 15)
+* Gabarito: C
+FRANCISCA: Questão oito. O Diretor-Geral de um Tribunal Regional pretende delegar ao Secretário de Gestão de Pessoas algumas atribuições. Pela Lei nove mil setecentos e oitenta e quatro, a delegação: A, só pode ser feita a órgão ou titular hierarquicamente subordinado. B, pode abranger a decisão de recursos administrativos, se publicada no meio oficial. C, é revogável a qualquer tempo, e os atos praticados por delegação consideram-se editados pelo delegado. D, transfere ao delegado a titularidade da competência. E, pode envolver a edição de atos normativos, se houver motivo relevante justificado.
+THALITA: Pausa para pensar. Essa a gente acabou de ver! Eu vou de C.
+BRUNO: Boa memória. A C é a correta: artigo catorze, parágrafos segundo e terceiro.
+FRANCISCA: A A erra: o artigo doze permite delegar ainda que o destinatário não seja hierarquicamente subordinado.
+THALITA: E a B? Publicando no meio oficial dá para delegar recurso?
+ANTONIO: Não. A decisão de recursos administrativos é indelegável, artigo treze, inciso dois. Lembra do macete CE, NO, RA?
+FRANCISCA: A D: delega-se o exercício de parte da competência, que continua irrenunciável, artigo onze. O delegante pode revogar a delegação.
+BRUNO: A E: atos normativos são indelegáveis, artigo treze, inciso um. E motivo relevante devidamente justificado é requisito da avocação, artigo quinze, não da delegação.
+THALITA: Macete: o delegado responde; CE, NO, RA não se delega; motivo relevante é avocação.
+== SLIDE: Questão 9: decreto autônomo
+* Decreto autônomo: art. 84, VI; ato primário; delegável
+* Pode extinguir cargo vago e organizar sem aumento de despesa
+* Criar ou extinguir órgãos: só por lei
+* Decreto de execução (art. 84, IV): indelegável
+* Gabarito: B
+BRUNO: Questão nove. O Presidente editou decreto dispondo sobre a organização de órgãos de um Ministério, sem aumento de despesa, e, no mesmo ato, extinguiu cargos públicos vagos. É correto afirmar: A, o decreto é inválido, pois a extinção de cargos, ocupados ou vagos, depende sempre de lei. B, é decreto autônomo, do artigo oitenta e quatro, inciso seis, cuja edição pode ser delegada aos Ministros de Estado. C, é decreto regulamentar de execução, delegável. D, o Presidente poderia, pelo mesmo instrumento, criar novos órgãos, sem aumento de despesa. E, o decreto autônomo é ato secundário, sujeito só a controle de legalidade.
+THALITA: Pausa para pensar. Eu iria na C: decreto regulamentar.
+BRUNO: Cuidado: o decreto de execução, do inciso quatro, é indelegável e se limita à fiel execução de lei. Aqui não há lei sendo regulamentada.
+FRANCISCA: A B é a correta: artigo oitenta e quatro, inciso seis, e parágrafo único, delegável a Ministros, ao Procurador-Geral da República e ao Advogado-Geral da União.
+THALITA: Na A, extinguir cargo vago por decreto não vale?
+ANTONIO: Vale. Artigo oitenta e quatro, inciso seis, alínea b: a extinção de funções ou cargos públicos, quando vagos, pode ser feita por decreto.
+BRUNO: A D: criação e extinção de órgãos exigem lei. E a E: o decreto autônomo é ato primário, que retira fundamento diretamente da Constituição, e admite controle de constitucionalidade.
+THALITA: Macete: autônomo, cargo vago e organização sem despesa; órgão e cargo ocupado, só por lei.
+== SLIDE: Questão 10: Tema 532 do STF
+* Delegação por lei a estatal de capital majoritariamente público
+* Serviço público próprio do Estado, regime não concorrencial
+* Delegáveis: consentimento, fiscalização e sanção
+* Ordem de polícia: indelegável, salvo reprodução de atos normativos
+* Gabarito: D
+ANTONIO: Questão dez. Uma lei municipal atribuiu à Empresa de Trânsito Gama, sociedade de economia mista de capital majoritariamente público, prestadora exclusiva de fiscalização de trânsito em regime não concorrencial, a aplicação de multas por infrações. Pela tese do Tema quinhentos e trinta e dois do STF, a delegação é: A, inconstitucional, pois o poder de polícia é indelegável a pessoas de direito privado em qualquer fase. B, constitucional apenas quanto ao consentimento e à fiscalização, vedada a sanção. C, constitucional em todas as fases, inclusive a edição de normas de trânsito restritivas. D, constitucional, abrangendo a sanção, mas não a ordem de polícia, salvo a reprodução de atos normativos para execução. E, constitucional, desde que por contrato administrativo, dispensada a lei.
+BRUNO: Essa a gente acabou de estudar. Pausa para você pensar.
+THALITA: Eu iria na B, que era a posição antiga do STJ.
+FRANCISCA: Boa lembrança. Era a posição anterior do STJ: só consentimento e fiscalização. O STF foi além e admitiu também a sanção. Então a B está errada.
+ANTONIO: A A diz que é inconstitucional em qualquer fase. Errada: o Tema quinhentos e trinta e dois admite a delegação a estatais de direito privado que preencham os requisitos.
+BRUNO: A C erra porque a ordem de polícia, a normatização primária, é indelegável. E a E erra porque a tese exige lei.
+FRANCISCA: Sobra a D, correta: delegação por lei, a estatal de capital majoritariamente público, prestadora exclusiva de serviço próprio do Estado, em regime não concorrencial, abrangendo consentimento, fiscalização e sanção.
+THALITA: Macete: três fases delegam, a ordem de polícia não, e só por lei.
+== SLIDE: Questão 11: excesso x desvio de poder
+* Remoção punitiva: competência, mas finalidade diversa: desvio
+* Suspensão sem competência: excesso de poder
+* Omissão abusiva exige inércia; aqui as condutas são comissivas
+* Gabarito: A
+FRANCISCA: Questão onze. Pedro, servidor de chefia, removeu de ofício a servidora Tereza para outro município, sob o pretexto de necessidade do serviço. Apurou-se que a remoção buscava puni-la por ter representado contra Pedro por assédio. Em outra situação, Pedro aplicou pena de suspensão a servidor subordinado, embora a competência fosse do Diretor-Geral. As condutas configuram, respectivamente: A, desvio de poder e excesso de poder. B, excesso e desvio. C, desvio nos dois casos. D, omissão abusiva e excesso. E, uso regular do poder hierárquico e excesso.
+THALITA: Pausa para pensar. Eu diria excesso e desvio, a B.
+FRANCISCA: Inverteu. Na remoção, Pedro tinha competência, mas o fim visado, punir, é diverso do previsto em lei: desvio de finalidade.
+BRUNO: Na suspensão, ele foi além da competência, que era do Diretor-Geral: excesso de poder, vício de competência. Gabarito A.
+THALITA: E a C? Os dois seriam desvio?
+ANTONIO: Não, porque a segunda conduta envolve incompetência, típica do excesso.
+FRANCISCA: A D fala em omissão abusiva, mas não houve inércia: as duas condutas são comissivas.
+BRUNO: E a E diz uso regular. Remoção com finalidade punitiva não é uso regular do poder, é desvio.
+ANTONIO: É o mesmo raciocínio do caso da servidora Carla: dentro da competência, com finalidade retaliatória, desvio; fora da alçada, excesso.
+THALITA: Macete: competência errada, excesso; finalidade errada, desvio.
+== SLIDE: Questão 12 e resumo relâmpago da aula
+* Dolo específico em todos os tipos (art. 1º, § 1º)
+* Divergência interpretativa não é crime (art. 1º, § 2º)
+* Ação incondicionada; inabilitação de 1 a 5 anos
+* Perda do cargo só com reincidência e declaração motivada
+* Gabarito: E
+BRUNO: Questão doze. Pela Lei treze mil oitocentos e sessenta e nove, de dois mil e dezenove, é correto afirmar: A, a divergência na interpretação de lei configura abuso quando contraria a jurisprudência majoritária. B, os crimes são de ação penal pública condicionada à representação do ofendido. C, a perda do cargo é efeito automático da condenação, independentemente de reincidência. D, a inabilitação é fixada de dois a oito anos. E, as condutas só constituem crime quando praticadas com finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal.
+THALITA: Pausa para pensar. Essa parece a das pegadinhas que a gente listou.
+FRANCISCA: A A cai por causa do artigo primeiro, parágrafo segundo: divergência interpretativa ou na avaliação de fatos e provas não configura abuso. É a vedação ao crime de hermenêutica.
+BRUNO: A B: a ação é pública incondicionada, com ação privada subsidiária em seis meses. A C: a perda do cargo depende de reincidência e declaração motivada. A D: a inabilitação é de um a cinco anos.
+THALITA: Então sobra a E, o dolo específico. Gabarito E.
+ANTONIO: Isso. Artigo primeiro, parágrafo primeiro: elemento subjetivo especial exigido em todos os tipos.
+THALITA: Agora o resumo relâmpago da aula inteira. Poder hierárquico: só dentro da mesma pessoa jurídica. Delegação não exige hierarquia, avocação exige; indelegável é CE, NO, RA, e quem responde é o delegado. Decreto autônomo: cargo vago e organização sem despesa, nada de criar órgão. Poder de polícia: ordem de polícia não se delega; consentimento, fiscalização e sanção sim, pelo Tema quinhentos e trinta e dois. Excesso é competência, desvio é finalidade. Abuso de autoridade: dolo específico, ação incondicionada e perda do cargo só com reincidência.
+ANTONIO: Fechamos a aula por aqui. Bons estudos e até a próxima!

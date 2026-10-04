@@ -1,0 +1,91 @@
+SEGMENTO s087
+== SLIDE: Questão 1: criada x autorizada
+* Autarquia: criada por lei específica (art. 37, XIX)
+* Empresa pública e sociedade de economia mista: instituição autorizada por lei
+* Sociedade anônima é forma obrigatória só da sociedade de economia mista
+* Indireta: vinculação e tutela, não hierarquia
+* Gabarito: C
+ANTONIO: Vimos os deveres, o abuso de poder e a Lei de Abuso de Autoridade. Agora vamos treinar com questões comentadas, no estilo FCC. Questão um. Um Estado quer reorganizar a Administração: uma autarquia para fiscalização ambiental, uma empresa pública para processamento de dados e uma sociedade de economia mista para exploração de atividade portuária. Qual é a correta? A: as três são criadas diretamente por lei específica, com personalidade jurídica desde a publicação. B: a empresa pública deve ser sociedade anônima, admitida participação minoritária de capital privado. C: a autarquia é criada por lei específica, e a empresa pública e a sociedade de economia mista têm a instituição autorizada por lei específica. D: a sociedade de economia mista fica subordinada hierarquicamente à Secretaria de Estado. E: as duas estatais se sujeitam ao regime falimentar comum.
+THALITA: Pausa para pensar. Eu iria na A: tudo nasce por lei.
+BRUNO: Só a autarquia é criada diretamente por lei. As estatais têm a instituição autorizada por lei e nascem com o registro dos atos constitutivos, artigo trinta e sete, inciso dezenove.
+FRANCISCA: A B troca as formas. A forma de sociedade anônima é obrigatória para a sociedade de economia mista. A empresa pública admite qualquer forma societária e tem capital integralmente público.
+THALITA: E a D? Está na Administração indireta, então tem chefe, não?
+ANTONIO: Não. Entre o ente político e a entidade da indireta há vinculação e controle finalístico, a tutela, não hierarquia. Lembra da aula? Hierarquia só dentro da mesma pessoa jurídica.
+BRUNO: A E: a Lei de Falências exclui empresas públicas e sociedades de economia mista do regime falimentar, artigo segundo, inciso um, da Lei onze mil cento e um, de dois mil e cinco.
+FRANCISCA: Gabarito C: criada versus autorizada, artigo trinta e sete, inciso dezenove.
+THALITA: Macete: autarquia, criada; estatal, autorizada.
+== SLIDE: Questão 2: outorga e desconcentração
+* Criar autarquia por lei: descentralização por outorga
+* Dividir a secretaria em diretorias subordinadas: desconcentração
+* Delegação: contrato ou ato, transfere só a execução
+* Gabarito: A
+FRANCISCA: Questão dois. O Município Alfa adotou duas medidas. Primeira: criou, por lei, uma autarquia para planejar e fiscalizar o trânsito. Segunda: dividiu a Secretaria de Obras em três diretorias regionais, sem personalidade jurídica, subordinadas ao Secretário. As medidas configuram, respectivamente: A, descentralização por outorga e desconcentração. B, desconcentração e descentralização por delegação. C, descentralização por delegação e descentralização territorial. D, desconcentração e descentralização por outorga. E, descentralização por colaboração e desconcentração.
+THALITA: Pausa para pensar. Eu diria B: a lei delegou a fiscalização.
+FRANCISCA: Quase. Criar autarquia por lei transfere titularidade e execução a uma nova pessoa: é outorga. Repartir competências internamente, criando órgãos subordinados, é desconcentração. Então a A é a correta.
+BRUNO: A B inverte os institutos. E delegação se faz por contrato ou ato, transferindo só a execução.
+THALITA: E a C? Descentralização territorial parece bonito.
+ANTONIO: Mas não houve contrato de concessão ou permissão, que seria delegação, nem criação de território.
+FRANCISCA: A D chama de desconcentração a criação da autarquia, mas ali há outra pessoa jurídica. Não é desconcentração.
+BRUNO: A E usa descentralização por colaboração, que é sinônimo de delegação, por contrato ou ato a particular. Isso não ocorreu com a criação da autarquia.
+ANTONIO: Resumindo: na desconcentração, a Administração distribui competências dentro da mesma pessoa jurídica; na descentralização, transfere para outra pessoa.
+THALITA: Macete: outra pessoa jurídica, outorga; mesmo órgão dividido, desconcentração.
+== SLIDE: Questão 3: princípios e Lei 9.784/1999
+* Eficiência: EC 19/1998, não EC 45/2004
+* Vedada aplicação retroativa de nova interpretação (art. 2º, XIII)
+* Vedada a renúncia a poderes e competências, salvo lei (art. 2º, II)
+* Art. 37, § 1º: nomes e imagens de promoção pessoal são proibidos
+* Gabarito: E
+BRUNO: Questão três. Quatro afirmações sobre princípios. Um: a eficiência foi inserida expressamente no caput do artigo trinta e sete pela Emenda Constitucional quarenta e cinco, de dois mil e quatro. Dois: a Lei nove mil setecentos e oitenta e quatro veda a aplicação retroativa de nova interpretação de norma administrativa. Três: a mesma lei proíbe a renúncia, total ou parcial, de poderes ou competências, salvo autorização em lei. Quatro: admite-se a menção ao nome da autoridade em publicidade de obra pública, desde que tenha caráter educativo. Qual está correto? A, um e dois. B, um e quatro. C, três e quatro. D, um, dois e três. E, dois e três.
+THALITA: Pausa para pensar. O um parece certo: a eficiência veio com a Emenda quarenta e cinco, a Reforma do Judiciário.
+FRANCISCA: Aí está o erro. A eficiência veio com a Emenda Constitucional dezenove, de mil novecentos e noventa e oito, a Reforma Administrativa. O item um é falso, o que derruba A, B e D.
+BRUNO: O item quatro também é falso. O artigo trinta e sete, parágrafo primeiro, proíbe nomes, símbolos ou imagens que caracterizem promoção pessoal. Então a C cai.
+THALITA: Sobra a E: dois e três.
+ANTONIO: Isso. O item dois corresponde ao artigo segundo, parágrafo único, inciso treze, da Lei nove mil setecentos e oitenta e quatro: veda-se a aplicação retroativa de nova interpretação. O item três corresponde ao inciso dois do mesmo parágrafo: vedada a renúncia total ou parcial de poderes ou competências, salvo autorização em lei.
+BRUNO: Dica de prova: em questão de afirmações, ache o item falso que elimina mais alternativas. Aqui, o um e o quatro eliminavam quatro das cinco.
+THALITA: Macete: eficiência, Emenda dezenove; nome de autoridade em obra pública, promoção pessoal proibida.
+== SLIDE: Questão 4: anulação e decadência (art. 54)
+* Súmula 473 é mitigada pelo art. 54 da Lei 9.784
+* Ato favorável a destinatário de boa-fé: 5 anos para anular
+* Efeitos patrimoniais contínuos: prazo conta do primeiro pagamento
+* Revogação: ato válido, efeitos ex nunc
+* Gabarito: B
+ANTONIO: Questão quatro. Em dois mil e dezoito, o órgão de pessoal de um tribunal concedeu, por erro de cálculo, gratificação a servidor que não preenchia os requisitos, e o pagamento passou a ser feito mensalmente. Em dois mil e vinte e cinco, constatado o vício, a Administração quer anular o ato. Não há indício de má-fé. A Administração: A, pode anular a qualquer tempo, pela Súmula quatrocentos e setenta e três do STF. B, decaiu do direito de anular, porque passaram mais de cinco anos do primeiro pagamento, sem má-fé. C, pode revogar o ato com efeitos retroativos. D, só pode desconstituir o ato por ação judicial. E, deve convalidar o ato, pois a convalidação é obrigatória para todos os vícios.
+THALITA: Pausa para pensar. Eu iria na A: ato ilegal não gera direito.
+FRANCISCA: A Súmula quatrocentos e setenta e três é mitigada pelo artigo cinquenta e quatro da Lei nove mil setecentos e oitenta e quatro: atos favoráveis ao destinatário de boa-fé só podem ser anulados em cinco anos.
+BRUNO: A B é a correta: artigo cinquenta e quatro, caput e parágrafo primeiro. Em efeitos patrimoniais contínuos, o prazo decadencial de cinco anos conta-se da percepção do primeiro pagamento.
+THALITA: E se fosse revogação, na C?
+ANTONIO: Revogação recai sobre ato válido, por conveniência e oportunidade, e tem efeitos prospectivos, ex nunc. Aqui o ato é ilegal, então o caso é de anulação.
+FRANCISCA: A D diz que só por ação judicial. Errado: a Administração anula seus próprios atos sem ação judicial, pelas Súmulas trezentos e quarenta e seis e quatrocentos e setenta e três, observados contraditório e ampla defesa quando houver interesses individuais.
+BRUNO: A E exagera: a convalidação só cabe para defeitos sanáveis e sem lesão ao interesse público ou a terceiros, artigo cinquenta e cinco. Não é obrigatória para todos os vícios.
+THALITA: Macete: boa-fé, cinco anos, contados do primeiro pagamento.
+== SLIDE: Questão 5: nepotismo e Súmula Vinculante 13
+* Cunhado: afinidade em 2º grau, cargo em comissão: nepotismo
+* Primo: colateral de 4º grau, fora da súmula
+* Secretário Municipal: cargo político, em regra afastada a SV 13
+* Exceção: fraude ou inqualificação manifesta
+* Gabarito: D
+FRANCISCA: Questão cinco. O Prefeito do Município Beta nomeou para cargos em comissão: um, o cunhado, como assessor de gabinete; dois, o primo, como chefe de divisão; três, a irmã, servidora efetiva aprovada em concurso, como Secretária Municipal de Educação, cargo de natureza política, com qualificação técnica comprovada. Pela Súmula Vinculante treze e pela jurisprudência, configura nepotismo vedado a nomeação: A, um, dois e três. B, só a dois. C, um e três. D, só a um. E, dois e três.
+THALITA: Pausa para pensar. Eu diria A: todos são parentes do Prefeito.
+FRANCISCA: Vamos por partes. O cunhado é parente por afinidade em segundo grau, dentro do limite de até o terceiro grau, e foi nomeado para cargo em comissão. Isso é nepotismo.
+BRUNO: O primo é colateral de quarto grau, fora do alcance da súmula. Então não configura.
+THALITA: E a irmã? Irmã é parente de segundo grau, bem perto.
+ANTONIO: Mas ela é servidora efetiva, e o cargo de Secretário Municipal tem natureza política, com qualificação comprovada. A jurisprudência afasta, em regra, a súmula nesse caso, salvo fraude ou inqualificação manifesta.
+BRUNO: Por isso o gabarito é D: só o cunhado.
+FRANCISCA: As alternativas que incluem o primo, A, B e E, estão erradas, e a C, que inclui a irmã, também.
+THALITA: Macete: parentesco até o terceiro grau é vedado, mas cargo político é exceção. O primo é de quarto grau.
+== SLIDE: Questão 6: Lei de Introdução às Normas do Direito Brasileiro
+* Repristinação só se for expressa (art. 2º, § 3º)
+* Vigência geral: 45 dias depois de publicada (art. 1º)
+* Lei nova a par da antiga não a revoga (art. 2º, § 2º)
+* Lacuna: analogia, costumes e princípios gerais (art. 4º)
+* Correção de texto em vigor é lei nova (art. 1º, § 4º). Gabarito: A
+BRUNO: Questão seis. Nos termos da Lei de Introdução às Normas do Direito Brasileiro: A, salvo disposição em contrário, a lei revogada não se restaura por ter a lei revogadora perdido a vigência. B, não havendo disposição em contrário, a lei começa a vigorar em todo o país noventa dias depois de publicada. C, a lei nova que estabeleça disposições especiais a par das já existentes revoga a anterior. D, quando a lei for omissa, o juiz decide pela equidade, pela analogia e pela jurisprudência. E, correções a texto de lei já em vigor não são lei nova e retroagem à publicação original.
+THALITA: Pausa para pensar. Eu chuto B: noventa dias é um prazo clássico.
+FRANCISCA: O prazo geral de vigência é de quarenta e cinco dias, artigo primeiro, caput. Três meses é o prazo no exterior.
+BRUNO: A C erra: pelo artigo segundo, parágrafo segundo, a lei nova que estabeleça disposições gerais ou especiais a par das já existentes não revoga nem modifica a anterior.
+THALITA: E a D? Equidade, analogia e jurisprudência parece certo.
+ANTONIO: O artigo quarto fala em analogia, costumes e princípios gerais de direito. Equidade e jurisprudência não estão nessa lista.
+FRANCISCA: A E também erra: pelo artigo primeiro, parágrafo quarto, as correções a texto em vigor consideram-se lei nova.
+BRUNO: Sobra a A, correta: artigo segundo, parágrafo terceiro. A repristinação só ocorre se for expressa.
+THALITA: Macete: repristinação, só se expressa; vigência geral, quarenta e cinco dias.
+ANTONIO: Terminamos este bloco. Na sequência, mais seis questões, agora sobre a reforma da Lei de Introdução, delegação, decretos, poder de polícia, desvio de poder e abuso de autoridade.
