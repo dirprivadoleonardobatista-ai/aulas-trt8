@@ -1,0 +1,67 @@
+SEGMENTO s189
+== SLIDE: Aula 55: audiência, provas, procedimentos e sentença
+* Reclamação: forma, requisitos e notificação
+* Audiências; ausência das partes; provas
+* Ordinário, sumaríssimo e sumário
+* Art. 840: reclamação escrita ou verbal
+ANTONIO: Olá, pessoal, sejam bem-vindos! Esta é a aula cinquenta e cinco, de Direito Processual do Trabalho, terceira parte, que trata de audiência, provas, procedimentos e sentença. Vamos ver a reclamação trabalhista, forma, requisitos e notificação; as audiências; a ausência das partes, com arquivamento, revelia e confissão; as provas; e os procedimentos ordinário, sumaríssimo e sumário.
+FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase, a jurisprudência e exemplos.
+BRUNO: Eu sou o Bruno, especialista em FCC. Mostro as pegadinhas da banca.
+THALITA: E eu sou a Thalita, concurseira, com perguntas, palpites e macetes.
+ANTONIO: Começando pela reclamação trabalhista. Ela é a petição inicial do dissídio individual, e a CLT a trata com informalidade. Pelo artigo oitocentos e quarenta, pode ser escrita ou verbal.
+FRANCISCA: E preserva o jus postulandi, do artigo setecentos e noventa e um: a parte pode reclamar pessoalmente, sem advogado, nas Varas e nos TRTs. O artigo oitocentos e trinta e nove legitima empregados e empregadores, pessoalmente ou por representantes, os sindicatos e, pelas Procuradorias Regionais, o Ministério Público do Trabalho, hoje em hipóteses excepcionais.
+THALITA: Por exemplo?
+BRUNO: O menor sem representante, artigo setecentos e noventa e três. Já o menor com representante reclama por meio deles. O sindicato atua como substituto processual ou representante. E vários empregados reclamam juntos na reclamação plúrima do artigo oitocentos e quarenta e dois, com identidade de matéria e mesma empresa ou estabelecimento.
+ANTONIO: Atenção: o jus postulandi não alcança a rescisória, a cautelar, o mandado de segurança e os recursos de competência do TST, Súmula quatrocentos e vinte e cinco. E não serve para homologação de acordo extrajudicial, em que as partes têm advogados distintos, artigo oitocentos e cinquenta e cinco-B.
+THALITA: Então, jus postulandi só nas Varas e nos TRTs.
+== SLIDE: Reclamação verbal e perempção trabalhista
+* Art. 786: distribui primeiro, reduz a termo depois
+* 5 dias para reduzir, salvo força maior
+* Art. 731: perda do direito de reclamar por 6 meses
+* Art. 732: 2 arquivamentos seguidos, mesma pena
+BRUNO: Vamos à reclamação verbal. A ordem é distribui primeiro, reduz a termo depois. A FCC inverte isso. Distribuída a reclamação, o reclamante tem cinco dias para se apresentar ao cartório ou à secretaria, salvo força maior, sob a pena do artigo setecentos e trinta e um.
+THALITA: E qual é a pena?
+FRANCISCA: Perda, pelo prazo de seis meses, do direito de reclamar perante a Justiça do Trabalho. É a chamada perempção trabalhista, ou perempção provisória. O artigo setecentos e trinta e dois aplica a mesma pena ao reclamante que der causa a dois arquivamentos seguidos, do artigo oitocentos e quarenta e quatro.
+ANTONIO: Diferente da perempção do CPC, em que três abandonos extinguem o direito de demandar sobre o mesmo objeto. Na CLT, a sanção é temporária, de seis meses.
+THALITA: Dois arquivamentos seguidos, e seis meses. Não é três?
+BRUNO: Pegadinha clássica! Três é o CPC. Na CLT, são dois arquivamentos seguidos. As outras trocas: perda definitiva do direito, errado, é por seis meses. Dez dias para reduzir a termo, errado, são cinco.
+FRANCISCA: Resumindo: verbal, distribui, reduz a termo em cinco dias, ou perde o direito por seis meses.
+THALITA: Cinco dias, seis meses, dois arquivamentos. Decorei.
+== SLIDE: Requisitos da reclamação escrita
+* Art. 840, § 1º: juízo, partes, fatos, pedido certo, determinado e com valor, data e assinatura
+* § 3º: pedido defeituoso extinto sem resolução do mérito
+* IN 41/2018: valor estimado
+* Súmula 263 e art. 321 CPC: emenda
+ANTONIO: Pela Reforma, a reclamação escrita deve conter designação do juízo, qualificação das partes, breve exposição dos fatos de que resulte o dissídio, pedido certo, determinado e com indicação de valor, data e assinatura do reclamante ou representante, artigo oitocentos e quarenta, parágrafo primeiro. A reclamação verbal é reduzida a termo, em duas vias datadas e assinadas pelo escrivão ou secretário, observado o parágrafo primeiro no que couber.
+THALITA: E se o pedido não tiver valor?
+FRANCISCA: O parágrafo terceiro manda julgar extintos sem resolução do mérito os pedidos que não atendam ao parágrafo primeiro. Atenção: são extintos os pedidos defeituosos, e não necessariamente toda a ação.
+BRUNO: A Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, estendeu a todos os ritos a exigência de pedido líquido, que antes era própria do sumaríssimo. A CLT, diferentemente do CPC, não exige causa de pedir minuciosa, apenas breve exposição dos fatos, nem requerimento de provas, nem opção por audiência de conciliação.
+ANTONIO: A Instrução Normativa quarenta e um do TST, artigo doze, parágrafo segundo, diz que o valor será estimado, observados, no que couber, os artigos duzentos e noventa e um a duzentos e noventa e três do CPC. A SBDI-um entende que esses valores não limitam a condenação. Confira o estágio atual dessa orientação.
+THALITA: Mas o juiz não dá chance de emendar antes de extinguir?
+FRANCISCA: Parte da jurisprudência exige prazo para emenda, pelo artigo trezentos e vinte e um do CPC e a Súmula duzentos e sessenta e três do TST. Mas, em prova objetiva, prevalece a letra do parágrafo terceiro: extinção sem resolução do mérito.
+THALITA: Então, na prova, pedido ilíquido leva à extinção do pedido. Anotei.
+== SLIDE: Notificação do reclamado: artigo 841
+* Secretaria remete em 48 horas, independentemente de despacho
+* Via postal; edital se houver embaraço ou não encontrado
+* Audiência: primeira desimpedida depois de 5 dias
+* Súmula 16: presume-se recebida em 48 horas
+BRUNO: Na CLT, a citação se chama notificação. Recebida e protocolada a reclamação, a secretaria, em quarenta e oito horas, remete a segunda via da petição ou do termo ao reclamado, notificando-o para comparecer à audiência, que será a primeira desimpedida depois de cinco dias. Artigo oitocentos e quarenta e um.
+THALITA: Precisa de despacho do juiz?
+ANTONIO: Não. A secretaria faz sozinha, por via postal, com franquia, e não por oficial de justiça, como regra.
+FRANCISCA: Se o reclamado criar embaraços ao recebimento ou não for encontrado, a notificação é por edital, no jornal oficial ou no que publicar o expediente forense, ou, na falta, afixado na sede da Vara. O reclamante é notificado no ato da apresentação da reclamação.
+BRUNO: Para entes públicos, o intervalo mínimo é de vinte dias, o quádruplo, Decreto-Lei setecentos e setenta e nove, de mil novecentos e sessenta e nove.
+ANTONIO: A Súmula dezesseis do TST: presume-se recebida a notificação quarenta e oito horas depois da postagem, e o não recebimento ou a entrega tardia é ônus de prova do destinatário.
+THALITA: Exemplo, por favor.
+FRANCISCA: A reclamação de Ana contra a Alfa foi protocolada numa segunda-feira. A Secretaria tem até quarta, quarenta e oito horas, para postar. Postada na quarta, presume-se recebida na sexta. A audiência é a primeira desimpedida depois de cinco dias do recebimento. Se a reclamada fosse um Município, o intervalo mínimo seria de vinte dias.
+BRUNO: E a desistência? Pelo parágrafo terceiro, oferecida a contestação, ainda que eletronicamente, o reclamante não pode desistir sem o consentimento do reclamado. Como a defesa pode ser juntada no PJe antes da audiência, a desistência unilateral fica vedada a partir dessa juntada.
+THALITA: Antes da contestação, desiste sozinho; depois, só com o consentimento do réu.
+BRUNO: E uma troca frequente: no sumaríssimo não cabe citação por edital, artigo oitocentos e cinquenta e dois-B, inciso dois. No ordinário, cabe.
+== SLIDE: Revisão da reclamação trabalhista
+* Escrita ou verbal; jus postulandi até o TRT
+* Verbal: distribui, 5 dias, perempção de 6 meses
+* Pedido certo, determinado e com valor; senão, extinção do pedido
+* Notificação: 48 horas, postal, audiência depois de 5 dias
+THALITA: Deixa eu fazer uma revisão rápida. Reclamação escrita ou verbal. Verbal distribui antes, reduz a termo em cinco dias, e a perempção é de seis meses. Pedido certo, determinado e com valor estimado, senão é extinto sem resolução do mérito.
+FRANCISCA: Muito bem. E a notificação?
+THALITA: Quarenta e oito horas para a secretaria remeter, por via postal, audiência na primeira data desimpedida depois de cinco dias, e edital só se o réu se esconder ou não for encontrado, mas nunca no sumaríssimo. Presume-se recebida em quarenta e oito horas, Súmula dezesseis.
+ANTONIO: Perfeito, Thalita. Com a reclamação protocolada e a notificação expedida, o processo caminha para o seu momento central: a audiência trabalhista, nosso próximo tema.
