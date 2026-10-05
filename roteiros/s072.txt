@@ -4,81 +4,81 @@ SEGMENTO s072
 * Decisão judicial descumprida: tribunal REQUISITA (art. 36, II)
 * Representação do PGR: só princípios sensíveis e lei federal
 * Executivo pede, Judiciário manda
-ANTONIO: Seguimos com as questões comentadas, agora a segunda metade da bateria. Questão sete, estilo Oficial de Justiça. O Governador do Estado Delta está sendo impedido, por grupos armados, de exercer suas funções. Em outro episódio, o mesmo Estado descumpre reiteradamente decisão do Superior Tribunal de Justiça. Pergunta: de que depende a intervenção federal, respectivamente? Pausa para você pensar.
+FRANCISCA: Seguimos com as questões comentadas, agora a segunda metade da bateria. Questão sete, estilo Oficial de Justiça. O Governador do Estado Delta está sendo impedido, por grupos armados, de exercer suas funções. Em outro episódio, o mesmo Estado descumpre reiteradamente decisão do Superior Tribunal de Justiça. Pergunta: de que depende a intervenção federal, respectivamente? Pausa para você pensar.
 THALITA: Já me adianto: coação no Executivo, solicitação. Decisão do STJ descumprida, requisição do próprio STJ. Estou certa?
 FRANCISCA: Certíssima, Thalita. É o artigo trinta e seis, incisos um e dois. Quando o Executivo está coato ou impedido, ele mesmo solicita ao Presidente da República. Quando é decisão judicial descumprida, requisita o tribunal que a proferiu, e pode ser o Supremo, o STJ ou o TSE, conforme o caso.
-BRUNO: Gabarito C. Vamos às alternativas. A está errada porque mistura tudo: requisição do Supremo só valeria se a coação atingisse o Judiciário, e tribunais requisitam, não solicitam. A B traz a representação do Procurador-Geral da República, mas isso é para os princípios sensíveis e para a execução de lei federal, não para este caso.
-THALITA: E a D? Parecia bonita.
-BRUNO: Inverte os termos. Ela põe requisição no Executivo e solicitação nos tribunais. É a troca clássica de verbos, a FCC adora.
-ANTONIO: E a E diz que o Presidente decreta de ofício nos dois casos. Errada: as hipóteses do artigo trinta e quatro, incisos quatro e seis, são de intervenção provocada. Sem provocação, não há decreto.
-FRANCISCA: Guardem a dica: Executivo pede, Judiciário manda. Solicitação vem do Executivo, requisição vem do tribunal.
-THALITA: Executivo pede, Judiciário manda. Vou escrever isso no caderno com caneta vermelha.
-BRUNO: E lembre: quem foi desobedecido é quem requisita. Decisão do STJ descumprida, requisição do STJ. Decisão eleitoral, requisição do TSE.
+THALITA: Gabarito C. Vamos às alternativas. A está errada porque mistura tudo: requisição do Supremo só valeria se a coação atingisse o Judiciário, e tribunais requisitam, não solicitam. A B traz a representação do Procurador-Geral da República, mas isso é para os princípios sensíveis e para a execução de lei federal, não para este caso.
+FRANCISCA: E a D? Parecia bonita.
+THALITA: Inverte os termos. Ela põe requisição no Executivo e solicitação nos tribunais. É a troca clássica de verbos, a FCC adora.
+FRANCISCA: E a E diz que o Presidente decreta de ofício nos dois casos. Errada: as hipóteses do artigo trinta e quatro, incisos quatro e seis, são de intervenção provocada. Sem provocação, não há decreto.
+THALITA: Guardem a dica: Executivo pede, Judiciário manda. Solicitação vem do Executivo, requisição vem do tribunal.
+FRANCISCA: Executivo pede, Judiciário manda. Vou escrever isso no caderno com caneta vermelha.
+THALITA: E lembre: quem foi desobedecido é quem requisita. Decisão do STJ descumprida, requisição do STJ. Decisão eleitoral, requisição do TSE.
 == SLIDE: Questão oito: o decreto de intervenção
 * Interventor só "se couber" (art. 36, §1º)
 * Congresso aprecia em 24 horas; sem sessão, convocação extra
 * Princípios sensíveis: decreto pode só suspender o ato
 * Intervenção em vigor: sem emenda (art. 60, §1º)
-ANTONIO: Questão oito, estilo Técnico Judiciário. Sobre o decreto de intervenção federal, quatro itens. Item um: o decreto especifica amplitude, prazo e condições e sempre nomeia interventor. Item dois: submetido ao Congresso em vinte e quatro horas, com convocação extraordinária no mesmo prazo se necessário. Item três: nos princípios sensíveis, dispensa-se a apreciação do Congresso, e o decreto se limita a suspender o ato impugnado, se isso bastar. Item quatro: na vigência da intervenção, a Constituição só pode ser emendada por proposta do Presidente. Pausa para pensar.
+FRANCISCA: Questão oito, estilo Técnico Judiciário. Sobre o decreto de intervenção federal, quatro itens. Item um: o decreto especifica amplitude, prazo e condições e sempre nomeia interventor. Item dois: submetido ao Congresso em vinte e quatro horas, com convocação extraordinária no mesmo prazo se necessário. Item três: nos princípios sensíveis, dispensa-se a apreciação do Congresso, e o decreto se limita a suspender o ato impugnado, se isso bastar. Item quatro: na vigência da intervenção, a Constituição só pode ser emendada por proposta do Presidente. Pausa para pensar.
 THALITA: O um me enganou duas vezes. Achei que o interventor era obrigatório.
 FRANCISCA: Não é. O parágrafo primeiro do artigo trinta e seis manda nomear interventor se couber. Às vezes basta suspender o ato, e nem se nomeia ninguém. Item um, falso.
-BRUNO: O dois é verdadeiro. O decreto vai ao Congresso em vinte e quatro horas, e se ele estiver em recesso, a convocação extraordinária é no mesmo prazo. Parágrafos primeiro e segundo do artigo trinta e seis.
-THALITA: O três parece estranho, porque eu pensava que o Congresso sempre apreciava.
-FRANCISCA: Quase sempre. Mas no caso dos princípios sensíveis, se a suspensão do ato bastar para restabelecer a normalidade, o Congresso não precisa apreciar. É o parágrafo terceiro do artigo trinta e seis, combinado com o artigo trinta e quatro, inciso sete. Verdadeiro.
-ANTONIO: E o quatro é falso. Durante a intervenção, a Constituição não pode ser emendada, quem quer que proponha. É o artigo sessenta, parágrafo primeiro.
-BRUNO: Então só dois e três estão certos: gabarito D. A alternativa A erra no um, a B erra no um e no quatro, a C e a E erram no quatro. Quem enxergou que o quatro era falso eliminou três alternativas de uma vez.
-THALITA: Macete: intervenção em vigor, emenda travada. Junto com estado de defesa e de sítio.
+THALITA: O dois é verdadeiro. O decreto vai ao Congresso em vinte e quatro horas, e se ele estiver em recesso, a convocação extraordinária é no mesmo prazo. Parágrafos primeiro e segundo do artigo trinta e seis.
+FRANCISCA: O três parece estranho, porque eu pensava que o Congresso sempre apreciava.
+THALITA: Quase sempre. Mas no caso dos princípios sensíveis, se a suspensão do ato bastar para restabelecer a normalidade, o Congresso não precisa apreciar. É o parágrafo terceiro do artigo trinta e seis, combinado com o artigo trinta e quatro, inciso sete. Verdadeiro.
+FRANCISCA: E o quatro é falso. Durante a intervenção, a Constituição não pode ser emendada, quem quer que proponha. É o artigo sessenta, parágrafo primeiro.
+THALITA: Então só dois e três estão certos: gabarito D. A alternativa A erra no um, a B erra no um e no quatro, a C e a E erram no quatro. Quem enxergou que o quatro era falso eliminou três alternativas de uma vez.
+FRANCISCA: Macete: intervenção em vigor, emenda travada. Junto com estado de defesa e de sítio.
 == SLIDE: Questão nove: acumulação e teto
 * Professor mais cargo técnico ou científico (art. 37, XVI, b)
 * Compatibilidade de horários sempre exigida
 * Teto aplicado a cada vínculo (Temas 377 e 384 do STF)
 * Acumulação lícita é remunerada
-ANTONIO: Questão nove. Márcio é servidor ocupante de cargo técnico de nível superior em autarquia estadual e quer tomar posse em cargo de professor de universidade federal. Considerando a Constituição e a jurisprudência do STF, a acumulação como fica? Pense um instante.
-THALITA: Eu diria que é possível, porque é professor com cargo técnico. Só precisa de horário compatível.
-FRANCISCA: Exatamente. É o artigo trinta e sete, inciso dezesseis, alínea b: um cargo de professor com outro técnico ou científico. E exige compatibilidade de horários. Gabarito B.
-BRUNO: Agora a pegadinha final da B: o teto remuneratório incide sobre cada vínculo isoladamente, não sobre a soma. É o entendimento do Supremo nos Temas trezentos e setenta e sete e trezentos e oitenta e quatro.
+THALITA: Questão nove. Márcio é servidor ocupante de cargo técnico de nível superior em autarquia estadual e quer tomar posse em cargo de professor de universidade federal. Considerando a Constituição e a jurisprudência do STF, a acumulação como fica? Pense um instante.
+FRANCISCA: Eu diria que é possível, porque é professor com cargo técnico. Só precisa de horário compatível.
+THALITA: Exatamente. É o artigo trinta e sete, inciso dezesseis, alínea b: um cargo de professor com outro técnico ou científico. E exige compatibilidade de horários. Gabarito B.
+FRANCISCA: Agora a pegadinha final da B: o teto remuneratório incide sobre cada vínculo isoladamente, não sobre a soma. É o entendimento do Supremo nos Temas trezentos e setenta e sete e trezentos e oitenta e quatro.
 THALITA: Então a A está errada porque esqueceu essa hipótese de professor com cargo técnico?
-BRUNO: Isso. Ela diz que só cabem dois de professor ou dois de saúde. Falta a alínea b. A C erra duas vezes: diz que dispensa compatibilidade de horários e que o teto incide sobre a soma. A compatibilidade é sempre exigida.
-FRANCISCA: A D diz que a vedação às autarquias não tem exceção. Mas o inciso dezessete só estende a proibição de acumular às autarquias e demais entidades; as exceções do inciso dezesseis continuam valendo. E a E exige renúncia a uma das remunerações. Não existe isso: a acumulação lícita é remunerada.
-ANTONIO: Resumindo, tudo gira em torno de compatibilidade de horários e teto por vínculo.
+FRANCISCA: Isso. Ela diz que só cabem dois de professor ou dois de saúde. Falta a alínea b. A C erra duas vezes: diz que dispensa compatibilidade de horários e que o teto incide sobre a soma. A compatibilidade é sempre exigida.
+THALITA: A D diz que a vedação às autarquias não tem exceção. Mas o inciso dezessete só estende a proibição de acumular às autarquias e demais entidades; as exceções do inciso dezesseis continuam valendo. E a E exige renúncia a uma das remunerações. Não existe isso: a acumulação lícita é remunerada.
+FRANCISCA: Resumindo, tudo gira em torno de compatibilidade de horários e teto por vínculo.
 THALITA: Dois cargos, dois tetos. Meu macete.
 == SLIDE: Questão dez: limite remuneratório
 * Municípios: subsídio do Prefeito (art. 37, XI)
 * Indenizatórias fora do teto (art. 37, §11)
 * Estatais que recebem recursos para pessoal entram (§9º)
 * Subteto único exige emenda à Constituição estadual (§12)
-ANTONIO: Questão dez, Oficial de Justiça. Quanto ao limite remuneratório no serviço público, qual alternativa está correta? Vou ler só a certa depois: pausa para você pensar.
-BRUNO: Gabarito A. Nos Municípios, o limite é o subsídio do Prefeito, e as parcelas de caráter indenizatório previstas em lei ficam fora do teto. É o artigo trinta e sete, inciso onze, e parágrafo onze.
-THALITA: E a B? Achei que o limite do Estado fosse sempre o Governador.
-FRANCISCA: Em regra cada Poder estadual tem o seu subteto: Governador, Deputados estaduais e Desembargadores, que recebem noventa vírgula vinte e cinco por cento do subsídio dos Ministros do Supremo. Então dizer que é necessariamente o Governador para os três Poderes está errado.
-THALITA: A C diz que o teto não alcança estatais. Isso eu sei que é errado.
-FRANCISCA: Correto. O parágrafo nono estende o teto às empresas públicas e sociedades de economia mista que recebam recursos do ente para pagamento de pessoal ou para custeio em geral.
-BRUNO: A D é outra clássica: vantagens pessoais fora do teto por direito adquirido. Errado. O inciso onze inclui expressamente as vantagens pessoais ou de qualquer natureza. E a E: subteto único por lei ordinária. Errado de novo. O parágrafo doze exige emenda à Constituição estadual ou à Lei Orgânica do Distrito Federal, e esse subteto único não se aplica a Deputados estaduais nem a Vereadores.
-ANTONIO: Duas palavras separam o certo do errado: emenda, não lei ordinária; e indenizatória, que fica de fora do teto.
-THALITA: Indenizatória sai, vantagem pessoal entra.
+FRANCISCA: Questão dez, Oficial de Justiça. Quanto ao limite remuneratório no serviço público, qual alternativa está correta? Vou ler só a certa depois: pausa para você pensar.
+THALITA: Gabarito A. Nos Municípios, o limite é o subsídio do Prefeito, e as parcelas de caráter indenizatório previstas em lei ficam fora do teto. É o artigo trinta e sete, inciso onze, e parágrafo onze.
+FRANCISCA: E a B? Achei que o limite do Estado fosse sempre o Governador.
+THALITA: Em regra cada Poder estadual tem o seu subteto: Governador, Deputados estaduais e Desembargadores, que recebem noventa vírgula vinte e cinco por cento do subsídio dos Ministros do Supremo. Então dizer que é necessariamente o Governador para os três Poderes está errado.
+FRANCISCA: A C diz que o teto não alcança estatais. Isso eu sei que é errado.
+THALITA: Correto. O parágrafo nono estende o teto às empresas públicas e sociedades de economia mista que recebam recursos do ente para pagamento de pessoal ou para custeio em geral.
+FRANCISCA: A D é outra clássica: vantagens pessoais fora do teto por direito adquirido. Errado. O inciso onze inclui expressamente as vantagens pessoais ou de qualquer natureza. E a E: subteto único por lei ordinária. Errado de novo. O parágrafo doze exige emenda à Constituição estadual ou à Lei Orgânica do Distrito Federal, e esse subteto único não se aplica a Deputados estaduais nem a Vereadores.
+THALITA: Duas palavras separam o certo do errado: emenda, não lei ordinária; e indenizatória, que fica de fora do teto.
+FRANCISCA: Indenizatória sai, vantagem pessoal entra.
 == SLIDE: Questão onze: concurso e contratação temporária
 * Validade: até dois anos, prorrogável UMA vez (art. 37, III)
 * Temporária: não serve a serviço ordinário e permanente
 * Fora das vagas: sem direito automático (Tema 784)
 * Sem concurso: Súmula 363 do TST; psicotécnico só por lei
-ANTONIO: Questão onze, Técnico Judiciário. Sobre concurso público e contratação temporária, nos termos da Constituição e da jurisprudência do STF e do TST, o que é correto? Pense um pouco.
-THALITA: Eu marcaria D, que fala de contratação sem concurso. Mas quero ouvir o porquê.
-FRANCISCA: Está certa. A contratação sem concurso depois de mil novecentos e oitenta e oito é nula, artigo trinta e sete, inciso dois e parágrafo segundo. Segundo a Súmula trezentos e sessenta e três do TST, o trabalhador tem direito apenas ao pagamento das horas trabalhadas, respeitado o valor da hora do salário mínimo, e aos depósitos do FGTS.
-BRUNO: Agora as erradas. A A diz prorrogável sucessivamente. Errado: a validade é de até dois anos, prorrogável uma única vez, por igual período. A B diz que a contratação temporária pode suprir serviços ordinários e permanentes. O Tema seiscentos e doze do Supremo veda isso.
+THALITA: Questão onze, Técnico Judiciário. Sobre concurso público e contratação temporária, nos termos da Constituição e da jurisprudência do STF e do TST, o que é correto? Pense um pouco.
+FRANCISCA: Eu marcaria D, que fala de contratação sem concurso. Mas quero ouvir o porquê.
+THALITA: Está certa. A contratação sem concurso depois de mil novecentos e oitenta e oito é nula, artigo trinta e sete, inciso dois e parágrafo segundo. Segundo a Súmula trezentos e sessenta e três do TST, o trabalhador tem direito apenas ao pagamento das horas trabalhadas, respeitado o valor da hora do salário mínimo, e aos depósitos do FGTS.
+FRANCISCA: Agora as erradas. A A diz prorrogável sucessivamente. Errado: a validade é de até dois anos, prorrogável uma única vez, por igual período. A B diz que a contratação temporária pode suprir serviços ordinários e permanentes. O Tema seiscentos e doze do Supremo veda isso.
 THALITA: E a C? Aprovado fora das vagas, mas surgiu vaga nova.
-BRUNO: Pelo Tema setecentos e oitenta e quatro, novas vagas, por si sós, não geram direito à nomeação. Só em caso de preterição arbitrária e imotivada.
-FRANCISCA: E a E fala do psicotécnico previsto só no edital. A Súmula Vinculante quarenta e quatro exige previsão em lei.
-ANTONIO: Fechando: validade, uma prorrogação; temporária, nunca para o permanente; psicotécnico, só por lei.
+FRANCISCA: Pelo Tema setecentos e oitenta e quatro, novas vagas, por si sós, não geram direito à nomeação. Só em caso de preterição arbitrária e imotivada.
+THALITA: E a E fala do psicotécnico previsto só no edital. A Súmula Vinculante quarenta e quatro exige previsão em lei.
+FRANCISCA: Fechando: validade, uma prorrogação; temporária, nunca para o permanente; psicotécnico, só por lei.
 THALITA: Lei para o psicotécnico, uma prorrogação só. Gravado.
 == SLIDE: Questão doze e revisão relâmpago
 * Reintegrado: servidor estável demitido, demissão invalidada
 * Ocupante da vaga: reconduzido, sem indenização (art. 41, §2º)
 * Ou aproveitado, ou em disponibilidade proporcional
 * Revisão: teto, acumulação, intervenção, estabilidade
-ANTONIO: Última questão da aula. Ana, servidora estável, foi demitida após processo administrativo, e a demissão foi invalidada por sentença. Na vaga dela havia sido nomeado Bruno, também servidor estável. Segundo a Constituição, o que acontece? Pausa para pensar.
+FRANCISCA: Última questão da aula. Ana, servidora estável, foi demitida após processo administrativo, e a demissão foi invalidada por sentença. Na vaga dela havia sido nomeado Bruno, também servidor estável. Segundo a Constituição, o que acontece? Pausa para pensar.
 THALITA: Ana volta, e Bruno sai. Mas sai para onde?
 FRANCISCA: Artigo quarenta e um, parágrafo segundo. Ana é reintegrada. Bruno é reconduzido ao cargo de origem, sem direito a indenização, ou é aproveitado em outro cargo, ou fica em disponibilidade com remuneração proporcional ao tempo de serviço. Gabarito B.
-BRUNO: A A troca os institutos e dá indenização. A C manda aproveitar Ana em outro cargo, mas quem cede a vaga é o ocupante. A D fala de disponibilidade com remuneração integral: errado, é proporcional. E a E diz que Ana não volta, porque houve processo com ampla defesa. Errado: a invalidação judicial impõe a reintegração.
-ANTONIO: Reintegração é para quem foi demitido ilegalmente; recondução, para o ocupante da vaga. Não troque os dois.
+THALITA: A A troca os institutos e dá indenização. A C manda aproveitar Ana em outro cargo, mas quem cede a vaga é o ocupante. A D fala de disponibilidade com remuneração integral: errado, é proporcional. E a E diz que Ana não volta, porque houve processo com ampla defesa. Errado: a invalidação judicial impõe a reintegração.
+FRANCISCA: Reintegração é para quem foi demitido ilegalmente; recondução, para o ocupante da vaga. Não troque os dois.
 THALITA: Revisão relâmpago do que mais cai: um, executivo pede e judiciário manda na intervenção, e com intervenção em vigor não se emenda a Constituição. Dois, acumulação lícita exige horário compatível, e o teto vale por vínculo. Três, indenizatória fora do teto, subteto único só por emenda. Quatro, concurso vale até dois anos com uma prorrogação, psicotécnico só por lei. Cinco, reintegrado volta e ocupante é reconduzido sem indenização.
-ANTONIO: É isso, pessoal. Revisem os erros, refaçam as questões e nos vemos na próxima aula. Bons estudos!
+FRANCISCA: É isso, pessoal. Revisem os erros, refaçam as questões e nos vemos na próxima aula. Bons estudos!

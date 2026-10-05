@@ -6,94 +6,89 @@ SEGMENTO s112
 * Sem contraprestação pública: concessão comum
 FRANCISCA: Terminamos a concessão comum. Agora a Lei onze mil e setenta e nove, de dois mil e quatro, das parcerias público-privadas, as PPPs. A PPP é um contrato administrativo de concessão, e pode ser de duas modalidades: patrocinada ou administrativa.
 THALITA: Como eu distingo?
-ANTONIO: A patrocinada é a concessão de serviços ou de obras públicas da Lei oito mil novecentos e oitenta e sete que envolve, além da tarifa cobrada dos usuários, uma contraprestação pecuniária do parceiro público ao parceiro privado. A administrativa é o contrato de prestação de serviços em que a Administração seja a usuária, direta ou indireta, mesmo que envolva obra ou fornecimento e instalação de bens.
-BRUNO: Atenção a um ponto: sem contraprestação pecuniária do poder público, não há PPP. É concessão comum, regida pela lei geral.
-THALITA: Então, se não tem dinheiro do governo, é concessão comum.
-FRANCISCA: Isso. Fixe com exemplos. A patrocinada é a rodovia com pedágio insuficiente, que recebe também verba do governo. A administrativa é a construção e gestão de um presídio ou hospital, em que quem paga é a Administração. A concessão comum é a rodovia com pedágio autossustentável.
-ANTONIO: Na administrativa não há tarifa paga por usuário. Quem paga é a Administração.
-BRUNO: A pegadinha clássica é dizer que na PPP administrativa os usuários pagam tarifa. Errado. Na patrocinada, tarifa mais contraprestação. Na administrativa, só contraprestação. Na comum, só tarifa e receitas acessórias.
-THALITA: Entendi: patrocinada, duas fontes. Administrativa, só governo. Comum, só usuário.
-
+FRANCISCA: A patrocinada é a concessão de serviços ou de obras públicas da Lei oito mil novecentos e oitenta e sete que envolve, além da tarifa cobrada dos usuários, uma contraprestação pecuniária do parceiro público ao parceiro privado. A administrativa é o contrato de prestação de serviços em que a Administração seja a usuária, direta ou indireta, mesmo que envolva obra ou fornecimento e instalação de bens.
+THALITA: Atenção a um ponto: sem contraprestação pecuniária do poder público, não há PPP. É concessão comum, regida pela lei geral.
+FRANCISCA: Então, se não tem dinheiro do governo, é concessão comum.
+THALITA: Isso. Fixe com exemplos. A patrocinada é a rodovia com pedágio insuficiente, que recebe também verba do governo. A administrativa é a construção e gestão de um presídio ou hospital, em que quem paga é a Administração. A concessão comum é a rodovia com pedágio autossustentável.
+FRANCISCA: Na administrativa não há tarifa paga por usuário. Quem paga é a Administração.
+THALITA: A pegadinha clássica é dizer que na PPP administrativa os usuários pagam tarifa. Errado. Na patrocinada, tarifa mais contraprestação. Na administrativa, só contraprestação. Na comum, só tarifa e receitas acessórias.
+FRANCISCA: Entendi: patrocinada, duas fontes. Administrativa, só governo. Comum, só usuário.
 == SLIDE: Vedações, prazos e números da PPP
 * Valor mínimo: 10 milhões de reais
 * Período mínimo de prestação: 5 anos
 * Vedado objeto único: mão de obra, equipamentos ou obra
 * Vigência: 5 a 35 anos, incluída a prorrogação
 * Concorrência ou diálogo competitivo; autorização legislativa se mais de 70%
-ANTONIO: Os números caem muito em prova. O valor mínimo do contrato é de dez milhões de reais. Antes de uma lei de dois mil e dezessete, era vinte milhões.
-BRUNO: O período mínimo de prestação do serviço é de cinco anos. E a vigência total vai de cinco a trinta e cinco anos, incluindo eventual prorrogação.
+THALITA: Os números caem muito em prova. O valor mínimo do contrato é de dez milhões de reais. Antes de uma lei de dois mil e dezessete, era vinte milhões.
+FRANCISCA: O período mínimo de prestação do serviço é de cinco anos. E a vigência total vai de cinco a trinta e cinco anos, incluindo eventual prorrogação.
 THALITA: Então o prazo de trinta e cinco já inclui a prorrogação? Eu achava que dava para prorrogar além.
-BRUNO: Não dá. É a pegadinha: trinta e cinco anos é o teto, com a prorrogação dentro dele.
-FRANCISCA: Há também uma vedação de objeto. Não pode ter por objeto único o fornecimento de mão de obra, o fornecimento e instalação de equipamentos, ou a execução de obra pública.
-ANTONIO: A palavra-chave é único. A PPP pode envolver obra e mão de obra, desde que associadas à prestação de um serviço.
+FRANCISCA: Não dá. É a pegadinha: trinta e cinco anos é o teto, com a prorrogação dentro dele.
+THALITA: Há também uma vedação de objeto. Não pode ter por objeto único o fornecimento de mão de obra, o fornecimento e instalação de equipamentos, ou a execução de obra pública.
+FRANCISCA: A palavra-chave é único. A PPP pode envolver obra e mão de obra, desde que associadas à prestação de um serviço.
 THALITA: Então vedada a PPP só de obra, mas pode obra mais serviço.
 FRANCISCA: Isso. A licitação é por concorrência ou diálogo competitivo. E, para a patrocinada, em que mais de setenta por cento da remuneração seja paga pela Administração, é necessária autorização legislativa específica.
-BRUNO: Mais um número: quando as despesas de Estados, Distrito Federal e municípios com PPPs passam de cinco por cento da receita corrente líquida, a União não dá garantia nem transferência voluntária.
-THALITA: Dez milhões, cinco anos, cinco a trinta e cinco, setenta por cento, cinco por cento. Fechei a lista?
-ANTONIO: Fechou.
-
+THALITA: Mais um número: quando as despesas de Estados, Distrito Federal e municípios com PPPs passam de cinco por cento da receita corrente líquida, a União não dá garantia nem transferência voluntária.
+FRANCISCA: Dez milhões, cinco anos, cinco a trinta e cinco, setenta por cento, cinco por cento. Fechei a lista?
+THALITA: Fechou.
 == SLIDE: Riscos, contraprestação, garantias e SPE
 * Repartição objetiva de riscos
 * Contraprestação: ordem bancária, créditos, direitos, bens dominicais
 * Pagamento após a disponibilização do serviço
 * Garantias: receitas vinculadas, fundos, seguro, fundo garantidor
 * SPE antes do contrato; Administração sem maioria votante
-BRUNO: A PPP tem repartição objetiva de riscos entre as partes, inclusive caso fortuito, força maior, fato do príncipe e álea econômica extraordinária.
+FRANCISCA: A PPP tem repartição objetiva de riscos entre as partes, inclusive caso fortuito, força maior, fato do príncipe e álea econômica extraordinária.
 THALITA: O parceiro público paga como? Só em dinheiro?
 FRANCISCA: Não necessariamente. A contraprestação pode ser por ordem bancária, cessão de créditos não tributários, outorga de direitos contra a Administração, outorga de direitos sobre bens dominicais, ou outros meios legais.
-ANTONIO: E o pagamento só pode ocorrer, obrigatoriamente, depois da disponibilização do serviço. É facultado pagar parcela fruível, quando houver parte do serviço já utilizável.
-BRUNO: A FCC diz que a Administração paga antes, para viabilizar a obra. Errado: depois da disponibilização.
+THALITA: E o pagamento só pode ocorrer, obrigatoriamente, depois da disponibilização do serviço. É facultado pagar parcela fruível, quando houver parte do serviço já utilizável.
+FRANCISCA: A FCC diz que a Administração paga antes, para viabilizar a obra. Errado: depois da disponibilização.
 THALITA: Mas e as garantias para o parceiro privado?
 FRANCISCA: Podem ser a vinculação de receitas, a instituição de fundos especiais, o seguro-garantia com seguradora que não seja controlada pelo poder público, garantias de organismos internacionais ou instituições financeiras não controladas pelo poder público, e fundo garantidor ou empresa estatal criada para essa finalidade.
-ANTONIO: Por fim, a sociedade de propósito específico, a SPE. Ela precisa ser constituída antes da celebração do contrato, e é vedado à Administração deter a maioria do capital votante.
-THALITA: Salvo alguma exceção?
-ANTONIO: Salvo a aquisição por instituição financeira pública, em caso de inadimplemento de financiamento.
-BRUNO: Tudo isso aparece em alternativa de erro e acerto. Releia a SPE com cuidado.
-
+THALITA: Por fim, a sociedade de propósito específico, a SPE. Ela precisa ser constituída antes da celebração do contrato, e é vedado à Administração deter a maioria do capital votante.
+FRANCISCA: Salvo alguma exceção?
+THALITA: Salvo a aquisição por instituição financeira pública, em caso de inadimplemento de financiamento.
+FRANCISCA: Tudo isso aparece em alternativa de erro e acerto. Releia a SPE com cuidado.
 == SLIDE: Responsabilidade extracontratual do Estado
 * Artigo 37, § 6º: responsabilidade objetiva, risco administrativo
 * PJ de direito público e privadas prestadoras de serviço público
 * Teorias: irresponsabilidade, civilista, culpa anônima, risco administrativo e integral
 * Risco integral: dano nuclear, ambiental, terrorismo em aeronaves
 * Excludentes: culpa da vítima, força maior, fato de terceiro
-ANTONIO: Chegamos à responsabilidade extracontratual do Estado. A regra constitucional é o artigo trinta e sete, parágrafo sexto: as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o regresso contra o responsável nos casos de dolo ou culpa.
-THALITA: Quatro termos para decorar, né?
-FRANCISCA: Sim. Sujeitos: pessoas jurídicas de direito público e privadas prestadoras de serviço público. Empresas estatais que exploram atividade econômica ficam fora, e seguem o direito privado. Segundo: agentes, nessa qualidade, o dano deve se ligar à função. Terceiro: terceiros, usuários e não usuários. Quarto: regresso, com dolo ou culpa.
-BRUNO: Resumindo a evolução das teorias. Primeiro, irresponsabilidade, o rei não erra. Depois, as civilistas, que separavam atos de império, sem responsabilidade, de atos de gestão, com culpa. Depois, a culpa administrativa, a culpa anônima, em que basta provar que o serviço não funcionou, funcionou mal ou atrasou. Por fim, o risco administrativo, que é a regra no Brasil desde mil novecentos e quarenta e seis.
+THALITA: Chegamos à responsabilidade extracontratual do Estado. A regra constitucional é o artigo trinta e sete, parágrafo sexto: as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o regresso contra o responsável nos casos de dolo ou culpa.
+FRANCISCA: Quatro termos para decorar, né?
+THALITA: Sim. Sujeitos: pessoas jurídicas de direito público e privadas prestadoras de serviço público. Empresas estatais que exploram atividade econômica ficam fora, e seguem o direito privado. Segundo: agentes, nessa qualidade, o dano deve se ligar à função. Terceiro: terceiros, usuários e não usuários. Quarto: regresso, com dolo ou culpa.
+FRANCISCA: Resumindo a evolução das teorias. Primeiro, irresponsabilidade, o rei não erra. Depois, as civilistas, que separavam atos de império, sem responsabilidade, de atos de gestão, com culpa. Depois, a culpa administrativa, a culpa anônima, em que basta provar que o serviço não funcionou, funcionou mal ou atrasou. Por fim, o risco administrativo, que é a regra no Brasil desde mil novecentos e quarenta e seis.
 THALITA: E o risco integral?
-ANTONIO: É objetiva sem excludentes, e só em hipóteses específicas: dano nuclear, dano ambiental e atentados terroristas contra aeronaves.
-FRANCISCA: No risco administrativo, a responsabilidade é objetiva, exigindo conduta, dano e nexo causal, mas admite excludentes. A culpa exclusiva da vítima exclui. O caso fortuito e a força maior excluem, salvo se o Estado concorreu, como no bueiro entupido com chuva forte. O fato exclusivo de terceiro exclui, salvo dever específico de proteção.
-THALITA: E se a vítima também teve culpa, mas não só ela?
-FRANCISCA: Aí é culpa concorrente: atenua, e a indenização é reduzida proporcionalmente.
-BRUNO: Pegadinha: confundir risco administrativo com risco integral. Se a banca disser que não admite excludentes, é risco integral.
-
+FRANCISCA: É objetiva sem excludentes, e só em hipóteses específicas: dano nuclear, dano ambiental e atentados terroristas contra aeronaves.
+THALITA: No risco administrativo, a responsabilidade é objetiva, exigindo conduta, dano e nexo causal, mas admite excludentes. A culpa exclusiva da vítima exclui. O caso fortuito e a força maior excluem, salvo se o Estado concorreu, como no bueiro entupido com chuva forte. O fato exclusivo de terceiro exclui, salvo dever específico de proteção.
+FRANCISCA: E se a vítima também teve culpa, mas não só ela?
+THALITA: Aí é culpa concorrente: atenua, e a indenização é reduzida proporcionalmente.
+FRANCISCA: Pegadinha: confundir risco administrativo com risco integral. Se a banca disser que não admite excludentes, é risco integral.
 == SLIDE: Exemplo: ônibus, ciclista e quem responde
 * Concessionária responde objetivamente, inclusive a não usuário
 * Vítima aciona a pessoa jurídica, não o motorista
 * Município: responsabilidade subsidiária
 * Regresso contra o motorista exige culpa ou dolo
-ANTONIO: Um caso para fixar. O ônibus de uma concessionária atropela um ciclista, que não era passageiro. Quem ele deve processar?
-THALITA: Eu diria o motorista, que foi quem atropelou. Ou será o município, dono da linha?
-FRANCISCA: Nenhum dos dois, Thalita. Ele aciona a concessionária, que responde objetivamente, mesmo sendo ele um não usuário. É a tese do Tema cento e trinta do Supremo.
-BRUNO: O município só responde subsidiariamente, se a concessionária não tiver patrimônio suficiente. E a concessionária, depois de condenada, pode ir contra o motorista em regresso, provando dolo ou culpa.
+THALITA: Um caso para fixar. O ônibus de uma concessionária atropela um ciclista, que não era passageiro. Quem ele deve processar?
+FRANCISCA: Eu diria o motorista, que foi quem atropelou. Ou será o município, dono da linha?
+THALITA: Nenhum dos dois, Francisca. Ele aciona a concessionária, que responde objetivamente, mesmo sendo ele um não usuário. É a tese do Tema cento e trinta do Supremo.
+FRANCISCA: O município só responde subsidiariamente, se a concessionária não tiver patrimônio suficiente. E a concessionária, depois de condenada, pode ir contra o motorista em regresso, provando dolo ou culpa.
 THALITA: Então o motorista só entra no final, e só se tiver culpa.
 FRANCISCA: Exatamente. Sempre nessa ordem.
-
 == SLIDE: Omissão, regresso, prescrição e atos estatais
 * Omissão: objetiva se houver dever específico de agir
 * Tema 592: morte de detento; Tema 940: ação contra o Estado
 * Prescrição: 5 anos; ressarcimento doloso imprescritível
 * Atos legislativos e judiciais: em regra, sem indenização
 * Resumo e despedida
-ANTONIO: Sobre a omissão, a doutrina clássica fala em responsabilidade subjetiva, com culpa anônima. O Supremo, atualmente, admite responsabilidade objetiva quando há dever específico de agir, com nexo direto entre a omissão e o dano. Omissão genérica não gera responsabilidade automática, pois o Estado não é segurador universal.
-THALITA: Tem algum exemplo cobrado?
-BRUNO: Vários. O Tema quinhentos e noventa e dois: o Estado responde pela morte de detento, por descumprir o dever específico de proteção. O Tema trezentos e sessenta e dois: não responde por crime de foragido, sem nexo direto entre a fuga e a conduta. O Tema trezentos e sessenta e cinco: indeniza o detento em condições carcerárias degradantes.
+THALITA: Sobre a omissão, a doutrina clássica fala em responsabilidade subjetiva, com culpa anônima. O Supremo, atualmente, admite responsabilidade objetiva quando há dever específico de agir, com nexo direto entre a omissão e o dano. Omissão genérica não gera responsabilidade automática, pois o Estado não é segurador universal.
+FRANCISCA: Tem algum exemplo cobrado?
+THALITA: Vários. O Tema quinhentos e noventa e dois: o Estado responde pela morte de detento, por descumprir o dever específico de proteção. O Tema trezentos e sessenta e dois: não responde por crime de foragido, sem nexo direto entre a fuga e a conduta. O Tema trezentos e sessenta e cinco: indeniza o detento em condições carcerárias degradantes.
 FRANCISCA: E o Tema novecentos e quarenta: a ação por dano causado por agente público deve ser ajuizada contra o Estado ou a pessoa jurídica prestadora de serviço público. O agente é parte ilegítima. Ele só responde depois, em regresso, com dolo ou culpa. É a dupla garantia: protege a vítima e protege o agente.
 THALITA: E concessionária atropelando ciclista?
 FRANCISCA: A responsabilidade é objetiva também para não usuários. O ciclista aciona a concessionária, não o motorista, e o município só responde subsidiariamente.
-ANTONIO: A prescrição é de cinco anos contra a Fazenda Pública e contra pessoa privada prestadora de serviço público. O ressarcimento ao erário por ato doloso de improbidade é imprescritível. Quanto a atos legislativos e judiciais, em regra não há indenização, salvo lei de efeitos concretos, lei inconstitucional que causou dano, erro judiciário e prisão além do tempo fixado.
-BRUNO: E o juiz só responde regressivamente, por dolo, fraude, ou recusa injustificada de providência.
+THALITA: A prescrição é de cinco anos contra a Fazenda Pública e contra pessoa privada prestadora de serviço público. O ressarcimento ao erário por ato doloso de improbidade é imprescritível. Quanto a atos legislativos e judiciais, em regra não há indenização, salvo lei de efeitos concretos, lei inconstitucional que causou dano, erro judiciário e prisão além do tempo fixado.
+FRANCISCA: E o juiz só responde regressivamente, por dolo, fraude, ou recusa injustificada de providência.
 THALITA: Resumo relâmpago da aula: serviço público tem titularidade do Estado, licitação sempre, e o serviço adequado tem oito condições. Corte por inadimplência, só com aviso e nunca na sexta, fim de semana ou véspera de feriado. Concessão é empresa e prazo; permissão é precária. Encampação, Estado quer; caducidade, culpa; rescisão, só judicial.
 FRANCISCA: Faltou a PPP, Thalita.
 THALITA: Verdade! PPP: dez milhões, cinco anos, de cinco a trinta e cinco de vigência, SPE antes do contrato, sem objeto único. E a responsabilidade do Estado é objetiva, com ação contra o Estado e regresso contra o agente.
-ANTONIO: Muito bem. Aula encerrada, bons estudos a todos!
+FRANCISCA: Muito bem. Aula encerrada, bons estudos a todos!

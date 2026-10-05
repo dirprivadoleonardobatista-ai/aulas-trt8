@@ -4,28 +4,28 @@ SEGMENTO s121
 * Ajuda de custo: instalação em nova sede; até 3 meses
 * Diárias: pousada, alimentação e locomoção urbana
 * Metade sem pernoite; restituição em 5 dias
-ANTONIO: Terminamos o vencimento e os descontos. Agora as vantagens. O artigo quarenta e nove divide as vantagens em indenizações, gratificações e adicionais. As indenizações não se incorporam ao vencimento ou provento para qualquer efeito; as gratificações e adicionais se incorporam nos casos e condições da lei.
+FRANCISCA: Terminamos o vencimento e os descontos. Agora as vantagens. O artigo quarenta e nove divide as vantagens em indenizações, gratificações e adicionais. As indenizações não se incorporam ao vencimento ou provento para qualquer efeito; as gratificações e adicionais se incorporam nos casos e condições da lei.
 THALITA: Quais são as indenizações?
 FRANCISCA: Artigo cinquenta e um: ajuda de custo, diárias, transporte e auxílio-moradia. A ajuda de custo compensa despesas de instalação do servidor que, no interesse do serviço, passa a ter exercício em nova sede, com mudança de domicílio em caráter permanente.
-BRUNO: Regras que caem: não excede três meses de remuneração. Não cabe na remoção a pedido, artigo trinta e seis, incisos dois e três. E se o servidor não se apresentar na nova sede, injustificadamente, em trinta dias, restitui.
-THALITA: E se o cônjuge também for servidor?
-FRANCISCA: É vedado o duplo pagamento se o cônjuge servidor vier a ter exercício na mesma sede. O transporte do servidor e da família fica por conta da Administração. E, se o servidor falece na nova sede, a família recebe ajuda de custo e transporte para a origem em até um ano do óbito. A ajuda de custo também é devida ao nomeado para cargo em comissão com mudança de domicílio. Artigos cinquenta e três a cinquenta e sete.
-ANTONIO: Diárias, artigos cinquenta e oito e cinquenta e nove: indenizam pousada, alimentação e locomoção urbana no afastamento eventual ou transitório da sede. São por dia de afastamento.
-BRUNO: Pagas pela metade quando não há pernoite ou quando a União custeia por meio diverso. Não são devidas se o deslocamento é exigência permanente do cargo, nem dentro da mesma região metropolitana, aglomeração urbana ou microrregião, salvo pernoite.
-THALITA: E se recebeu e não viajou?
-ANTONIO: Restitui integralmente em cinco dias. No retorno antecipado, restitui o excesso no mesmo prazo.
-THALITA: Resumindo as indenizações: ajuda de custo é para mudar de sede, no máximo três meses, e não cabe na remoção a pedido. Diária é por dia de afastamento, metade sem pernoite, e a devolução é em cinco dias. Nenhuma das duas se incorpora ao vencimento.
+THALITA: Regras que caem: não excede três meses de remuneração. Não cabe na remoção a pedido, artigo trinta e seis, incisos dois e três. E se o servidor não se apresentar na nova sede, injustificadamente, em trinta dias, restitui.
+FRANCISCA: E se o cônjuge também for servidor?
+THALITA: É vedado o duplo pagamento se o cônjuge servidor vier a ter exercício na mesma sede. O transporte do servidor e da família fica por conta da Administração. E, se o servidor falece na nova sede, a família recebe ajuda de custo e transporte para a origem em até um ano do óbito. A ajuda de custo também é devida ao nomeado para cargo em comissão com mudança de domicílio. Artigos cinquenta e três a cinquenta e sete.
+FRANCISCA: Diárias, artigos cinquenta e oito e cinquenta e nove: indenizam pousada, alimentação e locomoção urbana no afastamento eventual ou transitório da sede. São por dia de afastamento.
+THALITA: Pagas pela metade quando não há pernoite ou quando a União custeia por meio diverso. Não são devidas se o deslocamento é exigência permanente do cargo, nem dentro da mesma região metropolitana, aglomeração urbana ou microrregião, salvo pernoite.
+FRANCISCA: E se recebeu e não viajou?
+THALITA: Restitui integralmente em cinco dias. No retorno antecipado, restitui o excesso no mesmo prazo.
+FRANCISCA: Resumindo as indenizações: ajuda de custo é para mudar de sede, no máximo três meses, e não cabe na remoção a pedido. Diária é por dia de afastamento, metade sem pernoite, e a devolução é em cinco dias. Nenhuma das duas se incorpora ao vencimento.
 == SLIDE: Transporte e auxílio-moradia
 * Indenização de transporte: meio próprio em serviço externo (art. 60)
 * Típica do Oficial de Justiça Avaliador Federal
 * Auxílio-moradia: despesas comprovadas com aluguel ou hospedagem
 * Requisitos cumulativos do art. 60-B; limite de 25%
-FRANCISCA: A indenização de transporte, artigo sessenta, serve para indenizar despesas com meio próprio de locomoção em serviços externos, por força das atribuições próprias do cargo.
-THALITA: Isso é do oficial de justiça, né?
-BRUNO: É a típica do Oficial de Justiça Avaliador Federal, no cumprimento de mandados. Cargo que o candidato conhece bem!
-ANTONIO: O auxílio-moradia, artigos sessenta-A a sessenta-E, ressarce despesas comprovadas com aluguel de moradia ou hospedagem. Exige requisitos cumulativos, artigo sessenta-B.
-FRANCISCA: Entre eles: não haver imóvel funcional à disposição, não ser proprietário de imóvel no município nos doze meses anteriores, não residir no município nos últimos doze meses, e ocupar cargo em comissão ou função de nível elevado, de Natureza Especial, ou ser Ministro.
-BRUNO: O valor é limitado a vinte e cinco por cento do cargo em comissão, da função ou do cargo de Ministro, e a vinte e cinco por cento da remuneração de Ministro de Estado.
+THALITA: A indenização de transporte, artigo sessenta, serve para indenizar despesas com meio próprio de locomoção em serviços externos, por força das atribuições próprias do cargo.
+FRANCISCA: Isso é do oficial de justiça, né?
+THALITA: É a típica do Oficial de Justiça Avaliador Federal, no cumprimento de mandados. Cargo que o candidato conhece bem!
+FRANCISCA: O auxílio-moradia, artigos sessenta-A a sessenta-E, ressarce despesas comprovadas com aluguel de moradia ou hospedagem. Exige requisitos cumulativos, artigo sessenta-B.
+THALITA: Entre eles: não haver imóvel funcional à disposição, não ser proprietário de imóvel no município nos doze meses anteriores, não residir no município nos últimos doze meses, e ocupar cargo em comissão ou função de nível elevado, de Natureza Especial, ou ser Ministro.
+FRANCISCA: O valor é limitado a vinte e cinco por cento do cargo em comissão, da função ou do cargo de Ministro, e a vinte e cinco por cento da remuneração de Ministro de Estado.
 THALITA: Então não é para qualquer servidor?
 FRANCISCA: Não. Os requisitos são cumulativos e restritivos. Se faltar um, perde.
 == SLIDE: Gratificações e adicionais: natalina, insalubridade e penosidade
@@ -33,29 +33,29 @@ FRANCISCA: Não. Os requisitos são cumulativos e restritivos. Se faltar um, per
 * Natalina: 1/12 por mês; paga até 20 de dezembro
 * Insalubridade e periculosidade: opção entre elas
 * Penosidade: fronteira ou condições de vida
-ANTONIO: Gratificações e adicionais, artigo sessenta e um. Primeiro, a retribuição pelo exercício de função de direção, chefia e assessoramento, devida ao servidor investido em função de confiança ou cargo em comissão, artigo sessenta e dois.
-THALITA: E a gratificação natalina?
-FRANCISCA: Um doze avos da remuneração de dezembro por mês de exercício no ano. Fração igual ou superior a quinze dias vale mês integral. É paga até o dia vinte de dezembro. O exonerado recebe proporcional, calculada sobre a remuneração do mês da exoneração. E ela não serve de base para outra vantagem. Artigos sessenta e três a sessenta e seis.
-BRUNO: A banca troca por "até trinta de novembro", que é a primeira parcela do décimo terceiro celetista. E troca quatorze por quinze dias. Fique com quinze dias e vinte de dezembro.
-ANTONIO: Insalubridade e periculosidade, artigos sessenta e oito a setenta: para quem trabalha habitualmente em locais insalubres, em contato permanente com substâncias tóxicas, radioativas ou com risco de vida. Quem faz jus a ambos deve optar por um. Cessa com a eliminação do risco.
-THALITA: Então não se acumulam.
-FRANCISCA: Isso. A gestante ou lactante é afastada dessas operações e locais enquanto durar a gestação e a lactação, e exerce atividades em local salubre, em serviço não penoso e não perigoso.
-BRUNO: A penosidade, artigo setenta e um, é para o exercício em zonas de fronteira ou localidades cujas condições de vida o justifiquem. Quem trabalha com raios xis e substâncias radioativas faz exames médicos a cada seis meses e tem férias de vinte dias consecutivos por semestre, proibida a acumulação.
-ANTONIO: Os percentuais estão na Lei oito mil duzentos e setenta, de mil novecentos e noventa e um, artigo doze: insalubridade de cinco, dez ou vinte por cento conforme o grau, periculosidade de dez por cento, raios xis de dez por cento. Confira a redação vigente. E o adicional por tempo de serviço foi revogado pela Medida Provisória dois mil duzentos e vinte e cinco-quarenta e cinco, de dois mil e um.
+THALITA: Gratificações e adicionais, artigo sessenta e um. Primeiro, a retribuição pelo exercício de função de direção, chefia e assessoramento, devida ao servidor investido em função de confiança ou cargo em comissão, artigo sessenta e dois.
+FRANCISCA: E a gratificação natalina?
+THALITA: Um doze avos da remuneração de dezembro por mês de exercício no ano. Fração igual ou superior a quinze dias vale mês integral. É paga até o dia vinte de dezembro. O exonerado recebe proporcional, calculada sobre a remuneração do mês da exoneração. E ela não serve de base para outra vantagem. Artigos sessenta e três a sessenta e seis.
+FRANCISCA: A banca troca por "até trinta de novembro", que é a primeira parcela do décimo terceiro celetista. E troca quatorze por quinze dias. Fique com quinze dias e vinte de dezembro.
+THALITA: Insalubridade e periculosidade, artigos sessenta e oito a setenta: para quem trabalha habitualmente em locais insalubres, em contato permanente com substâncias tóxicas, radioativas ou com risco de vida. Quem faz jus a ambos deve optar por um. Cessa com a eliminação do risco.
+FRANCISCA: Então não se acumulam.
+THALITA: Isso. A gestante ou lactante é afastada dessas operações e locais enquanto durar a gestação e a lactação, e exerce atividades em local salubre, em serviço não penoso e não perigoso.
+FRANCISCA: A penosidade, artigo setenta e um, é para o exercício em zonas de fronteira ou localidades cujas condições de vida o justifiquem. Quem trabalha com raios xis e substâncias radioativas faz exames médicos a cada seis meses e tem férias de vinte dias consecutivos por semestre, proibida a acumulação.
+THALITA: Os percentuais estão na Lei oito mil duzentos e setenta, de mil novecentos e noventa e um, artigo doze: insalubridade de cinco, dez ou vinte por cento conforme o grau, periculosidade de dez por cento, raios xis de dez por cento. Confira a redação vigente. E o adicional por tempo de serviço foi revogado pela Medida Provisória dois mil duzentos e vinte e cinco-quarenta e cinco, de dois mil e um.
 == SLIDE: Serviço extraordinário, noturno, adicional de férias e curso ou concurso
 * Extraordinário: 50%; máximo 2 horas por jornada
 * Noturno: 25%, de 22h às 5h; hora de 52 min 30 s
 * Adicional de férias: 1/3
 * Curso ou concurso: art. 76-A; até 120 horas anuais
-BRUNO: Agora a matriz de trocas da FCC. Serviço extraordinário, artigos setenta e três e setenta e quatro: acréscimo de cinquenta por cento sobre a hora normal, só para situações excepcionais e temporárias, e no máximo duas horas por jornada.
+FRANCISCA: Agora a matriz de trocas da FCC. Serviço extraordinário, artigos setenta e três e setenta e quatro: acréscimo de cinquenta por cento sobre a hora normal, só para situações excepcionais e temporárias, e no máximo duas horas por jornada.
 THALITA: Não é vinte e cinco por cento, nem cem?
-BRUNO: Não! Cinquenta. E é duas horas por jornada, não por semana, nem três horas.
-FRANCISCA: O adicional noturno, artigo setenta e cinco, vale entre vinte e duas horas de um dia e cinco horas do dia seguinte, com acréscimo de vinte e cinco por cento. A hora noturna tem cinquenta e dois minutos e trinta segundos.
-ANTONIO: Se o serviço for também extraordinário, o adicional noturno incide sobre a hora já acrescida de cinquenta por cento.
+FRANCISCA: Não! Cinquenta. E é duas horas por jornada, não por semana, nem três horas.
+THALITA: O adicional noturno, artigo setenta e cinco, vale entre vinte e duas horas de um dia e cinco horas do dia seguinte, com acréscimo de vinte e cinco por cento. A hora noturna tem cinquenta e dois minutos e trinta segundos.
+FRANCISCA: Se o serviço for também extraordinário, o adicional noturno incide sobre a hora já acrescida de cinquenta por cento.
 THALITA: Dá um exemplo?
 FRANCISCA: Tereza, com valor-hora de sessenta reais, faz duas horas extras entre vinte e duas e vinte e quatro horas. Extraordinário: sessenta vezes um vírgula cinco, noventa reais por hora. Noturno sobre a hora extra: noventa vezes um vírgula vinte e cinco, cento e doze reais e cinquenta centavos por hora computada. Como cada hora noturna vale cinquenta e dois minutos e trinta segundos, as duas horas de relógio correspondem a pouco mais de duas vírgula vinte e oito horas computadas.
-BRUNO: Cuidado: noturno é das vinte e duas às cinco, não até as seis, e o acréscimo é de vinte e cinco, não vinte.
-ANTONIO: O adicional de férias, artigo setenta e seis, é de um terço da remuneração do período de férias, incluindo a vantagem de função ou cargo em comissão.
+THALITA: Cuidado: noturno é das vinte e duas às cinco, não até as seis, e o acréscimo é de vinte e cinco, não vinte.
+FRANCISCA: O adicional de férias, artigo setenta e seis, é de um terço da remuneração do período de férias, incluindo a vantagem de função ou cargo em comissão.
 THALITA: E a gratificação por curso ou concurso?
 FRANCISCA: Artigo setenta e seis-A. Cobre instrutoria, banca examinadora ou comissão, logística de concurso, fiscalização ou aplicação de provas. A hora é limitada a dois vírgula dois por cento, nos incisos um e dois, ou um vírgula dois por cento, nos incisos três e quatro, do maior vencimento básico da Administração federal. Até cento e vinte horas anuais, acrescidas excepcionalmente de até cento e vinte. Não se incorpora nem serve de base para outras vantagens, inclusive proventos e pensões.
 THALITA: Deixa eu fixar os números desse bloco. Extraordinário: cinquenta por cento, máximo de duas horas por jornada. Noturno: vinte e cinco por cento, das vinte e duas às cinco, hora de cinquenta e dois minutos e trinta segundos. Adicional de férias: um terço. E a gratificação de curso ou concurso não se incorpora e não vira base para outras vantagens. Se a banca mexer em qualquer um desses números, eu já desconfio.
@@ -64,14 +64,14 @@ THALITA: Deixa eu fixar os números desse bloco. Extraordinário: cinquenta por 
 * Parcelamento em até 3 etapas
 * Pagamento até 2 dias antes
 * Interrupção: autoridade máxima do órgão
-ANTONIO: Férias, artigos setenta e sete a oitenta. O servidor tem direito a trinta dias de férias, que podem ser acumuladas até o máximo de dois períodos, por necessidade do serviço. Para o primeiro período aquisitivo exigem-se doze meses de exercício.
+FRANCISCA: Férias, artigos setenta e sete a oitenta. O servidor tem direito a trinta dias de férias, que podem ser acumuladas até o máximo de dois períodos, por necessidade do serviço. Para o primeiro período aquisitivo exigem-se doze meses de exercício.
 THALITA: E dá para levar falta na conta das férias?
 FRANCISCA: Não. É vedado levar à conta de férias qualquer falta ao serviço. E as férias podem ser parceladas em até três etapas, desde que requeridas pelo servidor e no interesse da administração pública.
-BRUNO: Dois requisitos cumulativos: requerimento do servidor e interesse da Administração. A acumulação depende de necessidade do serviço, e não da vontade do servidor. Pegadinha: "acumulação de até três períodos". São dois.
+THALITA: Dois requisitos cumulativos: requerimento do servidor e interesse da Administração. A acumulação depende de necessidade do serviço, e não da vontade do servidor. Pegadinha: "acumulação de até três períodos". São dois.
 FRANCISCA: O pagamento é feito até dois dias antes do início do período, artigo setenta e oito. Se o servidor for exonerado, recebe indenização das férias a que tiver direito e do período incompleto, à razão de um doze avos por mês de efetivo exercício ou fração superior a quatorze dias, sobre a remuneração do mês da publicação do ato.
 THALITA: E o terço constitucional no parcelamento?
-ANTONIO: É pago na utilização do primeiro período, parágrafo quinto.
-BRUNO: A interrupção das férias, artigo oitenta, só ocorre por calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, ou necessidade do serviço declarada pela autoridade máxima do órgão ou entidade. A troca clássica é "chefia imediata". Errado.
+FRANCISCA: É pago na utilização do primeiro período, parágrafo quinto.
+THALITA: A interrupção das férias, artigo oitenta, só ocorre por calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, ou necessidade do serviço declarada pela autoridade máxima do órgão ou entidade. A troca clássica é "chefia imediata". Errado.
 FRANCISCA: E o saldo após a interrupção é gozado de uma só vez.
 THALITA: Macete: acumula dois, parcela três, interrompe só a autoridade máxima.
-ANTONIO: Muito bem. Agora vamos às licenças, aos afastamentos, às concessões e ao tempo de serviço.
+FRANCISCA: Muito bem. Agora vamos às licenças, aos afastamentos, às concessões e ao tempo de serviço.

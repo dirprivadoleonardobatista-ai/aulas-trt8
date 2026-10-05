@@ -4,57 +4,57 @@ SEGMENTO s090
 * Alcance: internos e externos; externos exigem publicação
 * Liberdade: vinculados e discricionários
 * Formação: simples, complexo e composto
-ANTONIO: Vimos conceito, atributos e elementos. Agora classificamos os atos. Pelos destinatários, os atos são gerais, com destinatários indeterminados e conteúdo abstrato, como um regulamento; ou individuais, com destinatário determinado, singular ou plúrimo, como a nomeação de aprovados em lista. Os gerais prevalecem sobre os individuais.
+FRANCISCA: Vimos conceito, atributos e elementos. Agora classificamos os atos. Pelos destinatários, os atos são gerais, com destinatários indeterminados e conteúdo abstrato, como um regulamento; ou individuais, com destinatário determinado, singular ou plúrimo, como a nomeação de aprovados em lista. Os gerais prevalecem sobre os individuais.
 THALITA: E pelo alcance?
 FRANCISCA: Internos produzem efeitos dentro da Administração, como a ordem de serviço. Externos atingem os administrados, como o edital de concurso, e exigem publicação para a eficácia. Pelas regras, a classificação clássica fala em atos de império, com supremacia, como a interdição; de gestão, sem supremacia, como a alienação de bem; e de expediente, de rotina interna. Hoje é criticada.
-BRUNO: Pela liberdade, vinculados são aqueles em que a lei fixa todos os elementos, com uma única conduta possível, como a aposentadoria compulsória. Discricionários deixam margem quanto ao motivo ou ao objeto, como a autorização de uso de bem.
-ANTONIO: E pela formação, a mais cobrada. Ato simples é uma só manifestação de um órgão, singular ou colegiado. Ato complexo reúne duas ou mais vontades de órgãos diversos que se fundem em um único ato, como o decreto com referenda ministerial. Ato composto é a vontade de um órgão, o ato principal, mais um ato acessório de outro, que o confirma ou condiciona, como aprovação, visto ou homologação.
+THALITA: Pela liberdade, vinculados são aqueles em que a lei fixa todos os elementos, com uma única conduta possível, como a aposentadoria compulsória. Discricionários deixam margem quanto ao motivo ou ao objeto, como a autorização de uso de bem.
+FRANCISCA: E pela formação, a mais cobrada. Ato simples é uma só manifestação de um órgão, singular ou colegiado. Ato complexo reúne duas ou mais vontades de órgãos diversos que se fundem em um único ato, como o decreto com referenda ministerial. Ato composto é a vontade de um órgão, o ato principal, mais um ato acessório de outro, que o confirma ou condiciona, como aprovação, visto ou homologação.
 THALITA: Complexo é um ato só com várias vontades. Composto são dois atos, principal e acessório.
-BRUNO: Exato, e a FCC troca os dois. Outro erro comum: dizer que a deliberação de um órgão colegiado é ato complexo. Não é: é ato simples, porque vem de um único órgão.
+FRANCISCA: Exato, e a FCC troca os dois. Outro erro comum: dizer que a deliberação de um órgão colegiado é ato complexo. Não é: é ato simples, porque vem de um único órgão.
 THALITA: Colegiado, simples. Duas vontades de órgãos diferentes, complexo.
 == SLIDE: Espécies de atos e licença, autorização e permissão
 * Normativos, ordinatórios, negociais, enunciativos, punitivos
 * Licença: vinculada, definitiva
 * Autorização: discricionária, precária, interesse do particular
 * Permissão de uso: discricionária, precária, interesse coletivo
-ANTONIO: As espécies, segundo Hely Lopes. Normativos, comandos gerais e abstratos para a correta aplicação da lei: decretos regulamentares, regimentos, resoluções, instruções normativas. Ordinatórios, que disciplinam o funcionamento interno e vinculam apenas os subordinados: instruções, circulares, portarias, ordens de serviço, ofícios, despachos.
-FRANCISCA: Negociais, que consentem com pretensão do particular coincidente com o interesse público: licença, autorização, permissão, admissão, aprovação, homologação, visto, dispensa e renúncia. Enunciativos, que certificam fato ou emitem opinião, sem vontade produtora de efeitos: certidão, atestado, parecer e apostila. Punitivos: multa, interdição, advertência, suspensão.
-THALITA: Agora licença, autorização e permissão. Sempre troco!
-BRUNO: Licença é ato vinculado: existe direito subjetivo preexistente, e preenchidos os requisitos, a Administração deve conceder. É definitiva, e só se extingue por cassação ou anulação. Exemplos: licença para construir, para dirigir, para exercer profissão.
+FRANCISCA: As espécies, segundo Hely Lopes. Normativos, comandos gerais e abstratos para a correta aplicação da lei: decretos regulamentares, regimentos, resoluções, instruções normativas. Ordinatórios, que disciplinam o funcionamento interno e vinculam apenas os subordinados: instruções, circulares, portarias, ordens de serviço, ofícios, despachos.
+THALITA: Negociais, que consentem com pretensão do particular coincidente com o interesse público: licença, autorização, permissão, admissão, aprovação, homologação, visto, dispensa e renúncia. Enunciativos, que certificam fato ou emitem opinião, sem vontade produtora de efeitos: certidão, atestado, parecer e apostila. Punitivos: multa, interdição, advertência, suspensão.
+FRANCISCA: Agora licença, autorização e permissão. Sempre troco!
+THALITA: Licença é ato vinculado: existe direito subjetivo preexistente, e preenchidos os requisitos, a Administração deve conceder. É definitiva, e só se extingue por cassação ou anulação. Exemplos: licença para construir, para dirigir, para exercer profissão.
 FRANCISCA: Autorização é discricionária e precária, revogável a qualquer tempo, em regra sem indenização, e não há direito subjetivo. Predomina o interesse do particular. Exemplos: porte de arma, uso de bem para evento particular, autorização de pesquisa mineral.
-ANTONIO: Permissão de uso também é discricionária e precária, sem direito subjetivo, mas com interesse coletivo concomitante ao do particular. Exemplos: banca de jornal em calçada, feira livre.
-BRUNO: Atenção: a permissão de serviço público não é ato unilateral. Desde a Lei oito mil novecentos e oitenta e sete, de mil novecentos e noventa e cinco, artigo quarenta, é contrato de adesão, precedido de licitação.
+THALITA: Permissão de uso também é discricionária e precária, sem direito subjetivo, mas com interesse coletivo concomitante ao do particular. Exemplos: banca de jornal em calçada, feira livre.
+FRANCISCA: Atenção: a permissão de serviço público não é ato unilateral. Desde a Lei oito mil novecentos e oitenta e sete, de mil novecentos e noventa e cinco, artigo quarenta, é contrato de adesão, precedido de licitação.
 THALITA: Licença, vinculada e definitiva. Autorização e permissão, discricionárias e precárias. Fechou.
 == SLIDE: Aprovação, homologação, visto e admissão
 * Aprovação: prévia ou posterior; discricionária
 * Homologação: sempre posterior; vinculada
 * Visto: controle de legitimidade formal
 * Admissão: inclui o particular em serviço público
-ANTONIO: Ainda entre os atos negociais, quatro que a banca cobra. A aprovação é controle prévio ou posterior que examina conveniência e, ou, legalidade, e é discricionária.
-FRANCISCA: A homologação é sempre posterior, examina a legalidade, e para parte da doutrina também a conveniência, e é vinculada. O visto é o controle da legitimidade formal de outro ato, vinculado. A admissão inclui o particular em serviço ou estabelecimento público, como a matrícula em escola pública, e é vinculada.
-THALITA: Então a aprovação pode ser antes ou depois, e a homologação só depois.
-BRUNO: Exato. A pegadinha é dizer que homologação é discricionária, ou que pode ser prévia. Errado nas duas.
-THALITA: Aprovação, discricionária. Homologação, vinculada e sempre posterior.
+FRANCISCA: Ainda entre os atos negociais, quatro que a banca cobra. A aprovação é controle prévio ou posterior que examina conveniência e, ou, legalidade, e é discricionária.
+THALITA: A homologação é sempre posterior, examina a legalidade, e para parte da doutrina também a conveniência, e é vinculada. O visto é o controle da legitimidade formal de outro ato, vinculado. A admissão inclui o particular em serviço ou estabelecimento público, como a matrícula em escola pública, e é vinculada.
+FRANCISCA: Então a aprovação pode ser antes ou depois, e a homologação só depois.
+THALITA: Exato. A pegadinha é dizer que homologação é discricionária, ou que pode ser prévia. Errado nas duas.
+FRANCISCA: Aprovação, discricionária. Homologação, vinculada e sempre posterior.
 == SLIDE: Perfeição, validade e eficácia
 * Perfeição: ciclo de formação concluído
 * Validade: conformidade com a lei
 * Eficácia: aptidão para produzir efeitos
 * Ato perfeito, inválido e eficaz: ainda não anulado
-ANTONIO: Formação e efeitos. Três planos independentes. Perfeição é a existência: o ato completou o ciclo de formação. Validade é a conformidade com a lei, nos cinco elementos. Eficácia é a aptidão para produzir efeitos. Há ainda a exequibilidade: pode ser executado já?
-THALITA: Dá para um ato estar completo e ainda assim ilegal?
-FRANCISCA: Dá. Perfeito não significa sem defeito, e sim concluído. Um ato perfeito e inválido, mas ainda não anulado, produz efeitos por força da presunção de legitimidade: é perfeito, inválido e eficaz.
-BRUNO: Outras combinações. Perfeito, válido e ineficaz: ato regular sujeito a termo ou condição suspensiva, ou ato externo ainda não publicado. Perfeito, válido e eficaz: o ato regular em vigor. A banca explora a confusão entre perfeição e ausência de vícios.
-ANTONIO: Quanto aos efeitos, há os típicos, que o ato visa, como a nomeação que investe no cargo; os atípicos preliminares, ou prodrômicos, que surgem antes do aperfeiçoamento, como o dever da segunda autoridade se manifestar nos atos complexos e compostos; e os atípicos reflexos, que atingem terceiros, como a desapropriação que extingue a locação do inquilino.
-THALITA: Perfeito é concluído, não é impecável. Então se a banca disser que ato perfeito é ato sem vício, eu marco errado. E se disser que ato inválido não produz nenhum efeito antes de ser anulado, também errado, porque a presunção de legitimidade faz o ato produzir efeitos até a invalidação. Posso resumir assim: perfeição é existência, validade é legalidade, eficácia é produzir efeitos.
+THALITA: Formação e efeitos. Três planos independentes. Perfeição é a existência: o ato completou o ciclo de formação. Validade é a conformidade com a lei, nos cinco elementos. Eficácia é a aptidão para produzir efeitos. Há ainda a exequibilidade: pode ser executado já?
+FRANCISCA: Dá para um ato estar completo e ainda assim ilegal?
+THALITA: Dá. Perfeito não significa sem defeito, e sim concluído. Um ato perfeito e inválido, mas ainda não anulado, produz efeitos por força da presunção de legitimidade: é perfeito, inválido e eficaz.
+FRANCISCA: Outras combinações. Perfeito, válido e ineficaz: ato regular sujeito a termo ou condição suspensiva, ou ato externo ainda não publicado. Perfeito, válido e eficaz: o ato regular em vigor. A banca explora a confusão entre perfeição e ausência de vícios.
+THALITA: Quanto aos efeitos, há os típicos, que o ato visa, como a nomeação que investe no cargo; os atípicos preliminares, ou prodrômicos, que surgem antes do aperfeiçoamento, como o dever da segunda autoridade se manifestar nos atos complexos e compostos; e os atípicos reflexos, que atingem terceiros, como a desapropriação que extingue a locação do inquilino.
+FRANCISCA: Perfeito é concluído, não é impecável. Então se a banca disser que ato perfeito é ato sem vício, eu marco errado. E se disser que ato inválido não produz nenhum efeito antes de ser anulado, também errado, porque a presunção de legitimidade faz o ato produzir efeitos até a invalidação. Posso resumir assim: perfeição é existência, validade é legalidade, eficácia é produzir efeitos.
 == SLIDE: Extinção do ato administrativo
 * Natural, subjetiva e objetiva
 * Cassação: culpa do beneficiário
 * Caducidade: lei superveniente
 * Contraposição, renúncia e recusa
-ANTONIO: Extinção do ato. Ele pode se extinguir pelo cumprimento dos efeitos, como uma autorização para evento em data certa depois do evento; pelo desaparecimento do sujeito, nos atos intuitu personae, como a morte do permissionário de uso; ou pelo desaparecimento do objeto, como a interdição de estabelecimento que é demolido.
-THALITA: E as formas de retirada?
-FRANCISCA: Cassação: o beneficiário descumpre as condições que deveria manter. Exemplo: licença de funcionamento de hotel cassada porque passou a funcionar como casa de jogos. Caducidade: norma superveniente torna inadmissível a situação antes consentida. Exemplo: permissão de uso de área que lei posterior transforma em reserva ambiental.
-BRUNO: Contraposição, ou derrubada: ato posterior, de competência diversa, com efeitos opostos aos do anterior, como a exoneração que extingue os efeitos da nomeação. Renúncia: o próprio beneficiário abre mão, como servidor que renuncia a cargo em comissão. Recusa: o beneficiário recusa o ato que dependia de sua aceitação.
+THALITA: Extinção do ato. Ele pode se extinguir pelo cumprimento dos efeitos, como uma autorização para evento em data certa depois do evento; pelo desaparecimento do sujeito, nos atos intuitu personae, como a morte do permissionário de uso; ou pelo desaparecimento do objeto, como a interdição de estabelecimento que é demolido.
+FRANCISCA: E as formas de retirada?
+THALITA: Cassação: o beneficiário descumpre as condições que deveria manter. Exemplo: licença de funcionamento de hotel cassada porque passou a funcionar como casa de jogos. Caducidade: norma superveniente torna inadmissível a situação antes consentida. Exemplo: permissão de uso de área que lei posterior transforma em reserva ambiental.
+FRANCISCA: Contraposição, ou derrubada: ato posterior, de competência diversa, com efeitos opostos aos do anterior, como a exoneração que extingue os efeitos da nomeação. Renúncia: o próprio beneficiário abre mão, como servidor que renuncia a cargo em comissão. Recusa: o beneficiário recusa o ato que dependia de sua aceitação.
 THALITA: Cassação, culpa do beneficiário. Caducidade, lei nova. Contraposição, ato oposto de outra competência.
-BRUNO: A troca preferida da FCC é cassação por caducidade. E atenção: na concessão de serviço, caducidade é a extinção por inadimplemento do concessionário, artigo trinta e oito da Lei oito mil novecentos e oitenta e sete. Sentido diferente da teoria do ato.
-ANTONIO: Faltam duas formas de extinção que merecem estudo à parte: a anulação e a revogação, junto com a convalidação e a conversão, que são nosso próximo tema.
+FRANCISCA: A troca preferida da FCC é cassação por caducidade. E atenção: na concessão de serviço, caducidade é a extinção por inadimplemento do concessionário, artigo trinta e oito da Lei oito mil novecentos e oitenta e sete. Sentido diferente da teoria do ato.
+THALITA: Faltam duas formas de extinção que merecem estudo à parte: a anulação e a revogação, junto com a convalidação e a conversão, que são nosso próximo tema.

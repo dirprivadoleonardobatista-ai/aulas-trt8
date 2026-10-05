@@ -4,16 +4,14 @@ SEGMENTO s082
 * Sentido subjetivo: quem exerce a função administrativa
 * Sentido objetivo: a atividade exercida
 * Judiciário e Legislativo também administram, de forma atípica
-ANTONIO: Olá, pessoal, bem-vindos à aula vinte e quatro, a primeira de Direito Administrativo. O tema é regime jurídico, princípios e poderes. Hoje vamos ver três pontos: sentidos, estrutura e organização da Administração Pública; depois o regime jurídico-administrativo e os princípios; e, por fim, a LINDB, com segurança jurídica na aplicação do direito público. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase e os exemplos concretos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro onde a banca arma as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira, aquela que pergunta o que você perguntaria.
-ANTONIO: Vamos ao primeiro tema. A expressão Administração Pública tem dois sentidos. No sentido subjetivo, também chamado formal ou orgânico, designa quem exerce a função: pessoas jurídicas, órgãos e agentes. Costuma-se grafar com iniciais maiúsculas. Exemplos: o Ministério da Fazenda, o INSS, um servidor do TRT.
+FRANCISCA: Olá, pessoal, bem-vindos à aula vinte e quatro, a primeira de Direito Administrativo. O tema é regime jurídico, princípios e poderes. Hoje vamos ver três pontos: sentidos, estrutura e organização da Administração Pública; depois o regime jurídico-administrativo e os princípios; e, por fim, a LINDB, com segurança jurídica na aplicação do direito público. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos ao primeiro tema. A expressão Administração Pública tem dois sentidos. No sentido subjetivo, também chamado formal ou orgânico, designa quem exerce a função: pessoas jurídicas, órgãos e agentes. Costuma-se grafar com iniciais maiúsculas. Exemplos: o Ministério da Fazenda, o INSS, um servidor do TRT.
 THALITA: E o outro sentido?
 FRANCISCA: O objetivo, material ou funcional, que é a própria atividade administrativa: fomento, polícia administrativa, serviço público e intervenção. Grafa-se com iniciais minúsculas. Expedir um alvará, conceder uma bolsa, fiscalizar uma obra são exemplos.
 THALITA: Então o primeiro é quem faz, e o segundo é o que se faz.
-BRUNO: Exato, e a banca adora inverter. Se falarem que o sentido objetivo designa o conjunto de órgãos e agentes, está errado.
-ANTONIO: Um alerta: o Judiciário e o Legislativo também integram a Administração em sentido subjetivo quando exercem função administrativa atípica. É o caso do TRT quando licita, nomeia servidores ou aplica pena disciplinar.
+FRANCISCA: Exato, e a banca adora inverter. Se falarem que o sentido objetivo designa o conjunto de órgãos e agentes, está errado.
+THALITA: Um alerta: o Judiciário e o Legislativo também integram a Administração em sentido subjetivo quando exercem função administrativa atípica. É o caso do TRT quando licita, nomeia servidores ou aplica pena disciplinar.
 FRANCISCA: Por isso a Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove, vale para os órgãos desses Poderes no desempenho de função administrativa. Está no artigo primeiro, parágrafo primeiro.
 THALITA: Então a lei do processo administrativo federal vale até para o TRT, quando ele administra.
 == SLIDE: Administração direta e indireta
@@ -21,68 +19,68 @@ THALITA: Então a lei do processo administrativo federal vale até para o TRT, q
 * Indireta: autarquias, fundações, empresas públicas e SEM
 * Criação ou autorização por lei específica (art. 37, XIX e XX)
 * Decreto-Lei 200/1967 como base clássica
-ANTONIO: Agora a estrutura. A Administração direta é formada pelas pessoas políticas, ou seja, União, Estados, Distrito Federal e Municípios, e pelos órgãos despersonalizados que as compõem, como ministérios, secretarias e tribunais.
+FRANCISCA: Agora a estrutura. A Administração direta é formada pelas pessoas políticas, ou seja, União, Estados, Distrito Federal e Municípios, e pelos órgãos despersonalizados que as compõem, como ministérios, secretarias e tribunais.
 THALITA: E a indireta?
 FRANCISCA: Reúne entidades com personalidade jurídica própria, criadas ou autorizadas por lei para desempenhar atividade específica, pelo princípio da especialidade. São as autarquias, as fundações públicas, as empresas públicas e as sociedades de economia mista. A base constitucional é o artigo trinta e sete, incisos dezenove e vinte, e a base legal clássica é o Decreto-Lei duzentos, de mil novecentos e sessenta e sete, artigos quarto e quinto.
-BRUNO: Duas palavras fazem toda a diferença na prova: criada e autorizada. A autarquia é criada diretamente por lei específica. Empresa pública, sociedade de economia mista e fundação têm a criação autorizada por lei específica.
-THALITA: E quando a empresa nasce?
-BRUNO: Com o registro dos atos constitutivos. A lei só autoriza. A fundação, por sua vez, tem a lei específica autorizando a instituição, e lei complementar define as áreas de atuação.
+THALITA: Duas palavras fazem toda a diferença na prova: criada e autorizada. A autarquia é criada diretamente por lei específica. Empresa pública, sociedade de economia mista e fundação têm a criação autorizada por lei específica.
+FRANCISCA: E quando a empresa nasce?
+THALITA: Com o registro dos atos constitutivos. A lei só autoriza. A fundação, por sua vez, tem a lei específica autorizando a instituição, e lei complementar define as áreas de atuação.
 FRANCISCA: Se a fundação for de direito público, a doutrina e o Supremo admitem a criação por lei, como uma autarquia, e por isso é chamada fundação autárquica.
 THALITA: Então: autarquia, criada. Fundação, empresa pública e SEM, autorizadas.
-ANTONIO: Perfeito. E lembre que nenhuma entidade da indireta se subordina hierarquicamente ao ente criador. Há apenas vinculação e controle finalístico.
+FRANCISCA: Perfeito. E lembre que nenhuma entidade da indireta se subordina hierarquicamente ao ente criador. Há apenas vinculação e controle finalístico.
 THALITA: Vinculação, não subordinação. Se a questão falar em hierarquia entre o ministério e a autarquia dele, eu já desconfio e marco como errada. Agora quero ver o quadro comparativo completo, porque ele costuma render várias questões.
 == SLIDE: Quadro comparativo das entidades
 * Autarquia e fundação autárquica: direito público
 * Empresa pública: capital cem por cento público, qualquer forma
 * SEM: sociedade anônima, maioria do capital votante público
 * Foro federal: SEM na Justiça Estadual
-ANTONIO: Vamos comparar as entidades, linha por linha. Personalidade: autarquia tem personalidade de direito público. Fundação pública pode ser de direito público ou de direito privado. Empresa pública e sociedade de economia mista têm personalidade de direito privado.
+FRANCISCA: Vamos comparar as entidades, linha por linha. Personalidade: autarquia tem personalidade de direito público. Fundação pública pode ser de direito público ou de direito privado. Empresa pública e sociedade de economia mista têm personalidade de direito privado.
 THALITA: E o capital de cada uma?
 FRANCISCA: Autarquia não tem capital social, só patrimônio público. Fundação tem patrimônio personalizado afetado a um fim. Empresa pública tem capital cem por cento público, podendo haver mais de um ente ou entidade público. Sociedade de economia mista tem a maioria do capital votante com o ente público, e admite capital privado.
-BRUNO: Forma societária: a empresa pública pode ter qualquer forma admitida em direito, inclusive sociedade unipessoal. A sociedade de economia mista é obrigatoriamente sociedade anônima. Pegadinha de livro.
-THALITA: E o que cada uma faz?
-ANTONIO: A autarquia exerce atividade típica de Estado, como o INSS, o Banco Central e as agências reguladoras. A fundação, atividade social sem fins lucrativos, como saúde, educação, cultura e pesquisa. Empresa pública e sociedade de economia mista fazem serviço público ou atividade econômica: Caixa e Correios são empresas públicas, Banco do Brasil e Petrobras são sociedades de economia mista.
+THALITA: Forma societária: a empresa pública pode ter qualquer forma admitida em direito, inclusive sociedade unipessoal. A sociedade de economia mista é obrigatoriamente sociedade anônima. Pegadinha de livro.
+FRANCISCA: E o que cada uma faz?
+THALITA: A autarquia exerce atividade típica de Estado, como o INSS, o Banco Central e as agências reguladoras. A fundação, atividade social sem fins lucrativos, como saúde, educação, cultura e pesquisa. Empresa pública e sociedade de economia mista fazem serviço público ou atividade econômica: Caixa e Correios são empresas públicas, Banco do Brasil e Petrobras são sociedades de economia mista.
 FRANCISCA: Bens e pessoal: os bens da autarquia são públicos, impenhoráveis e imprescritíveis. Os das empresas são privados, mas os afetados a serviço público recebem proteção especial. Pessoal: servidores estatutários em regra nas autarquias, e empregados públicos celetistas, com concurso, nas empresas.
-BRUNO: Foro das entidades federais: autarquia e empresa pública, Justiça Federal, artigo cento e nove, inciso um. Sociedade de economia mista federal, Justiça Estadual, pelas Súmulas quinhentos e cinquenta e seis do STF e quarenta e dois do STJ.
-THALITA: Empresa pública federal, federal. SEM federal, estadual. Anotei.
+THALITA: Foro das entidades federais: autarquia e empresa pública, Justiça Federal, artigo cento e nove, inciso um. Sociedade de economia mista federal, Justiça Estadual, pelas Súmulas quinhentos e cinquenta e seis do STF e quarenta e dois do STJ.
+FRANCISCA: Empresa pública federal, federal. SEM federal, estadual. Anotei.
 == SLIDE: Falência, responsabilidade e pegadinhas
 * Nenhuma se sujeita à falência
 * Responsabilidade objetiva (art. 37, §6º)
 * Estatuto das estatais: Lei 13.303/2016
 * Subsidiárias: autorização legislativa, genérica no STF
-ANTONIO: Mais três linhas do quadro. Falência: nenhuma entidade da indireta se sujeita, segundo a Lei de Falências, artigo segundo, inciso um.
-BRUNO: Responsabilidade civil: autarquia e fundação, objetiva, pelo artigo trinta e sete, parágrafo sexto. Empresa pública e sociedade de economia mista, objetiva se prestadoras de serviço público; se exploradoras de atividade econômica, aplicam-se as regras de direito privado.
-FRANCISCA: E o estatuto próprio das estatais é a Lei treze mil trezentos e três, de dois mil e dezesseis. Já a autarquia segue a lei instituidora.
-THALITA: Criar subsidiária também precisa de lei?
-FRANCISCA: Sim. Criação de subsidiárias e participação em empresa privada dependem de autorização legislativa, artigo trinta e sete, inciso vinte, que pode ser genérica, contida na própria lei instituidora, segundo o Supremo.
-BRUNO: Cuidado com regime de pessoal. Na ADI duas mil cento e trinta e cinco, em dois mil e vinte e quatro, o Supremo validou a redação da Emenda dezenove ao artigo trinta e nove, que suprimiu a obrigatoriedade do regime jurídico único, com efeitos prospectivos. Entes podem adotar o regime celetista para novas contratações, sem converter os vínculos existentes. Confira sempre a redação vigente.
-ANTONIO: E uma regra jurisprudencial: estatais prestadoras de serviço público em regime não concorrencial, como os Correios, recebem tratamento próximo ao da Fazenda Pública, com imunidade tributária recíproca e, em certas hipóteses, execução por precatório. As que atuam em concorrência seguem o regime das empresas privadas, conforme o artigo cento e setenta e três, parágrafo primeiro, inciso dois, e parágrafo segundo.
-THALITA: Concorre com a iniciativa privada, regime de empresa privada. Serviço público sem concorrência, trato de Fazenda.
+THALITA: Mais três linhas do quadro. Falência: nenhuma entidade da indireta se sujeita, segundo a Lei de Falências, artigo segundo, inciso um.
+FRANCISCA: Responsabilidade civil: autarquia e fundação, objetiva, pelo artigo trinta e sete, parágrafo sexto. Empresa pública e sociedade de economia mista, objetiva se prestadoras de serviço público; se exploradoras de atividade econômica, aplicam-se as regras de direito privado.
+THALITA: E o estatuto próprio das estatais é a Lei treze mil trezentos e três, de dois mil e dezesseis. Já a autarquia segue a lei instituidora.
+FRANCISCA: Criar subsidiária também precisa de lei?
+THALITA: Sim. Criação de subsidiárias e participação em empresa privada dependem de autorização legislativa, artigo trinta e sete, inciso vinte, que pode ser genérica, contida na própria lei instituidora, segundo o Supremo.
+FRANCISCA: Cuidado com regime de pessoal. Na ADI duas mil cento e trinta e cinco, em dois mil e vinte e quatro, o Supremo validou a redação da Emenda dezenove ao artigo trinta e nove, que suprimiu a obrigatoriedade do regime jurídico único, com efeitos prospectivos. Entes podem adotar o regime celetista para novas contratações, sem converter os vínculos existentes. Confira sempre a redação vigente.
+THALITA: E uma regra jurisprudencial: estatais prestadoras de serviço público em regime não concorrencial, como os Correios, recebem tratamento próximo ao da Fazenda Pública, com imunidade tributária recíproca e, em certas hipóteses, execução por precatório. As que atuam em concorrência seguem o regime das empresas privadas, conforme o artigo cento e setenta e três, parágrafo primeiro, inciso dois, e parágrafo segundo.
+FRANCISCA: Concorre com a iniciativa privada, regime de empresa privada. Serviço público sem concorrência, trato de Fazenda.
 == SLIDE: Desconcentração e descentralização
 * Desconcentração: uma pessoa, cria órgãos, hierarquia
 * Descentralização: duas pessoas, controle finalístico
 * Outorga: lei; titularidade e execução
 * Delegação: contrato ou ato; só a execução
-ANTONIO: Ponto de prova clássico. Desconcentração é a repartição interna de competências dentro de uma mesma pessoa jurídica. Cria órgãos, sem personalidade, e mantém a hierarquia. Descentralização é a transferência a outra pessoa, e aí não há hierarquia, há vinculação e controle finalístico, a tutela.
-THALITA: Exemplo de cada uma?
-FRANCISCA: Desconcentração: a União cria uma secretaria dentro de um ministério. Também ocorre dentro de entidade da indireta, como as superintendências do INSS. Descentralização: a União cria uma autarquia, ou o Município concede o transporte coletivo.
-BRUNO: A banca gosta de dizer que na descentralização há hierarquia. Errado: há tutela.
-ANTONIO: As modalidades da descentralização. Por outorga, também chamada funcional ou técnica, feita por lei, transfere a titularidade e a execução do serviço. Exemplo: criar uma autarquia para gerir a previdência.
+THALITA: Ponto de prova clássico. Desconcentração é a repartição interna de competências dentro de uma mesma pessoa jurídica. Cria órgãos, sem personalidade, e mantém a hierarquia. Descentralização é a transferência a outra pessoa, e aí não há hierarquia, há vinculação e controle finalístico, a tutela.
+FRANCISCA: Exemplo de cada uma?
+THALITA: Desconcentração: a União cria uma secretaria dentro de um ministério. Também ocorre dentro de entidade da indireta, como as superintendências do INSS. Descentralização: a União cria uma autarquia, ou o Município concede o transporte coletivo.
+FRANCISCA: A banca gosta de dizer que na descentralização há hierarquia. Errado: há tutela.
+THALITA: As modalidades da descentralização. Por outorga, também chamada funcional ou técnica, feita por lei, transfere a titularidade e a execução do serviço. Exemplo: criar uma autarquia para gerir a previdência.
 FRANCISCA: Por delegação, ou colaboração, feita por contrato, como concessão e permissão, ou por ato unilateral, como a autorização, transfere somente a execução, e a titularidade permanece com o Estado. Exemplo: a concessão de uma rodovia a empresa privada. E há a territorial ou geográfica, por lei, que transfere capacidade administrativa genérica a uma pessoa com território, como os territórios federais do artigo trinta e três.
 THALITA: Mnemônico: descon-C-entração, C de casa, dentro da mesma pessoa. Descen-T-ralização, T de terceiro, sai para outra pessoa.
-BRUNO: E para a outorga: lei e titularidade. Delegação: contrato ou ato, só execução.
+FRANCISCA: E para a outorga: lei e titularidade. Delegação: contrato ou ato, só execução.
 == SLIDE: Órgãos públicos e teoria do órgão
 * Órgão: centro de competências, sem personalidade
 * Teoria do órgão: imputação volitiva (Gierke)
 * Mandato e representação: teorias superadas
 * Agente putativo: atos mantidos; usurpador: atos inexistentes
-ANTONIO: Fechamos a seção com os órgãos. Órgão público é um centro de competências, instituído para desempenhar funções estatais por meio de agentes, e cuja atuação é atribuída à pessoa jurídica a que pertence. Não tem personalidade. A Lei nove mil setecentos e oitenta e quatro o trata como unidade de atuação da estrutura, e entidade como unidade com personalidade jurídica.
-THALITA: E por que a vontade do agente é do Estado?
-FRANCISCA: Pela teoria do órgão, de Otto Gierke. O agente não age em nome do Estado como mandatário: ele é o próprio Estado manifestando vontade. É a imputação volitiva. Substituiu a teoria do mandato, que supunha o agente mandatário, e a da representação, que o comparava ao tutor do incapaz.
-BRUNO: A crítica ao mandato: o Estado não tem vontade própria para outorgar mandato. A crítica à representação: equipara o Estado ao incapaz. A teoria do órgão é a adotada no Brasil.
-FRANCISCA: Quanto à criação, órgãos são criados e extintos por lei, mas organização e funcionamento, sem aumento de despesa nem criação ou extinção, podem ser por decreto, artigo oitenta e quatro, inciso seis, alínea a.
-ANTONIO: Quanto à posição, segundo Hely Lopes: independentes, que são a cúpula dos Poderes; autônomos, como ministérios e secretarias; superiores, de direção e controle sem autonomia; e subalternos, de execução. Também há simples ou compostos, singulares ou colegiados.
+THALITA: Fechamos a seção com os órgãos. Órgão público é um centro de competências, instituído para desempenhar funções estatais por meio de agentes, e cuja atuação é atribuída à pessoa jurídica a que pertence. Não tem personalidade. A Lei nove mil setecentos e oitenta e quatro o trata como unidade de atuação da estrutura, e entidade como unidade com personalidade jurídica.
+FRANCISCA: E por que a vontade do agente é do Estado?
+THALITA: Pela teoria do órgão, de Otto Gierke. O agente não age em nome do Estado como mandatário: ele é o próprio Estado manifestando vontade. É a imputação volitiva. Substituiu a teoria do mandato, que supunha o agente mandatário, e a da representação, que o comparava ao tutor do incapaz.
+FRANCISCA: A crítica ao mandato: o Estado não tem vontade própria para outorgar mandato. A crítica à representação: equipara o Estado ao incapaz. A teoria do órgão é a adotada no Brasil.
+THALITA: Quanto à criação, órgãos são criados e extintos por lei, mas organização e funcionamento, sem aumento de despesa nem criação ou extinção, podem ser por decreto, artigo oitenta e quatro, inciso seis, alínea a.
+FRANCISCA: Quanto à posição, segundo Hely Lopes: independentes, que são a cúpula dos Poderes; autônomos, como ministérios e secretarias; superiores, de direção e controle sem autonomia; e subalternos, de execução. Também há simples ou compostos, singulares ou colegiados.
 THALITA: Então tribunal pleno é órgão colegiado.
-BRUNO: Sim. E um detalhe: em regra, órgão não tem capacidade processual, mas a Súmula quinhentos e vinte e cinco do STJ diz que a Câmara de Vereadores tem apenas personalidade judiciária para defender direitos institucionais.
-FRANCISCA: E pela teoria do órgão, os atos do agente de fato putativo, com investidura irregular, mas aparência de legalidade, são mantidos perante terceiros de boa-fé. Já o usurpador de função pratica atos inexistentes, e comete crime.
-ANTONIO: Muito bem. Agora que vimos quem é a Administração e como ela se organiza, é hora de ver as regras que a governam: o regime jurídico-administrativo e os princípios, que é o nosso próximo tema.
+FRANCISCA: Sim. E um detalhe: em regra, órgão não tem capacidade processual, mas a Súmula quinhentos e vinte e cinco do STJ diz que a Câmara de Vereadores tem apenas personalidade judiciária para defender direitos institucionais.
+THALITA: E pela teoria do órgão, os atos do agente de fato putativo, com investidura irregular, mas aparência de legalidade, são mantidos perante terceiros de boa-fé. Já o usurpador de função pratica atos inexistentes, e comete crime.
+FRANCISCA: Muito bem. Agora que vimos quem é a Administração e como ela se organiza, é hora de ver as regras que a governam: o regime jurídico-administrativo e os princípios, que é o nosso próximo tema.

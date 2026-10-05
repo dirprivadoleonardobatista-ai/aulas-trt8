@@ -3,50 +3,50 @@ SEGMENTO s233
 * Q1: contestação de litisconsorte afasta a presunção de veracidade (art. 345)
 * Revelia não gera procedência automática
 * Q2: estabilização só na antecipada antecedente; ação em 2 anos
-ANTONIO: Depois de ver execução, impenhorabilidade, parcelamento e embargos, vamos testar tudo com questões comentadas. Questão um: Bruno ajuizou ação contra Carla e Márcio, litisconsortes. Só Márcio contestou, impugnando fatos comuns. E quanto a Carla? Pausa para você pensar.
+FRANCISCA: Depois de ver execução, impenhorabilidade, parcelamento e embargos, vamos testar tudo com questões comentadas. Questão um: Bruno ajuizou ação contra Carla e Márcio, litisconsortes. Só Márcio contestou, impugnando fatos comuns. E quanto a Carla? Pausa para você pensar.
 THALITA: Eu marco a letra A: Carla é revel, então tudo o que foi alegado se presume verdadeiro.
-BRUNO: Errada, Thalita. A contestação do litisconsorte afasta a presunção, artigo trezentos e quarenta e cinco, inciso um. O gabarito é C. A B erra, porque revelia não gera procedência automática. A D erra, porque os prazos correm da publicação no órgão oficial. E a E erra: o revel pode intervir a qualquer tempo, no estado em que o processo estiver.
-FRANCISCA: Questão dois: tutela antecipada antecedente concedida, e o réu não recorreu. Pausa para pensar.
-THALITA: Ela se estabiliza, e qualquer parte pode rever em dois anos da ciência da extinção. É a A?
-FRANCISCA: Isso mesmo, artigo trezentos e quatro. A B erra: não faz coisa julgada. A C erra: só a antecipada antecedente se estabiliza, não a cautelar. A D erra: o prazo é de dois anos, não cinco. E a E erra: a estabilização decorre da falta de recurso, não de requerimento do réu.
+FRANCISCA: Errada, Thalita. A contestação do litisconsorte afasta a presunção, artigo trezentos e quarenta e cinco, inciso um. O gabarito é C. A B erra, porque revelia não gera procedência automática. A D erra, porque os prazos correm da publicação no órgão oficial. E a E erra: o revel pode intervir a qualquer tempo, no estado em que o processo estiver.
+THALITA: Questão dois: tutela antecipada antecedente concedida, e o réu não recorreu. Pausa para pensar.
+FRANCISCA: Ela se estabiliza, e qualquer parte pode rever em dois anos da ciência da extinção. É a A?
+THALITA: Isso mesmo, artigo trezentos e quatro. A B erra: não faz coisa julgada. A C erra: só a antecipada antecedente se estabiliza, não a cautelar. A D erra: o prazo é de dois anos, não cinco. E a E erra: a estabilização decorre da falta de recurso, não de requerimento do réu.
 == SLIDE: Questões 3 e 4: ônus da prova e multa do cumprimento
 * Q3: redistribuição por decisão fundamentada, sem prova diabólica
 * Q4: multa e honorários incidem só sobre o restante pago
 * Pagamento em 15 dias; impugnação independe de penhora
-BRUNO: Questão três: ônus da prova. Qual afirmativa está correta? Pausa para pensar.
+FRANCISCA: Questão três: ônus da prova. Qual afirmativa está correta? Pausa para pensar.
 THALITA: Fico com a letra E: o juiz pode, por decisão fundamentada, atribuir o ônus de modo diverso, dando oportunidade de se desincumbir.
-ANTONIO: Gabarito E, artigo trezentos e setenta e três, parágrafo primeiro. A A erra: a redistribuição exige oportunidade prévia às partes, não vem na sentença. A B erra: a convenção é vedada em direito indisponível. A C erra: o fato extintivo cabe ao réu. E a D erra: é proibida se gerar prova impossível para quem a recebe.
-FRANCISCA: Questão quatro: intimada a pagar cem mil reais em cumprimento definitivo, a Alfa depositou quarenta mil no prazo. Pausa para pensar.
-BRUNO: Gabarito B: multa de dez por cento e honorários de dez por cento incidem só sobre os sessenta mil restantes, artigo quinhentos e vinte e três, parágrafos primeiro e segundo. A A erra, porque não incidem sobre tudo. A C erra: ambos são devidos. A D erra: o prazo é de quinze dias, não três. E a E erra: a impugnação independe de penhora.
+FRANCISCA: Gabarito E, artigo trezentos e setenta e três, parágrafo primeiro. A A erra: a redistribuição exige oportunidade prévia às partes, não vem na sentença. A B erra: a convenção é vedada em direito indisponível. A C erra: o fato extintivo cabe ao réu. E a D erra: é proibida se gerar prova impossível para quem a recebe.
+THALITA: Questão quatro: intimada a pagar cem mil reais em cumprimento definitivo, a Alfa depositou quarenta mil no prazo. Pausa para pensar.
+FRANCISCA: Gabarito B: multa de dez por cento e honorários de dez por cento incidem só sobre os sessenta mil restantes, artigo quinhentos e vinte e três, parágrafos primeiro e segundo. A A erra, porque não incidem sobre tudo. A C erra: ambos são devidos. A D erra: o prazo é de quinze dias, não três. E a E erra: a impugnação independe de penhora.
 THALITA: Então três dias é da execução de título extrajudicial, e quinze dias é do cumprimento de sentença.
 == SLIDE: Questões 5 e 6: impenhorabilidade e fraude à execução
 * Q5: salário cede a alimentos; poupança protege até 40 salários mínimos
 * Impenhorabilidade não vale contra a dívida do próprio bem
 * Q6: sem registro nem má-fé, não há fraude à execução (Súmula 375 STJ)
-ANTONIO: Questão cinco, com três afirmativas. A um: salário pode ser penhorado para pagar pensão alimentícia. A dois: poupança é impenhorável até cinquenta salários mínimos. A três: impenhorabilidade não se opõe à dívida contraída para adquirir o próprio bem. Pausa para pensar.
+FRANCISCA: Questão cinco, com três afirmativas. A um: salário pode ser penhorado para pagar pensão alimentícia. A dois: poupança é impenhorável até cinquenta salários mínimos. A três: impenhorabilidade não se opõe à dívida contraída para adquirir o próprio bem. Pausa para pensar.
 THALITA: Eu acho que as três estão certas.
-BRUNO: Cuidado com a afirmativa dois: o limite da poupança é de quarenta salários mínimos, e cinquenta é do salário. A um e a três estão corretas, parágrafos segundo e primeiro do artigo oitocentos e trinta e três. Gabarito D. A letra A erra por esquecer a três, a B e a C erram pela dois, e a E também.
-FRANCISCA: Questão seis: Tereza, executada, vendeu um veículo a Paulo, sem penhora registrada e sem prova de má-fé. Pela Súmula trezentos e setenta e cinco do STJ, o que acontece? Pausa para pensar.
-THALITA: Fraude à execução, claro, porque a venda foi depois do processo.
-FRANCISCA: Quase. O gabarito é A: não se reconhece a fraude à execução, porque falta o registro da penhora ou a prova de má-fé do adquirente. A B erra, porque não há presunção sem registro. A C erra, porque a ação pauliana é da fraude contra credores. A D erra, porque a Súmula cento e noventa e cinco do STJ veda discutir fraude contra credores em embargos de terceiro. E a E erra, porque a ineficácia depende dos requisitos da súmula.
-BRUNO: Macete: sem registro e sem má-fé, o adquirente de boa-fé está protegido.
+FRANCISCA: Cuidado com a afirmativa dois: o limite da poupança é de quarenta salários mínimos, e cinquenta é do salário. A um e a três estão corretas, parágrafos segundo e primeiro do artigo oitocentos e trinta e três. Gabarito D. A letra A erra por esquecer a três, a B e a C erram pela dois, e a E também.
+THALITA: Questão seis: Tereza, executada, vendeu um veículo a Paulo, sem penhora registrada e sem prova de má-fé. Pela Súmula trezentos e setenta e cinco do STJ, o que acontece? Pausa para pensar.
+FRANCISCA: Fraude à execução, claro, porque a venda foi depois do processo.
+THALITA: Quase. O gabarito é A: não se reconhece a fraude à execução, porque falta o registro da penhora ou a prova de má-fé do adquirente. A B erra, porque não há presunção sem registro. A C erra, porque a ação pauliana é da fraude contra credores. A D erra, porque a Súmula cento e noventa e cinco do STJ veda discutir fraude contra credores em embargos de terceiro. E a E erra, porque a ineficácia depende dos requisitos da súmula.
+FRANCISCA: Macete: sem registro e sem má-fé, o adquirente de boa-fé está protegido.
 == SLIDE: Questões 7 e 8: parcelamento e embargos
 * Q7: 30% + 6 parcelas, com renúncia aos embargos (art. 916)
 * Parcelamento não se aplica ao cumprimento de sentença
 * Q8: embargos em 15 dias; efeito suspensivo exige garantia
-ANTONIO: Questão sete: Rui, executado em título extrajudicial de cinquenta mil reais, quer parcelar a dívida pelo artigo novecentos e dezesseis. Pausa para pensar.
-THALITA: Depositar trinta por cento e pagar o resto em seis vezes. Mas ele ainda pode embargar, certo?
-BRUNO: O gabarito é E, mas atenção: o pedido de parcelamento implica renúncia aos embargos, parágrafo sexto, e o depósito inclui custas e honorários. A A erra, porque são trinta por cento e seis parcelas. A B erra, porque o pedido é no prazo dos embargos. A C erra pela renúncia. E a D erra: o parcelamento não vale no cumprimento de sentença, parágrafo sétimo.
+THALITA: Questão sete: Rui, executado em título extrajudicial de cinquenta mil reais, quer parcelar a dívida pelo artigo novecentos e dezesseis. Pausa para pensar.
+FRANCISCA: Depositar trinta por cento e pagar o resto em seis vezes. Mas ele ainda pode embargar, certo?
+THALITA: O gabarito é E, mas atenção: o pedido de parcelamento implica renúncia aos embargos, parágrafo sexto, e o depósito inclui custas e honorários. A A erra, porque são trinta por cento e seis parcelas. A B erra, porque o pedido é no prazo dos embargos. A C erra pela renúncia. E a D erra: o parcelamento não vale no cumprimento de sentença, parágrafo sétimo.
 FRANCISCA: Questão oito: embargos à execução. Pausa para pensar.
 THALITA: Eu marcaria C, efeito suspensivo automático.
 FRANCISCA: Errada. A regra é a ausência de efeito suspensivo. O gabarito é B: os embargos são opostos em quinze dias da juntada do mandado de citação, e o efeito suspensivo exige garantia suficiente, artigos novecentos e quinze e novecentos e dezenove. A A erra, porque independem de penhora, artigo novecentos e catorze. A D erra, porque o artigo novecentos e quinze, parágrafo terceiro, afasta o prazo em dobro. E a E erra, porque o artigo novecentos e dezoito prevê rejeição liminar.
-ANTONIO: Guarde: embargos, quinze dias, sem garantia e sem efeito suspensivo automático.
+THALITA: Guarde: embargos, quinze dias, sem garantia e sem efeito suspensivo automático.
 == SLIDE: Questões 9 e 10 e resumo final
 * Q9: oficial arresta bens e procura o executado 2 vezes em 10 dias
 * Q10: audiência do art. 334: multa de até 2%, revertida à União ou ao Estado
 * Resumo: o que mais cai na FCC
-BRUNO: Questão nove: a oficial de justiça não encontrou o executado, mas localizou bens dele. Pausa para pensar. O gabarito é D: ela arresta bens suficientes e procura o executado duas vezes nos dez dias seguintes, citando por hora certa se houver suspeita de ocultação, artigo oitocentos e trinta. A A erra, porque deve arrestar. A B erra: o arresto só vira penhora depois da citação. A C erra: o edital é requerido pelo exequente. E a E erra, porque a avaliação cabe ao próprio oficial, artigo oitocentos e setenta.
-FRANCISCA: Questão dez: audiência de conciliação do artigo trezentos e trinta e quatro. Pausa para pensar. Gabarito C: a ausência injustificada gera multa de até dois por cento da vantagem pretendida ou do valor da causa. A A erra: o cancelamento exige desinteresse de ambas as partes. A B erra: o réu é citado com vinte dias, não dez. A D erra: a contestação conta da audiência, não sempre da citação. E a E erra: a multa reverte à União ou ao Estado.
-ANTONIO: Terminamos as dez questões. Thalita, faça o resumo.
+FRANCISCA: Questão nove: a oficial de justiça não encontrou o executado, mas localizou bens dele. Pausa para pensar. O gabarito é D: ela arresta bens suficientes e procura o executado duas vezes nos dez dias seguintes, citando por hora certa se houver suspeita de ocultação, artigo oitocentos e trinta. A A erra, porque deve arrestar. A B erra: o arresto só vira penhora depois da citação. A C erra: o edital é requerido pelo exequente. E a E erra, porque a avaliação cabe ao próprio oficial, artigo oitocentos e setenta.
+THALITA: Questão dez: audiência de conciliação do artigo trezentos e trinta e quatro. Pausa para pensar. Gabarito C: a ausência injustificada gera multa de até dois por cento da vantagem pretendida ou do valor da causa. A A erra: o cancelamento exige desinteresse de ambas as partes. A B erra: o réu é citado com vinte dias, não dez. A D erra: a contestação conta da audiência, não sempre da citação. E a E erra: a multa reverte à União ou ao Estado.
+FRANCISCA: Terminamos as dez questões. Thalita, faça o resumo.
 THALITA: Resumo relâmpago do que mais cai na FCC. Revelia: o litisconsorte que contesta afasta a presunção, e ela é só de fato. Contestação: quinze dias, da audiência sem acordo. Tutela antecipada antecedente: estabiliza sem recurso, dois anos para rever, sem coisa julgada. Ônus da prova: decisão fundamentada, sem prova diabólica. Cumprimento: quinze dias, multa e honorários de dez por cento, só sobre o restante. Impenhorabilidade: poupança até quarenta salários, salário acima de cinquenta ou alimentos. Fraude à execução: registro da penhora ou má-fé. Parcelamento: trinta por cento, seis parcelas, renúncia aos embargos. Embargos: quinze dias, sem efeito suspensivo automático.
-ANTONIO: Esta foi a aula de Processo Civil, conhecimento, cumprimento e execução, bons estudos e até a próxima.
+FRANCISCA: Esta foi a aula de Processo Civil, conhecimento, cumprimento e execução, bons estudos e até a próxima.

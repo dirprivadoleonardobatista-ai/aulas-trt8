@@ -4,17 +4,15 @@ SEGMENTO s198
 * Ausência do reclamante: arquivamento (art. 844)
 * Custas mesmo com gratuidade (§2º); prova de motivo legal em 15 dias (§3º)
 * Pagamento das custas é condição para nova demanda
-ANTONIO: Olá, pessoal! Bem-vindos à aula cinquenta e sete de Direito Processual do Trabalho. Hoje o tema são questões comentadas no estilo FCC, e nesta primeira parte vamos resolver as questões de um a nove. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, também professora. Vou trazer a lei em paráfrase e os detalhes de jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC. Minha missão é mostrar onde a banca arma as pegadinhas, alternativa por alternativa.
-THALITA: E eu sou a Thalita, concurseira. Vou perguntar o que vocês estão pensando e tentar resumir tudo em macetes. Já aviso que vou errar de vez em quando.
-ANTONIO: Combinado. A regra do jogo é: eu leio o enunciado resumido, vocês têm um tempo para pensar, e depois comentamos cada alternativa. Primeira questão. Bruno, beneficiário da justiça gratuita, ajuizou reclamação contra a Alfa Limitada e não compareceu à audiência inicial, sem justificativa. A reclamação será o quê? As alternativas falam em arquivamento, revelia, custas, prazos e suspensão.
-BRUNO: Pausa para você pensar. Pense na regra do artigo oitocentos e quarenta e quatro: ausência do reclamante.
-THALITA: Eu chuto a letra B. Julgada à revelia, presumindo-se verdadeiros os fatos da contestação.
-BRUNO: Errou, Thalita, e é uma troca clássica. Ausência do reclamante gera arquivamento. Revelia é consequência da ausência do reclamado, está no caput do artigo oitocentos e quarenta e quatro.
+FRANCISCA: Olá, pessoal! Bem-vindos à aula cinquenta e sete de Direito Processual do Trabalho. Hoje o tema são questões comentadas no estilo FCC, e nesta primeira parte vamos resolver as questões de um a nove. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Combinado. A regra do jogo é: eu leio o enunciado resumido, vocês têm um tempo para pensar, e depois comentamos cada alternativa. Primeira questão. Bruno, beneficiário da justiça gratuita, ajuizou reclamação contra a Alfa Limitada e não compareceu à audiência inicial, sem justificativa. A reclamação será o quê? As alternativas falam em arquivamento, revelia, custas, prazos e suspensão.
+THALITA: Pausa para você pensar. Pense na regra do artigo oitocentos e quarenta e quatro: ausência do reclamante.
+FRANCISCA: Eu chuto a letra B. Julgada à revelia, presumindo-se verdadeiros os fatos da contestação.
+THALITA: Errou, Francisca, e é uma troca clássica. Ausência do reclamante gera arquivamento. Revelia é consequência da ausência do reclamado, está no caput do artigo oitocentos e quarenta e quatro.
 FRANCISCA: A letra A diz que Bruno ficaria isento de custas por ser beneficiário da gratuidade e só não poderia ajuizar nova ação por seis meses. Está errada por dois motivos. O parágrafo segundo do artigo oitocentos e quarenta e quatro impõe as custas ainda que o reclamante seja beneficiário da gratuidade. E a perda do direito de reclamar por seis meses exige dois arquivamentos seguidos, pelo artigo setecentos e trinta e dois, e não um.
-ANTONIO: A letra C é o gabarito. Reproduz os parágrafos segundo e terceiro: o reclamante é condenado às custas, salvo se comprovar, em quinze dias, que a ausência foi por motivo legalmente justificável, e o pagamento das custas é condição para propor nova demanda. O Supremo, na ADI cinco mil setecentos e sessenta e seis, declarou constitucional o parágrafo segundo.
-BRUNO: A letra D trocou os prazos: fala em oito dias e em qualquer motivo relevante. O prazo é de quinze dias, o motivo tem de ser legalmente justificável, e as custas são condição para nova demanda. E a letra E, suspensão obrigatória com nova audiência e confissão, é invenção: a suspensão por motivo relevante é faculdade do juiz.
+THALITA: A letra C é o gabarito. Reproduz os parágrafos segundo e terceiro: o reclamante é condenado às custas, salvo se comprovar, em quinze dias, que a ausência foi por motivo legalmente justificável, e o pagamento das custas é condição para propor nova demanda. O Supremo, na ADI cinco mil setecentos e sessenta e seis, declarou constitucional o parágrafo segundo.
+FRANCISCA: A letra D trocou os prazos: fala em oito dias e em qualquer motivo relevante. O prazo é de quinze dias, o motivo tem de ser legalmente justificável, e as custas são condição para nova demanda. E a letra E, suspensão obrigatória com nova audiência e confissão, é invenção: a suspensão por motivo relevante é faculdade do juiz.
 THALITA: Macete: reclamante falta, arquiva e paga custas, mesmo com gratuidade. Quem falta e é revel é o reclamado.
 == SLIDE: Questão 2: revelia sem efeito de confissão
 * Art. 844, §4º: quatro hipóteses sem confissão
@@ -22,12 +20,12 @@ THALITA: Macete: reclamante falta, arquiva e paga custas, mesmo com gratuidade. 
 * Direitos indisponíveis; alegações inverossímeis
 * Contestação com advogado é regra do §5º, fora do rol
 FRANCISCA: Segunda questão. Quatro situações em que o reclamado, notificado, faltou. Item um: duas reclamadas, e só uma compareceu e contestou os fatos comuns. Item dois: litígio sobre direitos indisponíveis. Item três: alegações inverossímeis e em contradição com a prova dos autos. Item quatro: o advogado da reclamada compareceu com procuração e apresentou contestação e documentos, embora ausentes a reclamada e o preposto. Quais estão previstas no parágrafo quarto do artigo oitocentos e quarenta e quatro como hipóteses em que a revelia não produz confissão?
-ANTONIO: Dê uns segundos para pensar. Releia cada item e pergunte: está no parágrafo quarto, ou em outro lugar?
-THALITA: Eu acho que são todas. Se o advogado foi e contestou, claro que não há confissão.
-BRUNO: Boa tentativa, mas aí está a pegadinha do item quatro. A questão pergunta especificamente o que está no parágrafo quarto. A contestação e os documentos apresentados pelo advogado, mesmo com a parte ausente, são aceitos, mas isso vem do parágrafo quinto. Não integra o rol do quarto.
+THALITA: Dê uns segundos para pensar. Releia cada item e pergunte: está no parágrafo quarto, ou em outro lugar?
+FRANCISCA: Eu acho que são todas. Se o advogado foi e contestou, claro que não há confissão.
+THALITA: Boa tentativa, mas aí está a pegadinha do item quatro. A questão pergunta especificamente o que está no parágrafo quarto. A contestação e os documentos apresentados pelo advogado, mesmo com a parte ausente, são aceitos, mas isso vem do parágrafo quinto. Não integra o rol do quarto.
 FRANCISCA: Vamos ao rol. O inciso um: se havendo pluralidade de reclamados, algum deles contestar a ação. Basta que algum conteste. O inciso dois: se o litígio versar sobre direitos indisponíveis. O inciso três trata da petição inicial sem instrumento de mandato, e o inciso quatro das alegações inverossímeis ou contraditórias com a prova.
-ANTONIO: Então os itens um, dois e três da questão correspondem aos incisos um, dois e quatro do parágrafo quarto. O gabarito é a letra D.
-BRUNO: A letra A omite o item três. A letra B omite o item um. A letra C inclui o item quatro, que não está no rol. A letra E omite um e dois e inclui o quatro.
+THALITA: Então os itens um, dois e três da questão correspondem aos incisos um, dois e quatro do parágrafo quarto. O gabarito é a letra D.
+FRANCISCA: A letra A omite o item três. A letra B omite o item um. A letra C inclui o item quatro, que não está no rol. A letra E omite um e dois e inclui o quatro.
 THALITA: Entendi. Então preciso decorar a lista: um réu contestou, direito indisponível, inicial sem procuração ou prova que contradiz. E o advogado que vai sozinho é outro caso.
 FRANCISCA: Isso. No outro caso a contestação é aceita, mas a parte continua ausente.
 == SLIDE: Questão 3: sumaríssimo
@@ -35,93 +33,93 @@ FRANCISCA: Isso. No outro caso a contestação é aceita, mas a parte continua a
 * Sem edital; descumprimento gera arquivamento e custas (art. 852-B)
 * 2 testemunhas; laudo em 5 dias comuns
 * Sentença sem relatório; 15 dias para apreciação
-ANTONIO: Terceira questão, sobre o procedimento sumaríssimo. Qual afirmação é correta? Na letra A, o limite é sessenta salários mínimos, excluídas empresas públicas e sociedades de economia mista. Na B, não há citação por edital e o descumprimento gera arquivamento e custas. Na C, até três testemunhas, com intimação de quem deixar de comparecer. Na D, perícia sempre que requerida, e prazo sucessivo de dez dias para o laudo. Na E, sentença com relatório e apreciação em trinta dias.
-BRUNO: Pausa para pensar. Aqui vale lembrar da lista de números do sumaríssimo.
+THALITA: Terceira questão, sobre o procedimento sumaríssimo. Qual afirmação é correta? Na letra A, o limite é sessenta salários mínimos, excluídas empresas públicas e sociedades de economia mista. Na B, não há citação por edital e o descumprimento gera arquivamento e custas. Na C, até três testemunhas, com intimação de quem deixar de comparecer. Na D, perícia sempre que requerida, e prazo sucessivo de dez dias para o laudo. Na E, sentença com relatório e apreciação em trinta dias.
+FRANCISCA: Pausa para pensar. Aqui vale lembrar da lista de números do sumaríssimo.
 THALITA: Eu desconfio de tudo que tem número. A letra A, sessenta salários, está errada, porque é quarenta, né?
 FRANCISCA: Exato, quarenta. E a exclusão alcança a Administração direta, autárquica e fundacional, pelo parágrafo único do artigo oitocentos e cinquenta e dois, letra A. Empresas públicas e sociedades de economia mista podem ser partes no sumaríssimo. A letra A erra duas vezes.
-ANTONIO: A letra B é o gabarito. Artigo oitocentos e cinquenta e dois, letra B, inciso dois e parágrafo primeiro: sem edital, o autor indica corretamente o nome e o endereço, e o descumprimento leva ao arquivamento e às custas sobre o valor da causa.
-BRUNO: Agora as erradas. A letra C fala em três testemunhas e intimação de quem simplesmente deixa de comparecer. São duas testemunhas por parte, e a intimação só se defere para a testemunha comprovadamente convidada. A letra D erra duas vezes também: a perícia só é deferida quando a prova do fato exigir ou for imposta por lei, e o prazo para falar do laudo é comum, de cinco dias.
+THALITA: A letra B é o gabarito. Artigo oitocentos e cinquenta e dois, letra B, inciso dois e parágrafo primeiro: sem edital, o autor indica corretamente o nome e o endereço, e o descumprimento leva ao arquivamento e às custas sobre o valor da causa.
+FRANCISCA: Agora as erradas. A letra C fala em três testemunhas e intimação de quem simplesmente deixa de comparecer. São duas testemunhas por parte, e a intimação só se defere para a testemunha comprovadamente convidada. A letra D erra duas vezes também: a perícia só é deferida quando a prova do fato exigir ou for imposta por lei, e o prazo para falar do laudo é comum, de cinco dias.
 THALITA: E a E?
-BRUNO: A sentença dispensa o relatório, e a apreciação deve ocorrer em até quinze dias. Os trinta dias são o prazo para prosseguir depois que a audiência é interrompida. A banca troca o número de um dispositivo por outro.
+FRANCISCA: A sentença dispensa o relatório, e a apreciação deve ocorrer em até quinze dias. Os trinta dias são o prazo para prosseguir depois que a audiência é interrompida. A banca troca o número de um dispositivo por outro.
 THALITA: Macete: quarenta, quinze, dois, cinco e trinta. Cada número no seu lugar.
 == SLIDE: Questão 4: número de testemunhas
 * Ordinário: 3; sumaríssimo: 2; inquérito: 6
 * Macete 3-2-6
 * Sumário segue o ordinário
 FRANCISCA: Quarta questão, rápida. Quanto ao número máximo de testemunhas por parte, nos procedimentos ordinário, sumaríssimo e inquérito para apuração de falta grave, respectivamente, quais são os números? As opções: duas, três e cinco; três, três e seis; três, duas e cinco; duas, duas e seis; ou três, duas e seis.
-ANTONIO: Pense antes de ouvir a resposta.
-THALITA: Essa eu sei! Três, duas e seis, letra E.
-BRUNO: Acertou. E agora vejo por que cada alternativa erra. A letra A inverte ordinário e sumaríssimo e ainda erra o inquérito. A letra B coloca três no sumaríssimo, mas são duas, pelo artigo oitocentos e cinquenta e dois, letra H, parágrafo segundo.
+THALITA: Pense antes de ouvir a resposta.
+FRANCISCA: Essa eu sei! Três, duas e seis, letra E.
+THALITA: Acertou. E agora vejo por que cada alternativa erra. A letra A inverte ordinário e sumaríssimo e ainda erra o inquérito. A letra B coloca três no sumaríssimo, mas são duas, pelo artigo oitocentos e cinquenta e dois, letra H, parágrafo segundo.
 FRANCISCA: A letra C erra no inquérito: o número pode ser elevado a seis, conforme o artigo oitocentos e vinte e um, não a cinco. E a letra D coloca duas no ordinário, quando são três.
-ANTONIO: O macete já conhecemos: três, dois, seis. E o procedimento sumário, de alçada, segue o ordinário: três testemunhas.
-THALITA: E o limite é por parte, não por pedido, certo?
-FRANCISCA: Certo. Cada parte indica no máximo esse número, qualquer que seja a quantidade de pedidos.
-BRUNO: E se a banca inventar que o limite é maior porque são muitos pedidos, está errado.
+THALITA: O macete já conhecemos: três, dois, seis. E o procedimento sumário, de alçada, segue o ordinário: três testemunhas.
+FRANCISCA: E o limite é por parte, não por pedido, certo?
+THALITA: Certo. Cada parte indica no máximo esse número, qualquer que seja a quantidade de pedidos.
+FRANCISCA: E se a banca inventar que o limite é maior porque são muitos pedidos, está errado.
 == SLIDE: Questão 5: inquérito para apuração de falta grave
 * Dirigente sindical só é dispensado após inquérito judicial (Súmula 379)
 * Art. 853: 30 dias da suspensão, por escrito
 * Prazo decadencial (Súmula 403 do STF)
 * Seis testemunhas; improcedência: readmissão e salários (art. 495)
-ANTONIO: Quinta questão. Márcio, dirigente sindical eleito, empregado da Beta Sociedade Anônima, foi suspenso por suposta falta grave. Pela CLT e pela jurisprudência sumulada, o que se aplica? A letra A fala em inquérito por escrito em trinta dias da suspensão, prazo decadencial, com até seis testemunhas. A B diz que a empresa pode dispensar direto por justa causa. A C fala em inquérito verbal ou escrito, prazo prescricional contado da ciência, três testemunhas. A D diz que o inquérito é só para estabilidade decenal. A E diz que, improcedente o inquérito, a empresa readmite mas não paga salários.
+THALITA: Quinta questão. Márcio, dirigente sindical eleito, empregado da Beta Sociedade Anônima, foi suspenso por suposta falta grave. Pela CLT e pela jurisprudência sumulada, o que se aplica? A letra A fala em inquérito por escrito em trinta dias da suspensão, prazo decadencial, com até seis testemunhas. A B diz que a empresa pode dispensar direto por justa causa. A C fala em inquérito verbal ou escrito, prazo prescricional contado da ciência, três testemunhas. A D diz que o inquérito é só para estabilidade decenal. A E diz que, improcedente o inquérito, a empresa readmite mas não paga salários.
 FRANCISCA: Pare um instante e lembre: dirigente sindical tem proteção especial. Não se dispensa por justa causa sem o inquérito.
 THALITA: Eu iria na B. Se há falta grave, a empresa dispensa, e o empregado discute depois.
-BRUNO: Não, Thalita. A Súmula trezentos e setenta e nove do TST diz que o dirigente sindical só pode ser dispensado por falta grave mediante inquérito judicial, nos termos do artigo quinhentos e quarenta e três, parágrafo terceiro. A letra B está errada.
-ANTONIO: A letra A é o gabarito. O artigo oitocentos e cinquenta e três exige reclamação escrita, no prazo de trinta dias contados da suspensão. A Súmula quatrocentos e três do Supremo diz que esse prazo é decadencial. E o artigo oitocentos e vinte e um permite até seis testemunhas por parte no inquérito.
+FRANCISCA: Não, Thalita. A Súmula trezentos e setenta e nove do TST diz que o dirigente sindical só pode ser dispensado por falta grave mediante inquérito judicial, nos termos do artigo quinhentos e quarenta e três, parágrafo terceiro. A letra B está errada.
+THALITA: A letra A é o gabarito. O artigo oitocentos e cinquenta e três exige reclamação escrita, no prazo de trinta dias contados da suspensão. A Súmula quatrocentos e três do Supremo diz que esse prazo é decadencial. E o artigo oitocentos e vinte e um permite até seis testemunhas por parte no inquérito.
 FRANCISCA: Na letra C, quase tudo está trocado: a forma é escrita, o prazo é decadencial, conta-se da suspensão, e são seis testemunhas. A letra D também erra: a Súmula trezentos e setenta e nove estende a exigência ao dirigente sindical. E na E, reconhecida a inexistência de falta grave, o empregador readmite e paga os salários do período de suspensão, pelo artigo quatrocentos e noventa e cinco.
-BRUNO: Cuidado com decadencial versus prescricional. A FCC adora trocar uma pela outra.
-THALITA: Macete: trinta dias, escrito, da suspensão, decadencial. Seis testemunhas.
+THALITA: Cuidado com decadencial versus prescricional. A FCC adora trocar uma pela outra.
+FRANCISCA: Macete: trinta dias, escrito, da suspensão, decadencial. Seis testemunhas.
 == SLIDE: Questão 6: acordo homologado e ação rescisória
 * Termo de conciliação é decisão irrecorrível (art. 831, parágrafo único)
 * Só por ação rescisória (Súmula 259)
 * Depósito de 20% (art. 836); prazo de 2 anos
 * Súmula 100, V: trânsito na data da homologação
-FRANCISCA: Sexta questão. Carla e a Gama Limitada fizeram acordo, homologado pelo juiz. Meses depois, Carla quer desconstituir o termo, alegando vício. O que diz a CLT e a jurisprudência do TST? A letra A fala em recurso ordinário em oito dias. A B fala em mandado de segurança em cento e vinte dias. A C fala em ação rescisória, com depósito de vinte por cento, prazo de dois anos contados da homologação. A D fala em ação anulatória na própria Vara, sem depósito. A E fala em rescisória com depósito de cinco por cento, contados do fim do contrato.
-ANTONIO: Hora de pensar. Qual é a natureza do termo de conciliação?
+THALITA: Sexta questão. Carla e a Gama Limitada fizeram acordo, homologado pelo juiz. Meses depois, Carla quer desconstituir o termo, alegando vício. O que diz a CLT e a jurisprudência do TST? A letra A fala em recurso ordinário em oito dias. A B fala em mandado de segurança em cento e vinte dias. A C fala em ação rescisória, com depósito de vinte por cento, prazo de dois anos contados da homologação. A D fala em ação anulatória na própria Vara, sem depósito. A E fala em rescisória com depósito de cinco por cento, contados do fim do contrato.
+FRANCISCA: Hora de pensar. Qual é a natureza do termo de conciliação?
 THALITA: Se é decisão do juiz, cabe recurso. Letra A?
-BRUNO: O termo de conciliação vale como decisão irrecorrível, pelo parágrafo único do artigo oitocentos e trinta e um. Só a União pode recorrer, quanto às contribuições previdenciárias. Então a letra A está errada.
-FRANCISCA: A letra B também. Não cabe mandado de segurança contra decisão transitada em julgado, Súmula trinta e três. A letra D esbarra na Súmula duzentos e cinquenta e nove: o termo de conciliação só é impugnável por ação rescisória, de competência do tribunal, e não por anulatória na Vara.
-ANTONIO: A letra C é o gabarito. Artigos oitocentos e trinta e um, parágrafo único, e oitocentos e trinta e seis da CLT, Súmula duzentos e cinquenta e nove, e Súmula cem, inciso cinco, que fixa o trânsito em julgado na data da homologação. O prazo de dois anos vem do artigo novecentos e setenta e cinco do CPC.
-BRUNO: Na letra E, a banca usou cinco por cento, que é o depósito da rescisória no CPC. No processo do trabalho a CLT fixa vinte por cento, salvo prova de miserabilidade jurídica. E o prazo conta do trânsito em julgado, não do fim do contrato.
-THALITA: Macete: acordo homologado só se ataca por rescisória, com vinte por cento e dois anos da homologação.
+FRANCISCA: O termo de conciliação vale como decisão irrecorrível, pelo parágrafo único do artigo oitocentos e trinta e um. Só a União pode recorrer, quanto às contribuições previdenciárias. Então a letra A está errada.
+THALITA: A letra B também. Não cabe mandado de segurança contra decisão transitada em julgado, Súmula trinta e três. A letra D esbarra na Súmula duzentos e cinquenta e nove: o termo de conciliação só é impugnável por ação rescisória, de competência do tribunal, e não por anulatória na Vara.
+FRANCISCA: A letra C é o gabarito. Artigos oitocentos e trinta e um, parágrafo único, e oitocentos e trinta e seis da CLT, Súmula duzentos e cinquenta e nove, e Súmula cem, inciso cinco, que fixa o trânsito em julgado na data da homologação. O prazo de dois anos vem do artigo novecentos e setenta e cinco do CPC.
+THALITA: Na letra E, a banca usou cinco por cento, que é o depósito da rescisória no CPC. No processo do trabalho a CLT fixa vinte por cento, salvo prova de miserabilidade jurídica. E o prazo conta do trânsito em julgado, não do fim do contrato.
+FRANCISCA: Macete: acordo homologado só se ataca por rescisória, com vinte por cento e dois anos da homologação.
 == SLIDE: Questão 7: mandado de segurança
 * Súmula 414: tutela provisória e cabimento do mandado de segurança
 * Na sentença: recurso ordinário com pedido de efeito suspensivo
 * Antes da sentença: cabe mandado de segurança
 * Súmula 417: penhora em dinheiro não fere direito líquido e certo
 * Súmula 418: homologação de acordo é faculdade
-ANTONIO: Sétima questão, sobre mandado de segurança. Considere quatro itens. Um: a tutela provisória concedida na sentença comporta mandado de segurança. Dois: se a tutela foi concedida ou indeferida antes da sentença, cabe mandado de segurança, por falta de recurso próprio. Três: não fere direito líquido e certo o ato que determina penhora em dinheiro para garantir o crédito. Quatro: a homologação de acordo é dever do juiz, com direito líquido e certo tutelável por mandado de segurança. Qual combinação está correta?
-BRUNO: Pense item por item, aplicando as súmulas.
+THALITA: Sétima questão, sobre mandado de segurança. Considere quatro itens. Um: a tutela provisória concedida na sentença comporta mandado de segurança. Dois: se a tutela foi concedida ou indeferida antes da sentença, cabe mandado de segurança, por falta de recurso próprio. Três: não fere direito líquido e certo o ato que determina penhora em dinheiro para garantir o crédito. Quatro: a homologação de acordo é dever do juiz, com direito líquido e certo tutelável por mandado de segurança. Qual combinação está correta?
+FRANCISCA: Pense item por item, aplicando as súmulas.
 THALITA: Item um parece certo para mim. Tutela é urgente, então vale o mandado.
 FRANCISCA: Aí está a pegadinha. Pela Súmula quatrocentos e catorze, inciso um, a tutela concedida na sentença é impugnável por recurso ordinário, com pedido de efeito suspensivo, e não por mandado de segurança. Então o item um é falso.
-ANTONIO: O item dois é verdadeiro, Súmula quatrocentos e catorze, inciso dois: antes da sentença, não há recurso próprio, e então cabe o mandado. O item três também é verdadeiro, Súmula quatrocentos e dezessete, inciso um: penhora em dinheiro não fere direito líquido e certo.
-BRUNO: O item quatro é falso. Pela Súmula quatrocentos e dezoito, a homologação de acordo é faculdade do juiz, sem direito líquido e certo. Resultado: dois e três corretos, letra B.
-FRANCISCA: A letra A inclui o item um. A letra C tem um e quatro, ambos falsos. A letra D inclui o quatro. E a letra E também inclui o quatro.
-THALITA: Macete: antes da sentença cabe mandado, na sentença cabe recurso. E acordo o juiz não é obrigado a homologar.
+THALITA: O item dois é verdadeiro, Súmula quatrocentos e catorze, inciso dois: antes da sentença, não há recurso próprio, e então cabe o mandado. O item três também é verdadeiro, Súmula quatrocentos e dezessete, inciso um: penhora em dinheiro não fere direito líquido e certo.
+FRANCISCA: O item quatro é falso. Pela Súmula quatrocentos e dezoito, a homologação de acordo é faculdade do juiz, sem direito líquido e certo. Resultado: dois e três corretos, letra B.
+THALITA: A letra A inclui o item um. A letra C tem um e quatro, ambos falsos. A letra D inclui o quatro. E a letra E também inclui o quatro.
+FRANCISCA: Macete: antes da sentença cabe mandado, na sentença cabe recurso. E acordo o juiz não é obrigada a homologar.
 == SLIDE: Questão 8: embargos de declaração
 * Art. 897-A: prazo de 5 dias; interrompem o prazo para qualquer parte
 * Efeito modificativo: omissão, contradição e erro nos pressupostos extrínsecos
 * Oitiva da parte contrária em 5 dias
 * Sem interrupção: intempestivos, representação irregular, sem assinatura
-BRUNO: Oitava questão. Nos termos do artigo oitocentos e noventa e sete, letra A, os embargos de declaração: letra A, cabem em oito dias e suspendem o prazo só para o embargante. Letra B, admitem efeito modificativo para omissão, contradição e obscuridade, sem ouvir a parte contrária. Letra C, interrompem o prazo em qualquer hipótese, inclusive intempestivos. Letra D, admitem efeito modificativo nos casos de omissão e contradição e manifesto equívoco nos pressupostos extrínsecos, ouvida a parte contrária em cinco dias, e erros materiais podem ser corrigidos de ofício. Letra E, são o único meio de corrigir erro material, que não pode ser corrigido de ofício.
-ANTONIO: Pausa para você pensar. Lembre da estrutura do artigo oitocentos e noventa e sete, letra A.
+THALITA: Oitava questão. Nos termos do artigo oitocentos e noventa e sete, letra A, os embargos de declaração: letra A, cabem em oito dias e suspendem o prazo só para o embargante. Letra B, admitem efeito modificativo para omissão, contradição e obscuridade, sem ouvir a parte contrária. Letra C, interrompem o prazo em qualquer hipótese, inclusive intempestivos. Letra D, admitem efeito modificativo nos casos de omissão e contradição e manifesto equívoco nos pressupostos extrínsecos, ouvida a parte contrária em cinco dias, e erros materiais podem ser corrigidos de ofício. Letra E, são o único meio de corrigir erro material, que não pode ser corrigido de ofício.
+FRANCISCA: Pausa para você pensar. Lembre da estrutura do artigo oitocentos e noventa e sete, letra A.
 THALITA: Eu chuto a letra B. Omissão, contradição e obscuridade, é o que sempre ouvi.
 FRANCISCA: Essa é a pegadinha. Os três vícios clássicos são omissão, contradição e obscuridade, mas o texto do artigo oitocentos e noventa e sete, letra A, fala em efeito modificativo para omissão e contradição no julgado e manifesto equívoco no exame dos pressupostos extrínsecos. E o parágrafo segundo exige que a parte contrária seja ouvida em cinco dias. A letra B erra nos dois pontos.
-ANTONIO: A letra D é o gabarito, síntese do caput e dos parágrafos primeiro e segundo.
-BRUNO: A letra A erra o prazo, que é de cinco dias, e também erra o efeito: os embargos interrompem o prazo para qualquer das partes. A letra C esquece o parágrafo terceiro: não há interrupção quando os embargos forem intempestivos, ou houver representação irregular, ou faltar assinatura.
-FRANCISCA: E a letra E é falsa: erros materiais podem ser corrigidos de ofício ou a requerimento, nos termos do parágrafo primeiro e do artigo oitocentos e trinta e três.
-THALITA: Macete: cinco dias, interrompe para todos, modificativo com contraditório.
+THALITA: A letra D é o gabarito, síntese do caput e dos parágrafos primeiro e segundo.
+FRANCISCA: A letra A erra o prazo, que é de cinco dias, e também erra o efeito: os embargos interrompem o prazo para qualquer das partes. A letra C esquece o parágrafo terceiro: não há interrupção quando os embargos forem intempestivos, ou houver representação irregular, ou faltar assinatura.
+THALITA: E a letra E é falsa: erros materiais podem ser corrigidos de ofício ou a requerimento, nos termos do parágrafo primeiro e do artigo oitocentos e trinta e três.
+FRANCISCA: Macete: cinco dias, interrompe para todos, modificativo com contraditório.
 == SLIDE: Questão 9: liquidação de sentença
 * Art. 879, §2º: prazo comum de 8 dias, sob pena de preclusão
 * §3º: União intimada, 10 dias, sob pena de preclusão
 * Reforma trocou "poderá" por "deverá"
 * Não se modifica a sentença liquidanda (§1º)
 * Impugnação: embargos à execução (art. 884, §3º)
-ANTONIO: Nona e última questão desta parte. Em liquidação, o contador elaborou a conta e tornou líquida a sentença. Pelo artigo oitocentos e setenta e nove, o juízo: letra A, abre prazo comum de oito dias para impugnação fundamentada, indicando itens e valores, sob pena de preclusão, e intima a União para falar em dez dias, também sob pena de preclusão. Letra B, pode abrir prazo sucessivo de dez dias, e a União fala em oito. Letra C, prazo comum de cinco dias, e manifestação da União facultativa. Letra D, homologa a conta, cabendo agravo de petição imediato. Letra E, pode modificar a sentença para corrigir erro de julgamento.
+THALITA: Nona e última questão desta parte. Em liquidação, o contador elaborou a conta e tornou líquida a sentença. Pelo artigo oitocentos e setenta e nove, o juízo: letra A, abre prazo comum de oito dias para impugnação fundamentada, indicando itens e valores, sob pena de preclusão, e intima a União para falar em dez dias, também sob pena de preclusão. Letra B, pode abrir prazo sucessivo de dez dias, e a União fala em oito. Letra C, prazo comum de cinco dias, e manifestação da União facultativa. Letra D, homologa a conta, cabendo agravo de petição imediato. Letra E, pode modificar a sentença para corrigir erro de julgamento.
 FRANCISCA: Pense na redação do parágrafo segundo do artigo oitocentos e setenta e nove, depois da Reforma.
 THALITA: Eu ficaria com a B, que fala em poderá. Sempre vi que o juiz podia abrir prazo.
-BRUNO: A letra B reproduz a redação anterior à Reforma, com poderá e prazo sucessivo de dez dias. Hoje o juiz deve abrir prazo comum de oito dias, e a União tem dez, sob pena de preclusão, parágrafos segundo e terceiro. A letra A é o gabarito.
-ANTONIO: E a letra C erra o prazo das partes, que é de oito dias, e dá facultatividade à União, que tem dez dias sob pena de preclusão.
+FRANCISCA: A letra B reproduz a redação anterior à Reforma, com poderá e prazo sucessivo de dez dias. Hoje o juiz deve abrir prazo comum de oito dias, e a União tem dez, sob pena de preclusão, parágrafos segundo e terceiro. A letra A é o gabarito.
+THALITA: E a letra C erra o prazo das partes, que é de oito dias, e dá facultatividade à União, que tem dez dias sob pena de preclusão.
 FRANCISCA: A letra D diz que cabe agravo de petição imediato da sentença de liquidação. Não cabe. A sentença de liquidação não é recorrível de imediato: impugna-se nos embargos à execução ou na impugnação do exequente, artigo oitocentos e oitenta e quatro, parágrafo terceiro. E a letra E contraria o parágrafo primeiro: na liquidação não se pode modificar nem inovar a sentença liquidanda.
-BRUNO: Preste atenção ao verbo: deverá, não poderá, e preclusão para as duas pontas, partes e União.
-THALITA: Macete: oito para as partes, dez para a União, e quem não fala perde.
-ANTONIO: Terminamos a primeira parte das questões. Na sequência, mais cinco questões, sobre dissídios coletivos, reclamação verbal, audiências, ônus da prova e sentença. Vamos lá!
+THALITA: Preste atenção ao verbo: deverá, não poderá, e preclusão para as duas pontas, partes e União.
+FRANCISCA: Macete: oito para as partes, dez para a União, e quem não fala perde.
+THALITA: Terminamos a primeira parte das questões. Na sequência, mais cinco questões, sobre dissídios coletivos, reclamação verbal, audiências, ônus da prova e sentença. Vamos lá!

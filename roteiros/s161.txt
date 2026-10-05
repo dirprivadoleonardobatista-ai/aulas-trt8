@@ -6,56 +6,56 @@ SEGMENTO s161
 * Art. 468: alteração lesiva é nula, ainda que consentida
 FRANCISCA: Vimos como o tempo corta os direitos pela prescrição. Agora a pergunta é: o empregado pode abrir mão deles? É a diferença entre renúncia e transação, e entre os meios extrajudiciais de solução de conflitos.
 THALITA: Renúncia e transação não são a mesma coisa?
-ANTONIO: Não. Renúncia é ato unilateral: o titular abre mão de um direito certo, sem receber nada em troca. Transação é ato bilateral: as partes fazem concessões recíprocas sobre um direito duvidoso, que os juristas chamam de coisa duvidosa.
-BRUNO: A FCC cobra a tabela: natureza, objeto e concessões. Renúncia, unilateral, direito certo, concessão só de quem renuncia. Transação, bilateral, direito duvidoso, concessões recíprocas.
-THALITA: E no Direito do Trabalho, vale renunciar?
-FRANCISCA: Em regra, não. O artigo nono da CLT diz que são nulos de pleno direito os atos praticados com o objetivo de desvirtuar, impedir ou fraudar a aplicação dos preceitos da Consolidação. É a base da indisponibilidade dos direitos trabalhistas. A nulidade pode ser reconhecida a qualquer tempo.
-ANTONIO: Combina com o artigo quatrocentos e sessenta e oito: alteração contratual lesiva é nula, ainda que consentida pelo empregado.
-BRUNO: Um exemplo que aparece na prova: o aviso prévio. A Súmula duzentos e setenta e seis diz que o direito é irrenunciável pelo empregado, e o pedido de dispensa de cumprimento não exime o empregador de pagar, salvo comprovação de novo emprego.
-THALITA: Então a transação vale quando há dúvida real e concessões dos dois lados, sem vício de consentimento e sem mexer em norma de ordem pública. Como num acordo judicial.
-FRANCISCA: Exatamente. Acordo judicial, termo da Comissão de Conciliação Prévia e acordo extrajudicial homologado são exemplos de transação admitida.
-BRUNO: Macete: renúncia, unilateral e nula; transação, bilateral e admitida com limites.
+FRANCISCA: Não. Renúncia é ato unilateral: o titular abre mão de um direito certo, sem receber nada em troca. Transação é ato bilateral: as partes fazem concessões recíprocas sobre um direito duvidoso, que os juristas chamam de coisa duvidosa.
+THALITA: A FCC cobra a tabela: natureza, objeto e concessões. Renúncia, unilateral, direito certo, concessão só de quem renuncia. Transação, bilateral, direito duvidoso, concessões recíprocas.
+FRANCISCA: E no Direito do Trabalho, vale renunciar?
+THALITA: Em regra, não. O artigo nono da CLT diz que são nulos de pleno direito os atos praticados com o objetivo de desvirtuar, impedir ou fraudar a aplicação dos preceitos da Consolidação. É a base da indisponibilidade dos direitos trabalhistas. A nulidade pode ser reconhecida a qualquer tempo.
+FRANCISCA: Combina com o artigo quatrocentos e sessenta e oito: alteração contratual lesiva é nula, ainda que consentida pelo empregado.
+THALITA: Um exemplo que aparece na prova: o aviso prévio. A Súmula duzentos e setenta e seis diz que o direito é irrenunciável pelo empregado, e o pedido de dispensa de cumprimento não exime o empregador de pagar, salvo comprovação de novo emprego.
+FRANCISCA: Então a transação vale quando há dúvida real e concessões dos dois lados, sem vício de consentimento e sem mexer em norma de ordem pública. Como num acordo judicial.
+THALITA: Exatamente. Acordo judicial, termo da Comissão de Conciliação Prévia e acordo extrajudicial homologado são exemplos de transação admitida.
+FRANCISCA: Macete: renúncia, unilateral e nula; transação, bilateral e admitida com limites.
 == SLIDE: Comissões de Conciliação Prévia
 * Instituição facultativa; composição paritária de 2 a 10 membros
 * Mandato de 1 ano, uma recondução; sessão em 10 dias
 * Estabilidade só dos representantes dos empregados
 * Termo: título executivo extrajudicial, eficácia liberatória geral
-ANTONIO: Vamos às Comissões de Conciliação Prévia, artigos seiscentos e vinte e cinco-A a seiscentos e vinte e cinco-H. A instituição é facultativa, por empresas e sindicatos, e podem ser de grupos de empresas ou intersindicais.
-THALITA: Como é composta?
-FRANCISCA: Na empresa, no mínimo dois e no máximo dez membros. Metade indicada pelo empregador, metade eleita pelos empregados em escrutínio secreto fiscalizado pelo sindicato. Os suplentes são em número igual ao dos titulares. O mandato é de um ano, permitida uma recondução.
-BRUNO: Atenção à estabilidade. Só os representantes dos empregados, titulares e suplentes, têm garantia, até um ano após o fim do mandato, salvo falta grave. Os indicados pelo empregador não têm. E o tempo de atuação é computado como trabalho efetivo.
+THALITA: Vamos às Comissões de Conciliação Prévia, artigos seiscentos e vinte e cinco-A a seiscentos e vinte e cinco-H. A instituição é facultativa, por empresas e sindicatos, e podem ser de grupos de empresas ou intersindicais.
+FRANCISCA: Como é composta?
+THALITA: Na empresa, no mínimo dois e no máximo dez membros. Metade indicada pelo empregador, metade eleita pelos empregados em escrutínio secreto fiscalizado pelo sindicato. Os suplentes são em número igual ao dos titulares. O mandato é de um ano, permitida uma recondução.
+FRANCISCA: Atenção à estabilidade. Só os representantes dos empregados, titulares e suplentes, têm garantia, até um ano após o fim do mandato, salvo falta grave. Os indicados pelo empregador não têm. E o tempo de atuação é computado como trabalho efetivo.
 THALITA: E o prazo para a sessão de conciliação?
-ANTONIO: Dez dias da provocação. Esgotado o prazo, fornece-se declaração no último dia. A FCC mistura os dez dias da sessão com o mandato de um ano. Não confunda.
-FRANCISCA: Durante esse prazo, a prescrição fica suspensa desde a provocação, artigo seiscentos e vinte e cinco-G, e volta a fluir pelo que resta. Se a conciliação for frustrada, a comissão dá declaração da tentativa frustrada, com a descrição do objeto.
-THALITA: E se for aceita?
-ANTONIO: Lavra-se termo assinado pelo empregado, pelo empregador ou seu proposto e pelos membros da comissão, com cópia às partes. O termo é título executivo extrajudicial, executável na Justiça do Trabalho, e tem eficácia liberatória geral, exceto quanto às parcelas expressamente ressalvadas.
-BRUNO: Compare com a Súmula trezentos e trinta: a quitação rescisória é limitada às parcelas consignadas no recibo. O termo da comissão é mais amplo.
-FRANCISCA: E o Supremo, nas ADIs dois mil cento e trinta e nove, dois mil cento e sessenta e dois mil duzentos e trinta e sete, deu interpretação conforme ao artigo seiscentos e vinte e cinco-D: a submissão da demanda à comissão não é condição para ajuizar a reclamação trabalhista, por causa do acesso à Justiça. Confira a tese sobre o alcance da eficácia liberatória.
+FRANCISCA: Dez dias da provocação. Esgotado o prazo, fornece-se declaração no último dia. A FCC mistura os dez dias da sessão com o mandato de um ano. Não confunda.
+THALITA: Durante esse prazo, a prescrição fica suspensa desde a provocação, artigo seiscentos e vinte e cinco-G, e volta a fluir pelo que resta. Se a conciliação for frustrada, a comissão dá declaração da tentativa frustrada, com a descrição do objeto.
+FRANCISCA: E se for aceita?
+THALITA: Lavra-se termo assinado pelo empregado, pelo empregador ou seu proposto e pelos membros da comissão, com cópia às partes. O termo é título executivo extrajudicial, executável na Justiça do Trabalho, e tem eficácia liberatória geral, exceto quanto às parcelas expressamente ressalvadas.
+FRANCISCA: Compare com a Súmula trezentos e trinta: a quitação rescisória é limitada às parcelas consignadas no recibo. O termo da comissão é mais amplo.
+THALITA: E o Supremo, nas ADIs dois mil cento e trinta e nove, dois mil cento e sessenta e dois mil duzentos e trinta e sete, deu interpretação conforme ao artigo seiscentos e vinte e cinco-D: a submissão da demanda à comissão não é condição para ajuizar a reclamação trabalhista, por causa do acesso à Justiça. Confira a tese sobre o alcance da eficácia liberatória.
 == SLIDE: Homologação de acordo extrajudicial
 * Petição conjunta; advogados distintos (art. 855-B)
 * Juiz decide em 15 dias; faculdade do juiz (Súmula 418)
 * Suspende a prescrição quanto aos direitos especificados
 * Não afasta o prazo do art. 477, § 6º
-THALITA: Agora o acordo extrajudicial, que veio com a Reforma. Como funciona?
-BRUNO: Artigos oitocentos e cinquenta e cinco-B a oitocentos e cinquenta e cinco-E. O processo começa com petição conjunta. As partes devem estar representadas por advogados, e é vedado advogado comum às duas. O trabalhador pode ser assistido pelo advogado do sindicato.
+FRANCISCA: Agora o acordo extrajudicial, que veio com a Reforma. Como funciona?
+THALITA: Artigos oitocentos e cinquenta e cinco-B a oitocentos e cinquenta e cinco-E. O processo começa com petição conjunta. As partes devem estar representadas por advogados, e é vedado advogado comum às duas. O trabalhador pode ser assistido pelo advogado do sindicato.
 FRANCISCA: A competência é da Vara do Trabalho. Recebida a petição, o juiz tem quinze dias contados da distribuição para analisar, designar audiência se necessário e proferir sentença, artigo oitocentos e cinquenta e cinco-D.
 THALITA: E as verbas rescisórias? Se eu fizer o acordo, o prazo de pagamento muda?
-ANTONIO: Não. O artigo oitocentos e cinquenta e cinco-C diz que o acordo não afasta o prazo do artigo quatrocentos e setenta e sete, parágrafo sexto, nem a multa do parágrafo oitavo. Pagou fora do prazo, multa.
-BRUNO: A prescrição fica suspensa quanto aos direitos especificados no acordo e volta a correr no dia útil seguinte ao trânsito em julgado da decisão que negar a homologação, artigo oitocentos e cinquenta e cinco-E.
-THALITA: E o juiz é obrigado a homologar?
-FRANCISCA: Não. A Súmula quatrocentos e dezoito do TST diz que a homologação de acordo é faculdade do juiz, e não há direito líquido e certo tutelável por mandado de segurança. O juiz pode recusar acordo lesivo ou com indício de lide simulada. Da sentença que nega a homologação cabe recurso ordinário.
-ANTONIO: Pegadinha da banca: dizer que o juiz é obrigado a homologar sempre que as partes pedirem. Errado. É faculdade.
+FRANCISCA: Não. O artigo oitocentos e cinquenta e cinco-C diz que o acordo não afasta o prazo do artigo quatrocentos e setenta e sete, parágrafo sexto, nem a multa do parágrafo oitavo. Pagou fora do prazo, multa.
+THALITA: A prescrição fica suspensa quanto aos direitos especificados no acordo e volta a correr no dia útil seguinte ao trânsito em julgado da decisão que negar a homologação, artigo oitocentos e cinquenta e cinco-E.
+FRANCISCA: E o juiz é obrigada a homologar?
+THALITA: Não. A Súmula quatrocentos e dezoito do TST diz que a homologação de acordo é faculdade do juiz, e não há direito líquido e certo tutelável por mandado de segurança. O juiz pode recusar acordo lesivo ou com indício de lide simulada. Da sentença que nega a homologação cabe recurso ordinário.
+FRANCISCA: Pegadinha da banca: dizer que o juiz é obrigada a homologar sempre que as partes pedirem. Errado. É faculdade.
 THALITA: Macete: petição conjunta, advogados diferentes, quinze dias para o juiz, faculdade de homologar.
 == SLIDE: Quitação anual, PDV e quadro de eficácia liberatória
 * Art. 507-B: quitação anual perante o sindicato, só parcelas especificadas
 * Art. 477-B: PDV em norma coletiva, quitação plena
 * Tema 152 do STF: quitação ampla se constar do acordo coletivo
 * Sem norma coletiva: OJ 270, só o que consta do recibo
-BRUNO: Mais dois instrumentos. O artigo quinhentos e sete-B permite que empregados e empregadores, na vigência ou não do contrato, firmem termo de quitação anual de obrigações trabalhistas, perante o sindicato dos empregados da categoria. É facultativo.
-FRANCISCA: O termo discrimina as obrigações de dar e fazer cumpridas mensalmente, e a quitação tem eficácia liberatória apenas das parcelas nele especificadas. Não é geral, como no termo da comissão.
-THALITA: E o Plano de Demissão Voluntária?
-ANTONIO: O artigo quatrocentos e setenta e sete-B diz que o PDV, para dispensa individual, plúrima ou coletiva, previsto em convenção ou acordo coletivo, enseja quitação plena e irrevogável dos direitos decorrentes da relação de emprego, salvo disposição em contrário entre as partes.
-BRUNO: O requisito-chave é a previsão em norma coletiva. Sem ela, vale a Orientação Jurisprudencial duzentos e setenta da SDI-1: a quitação é só das parcelas e valores do recibo.
-FRANCISCA: O STF, no Tema cento e cinquenta e dois, recurso extraordinário quinhentos e noventa mil quatrocentos e quinze, decidiu que a transação extrajudicial por adesão a plano de dispensa incentivada dá quitação ampla e irrestrita de todas as parcelas, caso essa condição tenha constado expressamente do acordo coletivo que aprovou o plano e dos instrumentos assinados com o empregado.
-THALITA: Fazendo o quadro: o termo da comissão dá eficácia geral, salvo ressalvas. A quitação anual, só as parcelas especificadas. O PDV em norma coletiva, plena e irrevogável. O termo de rescisão, só as parcelas consignadas, salvo ressalva, Súmula trezentos e trinta. E o acordo extrajudicial homologado, conforme os termos homologados.
-ANTONIO: Perfeito, Thalita. Agora vamos mudar de assunto e entrar na segurança e medicina do trabalho, artigos cento e cinquenta e quatro a duzentos e um da CLT.
+FRANCISCA: Mais dois instrumentos. O artigo quinhentos e sete-B permite que empregados e empregadores, na vigência ou não do contrato, firmem termo de quitação anual de obrigações trabalhistas, perante o sindicato dos empregados da categoria. É facultativo.
+THALITA: O termo discrimina as obrigações de dar e fazer cumpridas mensalmente, e a quitação tem eficácia liberatória apenas das parcelas nele especificadas. Não é geral, como no termo da comissão.
+FRANCISCA: E o Plano de Demissão Voluntária?
+THALITA: O artigo quatrocentos e setenta e sete-B diz que o PDV, para dispensa individual, plúrima ou coletiva, previsto em convenção ou acordo coletivo, enseja quitação plena e irrevogável dos direitos decorrentes da relação de emprego, salvo disposição em contrário entre as partes.
+FRANCISCA: O requisito-chave é a previsão em norma coletiva. Sem ela, vale a Orientação Jurisprudencial duzentos e setenta da SDI-1: a quitação é só das parcelas e valores do recibo.
+THALITA: O STF, no Tema cento e cinquenta e dois, recurso extraordinário quinhentos e noventa mil quatrocentos e quinze, decidiu que a transação extrajudicial por adesão a plano de dispensa incentivada dá quitação ampla e irrestrita de todas as parcelas, caso essa condição tenha constado expressamente do acordo coletivo que aprovou o plano e dos instrumentos assinados com o empregado.
+FRANCISCA: Fazendo o quadro: o termo da comissão dá eficácia geral, salvo ressalvas. A quitação anual, só as parcelas especificadas. O PDV em norma coletiva, plena e irrevogável. O termo de rescisão, só as parcelas consignadas, salvo ressalva, Súmula trezentos e trinta. E o acordo extrajudicial homologado, conforme os termos homologados.
+THALITA: Perfeito, Francisca. Agora vamos mudar de assunto e entrar na segurança e medicina do trabalho, artigos cento e cinquenta e quatro a duzentos e um da CLT.

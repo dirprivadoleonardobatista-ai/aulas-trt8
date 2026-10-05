@@ -4,25 +4,23 @@ SEGMENTO s219
 * Boa-fé objetiva (art. 422): supressio, surrectio, venire contra factum proprium
 * Adesão: cláusula ambígua favorece o aderente
 * Aceitação tardia ou com modificação: nova proposta
-ANTONIO: Terminamos as obrigações. Agora os contratos, com os princípios. Função social, artigo quatrocentos e vinte e um: liberdade contratual nos limites da função social, com intervenção mínima e revisão excepcional. Paridade, artigo quatrocentos e vinte e um-A: os contratos civis e empresariais presumem-se paritários, e a alocação de riscos pactuada deve ser respeitada.
+FRANCISCA: Terminamos as obrigações. Agora os contratos, com os princípios. Função social, artigo quatrocentos e vinte e um: liberdade contratual nos limites da função social, com intervenção mínima e revisão excepcional. Paridade, artigo quatrocentos e vinte e um-A: os contratos civis e empresariais presumem-se paritários, e a alocação de riscos pactuada deve ser respeitada.
 THALITA: E a boa-fé objetiva?
 FRANCISCA: Artigo quatrocentos e vinte e dois: probidade e boa-fé na conclusão e na execução. Dela decorrem a supressio, a surrectio e o venire contra factum proprium, a proibição de comportamento contraditório.
-BRUNO: No contrato de adesão, cláusula ambígua favorece o aderente, e é nula a renúncia antecipada a direito inerente ao negócio, artigos quatrocentos e vinte e três e quatrocentos e vinte e quatro.
-ANTONIO: Formação: a proposta obriga. Aceitação tardia ou com modificações vale como nova proposta. Entre ausentes, o contrato se aperfeiçoa com a expedição da aceitação. E na estipulação em favor de terceiro, tanto o estipulante quanto o terceiro podem exigir o cumprimento.
+THALITA: No contrato de adesão, cláusula ambígua favorece o aderente, e é nula a renúncia antecipada a direito inerente ao negócio, artigos quatrocentos e vinte e três e quatrocentos e vinte e quatro.
+FRANCISCA: Formação: a proposta obriga. Aceitação tardia ou com modificações vale como nova proposta. Entre ausentes, o contrato se aperfeiçoa com a expedição da aceitação. E na estipulação em favor de terceiro, tanto o estipulante quanto o terceiro podem exigir o cumprimento.
 THALITA: Macete: aceitação com modificação é nova proposta; entre ausentes, expedição.
-
 == SLIDE: Vícios redibitórios e evicção
 * Vício redibitório: defeito oculto; redibitória ou estimatória
 * Evicção: perda por direito de terceiro; responde sem culpa
 * Prazos do art. 445: móvel 30 dias, imóvel 1 ano
 * Já na posse: 15 dias e 6 meses
-BRUNO: Garantias. Vícios redibitórios: defeito oculto que torna a coisa imprópria ou lhe reduz o valor. Aplica-se aos contratos comutativos e às doações onerosas. Cabem a ação redibitória, que desfaz o negócio, e a estimatória, que abate o preço.
+FRANCISCA: Garantias. Vícios redibitórios: defeito oculto que torna a coisa imprópria ou lhe reduz o valor. Aplica-se aos contratos comutativos e às doações onerosas. Cabem a ação redibitória, que desfaz o negócio, e a estimatória, que abate o preço.
 THALITA: E se o vendedor sabia do defeito?
 FRANCISCA: Sabia: devolve o preço mais perdas e danos. Ignorava: devolve o preço mais as despesas do contrato. Evicção é diferente: perda da coisa por decisão que a atribui a terceiro, por causa anterior. Vale nos contratos onerosos, inclusive na hasta pública. O alienante responde sem culpa, devolvendo preço, frutos, despesas, custas e honorários.
-ANTONIO: Prazos decadenciais do artigo quatrocentos e quarenta e cinco. Regra, da entrega efetiva: móvel trinta dias, imóvel um ano. Se o adquirente já estava na posse, o prazo conta da alienação e reduz pela metade: quinze dias e seis meses. Vício conhecível só depois: da ciência, até cento e oitenta dias no móvel e até um ano no imóvel.
-BRUNO: Pegadinhas: com garantia contratual os prazos legais não correm, mas o defeito deve ser denunciado em trinta dias da descoberta. E não cabe evicção a quem sabia que a coisa era alheia ou litigiosa. A denunciação obrigatória foi revogada pelo CPC de dois mil e quinze.
+THALITA: Prazos decadenciais do artigo quatrocentos e quarenta e cinco. Regra, da entrega efetiva: móvel trinta dias, imóvel um ano. Se o adquirente já estava na posse, o prazo conta da alienação e reduz pela metade: quinze dias e seis meses. Vício conhecível só depois: da ciência, até cento e oitenta dias no móvel e até um ano no imóvel.
+FRANCISCA: Pegadinhas: com garantia contratual os prazos legais não correm, mas o defeito deve ser denunciado em trinta dias da descoberta. E não cabe evicção a quem sabia que a coisa era alheia ou litigiosa. A denunciação obrigatória foi revogada pelo CPC de dois mil e quinze.
 THALITA: Evicção, perda para terceiro; vício, defeito oculto. Prazos: trinta dias, um ano.
-
 == SLIDE: Extinção e contratos em espécie
 * Cláusula resolutiva expressa: de pleno direito; tácita: interpelação
 * Exceção do contrato não cumprido (art. 476)
@@ -30,44 +28,42 @@ THALITA: Evicção, perda para terceiro; vício, defeito oculto. Prazos: trinta 
 * Compra e venda, retrovenda, preempção, reserva de domínio
 FRANCISCA: Extinção. O distrato segue a forma do contrato. A denúncia unilateral, após investimentos consideráveis, só vale depois de prazo compatível. A cláusula resolutiva expressa opera de pleno direito; a tácita exige interpelação judicial. Nos bilaterais, ninguém exige a prestação alheia sem cumprir a sua.
 THALITA: E a onerosidade excessiva?
-ANTONIO: Execução continuada ou diferida, fato extraordinário e imprevisível e extrema vantagem do outro: resolução do contrato, com efeitos desde a citação. O réu pode oferecer modificação equitativa, artigos quatrocentos e setenta e oito e quatrocentos e setenta e nove.
-BRUNO: Contratos em espécie. Compra e venda: preço ao arbítrio exclusivo de uma parte é nulo. Venda de ascendente a descendente é anulável sem consentimento expresso dos demais descendentes e do cônjuge, no prazo de dois anos. Condômino preterido: cento e oitenta dias, depositando o preço.
+FRANCISCA: Execução continuada ou diferida, fato extraordinário e imprevisível e extrema vantagem do outro: resolução do contrato, com efeitos desde a citação. O réu pode oferecer modificação equitativa, artigos quatrocentos e setenta e oito e quatrocentos e setenta e nove.
+THALITA: Contratos em espécie. Compra e venda: preço ao arbítrio exclusivo de uma parte é nulo. Venda de ascendente a descendente é anulável sem consentimento expresso dos demais descendentes e do cônjuge, no prazo de dois anos. Condômino preterido: cento e oitenta dias, depositando o preço.
 FRANCISCA: Retrovenda: só imóvel, recompra em até três anos. Venda a contento: condição suspensiva. Preempção: prazo máximo de cento e oitenta dias no móvel e dois anos no imóvel; sem prazo, três dias no móvel e sessenta no imóvel da notificação; não se cede nem passa a herdeiros. Reserva de domínio: só móvel, cláusula escrita e registrada no domicílio do comprador.
 THALITA: Retrovenda só imóvel e reserva só móvel. Fixei.
-
 == SLIDE: Doação, outros contratos e fiança
 * Doação: silêncio é aceitação; nulas a universal e a inoficiosa
 * Revogação: ingratidão ou inexecução de encargo; 1 ano
 * Prestação de serviços: 4 anos; empreitada: 5 anos de garantia
 * Fiança: benefício de ordem; Súmulas 332, 214 e 549
-ANTONIO: Doação pura: silêncio do donatário no prazo é aceitação. A verbal vale só para móvel de pequeno valor com tradição imediata. Doação a descendente é adiantamento de legítima, e são nulas a doação universal e a inoficiosa.
+FRANCISCA: Doação pura: silêncio do donatário no prazo é aceitação. A verbal vale só para móvel de pequeno valor com tradição imediata. Doação a descendente é adiantamento de legítima, e são nulas a doação universal e a inoficiosa.
 THALITA: E dá para revogar a doação?
-BRUNO: Por ingratidão, como atentado à vida, ofensa física, injúria grave, calúnia ou recusa de alimentos, ou por inexecução do encargo. O prazo é de um ano da ciência do fato e da autoria. A revogação é irrenunciável antecipadamente. Não alcança doação remuneratória, com encargo cumprido, por obrigação natural ou para casamento.
-FRANCISCA: Comodato é gratuito, com bem infungível, sem transferir domínio. Mútuo é com bem fungível e transfere o domínio. Prestação de serviços: máximo de quatro anos. Empreitada de construção considerável: cinco anos de garantia de solidez e segurança, com ação em cento e oitenta dias do aparecimento do vício.
-ANTONIO: Fiança: escrita, sem interpretação extensiva. Há benefício de ordem até a contestação, salvo renúncia, obrigação como principal pagador ou solidário, ou devedor insolvente. Sem prazo, o fiador se exonera sessenta dias depois de notificar o credor.
-BRUNO: Súmulas do STJ: trezentos e trinta e dois, fiança sem autorização do cônjuge é totalmente ineficaz; duzentos e catorze, o fiador não responde por aditamento a que não anuiu; quinhentos e quarenta e nove, penhorável o bem de família do fiador de locação.
-THALITA: Doação, um ano para revogar; fiança sem outorga, ineficaz.
-
+FRANCISCA: Por ingratidão, como atentado à vida, ofensa física, injúria grave, calúnia ou recusa de alimentos, ou por inexecução do encargo. O prazo é de um ano da ciência do fato e da autoria. A revogação é irrenunciável antecipadamente. Não alcança doação remuneratória, com encargo cumprido, por obrigação natural ou para casamento.
+THALITA: Comodato é gratuito, com bem infungível, sem transferir domínio. Mútuo é com bem fungível e transfere o domínio. Prestação de serviços: máximo de quatro anos. Empreitada de construção considerável: cinco anos de garantia de solidez e segurança, com ação em cento e oitenta dias do aparecimento do vício.
+FRANCISCA: Fiança: escrita, sem interpretação extensiva. Há benefício de ordem até a contestação, salvo renúncia, obrigação como principal pagador ou solidário, ou devedor insolvente. Sem prazo, o fiador se exonera sessenta dias depois de notificar o credor.
+THALITA: Súmulas do STJ: trezentos e trinta e dois, fiança sem autorização do cônjuge é totalmente ineficaz; duzentos e catorze, o fiador não responde por aditamento a que não anuiu; quinhentos e quarenta e nove, penhorável o bem de família do fiador de locação.
+FRANCISCA: Doação, um ano para revogar; fiança sem outorga, ineficaz.
 == SLIDE: Responsabilidade civil
 * Ato ilícito (art. 186) e abuso de direito (art. 187)
 * Regra: subjetiva; exceção: objetiva (art. 927, p. ú.)
 * Fato de terceiro: arts. 932 e 933, objetiva
 * Indenização mede-se pela extensão do dano (art. 944)
 * Prescrição: 3 anos
-FRANCISCA: Responsabilidade civil. Ato ilícito, artigo cento e oitenta e seis: ação ou omissão voluntária, negligência ou imprudência que viola direito e causa dano, ainda que só moral. Abuso de direito, artigo cento e oitenta e sete: exercício que excede manifestamente o fim econômico ou social, a boa-fé ou os bons costumes, e dispensa culpa.
-THALITA: E o que não é ato ilícito?
-BRUNO: Legítima defesa, exercício regular de direito e estado de necessidade. No estado de necessidade, o lesado inocente é indenizado, com regresso contra o culpado pelo perigo.
-ANTONIO: A regra é a responsabilidade subjetiva. A objetiva ocorre nos casos legais ou na atividade que implique risco, e para empresários pelos produtos em circulação. Incapaz responde se os responsáveis não tiverem obrigação ou meios, de forma equitativa, sem privá-lo do necessário.
-FRANCISCA: Artigo novecentos e trinta e dois: respondem pais, tutores, curadores, empregador, hoteleiros e educandários, e quem participou gratuitamente do produto do crime. Artigo novecentos e trinta e três: ainda que sem culpa. A culpa presumida da Súmula trezentos e quarenta e um do STF está superada. Há solidariedade com o autor e regresso, salvo contra descendente incapaz.
-BRUNO: Indenização mede-se pela extensão do dano, artigo novecentos e quarenta e quatro. Havendo excessiva desproporção com a culpa, o juiz pode reduzir. Culpa concorrente reduz proporcionalmente. Fortuito interno não exclui: bancos respondem objetivamente por fraudes de terceiros, Súmula quatrocentos e setenta e nove do STJ. Prescrição de três anos.
+THALITA: Responsabilidade civil. Ato ilícito, artigo cento e oitenta e seis: ação ou omissão voluntária, negligência ou imprudência que viola direito e causa dano, ainda que só moral. Abuso de direito, artigo cento e oitenta e sete: exercício que excede manifestamente o fim econômico ou social, a boa-fé ou os bons costumes, e dispensa culpa.
+FRANCISCA: E o que não é ato ilícito?
+THALITA: Legítima defesa, exercício regular de direito e estado de necessidade. No estado de necessidade, o lesado inocente é indenizado, com regresso contra o culpado pelo perigo.
+FRANCISCA: A regra é a responsabilidade subjetiva. A objetiva ocorre nos casos legais ou na atividade que implique risco, e para empresários pelos produtos em circulação. Incapaz responde se os responsáveis não tiverem obrigação ou meios, de forma equitativa, sem privá-lo do necessário.
+THALITA: Artigo novecentos e trinta e dois: respondem pais, tutores, curadores, empregador, hoteleiros e educandários, e quem participou gratuitamente do produto do crime. Artigo novecentos e trinta e três: ainda que sem culpa. A culpa presumida da Súmula trezentos e quarenta e um do STF está superada. Há solidariedade com o autor e regresso, salvo contra descendente incapaz.
+FRANCISCA: Indenização mede-se pela extensão do dano, artigo novecentos e quarenta e quatro. Havendo excessiva desproporção com a culpa, o juiz pode reduzir. Culpa concorrente reduz proporcionalmente. Fortuito interno não exclui: bancos respondem objetivamente por fraudes de terceiros, Súmula quatrocentos e setenta e nove do STJ. Prescrição de três anos.
 THALITA: Súmulas do STJ: trinta e sete e trezentos e oitenta e sete, cumulam dano material e moral, e dano estético e moral. Duzentos e vinte e sete: pessoa jurídica sofre dano moral.
 == SLIDE: Pegadinhas de contratos e responsabilidade
 * Retrovenda só imóvel; reserva de domínio só móvel
 * Aceitação com modificação: nova proposta
 * Responsabilidade por fato de terceiro: ainda que sem culpa
 * Prescrição da reparação civil: 3 anos
-BRUNO: Antes de seguir, as pegadinhas que mais aparecem. A banca troca imóvel por móvel na retrovenda e na reserva de domínio. Troca trinta dias por um ano nos vícios redibitórios. E troca a responsabilidade objetiva por subjetiva no artigo novecentos e trinta e três.
+FRANCISCA: Antes de seguir, as pegadinhas que mais aparecem. A banca troca imóvel por móvel na retrovenda e na reserva de domínio. Troca trinta dias por um ano nos vícios redibitórios. E troca a responsabilidade objetiva por subjetiva no artigo novecentos e trinta e três.
 THALITA: Vou revisar em voz alta. Retrovenda, só imóvel, recompra em três anos. Reserva de domínio, só móvel. Vício redibitório, móvel trinta dias e imóvel um ano. Evicção, o alienante responde sem culpa. Fiança sem outorga do cônjuge, ineficaz. Reparação civil prescreve em três anos. Faltou algo?
 FRANCISCA: Faltou a empreitada: cinco anos de garantia de solidez e segurança, e a prestação de serviços com máximo de quatro anos. Mas o resumo está ótimo.
 THALITA: Anotado! Quatro e cinco, serviço e empreitada.
-ANTONIO: Muito bem. Agora vamos ao direito de empresa e depois às questões comentadas.
+FRANCISCA: Muito bem. Agora vamos ao direito de empresa e depois às questões comentadas.

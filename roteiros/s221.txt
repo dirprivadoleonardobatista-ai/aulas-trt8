@@ -4,20 +4,18 @@ SEGMENTO s221
 * Savigny (subjetiva) x Ihering (objetiva, adotada)
 * Possuidor: exerce de fato algum poder de dono (art. 1.196)
 * Detenção: fâmulo da posse, tolerância, violência, bem público
-ANTONIO: Olá, pessoal, sejam bem-vindos à aula sessenta e cinco: Direito das Coisas. Hoje vemos posse e função social da posse, depois propriedade, vizinhança, condomínio e direitos reais sobre coisa alheia, e fechamos com questões. Eu sou o Antônio.
-FRANCISCA: Eu sou a Francisca, e trago a lei e a jurisprudência.
-BRUNO: Eu sou o Bruno, e mostro como a FCC cobra cada tema.
-THALITA: E eu sou a Thalita, concurseira, aprendendo junto com você.
-ANTONIO: Começamos pela posse. Há duas grandes teorias. Savigny, a subjetiva, exige o corpus e o ânimo de dono. Por ela, o locatário seria mero detentor.
-FRANCISCA: O Código adotou Ihering, a teoria objetiva. O corpus é a conduta de dono, a visibilidade do domínio. Por isso o locatário é possuidor direto. O artigo mil cento e noventa e seis resume: possuidor é quem exerce de fato, pleno ou não, algum dos poderes inerentes à propriedade.
-THALITA: Então não preciso querer ser dono para ser possuidor?
-BRUNO: Exato. Basta usar, fruir, dispor ou reaver a coisa. A teoria de Savigny sobrevive só na usucapião, que exige ânimo de dono.
-ANTONIO: Agora a detenção, que parece posse, mas não é. O fâmulo da posse é aquele que, subordinado a outro, conserva a posse em nome dele, cumprindo ordens. O caseiro, o empregado.
+FRANCISCA: Olá, pessoal, sejam bem-vindos à aula sessenta e cinco: Direito das Coisas. Hoje vemos posse e função social da posse, depois propriedade, vizinhança, condomínio e direitos reais sobre coisa alheia, e fechamos com questões. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começamos pela posse. Há duas grandes teorias. Savigny, a subjetiva, exige o corpus e o ânimo de dono. Por ela, o locatário seria mero detentor.
+THALITA: O Código adotou Ihering, a teoria objetiva. O corpus é a conduta de dono, a visibilidade do domínio. Por isso o locatário é possuidor direto. O artigo mil cento e noventa e seis resume: possuidor é quem exerce de fato, pleno ou não, algum dos poderes inerentes à propriedade.
+FRANCISCA: Então não preciso querer ser dono para ser possuidor?
+THALITA: Exato. Basta usar, fruir, dispor ou reaver a coisa. A teoria de Savigny sobrevive só na usucapião, que exige ânimo de dono.
+FRANCISCA: Agora a detenção, que parece posse, mas não é. O fâmulo da posse é aquele que, subordinado a outro, conserva a posse em nome dele, cumprindo ordens. O caseiro, o empregado.
 THALITA: E o detentor pode entrar com ação possessória?
 FRANCISCA: Em nome próprio, não. E atenção: atos de permissão ou tolerância não induzem posse, e a violência ou a clandestinidade só autorizam a aquisição depois de cessarem. É o artigo mil duzentos e oito.
-BRUNO: Cai muito a ocupação irregular de bem público. A Súmula seiscentos e dezenove do STJ diz que é detenção. Resultado: sem direito de retenção e sem indenização por acessões ou benfeitorias.
-THALITA: Entendi: bem público ocupado, detenção, nada de indenização.
-ANTONIO: Detenção pode virar posse quando cessa a subordinação. E a doutrina admite a interversão da posse, por ato inequívoco de oposição ao possuidor indireto.
+THALITA: Cai muito a ocupação irregular de bem público. A Súmula seiscentos e dezenove do STJ diz que é detenção. Resultado: sem direito de retenção e sem indenização por acessões ou benfeitorias.
+FRANCISCA: Entendi: bem público ocupado, detenção, nada de indenização.
+THALITA: Detenção pode virar posse quando cessa a subordinação. E a doutrina admite a interversão da posse, por ato inequívoco de oposição ao possuidor indireto.
 == SLIDE: Classificação da posse: o que a FCC mais cobra
 * Direta x indireta (art. 1.197): coexistem
 * Justa x injusta: critério objetivo (violência, clandestinidade, precariedade)
@@ -26,46 +24,46 @@ ANTONIO: Detenção pode virar posse quando cessa a subordinação. E a doutrina
 * Composse: vários possuem coisa indivisa
 FRANCISCA: A classificação é o ponto mais cobrado. Primeira divisão: direta e indireta. Direta é de quem tem a coisa por relação temporária, como o locatário e o usufrutuário. Indireta é de quem cedeu a coisa, o proprietário.
 THALITA: Mas as duas existem ao mesmo tempo?
-BRUNO: Existem. E o possuidor direto pode defender sua posse até contra o indireto.
-ANTONIO: Segunda divisão: justa e injusta. Posse injusta é a violenta, a clandestina ou a precária. Precária é aquela de quem abusa da confiança, deixando de restituir a coisa.
-THALITA: E posse de má-fé é a mesma coisa que injusta?
-BRUNO: Essa é a pegadinha preferida da FCC. Justa e injusta é critério objetivo, o vício na aquisição. Boa-fé e má-fé é critério subjetivo, a ciência do vício. Então uma posse pode ser injusta e de boa-fé. Por exemplo, a de quem compra do esbulhador sem saber.
+FRANCISCA: Existem. E o possuidor direto pode defender sua posse até contra o indireto.
+THALITA: Segunda divisão: justa e injusta. Posse injusta é a violenta, a clandestina ou a precária. Precária é aquela de quem abusa da confiança, deixando de restituir a coisa.
+FRANCISCA: E posse de má-fé é a mesma coisa que injusta?
+THALITA: Essa é a pegadinha preferida da FCC. Justa e injusta é critério objetivo, o vício na aquisição. Boa-fé e má-fé é critério subjetivo, a ciência do vício. Então uma posse pode ser injusta e de boa-fé. Por exemplo, a de quem compra do esbulhador sem saber.
 FRANCISCA: No artigo mil duzentos e um, o possuidor de boa-fé ignora o vício. O justo título gera presunção relativa de boa-fé. E a boa-fé se perde quando as circunstâncias mostram que o possuidor conhece o vício.
-ANTONIO: Pelo artigo mil duzentos e três, a posse conserva o caráter com que foi adquirida, salvo prova em contrário.
-THALITA: Chutando: posse nova é a de menos de ano e dia, e velha, de ano e dia ou mais?
-FRANCISCA: Isso mesmo. E na ação de força nova, o rito é especial, com liminar.
-BRUNO: Mais duas classificações. A posse ad interdicta autoriza os interditos possessórios. A ad usucapionem reúne os requisitos da usucapião.
-ANTONIO: E a composse, artigo mil cento e noventa e nove: várias pessoas possuem coisa indivisa, e cada uma pode exercer atos sem excluir os dos demais. O exemplo clássico são os herdeiros antes da partilha.
-THALITA: Macete: justa e injusta, vício objetivo. Boa e má-fé, ciência subjetiva.
+THALITA: Pelo artigo mil duzentos e três, a posse conserva o caráter com que foi adquirida, salvo prova em contrário.
+FRANCISCA: Chutando: posse nova é a de menos de ano e dia, e velha, de ano e dia ou mais?
+THALITA: Isso mesmo. E na ação de força nova, o rito é especial, com liminar.
+FRANCISCA: Mais duas classificações. A posse ad interdicta autoriza os interditos possessórios. A ad usucapionem reúne os requisitos da usucapião.
+THALITA: E a composse, artigo mil cento e noventa e nove: várias pessoas possuem coisa indivisa, e cada uma pode exercer atos sem excluir os dos demais. O exemplo clássico são os herdeiros antes da partilha.
+FRANCISCA: Macete: justa e injusta, vício objetivo. Boa e má-fé, ciência subjetiva.
 == SLIDE: Aquisição e efeitos: boa-fé x má-fé
 * Aquisição: quando se pode exercer poder de dono em nome próprio
 * Sucessor universal continua a posse; singular pode uni-la (art. 1.207)
 * Boa-fé: frutos percebidos; necessárias e úteis com retenção
 * Má-fé: só necessárias, sem retenção (art. 1.220)
-ANTONIO: Vamos à aquisição. Adquire-se a posse quando se torna possível exercer, em nome próprio, algum dos poderes de dono. Pode ser por si, por representante ou por terceiro sem mandato, com ratificação.
-BRUNO: A herança transmite a posse aos herdeiros com os mesmos caracteres. E o sucessor universal continua a posse do antecessor, enquanto o singular tem a faculdade de uni-la à sua. Universal continua, singular pode unir.
+THALITA: Vamos à aquisição. Adquire-se a posse quando se torna possível exercer, em nome próprio, algum dos poderes de dono. Pode ser por si, por representante ou por terceiro sem mandato, com ratificação.
+FRANCISCA: A herança transmite a posse aos herdeiros com os mesmos caracteres. E o sucessor universal continua a posse do antecessor, enquanto o singular tem a faculdade de uni-la à sua. Universal continua, singular pode unir.
 THALITA: Isso eu já anotei. Agora o quadro de boa-fé e má-fé, que dizem ser difícil.
 FRANCISCA: Começo pelos frutos. O possuidor de boa-fé fica com os frutos percebidos enquanto durar a boa-fé. O de má-fé responde pelos colhidos e pelos que, por culpa, deixou de colher, mas recebe as despesas de produção e custeio.
-BRUNO: Sobre perda ou deterioração, o de boa-fé só responde se der causa. O de má-fé responde até pelo acidental, salvo se provar que ocorreria de qualquer forma com o reivindicante.
-THALITA: E as benfeitorias? Eu me perco.
-ANTONIO: O macete é este. Boa-fé: necessárias e úteis, indenização com retenção; voluptuárias, se não pagas, ele levanta sem danificar a coisa. Má-fé: só as necessárias são indenizadas, e sem retenção.
-BRUNO: A FCC adora o artigo mil duzentos e vinte: má-fé, só necessárias, sem retenção. E lembre que as benfeitorias se compensam com os danos.
-FRANCISCA: Um exemplo. Carla, de boa-fé, trocou o telhado, dez mil reais, e fez garagem, quinze mil. Vencida na reivindicatória, recebe vinte e cinco mil e retém o imóvel até ser paga. Se fosse de má-fé, receberia só o telhado, sem retenção.
-THALITA: Então boa-fé é pagar e reter, má-fé é pagar só o necessário e entregar.
-ANTONIO: Quanto ao valor, o de boa-fé recebe pelo valor atual. Na má-fé, o reivindicante escolhe entre o atual e o custo.
+THALITA: Sobre perda ou deterioração, o de boa-fé só responde se der causa. O de má-fé responde até pelo acidental, salvo se provar que ocorreria de qualquer forma com o reivindicante.
+FRANCISCA: E as benfeitorias? Eu me perco.
+THALITA: O macete é este. Boa-fé: necessárias e úteis, indenização com retenção; voluptuárias, se não pagas, ele levanta sem danificar a coisa. Má-fé: só as necessárias são indenizadas, e sem retenção.
+FRANCISCA: A FCC adora o artigo mil duzentos e vinte: má-fé, só necessárias, sem retenção. E lembre que as benfeitorias se compensam com os danos.
+THALITA: Um exemplo. Carla, de boa-fé, trocou o telhado, dez mil reais, e fez garagem, quinze mil. Vencida na reivindicatória, recebe vinte e cinco mil e retém o imóvel até ser paga. Se fosse de má-fé, receberia só o telhado, sem retenção.
+FRANCISCA: Então boa-fé é pagar e reter, má-fé é pagar só o necessário e entregar.
+THALITA: Quanto ao valor, o de boa-fé recebe pelo valor atual. Na má-fé, o reivindicante escolhe entre o atual e o custo.
 == SLIDE: Proteção, perda e função social da posse
 * Desforço imediato: logo e sem exceder o indispensável
 * Manutenção, reintegração, interdito proibitório
 * Exceção de domínio não impede a proteção possessória
 * Posse-trabalho: mais de 5 anos, boa-fé, justa indenização
-BRUNO: Passemos à proteção. O desforço imediato permite que o turbado ou esbulhado reaja por força própria, desde que logo e sem exceder o indispensável ao restabelecimento da posse.
+FRANCISCA: Passemos à proteção. O desforço imediato permite que o turbado ou esbulhado reaja por força própria, desde que logo e sem exceder o indispensável ao restabelecimento da posse.
 THALITA: E se eu demorar uma semana para reagir?
 FRANCISCA: Aí perde o desforço e precisa buscar o Judiciário. As ações são três: manutenção, para turbação; reintegração, para esbulho; e interdito proibitório, para ameaça iminente. Pela fungibilidade, o juiz pode conceder a proteção adequada mesmo se pedida outra.
-BRUNO: E alegar propriedade não impede a proteção possessória, a chamada exceção de domínio. Mas a Súmula quatrocentos e oitenta e sete do STF diz que se defere a posse a quem evidentemente tiver o domínio, se com base nele for disputada.
-ANTONIO: A posse se perde quando cessa o poder sobre o bem. E quem não presenciou o esbulho só perde a posse se, avisado, se omite ou é repelido com violência.
+THALITA: E alegar propriedade não impede a proteção possessória, a chamada exceção de domínio. Mas a Súmula quatrocentos e oitenta e sete do STF diz que se defere a posse a quem evidentemente tiver o domínio, se com base nele for disputada.
+FRANCISCA: A posse se perde quando cessa o poder sobre o bem. E quem não presenciou o esbulho só perde a posse se, avisado, se omite ou é repelido com violência.
 THALITA: Falta a função social, certo?
 FRANCISCA: Isso. A posse vale por si, como moradia e trabalho. Ela se concretiza nos prazos reduzidos de usucapião, na usucapião constitucional e na concessão de uso especial para moradia.
-ANTONIO: E a posse-trabalho, no artigo mil duzentos e vinte e oito, parágrafo quarto. O dono pode ser privado de extensa área ocupada por considerável número de pessoas, em posse ininterrupta e de boa-fé por mais de cinco anos, com obras de relevante interesse social e econômico.
-BRUNO: A pegadinha é que, na posse-trabalho, há justa indenização, e exige-se boa-fé. Na usucapião coletiva, não. Pago o preço, a sentença vale como título para o registro.
+THALITA: E a posse-trabalho, no artigo mil duzentos e vinte e oito, parágrafo quarto. O dono pode ser privado de extensa área ocupada por considerável número de pessoas, em posse ininterrupta e de boa-fé por mais de cinco anos, com obras de relevante interesse social e econômico.
+FRANCISCA: A pegadinha é que, na posse-trabalho, há justa indenização, e exige-se boa-fé. Na usucapião coletiva, não. Pago o preço, a sentença vale como título para o registro.
 THALITA: Então posse-trabalho tem indenização. Anotado!
 FRANCISCA: Terminada a posse, vamos ao direito de propriedade e seus modos de aquisição, a função social da propriedade, a vizinhança e o condomínio.

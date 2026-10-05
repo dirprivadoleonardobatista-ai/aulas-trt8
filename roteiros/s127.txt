@@ -4,15 +4,15 @@ SEGMENTO s127
 * Vale em qualquer ente, autarquia, fundação, empresa pública e sociedade de economia mista
 * Exceções: dois de professor; professor e técnico ou científico; dois de saúde
 * Exige compatibilidade de horários e respeito ao teto
-ANTONIO: Vimos o que o servidor deve e o que ele não pode fazer. Agora vamos a uma proibição que merece aula própria: a acumulação de cargos, empregos e funções, nos artigos cento e dezoito a cento e vinte, e depois a responsabilidade do servidor em três esferas.
+FRANCISCA: Vimos o que o servidor deve e o que ele não pode fazer. Agora vamos a uma proibição que merece aula própria: a acumulação de cargos, empregos e funções, nos artigos cento e dezoito a cento e vinte, e depois a responsabilidade do servidor em três esferas.
 THALITA: Regra geral: não pode ter dois cargos públicos, né?
 FRANCISCA: Isso. A acumulação remunerada é exceção constitucional. A vedação alcança cargos, empregos e funções em qualquer ente federativo, e também em autarquias, fundações públicas, empresas públicas e sociedades de economia mista.
-BRUNO: As exceções vêm do artigo trinta e sete, inciso dezesseis, da Constituição. Dois cargos de professor. Um de professor com outro técnico ou científico. E dois cargos ou empregos privativos de profissionais de saúde, com profissão regulamentada.
-THALITA: Então professor com médico não pode?
-BRUNO: Não, essa combinação não está nas exceções. Professor com técnico ou científico, sim. Médico com médico, sim. Mas professor com cargo de saúde, não.
-ANTONIO: E mesmo a acumulação lícita exige dois requisitos: comprovar compatibilidade de horários e respeitar o teto remuneratório.
-FRANCISCA: Sobre o teto, a orientação do Supremo é que, nas acumulações permitidas, ele incide sobre cada vínculo isoladamente, e não sobre a soma. Vale conferir a tese vigente antes da prova.
-BRUNO: Outra ressalva: receber remuneração de cargo efetivo junto com proventos de inatividade é proibido, salvo se os cargos forem acumuláveis na atividade. Também se ressalvam cargos eletivos e cargos em comissão.
+THALITA: As exceções vêm do artigo trinta e sete, inciso dezesseis, da Constituição. Dois cargos de professor. Um de professor com outro técnico ou científico. E dois cargos ou empregos privativos de profissionais de saúde, com profissão regulamentada.
+FRANCISCA: Então professor com médico não pode?
+THALITA: Não, essa combinação não está nas exceções. Professor com técnico ou científico, sim. Médico com médico, sim. Mas professor com cargo de saúde, não.
+FRANCISCA: E mesmo a acumulação lícita exige dois requisitos: comprovar compatibilidade de horários e respeitar o teto remuneratório.
+THALITA: Sobre o teto, a orientação do Supremo é que, nas acumulações permitidas, ele incide sobre cada vínculo isoladamente, e não sobre a soma. Vale conferir a tese vigente antes da prova.
+FRANCISCA: Outra ressalva: receber remuneração de cargo efetivo junto com proventos de inatividade é proibido, salvo se os cargos forem acumuláveis na atividade. Também se ressalvam cargos eletivos e cargos em comissão.
 THALITA: Entendi. Se eu me aposentei como professor, posso ser professor de novo e receber os dois?
 FRANCISCA: Pode, porque professor com professor é acumulável na atividade. É a lógica da ressalva.
 == SLIDE: Cargos em comissão e a pegadinha do artigo 120
@@ -20,42 +20,42 @@ FRANCISCA: Pode, porque professor com professor é acumulável na atividade. É 
 * Exceção: conselhos de administração e fiscal de estatais
 * Art. 120: dois efetivos lícitos mais comissão: afasta-se dos dois
 * Exceção: declaração de compatibilidade pelas autoridades máximas
-ANTONIO: O artigo cento e dezenove diz que ninguém pode exercer mais de um cargo em comissão, ressalvada a interinidade do parágrafo único do artigo nono. E também que o servidor não pode ser remunerado pela participação em órgão de deliberação coletiva.
-THALITA: Interinidade é quando o chefe falta e outro assume, certo?
-FRANCISCA: Exato. A ressalva sobre órgão colegiado não atinge os conselhos de administração e fiscal das empresas estatais e de entidades com capital da União, conforme a legislação específica.
-BRUNO: Agora a pegadinha: o artigo cento e vinte. A palavra decisiva é efetivo. Quem acumula licitamente dois cargos efetivos e é nomeado para um cargo em comissão afasta-se dos dois efetivos. Não de apenas um.
+THALITA: O artigo cento e dezenove diz que ninguém pode exercer mais de um cargo em comissão, ressalvada a interinidade do parágrafo único do artigo nono. E também que o servidor não pode ser remunerado pela participação em órgão de deliberação coletiva.
+FRANCISCA: Interinidade é quando o chefe falta e outro assume, certo?
+THALITA: Exato. A ressalva sobre órgão colegiado não atinge os conselhos de administração e fiscal das empresas estatais e de entidades com capital da União, conforme a legislação específica.
+FRANCISCA: Agora a pegadinha: o artigo cento e vinte. A palavra decisiva é efetivo. Quem acumula licitamente dois cargos efetivos e é nomeado para um cargo em comissão afasta-se dos dois efetivos. Não de apenas um.
 THALITA: Eu ia dizer que ficava com um efetivo e o comissionado. Errei, né?
-BRUNO: Errou, e é o erro da banca. A exceção depende de declaração de compatibilidade de horário e de local com um deles, feita pelas autoridades máximas dos órgãos envolvidos. Sem a declaração, afasta dos dois.
-ANTONIO: E quando a acumulação é ilegal? A autoridade pode detectar a qualquer tempo, sem prazo de decadência. Notifica o servidor, por intermédio da chefia imediata, para optar no prazo de dez dias, improrrogáveis, a contar da ciência.
-THALITA: E se ele ficar calado?
-ANTONIO: Instaura-se processo disciplinar de rito sumário, com comissão de dois servidores estáveis. Se até o último dia do prazo de defesa ele optar, presume-se a boa-fé, e a opção se converte em exoneração do outro cargo.
-BRUNO: Comprovada a má-fé, a pena é demissão em relação aos vínculos acumulados ilegalmente, e comunicam-se os órgãos de vinculação. A acumulação ilegal é causa de demissão, artigo cento e trinta e dois, inciso doze.
+FRANCISCA: Errou, e é o erro da banca. A exceção depende de declaração de compatibilidade de horário e de local com um deles, feita pelas autoridades máximas dos órgãos envolvidos. Sem a declaração, afasta dos dois.
+THALITA: E quando a acumulação é ilegal? A autoridade pode detectar a qualquer tempo, sem prazo de decadência. Notifica o servidor, por intermédio da chefia imediata, para optar no prazo de dez dias, improrrogáveis, a contar da ciência.
+FRANCISCA: E se ele ficar calado?
+THALITA: Instaura-se processo disciplinar de rito sumário, com comissão de dois servidores estáveis. Se até o último dia do prazo de defesa ele optar, presume-se a boa-fé, e a opção se converte em exoneração do outro cargo.
+FRANCISCA: Comprovada a má-fé, a pena é demissão em relação aos vínculos acumulados ilegalmente, e comunicam-se os órgãos de vinculação. A acumulação ilegal é causa de demissão, artigo cento e trinta e dois, inciso doze.
 == SLIDE: Três esferas de responsabilidade
 * Civil, penal e administrativa (arts. 121 a 125)
 * Civil: indenizar; erário por desconto em folha (art. 46)
 * Dano a terceiro: ação regressiva; sucessores até o valor da herança
 * Tema 940 do STF: ação contra a pessoa jurídica
-FRANCISCA: O servidor responde pelo exercício irregular de suas atribuições, artigo cento e vinte e um, em três esferas independentes. Civil, penal e administrativa, cada uma com requisitos e sanções próprias.
-THALITA: Vamos uma por uma. A civil primeiro.
-ANTONIO: A civil surge de ato comissivo ou omissivo, doloso ou culposo, que cause prejuízo ao erário ou a terceiro. A consequência é o dever de indenizar. Se o prejuízo foi ao erário, pode haver ressarcimento por desconto em folha, na forma do artigo quarenta e seis, com parcelas de no mínimo dez por cento da remuneração, do provento ou da pensão.
-BRUNO: Se o dano foi a terceiro, o servidor responde perante a Fazenda Pública, em ação regressiva, artigo cento e vinte e dois, parágrafo segundo. E a obrigação de reparar o dano alcança os sucessores, limitada ao valor da herança recebida.
+THALITA: O servidor responde pelo exercício irregular de suas atribuições, artigo cento e vinte e um, em três esferas independentes. Civil, penal e administrativa, cada uma com requisitos e sanções próprias.
+FRANCISCA: Vamos uma por uma. A civil primeiro.
+THALITA: A civil surge de ato comissivo ou omissivo, doloso ou culposo, que cause prejuízo ao erário ou a terceiro. A consequência é o dever de indenizar. Se o prejuízo foi ao erário, pode haver ressarcimento por desconto em folha, na forma do artigo quarenta e seis, com parcelas de no mínimo dez por cento da remuneração, do provento ou da pensão.
+FRANCISCA: Se o dano foi a terceiro, o servidor responde perante a Fazenda Pública, em ação regressiva, artigo cento e vinte e dois, parágrafo segundo. E a obrigação de reparar o dano alcança os sucessores, limitada ao valor da herança recebida.
 THALITA: Um exemplo concreto?
 FRANCISCA: Um servidor dirige veículo oficial em serviço e, por imprudência, causa dano a um particular. O particular aciona a União, com responsabilidade objetiva, artigo trinta e sete, parágrafo sexto, da Constituição. Condenada, a União busca do servidor o valor, em ação regressiva, porque houve culpa.
-ANTONIO: E o Supremo, no Tema novecentos e quarenta de repercussão geral, firmou que a vítima deve ajuizar a ação contra a pessoa jurídica, e não contra o agente. O direito de regresso depende de dolo ou culpa.
-THALITA: Quer dizer que a vítima não pode processar o servidor direto?
-FRANCISCA: Na orientação do Supremo, deve processar a pessoa jurídica. Se o dano foi ao patrimônio público, a Administração pode descontar em folha, sem prejuízo do processo disciplinar.
-BRUNO: As outras esferas: a penal, artigo cento e vinte e três, trata de crimes e contravenções imputados ao servidor nessa condição, e a sanção é aplicada pelo Judiciário. A administrativa, artigo cento e vinte e quatro, trata de ato praticado no desempenho do cargo, com as penalidades do artigo cento e vinte e sete.
+THALITA: E o Supremo, no Tema novecentos e quarenta de repercussão geral, firmou que a vítima deve ajuizar a ação contra a pessoa jurídica, e não contra o agente. O direito de regresso depende de dolo ou culpa.
+FRANCISCA: Quer dizer que a vítima não pode processar o servidor direto?
+THALITA: Na orientação do Supremo, deve processar a pessoa jurídica. Se o dano foi ao patrimônio público, a Administração pode descontar em folha, sem prejuízo do processo disciplinar.
+FRANCISCA: As outras esferas: a penal, artigo cento e vinte e três, trata de crimes e contravenções imputados ao servidor nessa condição, e a sanção é aplicada pelo Judiciário. A administrativa, artigo cento e vinte e quatro, trata de ato praticado no desempenho do cargo, com as penalidades do artigo cento e vinte e sete.
 == SLIDE: Independência das instâncias e o artigo 126
 * Art. 125: as sanções se cumulam; as instâncias são independentes
 * Art. 126: absolvição criminal por inexistência do fato ou negativa de autoria afasta a pena administrativa
 * Falta residual: Súmula 18 do STF
 * Art. 126-A: proteção a quem comunica crime ou improbidade
-ANTONIO: As sanções civis, penais e administrativas podem ser aplicadas em conjunto, e cada instância decide por conta própria, artigo cento e vinte e cinco. Absolver ou condenar em uma esfera não gera, por si só, o mesmo resultado nas outras.
-THALITA: Mas se o juiz absolve, a Administração não tem que aceitar?
-FRANCISCA: Só em duas situações, a grande ponte do artigo cento e vinte e seis: absolvição que declare a inexistência do fato ou negue a autoria.
-BRUNO: A FCC troca a causa da absolvição. Absolvição por falta de provas ou por atipicidade penal não vincula a Administração, porque o ilícito disciplinar pode existir sem tipicidade penal.
+THALITA: As sanções civis, penais e administrativas podem ser aplicadas em conjunto, e cada instância decide por conta própria, artigo cento e vinte e cinco. Absolver ou condenar em uma esfera não gera, por si só, o mesmo resultado nas outras.
+FRANCISCA: Mas se o juiz absolve, a Administração não tem que aceitar?
+THALITA: Só em duas situações, a grande ponte do artigo cento e vinte e seis: absolvição que declare a inexistência do fato ou negue a autoria.
+FRANCISCA: A FCC troca a causa da absolvição. Absolvição por falta de provas ou por atipicidade penal não vincula a Administração, porque o ilícito disciplinar pode existir sem tipicidade penal.
 THALITA: Macete: fato ou autor. Se o juiz diz que o fato não existiu, ou que não foi ele, a esfera administrativa fecha. Qualquer outro motivo, a Administração continua.
-ANTONIO: Perfeito. E a Súmula dezoito do Supremo trata da falta residual: se o fato absolvido no crime ainda configura outra infração administrativa, o servidor pode ser punido por essa falta residual.
-FRANCISCA: Por fim, o artigo cento e vinte e seis traço A. Nenhum servidor sofre responsabilização civil, penal ou administrativa por comunicar à autoridade, ou a outra autoridade competente quando houver suspeita sobre a primeira, informação sobre crime ou improbidade que conheça.
-THALITA: É a proteção de quem denuncia. Boa de lembrar.
-BRUNO: Agora a pergunta que fica: quais são as penalidades, como se dosam, e em quanto tempo prescrevem? É o nosso próximo tema: penalidades, dosimetria, efeitos acessórios e prescrição, artigos cento e vinte e sete a cento e quarenta e dois.
+FRANCISCA: Perfeito. E a Súmula dezoito do Supremo trata da falta residual: se o fato absolvido no crime ainda configura outra infração administrativa, o servidor pode ser punido por essa falta residual.
+THALITA: Por fim, o artigo cento e vinte e seis traço A. Nenhum servidor sofre responsabilização civil, penal ou administrativa por comunicar à autoridade, ou a outra autoridade competente quando houver suspeita sobre a primeira, informação sobre crime ou improbidade que conheça.
+FRANCISCA: É a proteção de quem denuncia. Boa de lembrar.
+THALITA: Agora a pergunta que fica: quais são as penalidades, como se dosam, e em quanto tempo prescrevem? É o nosso próximo tema: penalidades, dosimetria, efeitos acessórios e prescrição, artigos cento e vinte e sete a cento e quarenta e dois.

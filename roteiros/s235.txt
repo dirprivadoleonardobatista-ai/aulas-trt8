@@ -4,35 +4,35 @@ SEGMENTO s235
 * Prazo decadencial de 120 dias da ciência do ato (art. 23)
 * Liminar: fundamento relevante e risco de ineficácia
 * Sentença concessiva: reexame necessário; sem honorários
-ANTONIO: Terminamos recursos, precedentes e procedimentos especiais. Agora um remédio constitucional muito cobrado: o mandado de segurança, Lei doze mil e dezesseis, de dois mil e nove.
+FRANCISCA: Terminamos recursos, precedentes e procedimentos especiais. Agora um remédio constitucional muito cobrado: o mandado de segurança, Lei doze mil e dezesseis, de dois mil e nove.
 THALITA: Começo pelo prazo. São cento e vinte dias?
 FRANCISCA: Isso, contados da ciência do ato, artigo vinte e três. É prazo decadencial e constitucional, Súmula seiscentos e trinta e dois do STF.
-BRUNO: A autoridade inclui dirigentes de partidos, de autarquias e particulares no exercício de função pública. Mas ato de gestão comercial de estatal ou concessionária não comporta mandado de segurança.
-ANTONIO: Artigo quinto: não cabe contra ato com recurso administrativo com efeito suspensivo, independentemente de caução; contra decisão judicial com recurso com efeito suspensivo; nem contra decisão transitada em julgado. Não se exige esgotar a via administrativa.
+THALITA: A autoridade inclui dirigentes de partidos, de autarquias e particulares no exercício de função pública. Mas ato de gestão comercial de estatal ou concessionária não comporta mandado de segurança.
+FRANCISCA: Artigo quinto: não cabe contra ato com recurso administrativo com efeito suspensivo, independentemente de caução; contra decisão judicial com recurso com efeito suspensivo; nem contra decisão transitada em julgado. Não se exige esgotar a via administrativa.
 THALITA: Se eu perdi o prazo, perdi o direito?
 FRANCISCA: Perdeu o mandado de segurança, não o direito. Poderá usar outra via. E o STF, nas Súmulas duzentos e sessenta e seis, duzentos e sessenta e sete e duzentos e sessenta e oito, diz que não cabe contra lei em tese, contra ato judicial recorrível e contra decisão transitada.
-BRUNO: Liminar, artigo sétimo, inciso terceiro: fundamento relevante e risco de ineficácia da medida. A caução é facultativa. Caduca se o impetrante paralisar o feito por mais de três dias úteis. Informações em dez dias, Ministério Público em dez.
-ANTONIO: A sentença concessiva sujeita-se ao reexame necessário e admite execução provisória. Cabe apelação. Não há honorários, artigo vinte e cinco e Súmula quinhentos e doze do STF.
+THALITA: Liminar, artigo sétimo, inciso terceiro: fundamento relevante e risco de ineficácia da medida. A caução é facultativa. Caduca se o impetrante paralisar o feito por mais de três dias úteis. Informações em dez dias, Ministério Público em dez.
+FRANCISCA: A sentença concessiva sujeita-se ao reexame necessário e admite execução provisória. Cabe apelação. Não há honorários, artigo vinte e cinco e Súmula quinhentos e doze do STF.
 THALITA: Honorários não. Lembrar de dizer a banca: sem honorários.
 FRANCISCA: A Súmula seiscentos e vinte e cinco: controvérsia sobre matéria de direito não impede a concessão. E as Súmulas duzentos e sessenta e nove e duzentos e setenta e um: mandado de segurança não substitui ação de cobrança e não produz efeitos patrimoniais pretéritos.
 THALITA: Resumindo: líquido e certo exige prova pronta, cento e vinte dias para impetrar, liminar com relevância e risco, e sentença sem honorários. Súmulas: não cabe contra lei em tese nem contra decisão transitada.
-BRUNO: A lei vedava liminar em compensação tributária, mercadorias do exterior, reclassificação de servidores e aumento ou extensão de vantagens, mas a ADI quatro mil duzentos e noventa e seis declarou inconstitucionais essas vedações.
+FRANCISCA: A lei vedava liminar em compensação tributária, mercadorias do exterior, reclassificação de servidores e aumento ou extensão de vantagens, mas a ADI quatro mil duzentos e noventa e seis declarou inconstitucionais essas vedações.
 THALITA: Atenção para ler o comando: letra da lei ou decisão do STF.
 == SLIDE: Mandado de segurança coletivo e ação civil pública
 * Coletivo: partido, sindicato, entidade de classe e associação
 * Associação em funcionamento há 1 ano
 * ACP: meio ambiente, consumidor, patrimônio público
 * Não cabe para tributos, previdência e FGTS
-ANTONIO: O mandado de segurança coletivo, artigo vinte e um, pode ser impetrado por partido com representação no Congresso, ou por sindicato, entidade de classe ou associação em funcionamento há pelo menos um ano. Não precisa de autorização especial.
-BRUNO: As Súmulas seiscentos e vinte e nove e seiscentos e trinta dizem que a entidade de classe impetra sem autorização dos associados, ainda que o interesse seja só de parte da categoria. Para o STF, o requisito de um ano recai apenas sobre a associação.
-THALITA: Se eu já tenho mandado de segurança individual, o coletivo me atinge?
-FRANCISCA: O coletivo não induz litispendência. Mas o impetrante individual só se beneficia se desistir do seu em trinta dias da ciência da impetração coletiva. Protege direitos coletivos e individuais homogêneos.
-ANTONIO: A oitiva prévia em setenta e duas horas para liminar, que a lei previa, também caiu na ADI quatro mil duzentos e noventa e seis.
-BRUNO: Agora a ação civil pública, Lei sete mil trezentos e quarenta e sete, de mil novecentos e oitenta e cinco. Protege meio ambiente, consumidor, patrimônio cultural, ordem econômica e urbanística, honra de grupos raciais, étnicos ou religiosos, patrimônio público e outros interesses difusos ou coletivos.
-THALITA: Cabe para qualquer causa?
-FRANCISCA: Não cabe para tributos, contribuições previdenciárias e FGTS. A competência é do local do dano, funcional e absoluta.
-ANTONIO: Os legitimados, artigo quinto: Ministério Público, Defensoria, entes federativos, autarquias, empresas públicas, fundações, sociedades de economia mista e associação constituída há um ano com finalidade pertinente, dispensável se houver manifesto interesse social.
-BRUNO: Inquérito civil é exclusivo do Ministério Público. O termo de ajustamento de conduta só pode ser tomado por órgãos públicos, com força de título extrajudicial.
+FRANCISCA: O mandado de segurança coletivo, artigo vinte e um, pode ser impetrado por partido com representação no Congresso, ou por sindicato, entidade de classe ou associação em funcionamento há pelo menos um ano. Não precisa de autorização especial.
+THALITA: As Súmulas seiscentos e vinte e nove e seiscentos e trinta dizem que a entidade de classe impetra sem autorização dos associados, ainda que o interesse seja só de parte da categoria. Para o STF, o requisito de um ano recai apenas sobre a associação.
+FRANCISCA: Se eu já tenho mandado de segurança individual, o coletivo me atinge?
+THALITA: O coletivo não induz litispendência. Mas o impetrante individual só se beneficia se desistir do seu em trinta dias da ciência da impetração coletiva. Protege direitos coletivos e individuais homogêneos.
+FRANCISCA: A oitiva prévia em setenta e duas horas para liminar, que a lei previa, também caiu na ADI quatro mil duzentos e noventa e seis.
+THALITA: Agora a ação civil pública, Lei sete mil trezentos e quarenta e sete, de mil novecentos e oitenta e cinco. Protege meio ambiente, consumidor, patrimônio cultural, ordem econômica e urbanística, honra de grupos raciais, étnicos ou religiosos, patrimônio público e outros interesses difusos ou coletivos.
+FRANCISCA: Cabe para qualquer causa?
+THALITA: Não cabe para tributos, contribuições previdenciárias e FGTS. A competência é do local do dano, funcional e absoluta.
+FRANCISCA: Os legitimados, artigo quinto: Ministério Público, Defensoria, entes federativos, autarquias, empresas públicas, fundações, sociedades de economia mista e associação constituída há um ano com finalidade pertinente, dispensável se houver manifesto interesse social.
+THALITA: Inquérito civil é exclusivo do Ministério Público. O termo de ajustamento de conduta só pode ser tomado por órgãos públicos, com força de título extrajudicial.
 FRANCISCA: A coisa julgada é erga omnes, salvo improcedência por falta de provas. E a limitação territorial foi considerada inconstitucional no Tema mil e setenta e cinco do STF.
 THALITA: Erga omnes, salvo falta de provas. Anotei!
 == SLIDE: Juizado Especial Cível
@@ -40,15 +40,15 @@ THALITA: Erga omnes, salvo falta de provas. Anotei!
 * Excluídas: alimentos, falência, fiscal, Fazenda, acidente de trabalho
 * Não admite intervenção de terceiros nem reconvenção
 * Recurso inominado: 10 dias; preparo em 48 horas
-ANTONIO: Juizado Especial Cível, Lei nove mil e noventa e nove, de mil novecentos e noventa e cinco. Competência, artigo terceiro: causas de até quarenta salários mínimos, despejo para uso próprio e possessória de imóvel até quarenta salários.
+FRANCISCA: Juizado Especial Cível, Lei nove mil e noventa e nove, de mil novecentos e noventa e cinco. Competência, artigo terceiro: causas de até quarenta salários mínimos, despejo para uso próprio e possessória de imóvel até quarenta salários.
 THALITA: E se meu pedido passar de quarenta?
-BRUNO: A opção pelo juizado implica renúncia ao excedente, salvo conciliação. Ficam fora causas alimentares, falimentares, fiscais, da Fazenda Pública, acidente de trabalho, resíduos e questões de estado e capacidade, ainda que patrimoniais.
-FRANCISCA: Não podem ser parte o incapaz, o preso, a pessoa jurídica de direito público, a empresa pública da União, a massa falida e o insolvente civil. Podem ser autores a pessoa física capaz, a microempresa, a empresa de pequeno porte, a organização da sociedade civil de interesse público e a sociedade de crédito ao microempreendedor.
-ANTONIO: Advogado é facultativo até vinte salários mínimos, e obrigatório acima disso e no recurso.
+FRANCISCA: A opção pelo juizado implica renúncia ao excedente, salvo conciliação. Ficam fora causas alimentares, falimentares, fiscais, da Fazenda Pública, acidente de trabalho, resíduos e questões de estado e capacidade, ainda que patrimoniais.
+THALITA: Não podem ser parte o incapaz, o preso, a pessoa jurídica de direito público, a empresa pública da União, a massa falida e o insolvente civil. Podem ser autores a pessoa física capaz, a microempresa, a empresa de pequeno porte, a organização da sociedade civil de interesse público e a sociedade de crédito ao microempreendedor.
+FRANCISCA: Advogado é facultativo até vinte salários mínimos, e obrigatório acima disso e no recurso.
 THALITA: E posso reconvir?
-BRUNO: Não cabe reconvenção, mas cabe pedido contraposto. Também não cabe intervenção de terceiros, citação por edital nem ação rescisória. Admite litisconsórcio e desconsideração da personalidade. A ausência do autor à audiência extingue o processo.
-FRANCISCA: O recurso inominado vai em dez dias, à turma de três juízes togados. O preparo é em quarenta e oito horas, sem intimação. Não cabe contra homologação de conciliação ou laudo arbitral.
-ANTONIO: Embargos de declaração, cinco dias, interrompem o prazo. Sem custas no primeiro grau. O vencido no recurso paga honorários de dez a vinte por cento. Os prazos são em dias úteis.
+FRANCISCA: Não cabe reconvenção, mas cabe pedido contraposto. Também não cabe intervenção de terceiros, citação por edital nem ação rescisória. Admite litisconsórcio e desconsideração da personalidade. A ausência do autor à audiência extingue o processo.
+THALITA: O recurso inominado vai em dez dias, à turma de três juízes togados. O preparo é em quarenta e oito horas, sem intimação. Não cabe contra homologação de conciliação ou laudo arbitral.
+FRANCISCA: Embargos de declaração, cinco dias, interrompem o prazo. Sem custas no primeiro grau. O vencido no recurso paga honorários de dez a vinte por cento. Os prazos são em dias úteis.
 THALITA: E o juizado federal e o da Fazenda?
 FRANCISCA: Teto de sessenta salários mínimos.
 THALITA: Quarenta no cível, sessenta no federal e na Fazenda. Gravei.
@@ -57,17 +57,17 @@ THALITA: Quarenta no cível, sessenta no federal e na Fazenda. Gravei.
 * Mediação judicial: graduado há 2 anos, capacitado
 * Publicação no primeiro dia útil após a disponibilização
 * Intimação no portal: 10 dias corridos
-BRUNO: Mediação, Lei treze mil cento e quarenta, de dois mil e quinze. Princípios: imparcialidade, isonomia, oralidade, informalidade, autonomia da vontade, busca do consenso, confidencialidade e boa-fé. Ninguém é obrigado a permanecer.
+FRANCISCA: Mediação, Lei treze mil cento e quarenta, de dois mil e quinze. Princípios: imparcialidade, isonomia, oralidade, informalidade, autonomia da vontade, busca do consenso, confidencialidade e boa-fé. Ninguém é obrigada a permanecer.
 THALITA: Quem pode ser mediador?
 FRANCISCA: Na extrajudicial, pessoa capaz, de confiança das partes e capacitada. Na judicial, graduado há dois anos e capacitado, sem prévia aceitação das partes.
-ANTONIO: O mediador fica impedido por um ano, após a última audiência, de assessorar, representar ou patrocinar as partes. E nunca atua como árbitro ou testemunha no mesmo conflito.
-THALITA: Então o mediador que acabou de atuar num conflito não pode virar advogado de uma das partes no ano seguinte. E tampouco pode ser testemunha. Entendi o impedimento.
-BRUNO: A confidencialidade é oponível em juízo e na arbitragem, salvo acordo, exigência legal ou cumprimento do acordo. Não abrange crime de ação pública nem informações ao fisco. A mediação judicial dura até sessenta dias, prorrogável.
-THALITA: E a Administração Pública?
-FRANCISCA: Pode criar câmaras na Advocacia Pública. A instauração suspende a prescrição, e o servidor só responde por dolo ou fraude com vantagem indevida.
-ANTONIO: Processo eletrônico, Lei onze mil quatrocentos e dezenove, de dois mil e seis. Alcança processo civil, penal, trabalhista e juizados. A assinatura exige certificado digital ou cadastro presencial.
-BRUNO: O ato é praticado no dia e hora do envio, tempestivo até as vinte e quatro horas do último dia. Indisponibilidade prorroga para o primeiro dia útil seguinte à solução.
-THALITA: E a intimação no portal?
-FRANCISCA: Vale no dia da consulta. Sem consulta em dez dias corridos, considera-se feita ao fim desse prazo, e vale como pessoal, inclusive para a Fazenda. A publicação no Diário é o primeiro dia útil após a disponibilização, e o prazo começa no dia útil seguinte.
-THALITA: Disponibilizou na segunda, publicou na terça, prazo na quarta. Entendi!
-ANTONIO: Agora vamos praticar com questões comentadas da FCC.
+THALITA: O mediador fica impedido por um ano, após a última audiência, de assessorar, representar ou patrocinar as partes. E nunca atua como árbitro ou testemunha no mesmo conflito.
+FRANCISCA: Então o mediador que acabou de atuar num conflito não pode virar advogado de uma das partes no ano seguinte. E tampouco pode ser testemunha. Entendi o impedimento.
+THALITA: A confidencialidade é oponível em juízo e na arbitragem, salvo acordo, exigência legal ou cumprimento do acordo. Não abrange crime de ação pública nem informações ao fisco. A mediação judicial dura até sessenta dias, prorrogável.
+FRANCISCA: E a Administração Pública?
+THALITA: Pode criar câmaras na Advocacia Pública. A instauração suspende a prescrição, e o servidor só responde por dolo ou fraude com vantagem indevida.
+FRANCISCA: Processo eletrônico, Lei onze mil quatrocentos e dezenove, de dois mil e seis. Alcança processo civil, penal, trabalhista e juizados. A assinatura exige certificado digital ou cadastro presencial.
+THALITA: O ato é praticado no dia e hora do envio, tempestivo até as vinte e quatro horas do último dia. Indisponibilidade prorroga para o primeiro dia útil seguinte à solução.
+FRANCISCA: E a intimação no portal?
+THALITA: Vale no dia da consulta. Sem consulta em dez dias corridos, considera-se feita ao fim desse prazo, e vale como pessoal, inclusive para a Fazenda. A publicação no Diário é o primeiro dia útil após a disponibilização, e o prazo começa no dia útil seguinte.
+FRANCISCA: Disponibilizou na segunda, publicou na terça, prazo na quarta. Entendi!
+THALITA: Agora vamos praticar com questões comentadas da FCC.

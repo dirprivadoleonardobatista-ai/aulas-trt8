@@ -4,40 +4,40 @@ SEGMENTO s149
 * Exceção a: reintegração desaconselhável (art. 496)
 * Exceção b: período já exaurido (Súmula 396, I)
 * Exceção c: extinção da empresa ou do estabelecimento
-ANTONIO: Vimos há pouco cada garantia provisória. Agora a pergunta prática: o que acontece quando o empregador dispensa o estável sem respeitar a garantia? A regra geral é a reintegração, com pagamento dos salários do período do afastamento.
+FRANCISCA: Vimos há pouco cada garantia provisória. Agora a pergunta prática: o que acontece quando o empregador dispensa o estável sem respeitar a garantia? A regra geral é a reintegração, com pagamento dos salários do período do afastamento.
 THALITA: Só tem essa solução, ou existem exceções?
 FRANCISCA: Existem três. Primeira: quando a reintegração é desaconselhável, o artigo quatrocentos e noventa e seis permite converter em indenização. Segunda: quando o período de garantia já terminou, e aí a Súmula trezentos e noventa e seis, item um, do TST diz que são devidos apenas os salários entre a dispensa e o final do período, sem reintegração. Terceira: extinção da empresa ou do estabelecimento.
-BRUNO: Essa terceira vem das Súmulas trezentos e trinta e nove, item dois, para o cipeiro, e trezentos e sessenta e nove, item quatro, para o dirigente sindical. Extinto o estabelecimento do cipeiro, nem reintegração nem indenização.
-THALITA: E se o pedido do empregado foi reintegração e o juiz concede salários? Isso não é decidir fora do pedido?
-FRANCISCA: Não. O item dois da Súmula trezentos e noventa e seis afirma que não há nulidade por julgamento extra petita, dados os termos do artigo quatrocentos e noventa e seis da CLT. O juiz pode converter.
-BRUNO: A FCC cobra essa. A alternativa afirma que há nulidade porque o pedido era de reintegração. Falso.
-ANTONIO: E se a ação for proposta depois que a estabilidade acabou? A Orientação Jurisprudencial trezentos e noventa e nove da SDI-1 diz que isso não é abuso de direito de ação. O limite é só a prescrição do artigo sétimo, inciso vinte e nove, da Constituição.
+THALITA: Essa terceira vem das Súmulas trezentos e trinta e nove, item dois, para o cipeiro, e trezentos e sessenta e nove, item quatro, para o dirigente sindical. Extinto o estabelecimento do cipeiro, nem reintegração nem indenização.
+FRANCISCA: E se o pedido do empregado foi reintegração e o juiz concede salários? Isso não é decidir fora do pedido?
+THALITA: Não. O item dois da Súmula trezentos e noventa e seis afirma que não há nulidade por julgamento extra petita, dados os termos do artigo quatrocentos e noventa e seis da CLT. O juiz pode converter.
+FRANCISCA: A FCC cobra essa. A alternativa afirma que há nulidade porque o pedido era de reintegração. Falso.
+THALITA: E se a ação for proposta depois que a estabilidade acabou? A Orientação Jurisprudencial trezentos e noventa e nove da SDI-1 diz que isso não é abuso de direito de ação. O limite é só a prescrição do artigo sétimo, inciso vinte e nove, da Constituição.
 == SLIDE: A tabela de consequências, linha a linha
 * Inquérito improcedente: reintegração com salários (art. 495)
 * Incompatibilidade: indenização, em dobro para o decenal
 * Dirigente: liminar (art. 659, X); gestante fora do período: salários
 * Aviso prévio na estabilidade: inválido (Súmula 348)
-THALITA: Vamos passar a tabela de situações, uma por uma?
-ANTONIO: Vamos. Primeira: inquérito julgado improcedente. Reintegração com salários do período de suspensão, artigo quatrocentos e noventa e cinco. Segunda: incompatibilidade entre as partes. A reintegração se converte em indenização, em dobro para o decenal, pelos artigos quatrocentos e noventa e seis e quatrocentos e noventa e sete.
+FRANCISCA: Vamos passar a tabela de situações, uma por uma?
+THALITA: Vamos. Primeira: inquérito julgado improcedente. Reintegração com salários do período de suspensão, artigo quatrocentos e noventa e cinco. Segunda: incompatibilidade entre as partes. A reintegração se converte em indenização, em dobro para o decenal, pelos artigos quatrocentos e noventa e seis e quatrocentos e noventa e sete.
 FRANCISCA: Terceira: período de estabilidade já esgotado. Só salários da dispensa ao fim do período, sem reintegração, Súmula trezentos e noventa e seis, item um. Quarta: pedido de reintegração com deferimento de salários, sem julgamento extra petita, item dois da mesma súmula.
-BRUNO: Quinta: ação ajuizada depois do fim da estabilidade. Não é abuso, observa-se só a prescrição, Orientação Jurisprudencial trezentos e noventa e nove. Sexta: dirigente sindical dispensado tem liminar de reintegração até a decisão final, artigo seiscentos e cinquenta e nove, inciso dez.
+THALITA: Quinta: ação ajuizada depois do fim da estabilidade. Não é abuso, observa-se só a prescrição, Orientação Jurisprudencial trezentos e noventa e nove. Sexta: dirigente sindical dispensado tem liminar de reintegração até a decisão final, artigo seiscentos e cinquenta e nove, inciso dez.
 FRANCISCA: Sétima: gestante cuja reintegração seria fora do período. A garantia vira salários e demais direitos, Súmula duzentos e quarenta e quatro, item dois. Oitava: extinção do estabelecimento do cipeiro, nem reintegração nem indenização, Súmula trezentos e trinta e nove, item dois.
 THALITA: E a última, do aviso prévio?
-BRUNO: Aviso prévio dado durante a estabilidade é inválido, Súmula trezentos e quarenta e oito. A empresa não pode usar o aviso para driblar a garantia, porque o aviso só serve para dispensa válida.
+FRANCISCA: Aviso prévio dado durante a estabilidade é inválido, Súmula trezentos e quarenta e oito. A empresa não pode usar o aviso para driblar a garantia, porque o aviso só serve para dispensa válida.
 THALITA: Macete: a garantia bloqueia o aviso e só se resolve em reintegração ou em dinheiro, nunca em "esquece".
-ANTONIO: Boa, Thalita, só com um cuidado: em dinheiro não é "esquece", é salários do período.
+FRANCISCA: Boa, Thalita, só com um cuidado: em dinheiro não é "esquece", é salários do período.
 == SLIDE: Caso da Joana: cipeira dispensada fora do prazo
 * Mandato encerrado em 31 de janeiro de 2025
 * Dispensa sem motivo em 30 de junho de 2025
 * Garantia até 31 de janeiro de 2026; ação em 10 de março de 2026
 * Resultado: salários e reflexos, sem reintegração
-FRANCISCA: Vamos a um exemplo concreto. Joana é cipeira eleita. O mandato dela terminou em trinta e um de janeiro de dois mil e vinte e cinco. Como a garantia vai até um ano após o fim do mandato, ela protege Joana até trinta e um de janeiro de dois mil e vinte e seis.
-THALITA: E o que acontece se ela for dispensada sem motivo?
-FRANCISCA: Em trinta de junho de dois mil e vinte e cinco ela foi dispensada sem motivo disciplinar, técnico, econômico ou financeiro. Era dispensa arbitrária, ilegal. Mas ela só ajuizou a ação em dez de março de dois mil e vinte e seis.
-THALITA: Ah, aí a estabilidade já tinha acabado. Então ela perde tudo?
-BRUNO: Calma, não perde. Pela Orientação Jurisprudencial trezentos e noventa e nove, ajuizar depois do fim do período não é abuso, vale só a prescrição. Pela Súmula trezentos e noventa e seis, item um, o período já está exaurido, então não há reintegração. Joana recebe os salários e reflexos de trinta de junho de dois mil e vinte e cinco a trinta e um de janeiro de dois mil e vinte e seis.
-ANTONIO: E se ela tivesse ajuizado em agosto de dois mil e vinte e cinco?
-FRANCISCA: Aí o período ainda estaria em curso, e o juiz determinaria a reintegração.
-THALITA: Então o tempo da ação define: dentro do período, reintegração; fora, só dinheiro.
-BRUNO: E a FCC gosta de inverter isso. Fiquem atentos a datas, porque a questão pode dar o mandato, a dispensa e a data da ação, e pedir a consequência.
-ANTONIO: Fechamos o conteúdo. Agora a parte que vale pontos: nas próximas aulas, as questões comentadas estilo FCC, alternativa por alternativa. Vamos para a primeira parte.
+THALITA: Vamos a um exemplo concreto. Joana é cipeira eleita. O mandato dela terminou em trinta e um de janeiro de dois mil e vinte e cinco. Como a garantia vai até um ano após o fim do mandato, ela protege Joana até trinta e um de janeiro de dois mil e vinte e seis.
+FRANCISCA: E o que acontece se ela for dispensada sem motivo?
+THALITA: Em trinta de junho de dois mil e vinte e cinco ela foi dispensada sem motivo disciplinar, técnico, econômico ou financeiro. Era dispensa arbitrária, ilegal. Mas ela só ajuizou a ação em dez de março de dois mil e vinte e seis.
+FRANCISCA: Ah, aí a estabilidade já tinha acabado. Então ela perde tudo?
+THALITA: Calma, não perde. Pela Orientação Jurisprudencial trezentos e noventa e nove, ajuizar depois do fim do período não é abuso, vale só a prescrição. Pela Súmula trezentos e noventa e seis, item um, o período já está exaurido, então não há reintegração. Joana recebe os salários e reflexos de trinta de junho de dois mil e vinte e cinco a trinta e um de janeiro de dois mil e vinte e seis.
+FRANCISCA: E se ela tivesse ajuizado em agosto de dois mil e vinte e cinco?
+THALITA: Aí o período ainda estaria em curso, e o juiz determinaria a reintegração.
+FRANCISCA: Então o tempo da ação define: dentro do período, reintegração; fora, só dinheiro.
+THALITA: E a FCC gosta de inverter isso. Fiquem atentos a datas, porque a questão pode dar o mandato, a dispensa e a data da ação, e pedir a consequência.
+FRANCISCA: Fechamos o conteúdo. Agora a parte que vale pontos: nas próximas aulas, as questões comentadas estilo FCC, alternativa por alternativa. Vamos para a primeira parte.

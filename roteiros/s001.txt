@@ -5,23 +5,21 @@ SEGMENTO s001
 * Cargo 02: Analista – Oficial de Justiça Avaliador Federal
 * Cargo 24: Técnico – Agente da Polícia Judicial
 * Conteúdo do Anexo II do edital, sem repetições
-ANTONIO: Olá, seja muito bem-vindo à aula um do nosso curso para o Tribunal Regional do Trabalho da Oitava Região, com banca FCC. Eu sou o Antônio e vou conduzir o curso com três colegas.
-FRANCISCA: Eu sou a Francisca. Vou trazer a lei, a jurisprudência e os exemplos de cada tema.
-BRUNO: Eu sou o Bruno, e o meu trabalho é mostrar como a FCC cobra cada assunto e onde ela costuma armar as pegadinhas.
-THALITA: E eu sou a Thalita. Estou estudando junto com você, então vou fazer as perguntas que você faria e resumir o que mais importa.
-ANTONIO: Nesta primeira aula, vamos ver três coisas: como usar o material, o que cada cargo precisa estudar e o mapa oitenta vinte da FCC, ou seja, os vinte por cento do conteúdo que respondem pela maior parte das questões.
-THALITA: Antes de tudo, Antônio: o material serve para qual cargo?
-ANTONIO: Para três cargos ao mesmo tempo. O cargo um é o de Analista Judiciário da Área Judiciária. O cargo dois é o de Analista Judiciário, Oficial de Justiça Avaliador Federal. E o cargo vinte e quatro é o de Técnico Judiciário, Agente da Polícia Judicial. O tribunal abrange o Pará e o Amapá.
-FRANCISCA: E o conteúdo segue o Anexo Dois do edital, sem repetir assunto. Quando um tema serve para mais de um cargo, ele aparece uma vez só, completo.
+FRANCISCA: Olá, seja muito bem-vindo à aula um do nosso curso para o Tribunal Regional do Trabalho da Oitava Região, com banca FCC. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Nesta primeira aula, vamos ver três coisas: como usar o material, o que cada cargo precisa estudar e o mapa oitenta vinte da FCC, ou seja, os vinte por cento do conteúdo que respondem pela maior parte das questões.
+THALITA: Antes de tudo, Francisca: o material serve para qual cargo?
+FRANCISCA: Para três cargos ao mesmo tempo. O cargo um é o de Analista Judiciário da Área Judiciária. O cargo dois é o de Analista Judiciário, Oficial de Justiça Avaliador Federal. E o cargo vinte e quatro é o de Técnico Judiciário, Agente da Polícia Judicial. O tribunal abrange o Pará e o Amapá.
+THALITA: E o conteúdo segue o Anexo Dois do edital, sem repetir assunto. Quando um tema serve para mais de um cargo, ele aparece uma vez só, completo.
 == SLIDE: Como cada capítulo é organizado
 * Abre com a síntese: o mapa antes do detalhe
 * Desenvolve o tema em quadros e tabelas
 * Fecha com questões autorais no padrão FCC
 * Cada alternativa é comentada, certa ou errada
-THALITA: E como cada capítulo está montado? Eu gosto de saber o caminho antes de começar.
-ANTONIO: Sempre do mesmo jeito. Primeiro vem uma síntese, que é o mapa do assunto. Depois o tema é desenvolvido em quadros. E no fim há questões no estilo da FCC, comentadas alternativa por alternativa.
-BRUNO: E esse comentário de cada alternativa é ouro. Na FCC, entender por que a alternativa errada está errada vale tanto quanto saber a certa, porque a banca repete os mesmos tipos de erro de prova em prova.
-FRANCISCA: Aqui nas aulas faremos o mesmo. Quando chegar uma questão, vamos ler o enunciado, dar um tempo para você pensar e depois comentar cada alternativa.
+FRANCISCA: E como cada capítulo está montado? Eu gosto de saber o caminho antes de começar.
+THALITA: Sempre do mesmo jeito. Primeiro vem uma síntese, que é o mapa do assunto. Depois o tema é desenvolvido em quadros. E no fim há questões no estilo da FCC, comentadas alternativa por alternativa.
+FRANCISCA: E esse comentário de cada alternativa é ouro. Na FCC, entender por que a alternativa errada está errada vale tanto quanto saber a certa, porque a banca repete os mesmos tipos de erro de prova em prova.
+THALITA: Aqui nas aulas faremos o mesmo. Quando chegar uma questão, vamos ler o enunciado, dar um tempo para você pensar e depois comentar cada alternativa.
 == SLIDE: Os sinais do caderno e como estudar cada um
 * Síntese: leia primeiro e releia na revisão final
 * Cai na prova: memorize, é o núcleo dos 20%
@@ -29,12 +27,12 @@ FRANCISCA: Aqui nas aulas faremos o mesmo. Quando chegar uma questão, vamos ler
 * Jurisprudência: associe o número ao conteúdo
 * Exemplo e dica: refaça o caso e use o atalho
 * Lei literal + comentário: a FCC cobra quase ao pé da letra
-THALITA: No caderno escrito aparecem vários símbolos ao longo do texto. O que significa cada um?
-FRANCISCA: São sinais de estudo. A síntese é o mapa conceitual: leia primeiro e releia na revisão. O sinal de cai na prova marca os pontos de alta incidência na FCC. Esses você memoriza, porque são o núcleo dos vinte por cento.
-BRUNO: O sinal de atenção é o meu preferido. Ele marca armadilhas, exceções e pontos que mudaram recentemente. A FCC monta as alternativas erradas exatamente aí, então grife tudo.
-FRANCISCA: Depois vem o sinal de jurisprudência, com súmulas, súmulas vinculantes, orientações jurisprudenciais e temas de repercussão geral. A dica é sempre associar o número ao conteúdo. O exemplo traz um caso prático ou numérico, e o ideal é refazer sem olhar a resposta.
-THALITA: E a dica?
-ANTONIO: A dica traz mnemônicos e atalhos para usar na hora da prova. Há também o aprofundamento, com doutrina e debates, que é prioridade para quem vai fazer o cargo um, de Analista da Área Judiciária.
+FRANCISCA: No caderno escrito aparecem vários símbolos ao longo do texto. O que significa cada um?
+THALITA: São sinais de estudo. A síntese é o mapa conceitual: leia primeiro e releia na revisão. O sinal de cai na prova marca os pontos de alta incidência na FCC. Esses você memoriza, porque são o núcleo dos vinte por cento.
+FRANCISCA: O sinal de atenção é o meu preferido. Ele marca armadilhas, exceções e pontos que mudaram recentemente. A FCC monta as alternativas erradas exatamente aí, então grife tudo.
+THALITA: Depois vem o sinal de jurisprudência, com súmulas, súmulas vinculantes, orientações jurisprudenciais e temas de repercussão geral. A dica é sempre associar o número ao conteúdo. O exemplo traz um caso prático ou numérico, e o ideal é refazer sem olhar a resposta.
+FRANCISCA: E a dica?
+THALITA: A dica traz mnemônicos e atalhos para usar na hora da prova. Há também o aprofundamento, com doutrina e debates, que é prioridade para quem vai fazer o cargo um, de Analista da Área Judiciária.
 FRANCISCA: Por fim, os blocos recuados trazem o texto literal da lei, sempre seguido de um comentário. Leia a letra da lei, porque a FCC a cobra quase palavra por palavra.
 == SLIDE: Lei vigente e a regra da dúvida honesta
 * Vale a legislação vigente até a publicação do edital
@@ -42,23 +40,23 @@ FRANCISCA: Por fim, os blocos recuados trazem o texto literal da lei, sempre seg
 * Antes da prova, confira no texto oficial
 * Planalto, CNJ, CSJT e site do TRT-8
 * Na dúvida, o material avisa em vez de arriscar
-BRUNO: Agora um alerta importante. O edital manda considerar a legislação e a jurisprudência vigentes até a data da publicação dele.
-THALITA: Então se a lei mudar depois do edital, não cai?
-BRUNO: A regra do edital é essa: vale o que estava em vigor até a publicação. Por isso alguns pontos do material estão marcados com a expressão conferir redação vigente. São casos de alteração recente, de número de ato normativo ou de tese que ainda está se consolidando nos tribunais.
+THALITA: Agora um alerta importante. O edital manda considerar a legislação e a jurisprudência vigentes até a data da publicação dele.
+FRANCISCA: Então se a lei mudar depois do edital, não cai?
+THALITA: A regra do edital é essa: vale o que estava em vigor até a publicação. Por isso alguns pontos do material estão marcados com a expressão conferir redação vigente. São casos de alteração recente, de número de ato normativo ou de tese que ainda está se consolidando nos tribunais.
 FRANCISCA: E a orientação é simples: antes da prova, confira esses pontos no texto oficial. No site do Planalto, para as leis; no portal de atos do Conselho Nacional de Justiça; no site do Conselho Superior da Justiça do Trabalho; e no site do próprio TRT da Oitava Região.
-ANTONIO: E guarde um princípio do curso inteiro: quando o material não tem certeza, ele indica a dúvida em vez de arriscar um palpite. Nas aulas faremos o mesmo.
+THALITA: E guarde um princípio do curso inteiro: quando o material não tem certeza, ele indica a dúvida em vez de arriscar um palpite. Nas aulas faremos o mesmo.
 == SLIDE: O que cada cargo deve estudar
 * Todos os cargos: Português, RLM, Informática, Regimento, Ética, TPI e ONU, DH, PcD
 * Cargos 01 e 02: Constitucional, Administrativo, Trabalho, Processo do Trabalho, Civil e Processo Civil
 * Oficial de Justiça (02): foco máximo em execução trabalhista
 * Cargo 24: Constitucional I e II, parte do III; Administrativo I a IV e temas próprios
 * Cargo 24 não estuda Trabalho, Processo do Trabalho, Civil nem Processo Civil
-THALITA: Agora a pergunta que todo mundo faz: o que eu preciso estudar para o meu cargo?
-ANTONIO: Vamos por partes. Há um bloco comum aos três cargos: Língua Portuguesa, Matemática e Raciocínio Lógico, Noções de Informática, o Regimento Interno do TRT da Oitava Região, ética com sustentabilidade, assédio e equidade, o Tribunal Penal Internacional com a Carta da ONU, Direitos Humanos e os direitos das pessoas com deficiência.
+FRANCISCA: Agora a pergunta que todo mundo faz: o que eu preciso estudar para o meu cargo?
+THALITA: Vamos por partes. Há um bloco comum aos três cargos: Língua Portuguesa, Matemática e Raciocínio Lógico, Noções de Informática, o Regimento Interno do TRT da Oitava Região, ética com sustentabilidade, assédio e equidade, o Tribunal Penal Internacional com a Carta da ONU, Direitos Humanos e os direitos das pessoas com deficiência.
 FRANCISCA: Os cargos um e dois estudam ainda Direito Constitucional e Direito Administrativo completos, Direito do Trabalho, Processo do Trabalho, Direito Civil e Processo Civil.
-BRUNO: Com duas observações. Para o Oficial de Justiça, o foco máximo do Processo do Trabalho é a execução, que é o quarto capítulo. E em Direito Civil o Oficial de Justiça não precisa da parte de direito patrimonial de família, que fica só para o cargo um.
-THALITA: E o cargo vinte e quatro, da Polícia Judicial?
-ANTONIO: O Agente da Polícia Judicial estuda o Constitucional nos capítulos um e dois, e do terceiro só a organização do Estado e as competências. No Administrativo, os capítulos um a quatro, sem controle interno e externo, e com improbidade e Lei Geral de Proteção de Dados.
+THALITA: Com duas observações. Para o Oficial de Justiça, o foco máximo do Processo do Trabalho é a execução, que é o quarto capítulo. E em Direito Civil o Oficial de Justiça não precisa da parte de direito patrimonial de família, que fica só para o cargo um.
+FRANCISCA: E o cargo vinte e quatro, da Polícia Judicial?
+THALITA: O Agente da Polícia Judicial estuda o Constitucional nos capítulos um e dois, e do terceiro só a organização do Estado e as competências. No Administrativo, os capítulos um a quatro, sem controle interno e externo, e com improbidade e Lei Geral de Proteção de Dados.
 FRANCISCA: Em compensação, ele não estuda Direito do Trabalho, Processo do Trabalho, Direito Civil nem Processo Civil. No lugar, tem quatro capítulos próprios: trânsito e primeiros socorros, segurança institucional, Código Penal e uso da força com legislação especial.
 == SLIDE: O mapa 80/20: a FCC se repete
 * Poucos dispositivos respondem pela maioria das questões
@@ -66,11 +64,11 @@ FRANCISCA: Em compensação, ele não estuda Direito do Trabalho, Processo do Tr
 * Lei 8.112/1990 e Lei 9.784/1999
 * CF: arts. 5º, 7º, 37 a 41 e 92 a 116
 * Regimento Interno do tribunal
-BRUNO: Agora o coração desta aula: o mapa oitenta vinte. A FCC se repete. Em provas de tribunais do trabalho, poucos dispositivos respondem pela maior parte das questões.
-THALITA: Quais são esses dispositivos?
-BRUNO: A letra da CLT, as súmulas do TST, a Lei oito mil cento e doze, de mil novecentos e noventa, que é o estatuto do servidor federal, e a Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove, do processo administrativo.
+THALITA: Agora o coração desta aula: o mapa oitenta vinte. A FCC se repete. Em provas de tribunais do trabalho, poucos dispositivos respondem pela maior parte das questões.
+FRANCISCA: Quais são esses dispositivos?
+THALITA: A letra da CLT, as súmulas do TST, a Lei oito mil cento e doze, de mil novecentos e noventa, que é o estatuto do servidor federal, e a Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove, do processo administrativo.
 FRANCISCA: Na Constituição, os artigos quinto e sétimo, os artigos trinta e sete a quarenta e um, sobre administração pública e servidores, e os artigos noventa e dois a cento e dezesseis, sobre o Poder Judiciário. E, claro, o Regimento Interno do tribunal.
-ANTONIO: Esses núcleos são aprofundados com todos os prazos, números e exceções. Os demais temas também são tratados de forma completa, mas mais enxuta.
+THALITA: Esses núcleos são aprofundados com todos os prazos, números e exceções. Os demais temas também são tratados de forma completa, mas mais enxuta.
 == SLIDE: Como a FCC constrói as questões
 * Literalidade: a correta copia o dispositivo
 * Troca de número: 8 dias viram 10; 2/3 viram 3/5
@@ -78,23 +76,23 @@ ANTONIO: Esses núcleos são aprofundados com todos os prazos, números e exceç
 * Troca de modal: "poderá" vira "deverá"
 * Exceção virando regra: "sempre", "exclusivamente"
 * Caso concreto, súmula distorcida e itens I a IV
-THALITA: Bruno, você falou que a FCC se repete. Ela se repete em quê, exatamente?
-BRUNO: Nas técnicas. A primeira é a literalidade: a alternativa correta copia o dispositivo quase palavra por palavra. A defesa é ler a lei seca dos núcleos oitenta vinte.
-ANTONIO: A segunda é a troca de número. Um prazo de oito dias vira dez, dois terços viram três quintos, trinta dias viram sessenta. Por isso cada capítulo tem tabela de prazos.
-BRUNO: A terceira é a troca de sujeito ou de órgão: uma competência do Pleno aparece atribuída à Turma, ou uma atribuição do Presidente aparece como do Corregedor. A quarta é a troca de modal: poderá vira deverá, facultativo vira obrigatório.
-THALITA: Então palavra forte na alternativa é sinal de alerta?
-BRUNO: Exatamente. Essa é a quinta técnica, a exceção que vira regra. Desconfie de sempre, em qualquer caso, exclusivamente. Procure a exceção nos boxes de atenção.
+FRANCISCA: Thalita, você falou que a FCC se repete. Ela se repete em quê, exatamente?
+THALITA: Nas técnicas. A primeira é a literalidade: a alternativa correta copia o dispositivo quase palavra por palavra. A defesa é ler a lei seca dos núcleos oitenta vinte.
+FRANCISCA: A segunda é a troca de número. Um prazo de oito dias vira dez, dois terços viram três quintos, trinta dias viram sessenta. Por isso cada capítulo tem tabela de prazos.
+THALITA: A terceira é a troca de sujeito ou de órgão: uma competência do Pleno aparece atribuída à Turma, ou uma atribuição do Presidente aparece como do Corregedor. A quarta é a troca de modal: poderá vira deverá, facultativo vira obrigatório.
+FRANCISCA: Então palavra forte na alternativa é sinal de alerta?
+THALITA: Exatamente. Essa é a quinta técnica, a exceção que vira regra. Desconfie de sempre, em qualquer caso, exclusivamente. Procure a exceção nos boxes de atenção.
 FRANCISCA: Há ainda o caso concreto, do tipo Márcio, empregado da empresa Alfa, e a dica é identificar o instituto antes de ler as alternativas. E há a súmula distorcida, com um elemento trocado.
-BRUNO: E, por fim, o clássico está correto o que se afirma em, com itens de um a quatro. Aqui você elimina pelas certezas. Não precisa saber todos os itens para acertar.
+THALITA: E, por fim, o clássico está correto o que se afirma em, com itens de um a quatro. Aqui você elimina pelas certezas. Não precisa saber todos os itens para acertar.
 == SLIDE: Onde está o peso da prova
 * Cargos 01 e 02: Trabalho e Processo do Trabalho pesam mais
 * Oficial de Justiça: execução (citação, penhora, avaliação, leilão, embargos)
 * Confira a distribuição no quadro de provas do edital
 * Revisão: sínteses e ★ → questões → tabelas dos erros → prazos e súmulas
-THALITA: E qual disciplina pesa mais?
-FRANCISCA: Para os cargos um e dois, o peso decisivo está nos conhecimentos específicos. Direito do Trabalho e Processo do Trabalho costumam reunir o maior número de questões da prova objetiva.
-BRUNO: E para o Oficial de Justiça, a execução trabalhista é o assunto que mais conversa com o dia a dia do cargo: citação, penhora, avaliação, praça e leilão e embargos. Mesmo assim, confira a distribuição exata no quadro de provas do edital.
-ANTONIO: Nas próximas aulas, cada disciplina terá o seu núcleo de maior incidência destacado. Em Português, por exemplo, crase, concordância verbal e vírgula. Em Processo do Trabalho, competência, arquivamento e revelia, recursos e execução.
-THALITA: Então deixa eu fazer o resumo relâmpago desta aula. Primeiro, o material serve aos três cargos, e cada um tem a sua lista. Segundo, a FCC se repete em poucos dispositivos: CLT, súmulas do TST, Leis oito mil cento e doze e nove mil setecentos e oitenta e quatro, os artigos centrais da Constituição e o Regimento. Terceiro, ela erra sempre do mesmo jeito: número trocado, órgão trocado, modal trocado e exceção virando regra.
-FRANCISCA: E o plano de revisão: leia as sínteses e os pontos que caem na prova, refaça as questões e marque as que errou, volte às tabelas desses temas e, na véspera, revise prazos e súmulas.
-ANTONIO: É isso. Na próxima aula começamos por Língua Portuguesa. Até lá!
+FRANCISCA: E qual disciplina pesa mais?
+THALITA: Para os cargos um e dois, o peso decisivo está nos conhecimentos específicos. Direito do Trabalho e Processo do Trabalho costumam reunir o maior número de questões da prova objetiva.
+FRANCISCA: E para o Oficial de Justiça, a execução trabalhista é o assunto que mais conversa com o dia a dia do cargo: citação, penhora, avaliação, praça e leilão e embargos. Mesmo assim, confira a distribuição exata no quadro de provas do edital.
+THALITA: Nas próximas aulas, cada disciplina terá o seu núcleo de maior incidência destacado. Em Português, por exemplo, crase, concordância verbal e vírgula. Em Processo do Trabalho, competência, arquivamento e revelia, recursos e execução.
+FRANCISCA: Então deixa eu fazer o resumo relâmpago desta aula. Primeiro, o material serve aos três cargos, e cada um tem a sua lista. Segundo, a FCC se repete em poucos dispositivos: CLT, súmulas do TST, Leis oito mil cento e doze e nove mil setecentos e oitenta e quatro, os artigos centrais da Constituição e o Regimento. Terceiro, ela erra sempre do mesmo jeito: número trocado, órgão trocado, modal trocado e exceção virando regra.
+THALITA: E o plano de revisão: leia as sínteses e os pontos que caem na prova, refaça as questões e marque as que errou, volte às tabelas desses temas e, na véspera, revise prazos e súmulas.
+FRANCISCA: É isso. Na próxima aula começamos por Língua Portuguesa. Até lá!

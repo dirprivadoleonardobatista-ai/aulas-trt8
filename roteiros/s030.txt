@@ -5,29 +5,29 @@ SEGMENTO s030
 * Seções Especializadas: MS contra seus atos e de juízes de 1º grau (art. 29, I, b)
 * SE I exclusiva: dissídios coletivos, revisão e extensão, greve (art. 30)
 * Gabarito: C
-ANTONIO: Terminamos a teoria da parte dois. Agora vamos treinar com questões no estilo da FCC. Questão um. A empresa Alfa Limitada quer impetrar mandado de segurança contra decisão interlocutória do Juiz Titular da terceira Vara do Trabalho de Belém. Quem tem competência originária? A, o Tribunal Pleno. B, uma das Turmas. C, as Seções Especializadas. D, exclusivamente a Seção Especializada I, presidida pelo Vice-Presidente. E, o Corregedor, por correição parcial, vedado o mandado de segurança. Pausa para você pensar.
+FRANCISCA: Terminamos a teoria da parte dois. Agora vamos treinar com questões no estilo da FCC. Questão um. A empresa Alfa Limitada quer impetrar mandado de segurança contra decisão interlocutória do Juiz Titular da terceira Vara do Trabalho de Belém. Quem tem competência originária? A, o Tribunal Pleno. B, uma das Turmas. C, as Seções Especializadas. D, exclusivamente a Seção Especializada I, presidida pelo Vice-Presidente. E, o Corregedor, por correição parcial, vedado o mandado de segurança. Pausa para você pensar.
 THALITA: Eu iria na A. É ação originária, então Pleno.
 FRANCISCA: Boa tentativa, mas o Pleno julga mandado de segurança contra os próprios atos, de Seção, de Turma ou de Desembargador. É o artigo vinte e três, inciso um, alínea b. Ato de juiz de primeiro grau não está nesse rol.
-BRUNO: A letra A é a isca de quem pensa que originário é Pleno. A B também é isca. As Turmas julgam recursos, artigo trinta e cinco, e não têm competência para mandado de segurança originário.
-ANTONIO: A correta é a C. Compete às Seções Especializadas julgar mandado de segurança contra seus próprios atos e de juízes de primeiro grau da oitava região. Artigo vinte e nove, inciso um, alínea b.
+THALITA: A letra A é a isca de quem pensa que originário é Pleno. A B também é isca. As Turmas julgam recursos, artigo trinta e cinco, e não têm competência para mandado de segurança originário.
+FRANCISCA: A correta é a C. Compete às Seções Especializadas julgar mandado de segurança contra seus próprios atos e de juízes de primeiro grau da oitava região. Artigo vinte e nove, inciso um, alínea b.
 THALITA: E a D? Parece específica demais.
 FRANCISCA: Justamente. A competência exclusiva da Seção Especializada I se limita a dissídios coletivos, revisão e extensão de sentença normativa e ações de greve. É o artigo trinta.
-BRUNO: A E tem duas falhas. A correição parcial só cabe quando não houver recurso legal, artigo quarenta e três, inciso cinco, e ela não afasta o mandado de segurança. Além disso, a palavra vedado é sinal de alerta: ninguém está proibido de impetrar mandado de segurança.
-THALITA: Macete: ato de juiz de primeiro grau, mandado de segurança vai para Seção. Gabarito C.
+THALITA: A E tem duas falhas. A correição parcial só cabe quando não houver recurso legal, artigo quarenta e três, inciso cinco, e ela não afasta o mandado de segurança. Além disso, a palavra vedado é sinal de alerta: ninguém está proibido de impetrar mandado de segurança.
+FRANCISCA: Macete: ato de juiz de primeiro grau, mandado de segurança vai para Seção. Gabarito C.
 == SLIDE: Questão 2: eleição dos cargos de direção
 * Primeira quinzena de outubro, escrutínio único e secreto (art. 14, § 2º)
 * Concorrem os 3 Desembargadores mais antigos não impedidos pela LOMAN
 * Reeleição vedada; posse até 8 de dezembro; maioria absoluta dos votos válidos
 * Vaga antes de 1 ano: nova eleição; depois, o Vice exerce a Presidência
 * Ordem: Presidente, Vice-Presidente, Corregedor; gabarito A
-ANTONIO: Questão dois. Sobre a eleição dos cargos de direção do Tribunal, é correto afirmar: A, a eleição ocorre na primeira quinzena de outubro, em escrutínio único e secreto, e concorrem exclusivamente os três Desembargadores mais antigos não alcançados pelos impedimentos da Lei Orgânica da Magistratura Nacional. B, o mandato é de dois anos, permitida uma reeleição, com posse até oito de janeiro. C, será eleito quem obtiver maioria simples e, no empate, o mais idoso. D, vaga de Presidente depois do primeiro ano gera nova eleição na sessão seguinte, com posse imediata. E, a eleição do Corregedor precede a do Vice-Presidente. Pense um pouco.
-THALITA: Parece que a A é longa demais para estar certa... mas eu arriscaria a B.
-BRUNO: A letra A é a correta, e ela reproduz o artigo catorze, parágrafo segundo. Questão cópia da lei: quando a alternativa é longa e detalhada, desconfie, mas confira. A banca nem sempre inventa.
+THALITA: Questão dois. Sobre a eleição dos cargos de direção do Tribunal, é correto afirmar: A, a eleição ocorre na primeira quinzena de outubro, em escrutínio único e secreto, e concorrem exclusivamente os três Desembargadores mais antigos não alcançados pelos impedimentos da Lei Orgânica da Magistratura Nacional. B, o mandato é de dois anos, permitida uma reeleição, com posse até oito de janeiro. C, será eleito quem obtiver maioria simples e, no empate, o mais idoso. D, vaga de Presidente depois do primeiro ano gera nova eleição na sessão seguinte, com posse imediata. E, a eleição do Corregedor precede a do Vice-Presidente. Pense um pouco.
+FRANCISCA: Parece que a A é longa demais para estar certa... mas eu arriscaria a B.
+THALITA: A letra A é a correta, e ela reproduz o artigo catorze, parágrafo segundo. Questão cópia da lei: quando a alternativa é longa e detalhada, desconfie, mas confira. A banca nem sempre inventa.
 FRANCISCA: A B tem dois erros. A reeleição é vedada, e a posse é até oito de dezembro, não de janeiro. Está no parágrafo terceiro.
-ANTONIO: A C erra duas vezes. Exige-se maioria absoluta dos votos válidos, parágrafo quinto. No empate, há novo escrutínio, e, persistindo, vence o mais antigo. Só com igual antiguidade se chega ao mais idoso, parágrafo sexto.
-THALITA: Então mais idoso é só o último critério. Entendi.
-FRANCISCA: Na D, a nova eleição só ocorre se a vaga surgir antes de um ano de mandato, parágrafo sétimo. Depois do primeiro ano, o Vice exerce a Presidência pelo tempo restante, parágrafo oitavo.
-BRUNO: A E inverte a ordem. A sequência é Presidente, Vice-Presidente e Corregedor, artigo dezoito, inciso seis.
+THALITA: A C erra duas vezes. Exige-se maioria absoluta dos votos válidos, parágrafo quinto. No empate, há novo escrutínio, e, persistindo, vence o mais antigo. Só com igual antiguidade se chega ao mais idoso, parágrafo sexto.
+FRANCISCA: Então mais idoso é só o último critério. Entendi.
+THALITA: Na D, a nova eleição só ocorre se a vaga surgir antes de um ano de mandato, parágrafo sétimo. Depois do primeiro ano, o Vice exerce a Presidência pelo tempo restante, parágrafo oitavo.
+FRANCISCA: A E inverte a ordem. A sequência é Presidente, Vice-Presidente e Corregedor, artigo dezoito, inciso seis.
 THALITA: Macete da ordem: P, V, C, como no organograma. Gabarito A.
 == SLIDE: Questão 3: empate nos julgamentos
 * I. Turma: desempata o Vice-Presidente (art. 152; art. 38, VII)
@@ -35,29 +35,29 @@ THALITA: Macete da ordem: P, V, C, como no organograma. Gabarito A.
 * III. Pleno em inconstitucionalidade: Presidente vota como membro (art. 37, XXI)
 * Declaração exige maioria absoluta (art. 181)
 * Gabarito: E (apenas o item I)
-ANTONIO: Questão três. Considere as situações de empate. Item um: empatado o julgamento em uma Turma, convoca-se o Vice-Presidente para o voto de desempate. Item dois: empatado em uma Seção, o desempate cabe ao Presidente do Tribunal. Item três: empatada a votação no Pleno sobre arguição de inconstitucionalidade, o Presidente profere o voto de desempate. Qual está correto? A, todos. B, só o dois. C, um e três. D, dois e três. E, só o um. Pausa para pensar.
+FRANCISCA: Questão três. Considere as situações de empate. Item um: empatado o julgamento em uma Turma, convoca-se o Vice-Presidente para o voto de desempate. Item dois: empatado em uma Seção, o desempate cabe ao Presidente do Tribunal. Item três: empatada a votação no Pleno sobre arguição de inconstitucionalidade, o Presidente profere o voto de desempate. Qual está correto? A, todos. B, só o dois. C, um e três. D, dois e três. E, só o um. Pausa para pensar.
 THALITA: Eu acho que o três está certo, porque o Presidente desempata no Pleno.
 FRANCISCA: No Pleno, em regra sim. Mas o artigo trinta e sete, inciso vinte e um, ressalva a hipótese de inconstitucionalidade. Nesse caso, ele vota como membro, e a declaração depende de maioria absoluta, artigo cento e oitenta e um.
-BRUNO: Esse é o tipo de exceção que a FCC adora. O item três é pegadinha pura.
-ANTONIO: O item dois também está errado. Pelo artigo vinte e oito-A, o empate na Seção é resolvido por quem estiver presidindo a outra Seção, e não pelo Presidente do Tribunal.
+THALITA: Esse é o tipo de exceção que a FCC adora. O item três é pegadinha pura.
+FRANCISCA: O item dois também está errado. Pelo artigo vinte e oito-A, o empate na Seção é resolvido por quem estiver presidindo a outra Seção, e não pelo Presidente do Tribunal.
 THALITA: Então só o um sobrou. Turma, Vice-Presidente. Está certo?
 FRANCISCA: Certíssimo. O item um reproduz o artigo cento e cinquenta e dois, caput, e vale ver também o artigo trinta e oito, inciso sete.
-BRUNO: Então vamos alternativa por alternativa. A está errada, pois dois e três são falsos. B está errada, pela regra da outra Seção. C está errada, pelo item três. D está errada, pelos dois motivos. E está correta.
-THALITA: Macete: Turma, Vice; Seção, presidente da outra; Pleno, Presidente, menos na inconstitucionalidade. Gabarito E.
+THALITA: Então vamos alternativa por alternativa. A está errada, pois dois e três são falsos. B está errada, pela regra da outra Seção. C está errada, pelo item três. D está errada, pelos dois motivos. E está correta.
+FRANCISCA: Macete: Turma, Vice; Seção, presidente da outra; Pleno, Presidente, menos na inconstitucionalidade. Gabarito E.
 == SLIDE: Questão 4: sustentação oral
 * 15 minutos por parte; litisconsortes: 45 minutos, até 15 cada (art. 135)
 * Originária: fala primeiro o autor; em recursos, o recorrente (art. 135, §§ 1º e 2º)
 * Não cabe em embargos de declaração nem conflito de competência (art. 133-A)
 * Advogado sem mandato não sustenta; videoconferência: até 24 horas antes
 * Gabarito: B
-ANTONIO: Questão quatro. Sobre a sustentação oral: A, cada parte tem dez minutos e, havendo litisconsortes, o total de trinta minutos é dividido entre eles. B, nos processos de competência originária, fala em primeiro lugar o autor. C, cabe sustentação em embargos de declaração e conflito de competência, se requerida até o início da sessão. D, é admitida sustentação por advogado sem mandato nos autos, se inscrito na OAB. E, a inscrição por videoconferência pode ser feita até o início da sessão. Vamos pensar.
-THALITA: Eu chuto a A. Dez minutos me lembra alguma coisa.
-BRUNO: Dez minutos lembra outro prazo. Aqui são quinze minutos por parte. Com litisconsortes, o total é de quarenta e cinco minutos, com até quinze para cada um, artigo cento e trinta e cinco e parágrafo terceiro.
+THALITA: Questão quatro. Sobre a sustentação oral: A, cada parte tem dez minutos e, havendo litisconsortes, o total de trinta minutos é dividido entre eles. B, nos processos de competência originária, fala em primeiro lugar o autor. C, cabe sustentação em embargos de declaração e conflito de competência, se requerida até o início da sessão. D, é admitida sustentação por advogado sem mandato nos autos, se inscrito na OAB. E, a inscrição por videoconferência pode ser feita até o início da sessão. Vamos pensar.
+FRANCISCA: Eu chuto a A. Dez minutos me lembra alguma coisa.
+THALITA: Dez minutos lembra outro prazo. Aqui são quinze minutos por parte. Com litisconsortes, o total é de quarenta e cinco minutos, com até quinze para cada um, artigo cento e trinta e cinco e parágrafo terceiro.
 FRANCISCA: A B é a correta, artigo cento e trinta e cinco, parágrafo segundo. Nos processos originários, o autor fala primeiro. Nos recursos, fala primeiro o recorrente, e, se ambos recorrerem, o autor, parágrafo primeiro.
-ANTONIO: A C está errada. Não há sustentação oral em embargos de declaração nem em conflito de competência, artigo cento e trinta e três-A, parágrafo segundo, incisos um e dois.
-THALITA: Então quando a banca falar em sustentação em embargos, é errado, certo?
-FRANCISCA: Certo. A D também erra: o advogado sem mandato nos autos não pode proferir sustentação oral, artigo cento e trinta e três-A, parágrafo terceiro. Ser inscrito na OAB não basta.
-BRUNO: A E é a pegadinha dos prazos. Por videoconferência, a inscrição vai até vinte e quatro horas antes da sessão. O limite do início da sessão vale para a sustentação presencial, artigo cento e trinta e três, caput.
+THALITA: A C está errada. Não há sustentação oral em embargos de declaração nem em conflito de competência, artigo cento e trinta e três-A, parágrafo segundo, incisos um e dois.
+FRANCISCA: Então quando a banca falar em sustentação em embargos, é errado, certo?
+THALITA: Certo. A D também erra: o advogado sem mandato nos autos não pode proferir sustentação oral, artigo cento e trinta e três-A, parágrafo terceiro. Ser inscrito na OAB não basta.
+FRANCISCA: A E é a pegadinha dos prazos. Por videoconferência, a inscrição vai até vinte e quatro horas antes da sessão. O limite do início da sessão vale para a sustentação presencial, artigo cento e trinta e três, caput.
 THALITA: Macete: videoconferência, vinte e quatro horas antes; presencial, até o início. Gabarito B.
 == SLIDE: Questão 5: atribuições do Corregedor Regional
 * Vice-Presidente: preside a SE I e despacha recursos de revista (arts. 15 e 38)
@@ -65,28 +65,28 @@ THALITA: Macete: videoconferência, vinte e quatro horas antes; presencial, até
 * Agravo regimental da correição parcial: 8 dias, ao Pleno (art. 52)
 * Relatório anual ao Pleno, na última sessão do mês seguinte (art. 43, XI)
 * Correição ordinária nas Varas, 1 vez por ano (art. 43, II); gabarito D
-ANTONIO: Questão cinco. Incumbe ao Corregedor Regional: A, presidir a Seção Especializada I e despachar os recursos de revista. B, decidir correições parciais apresentadas em oito dias, com agravo regimental para a Seção Especializada dois. C, apresentar ao Presidente, na primeira quinzena de fevereiro, o relatório anual da Corregedoria. D, exercer correição ordinária nos Foros e Varas da Região, obrigatoriamente uma vez por ano. E, votar para desempate nas Turmas e presidir audiências de dissídio coletivo. Pausa para pensar.
+FRANCISCA: Questão cinco. Incumbe ao Corregedor Regional: A, presidir a Seção Especializada I e despachar os recursos de revista. B, decidir correições parciais apresentadas em oito dias, com agravo regimental para a Seção Especializada dois. C, apresentar ao Presidente, na primeira quinzena de fevereiro, o relatório anual da Corregedoria. D, exercer correição ordinária nos Foros e Varas da Região, obrigatoriamente uma vez por ano. E, votar para desempate nas Turmas e presidir audiências de dissídio coletivo. Pausa para pensar.
 THALITA: A letra A parece algo do Corregedor. Presidir Seção, né?
 FRANCISCA: Presidir a Seção Especializada I e despachar os recursos de revista são atribuições do Vice-Presidente, artigos quinze e trinta e oito, inciso cinco. O Corregedor preside a Seção Especializada dois, artigo quarenta e três, inciso um.
-BRUNO: A B erra no prazo e no órgão. O prazo da correição parcial é de cinco dias, artigo quarenta e três, inciso cinco. O agravo regimental é de oito dias e vai ao Pleno, artigo cinquenta e dois.
-ANTONIO: A C mistura as coisas. O relatório anual do Corregedor vai ao Pleno, na última sessão do mês seguinte ao término de cada ano de gestão, artigo quarenta e três, inciso onze. A primeira quinzena de fevereiro é prazo do Presidente de Turma, artigo cinquenta e três, inciso onze.
+THALITA: A B erra no prazo e no órgão. O prazo da correição parcial é de cinco dias, artigo quarenta e três, inciso cinco. O agravo regimental é de oito dias e vai ao Pleno, artigo cinquenta e dois.
+FRANCISCA: A C mistura as coisas. O relatório anual do Corregedor vai ao Pleno, na última sessão do mês seguinte ao término de cada ano de gestão, artigo quarenta e três, inciso onze. A primeira quinzena de fevereiro é prazo do Presidente de Turma, artigo cinquenta e três, inciso onze.
 THALITA: Então a D é a certa: correição ordinária, uma vez por ano.
 FRANCISCA: Isso, artigo quarenta e três, inciso dois. A E, por sua vez, atribui ao Corregedor duas funções do Vice-Presidente: o voto de desempate nas Turmas e a presidência das audiências de dissídio coletivo, artigo trinta e oito, incisos três e sete.
-BRUNO: Vice-Presidente concentra desempate nas Turmas, recurso de revista, Seção I e dissídio coletivo. Corregedor concentra Seção dois, correição e relatório.
-THALITA: Macete: Corregedor corrige. Gabarito D.
+THALITA: Vice-Presidente concentra desempate nas Turmas, recurso de revista, Seção I e dissídio coletivo. Corregedor concentra Seção dois, correição e relatório.
+FRANCISCA: Macete: Corregedor corrige. Gabarito D.
 == SLIDE: Questão 6: ação rescisória de acórdão da Turma
 * Seções julgam rescisória de acórdão das Turmas (art. 29, I, c)
 * Pleno só rescinde seus próprios acórdãos (art. 23, I, c)
 * Decadência em 2 anos; não suspende a execução (arts. 211 e 214)
 * Relator do acórdão rescindendo fica excluído da distribuição (art. 213)
 * Injustiça e má apreciação da prova não autorizam (art. 212); gabarito A
-ANTONIO: Questão seis. Carla teve contra si acórdão da segunda Turma, transitado em julgado, e quer ajuizar ação rescisória. A, as Seções Especializadas processam e julgam, o direito se extingue em dois anos e a propositura não suspende a execução. B, o Pleno julga, por se tratar de acórdão do próprio Tribunal, em dois anos. C, a própria segunda Turma julga, excluído o relator do acórdão. D, as Seções processam, suspendendo automaticamente a execução. E, o Pleno julga, em cinco anos, com fundamento na injustiça da decisão ou má apreciação da prova. Pensem.
-THALITA: Eu acho que é a B. Acórdão do Tribunal, Pleno julga.
-FRANCISCA: Aí está a armadilha. O Pleno só julga rescisória de seus próprios acórdãos, artigo vinte e três, inciso um, alínea c. Acórdão de Turma vai às Seções, artigo vinte e nove, inciso um, alínea c.
-BRUNO: A A é a certa. O prazo decadencial é de dois anos, artigo duzentos e onze, e a ação não suspende a execução, artigo duzentos e catorze. Marcou A, acertou.
-ANTONIO: A C é uma meia verdade. A exclusão do relator da decisão rescindenda existe, artigo duzentos e treze, parágrafo único, mas na distribuição feita no órgão competente. A Turma não tem competência para a rescisória.
-THALITA: E a D?
-BRUNO: A D diz que suspende automaticamente. Errado, a ação não suspende a execução.
+THALITA: Questão seis. Carla teve contra si acórdão da segunda Turma, transitado em julgado, e quer ajuizar ação rescisória. A, as Seções Especializadas processam e julgam, o direito se extingue em dois anos e a propositura não suspende a execução. B, o Pleno julga, por se tratar de acórdão do próprio Tribunal, em dois anos. C, a própria segunda Turma julga, excluído o relator do acórdão. D, as Seções processam, suspendendo automaticamente a execução. E, o Pleno julga, em cinco anos, com fundamento na injustiça da decisão ou má apreciação da prova. Pensem.
+FRANCISCA: Eu acho que é a B. Acórdão do Tribunal, Pleno julga.
+THALITA: Aí está a armadilha. O Pleno só julga rescisória de seus próprios acórdãos, artigo vinte e três, inciso um, alínea c. Acórdão de Turma vai às Seções, artigo vinte e nove, inciso um, alínea c.
+FRANCISCA: A A é a certa. O prazo decadencial é de dois anos, artigo duzentos e onze, e a ação não suspende a execução, artigo duzentos e catorze. Marcou A, acertou.
+THALITA: A C é uma meia verdade. A exclusão do relator da decisão rescindenda existe, artigo duzentos e treze, parágrafo único, mas na distribuição feita no órgão competente. A Turma não tem competência para a rescisória.
+FRANCISCA: E a D?
+THALITA: A D diz que suspende automaticamente. Errado, a ação não suspende a execução.
 FRANCISCA: A E erra o órgão, erra o prazo, que é de dois anos, não cinco, e erra o fundamento. Injustiça da sentença e má apreciação da prova não autorizam a rescisória, artigo duzentos e doze.
 THALITA: Macete: acórdão de Turma, rescisória na Seção; dois anos; sem suspensão. Gabarito A.
 == SLIDE: Questão 7: organização do Tribunal
@@ -95,29 +95,29 @@ THALITA: Macete: acórdão de Turma, rescisória na Seção; dois anos; sem susp
 * 4 Turmas de 5 Desembargadores, 3 julgam; sem Presidente, Vice e Corregedor
 * Seções: quórum de 6, incluindo o Presidente, que vota como os demais
 * Ouvidoria não está no art. 3º (art. 293, § 1º); gabarito C
-ANTONIO: Questão sete, de Técnico Judiciário. Sobre a organização do Tribunal: A, vinte e quatro Desembargadores, sendo dezenove da carreira e cinco do quinto constitucional. B, a Seção Especializada um é presidida pelo Corregedor e a dois, pelo Vice-Presidente. C, quatro Turmas de cinco Desembargadores, dos quais três participam do julgamento, e delas não participam o Presidente, o Vice e o Corregedor. D, as Seções deliberam com no mínimo oito Desembargadores, excluído o Presidente, que só vota em caso de empate. E, a Ouvidoria figura entre os órgãos do Tribunal. Pausa.
+FRANCISCA: Questão sete, de Técnico Judiciário. Sobre a organização do Tribunal: A, vinte e quatro Desembargadores, sendo dezenove da carreira e cinco do quinto constitucional. B, a Seção Especializada um é presidida pelo Corregedor e a dois, pelo Vice-Presidente. C, quatro Turmas de cinco Desembargadores, dos quais três participam do julgamento, e delas não participam o Presidente, o Vice e o Corregedor. D, as Seções deliberam com no mínimo oito Desembargadores, excluído o Presidente, que só vota em caso de empate. E, a Ouvidoria figura entre os órgãos do Tribunal. Pausa.
 THALITA: Fui na B... mas acho que errei a ordem.
 FRANCISCA: Errou. A ordem está invertida: o Vice preside a Seção I e o Corregedor, a Seção dois, artigos quinze e vinte e sete.
-BRUNO: A A erra o número. São vinte e três Desembargadores: dezoito de carreira, dois advogados, dois membros do Ministério Público do Trabalho e uma vaga alternada, artigo segundo.
-ANTONIO: A C é a correta, artigos trinta e um e trinta e dois. Quatro Turmas, de cinco Desembargadores cada, mas só três participam do julgamento. O Presidente, o Vice e o Corregedor não integram as Turmas.
+THALITA: A A erra o número. São vinte e três Desembargadores: dezoito de carreira, dois advogados, dois membros do Ministério Público do Trabalho e uma vaga alternada, artigo segundo.
+FRANCISCA: A C é a correta, artigos trinta e um e trinta e dois. Quatro Turmas, de cinco Desembargadores cada, mas só três participam do julgamento. O Presidente, o Vice e o Corregedor não integram as Turmas.
 THALITA: E a D? Oito me parecia razoável.
 FRANCISCA: O quórum das Seções é de seis, incluindo o Presidente, artigo vinte e oito. E o Presidente da Seção vota como os demais, parágrafo quarto.
-BRUNO: A E tenta enganar: a Ouvidoria não consta do artigo terceiro, que lista os órgãos do Tribunal. Ela aparece no artigo duzentos e noventa e três, parágrafo primeiro, como unidade vinculada à Presidência.
-THALITA: Macete: vinte e três, quatro Turmas, três julgam. Gabarito C.
+THALITA: A E tenta enganar: a Ouvidoria não consta do artigo terceiro, que lista os órgãos do Tribunal. Ela aparece no artigo duzentos e noventa e três, parágrafo primeiro, como unidade vinculada à Presidência.
+FRANCISCA: Macete: vinte e três, quatro Turmas, três julgam. Gabarito C.
 == SLIDE: Questão 8: embargos de declaração
 * Prazo de 5 dias; independem de pauta (arts. 266 e 122, II)
 * Cabem contra decisões dos órgãos e de seus membros
 * Interrompem o prazo, salvo intempestivos, sem assinatura ou representação irregular
 * Multa de até 2% na 1ª vez; até 10% na reiteração (art. 266, § 9º)
 * Após 2 protelatórios, não se admitem novos (art. 266, § 10); gabarito E
-ANTONIO: Questão oito. Sobre os embargos de declaração: A, são opostos em oito dias e dependem de inclusão em pauta. B, só cabem contra acórdãos, e não contra decisões monocráticas. C, não interrompem o prazo para outros recursos, salvo se acolhidos com efeito modificativo. D, quando protelatórios, sujeitam o embargante, já na primeira vez, a multa de até dez por cento do valor da causa. E, não serão admitidos novos embargos se os dois anteriores foram considerados protelatórios. Pensem um instante.
-THALITA: Eu fico entre a A e a D. Oito dias é o normal, não é?
-FRANCISCA: Oito dias é o normal para os outros recursos. Para embargos, o prazo é de cinco dias, artigo duzentos e sessenta e seis, e eles independem de pauta, artigo cento e vinte e dois, inciso dois.
-BRUNO: A B é falsa porque cabem contra decisões do Pleno, das Seções e das Turmas, e também por seus membros. Já a C erra a regra: os embargos interrompem o prazo, salvo se intempestivos, com representação irregular ou sem assinatura, artigo duzentos e sessenta e sete.
-ANTONIO: A D inverte a multa. Na primeira vez, é de até dois por cento. O patamar de até dez por cento vale para a reiteração, artigo duzentos e sessenta e seis, parágrafo nono.
-THALITA: Então a E é a certa. Depois de dois protelatórios, não admite mais.
-FRANCISCA: Isso, parágrafo décimo do artigo duzentos e sessenta e seis.
-BRUNO: Resumo: cinco dias, sem pauta, interrompem, dois por cento e dez por cento, e dois protelatórios trancam a porta.
+THALITA: Questão oito. Sobre os embargos de declaração: A, são opostos em oito dias e dependem de inclusão em pauta. B, só cabem contra acórdãos, e não contra decisões monocráticas. C, não interrompem o prazo para outros recursos, salvo se acolhidos com efeito modificativo. D, quando protelatórios, sujeitam o embargante, já na primeira vez, a multa de até dez por cento do valor da causa. E, não serão admitidos novos embargos se os dois anteriores foram considerados protelatórios. Pensem um instante.
+FRANCISCA: Eu fico entre a A e a D. Oito dias é o normal, não é?
+THALITA: Oito dias é o normal para os outros recursos. Para embargos, o prazo é de cinco dias, artigo duzentos e sessenta e seis, e eles independem de pauta, artigo cento e vinte e dois, inciso dois.
+FRANCISCA: A B é falsa porque cabem contra decisões do Pleno, das Seções e das Turmas, e também por seus membros. Já a C erra a regra: os embargos interrompem o prazo, salvo se intempestivos, com representação irregular ou sem assinatura, artigo duzentos e sessenta e sete.
+THALITA: A D inverte a multa. Na primeira vez, é de até dois por cento. O patamar de até dez por cento vale para a reiteração, artigo duzentos e sessenta e seis, parágrafo nono.
+FRANCISCA: Então a E é a certa. Depois de dois protelatórios, não admite mais.
+THALITA: Isso, parágrafo décimo do artigo duzentos e sessenta e seis.
+FRANCISCA: Resumo: cinco dias, sem pauta, interrompem, dois por cento e dez por cento, e dois protelatórios trancam a porta.
 THALITA: Macete: embargo é cinco, o resto é oito. Gabarito E.
 == SLIDE: Questão 9: convocação por afastamento de 90 dias
 * Afastamento superior a 30 dias: convoca-se Juiz Titular de Vara
@@ -125,13 +125,13 @@ THALITA: Macete: embargo é cinco, o resto é oito. Gabarito E.
 * Maioria absoluta do Pleno; alterna antiguidade e merecimento
 * Não pode ser prorrogada (art. 78, § 1º)
 * Até 30 dias: Presidente da Turma (art. 79); gabarito B
-ANTONIO: Questão nove, a última deste segmento. O Desembargador Márcio afastou-se por noventa dias para tratamento de saúde. Conforme o regimento: A, o Presidente da Turma convoca qualquer Juiz Titular de Vara, admitida a prorrogação. B, poderá ser convocado Juiz Titular da primeira quinta parte da lista de antiguidade, por maioria absoluta do Pleno, alternadamente por antiguidade e merecimento, vedada a prorrogação. C, convocação por dois terços dos membros e sempre do Juiz Titular mais antigo. D, poderá ser convocado Juiz Substituto da primeira metade da lista, até vinte por cento das Varas. E, a convocação é vedada. Pausa.
+FRANCISCA: Questão nove, a última deste segmento. O Desembargador Márcio afastou-se por noventa dias para tratamento de saúde. Conforme o regimento: A, o Presidente da Turma convoca qualquer Juiz Titular de Vara, admitida a prorrogação. B, poderá ser convocado Juiz Titular da primeira quinta parte da lista de antiguidade, por maioria absoluta do Pleno, alternadamente por antiguidade e merecimento, vedada a prorrogação. C, convocação por dois terços dos membros e sempre do Juiz Titular mais antigo. D, poderá ser convocado Juiz Substituto da primeira metade da lista, até vinte por cento das Varas. E, a convocação é vedada. Pausa.
 THALITA: Eu iria na A. O Presidente da Turma resolve, é mais prático.
 FRANCISCA: O Presidente da Turma convoca para afastamentos de até trinta dias, quando o quórum fica comprometido, artigo setenta e nove. Acima de trinta dias, a convocação não pode ser prorrogada, artigo setenta e oito, parágrafo primeiro.
-BRUNO: A B é a correta, artigo setenta e oito, caput e parágrafo primeiro. O limite é de dez por cento do total de Varas da Região.
-ANTONIO: A C tem quórum errado. É maioria absoluta, e a escolha alterna antiguidade e merecimento, não recai sempre no mais antigo.
+THALITA: A B é a correta, artigo setenta e oito, caput e parágrafo primeiro. O limite é de dez por cento do total de Varas da Região.
+FRANCISCA: A C tem quórum errado. É maioria absoluta, e a escolha alterna antiguidade e merecimento, não recai sempre no mais antigo.
 THALITA: E a D? Substituto, metade...
 FRANCISCA: Só pode ser convocado Juiz Titular, da primeira quinta parte da lista, até dez por cento das Varas. Substituto, primeira metade e vinte por cento são três erros de uma vez.
-BRUNO: A E é absurda: o afastamento por mais de trinta dias autoriza expressamente a convocação, artigo setenta e oito.
-THALITA: Macete: mais de trinta dias, Pleno, quinta parte, dez por cento, sem prorrogação. Gabarito B.
-ANTONIO: Muito bem. No próximo segmento, resolvemos a segunda parte das questões comentadas.
+THALITA: A E é absurda: o afastamento por mais de trinta dias autoriza expressamente a convocação, artigo setenta e oito.
+FRANCISCA: Macete: mais de trinta dias, Pleno, quinta parte, dez por cento, sem prorrogação. Gabarito B.
+THALITA: Muito bem. No próximo segmento, resolvemos a segunda parte das questões comentadas.

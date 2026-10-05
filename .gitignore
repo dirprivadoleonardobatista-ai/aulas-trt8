@@ -3,3 +3,5 @@ saida/
 __pycache__/
 *.pyc
 amostras_vozes/
+.cache_teste/
+aulas/

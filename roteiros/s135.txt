@@ -4,43 +4,43 @@ SEGMENTO s135
 * I: despedida arbitrária; multa de 40% do FGTS
 * IV, VI, VII: salário mínimo, irredutibilidade, remuneração variável
 * VIII, IX, XI: 13º, adicional noturno, PLR
-ANTONIO: Depois de ver os princípios e as fontes, vamos aos direitos que a Constituição garante, no artigo sétimo. É um rol mínimo: o caput fala em outros direitos que visem à melhoria da condição social do trabalhador. São trinta e quatro incisos, e vamos aos mais cobrados.
+FRANCISCA: Depois de ver os princípios e as fontes, vamos aos direitos que a Constituição garante, no artigo sétimo. É um rol mínimo: o caput fala em outros direitos que visem à melhoria da condição social do trabalhador. São trinta e quatro incisos, e vamos aos mais cobrados.
 THALITA: Por onde começo?
 FRANCISCA: Pelo inciso primeiro: proteção contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, com indenização compensatória. A lei complementar nunca foi editada, e por isso se aplica a multa de quarenta por cento do FGTS, prevista no ato das disposições transitórias.
-BRUNO: O inciso quarto garante salário mínimo fixado em lei, nacionalmente unificado, vedada a vinculação para qualquer fim. A Súmula Vinculante quatro diz que o salário mínimo não pode ser usado como indexador de base de cálculo. O inciso quinto traz o piso salarial proporcional à extensão e à complexidade do trabalho.
-THALITA: E a irredutibilidade salarial?
-ANTONIO: Inciso sexto: o salário é irredutível, salvo convenção ou acordo coletivo. A redução só ocorre por negociação coletiva, nunca por acordo individual.
-BRUNO: Essa é pegadinha frequente: acordo individual não reduz salário.
-FRANCISCA: O inciso sétimo garante que quem recebe remuneração variável nunca ganhe menos que o mínimo. O oitavo, décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria. O nono, remuneração do trabalho noturno superior à do diurno.
-THALITA: Quanto é o adicional noturno?
-BRUNO: A CLT fixa vinte por cento para o urbano, e a lei do rural, vinte e cinco. O inciso décimo primeiro garante participação nos lucros ou resultados, desvinculada da remuneração e, excepcionalmente, participação na gestão. Atenção: a PLR não tem natureza salarial.
-THALITA: Macete: PLR é fora do salário.
+THALITA: O inciso quarto garante salário mínimo fixado em lei, nacionalmente unificado, vedada a vinculação para qualquer fim. A Súmula Vinculante quatro diz que o salário mínimo não pode ser usado como indexador de base de cálculo. O inciso quinto traz o piso salarial proporcional à extensão e à complexidade do trabalho.
+FRANCISCA: E a irredutibilidade salarial?
+THALITA: Inciso sexto: o salário é irredutível, salvo convenção ou acordo coletivo. A redução só ocorre por negociação coletiva, nunca por acordo individual.
+FRANCISCA: Essa é pegadinha frequente: acordo individual não reduz salário.
+THALITA: O inciso sétimo garante que quem recebe remuneração variável nunca ganhe menos que o mínimo. O oitavo, décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria. O nono, remuneração do trabalho noturno superior à do diurno.
+FRANCISCA: Quanto é o adicional noturno?
+THALITA: A CLT fixa vinte por cento para o urbano, e a lei do rural, vinte e cinco. O inciso décimo primeiro garante participação nos lucros ou resultados, desvinculada da remuneração e, excepcionalmente, participação na gestão. Atenção: a PLR não tem natureza salarial.
+FRANCISCA: Macete: PLR é fora do salário.
 == SLIDE: Jornada, férias, licenças e aviso prévio
 * XIII e XIV: 8 horas diárias, 44 semanais; turnos de 6 horas
 * XV, XVI, XVII: repouso, hora extra de 50%, férias com 1/3
 * XVIII e XIX: licença-gestante de 120 dias; paternidade
 * XXI: aviso prévio de 30 dias mais 3 por ano, até 90
-ANTONIO: Inciso décimo terceiro: jornada de até oito horas diárias e quarenta e quatro semanais, facultadas compensação e redução por acordo ou convenção coletiva. O décimo quarto traz jornada de seis horas em turnos ininterruptos de revezamento, salvo negociação coletiva.
-THALITA: E o repouso semanal? Obrigatoriamente aos domingos?
-BRUNO: Pegadinha! O inciso décimo quinto fala em repouso semanal remunerado, preferencialmente aos domingos. Dizer obrigatoriamente é erro.
+THALITA: Inciso décimo terceiro: jornada de até oito horas diárias e quarenta e quatro semanais, facultadas compensação e redução por acordo ou convenção coletiva. O décimo quarto traz jornada de seis horas em turnos ininterruptos de revezamento, salvo negociação coletiva.
+FRANCISCA: E o repouso semanal? Obrigatoriamente aos domingos?
+THALITA: Pegadinha! O inciso décimo quinto fala em repouso semanal remunerado, preferencialmente aos domingos. Dizer obrigatoriamente é erro.
 FRANCISCA: O décimo sexto trata da hora extra com adicional mínimo de cinquenta por cento. O décimo sétimo, de férias anuais remuneradas com pelo menos um terço a mais do que o salário normal.
 THALITA: Licença-gestante são cento e vinte dias?
-ANTONIO: Sim, inciso décimo oitavo: cento e vinte dias, sem prejuízo do emprego e do salário. Pela Empresa Cidadã, Lei onze mil setecentos e setenta, de dois mil e oito, a empresa pode prorrogar por mais sessenta dias.
-FRANCISCA: A licença-paternidade, inciso décimo nono, é nos termos da lei. Enquanto não regulamentada, vale o prazo de cinco dias do ato das disposições transitórias. Na Empresa Cidadã, são mais quinze dias. O Supremo reconheceu a omissão legislativa na ADO vinte e fixou prazo ao Congresso. Vale conferir se a lei foi publicada antes do edital.
-BRUNO: Inciso vigésimo primeiro: aviso prévio proporcional ao tempo de serviço, de no mínimo trinta dias. A Lei doze mil quinhentos e seis, de dois mil e onze, acrescenta três dias por ano completo de serviço, até noventa dias no total.
+FRANCISCA: Sim, inciso décimo oitavo: cento e vinte dias, sem prejuízo do emprego e do salário. Pela Empresa Cidadã, Lei onze mil setecentos e setenta, de dois mil e oito, a empresa pode prorrogar por mais sessenta dias.
+THALITA: A licença-paternidade, inciso décimo nono, é nos termos da lei. Enquanto não regulamentada, vale o prazo de cinco dias do ato das disposições transitórias. Na Empresa Cidadã, são mais quinze dias. O Supremo reconheceu a omissão legislativa na ADO vinte e fixou prazo ao Congresso. Vale conferir se a lei foi publicada antes do edital.
+FRANCISCA: Inciso vigésimo primeiro: aviso prévio proporcional ao tempo de serviço, de no mínimo trinta dias. A Lei doze mil quinhentos e seis, de dois mil e onze, acrescenta três dias por ano completo de serviço, até noventa dias no total.
 THALITA: Trinta mais três por ano, teto de noventa. Quer dizer que com vinte anos chego ao teto.
-ANTONIO: Isso mesmo: vinte anos completos, trinta mais sessenta, noventa dias.
+FRANCISCA: Isso mesmo: vinte anos completos, trinta mais sessenta, noventa dias.
 == SLIDE: Incisos finais: creche, acidente, prescrição e menores
 * XXV: creche até 5 anos
 * XXVIII: seguro acidente e responsabilidade; Tema 932
 * XXIX: prescrição de 5 anos, até 2 após o contrato
 * XXXIII: menores; aprendiz a partir de 14
-FRANCISCA: O inciso vigésimo quinto garante assistência gratuita aos filhos e dependentes, do nascimento até cinco anos, em creches e pré-escolas. Provas antigas diziam seis anos, o texto anterior à Emenda cinquenta e três, de dois mil e seis.
-BRUNO: O vigésimo sexto reconhece as convenções e acordos coletivos. O vigésimo oitavo prevê seguro contra acidentes de trabalho a cargo do empregador, sem excluir a indenização a que este está obrigado quando incorrer em dolo ou culpa. E o Supremo, no Tema novecentos e trinta e dois, admite a responsabilidade objetiva em atividades de risco.
+THALITA: O inciso vigésimo quinto garante assistência gratuita aos filhos e dependentes, do nascimento até cinco anos, em creches e pré-escolas. Provas antigas diziam seis anos, o texto anterior à Emenda cinquenta e três, de dois mil e seis.
+FRANCISCA: O vigésimo sexto reconhece as convenções e acordos coletivos. O vigésimo oitavo prevê seguro contra acidentes de trabalho a cargo do empregador, sem excluir a indenização a que este está obrigada quando incorrer em dolo ou culpa. E o Supremo, no Tema novecentos e trinta e dois, admite a responsabilidade objetiva em atividades de risco.
 THALITA: E prescrição?
-ANTONIO: Inciso vigésimo nono: cinco anos, até o limite de dois anos após a extinção do contrato. Vale para urbanos e rurais.
-FRANCISCA: O trigésimo proíbe diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil.
-BRUNO: O inciso trigésimo terceiro proíbe trabalho noturno, perigoso ou insalubre a menores de dezoito anos, e qualquer trabalho a menores de dezesseis, salvo como aprendiz, a partir de quatorze. A FCC troca isso: aprendiz é a partir de quatorze, não de dezesseis.
+FRANCISCA: Inciso vigésimo nono: cinco anos, até o limite de dois anos após a extinção do contrato. Vale para urbanos e rurais.
+THALITA: O trigésimo proíbe diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil.
+FRANCISCA: O inciso trigésimo terceiro proíbe trabalho noturno, perigoso ou insalubre a menores de dezoito anos, e qualquer trabalho a menores de dezesseis, salvo como aprendiz, a partir de quatorze. A FCC troca isso: aprendiz é a partir de quatorze, não de dezesseis.
 THALITA: E o trigésimo quarto?
 FRANCISCA: Igualdade de direitos entre o trabalhador com vínculo permanente e o avulso. Esse não se estende ao doméstico.
 == SLIDE: Parágrafo único e domésticos
@@ -48,13 +48,13 @@ FRANCISCA: Igualdade de direitos entre o trabalhador com vínculo permanente e o
 * Dependentes de lei: I, II, III, IX, XII, XXV, XXVIII
 * Não assegurados: V, XI, XIV, XX, XXIII, XXVII, XXIX, XXXII, XXXIV
 * Macete: FGTS-família-noite
-ANTONIO: O parágrafo único, com a Emenda setenta e dois, de dois mil e treze, define quais direitos se estendem aos domésticos. Três grupos: os de aplicação imediata, os dependentes de regulamentação e os não assegurados pela Constituição.
-THALITA: Quais são de aplicação imediata?
-FRANCISCA: Salário mínimo, irredutibilidade, remuneração variável, décimo terceiro, proteção do salário, jornada, repouso semanal, hora extra, férias com um terço, licença-gestante, licença-paternidade, aviso prévio, normas de saúde e segurança, redução de riscos, reconhecimento de convenções coletivas, proibição de discriminação e proibição do trabalho do menor.
-BRUNO: Os dependentes de regulamentação vieram com a Lei Complementar cento e cinquenta, de dois mil e quinze: despedida arbitrária, seguro-desemprego, FGTS, adicional noturno, salário-família, creche e pré-escola e seguro contra acidentes, além da integração à previdência.
+THALITA: O parágrafo único, com a Emenda setenta e dois, de dois mil e treze, define quais direitos se estendem aos domésticos. Três grupos: os de aplicação imediata, os dependentes de regulamentação e os não assegurados pela Constituição.
+FRANCISCA: Quais são de aplicação imediata?
+THALITA: Salário mínimo, irredutibilidade, remuneração variável, décimo terceiro, proteção do salário, jornada, repouso semanal, hora extra, férias com um terço, licença-gestante, licença-paternidade, aviso prévio, normas de saúde e segurança, redução de riscos, reconhecimento de convenções coletivas, proibição de discriminação e proibição do trabalho do menor.
+FRANCISCA: Os dependentes de regulamentação vieram com a Lei Complementar cento e cinquenta, de dois mil e quinze: despedida arbitrária, seguro-desemprego, FGTS, adicional noturno, salário-família, creche e pré-escola e seguro contra acidentes, além da integração à previdência.
 THALITA: Dá para lembrar com macete? Sete incisos é muita coisa.
-BRUNO: FGTS-família-noite: despedida, seguro-desemprego, FGTS, noturno, salário-família, creche, seguro acidente.
-ANTONIO: Os não assegurados pela Constituição: piso salarial, PLR, turnos de revezamento, proteção do mercado da mulher, adicionais de insalubridade, periculosidade e penosidade, proteção contra a automação, prescrição, proibição de distinção entre trabalho manual, técnico e intelectual, e igualdade com o avulso.
+FRANCISCA: FGTS-família-noite: despedida, seguro-desemprego, FGTS, noturno, salário-família, creche, seguro acidente.
+THALITA: Os não assegurados pela Constituição: piso salarial, PLR, turnos de revezamento, proteção do mercado da mulher, adicionais de insalubridade, periculosidade e penosidade, proteção contra a automação, prescrição, proibição de distinção entre trabalho manual, técnico e intelectual, e igualdade com o avulso.
 FRANCISCA: Embora a prescrição não esteja no parágrafo único, o artigo quarenta e três da Lei Complementar cento e cinquenta aplica ao doméstico a mesma prescrição de cinco anos, com limite de dois anos após o fim do contrato.
 THALITA: Deixa eu fechar essa parte com o meu resumo. Doméstico tem os direitos básicos já valendo, como mínimo, décimo terceiro, jornada, hora extra, férias e licenças. Os sete da regulamentação vieram com a lei complementar. E o que não tem é o que depende de condição especial da atividade, como piso, PLR, turnos, insalubridade e prescrição pela Constituição. Vou repetir isso até a prova, porque a FCC adora cobrar o grupo.
 == SLIDE: Lei Complementar 150: panorama do doméstico
@@ -62,40 +62,40 @@ THALITA: Deixa eu fechar essa parte com o meu resumo. Doméstico tem os direitos
 * Idade mínima 18; jornada 8 e 44; doze por trinta e seis por acordo escrito
 * FGTS 8% mais 3,2% para indenização; seguro-desemprego até 3 parcelas
 * Experiência 90 dias; férias 30 dias fracionáveis em 2 períodos
-BRUNO: Panorama da lei do doméstico. O conceito: serviço contínuo, subordinado, oneroso, pessoal e sem finalidade lucrativa, prestado a pessoa ou família, no âmbito residencial, por mais de dois dias por semana. Menos que isso é diarista, que não é empregado doméstico.
+FRANCISCA: Panorama da lei do doméstico. O conceito: serviço contínuo, subordinado, oneroso, pessoal e sem finalidade lucrativa, prestado a pessoa ou família, no âmbito residencial, por mais de dois dias por semana. Menos que isso é diarista, que não é empregado doméstico.
 THALITA: E a idade mínima?
-ANTONIO: Dezoito anos. A jornada é de oito horas diárias e quarenta e quatro semanais. Pode haver escala de doze por trinta e seis por acordo escrito individual.
-FRANCISCA: O banco de horas: as quarenta primeiras horas extras do mês são pagas. O saldo pode ser compensado em até um ano. O intervalo é de uma a duas horas, com possibilidade de redução para trinta minutos, por acordo escrito. O tempo parcial vai até vinte e cinco horas semanais.
-THALITA: E o contrato de experiência?
-BRUNO: Até noventa dias. As horas em viagem têm adicional de no mínimo vinte e cinco por cento. São vedados descontos por alimentação, vestuário, higiene e moradia fornecidos no local de trabalho.
+FRANCISCA: Dezoito anos. A jornada é de oito horas diárias e quarenta e quatro semanais. Pode haver escala de doze por trinta e seis por acordo escrito individual.
+THALITA: O banco de horas: as quarenta primeiras horas extras do mês são pagas. O saldo pode ser compensado em até um ano. O intervalo é de uma a duas horas, com possibilidade de redução para trinta minutos, por acordo escrito. O tempo parcial vai até vinte e cinco horas semanais.
+FRANCISCA: E o contrato de experiência?
+THALITA: Até noventa dias. As horas em viagem têm adicional de no mínimo vinte e cinco por cento. São vedados descontos por alimentação, vestuário, higiene e moradia fornecidos no local de trabalho.
 FRANCISCA: O FGTS é de oito por cento, mais três vírgula dois por cento mensais para a indenização da dispensa, artigo vinte e dois. O seguro-desemprego é de até três parcelas de um salário mínimo. As férias são de trinta dias, fracionáveis em até dois períodos, um deles com ao menos catorze dias.
 THALITA: Macete: mais de dois dias, dezoito anos, noventa de experiência. E o resto eu volto a ler com calma.
-ANTONIO: Excelente ideia. Vamos agora a outro tema: a diferença entre relação de trabalho e relação de emprego.
+FRANCISCA: Excelente ideia. Vamos agora a outro tema: a diferença entre relação de trabalho e relação de emprego.
 == SLIDE: Trabalho e emprego: os cinco requisitos
 * Relação de trabalho é gênero; emprego é espécie
 * Requisitos: pessoa física, pessoalidade, não eventualidade, onerosidade, subordinação
 * Exclusividade NÃO é requisito
 * Pessoalidade só do empregado; empregador é despersonalizado
-FRANCISCA: Relação de trabalho é o gênero: toda prestação de trabalho humano por pessoa física. Relação de emprego é espécie e exige cinco elementos: pessoa física, pessoalidade, não eventualidade, onerosidade e subordinação. Faltando um, não há emprego.
-THALITA: E onde está isso na lei?
-ANTONIO: Artigo terceiro da CLT: empregado é toda pessoa física que prestar serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário. A pessoalidade sai do artigo segundo, que fala em prestação pessoal de serviço. O artigo sexto equipara o trabalho no estabelecimento, em domicílio e a distância, inclusive o controlado por meios telemáticos.
-BRUNO: Pessoa física: só ser humano pode ser empregado. A contratação via pessoa jurídica, a pejotização, não afasta o vínculo se presentes os demais requisitos, artigo nono. Pessoalidade: o empregado não pode se fazer substituir livremente. Substituições eventuais consentidas não descaracterizam.
+THALITA: Relação de trabalho é o gênero: toda prestação de trabalho humano por pessoa física. Relação de emprego é espécie e exige cinco elementos: pessoa física, pessoalidade, não eventualidade, onerosidade e subordinação. Faltando um, não há emprego.
+FRANCISCA: E onde está isso na lei?
+THALITA: Artigo terceiro da CLT: empregado é toda pessoa física que prestar serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário. A pessoalidade sai do artigo segundo, que fala em prestação pessoal de serviço. O artigo sexto equipara o trabalho no estabelecimento, em domicílio e a distância, inclusive o controlado por meios telemáticos.
+FRANCISCA: Pessoa física: só ser humano pode ser empregado. A contratação via pessoa jurídica, a pejotização, não afasta o vínculo se presentes os demais requisitos, artigo nono. Pessoalidade: o empregado não pode se fazer substituir livremente. Substituições eventuais consentidas não descaracterizam.
 THALITA: Não eventualidade é trabalhar todo dia?
 FRANCISCA: Não. É trabalho ligado à dinâmica normal do tomador, com repetição. Poucos dias por semana, ou intermitência, não descaracterizam. Onerosidade é o intuito de receber contraprestação; salário em utilidades ou atraso não a descaracterizam.
-BRUNO: Subordinação é a sujeição ao poder de direção quanto ao modo de prestar o serviço. Liberdade de horário, trabalho fora da empresa e alta qualificação técnica não a descaracterizam. E a pegadinha: a FCC diz que exclusividade é requisito do emprego. Errado. O empregado pode ter mais de um emprego, e o autônomo pode ser exclusivo.
-THALITA: Também não são requisitos horário fixo, local fixo, carteira assinada nem profissão regulamentada.
-ANTONIO: Perfeito. E em relação ao empregador vigora a despersonalização: a troca do titular da empresa não afeta o contrato, artigos décimo e quatrocentos e quarenta e oito.
+THALITA: Subordinação é a sujeição ao poder de direção quanto ao modo de prestar o serviço. Liberdade de horário, trabalho fora da empresa e alta qualificação técnica não a descaracterizam. E a pegadinha: a FCC diz que exclusividade é requisito do emprego. Errado. O empregado pode ter mais de um emprego, e o autônomo pode ser exclusivo.
+FRANCISCA: Também não são requisitos horário fixo, local fixo, carteira assinada nem profissão regulamentada.
+THALITA: Perfeito. E em relação ao empregador vigora a despersonalização: a troca do titular da empresa não afeta o contrato, artigos décimo e quatrocentos e quarenta e oito.
 == SLIDE: Teorias da eventualidade, subordinação e validade
 * Eventualidade: descontinuidade, evento, fins do empreendimento, fixação
 * Subordinação jurídica, objetiva, estrutural, algorítmica
 * Capacidade: 18 anos; 16 a 18 relativa; aprendiz 14
 * Trabalho ilícito x proibido; Súmula 363
-THALITA: Eu ouvi falar de teorias para a não eventualidade. Quais são?
-FRANCISCA: Quatro. A da descontinuidade: eventual é o trabalho fracionado no tempo, rejeitada pela CLT e adotada na lei do doméstico. A do evento: chamado para um fato certo e episódico. A dos fins do empreendimento, a mais aceita: eventual é quem executa tarefa estranha aos fins normais da empresa. E a da fixação jurídica: eventual não se fixa a uma fonte de trabalho.
-BRUNO: Exemplo: o Márcio trabalha toda sexta-feira, há três anos, como garçom no restaurante, cumprindo ordens do gerente e recebendo diária. Pelos fins do empreendimento, há não eventualidade, mesmo sendo um dia por semana. Em residência, um dia por semana é diarista.
+FRANCISCA: Eu ouvi falar de teorias para a não eventualidade. Quais são?
+THALITA: Quatro. A da descontinuidade: eventual é o trabalho fracionado no tempo, rejeitada pela CLT e adotada na lei do doméstico. A do evento: chamado para um fato certo e episódico. A dos fins do empreendimento, a mais aceita: eventual é quem executa tarefa estranha aos fins normais da empresa. E a da fixação jurídica: eventual não se fixa a uma fonte de trabalho.
+FRANCISCA: Exemplo: o Márcio trabalha toda sexta-feira, há três anos, como garçom no restaurante, cumprindo ordens do gerente e recebendo diária. Pelos fins do empreendimento, há não eventualidade, mesmo sendo um dia por semana. Em residência, um dia por semana é diarista.
 THALITA: Então a pergunta que eu me faço é sempre a mesma: a tarefa faz parte da atividade normal do tomador? Se faz, e se repete, tem não eventualidade. Se foi um bico para um evento isolado, é eventual. Achei esse teste muito prático para a prova.
-ANTONIO: Dimensões da subordinação. A jurídica, clássica, é a do artigo terceiro: ordens diretas sobre o modo de executar o trabalho. A objetiva, de integração aos fins da empresa. A estrutural, de inserção na dinâmica do tomador, ainda sem ordens diretas. E a algorítmica, por sistemas, aplicativos e métricas.
+FRANCISCA: Dimensões da subordinação. A jurídica, clássica, é a do artigo terceiro: ordens diretas sobre o modo de executar o trabalho. A objetiva, de integração aos fins da empresa. A estrutural, de inserção na dinâmica do tomador, ainda sem ordens diretas. E a algorítmica, por sistemas, aplicativos e métricas.
 THALITA: E a subordinação econômica?
-BRUNO: Não é critério suficiente, nem a técnica. O alto executivo pode ser economicamente independente e tecnicamente superior ao patrão e, ainda assim, ser empregado.
-FRANCISCA: Por último, a validade. Capacidade plena aos dezoito; de dezesseis a dezoito, relativa, e não dá quitação rescisória sem assistência, artigo quatrocentos e trinta e nove; aprendiz desde quatorze. Trabalho ilícito, como o jogo do bicho, não gera efeitos, segundo a OJ cento e noventa e nove. Trabalho apenas proibido gera todos os efeitos.
-ANTONIO: A forma é livre, tácita ou expressa. Servidor sem concurso: contrato nulo, com direito apenas ao saldo de salário e ao FGTS, Súmula trezentos e sessenta e três do TST. Agora vamos às figuras afins ao emprego.
+FRANCISCA: Não é critério suficiente, nem a técnica. O alto executivo pode ser economicamente independente e tecnicamente superior ao patrão e, ainda assim, ser empregado.
+THALITA: Por último, a validade. Capacidade plena aos dezoito; de dezesseis a dezoito, relativa, e não dá quitação rescisória sem assistência, artigo quatrocentos e trinta e nove; aprendiz desde quatorze. Trabalho ilícito, como o jogo do bicho, não gera efeitos, segundo a OJ cento e noventa e nove. Trabalho apenas proibido gera todos os efeitos.
+FRANCISCA: A forma é livre, tácita ou expressa. Servidor sem concurso: contrato nulo, com direito apenas ao saldo de salário e ao FGTS, Súmula trezentos e sessenta e três do TST. Agora vamos às figuras afins ao emprego.

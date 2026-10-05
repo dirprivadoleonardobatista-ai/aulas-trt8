@@ -4,96 +4,90 @@ SEGMENTO s104
 * Revogadas: Lei 8.666/1993, pregão da Lei 10.520 e RDC
 * Licitação: processo administrativo formal (art. 37, XXI, CF)
 * Normas gerais: competência privativa da União
-ANTONIO: Olá, pessoal, bem-vindos! Esta é a aula trinta do nosso curso, e começamos o bloco de licitações e contratos, pela Lei quatorze mil cento e trinta e três, de dois mil e vinte e um. Hoje veremos as noções fundamentais, os princípios, as definições mais cobradas, os agentes públicos, e depois o processo licitatório, as modalidades, os prazos e a habilitação. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, também professora. Vou trazer a lei em paráfrase e os exemplos concretos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Vou mostrar como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira como vocês. Vou perguntar o que vocês perguntariam, e depois tento resumir tudo em macetes.
-ANTONIO: Primeiro, um aviso sobre a base legal. A Lei quatorze mil cento e trinta e três tem alterações de leis posteriores, como a catorze mil seiscentos e vinte e oito e a catorze mil setecentos e setenta, ambas de dois mil e vinte e três. E desde trinta de dezembro de dois mil e vinte e três estão revogadas a Lei oito mil seiscentos e sessenta e seis, a lei do pregão, que era a dez mil quinhentos e vinte, e os artigos do Regime Diferenciado de Contratações.
+FRANCISCA: Olá, pessoal, bem-vindos! Esta é a aula trinta do nosso curso, e começamos o bloco de licitações e contratos, pela Lei quatorze mil cento e trinta e três, de dois mil e vinte e um. Hoje veremos as noções fundamentais, os princípios, as definições mais cobradas, os agentes públicos, e depois o processo licitatório, as modalidades, os prazos e a habilitação. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Primeiro, um aviso sobre a base legal. A Lei quatorze mil cento e trinta e três tem alterações de leis posteriores, como a catorze mil seiscentos e vinte e oito e a catorze mil setecentos e setenta, ambas de dois mil e vinte e três. E desde trinta de dezembro de dois mil e vinte e três estão revogadas a Lei oito mil seiscentos e sessenta e seis, a lei do pregão, que era a dez mil quinhentos e vinte, e os artigos do Regime Diferenciado de Contratações.
 THALITA: Então tudo que eu estudava da antiga lei oito seis seis seis eu posso esquecer?
-BRUNO: Para prova, sim, salvo a banca perguntar de propósito sobre a lei revogada. Mas sempre confira se houve alteração legislativa posterior na data do edital.
-ANTONIO: Vamos ao conceito. Licitação é o processo administrativo formal pelo qual a Administração convoca interessados e seleciona a proposta apta a gerar o resultado de contratação mais vantajoso, com isonomia e justa competição. O fundamento constitucional é o artigo trinta e sete, inciso vinte e um.
+FRANCISCA: Para prova, sim, salvo a banca perguntar de propósito sobre a lei revogada. Mas sempre confira se houve alteração legislativa posterior na data do edital.
+THALITA: Vamos ao conceito. Licitação é o processo administrativo formal pelo qual a Administração convoca interessados e seleciona a proposta apta a gerar o resultado de contratação mais vantajoso, com isonomia e justa competição. O fundamento constitucional é o artigo trinta e sete, inciso vinte e um.
 FRANCISCA: A natureza é de processo administrativo formal, uma sequência ordenada de atos vinculados, e cada fase é pressuposto da seguinte. Está no artigo dezessete.
 THALITA: E quem faz a lei de licitação? Cada município faz a sua?
 FRANCISCA: A União edita normas gerais, de competência privativa, pelo artigo vinte e dois, inciso vinte e sete, da Constituição. Estados, Distrito Federal e municípios editam normas específicas, compatíveis com as gerais.
-BRUNO: A banca gosta de dizer que cada ente legisla livremente sobre normas gerais. Errado: normas gerais são da União.
-ANTONIO: E o objeto da lei, no artigo segundo: alienações e concessão de direito real de uso, compras, locações, concessão e permissão de uso de bens públicos, serviços, obras, serviços de arquitetura e engenharia, e contratações de tecnologia da informação e comunicação.
+THALITA: A banca gosta de dizer que cada ente legisla livremente sobre normas gerais. Errado: normas gerais são da União.
+FRANCISCA: E o objeto da lei, no artigo segundo: alienações e concessão de direito real de uso, compras, locações, concessão e permissão de uso de bens públicos, serviços, obras, serviços de arquitetura e engenharia, e contratações de tecnologia da informação e comunicação.
 THALITA: Resumindo, a licitação serve para comprar bem, e também para alienar e conceder.
 FRANCISCA: Isso. Ela vale para os dois lados, quando a Administração compra e quando ela vende ou cede.
-
 == SLIDE: Objetivos do artigo 11 e quem se submete à lei
 * Art. 11: proposta mais vantajosa, inclusive ciclo de vida do objeto
 * Tratamento isonômico e justa competição
 * Sobrepreço e superfaturamento; inovação e desenvolvimento sustentável
 * Legislativo e Judiciário: só na função administrativa
 * Estatais ficam fora (Lei 13.303), salvo art. 178 e crimes
-ANTONIO: O artigo onze fixa quatro objetivos. Primeiro, assegurar a seleção da proposta apta a gerar o resultado mais vantajoso, inclusive quanto ao ciclo de vida do objeto.
-THALITA: Ciclo de vida? Achei que era só o menor preço.
-FRANCISCA: Não é só o preço de compra. Considera-se a manutenção, a operação e o descarte. Um equipamento barato, que gasta muito e dura pouco, pode sair mais caro no fim.
-ANTONIO: Segundo objetivo: tratamento isonômico entre os licitantes e a justa competição. Terceiro: evitar contratações com sobrepreço ou preços manifestamente inexequíveis e o superfaturamento na execução. Quarto: incentivar a inovação e o desenvolvimento nacional sustentável.
-BRUNO: Atenção a um detalhe que a FCC inverte. Sobrepreço se combate na contratação, no preço orçado ou contratado. Superfaturamento é dano na execução do contrato. Se a questão trocar os momentos, está errada.
-THALITA: Macete: sobrepreço é antes, no preço. Superfaturamento é durante, na execução.
-ANTONIO: Muito bem. Agora, quem se submete à lei? Administração direta, autárquica e fundacional de todos os entes. Também os fundos especiais e as entidades controladas pelo poder público.
+THALITA: O artigo onze fixa quatro objetivos. Primeiro, assegurar a seleção da proposta apta a gerar o resultado mais vantajoso, inclusive quanto ao ciclo de vida do objeto.
+FRANCISCA: Ciclo de vida? Achei que era só o menor preço.
+THALITA: Não é só o preço de compra. Considera-se a manutenção, a operação e o descarte. Um equipamento barato, que gasta muito e dura pouco, pode sair mais caro no fim.
+FRANCISCA: Segundo objetivo: tratamento isonômico entre os licitantes e a justa competição. Terceiro: evitar contratações com sobrepreço ou preços manifestamente inexequíveis e o superfaturamento na execução. Quarto: incentivar a inovação e o desenvolvimento nacional sustentável.
+THALITA: Atenção a um detalhe que a FCC inverte. Sobrepreço se combate na contratação, no preço orçado ou contratado. Superfaturamento é dano na execução do contrato. Se a questão trocar os momentos, está errada.
+FRANCISCA: Macete: sobrepreço é antes, no preço. Superfaturamento é durante, na execução.
+THALITA: Muito bem. Agora, quem se submete à lei? Administração direta, autárquica e fundacional de todos os entes. Também os fundos especiais e as entidades controladas pelo poder público.
 FRANCISCA: O Legislativo e o Judiciário também se submetem, mas apenas quando desempenham função administrativa. Um tribunal do trabalho, por exemplo, ao contratar um serviço de limpeza, segue a lei. Ao julgar processos, claro, não há licitação nenhuma.
 THALITA: E as empresas estatais?
-BRUNO: Empresas públicas, sociedades de economia mista e suas subsidiárias não se submetem a essa lei. Elas seguem a Lei treze mil trezentos e três, de dois mil e dezesseis, o Estatuto das Estatais. A ressalva é o artigo cento e setenta e oito, que trata dos crimes em licitações previstos no Código Penal, e esses valem para todos.
-FRANCISCA: E ficam excluídas do alcance da lei as operações de crédito e gestão da dívida pública, e as contratações sujeitas a legislação própria.
-THALITA: Então a prova pode dizer que a lei se aplica às estatais. Eu marco errado, com a exceção dos crimes.
-BRUNO: Exatamente.
-
+FRANCISCA: Empresas públicas, sociedades de economia mista e suas subsidiárias não se submetem a essa lei. Elas seguem a Lei treze mil trezentos e três, de dois mil e dezesseis, o Estatuto das Estatais. A ressalva é o artigo cento e setenta e oito, que trata dos crimes em licitações previstos no Código Penal, e esses valem para todos.
+THALITA: E ficam excluídas do alcance da lei as operações de crédito e gestão da dívida pública, e as contratações sujeitas a legislação própria.
+FRANCISCA: Então a prova pode dizer que a lei se aplica às estatais. Eu marco errado, com a exceção dos crimes.
+THALITA: Exatamente.
 == SLIDE: Os princípios do artigo 5º
 * Lista com 22 princípios expressos mais a LINDB
 * FCC insere princípio que não existe: sigilo absoluto, padronização
 * Publicidade: PNCP; orçamento pode ser sigiloso (art. 24)
 * Segregação de funções; vinculação ao edital; julgamento objetivo
 * Eficiência é o meio; eficácia é o resultado
-ANTONIO: O artigo quinto lista vinte e dois princípios expressos e manda observar também a Lei de Introdução às Normas do Direito Brasileiro, a LINDB.
+FRANCISCA: O artigo quinto lista vinte e dois princípios expressos e manda observar também a Lei de Introdução às Normas do Direito Brasileiro, a LINDB.
 THALITA: Vinte e dois! Dá para decorar?
-BRUNO: Precisa, porque a FCC cobra a lista literal. A técnica dela é inserir um princípio que não existe na lei, como adjudicação compulsória, sigilo absoluto ou padronização. Se não estiver na lista, a alternativa está errada.
-FRANCISCA: A lista traz legalidade, impessoalidade, moralidade, publicidade, eficiência, interesse público, probidade administrativa, igualdade, planejamento, transparência, eficácia, segregação de funções, motivação, vinculação ao edital, julgamento objetivo, segurança jurídica, razoabilidade, competitividade, proporcionalidade, celeridade, economicidade e desenvolvimento nacional sustentável.
-THALITA: Repare que formalismo moderado não aparece nessa lista, certo?
-ANTONIO: Certo. Ele informa a lei, por exemplo no saneamento de falhas, mas não está no artigo quinto. A remissão à LINDB, por sua vez, traz o consequencialismo e a responsabilização do agente apenas por dolo ou erro grosseiro.
+FRANCISCA: Precisa, porque a FCC cobra a lista literal. A técnica dela é inserir um princípio que não existe na lei, como adjudicação compulsória, sigilo absoluto ou padronização. Se não estiver na lista, a alternativa está errada.
+THALITA: A lista traz legalidade, impessoalidade, moralidade, publicidade, eficiência, interesse público, probidade administrativa, igualdade, planejamento, transparência, eficácia, segregação de funções, motivação, vinculação ao edital, julgamento objetivo, segurança jurídica, razoabilidade, competitividade, proporcionalidade, celeridade, economicidade e desenvolvimento nacional sustentável.
+FRANCISCA: Repare que formalismo moderado não aparece nessa lista, certo?
+THALITA: Certo. Ele informa a lei, por exemplo no saneamento de falhas, mas não está no artigo quinto. A remissão à LINDB, por sua vez, traz o consequencialismo e a responsabilização do agente apenas por dolo ou erro grosseiro.
 FRANCISCA: Vamos a alguns princípios aplicados. Publicidade e transparência: os atos vão para o Portal Nacional de Contratações Públicas, o PNCP. Mas o orçamento estimado pode ser sigiloso, pelo artigo vinte e quatro.
-BRUNO: Igualdade também comporta exceção: benefícios para microempresas e empresas de pequeno porte, margens de preferência e critérios de desempate. Já planejamento, segregação de funções, julgamento objetivo e competitividade não comportam exceção.
-ANTONIO: A vinculação ao edital obriga a Administração e os licitantes. Se o edital for alterado, é preciso divulgar de novo. E a competitividade proíbe cláusulas restritivas impertinentes.
+THALITA: Igualdade também comporta exceção: benefícios para microempresas e empresas de pequeno porte, margens de preferência e critérios de desempate. Já planejamento, segregação de funções, julgamento objetivo e competitividade não comportam exceção.
+FRANCISCA: A vinculação ao edital obriga a Administração e os licitantes. Se o edital for alterado, é preciso divulgar de novo. E a competitividade proíbe cláusulas restritivas impertinentes.
 THALITA: Última dúvida: eficiência e eficácia, qual a diferença?
 FRANCISCA: Eficiência está ligada ao meio, ao custo e ao modo de fazer. Eficácia está ligada ao resultado alcançado.
 THALITA: Eficiência, meio. Eficácia, resultado. Anotei.
-
 == SLIDE: Definições do artigo 6º que mais caem
 * Obra inova o espaço físico; serviço comum de engenharia preserva
 * Bens e serviços comuns: padrões objetivos de mercado
 * ETP, termo de referência, anteprojeto, projeto básico e executivo
 * Contratação integrada: dois projetos com o contratado
 * Semi-integrada: só o projeto executivo
-ANTONIO: Agora as definições do artigo sexto. Começamos por obra e serviço. Obra é atividade privativa de arquiteto ou engenheiro que inova o espaço físico ou altera substancialmente um bem imóvel. Serviço é a atividade para obter utilidade intelectual ou material de interesse da Administração.
-FRANCISCA: Serviço comum de engenharia é o de manutenção, adequação e adaptação padronizáveis, preservando as características originais do bem. Já o especial é complexo ou heterogêneo.
-THALITA: Dá um exemplo?
-FRANCISCA: Pintura de uma sala, troca de piso: serviço comum de engenharia, que admite pregão. Construir um prédio novo ou ampliar o existente: obra.
-BRUNO: Macete: obra inova, serviço comum preserva.
-ANTONIO: Bens e serviços comuns têm padrões de desempenho e qualidade definidos objetivamente no edital, por especificações usuais de mercado. Os especiais têm alta heterogeneidade ou complexidade e exigem justificativa prévia.
+FRANCISCA: Agora as definições do artigo sexto. Começamos por obra e serviço. Obra é atividade privativa de arquiteto ou engenheiro que inova o espaço físico ou altera substancialmente um bem imóvel. Serviço é a atividade para obter utilidade intelectual ou material de interesse da Administração.
+THALITA: Serviço comum de engenharia é o de manutenção, adequação e adaptação padronizáveis, preservando as características originais do bem. Já o especial é complexo ou heterogêneo.
+FRANCISCA: Dá um exemplo?
+THALITA: Pintura de uma sala, troca de piso: serviço comum de engenharia, que admite pregão. Construir um prédio novo ou ampliar o existente: obra.
+FRANCISCA: Macete: obra inova, serviço comum preserva.
+THALITA: Bens e serviços comuns têm padrões de desempenho e qualidade definidos objetivamente no edital, por especificações usuais de mercado. Os especiais têm alta heterogeneidade ou complexidade e exigem justificativa prévia.
 FRANCISCA: Agora os documentos de planejamento. O Estudo Técnico Preliminar, o ETP, é a primeira etapa: caracteriza o interesse público e a melhor solução. O termo de referência é o documento para bens e serviços. Para obras, vêm o anteprojeto, o projeto básico e o projeto executivo.
 THALITA: E qual a diferença entre os três?
-ANTONIO: Anteprojeto é a peça técnica com subsídios para o projeto básico, e é a base da contratação integrada. O projeto básico traz os elementos necessários e suficientes para definir e dimensionar a obra. O projeto executivo detalha o básico para a execução completa.
-BRUNO: A matriz de riscos aloca os riscos e caracteriza o equilíbrio econômico-financeiro inicial. É obrigatória nas contratações de grande vulto e nas contratações integrada e semi-integrada.
+FRANCISCA: Anteprojeto é a peça técnica com subsídios para o projeto básico, e é a base da contratação integrada. O projeto básico traz os elementos necessários e suficientes para definir e dimensionar a obra. O projeto executivo detalha o básico para a execução completa.
+THALITA: A matriz de riscos aloca os riscos e caracteriza o equilíbrio econômico-financeiro inicial. É obrigatória nas contratações de grande vulto e nas contratações integrada e semi-integrada.
 FRANCISCA: Na contratação integrada, o contratado elabora projeto básico e executivo e executa, a partir de um anteprojeto. Na semi-integrada, ele elabora só o executivo e executa; o básico vem da Administração.
 THALITA: Macete: integrada é inteira, dois projetos. Semi é metade, só o executivo.
-ANTONIO: Por fim, o agente de contratação é o servidor efetivo ou empregado permanente que conduz a licitação até a homologação. A comissão de contratação é o conjunto de agentes que recebe, examina e julga documentos. E grande vulto é valor estimado superior a duzentos milhões de reais, no valor original.
-
+FRANCISCA: Por fim, o agente de contratação é o servidor efetivo ou empregado permanente que conduz a licitação até a homologação. A comissão de contratação é o conjunto de agentes que recebe, examina e julga documentos. E grande vulto é valor estimado superior a duzentos milhões de reais, no valor original.
 == SLIDE: Agentes públicos: artigos 7º a 10
 * Preferencialmente efetivos, sem conflito de interesses
 * Segregação de funções: vedada a atuação simultânea em funções de risco
 * Agente de contratação: efetivo ou permanente; responsabilidade individual
 * Comissão: mínimo 3 membros; responsabilidade solidária
 * Parecer jurídico: defesa pela advocacia pública, a critério do agente
-FRANCISCA: A autoridade máxima designa os agentes que vão atuar nas licitações. No artigo sétimo, a regra é que sejam preferencialmente servidores efetivos, com atribuições ou formação compatível, e sem vínculo de cônjuge, companheiro ou parente até o terceiro grau com licitantes ou contratados habituais.
-THALITA: Preferencialmente efetivo? Então pode ser comissionado?
-BRUNO: Para os agentes em geral, o artigo sétimo diz preferencialmente. Mas o agente de contratação, no artigo oitavo, precisa ser servidor efetivo ou empregado permanente. A FCC explora essa diferença.
+THALITA: A autoridade máxima designa os agentes que vão atuar nas licitações. No artigo sétimo, a regra é que sejam preferencialmente servidores efetivos, com atribuições ou formação compatível, e sem vínculo de cônjuge, companheiro ou parente até o terceiro grau com licitantes ou contratados habituais.
+FRANCISCA: Preferencialmente efetivo? Então pode ser comissionado?
+THALITA: Para os agentes em geral, o artigo sétimo diz preferencialmente. Mas o agente de contratação, no artigo oitavo, precisa ser servidor efetivo ou empregado permanente. A FCC explora essa diferença.
 FRANCISCA: E vale a segregação de funções: é vedada a atuação simultânea do mesmo agente em funções mais suscetíveis a riscos, para que ele não controle o próprio trabalho.
-ANTONIO: O agente de contratação conduz a licitação até a homologação, com equipe de apoio. No pregão, ele recebe o nome de pregoeiro. E ele responde individualmente pelos atos, salvo se induzido a erro pela equipe de apoio.
+THALITA: O agente de contratação conduz a licitação até a homologação, com equipe de apoio. No pregão, ele recebe o nome de pregoeiro. E ele responde individualmente pelos atos, salvo se induzido a erro pela equipe de apoio.
 FRANCISCA: Em bens e serviços especiais, ele pode ser substituído por uma comissão de contratação, com no mínimo três membros, e a responsabilidade é solidária, salvo divergência fundamentada registrada em ata.
 THALITA: Então: agente, individual. Comissão, três membros e solidária.
-BRUNO: É isso. Cuidado com a pegadinha de trocar a responsabilidade da comissão por individual.
-ANTONIO: As vedações estão no artigo nono: cláusulas restritivas, preferências por naturalidade, sede ou domicílio, e agente do órgão não pode participar da licitação ou da execução do contrato.
+FRANCISCA: É isso. Cuidado com a pegadinha de trocar a responsabilidade da comissão por individual.
+THALITA: As vedações estão no artigo nono: cláusulas restritivas, preferências por naturalidade, sede ou domicílio, e agente do órgão não pode participar da licitação ou da execução do contrato.
 FRANCISCA: E o artigo dez protege o agente. Se o ato foi praticado com estrita observância de parecer jurídico, a advocacia pública faz a defesa dele, mas a critério do agente, e não se houver prova de ilícito doloso.
 THALITA: Fechou. Agora que sabemos os conceitos, os princípios e quem conduz o processo, falta ver o caminho que ele percorre.
-ANTONIO: Exatamente. No próximo tema veremos o processo licitatório, as fases, as modalidades, os prazos, os modos de disputa, a habilitação e os procedimentos auxiliares.
+FRANCISCA: Exatamente. No próximo tema veremos o processo licitatório, as fases, as modalidades, os prazos, os modos de disputa, a habilitação e os procedimentos auxiliares.

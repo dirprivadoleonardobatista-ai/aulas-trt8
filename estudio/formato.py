@@ -14,15 +14,13 @@ Texto puro gasta menos tokens que JSON e nao tem problema de aspas.
 import re
 
 VOZES = {
-    "ANTONIO": {"nome": "Antônio", "papel": "professor"},
     "FRANCISCA": {"nome": "Francisca", "papel": "professora"},
-    "BRUNO": {"nome": "Bruno", "papel": "especialista FCC"},
-    "THALITA": {"nome": "Thalita", "papel": "concurseira"},
+    "THALITA": {"nome": "Thalita", "papel": "professora e especialista FCC"},
 }
 
 PEDIR_A_MAIS = 1.2                        # meta mostrada ao roteirista (ele entrega ~85% do pedido)
 FAIXA_MIN, FAIXA_MAX = 0.90, 1.50        # aceito, sobre a meta do plano
-MAX_PARTICIPACAO = 0.45                   # nenhuma voz passa disto
+MAX_PARTICIPACAO = 0.70                   # nenhuma voz passa disto
 MIN_PARTICIPACAO = 0.10                   # (estrito) toda voz chega a isto
 PALAVRAS_POR_SLIDE_MAX = 420              # (estrito) mais que isso pede outro slide
 FALA_MAX_CHARS = 900
@@ -64,7 +62,7 @@ def ler(texto):
             m = re.match(r"^([A-ZÀ-Ú]+)\s*:\s*(.+)$", linha)
             if not m or m.group(1).upper() not in VOZES:
                 erros.append("linha %d: não reconheci (%s). Use '== SLIDE:', '* tópico' ou "
-                             "ANTONIO:/FRANCISCA:/BRUNO:/THALITA:" % (n, linha[:50]))
+                             "FRANCISCA:/THALITA:" % (n, linha[:50]))
                 continue
             if not slides:
                 erros.append("linha %d: fala antes do primeiro '== SLIDE:'" % n)
@@ -122,10 +120,10 @@ def validar(texto, seg_plano, estrito=False):
                      % (total, lo - total, lo, lo - total + 60))
     elif total > hi:
         erros.append("narração com %d palavras; o máximo é %d. Corte repetições" % (total, hi))
-    minimo_vozes = 4 if meta >= 900 else 3
+    minimo_vozes = 2
     presentes = [v for v, n in por_voz.items() if n > 0]
     if len(presentes) < minimo_vozes:
-        erros.append("só %d vozes participaram; use as quatro" % len(presentes))
+        erros.append("só %d voz participou; use as duas" % len(presentes))
     if estrito and meta >= 900:
         for v, n in por_voz.items():
             if total and n / total < MIN_PARTICIPACAO:

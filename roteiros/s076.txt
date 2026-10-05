@@ -4,102 +4,100 @@ SEGMENTO s076
 * Depois: STF, CNJ, STJ e Justiça do Trabalho
 * CNJ é órgão do Judiciário, sem função jurisdicional
 * Tribunais de Contas não integram o Judiciário
-ANTONIO: Olá, pessoal, sejam bem-vindos à aula vinte e dois, de Direito Constitucional, no bloco Poderes e Funções Essenciais à Justiça. Hoje começamos o Poder Judiciário pelas regras comuns a todos os órgãos: estrutura, Estatuto da Magistratura, quinto constitucional, garantias e vedações, competências dos tribunais, reserva de plenário, autonomia e precatórios. Nas próximas aulas virão o Supremo, o CNJ, o STJ e a Justiça do Trabalho. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora. Vou trazer a lei em paráfrase e a jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira. Pergunto o que vocês perguntariam e faço os resumos.
-ANTONIO: Vamos ao artigo noventa e dois, que lista os órgãos do Judiciário. Primeiro o Supremo Tribunal Federal, depois o Conselho Nacional de Justiça, o Superior Tribunal de Justiça, o Tribunal Superior do Trabalho, os Tribunais Regionais Federais e Juízes Federais, os Tribunais e Juízes do Trabalho, os Eleitorais, os Militares e os dos Estados, do Distrito Federal e Territórios.
+FRANCISCA: Olá, pessoal, sejam bem-vindos à aula vinte e dois, de Direito Constitucional, no bloco Poderes e Funções Essenciais à Justiça. Hoje começamos o Poder Judiciário pelas regras comuns a todos os órgãos: estrutura, Estatuto da Magistratura, quinto constitucional, garantias e vedações, competências dos tribunais, reserva de plenário, autonomia e precatórios. Nas próximas aulas virão o Supremo, o CNJ, o STJ e a Justiça do Trabalho. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos ao artigo noventa e dois, que lista os órgãos do Judiciário. Primeiro o Supremo Tribunal Federal, depois o Conselho Nacional de Justiça, o Superior Tribunal de Justiça, o Tribunal Superior do Trabalho, os Tribunais Regionais Federais e Juízes Federais, os Tribunais e Juízes do Trabalho, os Eleitorais, os Militares e os dos Estados, do Distrito Federal e Territórios.
 THALITA: O TST entrou depois, não foi?
 FRANCISCA: Entrou pela Emenda Constitucional noventa e dois, de dois mil e dezesseis, como inciso dois-A. E o CNJ entrou pela Emenda quarenta e cinco, de dois mil e quatro.
-BRUNO: A pegadinha clássica: o CNJ é órgão do Judiciário, mas não tem função jurisdicional. Ele não julga processos. E os Tribunais de Contas não são órgãos do Judiciário.
-THALITA: Então FCC falando que o CNJ exerce jurisdição, errado. Tribunal de Contas dentro do Judiciário, também errado.
-FRANCISCA: Isso. Outro detalhe: o Supremo, o CNJ e os Tribunais Superiores têm sede na Capital Federal. E só o Supremo e os Tribunais Superiores têm jurisdição em todo o território nacional. Está no artigo noventa e dois, parágrafos primeiro e segundo.
-ANTONIO: O CNJ tem sede na Capital, mas não tem jurisdição. Guardem essa diferença.
+THALITA: A pegadinha clássica: o CNJ é órgão do Judiciário, mas não tem função jurisdicional. Ele não julga processos. E os Tribunais de Contas não são órgãos do Judiciário.
+FRANCISCA: Então FCC falando que o CNJ exerce jurisdição, errado. Tribunal de Contas dentro do Judiciário, também errado.
+THALITA: Isso. Outro detalhe: o Supremo, o CNJ e os Tribunais Superiores têm sede na Capital Federal. E só o Supremo e os Tribunais Superiores têm jurisdição em todo o território nacional. Está no artigo noventa e dois, parágrafos primeiro e segundo.
+FRANCISCA: O CNJ tem sede na Capital, mas não tem jurisdição. Guardem essa diferença.
 THALITA: Sede na Capital, jurisdição nenhuma. Agora me explica o artigo noventa e três, que dizem que é o mais cobrado da prova.
 == SLIDE: Estatuto da Magistratura: ingresso e promoção
 * Lei complementar de iniciativa do STF (LOMAN, LC 35/1979)
 * Ingresso: concurso, OAB em todas as fases, 3 anos de atividade jurídica
 * Promoção: antiguidade e merecimento, alternadamente
 * Recusa do mais antigo: 2/3 dos membros
-ANTONIO: Agora o artigo noventa e três, o Estatuto da Magistratura. Será lei complementar de iniciativa do Supremo. Enquanto ela não vem, vale a LOMAN, a Lei Complementar trinta e cinco, de mil novecentos e setenta e nove, recepcionada. O artigo traz princípios que a lei complementar deve respeitar.
-FRANCISCA: O inciso um trata do ingresso. Começa como juiz substituto, por concurso de provas e títulos, com participação da OAB em todas as fases. Exige bacharel em Direito com três anos de atividade jurídica, e a nomeação segue a ordem de classificação.
-THALITA: Pegadinha: dois anos de atividade jurídica. Errado, são três.
-BRUNO: E a OAB só na prova oral? Também errado: todas as fases. Anote as duas.
-ANTONIO: O inciso dois cuida da promoção de entrância para entrância, alternadamente por antiguidade e merecimento. A promoção é obrigatória para o juiz que figure três vezes consecutivas ou cinco alternadas em lista de merecimento.
-FRANCISCA: Para o merecimento, são necessários dois anos de exercício na entrância e estar na primeira quinta parte da lista de antiguidade, salvo se ninguém com esses requisitos aceitar a vaga. O merecimento é aferido por desempenho, produtividade, presteza e cursos de aperfeiçoamento.
-THALITA: E na antiguidade, quando o tribunal pode recusar o mais antigo?
-FRANCISCA: Só por voto fundamentado de dois terços dos membros, com ampla defesa. Não é maioria absoluta, é dois terços.
-BRUNO: Troca de dois terços por maioria absoluta é pegadinha garantida. Outra: não será promovido o juiz que, sem justificativa, retiver autos além do prazo legal, nem pode devolvê-los sem despacho ou decisão.
-ANTONIO: O inciso três trata do acesso aos tribunais de segundo grau, também por antiguidade e merecimento alternadamente, apurados na última ou única entrância. O inciso quatro prevê cursos oficiais de preparação, aperfeiçoamento e promoção, e o curso oficial é etapa obrigatória do vitaliciamento.
-THALITA: Então resumo: três anos de atividade jurídica, OAB em todas as fases, dois terços para recusar o mais antigo. Falta o resto dos incisos, vamos nessa.
+FRANCISCA: Agora o artigo noventa e três, o Estatuto da Magistratura. Será lei complementar de iniciativa do Supremo. Enquanto ela não vem, vale a LOMAN, a Lei Complementar trinta e cinco, de mil novecentos e setenta e nove, recepcionada. O artigo traz princípios que a lei complementar deve respeitar.
+THALITA: O inciso um trata do ingresso. Começa como juiz substituto, por concurso de provas e títulos, com participação da OAB em todas as fases. Exige bacharel em Direito com três anos de atividade jurídica, e a nomeação segue a ordem de classificação.
+FRANCISCA: Pegadinha: dois anos de atividade jurídica. Errado, são três.
+THALITA: E a OAB só na prova oral? Também errado: todas as fases. Anote as duas.
+FRANCISCA: O inciso dois cuida da promoção de entrância para entrância, alternadamente por antiguidade e merecimento. A promoção é obrigatória para o juiz que figure três vezes consecutivas ou cinco alternadas em lista de merecimento.
+THALITA: Para o merecimento, são necessários dois anos de exercício na entrância e estar na primeira quinta parte da lista de antiguidade, salvo se ninguém com esses requisitos aceitar a vaga. O merecimento é aferido por desempenho, produtividade, presteza e cursos de aperfeiçoamento.
+FRANCISCA: E na antiguidade, quando o tribunal pode recusar o mais antigo?
+THALITA: Só por voto fundamentado de dois terços dos membros, com ampla defesa. Não é maioria absoluta, é dois terços.
+FRANCISCA: Troca de dois terços por maioria absoluta é pegadinha garantida. Outra: não será promovido o juiz que, sem justificativa, retiver autos além do prazo legal, nem pode devolvê-los sem despacho ou decisão.
+THALITA: O inciso três trata do acesso aos tribunais de segundo grau, também por antiguidade e merecimento alternadamente, apurados na última ou única entrância. O inciso quatro prevê cursos oficiais de preparação, aperfeiçoamento e promoção, e o curso oficial é etapa obrigatória do vitaliciamento.
+FRANCISCA: Então resumo: três anos de atividade jurídica, OAB em todas as fases, dois terços para recusar o mais antigo. Falta o resto dos incisos, vamos nessa.
 == SLIDE: Estatuto da Magistratura: demais incisos
 * Subsídio dos Ministros dos Tribunais Superiores: 95% do STF
 * Remoção por interesse público: maioria absoluta (art. 93, VIII)
 * Julgamentos públicos, decisões fundamentadas (IX)
 * Órgão especial facultativo; sem férias coletivas no 2º grau
-ANTONIO: Seguimos. O inciso cinco fixa o subsídio dos Ministros dos Tribunais Superiores em noventa e cinco por cento do subsídio dos Ministros do Supremo, com escalonamento em que a diferença entre as categorias não passa de dez por cento nem fica abaixo de cinco por cento.
-THALITA: O inciso sete eu lembro: juiz titular mora na comarca.
-FRANCISCA: Isso, salvo autorização do tribunal. O inciso oito trata da remoção ou disponibilidade por interesse público, por decisão da maioria absoluta do tribunal ou do CNJ, assegurada ampla defesa.
-BRUNO: Atenção: é maioria absoluta, não dois terços. Aqui mora uma atualização: a Emenda cento e três, de dois mil e dezenove, tirou desse inciso a referência à aposentadoria como sanção. O texto atual fala em remoção e disponibilidade. A aposentadoria compulsória ainda aparece na LOMAN. Se a questão citar a literalidade, confira a redação vigente. E a Emenda cento e trinta, de dois mil e vinte e três, admitiu a permuta de magistrados entre tribunais do mesmo segmento. Também confira.
-ANTONIO: O inciso nove: julgamentos públicos e decisões fundamentadas, sob pena de nulidade. A lei pode limitar a presença às partes e advogados, ou só a eles, preservando a intimidade quando isso não prejudicar o interesse público à informação. O inciso dez: decisões administrativas motivadas, em sessão pública, e as disciplinares por maioria absoluta.
-THALITA: E o órgão especial?
-FRANCISCA: Inciso onze. Tribunais com mais de vinte e cinco julgadores podem ter órgão especial de onze a vinte e cinco membros. Metade das vagas por antiguidade e metade por eleição do tribunal pleno.
-BRUNO: A palavra é "poderá". Órgão especial obrigatório é pegadinha. E o inciso doze: atividade jurisdicional ininterrupta, vedadas férias coletivas nos juízos e tribunais de segundo grau. Nos Tribunais Superiores, não há essa vedação.
-ANTONIO: Por fim, o treze trata da proporcionalidade do número de juízes, o catorze da delegação de atos de mero expediente sem caráter decisório, e o quinze da distribuição imediata de processos em todos os graus.
-THALITA: Macete do artigo noventa e três: órgão especial é "poderá", férias coletivas só vedadas no segundo grau, remoção por maioria absoluta. Agora me conta do quinto constitucional, que sempre erro.
+THALITA: Seguimos. O inciso cinco fixa o subsídio dos Ministros dos Tribunais Superiores em noventa e cinco por cento do subsídio dos Ministros do Supremo, com escalonamento em que a diferença entre as categorias não passa de dez por cento nem fica abaixo de cinco por cento.
+FRANCISCA: O inciso sete eu lembro: juiz titular mora na comarca.
+THALITA: Isso, salvo autorização do tribunal. O inciso oito trata da remoção ou disponibilidade por interesse público, por decisão da maioria absoluta do tribunal ou do CNJ, assegurada ampla defesa.
+FRANCISCA: Atenção: é maioria absoluta, não dois terços. Aqui mora uma atualização: a Emenda cento e três, de dois mil e dezenove, tirou desse inciso a referência à aposentadoria como sanção. O texto atual fala em remoção e disponibilidade. A aposentadoria compulsória ainda aparece na LOMAN. Se a questão citar a literalidade, confira a redação vigente. E a Emenda cento e trinta, de dois mil e vinte e três, admitiu a permuta de magistrados entre tribunais do mesmo segmento. Também confira.
+THALITA: O inciso nove: julgamentos públicos e decisões fundamentadas, sob pena de nulidade. A lei pode limitar a presença às partes e advogados, ou só a eles, preservando a intimidade quando isso não prejudicar o interesse público à informação. O inciso dez: decisões administrativas motivadas, em sessão pública, e as disciplinares por maioria absoluta.
+FRANCISCA: E o órgão especial?
+THALITA: Inciso onze. Tribunais com mais de vinte e cinco julgadores podem ter órgão especial de onze a vinte e cinco membros. Metade das vagas por antiguidade e metade por eleição do tribunal pleno.
+FRANCISCA: A palavra é "poderá". Órgão especial obrigatório é pegadinha. E o inciso doze: atividade jurisdicional ininterrupta, vedadas férias coletivas nos juízos e tribunais de segundo grau. Nos Tribunais Superiores, não há essa vedação.
+THALITA: Por fim, o treze trata da proporcionalidade do número de juízes, o catorze da delegação de atos de mero expediente sem caráter decisório, e o quinze da distribuição imediata de processos em todos os graus.
+FRANCISCA: Macete do artigo noventa e três: órgão especial é "poderá", férias coletivas só vedadas no segundo grau, remoção por maioria absoluta. Agora me conta do quinto constitucional, que sempre erro.
 == SLIDE: Quinto constitucional (art. 94)
 * TRFs e TJs; TST e TRTs remetem ao art. 94
 * Um quinto: MP com mais de 10 anos e advogados
 * Lista sêxtupla, depois tríplice, escolha em 20 dias
 * Vitalício na posse, sem estágio de 2 anos
-ANTONIO: Quinto constitucional, artigo noventa e quatro. Vale para os Tribunais Regionais Federais e Tribunais de Justiça dos Estados e do Distrito Federal. Para o TST e os TRTs, os artigos cento e onze-A, inciso um, e cento e quinze, inciso um, remetem a ele.
-THALITA: E o quinto sai de onde?
-FRANCISCA: Um quinto dos lugares vai para membros do Ministério Público com mais de dez anos de carreira e para advogados de notório saber jurídico e reputação ilibada, com mais de dez anos de efetiva atividade profissional.
-THALITA: Como é o caminho? A OAB manda e o presidente escolhe?
-BRUNO: Falta uma etapa. Os órgãos de representação das classes, a OAB ou o Ministério Público, formam a lista sêxtupla, de seis nomes. O tribunal reduz para três, a lista tríplice, e envia ao Chefe do Executivo.
+THALITA: Quinto constitucional, artigo noventa e quatro. Vale para os Tribunais Regionais Federais e Tribunais de Justiça dos Estados e do Distrito Federal. Para o TST e os TRTs, os artigos cento e onze-A, inciso um, e cento e quinze, inciso um, remetem a ele.
+FRANCISCA: E o quinto sai de onde?
+THALITA: Um quinto dos lugares vai para membros do Ministério Público com mais de dez anos de carreira e para advogados de notório saber jurídico e reputação ilibada, com mais de dez anos de efetiva atividade profissional.
+FRANCISCA: Como é o caminho? A OAB manda e o presidente escolhe?
+THALITA: Falta uma etapa. Os órgãos de representação das classes, a OAB ou o Ministério Público, formam a lista sêxtupla, de seis nomes. O tribunal reduz para três, a lista tríplice, e envia ao Chefe do Executivo.
 FRANCISCA: E o Chefe do Executivo escolhe um nome nos vinte dias seguintes, conforme o parágrafo único do artigo noventa e quatro.
 THALITA: Seis, três, um. Vinte dias para escolher.
-ANTONIO: Quem escolhe? Para TRF, TRT e TST, o Presidente da República. Para o Tribunal de Justiça, o Governador.
-BRUNO: A pegadinha mais comum: o juiz do quinto se torna vitalício na posse. Não há o estágio probatório de dois anos, que é próprio do ingresso no primeiro grau. Se a banca disser que o quinto passa por dois anos de estágio, está errada.
+FRANCISCA: Quem escolhe? Para TRF, TRT e TST, o Presidente da República. Para o Tribunal de Justiça, o Governador.
+THALITA: A pegadinha mais comum: o juiz do quinto se torna vitalício na posse. Não há o estágio probatório de dois anos, que é próprio do ingresso no primeiro grau. Se a banca disser que o quinto passa por dois anos de estágio, está errada.
 FRANCISCA: Isso vale também para os Tribunais Superiores: vitaliciedade na posse.
 == SLIDE: Garantias e vedações dos magistrados (art. 95)
 * Vitaliciedade: 2 anos no 1º grau; depois, só sentença transitada
 * Inamovibilidade: exceção por interesse público
 * Irredutibilidade nominal, com ressalvas
 * Vedações: uma de magistério, quarentena de 3 anos
-ANTONIO: Artigo noventa e cinco, as garantias. A primeira é a vitaliciedade. No primeiro grau, só se adquire depois de dois anos de exercício. Nesse período, a perda do cargo depende de deliberação do tribunal. Depois de vitaliciado, só por sentença judicial transitada em julgado.
-THALITA: Então no estágio é decisão administrativa do tribunal, e depois é decisão judicial.
-FRANCISCA: Exatamente. Segunda garantia: inamovibilidade. O juiz não é removido sem seu consentimento, salvo por interesse público, por maioria absoluta do tribunal ou do CNJ. Terceira: irredutibilidade de subsídio, que é nominal, com ressalvas para o teto, o artigo trinta e nove, parágrafo quarto, e a tributação.
-BRUNO: Agora as vedações, no parágrafo único. Um: exercer outro cargo ou função, ainda que em disponibilidade, salvo uma de magistério. A pegadinha é "duas de magistério" ou "qualquer cargo técnico". Dois: receber custas ou participação em processo. Três: dedicar-se a atividade político-partidária.
-FRANCISCA: Quatro: receber auxílios ou contribuições de pessoas físicas ou entidades públicas ou privadas, ressalvadas as exceções previstas em lei, redação da Emenda quarenta e cinco.
-THALITA: E a quarentena?
-ANTONIO: Inciso cinco: o magistrado não pode exercer a advocacia no juízo ou tribunal do qual se afastou, antes de três anos do afastamento por aposentadoria ou exoneração.
-BRUNO: A quarentena é só no juízo ou tribunal de onde saiu, não em qualquer lugar. E a regra se aplica também ao Ministério Público, pelo artigo cento e vinte e oito, parágrafo sexto. Alta incidência na FCC.
+THALITA: Artigo noventa e cinco, as garantias. A primeira é a vitaliciedade. No primeiro grau, só se adquire depois de dois anos de exercício. Nesse período, a perda do cargo depende de deliberação do tribunal. Depois de vitaliciado, só por sentença judicial transitada em julgado.
+FRANCISCA: Então no estágio é decisão administrativa do tribunal, e depois é decisão judicial.
+THALITA: Exatamente. Segunda garantia: inamovibilidade. O juiz não é removido sem seu consentimento, salvo por interesse público, por maioria absoluta do tribunal ou do CNJ. Terceira: irredutibilidade de subsídio, que é nominal, com ressalvas para o teto, o artigo trinta e nove, parágrafo quarto, e a tributação.
+FRANCISCA: Agora as vedações, no parágrafo único. Um: exercer outro cargo ou função, ainda que em disponibilidade, salvo uma de magistério. A pegadinha é "duas de magistério" ou "qualquer cargo técnico". Dois: receber custas ou participação em processo. Três: dedicar-se a atividade político-partidária.
+THALITA: Quatro: receber auxílios ou contribuições de pessoas físicas ou entidades públicas ou privadas, ressalvadas as exceções previstas em lei, redação da Emenda quarenta e cinco.
+FRANCISCA: E a quarentena?
+THALITA: Inciso cinco: o magistrado não pode exercer a advocacia no juízo ou tribunal do qual se afastou, antes de três anos do afastamento por aposentadoria ou exoneração.
+FRANCISCA: A quarentena é só no juízo ou tribunal de onde saiu, não em qualquer lugar. E a regra se aplica também ao Ministério Público, pelo artigo cento e vinte e oito, parágrafo sexto. Alta incidência na FCC.
 == SLIDE: Competências, reserva de plenário e autonomia
 * Art. 96, I: tribunais elegem órgãos diretivos, fazem regimento
 * Art. 96, II: STF, Superiores e TJs propõem leis ao Legislativo
 * Reserva de plenário: maioria absoluta (art. 97; SV 10)
 * Autonomia administrativa e financeira; duodécimo até dia 20
-ANTONIO: Artigo noventa e seis, competências privativas dos tribunais. No inciso um, cada tribunal elege seus órgãos diretivos, elabora o regimento interno, organiza as secretarias, provê os cargos de juiz de carreira, propõe a criação de varas, provê por concurso os cargos de servidores e concede licença e férias a membros e juízes.
+THALITA: Artigo noventa e seis, competências privativas dos tribunais. No inciso um, cada tribunal elege seus órgãos diretivos, elabora o regimento interno, organiza as secretarias, provê os cargos de juiz de carreira, propõe a criação de varas, provê por concurso os cargos de servidores e concede licença e férias a membros e juízes.
 FRANCISCA: No inciso dois, o Supremo, os Tribunais Superiores e os Tribunais de Justiça propõem ao Legislativo a alteração do número de membros dos tribunais inferiores, a criação e extinção de cargos e a remuneração, a criação ou extinção de tribunais inferiores e a alteração da organização e divisão judiciárias. E no inciso três, os Tribunais de Justiça julgam juízes estaduais e membros do Ministério Público estadual nos crimes comuns e de responsabilidade, ressalvada a Justiça Eleitoral.
 THALITA: Agora a reserva de plenário, que eu sempre confundo.
-BRUNO: Artigo noventa e sete: o tribunal só declara a inconstitucionalidade de lei pela maioria absoluta de seus membros ou do órgão especial. A Súmula Vinculante dez complementa: viola a cláusula a decisão de órgão fracionário que, sem declarar expressamente a inconstitucionalidade, afasta a incidência da lei.
+FRANCISCA: Artigo noventa e sete: o tribunal só declara a inconstitucionalidade de lei pela maioria absoluta de seus membros ou do órgão especial. A Súmula Vinculante dez complementa: viola a cláusula a decisão de órgão fracionário que, sem declarar expressamente a inconstitucionalidade, afasta a incidência da lei.
 THALITA: Ou seja, não pode driblar dizendo que só afastou a lei.
 FRANCISCA: Isso. Artigo noventa e nove: o Judiciário tem autonomia administrativa e financeira. Os tribunais elaboram suas propostas orçamentárias nos limites da lei de diretrizes orçamentárias. Na União, quem encaminha são os Presidentes do Supremo e dos Tribunais Superiores; nos Estados e no Distrito Federal, os Presidentes dos Tribunais de Justiça.
-ANTONIO: Sem envio no prazo, o Executivo considera os valores da lei orçamentária vigente. Proposta fora dos limites é ajustada pelo Executivo. E não se realizam despesas acima da lei de diretrizes sem créditos suplementares ou especiais.
-BRUNO: E o artigo cento e sessenta e oito: os recursos, os duodécimos, são entregues até o dia vinte de cada mês.
+THALITA: Sem envio no prazo, o Executivo considera os valores da lei orçamentária vigente. Proposta fora dos limites é ajustada pelo Executivo. E não se realizam despesas acima da lei de diretrizes sem créditos suplementares ou especiais.
+FRANCISCA: E o artigo cento e sessenta e oito: os recursos, os duodécimos, são entregues até o dia vinte de cada mês.
 == SLIDE: Precatórios (art. 100): panorama
 * Ordem cronológica; crédito alimentar tem preferência
 * Superpreferência: 60 anos, doença grave, deficiência
 * RPV: obrigação de pequeno valor, sem precatório
 * Apresentados até 2 de abril: pagos até o fim do exercício seguinte
-ANTONIO: Fechamos com os precatórios, artigo cem, em panorama. A regra: os pagamentos das Fazendas Públicas por sentença judicial seguem a ordem cronológica de apresentação dos precatórios, vedada a designação de casos ou pessoas.
-THALITA: E os alimentares?
-FRANCISCA: Têm preferência sobre os demais: salários, vencimentos, pensões, benefícios previdenciários e indenizações por morte ou invalidez. E há uma superpreferência para titulares com sessenta anos ou mais, portadores de doença grave ou pessoas com deficiência, até o triplo do valor da RPV, admitido o fracionamento.
-BRUNO: A RPV é a requisição de pequeno valor. As obrigações de pequeno valor não se sujeitam a precatório. Na União, o limite é de sessenta salários mínimos, pela Lei dez mil duzentos e cinquenta e nove, de dois mil e um.
+THALITA: Fechamos com os precatórios, artigo cem, em panorama. A regra: os pagamentos das Fazendas Públicas por sentença judicial seguem a ordem cronológica de apresentação dos precatórios, vedada a designação de casos ou pessoas.
+FRANCISCA: E os alimentares?
+THALITA: Têm preferência sobre os demais: salários, vencimentos, pensões, benefícios previdenciários e indenizações por morte ou invalidez. E há uma superpreferência para titulares com sessenta anos ou mais, portadores de doença grave ou pessoas com deficiência, até o triplo do valor da RPV, admitido o fracionamento.
+FRANCISCA: A RPV é a requisição de pequeno valor. As obrigações de pequeno valor não se sujeitam a precatório. Na União, o limite é de sessenta salários mínimos, pela Lei dez mil duzentos e cinquenta e nove, de dois mil e um.
 THALITA: E o prazo de inclusão no orçamento?
 FRANCISCA: Os precatórios apresentados até dois de abril são pagos até o fim do exercício seguinte, redação da Emenda cento e catorze, de dois mil e vinte e um.
-BRUNO: Duas súmulas vinculantes importantes. A dezessete: durante o período constitucional de pagamento, não incidem juros de mora sobre os precatórios pagos nesse prazo. E a quarenta e sete: os honorários advocatícios incluídos na condenação ou destacados do principal têm natureza alimentar e são pagos por precatório ou RPV, em ordem especial.
-ANTONIO: E um aviso: o artigo cem foi alterado várias vezes, pelas Emendas sessenta e dois, noventa e quatro, noventa e nove, cento e treze, cento e catorze e posteriores. Confira sempre a redação vigente na data do edital antes de memorizar datas e percentuais.
+THALITA: Duas súmulas vinculantes importantes. A dezessete: durante o período constitucional de pagamento, não incidem juros de mora sobre os precatórios pagos nesse prazo. E a quarenta e sete: os honorários advocatícios incluídos na condenação ou destacados do principal têm natureza alimentar e são pagos por precatório ou RPV, em ordem especial.
+FRANCISCA: E um aviso: o artigo cem foi alterado várias vezes, pelas Emendas sessenta e dois, noventa e quatro, noventa e nove, cento e treze, cento e catorze e posteriores. Confira sempre a redação vigente na data do edital antes de memorizar datas e percentuais.
 THALITA: Resumindo: garantias e quarentena de três anos, quinto em seis, três, um, e reserva de plenário.
-ANTONIO: Muito bem. Na próxima aula entramos no Supremo Tribunal Federal, no Conselho Nacional de Justiça e no Superior Tribunal de Justiça, artigos cento e um a cento e cinco. Vamos lá!
+FRANCISCA: Muito bem. Na próxima aula entramos no Supremo Tribunal Federal, no Conselho Nacional de Justiça e no Superior Tribunal de Justiça, artigos cento e um a cento e cinco. Vamos lá!

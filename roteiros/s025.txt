@@ -7,35 +7,35 @@ SEGMENTO s025
 * Gabarito: E, um, três e cinco
 FRANCISCA: Ligando com as questões anteriores, a última do nosso bloco. Questão doze. Considere as afirmações sobre segurança. Um: no pharming, o usuário pode ser direcionado a página falsa mesmo digitando corretamente o endereço, por alterações no serviço de DNS. Dois: exigir senha e depois um PIN numérico caracteriza autenticação de dois fatores, por serem duas informações distintas. Três: o keylogger captura as teclas digitadas, e o screenlogger captura a tela e a posição do cursor, para contornar teclados virtuais. Quatro: o firewall pessoal dispensa o antivírus, pois detecta e remove os vírus dos arquivos. Cinco: na engenharia social, o atacante explora confiança ou ingenuidade da vítima para obter informações sigilosas, inclusive por telefone, sem código malicioso.
 THALITA: Pausa para pensar. A um é pharming, certo. A dois, senha e PIN são os dois algo que você sabe, então não é dois fatores: errada. A três, certa. A quatro, firewall não remove vírus: errada. A cinco, certa. Então um, três e cinco: E!
-BRUNO: Perfeito. Alternativa A, um e dois: errada, a dois é incorreta. B, dois e quatro: errada, são as duas incorretas.
-ANTONIO: C, um, dois e três: errada, inclui a dois. Senha e PIN pertencem à mesma categoria, algo que você sabe; dois fatores exigem categorias diferentes. D, três, quatro e cinco: errada, inclui a quatro. O firewall filtra tráfego de rede, não remove vírus, e não substitui o antivírus.
+FRANCISCA: Perfeito. Alternativa A, um e dois: errada, a dois é incorreta. B, dois e quatro: errada, são as duas incorretas.
+THALITA: C, um, dois e três: errada, inclui a dois. Senha e PIN pertencem à mesma categoria, algo que você sabe; dois fatores exigem categorias diferentes. D, três, quatro e cinco: errada, inclui a quatro. O firewall filtra tráfego de rede, não remove vírus, e não substitui o antivírus.
 FRANCISCA: E: correta, com as afirmações um, três e cinco. Gabarito: E.
 == SLIDE: Pegadinhas de Windows e Google Workspace
 * Win D x Win M, Win L x Win I
 * Arrastar: mesma unidade move, outra copia
 * Marcador x pasta; arquivar x excluir
 * Editor compartilha; comentarista sugere
-BRUNO: Antes do resumo, uma revisão das pegadinhas de Windows e Google. Windows D e Windows M não são a mesma coisa; Windows L bloqueia, Windows I abre configurações. Arrastar na mesma unidade move, em unidade diferente copia. Delete envia para a Lixeira, Shift Delete exclui de vez.
-THALITA: No Google Workspace é marcador contra pasta, arquivar contra excluir, e o modo confidencial não impede captura de tela. No Drive, editor compartilha por padrão e comentarista sugere.
-ANTONIO: Nas planilhas, o dólar trava o que vem logo depois, e a banca pede para você copiar a fórmula contando colunas e linhas. Em redes, SMTP envia, POP3 e IMAP recebem.
+THALITA: Antes do resumo, uma revisão das pegadinhas de Windows e Google. Windows D e Windows M não são a mesma coisa; Windows L bloqueia, Windows I abre configurações. Arrastar na mesma unidade move, em unidade diferente copia. Delete envia para a Lixeira, Shift Delete exclui de vez.
+FRANCISCA: No Google Workspace é marcador contra pasta, arquivar contra excluir, e o modo confidencial não impede captura de tela. No Drive, editor compartilha por padrão e comentarista sugere.
+THALITA: Nas planilhas, o dólar trava o que vem logo depois, e a banca pede para você copiar a fórmula contando colunas e linhas. Em redes, SMTP envia, POP3 e IMAP recebem.
 FRANCISCA: E nos navegadores, Ctrl Shift P no Firefox, Ctrl Shift N no Chrome e no Edge. A navegação privada apaga o histórico local, mas não esconde nada do provedor nem do empregador.
-BRUNO: Lembrem também que o cadeado do HTTPS indica conexão criptografada, não site legítimo.
+THALITA: Lembrem também que o cadeado do HTTPS indica conexão criptografada, não site legítimo.
 == SLIDE: Pegadinhas de redes, busca e segurança
 * Intranet é privada e usa tecnologia da internet; extranet abre a parceiros
 * Aspas, hífen, site e filetype nos operadores de busca
 * Certificado digital é emitido por Autoridade Certificadora
 * Chave simétrica é única; assimétrica tem par
-ANTONIO: Fechando a revisão com redes, busca e segurança. Intranet é uma rede privada que usa as tecnologias da internet, como navegador e HTTP, restrita a usuários internos. Extranet é a parte da intranet aberta, com controle, a parceiros externos. A VPN é o túnel criptografado que dá acesso seguro de fora.
-FRANCISCA: Na busca, aspas pedem a expressão exata, hífen exclui um termo, site restringe a um domínio e filetype restringe ao tipo de arquivo. O mais do Google foi descontinuado, e o OR amplia a busca em vez de restringir.
-BRUNO: Na segurança, criptografia simétrica usa uma única chave secreta e é rápida; assimétrica usa um par, público e privado, e é lenta. Sigilo se faz com a pública do destinatário; assinatura, com a privada do remetente sobre o hash. E o certificado digital é emitido por Autoridade Certificadora, que vincula a chave pública ao titular. Na ICP-Brasil, a AC Raiz é o ITI.
-ANTONIO: Quem emite o próprio certificado, ou diz que a assinatura garante sigilo, está errado na prova. Guardem também que a assinatura digital é espécie do gênero assinatura eletrônica, nos termos da lei do processo eletrônico.
+FRANCISCA: Fechando a revisão com redes, busca e segurança. Intranet é uma rede privada que usa as tecnologias da internet, como navegador e HTTP, restrita a usuários internos. Extranet é a parte da intranet aberta, com controle, a parceiros externos. A VPN é o túnel criptografado que dá acesso seguro de fora.
+THALITA: Na busca, aspas pedem a expressão exata, hífen exclui um termo, site restringe a um domínio e filetype restringe ao tipo de arquivo. O mais do Google foi descontinuado, e o OR amplia a busca em vez de restringir.
+FRANCISCA: Na segurança, criptografia simétrica usa uma única chave secreta e é rápida; assimétrica usa um par, público e privado, e é lenta. Sigilo se faz com a pública do destinatário; assinatura, com a privada do remetente sobre o hash. E o certificado digital é emitido por Autoridade Certificadora, que vincula a chave pública ao titular. Na ICP-Brasil, a AC Raiz é o ITI.
+THALITA: Quem emite o próprio certificado, ou diz que a assinatura garante sigilo, está errado na prova. Guardem também que a assinatura digital é espécie do gênero assinatura eletrônica, nos termos da lei do processo eletrônico.
 FRANCISCA: E a autenticação multifator: sabe, tem, é. Dois fatores exigem categorias diferentes. Senha mais PIN são ambos algo que você sabe, e por isso não são dois fatores.
-BRUNO: Revisadas as pegadinhas, vamos ao resumo relâmpago que fecha a aula.
+THALITA: Revisadas as pegadinhas, vamos ao resumo relâmpago que fecha a aula.
 == SLIDE: Resumo relâmpago e despedida
 * Vírus precisa de hospedeiro; worm se propaga sozinho
 * Diferencial: completo mais último diferencial
 * Assinatura digital não dá sigilo
 * Dois fatores: categorias diferentes
-THALITA: Hora do resumo relâmpago do que mais cai. Vírus precisa de hospedeiro e worm se propaga sozinho. Bot é controlado, trojan é disfarce, rootkit esconde. Phishing tem link, pharming adultera DNS. Firewall filtra e antivírus remove. Backup diferencial: completo mais o último diferencial; incremental: completo mais todos os incrementais. Assinatura digital: chave privada, garante autenticidade, integridade e não repúdio, não dá sigilo. Dois fatores, categorias diferentes. SMTP envia, POP3 e IMAP recebem. Ctrl Shift P é do Firefox. E dólar trava na planilha.
-FRANCISCA: Só acrescento que a prova cobra mais o conceito do que a sigla. Quem entende por que cada coisa funciona acerta a questão mesmo quando a banca muda o enunciado.
-ANTONIO: Ótimo resumo, Thalita. Fim de aula, bons estudos e até a próxima!
+FRANCISCA: Hora do resumo relâmpago do que mais cai. Vírus precisa de hospedeiro e worm se propaga sozinho. Bot é controlado, trojan é disfarce, rootkit esconde. Phishing tem link, pharming adultera DNS. Firewall filtra e antivírus remove. Backup diferencial: completo mais o último diferencial; incremental: completo mais todos os incrementais. Assinatura digital: chave privada, garante autenticidade, integridade e não repúdio, não dá sigilo. Dois fatores, categorias diferentes. SMTP envia, POP3 e IMAP recebem. Ctrl Shift P é do Firefox. E dólar trava na planilha.
+THALITA: Só acrescento que a prova cobra mais o conceito do que a sigla. Quem entende por que cada coisa funciona acerta a questão mesmo quando a banca muda o enunciado.
+FRANCISCA: Ótimo resumo, Thalita. Fim de aula, bons estudos e até a próxima!

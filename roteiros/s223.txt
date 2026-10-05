@@ -5,21 +5,21 @@ SEGMENTO s223
 * Servidão: prédio dominante e serviente, registro; usucapião se aparente
 * Uso e habitação: fruição limitada, habitação gratuita
 * Concessão de uso especial: imóvel público urbano, até 250 m²
-ANTONIO: Vimos a propriedade, a vizinhança e o condomínio. Agora os direitos reais sobre coisa alheia, que dão a alguém poderes sobre bem de outra pessoa. Começamos pelos direitos de gozo.
+FRANCISCA: Vimos a propriedade, a vizinhança e o condomínio. Agora os direitos reais sobre coisa alheia, que dão a alguém poderes sobre bem de outra pessoa. Começamos pelos direitos de gozo.
 THALITA: Por qual começo? Parece muita coisa.
 FRANCISCA: Pela superfície, artigos mil trezentos e sessenta e nove a mil trezentos e setenta e sete. O proprietário concede a outra pessoa o direito de construir ou plantar em seu terreno, por tempo determinado, por escritura pública registrada.
-BRUNO: A FCC cobra os detalhes. Pode ser gratuita ou onerosa. Não abrange o subsolo, salvo se for inerente ao objeto da concessão. E é proibido cobrar pela transferência do direito.
-THALITA: E quando acaba a superfície? O superficiário perde a obra?
-FRANCISCA: Perde. Extinta a concessão, o dono do terreno recebe a construção ou a plantação sem indenização, salvo se as partes pactuaram o contrário. Detalhe: o Estatuto da Cidade admite prazo indeterminado.
-ANTONIO: Segunda figura, a servidão. Ela é um ônus sobre um prédio, o serviente, em proveito de outro, o dominante, de donos diversos. Exige registro. Pode ser adquirida por usucapião, se for aparente.
-BRUNO: Dez anos com título, vinte sem título. E a Súmula quatrocentos e quinze do STF diz que a servidão de trânsito com obras visíveis é aparente.
-THALITA: Chutando: servidão de passagem sem obra nenhuma, sem usucapião?
-FRANCISCA: Certíssima. Não sendo aparente, não há usucapião.
-ANTONIO: Agora uso e habitação. O uso é a fruição limitada às necessidades do usuário e de sua família. A habitação é gratuita: o titular só pode ocupar a casa com a família, sem alugar ou emprestar.
-BRUNO: Alugar ou emprestar, nem pensar. Aparece sempre como alternativa errada.
-THALITA: E a concessão de uso especial para moradia?
-FRANCISCA: Vem de uma medida provisória. Serve para imóvel público urbano de até duzentos e cinquenta metros quadrados, com posse de cinco anos sem oposição, para moradia, sem outro imóvel. É gratuita. Mas cuidado: o marco temporal foi alterado pela lei treze mil quatrocentos e sessenta e cinco, de dois mil e dezessete.
-ANTONIO: Guardada essa lista, passamos ao usufruto, o direito de gozo mais cobrado.
+THALITA: A FCC cobra os detalhes. Pode ser gratuita ou onerosa. Não abrange o subsolo, salvo se for inerente ao objeto da concessão. E é proibido cobrar pela transferência do direito.
+FRANCISCA: E quando acaba a superfície? O superficiário perde a obra?
+THALITA: Perde. Extinta a concessão, o dono do terreno recebe a construção ou a plantação sem indenização, salvo se as partes pactuaram o contrário. Detalhe: o Estatuto da Cidade admite prazo indeterminado.
+FRANCISCA: Segunda figura, a servidão. Ela é um ônus sobre um prédio, o serviente, em proveito de outro, o dominante, de donos diversos. Exige registro. Pode ser adquirida por usucapião, se for aparente.
+THALITA: Dez anos com título, vinte sem título. E a Súmula quatrocentos e quinze do STF diz que a servidão de trânsito com obras visíveis é aparente.
+FRANCISCA: Chutando: servidão de passagem sem obra nenhuma, sem usucapião?
+THALITA: Certíssima. Não sendo aparente, não há usucapião.
+FRANCISCA: Agora uso e habitação. O uso é a fruição limitada às necessidades do usuário e de sua família. A habitação é gratuita: o titular só pode ocupar a casa com a família, sem alugar ou emprestar.
+THALITA: Alugar ou emprestar, nem pensar. Aparece sempre como alternativa errada.
+FRANCISCA: E a concessão de uso especial para moradia?
+THALITA: Vem de uma medida provisória. Serve para imóvel público urbano de até duzentos e cinquenta metros quadrados, com posse de cinco anos sem oposição, para moradia, sem outro imóvel. É gratuita. Mas cuidado: o marco temporal foi alterado pela lei treze mil quatrocentos e sessenta e cinco, de dois mil e dezessete.
+FRANCISCA: Guardada essa lista, passamos ao usufruto, o direito de gozo mais cobrado.
 == SLIDE: Usufruto: inalienável, mas o exercício pode ser cedido
 * Objeto: móveis ou imóveis, patrimônio inteiro ou parte (art. 1.390)
 * Registro para imóvel, salvo usucapião (art. 1.391)
@@ -27,48 +27,48 @@ ANTONIO: Guardada essa lista, passamos ao usufruto, o direito de gozo mais cobra
 * Extinção: morte do usufrutuário, termo, trinta anos para pessoa jurídica, não uso
 * Simultâneo: direito de acrescer só se pactuado
 THALITA: Posso começar pelo meu entendimento? Usufruto é quando alguém usa e aproveita o bem, mas o dono continua sendo outro.
-ANTONIO: Perfeito. O usufrutuário usa e colhe os frutos; o dono, chamado nu-proprietário, mantém a propriedade. O objeto pode ser móvel ou imóvel, o patrimônio inteiro ou uma parte dele.
-FRANCISCA: Para imóvel, exige registro, salvo se o usufruto nasceu de usucapião. E o ponto mais cobrado está no artigo mil trezentos e noventa e três: o usufruto não se pode transferir por alienação. O que pode ser cedido, gratuita ou onerosamente, é o exercício.
-THALITA: Então eu não posso vender o usufruto, mas posso alugar o direito de usar?
-BRUNO: É isso. A banca escreve que o usufrutuário pode vender o usufruto, e está errado. Pode ceder o exercício.
-ANTONIO: Quanto aos encargos, o usufrutuário paga as despesas ordinárias de conservação, os tributos e os reparos módicos. As despesas extraordinárias cabem ao dono, quando passarem de dois terços do rendimento líquido anual.
-FRANCISCA: Extinção, artigo mil quatrocentos e dez. Por renúncia, por morte do usufrutuário, pelo termo, pelo fim da pessoa jurídica usufrutuária ou, no máximo, trinta anos, pela cessação do motivo, pela destruição da coisa, pela consolidação, por culpa e pelo não uso.
-BRUNO: Atenção: o usufruto é personalíssimo. Morreu o usufrutuário, extingue. Morreu o nu-proprietário, o usufruto continua. E o direito é impenhorável, mas os frutos do exercício são penhoráveis.
+FRANCISCA: Perfeito. O usufrutuário usa e colhe os frutos; o dono, chamado nu-proprietário, mantém a propriedade. O objeto pode ser móvel ou imóvel, o patrimônio inteiro ou uma parte dele.
+THALITA: Para imóvel, exige registro, salvo se o usufruto nasceu de usucapião. E o ponto mais cobrado está no artigo mil trezentos e noventa e três: o usufruto não se pode transferir por alienação. O que pode ser cedido, gratuita ou onerosamente, é o exercício.
+FRANCISCA: Então eu não posso vender o usufruto, mas posso alugar o direito de usar?
+THALITA: É isso. A banca escreve que o usufrutuário pode vender o usufruto, e está errado. Pode ceder o exercício.
+FRANCISCA: Quanto aos encargos, o usufrutuário paga as despesas ordinárias de conservação, os tributos e os reparos módicos. As despesas extraordinárias cabem ao dono, quando passarem de dois terços do rendimento líquido anual.
+THALITA: Extinção, artigo mil quatrocentos e dez. Por renúncia, por morte do usufrutuário, pelo termo, pelo fim da pessoa jurídica usufrutuária ou, no máximo, trinta anos, pela cessação do motivo, pela destruição da coisa, pela consolidação, por culpa e pelo não uso.
+FRANCISCA: Atenção: o usufruto é personalíssimo. Morreu o usufrutuário, extingue. Morreu o nu-proprietário, o usufruto continua. E o direito é impenhorável, mas os frutos do exercício são penhoráveis.
 THALITA: Se são vários usufrutuários e um morre?
 FRANCISCA: A parte dele se extingue, salvo se foi pactuado o direito de acrescer, artigo mil quatrocentos e onze.
 THALITA: Resumo: usufruto morre com o usufrutuário, não pode ser vendido, mas o exercício pode ser cedido.
-ANTONIO: Perfeito. Vamos ao direito de laje, novidade que a banca ama.
+FRANCISCA: Perfeito. Vamos ao direito de laje, novidade que a banca ama.
 == SLIDE: Direito real de laje e promitente comprador
 * Laje: unidade autônoma sobre ou sob a construção-base
 * Matrícula própria; sem fração ideal do terreno
 * Preferência: dono da base, depois titulares das lajes
 * Promitente comprador: promessa sem arrependimento, registrada
 * Súmula 239 STJ: adjudicação compulsória independe do registro
-FRANCISCA: O direito real de laje, artigos mil quinhentos e dez-A a mil quinhentos e dez-E. O dono da construção-base cede a superfície superior ou inferior para outra pessoa construir uma unidade autônoma.
-BRUNO: A unidade tem matrícula própria, e o titular usa, goza e dispõe dela. Não há fração ideal do terreno nem participação nas áreas já edificadas. Lajes sucessivas só com autorização expressa do dono da base e das demais lajes.
+THALITA: O direito real de laje, artigos mil quinhentos e dez-A a mil quinhentos e dez-E. O dono da construção-base cede a superfície superior ou inferior para outra pessoa construir uma unidade autônoma.
+FRANCISCA: A unidade tem matrícula própria, e o titular usa, goza e dispõe dela. Não há fração ideal do terreno nem participação nas áreas já edificadas. Lajes sucessivas só com autorização expressa do dono da base e das demais lajes.
 THALITA: E se alguém vender a laje?
 FRANCISCA: Há preferência. Primeiro o dono da construção-base, depois os titulares das outras lajes, com ciência de trinta dias. O preterido deposita o preço em cento e oitenta dias. Se a base cair, extingue a laje, salvo se estiver no subsolo ou se a base for reconstruída em cinco anos.
-ANTONIO: Agora o promitente comprador, artigo mil quatrocentos e dezessete. A promessa de compra e venda, sem arrependimento, por instrumento público ou particular, quando registrada, dá direito real.
-THALITA: Eu pagei tudo, mas não registrei. Perdi a casa?
-BRUNO: De jeito nenhum. A Súmula duzentos e trinta e nove do STJ diz que a adjudicação compulsória independe do registro do compromisso. O registro só gera eficácia real perante terceiros.
+THALITA: Agora o promitente comprador, artigo mil quatrocentos e dezessete. A promessa de compra e venda, sem arrependimento, por instrumento público ou particular, quando registrada, dá direito real.
+FRANCISCA: Eu pagei tudo, mas não registrei. Perdi a casa?
+THALITA: De jeito nenhum. A Súmula duzentos e trinta e nove do STJ diz que a adjudicação compulsória independe do registro do compromisso. O registro só gera eficácia real perante terceiros.
 FRANCISCA: Se o vendedor se recusa a dar a escritura, o juiz adjudica o imóvel. Há também a via extrajudicial pelo registro de imóveis. E a Súmula oitenta e quatro do STJ admite embargos de terceiro com base em compromisso não registrado.
 THALITA: Sem registro, adjudica e embarga, mas não vale contra todos.
-ANTONIO: Exatamente. Falta a última categoria: as garantias reais.
+FRANCISCA: Exatamente. Falta a última categoria: as garantias reais.
 == SLIDE: Garantias reais: penhor, hipoteca e anticrese
 * Só quem pode alienar dá em garantia
 * Indivisibilidade e especialização
 * Pacto comissório é nulo (art. 1.428)
 * Penhor: móvel com entrega; hipoteca: imóveis, navios; anticrese: frutos
 * Vencimento antecipado (art. 1.425)
-BRUNO: Nas garantias, quem só pode alienar pode oferecer o bem. Pelo artigo mil quatrocentos e vinte e um, vale a indivisibilidade: pagamento parcial não libera parte da garantia, salvo pacto.
+THALITA: Nas garantias, quem só pode alienar pode oferecer o bem. Pelo artigo mil quatrocentos e vinte e um, vale a indivisibilidade: pagamento parcial não libera parte da garantia, salvo pacto.
 FRANCISCA: E a especialização exige indicar o valor do crédito, o prazo, os juros e a descrição do bem. Excutido o bem, o devedor continua respondendo pelo saldo.
 THALITA: Se eu não pagar no vencimento, o banco pode ficar com o bem?
-ANTONIO: Não. É o pacto comissório, nulo pelo artigo mil quatrocentos e vinte e oito. Após o vencimento, porém, o devedor pode dar o bem em pagamento. A doutrina das Jornadas admite o pacto marciano, com avaliação por terceiro e devolução do excedente.
-BRUNO: O pacto comissório também é nulo na alienação fiduciária, artigo mil trezentos e sessenta e cinco.
+FRANCISCA: Não. É o pacto comissório, nulo pelo artigo mil quatrocentos e vinte e oito. Após o vencimento, porém, o devedor pode dar o bem em pagamento. A doutrina das Jornadas admite o pacto marciano, com avaliação por terceiro e devolução do excedente.
+THALITA: O pacto comissório também é nulo na alienação fiduciária, artigo mil trezentos e sessenta e cinco.
 FRANCISCA: Sobre o penhor, recai sobre bem móvel e exige entrega da posse ao credor, menos no penhor rural, industrial, mercantil e de veículos. Há penhor legal, como o do hospedeiro e o do locador.
 THALITA: E a hipoteca?
-ANTONIO: Recai sobre imóveis, navios e aeronaves. É nula a cláusula que proíbe alienar o imóvel hipotecado. Admite segunda hipoteca. E a perempção ocorre em trinta anos.
-BRUNO: A anticrese é a que o credor recebe os frutos do imóvel para amortizar a dívida. A retenção cessa em quinze anos. E a Súmula trezentos e oito do STJ diz que a hipoteca entre construtora e agente financeiro não atinge os adquirentes.
+FRANCISCA: Recai sobre imóveis, navios e aeronaves. É nula a cláusula que proíbe alienar o imóvel hipotecado. Admite segunda hipoteca. E a perempção ocorre em trinta anos.
+THALITA: A anticrese é a que o credor recebe os frutos do imóvel para amortizar a dívida. A retenção cessa em quinze anos. E a Súmula trezentos e oito do STJ diz que a hipoteca entre construtora e agente financeiro não atinge os adquirentes.
 FRANCISCA: Vencimento antecipado, artigo mil quatrocentos e vinte e cinco: deterioração sem reforço, insolvência ou falência, impontualidade, perecimento sem substituição e desapropriação.
 THALITA: Anticrese: frutos. Hipoteca: imóvel. Penhor: móvel. Gravei.
 == SLIDE: Questões um a quatro: posse, benfeitorias, usucapião e condomínio
@@ -76,45 +76,45 @@ THALITA: Anticrese: frutos. Hipoteca: imóvel. Penhor: móvel. Gravei.
 * Q2: possuidor de má-fé só recebe as necessárias, sem retenção
 * Q3: extraordinária com moradia, dez anos
 * Q4: mudança de destinação exige dois terços
-ANTONIO: Hora de praticar. Questão um. Considere: um, posse injusta é a violenta, a clandestina ou a precária; dois, posse injusta é necessariamente de má-fé; três, a posse direta do locatário não anula a indireta do locador. A, só um. B, só dois. C, um e dois. D, um e três. E, todos. Pausa para você pensar.
+FRANCISCA: Hora de praticar. Questão um. Considere: um, posse injusta é a violenta, a clandestina ou a precária; dois, posse injusta é necessariamente de má-fé; três, a posse direta do locatário não anula a indireta do locador. A, só um. B, só dois. C, um e dois. D, um e três. E, todos. Pausa para você pensar.
 THALITA: Eu marco a E. Parece tudo bonito.
 FRANCISCA: Cuidado. O item dois é falso: justiça é critério objetivo, boa-fé é subjetivo. Um e três estão certos, artigos mil duzentos e mil cento e noventa e sete. Gabarito D. A A omite o três, B e C trazem o dois e E também.
-BRUNO: Questão dois. Bruno, possuidor de má-fé, fez benfeitorias necessárias, úteis e voluptuárias. Vencido na reivindicatória, ele A, recebe necessárias e úteis, com retenção. B, só as necessárias, sem retenção. C, levanta as voluptuárias. D, nada. E, as três pelo valor atual.
-THALITA: B, porque o macete é má-fé, só necessárias.
-ANTONIO: Correta, artigo mil duzentos e vinte. A A é regra do de boa-fé. A C é vedada ao de má-fé. A D erra: necessárias são indenizadas. A E erra: úteis e voluptuárias não se indenizam.
+THALITA: Questão dois. Bruno, possuidor de má-fé, fez benfeitorias necessárias, úteis e voluptuárias. Vencido na reivindicatória, ele A, recebe necessárias e úteis, com retenção. B, só as necessárias, sem retenção. C, levanta as voluptuárias. D, nada. E, as três pelo valor atual.
+FRANCISCA: B, porque o macete é má-fé, só necessárias.
+THALITA: Correta, artigo mil duzentos e vinte. A A é regra do de boa-fé. A C é vedada ao de má-fé. A D erra: necessárias são indenizadas. A E erra: úteis e voluptuárias não se indenizam.
 FRANCISCA: Questão três. Tereza possui, sem título e sem boa-fé, imóvel urbano de quatrocentos metros quadrados, onde mora há onze anos, sem oposição. A, só após quinze anos. B, poderia ter usucapido em cinco anos pela especial urbana. C, não pode sem justo título. D, vinte anos. E, já pode, pois a moradia reduz o prazo para dez anos.
 THALITA: Eu chutei A, porque lembro de quinze anos.
-BRUNO: Quinze cai para dez com moradia, artigo mil duzentos e trinta e oito, parágrafo único. Gabarito E. A B erra: especial urbana exige até duzentos e cinquenta metros. A C erra: extraordinária dispensa título. A D traz prazo inexistente.
-ANTONIO: Questão quatro, condomínio edilício. A, mudança de destinação com dois terços dos votos. B, síndico deve ser condômino, mandato de três anos. C, antissocial paga até cinco vezes. D, multa por atraso até dez por cento. E, obras úteis exigem unanimidade.
-THALITA: A letra A, por causa da lei de dois mil e vinte e dois.
-FRANCISCA: Correta. B erra: síndico pode ser estranho, mandato de até dois anos. C erra: até dez vezes. D erra: multa até dois por cento. E erra: obras úteis, maioria.
+FRANCISCA: Quinze cai para dez com moradia, artigo mil duzentos e trinta e oito, parágrafo único. Gabarito E. A B erra: especial urbana exige até duzentos e cinquenta metros. A C erra: extraordinária dispensa título. A D traz prazo inexistente.
+THALITA: Questão quatro, condomínio edilício. A, mudança de destinação com dois terços dos votos. B, síndico deve ser condômino, mandato de três anos. C, antissocial paga até cinco vezes. D, multa por atraso até dez por cento. E, obras úteis exigem unanimidade.
+FRANCISCA: A letra A, por causa da lei de dois mil e vinte e dois.
+THALITA: Correta. B erra: síndico pode ser estranho, mandato de até dois anos. C erra: até dez vezes. D erra: multa até dois por cento. E erra: obras úteis, maioria.
 == SLIDE: Questões cinco a oito: usufruto, laje, promessa e garantias
 * Q5: exercício do usufruto pode ser cedido
 * Q6: laje tem matrícula própria
 * Q7: Súmula 239 STJ
 * Q8: pacto comissório é nulo
-BRUNO: Questão cinco. Ana instituiu usufruto vitalício de apartamento em favor de Márcio. A, Márcio pode vender o usufruto. B, morrendo Ana, extingue-se. C, Márcio pode ceder onerosamente o exercício. D, morrendo Márcio, passa aos herdeiros. E, o não uso não extingue.
+FRANCISCA: Questão cinco. Ana instituiu usufruto vitalício de apartamento em favor de Márcio. A, Márcio pode vender o usufruto. B, morrendo Ana, extingue-se. C, Márcio pode ceder onerosamente o exercício. D, morrendo Márcio, passa aos herdeiros. E, o não uso não extingue.
 THALITA: Eu iria na B, porque o dono morreu.
-ANTONIO: O usufruto só extingue com a morte do usufrutuário. Gabarito C, artigo mil trezentos e noventa e três. A A erra: o direito é inalienável. A D erra: extingue com a morte de Márcio. A E erra: o não uso extingue.
-FRANCISCA: Questão seis, laje. A, dá fração ideal do terreno. B, não admite lajes sucessivas. C, a ruína da base sempre extingue. D, matrícula própria e o titular usa, goza e dispõe. E, na alienação, o titular da laje prefere ao dono da base.
-THALITA: A D, porque lembro de matrícula própria.
-BRUNO: Correta. A A erra, não há fração ideal. B erra, admite com autorização expressa. C erra, salvo subsolo ou reconstrução em cinco anos. E erra: prefere primeiro o dono da base.
-ANTONIO: Questão sete. Carla firmou promessa de compra de imóvel, sem arrependimento, não registrada, e quitou o preço. O vendedor recusa a escritura. Segundo o STJ, ela A, pode pedir adjudicação compulsória, que independe do registro. B, só perdas e danos. C, precisa registrar antes. D, tem direito real oponível a terceiros. E, não pode opor embargos de terceiro.
+FRANCISCA: O usufruto só extingue com a morte do usufrutuário. Gabarito C, artigo mil trezentos e noventa e três. A A erra: o direito é inalienável. A D erra: extingue com a morte de Márcio. A E erra: o não uso extingue.
+THALITA: Questão seis, laje. A, dá fração ideal do terreno. B, não admite lajes sucessivas. C, a ruína da base sempre extingue. D, matrícula própria e o titular usa, goza e dispõe. E, na alienação, o titular da laje prefere ao dono da base.
+FRANCISCA: A D, porque lembro de matrícula própria.
+THALITA: Correta. A A erra, não há fração ideal. B erra, admite com autorização expressa. C erra, salvo subsolo ou reconstrução em cinco anos. E erra: prefere primeiro o dono da base.
+FRANCISCA: Questão sete. Carla firmou promessa de compra de imóvel, sem arrependimento, não registrada, e quitou o preço. O vendedor recusa a escritura. Segundo o STJ, ela A, pode pedir adjudicação compulsória, que independe do registro. B, só perdas e danos. C, precisa registrar antes. D, tem direito real oponível a terceiros. E, não pode opor embargos de terceiro.
 THALITA: A, Súmula duzentos e trinta e nove.
 FRANCISCA: Isso. B erra: cabe tutela específica. C contraria a súmula. D erra: o direito real exige registro. E erra: a Súmula oitenta e quatro admite embargos.
-BRUNO: Questão oito, garantias. A, pagar metade libera metade do bem hipotecado. B, vale a cláusula que proíbe alienar. C, penhor exige sempre entrega. D, excutido o bem, devedor se libera do saldo. E, é nula cláusula que autoriza o credor a ficar com o bem se a dívida não for paga.
-THALITA: E, pacto comissório.
-ANTONIO: Gabarito E, artigo mil quatrocentos e vinte e oito. A A erra pela indivisibilidade. B erra: é nula. C erra: há exceções. D erra: responde pelo saldo.
+THALITA: Questão oito, garantias. A, pagar metade libera metade do bem hipotecado. B, vale a cláusula que proíbe alienar. C, penhor exige sempre entrega. D, excutido o bem, devedor se libera do saldo. E, é nula cláusula que autoriza o credor a ficar com o bem se a dívida não for paga.
+FRANCISCA: E, pacto comissório.
+THALITA: Gabarito E, artigo mil quatrocentos e vinte e oito. A A erra pela indivisibilidade. B erra: é nula. C erra: há exceções. D erra: responde pelo saldo.
 == SLIDE: Questões nove e dez e revisão final
 * Q9: tesouro metade a metade; abandono, Município após três anos
 * Q10: desforço imediato, logo e sem excessos
 * Revisão: classificação da posse, usucapião, condomínio e usufruto
 FRANCISCA: Questão nove. Paulo, sem autorização, achou casualmente um tesouro no terreno de Beta. Beta também abandonou outro imóvel urbano, deixando de pagar os tributos. A, o tesouro é de Paulo. B, dividido por igual, e o imóvel abandonado passa ao Município após três anos. C, tesouro ao Município. D, abandonado à União em cinco anos. E, abandono só por decisão judicial.
 THALITA: Eu marcaria a B.
-BRUNO: Correta, artigos mil duzentos e sessenta e quatro e mil duzentos e setenta e seis. A A erra: divide-se. A C não existe. A D troca: urbano vai ao Município. A E erra: a presunção é absoluta.
-ANTONIO: Questão dez. A, o caseiro é possuidor direto. B, alegar propriedade impede a proteção possessória. C, o esbulhado pode se restituir por força própria, logo e sem excessos. D, o sucessor singular continua obrigatoriamente a posse. E, a posse-trabalho dispensa indenização.
-THALITA: A C, desforço imediato.
-FRANCISCA: Correta. O caseiro é detentor. A exceção de domínio não impede a proteção. Ao sucessor singular a união é facultativa. Na posse-trabalho há justa indenização.
-THALITA: Agora meu resumo relâmpago. Posse: justa e injusta é objetivo, boa e má-fé é subjetivo. Benfeitorias: boa-fé, necessárias e úteis com retenção; má-fé, só necessárias, sem retenção. Usucapião: quinze, dez, cinco e dois anos. Condomínio: dois terços e dez vezes. Usufruto: exercício cedível, morte extingue. Pacto comissório sempre nulo.
-BRUNO: Perfeito. E lembre que bem público nunca se usucapi.
-ANTONIO: Terminamos o Direito das Coisas. Bons estudos e até a próxima aula!
+FRANCISCA: Correta, artigos mil duzentos e sessenta e quatro e mil duzentos e setenta e seis. A A erra: divide-se. A C não existe. A D troca: urbano vai ao Município. A E erra: a presunção é absoluta.
+THALITA: Questão dez. A, o caseiro é possuidor direto. B, alegar propriedade impede a proteção possessória. C, o esbulhado pode se restituir por força própria, logo e sem excessos. D, o sucessor singular continua obrigatoriamente a posse. E, a posse-trabalho dispensa indenização.
+FRANCISCA: A C, desforço imediato.
+THALITA: Correta. O caseiro é detentor. A exceção de domínio não impede a proteção. Ao sucessor singular a união é facultativa. Na posse-trabalho há justa indenização.
+FRANCISCA: Agora meu resumo relâmpago. Posse: justa e injusta é objetivo, boa e má-fé é subjetivo. Benfeitorias: boa-fé, necessárias e úteis com retenção; má-fé, só necessárias, sem retenção. Usucapião: quinze, dez, cinco e dois anos. Condomínio: dois terços e dez vezes. Usufruto: exercício cedível, morte extingue. Pacto comissório sempre nulo.
+THALITA: Perfeito. E lembre que bem público nunca se usucapi.
+FRANCISCA: Terminamos o Direito das Coisas. Bons estudos e até a próxima aula!

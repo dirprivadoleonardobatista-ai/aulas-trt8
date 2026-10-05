@@ -4,17 +4,16 @@ SEGMENTO s168
 * Convenção 87 da OIT: não ratificada
 * Convenção 98 da OIT: ratificada
 * Dimensões: individual positiva e negativa, coletiva, autonomia
-ANTONIO: Olá, pessoal, bem-vindos à aula quarenta e nove do nosso curso para o TRT da oitava região. Entramos no Direito Coletivo, Greve e Jurisprudência Vinculante. Hoje vemos a liberdade e a organização sindical, depois as contribuições sindicais e a negociação coletiva, e por fim a greve.
-THALITA: Oi, gente, sou a Thalita, concurseira. Vou perguntar o que a gente tem vergonha de perguntar.
-FRANCISCA: Eu sou a Francisca, professora. Trago a Constituição, a lei e a jurisprudência.
-BRUNO: E eu sou o Bruno, especialista em FCC. Mostro onde a banca arma a pegadinha.
-ANTONIO: A liberdade sindical é a matriz do Direito Coletivo. É o conjunto de prerrogativas que permite a trabalhadores e empregadores criar entidades representativas, delas participar ou se afastar, e que garante a essas entidades atuar sem ingerência do Estado ou da parte contrária. No Brasil, adotamos uma liberdade sindical mitigada: unicidade sindical, base mínima municipal e sistema confederativo.
-THALITA: E a FCC cobra isso como?
-BRUNO: Por classificação. A dimensão individual positiva é o direito de filiar-se. A individual negativa é o direito de não se filiar ou de se desfiliar, artigo oitavo, inciso cinco. A coletiva de organização é fundar entidade, elaborar estatuto e eleger dirigentes, inciso um. A coletiva de ação é negociar, fazer greve e representar a categoria. E a autonomia sindical é a independência perante o Estado e perante o empregador, com a proibição do chamado sindicato amarelo.
+FRANCISCA: Olá, pessoal, bem-vindos à aula quarenta e nove do nosso curso para o TRT da oitava região. Entramos no Direito Coletivo, Greve e Jurisprudência Vinculante. Hoje vemos a liberdade e a organização sindical, depois as contribuições sindicais e a negociação coletiva, e por fim a greve.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: A liberdade sindical é a matriz do Direito Coletivo. É o conjunto de prerrogativas que permite a trabalhadores e empregadores criar entidades representativas, delas participar ou se afastar, e que garante a essas entidades atuar sem ingerência do Estado ou da parte contrária. No Brasil, adotamos uma liberdade sindical mitigada: unicidade sindical, base mínima municipal e sistema confederativo.
+FRANCISCA: E a FCC cobra isso como?
+THALITA: Por classificação. A dimensão individual positiva é o direito de filiar-se. A individual negativa é o direito de não se filiar ou de se desfiliar, artigo oitavo, inciso cinco. A coletiva de organização é fundar entidade, elaborar estatuto e eleger dirigentes, inciso um. A coletiva de ação é negociar, fazer greve e representar a categoria. E a autonomia sindical é a independência perante o Estado e perante o empregador, com a proibição do chamado sindicato amarelo.
 FRANCISCA: Quanto às normas internacionais, a Convenção oitenta e sete da OIT, de mil novecentos e quarenta e oito, trata da liberdade sindical plena e pluralidade. O Brasil não ratificou, porque ela esbarra na unicidade do artigo oitavo, inciso dois. Já a Convenção noventa e oito, de mil novecentos e quarenta e nove, sobre proteção contra atos antissindicais e fomento à negociação, foi ratificada.
 THALITA: Então a pegadinha é dizer que o Brasil ratificou a oitenta e sete.
-BRUNO: Exatamente. As convenções cento e trinta e cinco, sobre a proteção dos representantes dos trabalhadores na empresa, e cento e cinquenta e quatro, sobre fomento à negociação coletiva, também foram ratificadas.
-ANTONIO: Macete: oitenta e sete, plena e não ratificada; noventa e oito, proteção e ratificada.
+FRANCISCA: Exatamente. As convenções cento e trinta e cinco, sobre a proteção dos representantes dos trabalhadores na empresa, e cento e cinquenta e quatro, sobre fomento à negociação coletiva, também foram ratificadas.
+THALITA: Macete: oitenta e sete, plena e não ratificada; noventa e oito, proteção e ratificada.
 == SLIDE: Artigo 8º da Constituição, incisos I a IV
 * I: registro, não autorização; sem interferência do Estado
 * II: unicidade; base mínima de um Município
@@ -22,39 +21,39 @@ ANTONIO: Macete: oitenta e sete, plena e não ratificada; noventa e oito, prote�
 * IV: contribuição confederativa fixada pela assembleia geral
 FRANCISCA: Artigo oitavo da Constituição, inciso por inciso. Inciso um: a lei não pode exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, e é vedada a interferência e a intervenção do Poder Público. A pegadinha é trocar "registro" por "autorização" ou "reconhecimento".
 THALITA: E quem faz o registro?
-ANTONIO: A Súmula seiscentos e setenta e sete do STF: enquanto a lei não dispuser de outro modo, compete ao Ministério do Trabalho efetuar o registro das entidades sindicais e zelar pela observância da unicidade. O registro não é ato de autorização, e sim de controle da unicidade.
-BRUNO: Inciso dois: unicidade sindical. É vedada a criação de mais de uma entidade sindical, em qualquer grau, representativa de categoria profissional ou econômica na mesma base territorial. A base é definida pelos interessados e não pode ser inferior à área de um Município. A FCC troca por base mínima estadual, ou base definida pelo Ministério do Trabalho. Errado.
-THALITA: E o inciso três?
-FRANCISCA: Ao sindicato cabe a defesa de direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas. O Supremo reconhece legitimidade extraordinária ampla, inclusive na liquidação e na execução, sem necessidade de autorização dos substituídos, Tema oitocentos e vinte e três da repercussão geral. A pegadinha é restringir a direitos coletivos ou exigir autorização.
-ANTONIO: Inciso quatro: a assembleia geral fixa a contribuição para custeio do sistema confederativo, descontada em folha no caso da categoria profissional, independentemente da contribuição prevista em lei. A pegadinha é dizer que ela obriga os não filiados. Veremos isso na Súmula Vinculante quarenta mais adiante.
+FRANCISCA: A Súmula seiscentos e setenta e sete do STF: enquanto a lei não dispuser de outro modo, compete ao Ministério do Trabalho efetuar o registro das entidades sindicais e zelar pela observância da unicidade. O registro não é ato de autorização, e sim de controle da unicidade.
+THALITA: Inciso dois: unicidade sindical. É vedada a criação de mais de uma entidade sindical, em qualquer grau, representativa de categoria profissional ou econômica na mesma base territorial. A base é definida pelos interessados e não pode ser inferior à área de um Município. A FCC troca por base mínima estadual, ou base definida pelo Ministério do Trabalho. Errado.
+FRANCISCA: E o inciso três?
+THALITA: Ao sindicato cabe a defesa de direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas. O Supremo reconhece legitimidade extraordinária ampla, inclusive na liquidação e na execução, sem necessidade de autorização dos substituídos, Tema oitocentos e vinte e três da repercussão geral. A pegadinha é restringir a direitos coletivos ou exigir autorização.
+FRANCISCA: Inciso quatro: a assembleia geral fixa a contribuição para custeio do sistema confederativo, descontada em folha no caso da categoria profissional, independentemente da contribuição prevista em lei. A pegadinha é dizer que ela obriga os não filiados. Veremos isso na Súmula Vinculante quarenta mais adiante.
 THALITA: Então a contribuição confederativa do inciso quatro é diferente da contribuição sindical que vem da lei, e as duas existem ao mesmo tempo. Anotei também que a assembleia fixa e que a folha desconta, mas só no caso da categoria profissional. Fixei: um, registro; dois, base de um Município; três, substituição ampla; quatro, contribuição fixada em assembleia.
 == SLIDE: Artigo 8º, incisos V a VIII, e o dirigente sindical
 * V: ninguém é obrigado a filiar-se
 * VI: obrigatória a participação dos sindicatos na negociação coletiva
 * VII: aposentado filiado vota e pode ser votado
 * VIII: vedada dispensa desde a candidatura até 1 ano após o mandato
-BRUNO: Inciso cinco: ninguém é obrigado a filiar-se ou a manter-se filiado a sindicato. Inciso seis: é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho. A pegadinha é confundir com participação obrigatória da empresa sindicalizada.
+FRANCISCA: Inciso cinco: ninguém é obrigada a filiar-se ou a manter-se filiado a sindicato. Inciso seis: é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho. A pegadinha é confundir com participação obrigatória da empresa sindicalizada.
 THALITA: Quer dizer que o sindicato tem que participar, mas a empresa não precisa ser filiada.
 FRANCISCA: Correto. Inciso sete: o aposentado filiado tem direito a votar e ser votado nas organizações sindicais. A banca diz que só vota, ou que não pode ser votado. Errado: vota e é votado.
-ANTONIO: Inciso oito: é vedada a dispensa do empregado sindicalizado desde o registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo falta grave nos termos da lei. A FCC troca "registro da candidatura" por eleição ou posse, ou exclui o suplente.
-BRUNO: O parágrafo único aplica as regras, no que couber, aos sindicatos rurais e às colônias de pescadores.
-FRANCISCA: Já vimos o detalhamento do dirigente. Termo inicial, o registro da candidatura; final, um ano após o mandato; suplente protegido; até sete dirigentes titulares e igual número de suplentes, Súmula trezentos e sessenta e nove, item dois. Ciência por qualquer meio vale, desde que na vigência do contrato. Conselho fiscal e delegado sindical não têm. Extinção da atividade na base e candidatura no aviso prévio também não geram. Falta grave exige inquérito judicial, Súmula trezentos e setenta e nove.
-THALITA: Um exemplo?
-ANTONIO: Bruno registra candidatura a diretor do Sindicato dos Metalúrgicos em dez de março de dois mil e vinte e cinco e comunica o empregador no mesmo dia. É eleito suplente para mandato de primeiro de junho de dois mil e vinte e cinco a trinta e um de maio de dois mil e vinte e oito. Está protegido de dez de março de dois mil e vinte e cinco até trinta e um de maio de dois mil e vinte e nove. Se cometer falta grave, a empresa precisa ajuizar inquérito judicial.
-THALITA: Interessante: ele é suplente, nem assumiu o cargo, e mesmo assim a proteção vai quatro anos depois do início do mandato. E a justa causa feita só pela empresa, sem inquérito, não basta. Vou lembrar disso como "suplente conta e inquérito é obrigatório".
+THALITA: Inciso oito: é vedada a dispensa do empregado sindicalizado desde o registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo falta grave nos termos da lei. A FCC troca "registro da candidatura" por eleição ou posse, ou exclui o suplente.
+FRANCISCA: O parágrafo único aplica as regras, no que couber, aos sindicatos rurais e às colônias de pescadores.
+THALITA: Já vimos o detalhamento do dirigente. Termo inicial, o registro da candidatura; final, um ano após o mandato; suplente protegido; até sete dirigentes titulares e igual número de suplentes, Súmula trezentos e sessenta e nove, item dois. Ciência por qualquer meio vale, desde que na vigência do contrato. Conselho fiscal e delegado sindical não têm. Extinção da atividade na base e candidatura no aviso prévio também não geram. Falta grave exige inquérito judicial, Súmula trezentos e setenta e nove.
+FRANCISCA: Um exemplo?
+THALITA: Bruno registra candidatura a diretor do Sindicato dos Metalúrgicos em dez de março de dois mil e vinte e cinco e comunica o empregador no mesmo dia. É eleito suplente para mandato de primeiro de junho de dois mil e vinte e cinco a trinta e um de maio de dois mil e vinte e oito. Está protegido de dez de março de dois mil e vinte e cinco até trinta e um de maio de dois mil e vinte e nove. Se cometer falta grave, a empresa precisa ajuizar inquérito judicial.
+FRANCISCA: Interessante: ele é suplente, nem assumiu o cargo, e mesmo assim a proteção vai quatro anos depois do início do mandato. E a justa causa feita só pela empresa, sem inquérito, não basta. Vou lembrar disso como "suplente conta e inquérito é obrigatório".
 == SLIDE: A pirâmide sindical e as centrais
 * Sindicato: base mínima de um Município
 * Federação: mínimo de cinco sindicatos (art. 534)
 * Confederação: mínimo de três federações, sede em Brasília (art. 535)
 * Centrais sindicais: fora da pirâmide (Lei 11.648/2008)
-FRANCISCA: Sistema confederativo: sindicato, federação e confederação. O sindicato tem base territorial não inferior a um Município. A federação agrupa no mínimo cinco sindicatos da mesma atividade ou de atividades similares ou conexas, representando a maioria absoluta do grupo, artigo quinhentos e trinta e quatro. A confederação exige no mínimo três federações, com sede na Capital da República, artigo quinhentos e trinta e cinco.
-THALITA: E as centrais sindicais, entram nessa pirâmide?
-FRANCISCA: Não. A Lei onze mil seiscentos e quarenta e oito, de dois mil e oito, as define como entidades de representação geral dos trabalhadores, constituídas em âmbito nacional. Ficam fora da pirâmide.
-BRUNO: E os requisitos de representatividade, artigo segundo da lei: no mínimo cem sindicatos filiados, distribuídos nas cinco regiões do país; ao menos vinte sindicatos em cada uma de três regiões; filiados em ao menos cinco setores de atividade econômica; e sindicatos filiados que representem ao menos sete por cento dos empregados sindicalizados do país. Confira o percentual transitório previsto para o período inicial de vigência.
+THALITA: Sistema confederativo: sindicato, federação e confederação. O sindicato tem base territorial não inferior a um Município. A federação agrupa no mínimo cinco sindicatos da mesma atividade ou de atividades similares ou conexas, representando a maioria absoluta do grupo, artigo quinhentos e trinta e quatro. A confederação exige no mínimo três federações, com sede na Capital da República, artigo quinhentos e trinta e cinco.
+FRANCISCA: E as centrais sindicais, entram nessa pirâmide?
+THALITA: Não. A Lei onze mil seiscentos e quarenta e oito, de dois mil e oito, as define como entidades de representação geral dos trabalhadores, constituídas em âmbito nacional. Ficam fora da pirâmide.
+FRANCISCA: E os requisitos de representatividade, artigo segundo da lei: no mínimo cem sindicatos filiados, distribuídos nas cinco regiões do país; ao menos vinte sindicatos em cada uma de três regiões; filiados em ao menos cinco setores de atividade econômica; e sindicatos filiados que representem ao menos sete por cento dos empregados sindicalizados do país. Confira o percentual transitório previsto para o período inicial de vigência.
 THALITA: E o que elas fazem?
-ANTONIO: Coordenam e representam os trabalhadores em fóruns, colegiados e conselhos públicos de composição tripartite. Não celebram convenção ou acordo coletivo e não instauram dissídio coletivo. Essa é a pegadinha clássica.
-FRANCISCA: Macete da pirâmide: um Município, cinco sindicatos, três federações, Brasília. E a central fica de fora.
-BRUNO: Dizer que a central celebra convenção coletiva: errado.
+FRANCISCA: Coordenam e representam os trabalhadores em fóruns, colegiados e conselhos públicos de composição tripartite. Não celebram convenção ou acordo coletivo e não instauram dissídio coletivo. Essa é a pegadinha clássica.
+THALITA: Macete da pirâmide: um Município, cinco sindicatos, três federações, Brasília. E a central fica de fora.
+FRANCISCA: Dizer que a central celebra convenção coletiva: errado.
 == SLIDE: Categorias e enquadramento sindical
 * Econômica, profissional e profissional diferenciada (art. 511)
 * Regra: atividade preponderante do empregador (art. 581, § 2º)
@@ -62,20 +61,20 @@ BRUNO: Dizer que a central celebra convenção coletiva: errado.
 * Súmula 374: vantagem de norma da qual a empresa não participou
 THALITA: Vamos às categorias. Quais são?
 FRANCISCA: Artigo quinhentos e onze da CLT. Categoria econômica: solidariedade de interesses econômicos entre os que exploram atividades idênticas, similares ou conexas. Categoria profissional: similitude de condições de vida decorrente do trabalho em comum, em situação de emprego, na mesma atividade econômica ou em atividades similares ou conexas. Categoria profissional diferenciada: profissões ou funções diferenciadas por estatuto profissional especial ou por condições de vida singulares.
-ANTONIO: Como se enquadra o empregado? A regra geral, artigo quinhentos e oitenta e um, parágrafo segundo, é pela atividade preponderante do empregador, aquela que define a unidade de produto, operação ou objetivo final, para a qual as demais convergem em conexão funcional.
-BRUNO: Se a empresa tem atividades autônomas sem preponderância, cada atividade se enquadra na respectiva categoria, caput do artigo quinhentos e oitenta e um. E a categoria diferenciada é enquadrada pela profissão do empregado, e não pela atividade do empregador. Exemplos: motoristas, secretárias, aeronautas.
+THALITA: Como se enquadra o empregado? A regra geral, artigo quinhentos e oitenta e um, parágrafo segundo, é pela atividade preponderante do empregador, aquela que define a unidade de produto, operação ou objetivo final, para a qual as demais convergem em conexão funcional.
+FRANCISCA: Se a empresa tem atividades autônomas sem preponderância, cada atividade se enquadra na respectiva categoria, caput do artigo quinhentos e oitenta e um. E a categoria diferenciada é enquadrada pela profissão do empregado, e não pela atividade do empregador. Exemplos: motoristas, secretárias, aeronautas.
 THALITA: Mas se o motorista trabalha numa indústria têxtil, ele segue a convenção da indústria têxtil?
 FRANCISCA: Não. Segue a da categoria dos motoristas. A Súmula trezentos e setenta e quatro do TST diz que o empregado de categoria diferenciada não pode exigir do empregador vantagens previstas em norma coletiva da qual a empresa não participou por meio do órgão de classe de sua categoria.
-ANTONIO: Exemplo: Carla é motorista da Alfa, indústria têxtil. Pertence à categoria diferenciada dos motoristas. Se a convenção dos motoristas foi celebrada com o sindicato das transportadoras, e não com o sindicato patronal têxtil, a Alfa não está obrigada a cumpri-la. Carla não pode invocá-la contra a Alfa.
-BRUNO: A FCC troca a regra: diz que o motorista segue sempre a atividade preponderante. Errado: a categoria diferenciada segue a profissão.
+THALITA: Exemplo: Carla é motorista da Alfa, indústria têxtil. Pertence à categoria diferenciada dos motoristas. Se a convenção dos motoristas foi celebrada com o sindicato das transportadoras, e não com o sindicato patronal têxtil, a Alfa não está obrigada a cumpri-la. Carla não pode invocá-la contra a Alfa.
+FRANCISCA: A FCC troca a regra: diz que o motorista segue sempre a atividade preponderante. Errado: a categoria diferenciada segue a profissão.
 == SLIDE: Funções e vedações das entidades sindicais
 * Representativa, negocial, assistencial, arrecadadora, colaborativa
 * Negociação: prerrogativa exclusiva do sindicato no primeiro grau
 * Vedada: atividade econômica (art. 564)
 * Vedada: atividade político-partidária (art. 521, d)
-ANTONIO: Para fechar este tema, as funções das entidades sindicais. Função representativa: representa a categoria perante empregadores, Estado e Judiciário, inclusive como substituto processual. Função negocial: celebra convenções e acordos coletivos, prerrogativa exclusiva do sindicato no primeiro grau.
-THALITA: E as outras?
-FRANCISCA: Assistencial: presta serviços aos representados, como assistência jurídica, de saúde e educação, artigos quinhentos e catorze e quinhentos e noventa e dois. Arrecadadora: recebe contribuições, como a sindical, agora facultativa, a confederativa, a assistencial e a mensalidade. Colaborativa: colabora com o Estado no estudo e solução dos problemas da categoria, artigo quinhentos e treze, alínea d.
-BRUNO: E as vedações. O sindicato não pode exercer atividade econômica, artigo quinhentos e sessenta e quatro. E não pode exercer atividade político-partidária, artigo quinhentos e vinte e um, alínea d. A banca coloca "função econômica" na lista de funções permitidas. Errado.
+THALITA: Para fechar este tema, as funções das entidades sindicais. Função representativa: representa a categoria perante empregadores, Estado e Judiciário, inclusive como substituto processual. Função negocial: celebra convenções e acordos coletivos, prerrogativa exclusiva do sindicato no primeiro grau.
+FRANCISCA: E as outras?
+THALITA: Assistencial: presta serviços aos representados, como assistência jurídica, de saúde e educação, artigos quinhentos e catorze e quinhentos e noventa e dois. Arrecadadora: recebe contribuições, como a sindical, agora facultativa, a confederativa, a assistencial e a mensalidade. Colaborativa: colabora com o Estado no estudo e solução dos problemas da categoria, artigo quinhentos e treze, alínea d.
+FRANCISCA: E as vedações. O sindicato não pode exercer atividade econômica, artigo quinhentos e sessenta e quatro. E não pode exercer atividade político-partidária, artigo quinhentos e vinte e um, alínea d. A banca coloca "função econômica" na lista de funções permitidas. Errado.
 THALITA: Macete: representar, negociar, assistir, arrecadar, colaborar; vedado ter fim lucrativo ou partido.
-ANTONIO: Perfeito. E uma pergunta fica no ar: como as entidades sindicais se sustentam? Quais contribuições existem, e quais são obrigatórias para não filiados? É o nosso próximo tema: as contribuições destinadas às entidades sindicais, e depois a negociação coletiva.
+FRANCISCA: Perfeito. E uma pergunta fica no ar: como as entidades sindicais se sustentam? Quais contribuições existem, e quais são obrigatórias para não filiados? É o nosso próximo tema: as contribuições destinadas às entidades sindicais, e depois a negociação coletiva.

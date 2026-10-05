@@ -4,82 +4,80 @@ SEGMENTO s014
 * Três princípios: identidade, não contradição, terceiro excluído
 * Não são proposições: pergunta, ordem, exclamação, sentença aberta, paradoxo
 * Frase falsa continua sendo proposição
-ANTONIO: Olá, pessoal, bem-vindos! Esta é a aula cinco do nosso curso, de Matemática e Raciocínio Lógico. Hoje começamos com lógica proposicional, equivalências, negações e argumentos. Depois vêm as relações lógicas e as sequências, orientação temporal e espacial, números inteiros e racionais, MMC e MDC, e as frações. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora. Vou trazer a teoria por trás de cada regra, com exemplos concretos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira. Matemática me assusta, então vou perguntar tudo o que vocês perguntariam.
-ANTONIO: Vamos ao começo. Proposição é toda oração declarativa que admite um, e só um, dos valores lógicos: verdadeiro ou falso. Três princípios sustentam isso. Identidade: uma proposição verdadeira é verdadeira, e o valor não muda no meio do problema. Não contradição: nenhuma proposição é verdadeira e falsa ao mesmo tempo. Terceiro excluído: ou é verdadeira, ou é falsa, não há terceira opção.
+FRANCISCA: Olá, pessoal, bem-vindos! Esta é a aula cinco do nosso curso, de Matemática e Raciocínio Lógico. Hoje começamos com lógica proposicional, equivalências, negações e argumentos. Depois vêm as relações lógicas e as sequências, orientação temporal e espacial, números inteiros e racionais, MMC e MDC, e as frações. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos ao começo. Proposição é toda oração declarativa que admite um, e só um, dos valores lógicos: verdadeiro ou falso. Três princípios sustentam isso. Identidade: uma proposição verdadeira é verdadeira, e o valor não muda no meio do problema. Não contradição: nenhuma proposição é verdadeira e falsa ao mesmo tempo. Terceiro excluído: ou é verdadeira, ou é falsa, não há terceira opção.
 THALITA: Então qual frase é proposição? Belém é a capital do Pará, claro. E sete é número par? Isso é falso, então não conta.
 FRANCISCA: Conta sim, Thalita. Falsidade não impede. Sete é número par é declarativa e tem valor falso, logo é proposição. Já que horas são, pergunta, feche a porta, ordem, e que dia lindo, exclamação, não são.
-BRUNO: A FCC pergunta quantas das frases abaixo são proposições. Elimine as perguntas, as ordens, as exclamações, as sentenças abertas e os paradoxos. Sentença aberta é aquela que depende de uma variável, como x mais dois igual a cinco, ou de um ele ou ela indeterminado.
-THALITA: E esta frase é falsa? Se é falsa, então é verdadeira, e aí é falsa de novo. Que confusão.
-ANTONIO: Exatamente. É um paradoxo e não admite valor único, então não é proposição. Guarde: pergunta, ordem, exclamação, sentença aberta e paradoxo, fora. Frase falsa, dentro.
+THALITA: A FCC pergunta quantas das frases abaixo são proposições. Elimine as perguntas, as ordens, as exclamações, as sentenças abertas e os paradoxos. Sentença aberta é aquela que depende de uma variável, como x mais dois igual a cinco, ou de um ele ou ela indeterminado.
+FRANCISCA: E esta frase é falsa? Se é falsa, então é verdadeira, e aí é falsa de novo. Que confusão.
+THALITA: Exatamente. É um paradoxo e não admite valor único, então não é proposição. Guarde: pergunta, ordem, exclamação, sentença aberta e paradoxo, fora. Frase falsa, dentro.
 == SLIDE: Os conectivos e a situação-chave
 * Negação: inverte o valor
 * E: só verdadeiro se ambas verdadeiras; ou: só falso se ambas falsas
 * Ou exclusivo: verdadeiro quando os valores são diferentes
 * Condicional: só falso em verdadeiro seguido de falso
 FRANCISCA: Agora os conectivos. Cada um tem uma situação-chave que decide o valor, e decorá-la resolve a maioria das questões. A negação, representada pelo til, inverte o valor: não é verdade que, é falso que.
-ANTONIO: A conjunção, p e q, só é verdadeira se as duas forem verdadeiras. Na linguagem, aparece também como mas, porém, embora e a vírgula aditiva.
-THALITA: Então basta uma falsa e o e inteiro cai.
-BRUNO: Isso. Já a disjunção inclusiva, o ou simples, só é falsa se as duas forem falsas. Basta uma verdadeira. A disjunção exclusiva, ou p ou q, é verdadeira quando os valores são diferentes, e falsa quando são iguais.
+THALITA: A conjunção, p e q, só é verdadeira se as duas forem verdadeiras. Na linguagem, aparece também como mas, porém, embora e a vírgula aditiva.
+FRANCISCA: Então basta uma falsa e o e inteiro cai.
+THALITA: Isso. Já a disjunção inclusiva, o ou simples, só é falsa se as duas forem falsas. Basta uma verdadeira. A disjunção exclusiva, ou p ou q, é verdadeira quando os valores são diferentes, e falsa quando são iguais.
 FRANCISCA: A condicional, se p então q, é o conectivo da pegadinha. Só é falsa no caso verdadeiro seguido de falso. O macete clássico: Vera Fischer é Falsa, V seguido de F. Nas outras três linhas ela é verdadeira.
 THALITA: E como a condicional aparece na prova? Nem sempre vem com se e então.
-ANTONIO: Aparece como quando p, q; sempre que p, q; p implica q; todo p é q; e p somente se q. Tudo isso é a condicional.
-BRUNO: E a bicondicional, p se e somente se q, é verdadeira quando os valores são iguais. Aparece como p se e só se q, ou p é condição necessária e suficiente para q.
-THALITA: Resumo: e, tudo verdadeiro; ou, basta um verdadeiro; condicional, só falha em V seguido de F; bicondicional, iguais.
+FRANCISCA: Aparece como quando p, q; sempre que p, q; p implica q; todo p é q; e p somente se q. Tudo isso é a condicional.
+THALITA: E a bicondicional, p se e somente se q, é verdadeira quando os valores são iguais. Aparece como p se e só se q, ou p é condição necessária e suficiente para q.
+FRANCISCA: Resumo: e, tudo verdadeiro; ou, basta um verdadeiro; condicional, só falha em V seguido de F; bicondicional, iguais.
 == SLIDE: Tabela-verdade e condições
 * Duas proposições: quatro linhas; n proposições: dois elevado a n
 * Ou exclusivo e bicondicional são opostos linha a linha
 * Suficiente é o antecedente; necessário é o consequente
 * "Somente se" introduz o consequente
-ANTONIO: Montando a tabela com duas proposições, temos quatro linhas. Na conjunção: V, F, F, F. Na disjunção: V, V, V, F. Na exclusiva: F, V, V, F. Na condicional: V, F, V, V. Na bicondicional: V, F, F, V.
-BRUNO: Repare que a exclusiva e a bicondicional são exatamente opostas, linha a linha. Por isso a negação de uma é a outra.
-FRANCISCA: Para o número de linhas, é dois elevado ao número de proposições simples. Duas, quatro linhas; três, oito; quatro, dezesseis. Conte proposições distintas, não letras repetidas.
-THALITA: Agora a condição suficiente e a necessária. Eu sempre troco.
-ANTONIO: Na condicional p então q, o antecedente é suficiente para o consequente, e o consequente é necessário para o antecedente. Ser oficial de justiça é suficiente para ser servidor. Ser servidor é necessário para ser oficial de justiça.
+THALITA: Montando a tabela com duas proposições, temos quatro linhas. Na conjunção: V, F, F, F. Na disjunção: V, V, V, F. Na exclusiva: F, V, V, F. Na condicional: V, F, V, V. Na bicondicional: V, F, F, V.
+FRANCISCA: Repare que a exclusiva e a bicondicional são exatamente opostas, linha a linha. Por isso a negação de uma é a outra.
+THALITA: Para o número de linhas, é dois elevado ao número de proposições simples. Duas, quatro linhas; três, oito; quatro, dezesseis. Conte proposições distintas, não letras repetidas.
+FRANCISCA: Agora a condição suficiente e a necessária. Eu sempre troco.
+THALITA: Na condicional p então q, o antecedente é suficiente para o consequente, e o consequente é necessário para o antecedente. Ser oficial de justiça é suficiente para ser servidor. Ser servidor é necessário para ser oficial de justiça.
 FRANCISCA: A bicondicional é necessária e suficiente: ida e volta valem.
-BRUNO: E a pegadinha é o somente se. Ana é nomeada somente se for aprovada quer dizer: se nomeada, então aprovada. O somente se introduz o consequente. Já o se sem somente introduz o antecedente. A FCC inverte essa ordem nas alternativas erradas.
-THALITA: Macete: somente se leva para o fim, ou seja, o que vem depois é a consequência.
+THALITA: E a pegadinha é o somente se. Ana é nomeada somente se for aprovada quer dizer: se nomeada, então aprovada. O somente se introduz o consequente. Já o se sem somente introduz o antecedente. A FCC inverte essa ordem nas alternativas erradas.
+FRANCISCA: Macete: somente se leva para o fim, ou seja, o que vem depois é a consequência.
 == SLIDE: Valor lógico de expressões e classificação
 * Ordem: parênteses, negação, conectivo principal
 * Exemplo com p verdadeira, q falsa, r verdadeira
 * Tautologia, contradição e contingência
 * Equivalências da condicional
-ANTONIO: Para calcular o valor de uma expressão, a ordem é parênteses primeiro, depois negação, e por fim o conectivo principal. Exemplo: p verdadeira, q falsa, r verdadeira. Valor de p então q, ou, não r se e somente se q.
-THALITA: Eu faço: p então q é V seguido de F, falso. Depois não r é falso, e falso se e somente se falso é verdadeiro. Falso ou verdadeiro dá verdadeiro.
-FRANCISCA: Perfeito. Agora a classificação. Tautologia é verdadeira em todas as linhas, como p ou não p. Contradição é falsa em todas, como p e não p. Contingência tem ao menos uma verdadeira e ao menos uma falsa, como a condicional comum.
-BRUNO: Passando às equivalências, que têm a mesma tabela-verdade. A condicional tem duas equivalências clássicas. A contrapositiva: se não q, então não p, inverte a ordem e nega as duas. E a regra do ou: não p ou q. Nega o primeiro, troca a seta por ou, mantém o segundo.
-ANTONIO: Outras equivalências: p ou q equivale a não p então q; a bicondicional equivale à condicional de ida e de volta; a exclusiva é a negação da bicondicional; e a dupla negação volta ao original.
-THALITA: E a recíproca e a inversa? São equivalentes?
-BRUNO: Não! Recíproca, q então p, e inversa, não p então não q, não são equivalentes à condicional original. São equivalentes entre si. Se chove, a rua molha, não autoriza se a rua molhou, choveu.
+THALITA: Para calcular o valor de uma expressão, a ordem é parênteses primeiro, depois negação, e por fim o conectivo principal. Exemplo: p verdadeira, q falsa, r verdadeira. Valor de p então q, ou, não r se e somente se q.
+FRANCISCA: Eu faço: p então q é V seguido de F, falso. Depois não r é falso, e falso se e somente se falso é verdadeiro. Falso ou verdadeiro dá verdadeiro.
+THALITA: Perfeito. Agora a classificação. Tautologia é verdadeira em todas as linhas, como p ou não p. Contradição é falsa em todas, como p e não p. Contingência tem ao menos uma verdadeira e ao menos uma falsa, como a condicional comum.
+FRANCISCA: Passando às equivalências, que têm a mesma tabela-verdade. A condicional tem duas equivalências clássicas. A contrapositiva: se não q, então não p, inverte a ordem e nega as duas. E a regra do ou: não p ou q. Nega o primeiro, troca a seta por ou, mantém o segundo.
+THALITA: Outras equivalências: p ou q equivale a não p então q; a bicondicional equivale à condicional de ida e de volta; a exclusiva é a negação da bicondicional; e a dupla negação volta ao original.
+FRANCISCA: E a recíproca e a inversa? São equivalentes?
+THALITA: Não! Recíproca, q então p, e inversa, não p então não q, não são equivalentes à condicional original. São equivalentes entre si. Se chove, a rua molha, não autoriza se a rua molhou, choveu.
 FRANCISCA: Exemplo: se Márcio é técnico, então trabalha no fórum. A contrapositiva diz: se não trabalha no fórum, não é técnico. A regra do ou: Márcio não é técnico ou trabalha no fórum.
 == SLIDE: Negações e quantificadores
 * De Morgan: nega as partes e troca e por ou
 * Negação da condicional: p e não q
 * Todo vira algum não; algum vira nenhum
 * Negação de todo não é nenhum
-BRUNO: Agora as negações, a questão mais frequente da FCC. Negar e: nega as partes e troca por ou. Negar ou: nega as partes e troca por e. Essas são as leis de De Morgan. O erro típico é negar as partes e manter o conectivo.
-ANTONIO: A negação da condicional é a mais cobrada. Mantém o antecedente, põe e, nega o consequente. A resposta nunca é uma condicional. Negar se Ana estuda, então Ana é aprovada: Ana estuda e não é aprovada.
+THALITA: Agora as negações, a questão mais frequente da FCC. Negar e: nega as partes e troca por ou. Negar ou: nega as partes e troca por e. Essas são as leis de De Morgan. O erro típico é negar as partes e manter o conectivo.
+FRANCISCA: A negação da condicional é a mais cobrada. Mantém o antecedente, põe e, nega o consequente. A resposta nunca é uma condicional. Negar se Ana estuda, então Ana é aprovada: Ana estuda e não é aprovada.
 THALITA: E a bicondicional?
 FRANCISCA: A negação é a exclusiva. Ou, se preferir, p e não q, ou não p e q. Cuidado: não p se e somente se não q é equivalente à original, não negação. E a negação da exclusiva é a bicondicional.
-BRUNO: Exemplos: negar Bruno é analista e Carla é técnica dá Bruno não é analista ou Carla não é técnica. Negar Davi viaja ou Elisa trabalha dá Davi não viaja e Elisa não trabalha.
-ANTONIO: Quantificadores. Todo A é B tem como negação algum A não é B, porque basta um contraexemplo. Algum A é B, que significa pelo menos um ou existe, tem como negação nenhum A é B. Nenhum A é B nega-se com algum A é B. E algum A não é B nega-se com todo A é B.
+THALITA: Exemplos: negar Bruno é analista e Carla é técnica dá Bruno não é analista ou Carla não é técnica. Negar Davi viaja ou Elisa trabalha dá Davi não viaja e Elisa não trabalha.
+FRANCISCA: Quantificadores. Todo A é B tem como negação algum A não é B, porque basta um contraexemplo. Algum A é B, que significa pelo menos um ou existe, tem como negação nenhum A é B. Nenhum A é B nega-se com algum A é B. E algum A não é B nega-se com todo A é B.
 THALITA: Então a negação de todo servidor é pontual é nenhum servidor é pontual?
-BRUNO: Pegadinha! Não. Nenhum é a contrária, e ambas podem ser falsas. Também não é todo servidor não é pontual. Correto: algum servidor não é pontual, ou pelo menos um, ou existe servidor que não é pontual.
-FRANCISCA: Atalho: para negar todo, troque por algum e acrescente não. Para negar algum, troque por nenhum. O quantificador sempre muda.
+FRANCISCA: Pegadinha! Não. Nenhum é a contrária, e ambas podem ser falsas. Também não é todo servidor não é pontual. Correto: algum servidor não é pontual, ou pelo menos um, ou existe servidor que não é pontual.
+THALITA: Atalho: para negar todo, troque por algum e acrescente não. Para negar algum, troque por nenhum. O quantificador sempre muda.
 == SLIDE: Argumentos, silogismos e diagramas
 * Argumento válido: premissas verdadeiras forçam conclusão verdadeira
 * Modus ponens, modus tollens, silogismos
 * Falácias: afirmação do consequente e negação do antecedente
 * Diagramas: só vale o que está em todos os desenhos
-ANTONIO: Para fechar, argumentos. Argumento é um conjunto de premissas que pretende sustentar uma conclusão. É válido quando, sempre que as premissas forem verdadeiras, a conclusão é obrigatoriamente verdadeira. Validade é questão de forma, não de verdade dos fatos.
-FRANCISCA: Formas válidas. Modus ponens: se p então q, p, logo q. Modus tollens: se p então q, não q, logo não p. Silogismo hipotético: p então q, q então r, logo p então r. Silogismo disjuntivo: p ou q, não p, logo q.
-BRUNO: E as falácias: afirmação do consequente, p então q, q, logo p. E negação do antecedente, p então q, não p, logo não q. Ambas inválidas.
+FRANCISCA: Para fechar, argumentos. Argumento é um conjunto de premissas que pretende sustentar uma conclusão. É válido quando, sempre que as premissas forem verdadeiras, a conclusão é obrigatoriamente verdadeira. Validade é questão de forma, não de verdade dos fatos.
+THALITA: Formas válidas. Modus ponens: se p então q, p, logo q. Modus tollens: se p então q, não q, logo não p. Silogismo hipotético: p então q, q então r, logo p então r. Silogismo disjuntivo: p ou q, não p, logo q.
+FRANCISCA: E as falácias: afirmação do consequente, p então q, q, logo p. E negação do antecedente, p então q, não p, logo não q. Ambas inválidas.
 THALITA: Dá um exemplo para resolver?
-ANTONIO: Se Ana estuda, é aprovada. Se Ana é aprovada, é nomeada. Ana não foi nomeada. Comece pela premissa simples: não nomeada é verdadeira. Na segunda, consequente falso exige antecedente falso: Ana não foi aprovada. Na primeira, o mesmo: Ana não estudou. Conclusão: Ana não estudou e não foi aprovada.
-BRUNO: Outro método: suponha a conclusão falsa e tente tornar todas as premissas verdadeiras. Se conseguir, o argumento é inválido. Se surgir contradição, é válido.
+FRANCISCA: Se Ana estuda, é aprovada. Se Ana é aprovada, é nomeada. Ana não foi nomeada. Comece pela premissa simples: não nomeada é verdadeira. Na segunda, consequente falso exige antecedente falso: Ana não foi aprovada. Na primeira, o mesmo: Ana não estudou. Conclusão: Ana não estudou e não foi aprovada.
+THALITA: Outro método: suponha a conclusão falsa e tente tornar todas as premissas verdadeiras. Se conseguir, o argumento é inválido. Se surgir contradição, é válido.
 FRANCISCA: Diagramas. Todo A é B: círculo A dentro de B. Algum A é B: interseção com elemento garantido. Nenhum A é B: círculos separados. Algum A não é B: parte de A fora de B.
-BRUNO: A FCC usa pode-se concluir corretamente ou é necessariamente verdadeiro. Só marque o que vale em todos os desenhos possíveis. O que vale em alguns é possível, não necessário. Exemplo: todos os oficiais são servidores e alguns servidores são advogados; concluir que alguns oficiais são advogados é inválido, porque há desenho em que os advogados cruzam só a parte fora dos oficiais.
-THALITA: Entendi: só a conclusão que sobrevive a qualquer desenho.
-ANTONIO: Com a lógica proposicional resolvida, o próximo tema são as relações lógicas, associação, verdades e mentiras, ordenação, e as sequências de números, letras e figuras.
+THALITA: A FCC usa pode-se concluir corretamente ou é necessariamente verdadeiro. Só marque o que vale em todos os desenhos possíveis. O que vale em alguns é possível, não necessário. Exemplo: todos os oficiais são servidores e alguns servidores são advogados; concluir que alguns oficiais são advogados é inválido, porque há desenho em que os advogados cruzam só a parte fora dos oficiais.
+FRANCISCA: Entendi: só a conclusão que sobrevive a qualquer desenho.
+THALITA: Com a lógica proposicional resolvida, o próximo tema são as relações lógicas, associação, verdades e mentiras, ordenação, e as sequências de números, letras e figuras.

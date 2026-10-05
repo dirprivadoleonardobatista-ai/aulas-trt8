@@ -4,27 +4,27 @@ SEGMENTO s137
 * Alternância de períodos de trabalho e inatividade
 * Qualquer atividade, exceto aeronautas
 * Contrato escrito, com valor da hora (art. 452-A)
-ANTONIO: Vimos autônomo, temporário, avulso, estagiário, voluntário e cooperado. Falta uma figura que, ao contrário, é emprego de verdade: o trabalho intermitente, do artigo quatrocentos e quarenta e três, parágrafo terceiro, da CLT.
+FRANCISCA: Vimos autônomo, temporário, avulso, estagiário, voluntário e cooperado. Falta uma figura que, ao contrário, é emprego de verdade: o trabalho intermitente, do artigo quatrocentos e quarenta e três, parágrafo terceiro, da CLT.
 THALITA: Intermitente é aquele que só trabalha quando chamam?
 FRANCISCA: Quase. É contrato de emprego, com subordinação, em que a prestação de serviços não é contínua. Alternam-se períodos de trabalho e de inatividade, determinados em horas, dias ou meses, em qualquer tipo de atividade, tanto do empregado quanto do empregador.
-BRUNO: A exceção é só uma: os aeronautas, regidos por legislação própria. A FCC adora trocar isso por todo o transporte aéreo. Errado. A exceção é só para aeronautas.
-ANTONIO: As regras operacionais estão no artigo quatrocentos e cinquenta e dois traço A. O contrato é escrito, com o valor da hora de trabalho. Esse valor não pode ser inferior ao valor horário do salário mínimo, nem ao dos demais empregados do estabelecimento que exerçam a mesma função, intermitentes ou não.
+THALITA: A exceção é só uma: os aeronautas, regidos por legislação própria. A FCC adora trocar isso por todo o transporte aéreo. Errado. A exceção é só para aeronautas.
+FRANCISCA: As regras operacionais estão no artigo quatrocentos e cinquenta e dois traço A. O contrato é escrito, com o valor da hora de trabalho. Esse valor não pode ser inferior ao valor horário do salário mínimo, nem ao dos demais empregados do estabelecimento que exerçam a mesma função, intermitentes ou não.
 THALITA: E como é a convocação?
 FRANCISCA: Por qualquer meio eficaz de comunicação, com pelo menos três dias corridos de antecedência, informando a jornada. O empregado tem um dia útil para responder, e o silêncio é presumido como recusa.
-BRUNO: E a recusa não descaracteriza a subordinação. Não é falta nem insubordinação.
-THALITA: Convocação, três dias corridos. Resposta, um dia útil. Silêncio, recusa. Anotei.
+THALITA: E a recusa não descaracteriza a subordinação. Não é falta nem insubordinação.
+FRANCISCA: Convocação, três dias corridos. Resposta, um dia útil. Silêncio, recusa. Anotei.
 == SLIDE: Multa, pagamento e pegadinhas do intermitente
 * Faltou sem justo motivo após aceitar: multa de 50%
 * Inatividade não é tempo à disposição
 * Pagamento ao final de cada período de prestação
 * STF: constitucional (ADIs 5826, 5829 e 6154)
-ANTONIO: Se o empregado aceita a convocação e depois falta sem justo motivo, paga à outra parte multa de cinquenta por cento da remuneração que seria devida. Vale também para o empregador que cancela. O pagamento da multa se dá em trinta dias, admitida compensação no mesmo prazo.
-THALITA: E na inatividade, ele fica à disposição da empresa?
-FRANCISCA: Não. O período de inatividade não é tempo à disposição, e o empregado pode trabalhar para outros contratantes.
-BRUNO: O pagamento é ao final de cada período de prestação. Inclui remuneração, férias proporcionais com um terço, décimo terceiro proporcional, repouso semanal remunerado e adicionais legais. Com recibo discriminando cada parcela. O empregador recolhe FGTS e INSS sobre os valores pagos no mês, com comprovante ao empregado.
+THALITA: Se o empregado aceita a convocação e depois falta sem justo motivo, paga à outra parte multa de cinquenta por cento da remuneração que seria devida. Vale também para o empregador que cancela. O pagamento da multa se dá em trinta dias, admitida compensação no mesmo prazo.
+FRANCISCA: E na inatividade, ele fica à disposição da empresa?
+THALITA: Não. O período de inatividade não é tempo à disposição, e o empregado pode trabalhar para outros contratantes.
+FRANCISCA: O pagamento é ao final de cada período de prestação. Inclui remuneração, férias proporcionais com um terço, décimo terceiro proporcional, repouso semanal remunerado e adicionais legais. Com recibo discriminando cada parcela. O empregador recolhe FGTS e INSS sobre os valores pagos no mês, com comprovante ao empregado.
 THALITA: E as férias?
-ANTONIO: A cada doze meses, o empregado tem direito a usufruir, nos doze meses seguintes, um mês de férias, período em que não pode ser convocado pelo mesmo empregador.
-BRUNO: As trocas típicas: três dias úteis, quando é corridos; vinte e quatro horas ou dois dias úteis para resposta, quando é um dia útil; silêncio como aceitação tácita, quando é recusa; recusa caracteriza insubordinação, quando não caracteriza; e pagamento mensal obrigatório, quando é ao final de cada período de prestação.
+FRANCISCA: A cada doze meses, o empregado tem direito a usufruir, nos doze meses seguintes, um mês de férias, período em que não pode ser convocado pelo mesmo empregador.
+THALITA: As trocas típicas: três dias úteis, quando é corridos; vinte e quatro horas ou dois dias úteis para resposta, quando é um dia útil; silêncio como aceitação tácita, quando é recusa; recusa caracteriza insubordinação, quando não caracteriza; e pagamento mensal obrigatório, quando é ao final de cada período de prestação.
 FRANCISCA: Exemplo: a Alfa Eventos convoca a Ana na segunda, dia seis, para o sábado, dia onze. Cinco dias corridos, válido. Ana tem até o fim do dia útil seguinte, terça, dia sete. Se nada disser, recusou. Se aceitar e faltar sem justo motivo, deve cinquenta por cento do que receberia.
 THALITA: E o Supremo, validou o modelo?
 FRANCISCA: Nas ADIs cinco mil oitocentos e vinte e seis, cinco mil oitocentos e vinte e nove e seis mil cento e cinquenta e quatro, a maioria concluiu pela constitucionalidade do contrato intermitente, em julgamento finalizado em dezembro de dois mil e vinte e quatro. Mas as regras de extinção e seguro-desemprego da Medida Provisória oitocentos e oito perderam a eficácia. Não as cite como vigentes.
@@ -33,36 +33,36 @@ FRANCISCA: Nas ADIs cinco mil oitocentos e vinte e seis, cinco mil oitocentos e 
 * Teletrabalho: arts. 75-A a 75-F; comparecimento eventual não descaracteriza
 * Presencial para tele: acordo; tele para presencial: 15 dias
 * Cargo de confiança: sem controle de jornada com 40% a mais
-BRUNO: Agora as espécies de empregado. O conceito do artigo terceiro é único, mas há regimes diferenciados conforme o local, a remuneração, a fidúcia, o tomador, o meio e a finalidade formativa.
-THALITA: Quais são?
-ANTONIO: Empregado em domicílio, teletrabalho, hipersuficiente, cargo de confiança, doméstico, rural e aprendiz. O em domicílio executa o trabalho na própria casa, por conta do empregador, com garantia do salário mínimo, artigos sexto e oitenta e três.
+THALITA: Agora as espécies de empregado. O conceito do artigo terceiro é único, mas há regimes diferenciados conforme o local, a remuneração, a fidúcia, o tomador, o meio e a finalidade formativa.
+FRANCISCA: Quais são?
+THALITA: Empregado em domicílio, teletrabalho, hipersuficiente, cargo de confiança, doméstico, rural e aprendiz. O em domicílio executa o trabalho na própria casa, por conta do empregador, com garantia do salário mínimo, artigos sexto e oitenta e três.
 FRANCISCA: O teletrabalho está nos artigos setenta e cinco traço A a setenta e cinco traço F, com a Lei catorze mil quatrocentos e quarenta e dois, de dois mil e vinte e dois. É a prestação preponderante ou não fora das dependências, com uso de tecnologias, sem configurar trabalho externo. Pode ser por jornada ou por produção ou tarefa.
-BRUNO: Pontos de prova: o comparecimento presencial, ainda que habitual, para atividades específicas, não descaracteriza o teletrabalho. Quem trabalha por produção ou tarefa fica fora do capítulo de jornada, artigo sessenta e dois, inciso terceiro. Deve constar expressamente do contrato individual.
-THALITA: E para mudar de presencial para teletrabalho?
-FRANCISCA: Por mútuo acordo, registrado em aditivo. De teletrabalho para presencial, por determinação do empregador, com transição mínima de quinze dias. Os equipamentos têm responsabilidade fixada em contrato escrito, e as utilidades fornecidas não integram a remuneração. Há prioridade para empregados com deficiência e com filhos ou crianças sob guarda até quatro anos.
-ANTONIO: O cargo de confiança, artigo sessenta e dois, inciso segundo, está fora do controle de jornada se o salário do cargo, com gratificação, for no mínimo quarenta por cento superior ao salário efetivo. Fica sem direito a horas extras.
+THALITA: Pontos de prova: o comparecimento presencial, ainda que habitual, para atividades específicas, não descaracteriza o teletrabalho. Quem trabalha por produção ou tarefa fica fora do capítulo de jornada, artigo sessenta e dois, inciso terceiro. Deve constar expressamente do contrato individual.
+FRANCISCA: E para mudar de presencial para teletrabalho?
+THALITA: Por mútuo acordo, registrado em aditivo. De teletrabalho para presencial, por determinação do empregador, com transição mínima de quinze dias. Os equipamentos têm responsabilidade fixada em contrato escrito, e as utilidades fornecidas não integram a remuneração. Há prioridade para empregados com deficiência e com filhos ou crianças sob guarda até quatro anos.
+FRANCISCA: O cargo de confiança, artigo sessenta e dois, inciso segundo, está fora do controle de jornada se o salário do cargo, com gratificação, for no mínimo quarenta por cento superior ao salário efetivo. Fica sem direito a horas extras.
 THALITA: Quarenta por cento a mais. Gravei.
 == SLIDE: Hipersuficiente e arbitragem
 * Hipersuficiente: diploma superior e salário a partir de 2 tetos do RGPS
 * Arbitragem: remuneração superior a 2 tetos
 * Requisitos cumulativos; não alcança o art. 611-B
 * Pegadinha: igual ou superior x superior
-ANTONIO: A comparação obrigatória. O hipersuficiente, artigo quatrocentos e quarenta e quatro, parágrafo único: empregado com diploma de nível superior e salário mensal igual ou superior a duas vezes o teto do regime geral de previdência social. Pode negociar individualmente os temas do artigo seiscentos e onze traço A, com a mesma eficácia e preponderância sobre os instrumentos coletivos.
+FRANCISCA: A comparação obrigatória. O hipersuficiente, artigo quatrocentos e quarenta e quatro, parágrafo único: empregado com diploma de nível superior e salário mensal igual ou superior a duas vezes o teto do regime geral de previdência social. Pode negociar individualmente os temas do artigo seiscentos e onze traço A, com a mesma eficácia e preponderância sobre os instrumentos coletivos.
 THALITA: E a arbitragem?
 FRANCISCA: Artigo quinhentos e sete traço A: cláusula compromissória de arbitragem, para empregado com remuneração superior a duas vezes o teto, se pactuada por iniciativa do empregado ou com sua concordância expressa. Aqui não se exige diploma.
-BRUNO: A pegadinha é o igual ou superior. Hipersuficiente: igual ou superior a duas vezes o teto, mais diploma. Arbitragem: superior a duas vezes o teto, sem exigir diploma. Os requisitos do hipersuficiente são cumulativos. Empregado com salário alto, mas sem curso superior, não é hipersuficiente. E a negociação individual não alcança os direitos do artigo seiscentos e onze traço B, como FGTS, décimo terceiro e normas de saúde e segurança.
-THALITA: Dá para um exemplo com número?
-FRANCISCA: Imagine um teto hipotético de oito mil reais. O Bruno, engenheiro, com salário de dezesseis mil reais, é hipersuficiente, porque é igual a duas vezes o teto. Mas não pode firmar a cláusula compromissória do artigo quinhentos e sete traço A, porque a remuneração precisa ser superior ao dobro.
-THALITA: Hipersuficiente é igual ou superior, arbitragem é só superior. Esse eu não esqueço.
+THALITA: A pegadinha é o igual ou superior. Hipersuficiente: igual ou superior a duas vezes o teto, mais diploma. Arbitragem: superior a duas vezes o teto, sem exigir diploma. Os requisitos do hipersuficiente são cumulativos. Empregado com salário alto, mas sem curso superior, não é hipersuficiente. E a negociação individual não alcança os direitos do artigo seiscentos e onze traço B, como FGTS, décimo terceiro e normas de saúde e segurança.
+FRANCISCA: Dá para um exemplo com número?
+THALITA: Imagine um teto hipotético de oito mil reais. O Bruno, engenheiro, com salário de dezesseis mil reais, é hipersuficiente, porque é igual a duas vezes o teto. Mas não pode firmar a cláusula compromissória do artigo quinhentos e sete traço A, porque a remuneração precisa ser superior ao dobro.
+FRANCISCA: Hipersuficiente é igual ou superior, arbitragem é só superior. Esse eu não esqueço.
 == SLIDE: Rural, bancário, aprendiz e resumo da aula
 * Rural: noturno 25%; descontos moradia 20% e alimentação 25%
 * Aprendiz: de 14 a 24 anos; até 2 anos; FGTS de 2%
 * Cota de aprendizes: 5% a 15%
 * Resumo: o que mais cai na FCC
-ANTONIO: O empregado rural presta serviço a empregador rural, em propriedade rural ou prédio rústico, Lei cinco mil oitocentos e oitenta e nove, de mil novecentos e setenta e três. O trabalho noturno vai das vinte e uma às cinco na lavoura, e das vinte às quatro na pecuária, com adicional de vinte e cinco por cento, sem hora reduzida.
-BRUNO: Os descontos permitidos, com autorização: moradia até vinte por cento e alimentação até vinte e cinco por cento do salário mínimo. O empregador rural é pessoa física ou jurídica, proprietária ou não, que explora atividade agroeconômica com auxílio de empregados. Já o bancário tem regime diverso: função de confiança com gratificação de no mínimo um terço afasta a jornada de seis horas, mas não o limite de oito.
-FRANCISCA: O aprendiz tem contrato especial, escrito e por prazo determinado, com formação técnico-profissional metódica, artigos quatrocentos e vinte e oito a quatrocentos e trinta e três. É maior de quatorze e menor de vinte e quatro anos, sem limite máximo para pessoa com deficiência. O prazo é de até dois anos, salvo pessoa com deficiência.
-THALITA: E a jornada?
-FRANCISCA: Seis horas diárias, ou até oito horas para quem concluiu o ensino fundamental, computadas as aulas teóricas. São vedadas prorrogação e compensação. A cota é de cinco a quinze por cento dos trabalhadores cujas funções demandem formação profissional. O FGTS é de dois por cento.
-THALITA: Resumo relâmpago da aula. Proteção: in dubio pro operario não vale para prova. Súmula cinquenta e um: revogação só alcança novos empregados. Satélites: I, C, P, I, I. Artigo sétimo: aviso prévio de trinta dias mais três por ano, até noventa; creche até cinco anos; aprendiz a partir de catorze. Emprego: cinco requisitos, exclusividade não é um deles. Temporário: cento e oitenta mais noventa, quarentena de noventa. Intermitente: três dias corridos, um dia útil, silêncio é recusa. Hipersuficiente: diploma e duas vezes o teto.
-ANTONIO: Bons estudos a todos, e até a próxima aula.
+THALITA: O empregado rural presta serviço a empregador rural, em propriedade rural ou prédio rústico, Lei cinco mil oitocentos e oitenta e nove, de mil novecentos e setenta e três. O trabalho noturno vai das vinte e uma às cinco na lavoura, e das vinte às quatro na pecuária, com adicional de vinte e cinco por cento, sem hora reduzida.
+FRANCISCA: Os descontos permitidos, com autorização: moradia até vinte por cento e alimentação até vinte e cinco por cento do salário mínimo. O empregador rural é pessoa física ou jurídica, proprietária ou não, que explora atividade agroeconômica com auxílio de empregados. Já o bancário tem regime diverso: função de confiança com gratificação de no mínimo um terço afasta a jornada de seis horas, mas não o limite de oito.
+THALITA: O aprendiz tem contrato especial, escrito e por prazo determinado, com formação técnico-profissional metódica, artigos quatrocentos e vinte e oito a quatrocentos e trinta e três. É maior de quatorze e menor de vinte e quatro anos, sem limite máximo para pessoa com deficiência. O prazo é de até dois anos, salvo pessoa com deficiência.
+FRANCISCA: E a jornada?
+THALITA: Seis horas diárias, ou até oito horas para quem concluiu o ensino fundamental, computadas as aulas teóricas. São vedadas prorrogação e compensação. A cota é de cinco a quinze por cento dos trabalhadores cujas funções demandem formação profissional. O FGTS é de dois por cento.
+FRANCISCA: Resumo relâmpago da aula. Proteção: in dubio pro operario não vale para prova. Súmula cinquenta e um: revogação só alcança novos empregados. Satélites: I, C, P, I, I. Artigo sétimo: aviso prévio de trinta dias mais três por ano, até noventa; creche até cinco anos; aprendiz a partir de catorze. Emprego: cinco requisitos, exclusividade não é um deles. Temporário: cento e oitenta mais noventa, quarentena de noventa. Intermitente: três dias corridos, um dia útil, silêncio é recusa. Hipersuficiente: diploma e duas vezes o teto.
+THALITA: Bons estudos a todos, e até a próxima aula.

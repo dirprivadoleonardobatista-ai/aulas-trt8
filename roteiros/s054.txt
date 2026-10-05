@@ -4,39 +4,39 @@ SEGMENTO s054
 * Objeto: leis estaduais ou municipais; parâmetro: Constituição Estadual
 * Legitimação não pode ficar com um único órgão
 * Tema 484: normas de reprodução obrigatória como parâmetro
-BRUNO: Saindo do Supremo, os Estados também têm seu controle concentrado. O artigo cento e vinte e cinco, parágrafo segundo, diz que cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.
+FRANCISCA: Saindo do Supremo, os Estados também têm seu controle concentrado. O artigo cento e vinte e cinco, parágrafo segundo, diz que cabe aos Estados a instituição de representação de inconstitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual, vedada a atribuição da legitimação para agir a um único órgão.
 THALITA: Então o parâmetro é a Constituição do Estado, não a Federal?
 FRANCISCA: Em regra, sim. O objeto são leis ou atos normativos estaduais ou municipais, o parâmetro é a Constituição Estadual, e o órgão é o Tribunal de Justiça, observada a reserva de plenário. A legitimidade é definida pela Constituição Estadual, mas não pode ficar com um único órgão.
-ANTONIO: A pegadinha da banca é dizer que a Constituição Estadual pode atribuir a legitimidade só ao Procurador-Geral de Justiça. Errado. A vedação é de um único órgão.
-THALITA: E lei municipal contra a Constituição Federal? Posso mover ADI no Tribunal de Justiça?
-FRANCISCA: Depende. Lei municipal contra a Constituição Estadual: ADI estadual no Tribunal de Justiça. Lei municipal contra norma da Constituição Federal de reprodução obrigatória: ADI no Tribunal de Justiça, e cabe recurso extraordinário ao Supremo.
-BRUNO: Lei municipal contra a Constituição Federal diretamente, em abstrato: somente ADPF no Supremo. E se a lei estadual for impugnada no Tribunal de Justiça e no Supremo ao mesmo tempo, com parâmetro de reprodução obrigatória, suspende-se a ação no Tribunal de Justiça até o julgamento no Supremo.
-ANTONIO: Na jurisprudência, o Tema quatrocentos e oitenta e quatro da repercussão geral, no recurso extraordinário seiscentos e cinquenta mil oitocentos e noventa e oito, diz que os Tribunais de Justiça podem exercer controle abstrato de leis municipais tendo como parâmetro normas da Constituição Federal de reprodução obrigatória pelos Estados.
-THALITA: Resumo: no Tribunal de Justiça, lei estadual ou municipal contra a Constituição Estadual, e também contra normas federais de reprodução obrigatória.
+THALITA: A pegadinha da banca é dizer que a Constituição Estadual pode atribuir a legitimidade só ao Procurador-Geral de Justiça. Errado. A vedação é de um único órgão.
+FRANCISCA: E lei municipal contra a Constituição Federal? Posso mover ADI no Tribunal de Justiça?
+THALITA: Depende. Lei municipal contra a Constituição Estadual: ADI estadual no Tribunal de Justiça. Lei municipal contra norma da Constituição Federal de reprodução obrigatória: ADI no Tribunal de Justiça, e cabe recurso extraordinário ao Supremo.
+FRANCISCA: Lei municipal contra a Constituição Federal diretamente, em abstrato: somente ADPF no Supremo. E se a lei estadual for impugnada no Tribunal de Justiça e no Supremo ao mesmo tempo, com parâmetro de reprodução obrigatória, suspende-se a ação no Tribunal de Justiça até o julgamento no Supremo.
+THALITA: Na jurisprudência, o Tema quatrocentos e oitenta e quatro da repercussão geral, no recurso extraordinário seiscentos e cinquenta mil oitocentos e noventa e oito, diz que os Tribunais de Justiça podem exercer controle abstrato de leis municipais tendo como parâmetro normas da Constituição Federal de reprodução obrigatória pelos Estados.
+FRANCISCA: Resumo: no Tribunal de Justiça, lei estadual ou municipal contra a Constituição Estadual, e também contra normas federais de reprodução obrigatória.
 == SLIDE: Artigo primeiro: os fundamentos da República
 * Caput: República, Federação indissolúvel, Estado Democrático de Direito
 * SO-CI-DI-VA-PLU: soberania, cidadania, dignidade, valores sociais, pluralismo
 * Parágrafo único: democracia semidireta
 * Pegadinhas: livre concorrência, pluripartidarismo, nacionalidade
-ANTONIO: Vamos aos princípios fundamentais, artigos primeiro a quarto. A regra de ouro: fundamentos são cinco substantivos; objetivos são quatro e começam com verbo no infinitivo; princípios internacionais são dez substantivos voltados para fora.
-THALITA: Comecemos pelo artigo primeiro.
-FRANCISCA: O caput fixa a forma de governo, República; a forma de Estado, Federação, com vínculo indissolúvel, o que veda a secessão; e o regime, Estado Democrático de Direito. O parágrafo único consagra a democracia semidireta: representantes eleitos, mais plebiscito, referendo e iniciativa popular, do artigo catorze.
-BRUNO: Os fundamentos são cinco e o macete é SO-CI-DI-VA-PLU. Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político. Se o item não começa com essas sílabas, não é fundamento.
+THALITA: Vamos aos princípios fundamentais, artigos primeiro a quarto. A regra de ouro: fundamentos são cinco substantivos; objetivos são quatro e começam com verbo no infinitivo; princípios internacionais são dez substantivos voltados para fora.
+FRANCISCA: Comecemos pelo artigo primeiro.
+THALITA: O caput fixa a forma de governo, República; a forma de Estado, Federação, com vínculo indissolúvel, o que veda a secessão; e o regime, Estado Democrático de Direito. O parágrafo único consagra a democracia semidireta: representantes eleitos, mais plebiscito, referendo e iniciativa popular, do artigo catorze.
+FRANCISCA: Os fundamentos são cinco e o macete é SO-CI-DI-VA-PLU. Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político. Se o item não começa com essas sílabas, não é fundamento.
 THALITA: E as pegadinhas?
-BRUNO: Soberania não se confunde com independência nacional, que é princípio do artigo quarto. Cidadania não é nacionalidade. A dignidade não é objetivo nem princípio internacional. Valores sociais do trabalho e da livre iniciativa: a FCC omite a livre iniciativa ou a troca por livre concorrência, que é princípio da ordem econômica, artigo cento e setenta, inciso quatro.
-FRANCISCA: E o pluralismo político é pluralidade de ideias e opiniões, não só de partidos. Não se confunde com o pluripartidarismo do artigo dezessete.
-ANTONIO: Já o artigo segundo diz que são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. Palavras exatas: independentes e harmônicos. A FCC troca por autônomos ou subordinados. E a separação de Poderes é cláusula pétrea, no artigo sessenta, parágrafo quarto, inciso três.
+FRANCISCA: Soberania não se confunde com independência nacional, que é princípio do artigo quarto. Cidadania não é nacionalidade. A dignidade não é objetivo nem princípio internacional. Valores sociais do trabalho e da livre iniciativa: a FCC omite a livre iniciativa ou a troca por livre concorrência, que é princípio da ordem econômica, artigo cento e setenta, inciso quatro.
+THALITA: E o pluralismo político é pluralidade de ideias e opiniões, não só de partidos. Não se confunde com o pluripartidarismo do artigo dezessete.
+FRANCISCA: Já o artigo segundo diz que são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário. Palavras exatas: independentes e harmônicos. A FCC troca por autônomos ou subordinados. E a separação de Poderes é cláusula pétrea, no artigo sessenta, parágrafo quarto, inciso três.
 THALITA: Independentes e harmônicos. Nunca autônomos.
 == SLIDE: Artigo terceiro: objetivos fundamentais
 * Todos começam com verbo no infinitivo: normas programáticas
 * CON-GA-ERRA-PRO: construir, garantir, erradicar e reduzir, promover
 * Lista de preconceitos do inciso IV é exemplificativa
 * Pegadinhas: solidária, desenvolvimento nacional, erradicar
-ANTONIO: O artigo terceiro traz os objetivos fundamentais. Construir uma sociedade livre, justa e solidária. Garantir o desenvolvimento nacional. Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. Promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+FRANCISCA: O artigo terceiro traz os objetivos fundamentais. Construir uma sociedade livre, justa e solidária. Garantir o desenvolvimento nacional. Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais. Promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
 THALITA: O macete é CON-GA-ERRA-PRO?
-BRUNO: Isso: construir, garantir, erradicar, promover. Todos começam com verbo no infinitivo, então são normas programáticas, como vimos no começo da aula. O verbo no início indica artigo terceiro.
-FRANCISCA: A lista de preconceitos do inciso quatro é exemplificativa, porque termina com quaisquer outras formas de discriminação.
-BRUNO: As pegadinhas: trocar solidária por igualitária ou fraterna; trocar desenvolvimento nacional por desenvolvimento regional; escrever erradicar as desigualdades, quando o texto diz reduzir; e apresentar a lista de preconceitos como taxativa.
+FRANCISCA: Isso: construir, garantir, erradicar, promover. Todos começam com verbo no infinitivo, então são normas programáticas, como vimos no começo da aula. O verbo no início indica artigo terceiro.
+THALITA: A lista de preconceitos do inciso quatro é exemplificativa, porque termina com quaisquer outras formas de discriminação.
+FRANCISCA: As pegadinhas: trocar solidária por igualitária ou fraterna; trocar desenvolvimento nacional por desenvolvimento regional; escrever erradicar as desigualdades, quando o texto diz reduzir; e apresentar a lista de preconceitos como taxativa.
 THALITA: Então erradicar vale para a pobreza e a marginalização, e reduzir vale para as desigualdades. Vou anotar assim no caderno: erradicar a pobreza, reduzir as desigualdades, nunca erradicar as desigualdades. Se a alternativa trocar os verbos, eu já desconfio e marco como errada.
 FRANCISCA: Exato. Erradica a pobreza, reduz as desigualdades.
 == SLIDE: Artigo quarto: relações internacionais
@@ -44,13 +44,13 @@ FRANCISCA: Exato. Erradica a pobreza, reduz as desigualdades.
 * Autodeterminação, não-intervenção, igualdade entre os Estados
 * Paz, solução pacífica, repúdio ao terrorismo e ao racismo
 * Parágrafo único: integração da América Latina
-ANTONIO: O artigo quarto traz os princípios das relações internacionais, em dez incisos. Independência nacional; prevalência dos direitos humanos; autodeterminação dos povos; não-intervenção; igualdade entre os Estados; defesa da paz; solução pacífica dos conflitos; repúdio ao terrorismo e ao racismo; cooperação entre os povos para o progresso da humanidade; concessão de asilo político.
-THALITA: Dez é muita coisa. Dá para agrupar?
-BRUNO: Dá. Soberania externa: independência nacional, não-intervenção e igualdade entre os Estados. Povos: autodeterminação dos povos e cooperação entre os povos. Paz: defesa da paz e solução pacífica dos conflitos. Direitos humanos: prevalência dos direitos humanos, repúdio ao terrorismo e ao racismo, e asilo político.
+THALITA: O artigo quarto traz os princípios das relações internacionais, em dez incisos. Independência nacional; prevalência dos direitos humanos; autodeterminação dos povos; não-intervenção; igualdade entre os Estados; defesa da paz; solução pacífica dos conflitos; repúdio ao terrorismo e ao racismo; cooperação entre os povos para o progresso da humanidade; concessão de asilo político.
+FRANCISCA: Dez é muita coisa. Dá para agrupar?
+THALITA: Dá. Soberania externa: independência nacional, não-intervenção e igualdade entre os Estados. Povos: autodeterminação dos povos e cooperação entre os povos. Paz: defesa da paz e solução pacífica dos conflitos. Direitos humanos: prevalência dos direitos humanos, repúdio ao terrorismo e ao racismo, e asilo político.
 FRANCISCA: O parágrafo único é programático: o Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações. Atenção: América Latina, não América do Sul nem Mercosul.
-BRUNO: Pegadinhas. Soberania é fundamento, não princípio do artigo quarto. A cooperação é entre povos, não entre Estados. Não existe repúdio à guerra, existe defesa da paz. É asilo político, não refúgio, e é racismo, não tortura.
-THALITA: Tem um macete pelas iniciais, não é?
-BRUNO: Tem: In, Pre, Au, Não, Igual, De, Solu, Re, Coo, Con. Indo preparado, autor não iguala defesa: solução requer cooperação e concessão. É esquisito, mas cola.
-ANTONIO: E uma régua de corte para a prova. Dignidade, cidadania, pluralismo e soberania: artigo primeiro. Verbo no início: artigo terceiro. Povos, Estados, paz, asilo, terrorismo: artigo quarto.
-FRANCISCA: Com isso, fechamos a teoria e a letra da lei desta aula.
-ANTONIO: Agora é hora de treinar: vamos às questões comentadas estilo FCC.
+THALITA: Pegadinhas. Soberania é fundamento, não princípio do artigo quarto. A cooperação é entre povos, não entre Estados. Não existe repúdio à guerra, existe defesa da paz. É asilo político, não refúgio, e é racismo, não tortura.
+FRANCISCA: Tem um macete pelas iniciais, não é?
+THALITA: Tem: In, Pre, Au, Não, Igual, De, Solu, Re, Coo, Con. Indo preparado, autor não iguala defesa: solução requer cooperação e concessão. É esquisito, mas cola.
+FRANCISCA: E uma régua de corte para a prova. Dignidade, cidadania, pluralismo e soberania: artigo primeiro. Verbo no início: artigo terceiro. Povos, Estados, paz, asilo, terrorismo: artigo quarto.
+THALITA: Com isso, fechamos a teoria e a letra da lei desta aula.
+FRANCISCA: Agora é hora de treinar: vamos às questões comentadas estilo FCC.

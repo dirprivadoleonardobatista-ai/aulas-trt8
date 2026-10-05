@@ -4,36 +4,32 @@ SEGMENTO s110
 * Sem preço e sem lucro; partícipes
 * Convênio x contrato administrativo
 * Lei 14.133, art. 184: só no que couber e sem norma específica
-ANTONIO: Olá, pessoal, bem-vindos à aula trinta e dois de Direito Administrativo. Hoje tratamos de serviços públicos, parcerias, responsabilidade do Estado e bens públicos. Começamos pelos convênios e pelas parcerias com o terceiro setor, a Lei treze mil e dezenove. Depois, serviço público e direitos dos usuários, concessão e permissão, e por fim as parcerias público-privadas e a responsabilidade extracontratual do Estado. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase e os casos concretos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro as pegadinhas da banca.
-THALITA: Eu sou a Thalita, concurseira, pergunto o que vocês perguntariam e depois fecho com macetes.
-ANTONIO: Convênio é um ajuste de mútua colaboração, entre entidades públicas, ou entre entidade pública e entidade privada sem fins lucrativos, para um objetivo comum, com repartição de esforços e recursos. Não há preço, nem lucro, e as partes são chamadas de partícipes.
+FRANCISCA: Olá, pessoal, bem-vindos à aula trinta e dois de Direito Administrativo. Hoje tratamos de serviços públicos, parcerias, responsabilidade do Estado e bens públicos. Começamos pelos convênios e pelas parcerias com o terceiro setor, a Lei treze mil e dezenove. Depois, serviço público e direitos dos usuários, concessão e permissão, e por fim as parcerias público-privadas e a responsabilidade extracontratual do Estado. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Convênio é um ajuste de mútua colaboração, entre entidades públicas, ou entre entidade pública e entidade privada sem fins lucrativos, para um objetivo comum, com repartição de esforços e recursos. Não há preço, nem lucro, e as partes são chamadas de partícipes.
 THALITA: E qual a diferença para o contrato administrativo?
 FRANCISCA: No convênio, os partícipes querem o mesmo resultado, os interesses são convergentes. No contrato, os interesses são opostos: a Administração quer o objeto, o contratado quer o preço.
-BRUNO: Quadro rápido. Recursos: no convênio, o repasse é vinculado ao objeto, sem lucro, e o saldo é devolvido. No contrato, o preço entra no patrimônio do contratado. Licitação: no convênio, não é exigida como regra, embora caiba seleção pública quando houver vários interessados. No contrato, é obrigatória, salvo contratação direta.
-THALITA: Macete: convênio é parceria, contrato é troca.
-ANTONIO: E a Lei catorze mil cento e trinta e três? O artigo cento e oitenta e quatro diz que ela se aplica aos convênios no que couber e na ausência de norma específica.
+THALITA: Quadro rápido. Recursos: no convênio, o repasse é vinculado ao objeto, sem lucro, e o saldo é devolvido. No contrato, o preço entra no patrimônio do contratado. Licitação: no convênio, não é exigida como regra, embora caiba seleção pública quando houver vários interessados. No contrato, é obrigatória, salvo contratação direta.
+FRANCISCA: Macete: convênio é parceria, contrato é troca.
+THALITA: E a Lei catorze mil cento e trinta e três? O artigo cento e oitenta e quatro diz que ela se aplica aos convênios no que couber e na ausência de norma específica.
 FRANCISCA: Subsidiária e residual. Havendo lei própria, como a do terceiro setor, a dos consórcios públicos ou a das organizações sociais, a lei própria prevalece. Na União, o regulamento é o Decreto onze mil quinhentos e trinta e um, de dois mil e vinte e três.
-BRUNO: A FCC escreve que a Lei de licitações se aplica integralmente aos convênios. Errado. E lembre que uma lei de dois mil e vinte e três criou um regime simplificado para convênios de menor valor. Confira os limites vigentes.
-
+THALITA: A FCC escreve que a Lei de licitações se aplica integralmente aos convênios. Errado. E lembre que uma lei de dois mil e vinte e três criou um regime simplificado para convênios de menor valor. Confira os limites vigentes.
 == SLIDE: MROSC: organizações e instrumentos
 * Lei 13.019/2014: parceria com organização da sociedade civil (OSC)
 * Termo de colaboração: proposta da Administração, com recursos
 * Termo de fomento: proposta da OSC, com recursos
 * Acordo de cooperação: sem transferência de recursos
 * Convênio com OSC: restrito (art. 84-A)
-ANTONIO: A Lei treze mil e dezenove, de dois mil e quatorze, é o Marco Regulatório das Organizações da Sociedade Civil, o MROSC. Ela organiza as parcerias com o terceiro setor.
-FRANCISCA: A organização da sociedade civil, a OSC, pode ser a entidade privada sem fins lucrativos que não distribui resultados e aplica tudo no objeto social, certas cooperativas de cunho social, e organizações religiosas, em atividades sociais distintas das exclusivamente religiosas.
-THALITA: E o que ela celebra com o poder público?
-ANTONIO: Três instrumentos. Termo de colaboração, termo de fomento e acordo de cooperação. Para distinguir, faça duas perguntas: quem propõe, e há transferência de dinheiro?
+FRANCISCA: A Lei treze mil e dezenove, de dois mil e quatorze, é o Marco Regulatório das Organizações da Sociedade Civil, o MROSC. Ela organiza as parcerias com o terceiro setor.
+THALITA: A organização da sociedade civil, a OSC, pode ser a entidade privada sem fins lucrativos que não distribui resultados e aplica tudo no objeto social, certas cooperativas de cunho social, e organizações religiosas, em atividades sociais distintas das exclusivamente religiosas.
+FRANCISCA: E o que ela celebra com o poder público?
+THALITA: Três instrumentos. Termo de colaboração, termo de fomento e acordo de cooperação. Para distinguir, faça duas perguntas: quem propõe, e há transferência de dinheiro?
 FRANCISCA: No termo de colaboração, a proposta parte da Administração, e há transferência de recursos financeiros. No termo de fomento, a proposta parte da OSC, também com transferência de recursos. No acordo de cooperação, não há dinheiro, e a iniciativa pode ser de qualquer um.
 THALITA: Então fomento é a OSC propondo, colaboração é a Administração propondo.
-BRUNO: É isso. As pegadinhas: dizer que termo de fomento é proposto pela Administração, errado. Dizer que acordo de cooperação envolve repasse, errado.
-FRANCISCA: Outro ponto: o chamamento público é a regra para colaboração e fomento. No acordo de cooperação, é dispensado, salvo se envolver comodato, doação de bens ou outro compartilhamento patrimonial.
-BRUNO: E convênio com OSC? Pelo artigo oitenta e quatro-A, o convênio ficou restrito às parcerias entre entes federados e entidades a eles vinculadas, e às entidades filantrópicas na complementação do SUS. Se a banca falar em convênio com OSC fora disso, está errado.
-ANTONIO: Também ficam fora do MROSC os contratos de gestão das organizações sociais e os termos de parceria das OSCIP.
-
+FRANCISCA: É isso. As pegadinhas: dizer que termo de fomento é proposto pela Administração, errado. Dizer que acordo de cooperação envolve repasse, errado.
+THALITA: Outro ponto: o chamamento público é a regra para colaboração e fomento. No acordo de cooperação, é dispensado, salvo se envolver comodato, doação de bens ou outro compartilhamento patrimonial.
+FRANCISCA: E convênio com OSC? Pelo artigo oitenta e quatro-A, o convênio ficou restrito às parcerias entre entes federados e entidades a eles vinculadas, e às entidades filantrópicas na complementação do SUS. Se a banca falar em convênio com OSC fora disso, está errado.
+THALITA: Também ficam fora do MROSC os contratos de gestão das organizações sociais e os termos de parceria das OSCIP.
 == SLIDE: Chamamento público, dispensa e inexigibilidade
 * Edital com antecedência mínima de 30 dias
 * Inversão de fases: julga, depois verifica documentos
@@ -42,29 +38,28 @@ ANTONIO: Também ficam fora do MROSC os contratos de gestão das organizações 
 * Inexigibilidade: objeto singular ou lei que identifica a entidade
 FRANCISCA: O chamamento público é a seleção da OSC. O edital é publicado no sítio oficial com antecedência mínima de trinta dias. E há inversão de fases: julgam-se e classificam-se as propostas e só depois se verificam os documentos da OSC selecionada.
 THALITA: E sempre tem chamamento?
-BRUNO: Não. Não se exige para termos com recursos de emendas parlamentares e para acordos de cooperação sem compartilhamento patrimonial. Há ainda a dispensa e a inexigibilidade, que precisam ser justificadas, com publicação, e podem ser impugnadas em cinco dias.
-ANTONIO: A dispensa, no artigo trinta, ocorre em urgência por paralisação ou iminência de paralisação de atividade de relevante interesse público, por até cento e oitenta dias. Também em guerra, calamidade pública, grave perturbação da ordem ou ameaça à paz social. Em programa de proteção a pessoas ameaçadas. E em educação, saúde e assistência social, por OSC previamente credenciada.
+FRANCISCA: Não. Não se exige para termos com recursos de emendas parlamentares e para acordos de cooperação sem compartilhamento patrimonial. Há ainda a dispensa e a inexigibilidade, que precisam ser justificadas, com publicação, e podem ser impugnadas em cinco dias.
+THALITA: A dispensa, no artigo trinta, ocorre em urgência por paralisação ou iminência de paralisação de atividade de relevante interesse público, por até cento e oitenta dias. Também em guerra, calamidade pública, grave perturbação da ordem ou ameaça à paz social. Em programa de proteção a pessoas ameaçadas. E em educação, saúde e assistência social, por OSC previamente credenciada.
 FRANCISCA: A inexigibilidade, no artigo trinta e um, trata de inviabilidade de competição. Por exemplo, objeto singular ou metas atingíveis só por entidade específica. Também objeto previsto em compromisso internacional que indique as instituições, e transferência autorizada em lei que identifique expressamente a entidade.
 THALITA: Macete: dispensa é urgência e crise. Inexigibilidade é só aquela entidade.
-BRUNO: Outra pegadinha: a proposta espontânea da sociedade, chamada de procedimento de manifestação de interesse social, não obriga a fazer o chamamento, e é vedado condicionar o chamamento a esse procedimento prévio.
-ANTONIO: Quanto ao tempo de existência da OSC, exige-se do CNPJ um ano para municípios, dois anos no Distrito Federal e três anos para estados e União, redutível se nenhuma OSC atingir.
-
+FRANCISCA: Outra pegadinha: a proposta espontânea da sociedade, chamada de procedimento de manifestação de interesse social, não obriga a fazer o chamamento, e é vedado condicionar o chamamento a esse procedimento prévio.
+THALITA: Quanto ao tempo de existência da OSC, exige-se do CNPJ um ano para municípios, dois anos no Distrito Federal e três anos para estados e União, redutível se nenhuma OSC atingir.
 == SLIDE: Plano de trabalho, vedações e prestação de contas
 * Plano de trabalho: diagnóstico, metas, receitas e despesas, aferição
 * OSC impedida: contas rejeitadas em 5 anos; irregulares no TC em 8
 * Vedado: poder de polícia; pagar servidor público
 * Contas: OSC em 90 dias; Administração em 150 dias
 * Encargos trabalhistas: responsabilidade exclusiva da OSC
-THALITA: Antes das contas, preciso entender: o que a OSC tem de apresentar para firmar a parceria, e como a Administração garante que o dinheiro vai para o lugar certo? Eu chutaria que é só um relatório no final, mas desconfio que não.
-ANTONIO: Desconfiou certo, Thalita. Tudo começa pelo plano de trabalho, que traz o diagnóstico e o nexo com as metas, as metas, as receitas e despesas, a forma de execução e os parâmetros de aferição de resultados.
+FRANCISCA: Antes das contas, preciso entender: o que a OSC tem de apresentar para firmar a parceria, e como a Administração garante que o dinheiro vai para o lugar certo? Eu chutaria que é só um relatório no final, mas desconfio que não.
+THALITA: Desconfiou certo, Francisca. Tudo começa pelo plano de trabalho, que traz o diagnóstico e o nexo com as metas, as metas, as receitas e despesas, a forma de execução e os parâmetros de aferição de resultados.
 FRANCISCA: A OSC fica impedida se estiver irregular, se for omissa em contas anteriores, se algum dirigente for membro de Poder, do Ministério Público ou dirigente de órgão da mesma esfera, ou for cônjuge ou parente até segundo grau deles. E também se teve contas rejeitadas nos últimos cinco anos, ou julgadas irregulares pelo tribunal de contas nos últimos oito anos.
 THALITA: Cinco anos de rejeição, oito de tribunal de contas. Entendi.
-BRUNO: Dois vedados importantes. Não se pode delegar regulação, fiscalização, poder de polícia ou atividade exclusiva de Estado. E é vedado usar o recurso para finalidade alheia ao objeto, e pagar servidor ou empregado público, salvo lei específica e diretrizes orçamentárias.
-ANTONIO: Prestação de contas: a OSC tem até noventa dias do término da parceria, ou do fim de cada exercício se a parceria passar de um ano, com prorrogação de até trinta dias. A Administração aprecia em cento e cinquenta dias, prorrogáveis por igual período. O resultado pode ser contas regulares, regulares com ressalva ou irregulares.
-THALITA: Resumindo as contas: noventa dias para a OSC prestar, cento e cinquenta para a Administração analisar. Posso guardar assim?
-FRANCISCA: Pode. Um ponto importante para o aluno de trabalho: o termo deve prever a responsabilidade exclusiva da OSC pelos encargos trabalhistas, previdenciários, fiscais e comerciais. Não há responsabilidade solidária nem subsidiária automática da Administração. Ela só responde se houver culpa comprovada na fiscalização.
-THALITA: Então, se a OSC for condenada a pagar verbas trabalhistas, o ente público paga junto automaticamente?
-FRANCISCA: Não, só com culpa comprovada na fiscalização. Sem isso, a responsabilidade é da OSC.
-THALITA: Entendi. E OS e OSCIP, qual a diferença?
-BRUNO: A organização social tem qualificação discricionária, contrato de gestão, e atua em ensino, pesquisa, desenvolvimento tecnológico, meio ambiente, cultura e saúde. A OSCIP tem qualificação vinculada, termo de parceria e rol amplo de finalidades sociais. O Supremo, na ADI mil novecentos e vinte e três, validou o modelo das OS, desde que a seleção siga procedimento público, objetivo e impessoal.
-ANTONIO: Com a parceria definida, o próximo tema é o próprio serviço público: conceito, classificação, princípios, direitos dos usuários, e concessão e permissão.
+FRANCISCA: Dois vedados importantes. Não se pode delegar regulação, fiscalização, poder de polícia ou atividade exclusiva de Estado. E é vedado usar o recurso para finalidade alheia ao objeto, e pagar servidor ou empregado público, salvo lei específica e diretrizes orçamentárias.
+THALITA: Prestação de contas: a OSC tem até noventa dias do término da parceria, ou do fim de cada exercício se a parceria passar de um ano, com prorrogação de até trinta dias. A Administração aprecia em cento e cinquenta dias, prorrogáveis por igual período. O resultado pode ser contas regulares, regulares com ressalva ou irregulares.
+FRANCISCA: Resumindo as contas: noventa dias para a OSC prestar, cento e cinquenta para a Administração analisar. Posso guardar assim?
+THALITA: Pode. Um ponto importante para o aluno de trabalho: o termo deve prever a responsabilidade exclusiva da OSC pelos encargos trabalhistas, previdenciários, fiscais e comerciais. Não há responsabilidade solidária nem subsidiária automática da Administração. Ela só responde se houver culpa comprovada na fiscalização.
+FRANCISCA: Então, se a OSC for condenada a pagar verbas trabalhistas, o ente público paga junto automaticamente?
+THALITA: Não, só com culpa comprovada na fiscalização. Sem isso, a responsabilidade é da OSC.
+FRANCISCA: Entendi. E OS e OSCIP, qual a diferença?
+THALITA: A organização social tem qualificação discricionária, contrato de gestão, e atua em ensino, pesquisa, desenvolvimento tecnológico, meio ambiente, cultura e saúde. A OSCIP tem qualificação vinculada, termo de parceria e rol amplo de finalidades sociais. O Supremo, na ADI mil novecentos e vinte e três, validou o modelo das OS, desde que a seleção siga procedimento público, objetivo e impessoal.
+FRANCISCA: Com a parceria definida, o próximo tema é o próprio serviço público: conceito, classificação, princípios, direitos dos usuários, e concessão e permissão.

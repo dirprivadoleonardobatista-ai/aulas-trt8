@@ -6,46 +6,43 @@ SEGMENTO s119
 * Retomada após remoção ou cessão: 10 a 30 dias
 FRANCISCA: Vimos as formas de provimento. Agora o caminho do servidor nomeado. Publicado o ato de provimento, a posse ocorre em trinta dias. Depois da posse, o exercício em quinze dias. Trinta e quinze.
 THALITA: E se eu não tomar posse em trinta dias?
-BRUNO: O ato de provimento é tornado sem efeito. Não é exoneração, porque você nunca chegou a ser servidor, já que a investidura ocorre com a posse.
-ANTONIO: A posse se dá pela assinatura do termo, onde constam atribuições, deveres, responsabilidades e direitos do cargo, que não podem ser alterados unilateralmente. Pode ser por procuração específica. Só há posse nos casos de nomeação. E, na posse, o servidor apresenta declaração de bens e valores e declaração quanto ao exercício de outro cargo, emprego ou função pública.
-THALITA: Então, na posse, preciso mostrar meu patrimônio.
-FRANCISCA: Isso. E só toma posse quem for julgado apto em inspeção médica oficial prévia.
-BRUNO: Quanto ao exercício: quinze dias da posse. Se não entrar em exercício, é exonerado. Para função de confiança, o exercício coincide com a publicação do ato de designação, e se o servidor estiver licenciado, no primeiro dia útil após o impedimento, limitado a trinta dias da publicação, sob pena de designação sem efeito.
+FRANCISCA: O ato de provimento é tornado sem efeito. Não é exoneração, porque você nunca chegou a ser servidor, já que a investidura ocorre com a posse.
+THALITA: A posse se dá pela assinatura do termo, onde constam atribuições, deveres, responsabilidades e direitos do cargo, que não podem ser alterados unilateralmente. Pode ser por procuração específica. Só há posse nos casos de nomeação. E, na posse, o servidor apresenta declaração de bens e valores e declaração quanto ao exercício de outro cargo, emprego ou função pública.
+FRANCISCA: Então, na posse, preciso mostrar meu patrimônio.
+THALITA: Isso. E só toma posse quem for julgado apto em inspeção médica oficial prévia.
+FRANCISCA: Quanto ao exercício: quinze dias da posse. Se não entrar em exercício, é exonerado. Para função de confiança, o exercício coincide com a publicação do ato de designação, e se o servidor estiver licenciado, no primeiro dia útil após o impedimento, limitado a trinta dias da publicação, sob pena de designação sem efeito.
 THALITA: E depois de uma remoção ou cessão?
-ANTONIO: Mínimo de dez e máximo de trinta dias da publicação, incluído o deslocamento. O servidor pode declinar desses prazos. E quem dá exercício é a autoridade do órgão para onde ele foi nomeado.
-FRANCISCA: A jornada é de no máximo quarenta horas semanais, com limites de seis e oito horas diárias. Cargo em comissão e função de confiança têm regime de integral dedicação.
-
+FRANCISCA: Mínimo de dez e máximo de trinta dias da publicação, incluído o deslocamento. O servidor pode declinar desses prazos. E quem dá exercício é a autoridade do órgão para onde ele foi nomeado.
+THALITA: A jornada é de no máximo quarenta horas semanais, com limites de seis e oito horas diárias. Cargo em comissão e função de confiança têm regime de integral dedicação.
 == SLIDE: Estágio probatório: os cinco fatores
 * Artigo 20: 24 meses na lei; avaliação por fatores
 * Assiduidade, disciplina, iniciativa, produtividade, responsabilidade
 * Homologação 4 meses antes do fim
 * Reprovado: exonerado; estável é reconduzido
 * Licenças permitidas e suspensão do estágio
-BRUNO: O artigo vinte diz que, ao entrar em exercício, o servidor nomeado para cargo efetivo fica sujeito a estágio probatório de vinte e quatro meses, avaliado por cinco fatores: assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade.
+FRANCISCA: O artigo vinte diz que, ao entrar em exercício, o servidor nomeado para cargo efetivo fica sujeito a estágio probatório de vinte e quatro meses, avaliado por cinco fatores: assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade.
 THALITA: Eu chutaria que eficiência está na lista, e pontualidade também.
-BRUNO: Chute errado. Eficiência, urbanidade, pontualidade e lealdade não são fatores do artigo vinte. A FCC insere esses para confundir.
+FRANCISCA: Chute errado. Eficiência, urbanidade, pontualidade e lealdade não são fatores do artigo vinte. A FCC insere esses para confundir.
 THALITA: Macete: assiduidade, disciplina, capacidade de iniciativa, produtividade, responsabilidade. A, DI, CA, PRO, RES.
 FRANCISCA: Quatro meses antes de findo o período, a avaliação feita por comissão é submetida à homologação da autoridade competente. Reprovado, o servidor é exonerado, e se for estável, reconduzido ao cargo anterior.
-ANTONIO: No estágio, o servidor pode exercer quaisquer cargos em comissão ou funções de direção, chefia e assessoramento no órgão de lotação. A cessão só é possível para cargos de Natureza Especial ou DAS seis, cinco e quatro, ou equivalentes.
+THALITA: No estágio, o servidor pode exercer quaisquer cargos em comissão ou funções de direção, chefia e assessoramento no órgão de lotação. A cessão só é possível para cargos de Natureza Especial ou DAS seis, cinco e quatro, ou equivalentes.
 FRANCISCA: Quanto a licenças e afastamentos, só são permitidos os do artigo oitenta e um, incisos um a quatro, que são doença em pessoa da família, afastamento do cônjuge, serviço militar e atividade política. Também mandato eletivo, estudo ou missão no exterior, organismo internacional e curso de formação para outro cargo federal.
 THALITA: E o estágio para durante esses afastamentos?
-ANTONIO: Fica suspenso durante algumas licenças e afastamentos e no curso de formação, e é retomado ao término do impedimento.
-BRUNO: Cuidado com a cobrança de licença para tratar de interesse particular durante o estágio. Não é permitida.
-
+FRANCISCA: Fica suspenso durante algumas licenças e afastamentos e no curso de formação, e é retomado ao término do impedimento.
+THALITA: Cuidado com a cobrança de licença para tratar de interesse particular durante o estágio. Não é permitida.
 == SLIDE: A celeuma: 24 meses ou 3 anos
 * Lei 8.112: estágio de 24 meses; estabilidade em 2 anos (art. 21)
 * CF após EC 19: estabilidade em 3 anos
 * STJ, STF e AGU: estágio e estabilidade se vinculam, 3 anos
 * Regra de prova: depende do comando da questão
-ANTONIO: Agora a celeuma. A lei fala em vinte e quatro meses de estágio e dois anos para a estabilidade. A Emenda dezenove, de mil novecentos e noventa e oito, elevou a estabilidade para três anos, no artigo quarenta e um da Constituição.
+FRANCISCA: Agora a celeuma. A lei fala em vinte e quatro meses de estágio e dois anos para a estabilidade. A Emenda dezenove, de mil novecentos e noventa e oito, elevou a estabilidade para três anos, no artigo quarenta e um da Constituição.
 THALITA: Então qual vale? Fico perdida.
 FRANCISCA: Como o estágio serve para aferir a aptidão que conduz à estabilidade, o Superior Tribunal de Justiça, o Supremo e a Advocacia-Geral da União passaram a entender que os dois se vinculam, prevalecendo três anos. A medida provisória quatrocentos e trinta e um, de dois mil e oito, tentou alterar a lei para trinta e seis meses, mas a lei de conversão manteve vinte e quatro.
-BRUNO: A regra de prova é esta: se a questão disser nos termos da Lei oito mil cento e doze, vinte e quatro meses. Se pedir o entendimento jurisprudencial ou constitucional, três anos.
-THALITA: Entendi: lei, vinte e quatro meses. Jurisprudência e Constituição, três anos.
-ANTONIO: Um quadro da estabilidade. Pela lei, artigos vinte e um e vinte e dois: dois anos de efetivo exercício, habilitado em concurso e empossado em cargo efetivo, e perda do cargo só por sentença judicial transitada em julgado ou processo administrativo com ampla defesa.
+THALITA: A regra de prova é esta: se a questão disser nos termos da Lei oito mil cento e doze, vinte e quatro meses. Se pedir o entendimento jurisprudencial ou constitucional, três anos.
+FRANCISCA: Entendi: lei, vinte e quatro meses. Jurisprudência e Constituição, três anos.
+THALITA: Um quadro da estabilidade. Pela lei, artigos vinte e um e vinte e dois: dois anos de efetivo exercício, habilitado em concurso e empossado em cargo efetivo, e perda do cargo só por sentença judicial transitada em julgado ou processo administrativo com ampla defesa.
 FRANCISCA: Pela Constituição, depois da Emenda dezenove: três anos, nomeado em virtude de concurso, com avaliação especial de desempenho por comissão. E a perda do cargo ocorre pelas duas hipóteses anteriores, mais a avaliação periódica de desempenho e o excesso de despesa com pessoal.
-BRUNO: E lembre: cargo em comissão não gera estabilidade, nem na lei nem na Constituição.
-
+THALITA: E lembre: cargo em comissão não gera estabilidade, nem na lei nem na Constituição.
 == SLIDE: Exemplo da Carla e resumo relâmpago
 * Nomeação publicada em 2/3; posse em 30/3; exercício em 13/4
 * Estágio começa no exercício; homologação 4 meses antes do fim
@@ -53,11 +50,11 @@ BRUNO: E lembre: cargo em comissão não gera estabilidade, nem na lei nem na Co
 * Resumo: classificação, regime, provimento, posse e estágio
 FRANCISCA: Um exemplo para fixar. Carla, aprovada no concurso do tribunal, foi nomeada por ato publicado em dois de março. Tomou posse em trinta de março, dentro dos trinta dias, e entrou em exercício em treze de abril, dentro dos quinze dias da posse.
 THALITA: Então o estágio dela começa em treze de abril, quando entra em exercício.
-ANTONIO: Isso. Pela letra da lei, termina em vinte e quatro meses, e a homologação da avaliação deve ocorrer quatro meses antes do fim. A estabilidade constitucional virá após três anos de efetivo exercício.
-BRUNO: Pegadinha possível: contar o estágio da posse, ou da nomeação. Errado. Conta-se do exercício.
-THALITA: Hora do resumo relâmpago do que mais cai na FCC. Agente público é gênero, inclusive sem remuneração. Função de confiança só para efetivo. Cargo em comissão, percentual mínimo de carreira. Nepotismo vai até o terceiro grau, inclusive o cruzado.
-FRANCISCA: Faltou estabilidade e perda do cargo, Thalita.
-THALITA: Verdade. Perda do cargo pela Constituição, quatro portas; pela lei, duas. Estatais motivam a dispensa, sem processo. Greve: desconto dos dias, vedada na segurança pública. Requisitos: brasileiro, dezoito anos, até vinte por cento para deficientes.
-BRUNO: Concurso vale dois anos mais dois. Provimento são sete formas. E posse em trinta, exercício em quinze.
-THALITA: Estágio: cinco fatores, vinte e quatro meses na lei e três anos pela jurisprudência.
-ANTONIO: Aula encerrada, pessoal. Revisem os quadros de prazos e bons estudos!
+FRANCISCA: Isso. Pela letra da lei, termina em vinte e quatro meses, e a homologação da avaliação deve ocorrer quatro meses antes do fim. A estabilidade constitucional virá após três anos de efetivo exercício.
+THALITA: Pegadinha possível: contar o estágio da posse, ou da nomeação. Errado. Conta-se do exercício.
+FRANCISCA: Hora do resumo relâmpago do que mais cai na FCC. Agente público é gênero, inclusive sem remuneração. Função de confiança só para efetivo. Cargo em comissão, percentual mínimo de carreira. Nepotismo vai até o terceiro grau, inclusive o cruzado.
+THALITA: Faltou estabilidade e perda do cargo, Francisca.
+FRANCISCA: Verdade. Perda do cargo pela Constituição, quatro portas; pela lei, duas. Estatais motivam a dispensa, sem processo. Greve: desconto dos dias, vedada na segurança pública. Requisitos: brasileiro, dezoito anos, até vinte por cento para deficientes.
+THALITA: Concurso vale dois anos mais dois. Provimento são sete formas. E posse em trinta, exercício em quinze.
+FRANCISCA: Estágio: cinco fatores, vinte e quatro meses na lei e três anos pela jurisprudência.
+THALITA: Aula encerrada, pessoal. Revisem os quadros de prazos e bons estudos!

@@ -5,13 +5,13 @@ SEGMENTO s031
 * Item 3: proposta de revisão de súmula, maioria simples (art. 164, § 3º)
 * Item 4: remoção entre Turmas, maioria simples (art. 33)
 * Gabarito: D
-ANTONIO: Vamos à segunda metade das questões comentadas. Questão dez. Considere deliberações do Pleno e seus quóruns. Item um: declaração de inconstitucionalidade de lei, maioria absoluta dos membros efetivos, inclusive o Presidente. Item dois: recusa fundamentada da promoção por antiguidade de juiz, dois terços dos membros efetivos. Item três: proposta de revisão de súmula, maioria absoluta. Item quatro: remoção de Desembargador de uma Turma para outra, havendo vaga, maioria absoluta do Pleno. A, todos. B, um e três. C, dois e quatro. D, um e dois. E, três e quatro. Pausa para você pensar.
+FRANCISCA: Vamos à segunda metade das questões comentadas. Questão dez. Considere deliberações do Pleno e seus quóruns. Item um: declaração de inconstitucionalidade de lei, maioria absoluta dos membros efetivos, inclusive o Presidente. Item dois: recusa fundamentada da promoção por antiguidade de juiz, dois terços dos membros efetivos. Item três: proposta de revisão de súmula, maioria absoluta. Item quatro: remoção de Desembargador de uma Turma para outra, havendo vaga, maioria absoluta do Pleno. A, todos. B, um e três. C, dois e quatro. D, um e dois. E, três e quatro. Pausa para você pensar.
 THALITA: Eu marcaria a A. Tudo parece quórum alto, e quórum alto combina com Pleno.
-BRUNO: Cuidado com esse raciocínio. A banca gosta de inflar o quórum. A letra A está errada porque os itens três e quatro estão incorretos.
-FRANCISCA: A proposta de revisão de súmula é votada por maioria simples, artigo cento e sessenta e quatro, parágrafo terceiro. A maioria absoluta vale para a aprovação ou a reformulação efetiva da súmula, artigos cento e sessenta e um, inciso um, e cento e sessenta e quatro-R.
-THALITA: Ah, então proposta é uma coisa, aprovação é outra. A B cai, porque tem o item três.
-ANTONIO: Isso. E a C cai pelo item quatro. A remoção ou permuta entre Turmas exige maioria simples do Pleno, artigo trinta e três.
-BRUNO: A correta é a D. O item um corresponde ao artigo cento e oitenta e um, e o item dois, ao artigo vinte e cinco, inciso cinco: a recusa da promoção por antiguidade exige dois terços dos efetivos.
+FRANCISCA: Cuidado com esse raciocínio. A banca gosta de inflar o quórum. A letra A está errada porque os itens três e quatro estão incorretos.
+THALITA: A proposta de revisão de súmula é votada por maioria simples, artigo cento e sessenta e quatro, parágrafo terceiro. A maioria absoluta vale para a aprovação ou a reformulação efetiva da súmula, artigos cento e sessenta e um, inciso um, e cento e sessenta e quatro-R.
+FRANCISCA: Ah, então proposta é uma coisa, aprovação é outra. A B cai, porque tem o item três.
+THALITA: Isso. E a C cai pelo item quatro. A remoção ou permuta entre Turmas exige maioria simples do Pleno, artigo trinta e três.
+FRANCISCA: A correta é a D. O item um corresponde ao artigo cento e oitenta e um, e o item dois, ao artigo vinte e cinco, inciso cinco: a recusa da promoção por antiguidade exige dois terços dos efetivos.
 THALITA: E a E?
 FRANCISCA: Errada, pelos mesmos motivos da B e da C: os itens três e quatro são falsos.
 THALITA: Macete: proposta e remoção, maioria simples; inconstitucionalidade e recusa de promoção, quórum qualificado. Gabarito D.
@@ -21,29 +21,29 @@ THALITA: Macete: proposta e remoção, maioria simples; inconstitucionalidade e 
 * Presidente e Vice não saem juntos (art. 82, I)
 * Substitutos: janeiro, julho e novembro (art. 86, § 2º)
 * Escala: 2ª quinzena de dezembro (art. 88); gabarito A
-ANTONIO: Questão onze, de Técnico Judiciário. Em matéria de férias dos magistrados: A, férias anuais de sessenta dias, fracionáveis em períodos não inferiores a trinta, com acúmulo de até dois meses por imperiosa necessidade. B, não podem sair mais de quatro Desembargadores de cada Turma. C, os Substitutos só podem requerer férias em janeiro, julho e dezembro. D, a escala vai ao Pleno na primeira quinzena de novembro e pode ser livremente alterada pelo Presidente. E, Presidente e Vice podem sair juntos se o Corregedor assumir a Presidência. Pensem.
+FRANCISCA: Questão onze, de Técnico Judiciário. Em matéria de férias dos magistrados: A, férias anuais de sessenta dias, fracionáveis em períodos não inferiores a trinta, com acúmulo de até dois meses por imperiosa necessidade. B, não podem sair mais de quatro Desembargadores de cada Turma. C, os Substitutos só podem requerer férias em janeiro, julho e dezembro. D, a escala vai ao Pleno na primeira quinzena de novembro e pode ser livremente alterada pelo Presidente. E, Presidente e Vice podem sair juntos se o Corregedor assumir a Presidência. Pensem.
 THALITA: A A parece certa, mas desconfio porque tem muito número junto.
 FRANCISCA: Muito número, mas está tudo certo. É o artigo oitenta e um, caput e parágrafo segundo. Sessenta dias, períodos de no mínimo trinta, e acúmulo de até dois meses.
-BRUNO: Nas outras, a banca mexe em um número de cada vez. A B troca o limite da Turma: o limite de quatro vale para cada Seção Especializada, e o de oito, para o Pleno. Por Turma, são no máximo dois, artigo oitenta e dois.
-THALITA: Então: oito, quatro, dois, do maior para o menor. Pleno, Seção, Turma.
-ANTONIO: Boa memorização. A C erra o mês: os meses dos Juízes Substitutos são janeiro, julho e novembro, artigo oitenta e seis, parágrafo segundo. Não é dezembro.
+THALITA: Nas outras, a banca mexe em um número de cada vez. A B troca o limite da Turma: o limite de quatro vale para cada Seção Especializada, e o de oito, para o Pleno. Por Turma, são no máximo dois, artigo oitenta e dois.
+FRANCISCA: Então: oito, quatro, dois, do maior para o menor. Pleno, Seção, Turma.
+THALITA: Boa memorização. A C erra o mês: os meses dos Juízes Substitutos são janeiro, julho e novembro, artigo oitenta e seis, parágrafo segundo. Não é dezembro.
 FRANCISCA: A D tem dois erros. A escala é apreciada na segunda quinzena de dezembro, e, depois de aprovada, só muda por motivo relevante ou imperiosa necessidade do serviço, artigo oitenta e oito. Não é livre alteração.
-BRUNO: A E é absurda: Presidente e Vice não podem se afastar simultaneamente em férias, artigo oitenta e dois, inciso um. Não importa quem assuma.
-THALITA: Macete: Presidente e Vice, nunca juntos. Gabarito A.
+THALITA: A E é absurda: Presidente e Vice não podem se afastar simultaneamente em férias, artigo oitenta e dois, inciso um. Não importa quem assuma.
+FRANCISCA: Macete: Presidente e Vice, nunca juntos. Gabarito A.
 == SLIDE: Questão 12: agravo regimental contra decisão do relator
 * Decisão do relator que nega seguimento a recurso: cabe AgR (art. 285, III)
 * Prazo de 8 dias; julga o órgão competente para o recurso, no caso a Turma
 * Relator: o prolator, ainda que afastado (art. 285, caput)
 * Sorteio, com prolator ausente, só em mandado de segurança (§ 2º)
 * Empate: prevalece a decisão agravada (§ 3º); gabarito E
-ANTONIO: Questão doze. Bruno, advogado, quer impugnar decisão do Desembargador Relator que negou seguimento ao recurso ordinário de seu cliente. A, cabe agravo regimental em cinco dias, ao Pleno, sem inclusão em pauta. B, não cabe recurso, pois decisões monocráticas do relator são irrecorríveis. C, cabe agravo de instrumento ao TST, em oito dias. D, cabe agravo regimental em oito dias, com relator sorteado entre os demais e, no empate, prevalece a pretensão do agravante. E, cabe agravo regimental em oito dias, relator o prolator da decisão, ainda que afastado, e, no empate, prevalece a decisão agravada. Pausa para pensar.
-THALITA: Eu iria na C, agravo de instrumento. É o que nega seguimento, né?
-FRANCISCA: É a confusão clássica. O agravo de instrumento ataca a decisão que nega seguimento a recurso no juízo de admissibilidade de origem, artigo duzentos e setenta e um. Aqui a decisão é do relator, dentro do Tribunal.
-BRUNO: A B nega o que o regimento prevê expressamente. O artigo duzentos e oitenta e cinco, inciso três, admite agravo regimental contra decisão do relator que nega seguimento a recurso.
-ANTONIO: A A erra o prazo e o órgão. O prazo é de oito dias, e o agravo vai ao órgão competente para o recurso, no caso a Turma, artigos cento e dezoito, parágrafo segundo, e duzentos e oitenta e cinco, inciso três.
-THALITA: E a D? Sorteio de relator parece justo.
-FRANCISCA: A redistribuição por sorteio, com o prolator ausente, só ocorre em mandado de segurança, artigo duzentos e oitenta e cinco, parágrafo segundo. No empate prevalece a decisão agravada, parágrafo terceiro, e não a pretensão do agravante.
-BRUNO: Então a E é a correta: artigo duzentos e oitenta e cinco, caput, inciso três, e parágrafos primeiro e terceiro.
+THALITA: Questão doze. Bruno, advogado, quer impugnar decisão do Desembargador Relator que negou seguimento ao recurso ordinário de seu cliente. A, cabe agravo regimental em cinco dias, ao Pleno, sem inclusão em pauta. B, não cabe recurso, pois decisões monocráticas do relator são irrecorríveis. C, cabe agravo de instrumento ao TST, em oito dias. D, cabe agravo regimental em oito dias, com relator sorteado entre os demais e, no empate, prevalece a pretensão do agravante. E, cabe agravo regimental em oito dias, relator o prolator da decisão, ainda que afastado, e, no empate, prevalece a decisão agravada. Pausa para pensar.
+FRANCISCA: Eu iria na C, agravo de instrumento. É o que nega seguimento, né?
+THALITA: É a confusão clássica. O agravo de instrumento ataca a decisão que nega seguimento a recurso no juízo de admissibilidade de origem, artigo duzentos e setenta e um. Aqui a decisão é do relator, dentro do Tribunal.
+FRANCISCA: A B nega o que o regimento prevê expressamente. O artigo duzentos e oitenta e cinco, inciso três, admite agravo regimental contra decisão do relator que nega seguimento a recurso.
+THALITA: A A erra o prazo e o órgão. O prazo é de oito dias, e o agravo vai ao órgão competente para o recurso, no caso a Turma, artigos cento e dezoito, parágrafo segundo, e duzentos e oitenta e cinco, inciso três.
+FRANCISCA: E a D? Sorteio de relator parece justo.
+THALITA: A redistribuição por sorteio, com o prolator ausente, só ocorre em mandado de segurança, artigo duzentos e oitenta e cinco, parágrafo segundo. No empate prevalece a decisão agravada, parágrafo terceiro, e não a pretensão do agravante.
+FRANCISCA: Então a E é a correta: artigo duzentos e oitenta e cinco, caput, inciso três, e parágrafos primeiro e terceiro.
 THALITA: Macete: agravo regimental, oito dias, o mesmo relator, empate mantém a decisão. Gabarito E.
 == SLIDE: Questão 13: analista executante de mandados e fechamento
 * Prazo de 9 dias, salvo prazo diverso em lei ou na ordem (art. 69)
@@ -51,11 +51,11 @@ THALITA: Macete: agravo regimental, oito dias, o mesmo relator, empate mantém a
 * Central: Juiz Titular, no máximo 2 anos (art. 64)
 * Conclusão por outro analista: autorização do Diretor, sem redistribuição
 * Gabarito: C
-ANTONIO: Última questão. Ana, Analista Executante de Mandados da Central de Belém, iniciou diligência para penhora de bens da empresa Beta Sociedade Anônima. A, Ana terá quinze dias, ainda que a ordem fixe prazo diverso. B, mudando de zona no rodízio semestral, a diligência é redistribuída. C, Ana terá nove dias, se outro não for o prazo da lei ou da ordem, e concluirá a diligência, ainda que em zona diversa. D, a Central será dirigida por Analista designado pelo Presidente, por prazo indeterminado. E, a conclusão por outro analista independe de autorização e implica redistribuição.
+FRANCISCA: Última questão. Ana, Analista Executante de Mandados da Central de Belém, iniciou diligência para penhora de bens da empresa Beta Sociedade Anônima. A, Ana terá quinze dias, ainda que a ordem fixe prazo diverso. B, mudando de zona no rodízio semestral, a diligência é redistribuída. C, Ana terá nove dias, se outro não for o prazo da lei ou da ordem, e concluirá a diligência, ainda que em zona diversa. D, a Central será dirigida por Analista designado pelo Presidente, por prazo indeterminado. E, a conclusão por outro analista independe de autorização e implica redistribuição.
 THALITA: A C parece a certa. Nove dias, como a Bruna... quer dizer, como o Bruno falou.
-BRUNO: Falei mesmo. Nove dias, artigo sessenta e nove, e ele cede a prazo diverso em lei ou na ordem judicial. A A erra o número e a regra. O rodízio é trimestral, artigo sessenta e seis, inciso quatro, e a diligência deve ser concluída por quem a iniciou, artigo setenta. Isso derruba a B.
-FRANCISCA: A D erra duas vezes. Na sede e em Macapá, a Central é dirigida por Juiz Titular de Vara designado pelo Presidente, por no máximo dois anos, artigo sessenta e quatro. O Analista Executante exerce a coordenação, artigo sessenta e cinco, parágrafo primeiro.
-THALITA: E a E?
-ANTONIO: A conclusão por outro analista depende de autorização do Diretor da Central e não implica redistribuição, artigo setenta, parágrafo único. Então a correta é a C.
-THALITA: Resumo relâmpago do que mais cai: rescisória, dois anos e sem suspensão; mandado de segurança, trinta dias; embargos de declaração, cinco dias, e os outros recursos, oito; agravo regimental, empate mantém a decisão; convocação acima de trinta dias, Pleno, quinta parte, dez por cento e sem prorrogação; férias, sessenta dias, e Substitutos em janeiro, julho e novembro; Oficial, nove dias e rodízio trimestral.
-ANTONIO: Excelente resumo, Thalita. Obrigado a todos e bons estudos, até a próxima aula!
+FRANCISCA: Falei mesmo. Nove dias, artigo sessenta e nove, e ele cede a prazo diverso em lei ou na ordem judicial. A A erra o número e a regra. O rodízio é trimestral, artigo sessenta e seis, inciso quatro, e a diligência deve ser concluída por quem a iniciou, artigo setenta. Isso derruba a B.
+THALITA: A D erra duas vezes. Na sede e em Macapá, a Central é dirigida por Juiz Titular de Vara designado pelo Presidente, por no máximo dois anos, artigo sessenta e quatro. O Analista Executante exerce a coordenação, artigo sessenta e cinco, parágrafo primeiro.
+FRANCISCA: E a E?
+THALITA: A conclusão por outro analista depende de autorização do Diretor da Central e não implica redistribuição, artigo setenta, parágrafo único. Então a correta é a C.
+FRANCISCA: Resumo relâmpago do que mais cai: rescisória, dois anos e sem suspensão; mandado de segurança, trinta dias; embargos de declaração, cinco dias, e os outros recursos, oito; agravo regimental, empate mantém a decisão; convocação acima de trinta dias, Pleno, quinta parte, dez por cento e sem prorrogação; férias, sessenta dias, e Substitutos em janeiro, julho e novembro; Oficial, nove dias e rodízio trimestral.
+THALITA: Excelente resumo, Francisca. Obrigada a todos e bons estudos, até a próxima aula!

@@ -3,59 +3,59 @@ SEGMENTO s040
 * Número, eleição e mandato dos juízes do Estatuto de Roma
 * Gabarito D: 18 juízes, Assembleia dos Estados-Partes, 9 anos, sem reeleição
 * A é a CIJ; B e C erram número ou mandato; E inventa nomeação
-ANTONIO: Vamos praticar com questões no estilo FCC. Cada uma tem enunciado resumido, uma pausa para você pensar e o comentário de cada alternativa. Questão um: segundo o Estatuto de Roma, promulgado pelo Decreto quatro mil trezentos e oitenta e oito de dois mil e dois, como são os juízes do Tribunal Penal Internacional?
-BRUNO: As alternativas combinam número de juízes, quem elege e mandato. A alternativa A diz quinze juízes, eleitos pela Assembleia Geral e pelo Conselho de Segurança, nove anos, com reeleição. B diz dezoito, nove anos de mandato trocado por seis, com uma reeleição. C diz quinze eleitos pela Assembleia dos Estados-Partes, sem reeleição. D diz dezoito, Assembleia dos Estados-Partes, nove anos, vedada a reeleição. E diz dezoito, nomeados pelo Secretário-Geral da ONU.
-ANTONIO: Pausa para você pensar.
+FRANCISCA: Vamos praticar com questões no estilo FCC. Cada uma tem enunciado resumido, uma pausa para você pensar e o comentário de cada alternativa. Questão um: segundo o Estatuto de Roma, promulgado pelo Decreto quatro mil trezentos e oitenta e oito de dois mil e dois, como são os juízes do Tribunal Penal Internacional?
+THALITA: As alternativas combinam número de juízes, quem elege e mandato. A alternativa A diz quinze juízes, eleitos pela Assembleia Geral e pelo Conselho de Segurança, nove anos, com reeleição. B diz dezoito, nove anos de mandato trocado por seis, com uma reeleição. C diz quinze eleitos pela Assembleia dos Estados-Partes, sem reeleição. D diz dezoito, Assembleia dos Estados-Partes, nove anos, vedada a reeleição. E diz dezoito, nomeados pelo Secretário-Geral da ONU.
+FRANCISCA: Pausa para você pensar.
 THALITA: Eu marcaria D. Dezoito, nove, sem reeleição, e a Assembleia dos Estados-Partes elege. Lembro do macete dezoito, dezoito, nove, trinta.
 FRANCISCA: Gabarito D, correta. O artigo trinta e seis fixa dezoito juízes, eleitos por dois terços da Assembleia dos Estados-Partes, com mandato de nove anos, sem reeleição.
-BRUNO: A alternativa A é a descrição da Corte Internacional de Justiça: quinze juízes, eleitos pela Assembleia Geral e pelo Conselho de Segurança, com reeleição. B erra o mandato, que é de nove anos e não de seis, e erra a reeleição. C erra o número: são dezoito. E erra porque o Secretário-Geral da ONU não nomeia juiz do TPI, e a reeleição é vedada.
-THALITA: Então a banca mistura os dados das duas cortes.
+THALITA: A alternativa A é a descrição da Corte Internacional de Justiça: quinze juízes, eleitos pela Assembleia Geral e pelo Conselho de Segurança, com reeleição. B erra o mandato, que é de nove anos e não de seis, e erra a reeleição. C erra o número: são dezoito. E erra porque o Secretário-Geral da ONU não nomeia juiz do TPI, e a reeleição é vedada.
+FRANCISCA: Então a banca mistura os dados das duas cortes.
 == SLIDE: Questão 2: competência material do TPI
 * Rol taxativo do art. 5º
 * I: contra a humanidade; III: genocídio
 * Terrorismo e tráfico de drogas ficam de fora
 * Gabarito B: I e III
-ANTONIO: Questão dois. Quatro condutas. A primeira: ataque generalizado ou sistemático contra população civil, com conhecimento, mediante deportação forçada. A segunda: atos de terrorismo internacional por organização criminosa transnacional. A terceira: medidas para impedir nascimentos em grupo religioso, com intenção de destruí-lo, no todo ou em parte. A quarta: tráfico internacional de entorpecentes em larga escala. Quais estão na competência do TPI? Pausa para você pensar.
-THALITA: Eu aposto em um e três. A um é crime contra a humanidade, e a três parece genocídio.
-FRANCISCA: Gabarito B, e sua leitura está certa. A primeira é crime contra a humanidade, artigo sétimo, com a deportação como conduta típica. A terceira é genocídio, artigo sexto, pois há intenção de destruir grupo religioso e a medida impede nascimentos.
-BRUNO: A segunda e a quarta são os distratores clássicos. Terrorismo e tráfico não integram o rol taxativo do artigo quinto. Por isso a alternativa A, que inclui terrorismo, está errada. A C, só segunda e quarta, errada. A D inclui o tráfico, errada. E a alternativa E, só a terceira, omite a primeira, que também é crime da competência do tribunal.
+THALITA: Questão dois. Quatro condutas. A primeira: ataque generalizado ou sistemático contra população civil, com conhecimento, mediante deportação forçada. A segunda: atos de terrorismo internacional por organização criminosa transnacional. A terceira: medidas para impedir nascimentos em grupo religioso, com intenção de destruí-lo, no todo ou em parte. A quarta: tráfico internacional de entorpecentes em larga escala. Quais estão na competência do TPI? Pausa para você pensar.
+FRANCISCA: Eu aposto em um e três. A um é crime contra a humanidade, e a três parece genocídio.
+THALITA: Gabarito B, e sua leitura está certa. A primeira é crime contra a humanidade, artigo sétimo, com a deportação como conduta típica. A terceira é genocídio, artigo sexto, pois há intenção de destruir grupo religioso e a medida impede nascimentos.
+FRANCISCA: A segunda e a quarta são os distratores clássicos. Terrorismo e tráfico não integram o rol taxativo do artigo quinto. Por isso a alternativa A, que inclui terrorismo, está errada. A C, só segunda e quarta, errada. A D inclui o tráfico, errada. E a alternativa E, só a terceira, omite a primeira, que também é crime da competência do tribunal.
 THALITA: Quatro crimes: genocídio, humanidade, guerra e agressão. O que fica fora é distrator.
 == SLIDE: Questões 3 e 4: admissibilidade e penas
 * Q3: processo para subtrair o acusado à responsabilidade afasta o ne bis in idem
 * Gabarito A; TPI é complementar, não tem primazia
 * Q4: prisão até 30 anos ou perpétua excepcional; multa e perda de bens
 * Gabarito E; não há pena de morte
-ANTONIO: Questão três. O Estado Alfa, parte do Estatuto, processou Márcio por crime contra a humanidade, mas o processo foi conduzido para subtraí-lo à responsabilidade, e ele foi absolvido. O que acontece? Pense um pouco.
-BRUNO: A alternativa A diz que o caso pode ser admitido pelo TPI porque o processo visou subtrair o acusado à responsabilidade. B diz que a absolvição impede, em qualquer hipótese, novo julgamento. C diz que o TPI tem primazia. D exige remessa pela Assembleia Geral. E exige o consentimento do Estado.
-THALITA: Eu fico com A. O julgamento foi de fachada, então não vale.
-FRANCISCA: Gabarito A. Artigo vinte, parágrafo terceiro, e artigo dezessete: o ne bis in idem cede quando o processo anterior visou subtrair o acusado à responsabilidade. B erra porque a vedação não é absoluta. C erra porque a jurisdição é complementar. D erra porque a Assembleia Geral não aciona o TPI: quem aciona é Estado-Parte, Conselho de Segurança e Procurador. E erra porque a admissibilidade é decidida pelo próprio tribunal, sem consentimento do Estado.
-ANTONIO: Questão quatro, sobre as penas do Estatuto. A alternativa A prevê pena de morte para genocídio. B diz prisão por até quarenta anos e multa em substituição. C diz até trinta anos, sempre vedada a perpétua. D diz perpétua como regra. E diz até trinta anos ou perpétua, esta quando justificada pelo elevado grau de ilicitude e pelas condições pessoais, além de multa e perda de bens. Pausa para pensar.
+FRANCISCA: Questão três. O Estado Alfa, parte do Estatuto, processou Márcio por crime contra a humanidade, mas o processo foi conduzido para subtraí-lo à responsabilidade, e ele foi absolvido. O que acontece? Pense um pouco.
+THALITA: A alternativa A diz que o caso pode ser admitido pelo TPI porque o processo visou subtrair o acusado à responsabilidade. B diz que a absolvição impede, em qualquer hipótese, novo julgamento. C diz que o TPI tem primazia. D exige remessa pela Assembleia Geral. E exige o consentimento do Estado.
+FRANCISCA: Eu fico com A. O julgamento foi de fachada, então não vale.
+THALITA: Gabarito A. Artigo vinte, parágrafo terceiro, e artigo dezessete: o ne bis in idem cede quando o processo anterior visou subtrair o acusado à responsabilidade. B erra porque a vedação não é absoluta. C erra porque a jurisdição é complementar. D erra porque a Assembleia Geral não aciona o TPI: quem aciona é Estado-Parte, Conselho de Segurança e Procurador. E erra porque a admissibilidade é decidida pelo próprio tribunal, sem consentimento do Estado.
+FRANCISCA: Questão quatro, sobre as penas do Estatuto. A alternativa A prevê pena de morte para genocídio. B diz prisão por até quarenta anos e multa em substituição. C diz até trinta anos, sempre vedada a perpétua. D diz perpétua como regra. E diz até trinta anos ou perpétua, esta quando justificada pelo elevado grau de ilicitude e pelas condições pessoais, além de multa e perda de bens. Pausa para pensar.
 THALITA: Fácil: E. Trinta anos, perpétua excepcional, e multa e perda de bens além da prisão.
-BRUNO: Gabarito E, reproduz o artigo setenta e sete. A erra: não há pena de morte. B erra duas vezes: o limite é trinta anos, e a multa é aplicada além da prisão, nunca em substituição. C erra porque a perpétua é admitida excepcionalmente. D inverte regra e exceção.
+FRANCISCA: Gabarito E, reproduz o artigo setenta e sete. A erra: não há pena de morte. B erra duas vezes: o limite é trinta anos, e a multa é aplicada além da prisão, nunca em substituição. C erra porque a perpétua é admitida excepcionalmente. D inverte regra e exceção.
 == SLIDE: Questões 5 e 6: entrega e princípios penais
 * Q5: entrega ao TPI não é extradição (art. 102)
 * Gabarito C; Estatuto não admite reservas
 * Q6: I e III corretas; qualidade oficial não reduz a pena
 * Gabarito B; ordem superior não exime sempre
-FRANCISCA: Questão cinco. Bruno, brasileiro nato, é alvo de pedido de detenção e entrega formulado pelo TPI ao Brasil. Qual afirmação é correta? A: indeferir, pois entrega equivale à extradição, vedada para nato. B: depende de prévia aprovação do Congresso. C: a entrega se distingue da extradição por ser feita por um Estado ao Tribunal, e o Brasil se submete à jurisdição de TPI a cuja criação tenha aderido. D: o Brasil pode recusar, pois fez reserva. E: só se o crime foi fora do território nacional.
-THALITA: Eu cairia na A, porque brasileiro nato não é extraditado.
-BRUNO: Caiu na pegadinha, e foi justamente a que a banca montou. Gabarito C. O artigo cento e dois do Estatuto distingue entrega, de Estado para o Tribunal, de extradição, de Estado para Estado. A erra por equiparar as duas. B inventa uma exigência. D erra porque o Estatuto não admite reservas. E erra porque não há essa limitação; o território de Estado-Parte, inclusive o Brasil, é critério de jurisdição.
-THALITA: Então o destinatário é o que muda: Tribunal, entrega; outro Estado, extradição. Gravei.
-ANTONIO: Questão seis, princípios penais. Quatro itens. Um: sem jurisdição sobre quem não tinha dezoito anos na data do crime. Dois: a qualidade de Chefe de Estado não exime, mas reduz a pena. Três: os crimes não prescrevem. Quatro: a ordem de superior exime sempre. Quais estão corretos? Pausa para pensar.
+THALITA: Questão cinco. Bruno, brasileiro nato, é alvo de pedido de detenção e entrega formulado pelo TPI ao Brasil. Qual afirmação é correta? A: indeferir, pois entrega equivale à extradição, vedada para nato. B: depende de prévia aprovação do Congresso. C: a entrega se distingue da extradição por ser feita por um Estado ao Tribunal, e o Brasil se submete à jurisdição de TPI a cuja criação tenha aderido. D: o Brasil pode recusar, pois fez reserva. E: só se o crime foi fora do território nacional.
+FRANCISCA: Eu cairia na A, porque brasileiro nato não é extraditado.
+THALITA: Caiu na pegadinha, e foi justamente a que a banca montou. Gabarito C. O artigo cento e dois do Estatuto distingue entrega, de Estado para o Tribunal, de extradição, de Estado para Estado. A erra por equiparar as duas. B inventa uma exigência. D erra porque o Estatuto não admite reservas. E erra porque não há essa limitação; o território de Estado-Parte, inclusive o Brasil, é critério de jurisdição.
+FRANCISCA: Então o destinatário é o que muda: Tribunal, entrega; outro Estado, extradição. Gravei.
+THALITA: Questão seis, princípios penais. Quatro itens. Um: sem jurisdição sobre quem não tinha dezoito anos na data do crime. Dois: a qualidade de Chefe de Estado não exime, mas reduz a pena. Três: os crimes não prescrevem. Quatro: a ordem de superior exime sempre. Quais estão corretos? Pausa para pensar.
 FRANCISCA: Gabarito B, apenas um e três. O item um está no artigo vinte e seis, o três no artigo vinte e nove. O dois é falso: o artigo vinte e sete diz que a qualidade oficial não constitui, por si, motivo de redução da pena. O quatro é falso: a ordem superior, em regra, não exime, e ordem de genocídio ou crime contra a humanidade é manifestamente ilícita, artigo trinta e três.
-BRUNO: Assim, A e C erram por incluir o dois, D erra por incluir o quatro, e E omite o um.
+THALITA: Assim, A e C erram por incluir o dois, D erra por incluir o quatro, e E omite o um.
 == SLIDE: Questões 7 e 8: Conselho de Segurança e admissão
 * Q7: 15 membros; 5 permanentes e 10 eleitos por 2 anos; 9 votos
 * Gabarito A; abstenção não é veto
 * Q8: AG decide, por recomendação do CS (art. 4º, 2)
 * Gabarito E
-THALITA: Questão sete: o Conselho de Segurança, com as emendas vigentes. Posso ler as alternativas?
-ANTONIO: Pode.
-THALITA: A diz quinze membros, cinco permanentes e dez eleitos pela Assembleia por dois anos, e nove votos nas questões não procedimentais, incluindo os permanentes. B diz todos eleitos por três anos, maioria simples. C diz onze membros e sete votos. D diz que a abstenção de permanente é veto. E diz cinquenta e quatro membros.
-BRUNO: Pense, pausa. Gabarito A, artigos vinte e três e vinte e sete da Carta, na redação emendada. B erra porque há cinco permanentes, e os eleitos têm mandato de dois anos. C reproduz a composição original de mil novecentos e quarenta e cinco, alterada pela emenda de mil novecentos e sessenta e cinco. D erra porque, pela prática consolidada, a abstenção não impede a aprovação. E descreve o Conselho Econômico e Social.
-THALITA: Cinquenta e quatro é o ECOSOC. Isso eu já guardei.
-FRANCISCA: Questão oito: como se admite um novo membro? A diz decisão exclusiva do Conselho de Segurança por nove votos. B diz declaração unilateral do Estado. C diz que o Secretário-Geral admite, após parecer da CIJ. D diz Assembleia Geral por maioria simples, sem o Conselho. E diz Assembleia Geral, mediante recomendação do Conselho.
-ANTONIO: Pausa. Qual é a certa?
+FRANCISCA: Questão sete: o Conselho de Segurança, com as emendas vigentes. Posso ler as alternativas?
+THALITA: Pode.
+FRANCISCA: A diz quinze membros, cinco permanentes e dez eleitos pela Assembleia por dois anos, e nove votos nas questões não procedimentais, incluindo os permanentes. B diz todos eleitos por três anos, maioria simples. C diz onze membros e sete votos. D diz que a abstenção de permanente é veto. E diz cinquenta e quatro membros.
+THALITA: Pense, pausa. Gabarito A, artigos vinte e três e vinte e sete da Carta, na redação emendada. B erra porque há cinco permanentes, e os eleitos têm mandato de dois anos. C reproduz a composição original de mil novecentos e quarenta e cinco, alterada pela emenda de mil novecentos e sessenta e cinco. D erra porque, pela prática consolidada, a abstenção não impede a aprovação. E descreve o Conselho Econômico e Social.
+FRANCISCA: Cinquenta e quatro é o ECOSOC. Isso eu já guardei.
+THALITA: Questão oito: como se admite um novo membro? A diz decisão exclusiva do Conselho de Segurança por nove votos. B diz declaração unilateral do Estado. C diz que o Secretário-Geral admite, após parecer da CIJ. D diz Assembleia Geral por maioria simples, sem o Conselho. E diz Assembleia Geral, mediante recomendação do Conselho.
+FRANCISCA: Pausa. Qual é a certa?
 THALITA: E. A Assembleia decide, o Conselho recomenda.
 FRANCISCA: Correto, artigo quarto, parágrafo segundo. A erra porque o Conselho só recomenda. B erra porque aceitar as obrigações é requisito, mas não basta. C erra porque nem o Secretário-Geral nem a CIJ participam. D erra porque a admissão é questão importante, que exige dois terços, e depende da recomendação do Conselho.
 == SLIDE: Padrões de erro nas questões de TPI e ONU
@@ -63,26 +63,26 @@ FRANCISCA: Correto, artigo quarto, parágrafo segundo. A erra porque o Conselho 
 * Distratores: terrorismo, tráfico, primazia, pena de morte
 * Veto: abstenção de permanente não é veto
 * Admissão: AG decide, CS recomenda
-ANTONIO: Antes das duas últimas questões, vamos olhar o padrão do que vimos. Em quase toda questão, a banca mexe em um dado que você já devia ter na ponta da língua. Vamos listar esses padrões.
-BRUNO: O primeiro padrão é a troca entre cortes. Quinze juízes com reeleição é a CIJ; dezoito sem reeleição é o TPI. Eleito pela Assembleia dos Estados-Partes é o TPI; eleito pela Assembleia Geral e pelo Conselho de Segurança é a CIJ. A questão um e a questão nove fizeram exatamente isso.
+THALITA: Antes das duas últimas questões, vamos olhar o padrão do que vimos. Em quase toda questão, a banca mexe em um dado que você já devia ter na ponta da língua. Vamos listar esses padrões.
+FRANCISCA: O primeiro padrão é a troca entre cortes. Quinze juízes com reeleição é a CIJ; dezoito sem reeleição é o TPI. Eleito pela Assembleia dos Estados-Partes é o TPI; eleito pela Assembleia Geral e pelo Conselho de Segurança é a CIJ. A questão um e a questão nove fizeram exatamente isso.
 THALITA: O segundo padrão são os distratores de crimes, certo? Terrorismo, tráfico, pirataria.
 FRANCISCA: Isso. O rol do artigo quinto é taxativo. E, no outro extremo, a banca inventa poderes que o tribunal não tem, como pena de morte, primazia sobre os tribunais nacionais ou necessidade de consentimento do Estado para o tribunal avaliar a admissibilidade.
-BRUNO: O terceiro padrão é o do Conselho de Segurança. Nove votos com os permanentes, abstenção não é veto, e a composição original de onze membros e sete votos é armadilha de texto antigo.
-THALITA: E o quarto é quem decide o quê. Na admissão de membro, a Assembleia decide e o Conselho recomenda. No acionamento do TPI, a Assembleia Geral da ONU não aciona.
-ANTONIO: Perfeito. E um quinto: a banca troca entrega por extradição, para levar o candidato a pensar que brasileiro nato não pode ser entregue ao tribunal.
-THALITA: Entrega vai para o Tribunal; extradição vai para outro Estado. Vou escrever isso no topo do caderno.
+THALITA: O terceiro padrão é o do Conselho de Segurança. Nove votos com os permanentes, abstenção não é veto, e a composição original de onze membros e sete votos é armadilha de texto antigo.
+FRANCISCA: E o quarto é quem decide o quê. Na admissão de membro, a Assembleia decide e o Conselho recomenda. No acionamento do TPI, a Assembleia Geral da ONU não aciona.
+THALITA: Perfeito. E um quinto: a banca troca entrega por extradição, para levar o candidato a pensar que brasileiro nato não pode ser entregue ao tribunal.
+FRANCISCA: Entrega vai para o Tribunal; extradição vai para outro Estado. Vou escrever isso no topo do caderno.
 == SLIDE: Questões 9 e 10: CIJ e legítima defesa
 * Q9: só Estados litigam; AG e CS pedem parecer consultivo
 * Gabarito C; sentença inapelável (art. 60)
 * Q10: legítima defesa individual ou coletiva, provisória, com comunicação imediata
 * Gabarito D
-BRUNO: Questão nove, sobre a Corte Internacional de Justiça. A diz que podem ser partes Estados, organizações e indivíduos. B diz que todo membro da ONU está automaticamente submetido à jurisdição contenciosa. C diz que só Estados são partes, e que a Assembleia ou o Conselho podem pedir parecer consultivo sobre qualquer questão jurídica. D diz dezoito juízes eleitos pela Assembleia dos Estados-Partes. E diz que as sentenças são recorríveis ao Conselho de Segurança.
-ANTONIO: Pausa para pensar.
+THALITA: Questão nove, sobre a Corte Internacional de Justiça. A diz que podem ser partes Estados, organizações e indivíduos. B diz que todo membro da ONU está automaticamente submetido à jurisdição contenciosa. C diz que só Estados são partes, e que a Assembleia ou o Conselho podem pedir parecer consultivo sobre qualquer questão jurídica. D diz dezoito juízes eleitos pela Assembleia dos Estados-Partes. E diz que as sentenças são recorríveis ao Conselho de Segurança.
+FRANCISCA: Pausa para pensar.
 THALITA: Eu marco C. Só Estado litiga, e a ONU usa a via consultiva.
 FRANCISCA: Gabarito C, artigo trinta e quatro do Estatuto e artigo noventa e seis da Carta. A erra porque só Estados litigam. B erra porque a jurisdição contenciosa depende de consentimento, inclusive pela cláusula facultativa. D descreve o TPI; a CIJ tem quinze juízes, com reeleição. E erra porque a sentença é definitiva e inapelável, e o Conselho só atua para fazer cumprir a decisão, artigo noventa e quatro da Carta.
-ANTONIO: Questão dez. O Estado Beta sofreu ataque armado de forças regulares do Estado Gama. Nos termos do artigo cinquenta e um da Carta, o que Beta pode fazer?
-BRUNO: A diz que só reage após autorização do Conselho. B diz só legítima defesa individual. C diz por tempo indeterminado, mesmo que o Conselho adote medidas. D diz legítima defesa individual ou coletiva, até o Conselho tomar as medidas, comunicando-lhe imediatamente. E diz que deve ir antes à CIJ.
+THALITA: Questão dez. O Estado Beta sofreu ataque armado de forças regulares do Estado Gama. Nos termos do artigo cinquenta e um da Carta, o que Beta pode fazer?
+FRANCISCA: A diz que só reage após autorização do Conselho. B diz só legítima defesa individual. C diz por tempo indeterminado, mesmo que o Conselho adote medidas. D diz legítima defesa individual ou coletiva, até o Conselho tomar as medidas, comunicando-lhe imediatamente. E diz que deve ir antes à CIJ.
 THALITA: D, com certeza. Ataque armado, provisória, comunica logo.
-BRUNO: Gabarito D. A erra, pois independe de autorização prévia. B erra, pois admite a coletiva. C erra, pois o direito subsiste só até o Conselho agir. E erra, pois não há prévia submissão à CIJ.
+FRANCISCA: Gabarito D. A erra, pois independe de autorização prévia. B erra, pois admite a coletiva. C erra, pois o direito subsiste só até o Conselho agir. E erra, pois não há prévia submissão à CIJ.
 THALITA: Resumo relâmpago do que mais cai: TPI tem dezoito juízes, nove anos, sem reeleição; CIJ tem quinze, com reeleição. Quatro crimes, sem terrorismo nem tráfico. Complementaridade, sem primazia. Pena até trinta anos, perpétua excepcional, sem pena de morte. Entrega não é extradição. Conselho de Segurança: quinze membros, nove votos, veto dos cinco permanentes. Só Estados litigam na CIJ. E legítima defesa não precisa de autorização, mas é provisória.
-ANTONIO: Excelente, Thalita. Bons estudos a todos, e até a próxima aula!
+FRANCISCA: Excelente, Thalita. Bons estudos a todos, e até a próxima aula!

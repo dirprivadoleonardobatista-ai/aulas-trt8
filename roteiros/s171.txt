@@ -5,90 +5,83 @@ SEGMENTO s171
 * IRDR e IAC: CPC, por força da IN 39/2016 do TST
 * A partir de 2024: teses vinculantes por reafirmação de jurisprudência
 * Exemplo: IRR Tema 23 sobre aplicação da Reforma
-ANTONIO: Olá, pessoal! Bem-vindos à aula cinquenta do nosso curso para o TRT da Oitava Região. Hoje fechamos Direito do Trabalho com precedentes vinculantes e jurisprudência do STF, a Reforma Trabalhista, direito intertemporal e quadro de súmulas, e questões comentadas no estilo FCC. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, também professora. Trago a lei em paráfrase, a jurisprudência e exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira como vocês. Faço as perguntas e os resumos.
-ANTONIO: Começamos pelo microssistema de precedentes no processo do trabalho. São três instrumentos: o IRR, o IRDR e o IAC.
+FRANCISCA: Olá, pessoal! Bem-vindos à aula cinquenta do nosso curso para o TRT da Oitava Região. Hoje fechamos Direito do Trabalho com precedentes vinculantes e jurisprudência do STF, a Reforma Trabalhista, direito intertemporal e quadro de súmulas, e questões comentadas no estilo FCC. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começamos pelo microssistema de precedentes no processo do trabalho. São três instrumentos: o IRR, o IRDR e o IAC.
 THALITA: Todos servem para a mesma coisa?
 FRANCISCA: Todos formam precedentes, mas com pressupostos diferentes. O IRR, Incidente de Recursos de Revista Repetitivos, exige multiplicidade de recursos de revista fundados em idêntica questão de direito. Está nos artigos oitocentos e noventa e seis B e oitocentos e noventa e seis C da CLT, Lei treze mil e quinze, de dois mil e catorze.
-BRUNO: Quem julga? A SDI-um ou o Tribunal Pleno do TST, por decisão da maioria simples, a pedido de ministro da Seção, considerando relevância ou divergência. Aplicam-se subsidiariamente as normas do CPC sobre recursos extraordinário e especial repetitivos.
-ANTONIO: Duas características: o relator pode determinar a suspensão dos recursos que versem sobre a mesma questão, e são admitidos amicus curiae e audiência pública. A tese fixada vincula os órgãos da Justiça do Trabalho, com revisão possível se mudar a situação econômica, social ou jurídica.
+THALITA: Quem julga? A SDI-um ou o Tribunal Pleno do TST, por decisão da maioria simples, a pedido de ministro da Seção, considerando relevância ou divergência. Aplicam-se subsidiariamente as normas do CPC sobre recursos extraordinário e especial repetitivos.
+FRANCISCA: Duas características: o relator pode determinar a suspensão dos recursos que versem sobre a mesma questão, e são admitidos amicus curiae e audiência pública. A tese fixada vincula os órgãos da Justiça do Trabalho, com revisão possível se mudar a situação econômica, social ou jurídica.
 THALITA: E se tem repercussão geral no STF?
 FRANCISCA: Se o Supremo reconheceu repercussão geral, o processamento observa o que for decidido por ele.
-BRUNO: A apostila também traz uma novidade: a partir do final de dois mil e vinte e quatro, após alteração regimental, o TST passou a julgar IRRs no Tribunal Pleno para reafirmar entendimentos já pacificados, convertendo-os em precedentes vinculantes numerados, os Temas. Confira a resolução regimental e a lista atual antes da prova.
-ANTONIO: Um exemplo: o Tema vinte e três, em dois mil e vinte e quatro, diz que a Lei treze mil quatrocentos e sessenta e sete se aplica de imediato aos contratos em curso, regendo os direitos cujos fatos geradores ocorram a partir de onze de novembro de dois mil e dezessete.
-
+THALITA: A apostila também traz uma novidade: a partir do final de dois mil e vinte e quatro, após alteração regimental, o TST passou a julgar IRRs no Tribunal Pleno para reafirmar entendimentos já pacificados, convertendo-os em precedentes vinculantes numerados, os Temas. Confira a resolução regimental e a lista atual antes da prova.
+FRANCISCA: Um exemplo: o Tema vinte e três, em dois mil e vinte e quatro, diz que a Lei treze mil quatrocentos e sessenta e sete se aplica de imediato aos contratos em curso, regendo os direitos cujos fatos geradores ocorram a partir de onze de novembro de dois mil e dezessete.
 == SLIDE: IRDR e IAC
 * IRDR: repetição de processos sobre questão unicamente de direito
 * Risco à isonomia e à segurança jurídica; julgado pelo TRT
 * Arts. 976 a 987 do CPC
 * IAC: relevante questão de direito, grande repercussão, sem repetição
 * Art. 947 do CPC
-FRANCISCA: Segundo instrumento: o IRDR, Incidente de Resolução de Demandas Repetitivas. O pressuposto é a efetiva repetição de processos sobre a mesma questão unicamente de direito, mais o risco de ofensa à isonomia e à segurança jurídica. É julgado pelo Tribunal Regional, pelo órgão indicado no Regimento. Os artigos são de novecentos e setenta e seis a novecentos e oitenta e sete do CPC.
-THALITA: E o IAC, qual a diferença?
-ANTONIO: O Incidente de Assunção de Competência, artigo novecentos e quarenta e sete do CPC, exige relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos. É julgado por órgão colegiado indicado no Regimento.
-BRUNO: Pegadinha: IRDR exige repetição em múltiplos processos; IAC não. É a ausência de repetição que diferencia.
+THALITA: Segundo instrumento: o IRDR, Incidente de Resolução de Demandas Repetitivas. O pressuposto é a efetiva repetição de processos sobre a mesma questão unicamente de direito, mais o risco de ofensa à isonomia e à segurança jurídica. É julgado pelo Tribunal Regional, pelo órgão indicado no Regimento. Os artigos são de novecentos e setenta e seis a novecentos e oitenta e sete do CPC.
+FRANCISCA: E o IAC, qual a diferença?
+THALITA: O Incidente de Assunção de Competência, artigo novecentos e quarenta e sete do CPC, exige relevante questão de direito, com grande repercussão social, sem repetição em múltiplos processos. É julgado por órgão colegiado indicado no Regimento.
+FRANCISCA: Pegadinha: IRDR exige repetição em múltiplos processos; IAC não. É a ausência de repetição que diferencia.
 THALITA: Macete: IRR é recurso de revista, no TST; IRDR é demandas repetitivas, no TRT; IAC é relevância sem repetição.
 FRANCISCA: Isso. E a aplicação do IRDR e do IAC ao processo do trabalho decorre da Instrução Normativa trinta e nove de dois mil e dezesseis do TST.
-
 == SLIDE: Súmulas Vinculantes com reflexo trabalhista
 * SV 4: salário mínimo não serve de indexador
 * SV 6, 15 e 16: mínimo, praças e servidores
 * SV 10: reserva de plenário
 * SV 22 e 23: acidente de trabalho e possessória em greve
 * SV 25, 37, 40 e 53
-BRUNO: Agora as Súmulas Vinculantes com reflexo trabalhista. A quatro: salvo previsão constitucional, o salário mínimo não serve de indexador de base de cálculo de vantagem de servidor ou empregado, nem pode ser substituído por decisão judicial. Impacta o adicional de insalubridade.
-ANTONIO: A seis: é constitucional remuneração inferior ao mínimo para praças que prestam serviço militar inicial. A quinze: gratificações e vantagens não incidem sobre abono pago para alcançar o mínimo. A dezesseis: a garantia do mínimo refere-se ao total da remuneração do servidor.
+THALITA: Agora as Súmulas Vinculantes com reflexo trabalhista. A quatro: salvo previsão constitucional, o salário mínimo não serve de indexador de base de cálculo de vantagem de servidor ou empregado, nem pode ser substituído por decisão judicial. Impacta o adicional de insalubridade.
+FRANCISCA: A seis: é constitucional remuneração inferior ao mínimo para praças que prestam serviço militar inicial. A quinze: gratificações e vantagens não incidem sobre abono pago para alcançar o mínimo. A dezesseis: a garantia do mínimo refere-se ao total da remuneração do servidor.
 THALITA: E a dez? Eu sempre confundo.
 FRANCISCA: Reserva de plenário. Viola o artigo noventa e sete da Constituição a decisão de órgão fracionário que, sem declarar inconstitucionalidade, afasta a incidência da lei no todo ou em parte.
-BRUNO: A vinte e dois: a Justiça do Trabalho julga indenização por danos morais e materiais por acidente de trabalho, ajuizada pelo empregado contra o empregador. A vinte e três: julga possessória decorrente de greve de trabalhadores da iniciativa privada.
-ANTONIO: A vinte e cinco: ilícita a prisão civil do depositário infiel. A trinta e sete: o Judiciário não pode aumentar vencimentos de servidores com fundamento em isonomia. A quarenta: contribuição confederativa só é exigível dos filiados.
-FRANCISCA: E a cinquenta e três. A competência da Justiça do Trabalho para executar de ofício contribuições previdenciárias alcança as relativas ao objeto da condenação constante das sentenças e dos acordos homologados.
-BRUNO: Na prova: a vinte e dois e a cinquenta e três. A cinquenta e três não alcança contribuições sobre salários pagos durante o vínculo apenas reconhecido, Súmula trezentos e sessenta e oito, item um, do TST.
+THALITA: A vinte e dois: a Justiça do Trabalho julga indenização por danos morais e materiais por acidente de trabalho, ajuizada pelo empregado contra o empregador. A vinte e três: julga possessória decorrente de greve de trabalhadores da iniciativa privada.
+FRANCISCA: A vinte e cinco: ilícita a prisão civil do depositário infiel. A trinta e sete: o Judiciário não pode aumentar vencimentos de servidores com fundamento em isonomia. A quarenta: contribuição confederativa só é exigível dos filiados.
+THALITA: E a cinquenta e três. A competência da Justiça do Trabalho para executar de ofício contribuições previdenciárias alcança as relativas ao objeto da condenação constante das sentenças e dos acordos homologados.
+FRANCISCA: Na prova: a vinte e dois e a cinquenta e três. A cinquenta e três não alcança contribuições sobre salários pagos durante o vínculo apenas reconhecido, Súmula trezentos e sessenta e oito, item um, do TST.
 THALITA: Resumo: quatro mínimo, seis praças, dez plenário, vinte e dois acidente, vinte e três greve, quarenta confederativa, cinquenta e três execução previdenciária.
-
 == SLIDE: Terceirização e responsabilidade da Administração
 * Tema 725 e ADPF 324: terceirização lícita, inclusive atividade-fim
 * Tema 246: inadimplência da contratada não transfere automaticamente
 * Tema 1118: autor deve provar a conduta negligente
 * Tema 739 e Tema 383
 * Exemplo: terceirizada de limpeza no TRT
-ANTONIO: Agora os Temas de repercussão geral e o controle concentrado que a FCC mais cobra. Primeiro, a terceirização. Tema setecentos e vinte e cinco e ADPF trezentos e vinte e quatro: é lícita a terceirização ou qualquer outra divisão do trabalho entre pessoas jurídicas distintas, inclusive de atividade-fim, mantida a responsabilidade subsidiária da contratante.
+FRANCISCA: Agora os Temas de repercussão geral e o controle concentrado que a FCC mais cobra. Primeiro, a terceirização. Tema setecentos e vinte e cinco e ADPF trezentos e vinte e quatro: é lícita a terceirização ou qualquer outra divisão do trabalho entre pessoas jurídicas distintas, inclusive de atividade-fim, mantida a responsabilidade subsidiária da contratante.
 THALITA: E a Administração Pública, responde pelas dívidas da empresa contratada?
 FRANCISCA: Pelo Tema duzentos e quarenta e seis, o inadimplemento trabalhista da contratada não transfere automaticamente ao Poder Público a responsabilidade, solidária ou subsidiária.
-BRUNO: E o Tema mil cento e dezoito, de dois mil e vinte e cinco, trata do ônus da prova: não cabe responsabilizar a Administração só pela inversão do ônus. O autor deve demonstrar a conduta negligente e o nexo causal. Há negligência, por exemplo, se a Administração se mantém inerte após notificação formal de descumprimento pela contratada.
-ANTONIO: O exemplo da apostila: a Ana, terceirizada de limpeza no TRT, não recebe verbas rescisórias da empresa contratada. Para responsabilizar subsidiariamente a União, Ana deve provar que a Administração foi negligente na fiscalização, por exemplo, que recebeu notificação formal do sindicato sobre atrasos e nada fez. A simples inadimplência da contratada não basta.
-FRANCISCA: Outros temas ligados: o Tema setecentos e trinta e nove, sobre terceirização em telecomunicações: é nula decisão de órgão fracionário que afasta norma da Lei Geral de Telecomunicações sem observar a reserva de plenário. E o Tema trezentos e oitenta e três: equiparação de remuneração entre terceirizados e empregados da tomadora ofende a livre iniciativa.
-THALITA: Então: terceirização lícita até na atividade-fim, mas a Administração só responde se negligente, e quem prova é o autor.
-
+THALITA: E o Tema mil cento e dezoito, de dois mil e vinte e cinco, trata do ônus da prova: não cabe responsabilizar a Administração só pela inversão do ônus. O autor deve demonstrar a conduta negligente e o nexo causal. Há negligência, por exemplo, se a Administração se mantém inerte após notificação formal de descumprimento pela contratada.
+FRANCISCA: O exemplo da apostila: a Ana, terceirizada de limpeza no TRT, não recebe verbas rescisórias da empresa contratada. Para responsabilizar subsidiariamente a União, Ana deve provar que a Administração foi negligente na fiscalização, por exemplo, que recebeu notificação formal do sindicato sobre atrasos e nada fez. A simples inadimplência da contratada não basta.
+THALITA: Outros temas ligados: o Tema setecentos e trinta e nove, sobre terceirização em telecomunicações: é nula decisão de órgão fracionário que afasta norma da Lei Geral de Telecomunicações sem observar a reserva de plenário. E o Tema trezentos e oitenta e três: equiparação de remuneração entre terceirizados e empregados da tomadora ofende a livre iniciativa.
+FRANCISCA: Então: terceirização lícita até na atividade-fim, mas a Administração só responde se negligente, e quem prova é o autor.
 == SLIDE: Negociado, contribuições e dispensas
 * Tema 1046: negociado pode limitar direitos, salvo absolutamente indisponíveis
 * Tema 935: assistencial com direito de oposição
 * ADI 5794: fim da contribuição sindical compulsória
 * ADPF 323: ultratividade inconstitucional
 * Temas 638, 1022, 497 e 152
-BRUNO: Tema mil e quarenta e seis: normas coletivas podem limitar ou afastar direitos, sem contrapartida explícita, respeitados os absolutamente indisponíveis. Tema novecentos e trinta e cinco: é válida a cobrança da contribuição assistencial de toda a categoria, por norma coletiva, assegurado o direito de oposição, revisão de dois mil e vinte e três.
+THALITA: Tema mil e quarenta e seis: normas coletivas podem limitar ou afastar direitos, sem contrapartida explícita, respeitados os absolutamente indisponíveis. Tema novecentos e trinta e cinco: é válida a cobrança da contribuição assistencial de toda a categoria, por norma coletiva, assegurado o direito de oposição, revisão de dois mil e vinte e três.
 FRANCISCA: A ADI cinquenta e sete noventa e quatro declarou constitucional o fim da compulsoriedade da contribuição sindical. E a ADPF trezentos e vinte e três declarou inconstitucionais a Súmula duzentos e setenta e sete do TST e as interpretações que admitam ultratividade.
 THALITA: Então a norma coletiva não vale depois do prazo?
-ANTONIO: Isso. Sem ultratividade.
-BRUNO: Tema seiscentos e trinta e oito, dispensa em massa: intervenção sindical prévia é exigência procedimental imprescindível, mas não equivale a autorização nem a celebração de norma coletiva. E atenção, Tema mil e vinte e dois: dever de motivar a dispensa de empregados concursados de estatais, com ato formal, sem processo administrativo nem justa causa.
+FRANCISCA: Isso. Sem ultratividade.
+THALITA: Tema seiscentos e trinta e oito, dispensa em massa: intervenção sindical prévia é exigência procedimental imprescindível, mas não equivale a autorização nem a celebração de norma coletiva. E atenção, Tema mil e vinte e dois: dever de motivar a dispensa de empregados concursados de estatais, com ato formal, sem processo administrativo nem justa causa.
 FRANCISCA: Trocam os números sempre. O seiscentos e trinta e oito é a dispensa em massa, caso Embraer. O mil e vinte e dois é a motivação em estatais, com efeitos modulados, o que relativiza a OJ duzentos e quarenta e sete da SDI-um.
 THALITA: Macete: seiscentos e trinta e oito, massa; mil e vinte e dois, estatal.
-ANTONIO: Tema quatrocentos e noventa e sete: estabilidade da gestante, basta a gravidez ser anterior à dispensa sem justa causa. E Tema cento e cinquenta e dois: o PDV gera quitação ampla se constar expressamente do acordo coletivo e dos instrumentos firmados com o empregado, hoje artigo quatrocentos e setenta e sete B.
-
+FRANCISCA: Tema quatrocentos e noventa e sete: estabilidade da gestante, basta a gravidez ser anterior à dispensa sem justa causa. E Tema cento e cinquenta e dois: o PDV gera quitação ampla se constar expressamente do acordo coletivo e dos instrumentos firmados com o empregado, hoje artigo quatrocentos e setenta e sete B.
 == SLIDE: Acidente, grupo econômico, correção e gratuidade
 * Tema 932: responsabilidade objetiva em atividade de risco especial
 * Tema 1232: grupo econômico na execução
 * ADCs 58 e 59: IPCA-E na fase pré-judicial, SELIC depois
 * ADI 5766: gratuidade de justiça e honorários
 * ADI 6050: art. 223-G com critérios orientativos
-FRANCISCA: Tema novecentos e trinta e dois: é compatível com a Constituição a responsabilidade objetiva do empregador nos casos previstos em lei, ou quando a atividade, por sua natureza, expuser o trabalhador a risco especial maior que o dos demais membros da coletividade.
-BRUNO: Tema mil duzentos e trinta e dois discute a inclusão, na execução, de empresa do grupo que não participou da fase de conhecimento. A apostila manda conferir se já houve julgamento de mérito e a tese fixada.
+THALITA: Tema novecentos e trinta e dois: é compatível com a Constituição a responsabilidade objetiva do empregador nos casos previstos em lei, ou quando a atividade, por sua natureza, expuser o trabalhador a risco especial maior que o dos demais membros da coletividade.
+FRANCISCA: Tema mil duzentos e trinta e dois discute a inclusão, na execução, de empresa do grupo que não participou da fase de conhecimento. A apostila manda conferir se já houve julgamento de mérito e a tese fixada.
 THALITA: E a correção dos créditos trabalhistas?
-ANTONIO: ADCs cinquenta e oito e cinquenta e nove: até a lei nova, IPCA-E na fase pré-judicial e taxa SELIC a partir do ajuizamento ou citação. A TR foi afastada. Depois da Lei catorze mil novecentos e cinco, de dois mil e vinte e quatro, a SDI-um passou a aplicar, a partir de trinta de agosto de dois mil e vinte e quatro, IPCA como correção e juros pela diferença entre SELIC e IPCA. Confirme marco e redação.
-FRANCISCA: ADI cinquenta setecentos e sessenta e seis: inconstitucional cobrar honorários periciais e de sucumbência do beneficiário da gratuidade com créditos obtidos em juízo. Os honorários de sucumbência ficam sob condição suspensiva de exigibilidade. E é constitucional a cobrança de custas do reclamante ausente sem justificativa.
-BRUNO: ADI seis mil e cinquenta e as ADIs seis mil e sessenta e nove e seis mil e oitenta e dois: os critérios e limites do artigo duzentos e vinte e três G são orientativos. O juiz pode fixar valor superior, à luz da razoabilidade, proporcionalidade e igualdade.
+FRANCISCA: ADCs cinquenta e oito e cinquenta e nove: até a lei nova, IPCA-E na fase pré-judicial e taxa SELIC a partir do ajuizamento ou citação. A TR foi afastada. Depois da Lei catorze mil novecentos e cinco, de dois mil e vinte e quatro, a SDI-um passou a aplicar, a partir de trinta de agosto de dois mil e vinte e quatro, IPCA como correção e juros pela diferença entre SELIC e IPCA. Confirme marco e redação.
+THALITA: ADI cinquenta setecentos e sessenta e seis: inconstitucional cobrar honorários periciais e de sucumbência do beneficiário da gratuidade com créditos obtidos em juízo. Os honorários de sucumbência ficam sob condição suspensiva de exigibilidade. E é constitucional a cobrança de custas do reclamante ausente sem justificativa.
+FRANCISCA: ADI seis mil e cinquenta e as ADIs seis mil e sessenta e nove e seis mil e oitenta e dois: os critérios e limites do artigo duzentos e vinte e três G são orientativos. O juiz pode fixar valor superior, à luz da razoabilidade, proporcionalidade e igualdade.
 THALITA: Meu resumo: terceirização lícita, Administração só responde se negligente, negociado vale salvo indisponíveis, sem ultratividade, fim da contribuição compulsória, dano extrapatrimonial com critérios orientativos.
-ANTONIO: Boa! Na sequência, a Reforma Trabalhista: direito intertemporal, quadro de súmulas e o quadro antes e depois.
+FRANCISCA: Boa! Na sequência, a Reforma Trabalhista: direito intertemporal, quadro de súmulas e o quadro antes e depois.
 THALITA: Já estou ansiosa, porque esse quadro de antes e depois junta tudo que a gente viu nesta disciplina. Prometo reler os temas do Supremo antes de seguir, principalmente os números trocados, como seiscentos e trinta e oito e mil e vinte e dois. Vamos lá!

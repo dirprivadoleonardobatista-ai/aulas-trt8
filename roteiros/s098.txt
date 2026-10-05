@@ -4,132 +4,126 @@ SEGMENTO s098
 * Não se exige esgotar a via administrativa
 * Exceções: justiça desportiva; prévio requerimento no INSS e no habeas data
 * Juiz controla legalidade em sentido amplo, nunca o mérito puro
-ANTONIO: Vimos que o controle legislativo e os Tribunais de Contas fiscalizam a Administração por fora. Agora entra o controle mais forte de todos, o judicial. E ele começa por uma ideia simples: no Brasil vale a jurisdição una.
+FRANCISCA: Vimos que o controle legislativo e os Tribunais de Contas fiscalizam a Administração por fora. Agora entra o controle mais forte de todos, o judicial. E ele começa por uma ideia simples: no Brasil vale a jurisdição una.
 THALITA: Jurisdição una quer dizer que só o Judiciário decide com força de coisa julgada, certo? Não existe tribunal administrativo igual ao de outros países?
-ANTONIO: Exatamente. O artigo quinto, inciso trinta e cinco, diz que a lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito. Então a decisão final sobre a legalidade de um ato é sempre do juiz.
-FRANCISCA: E o interessado não precisa esgotar a via administrativa antes de ir ao juiz. Pode entrar direto com a ação. Existem exceções, e o Bruno vai gostar delas, porque são as que caem.
-BRUNO: Caem demais. A primeira é a justiça desportiva: a Constituição manda esgotar essa instância antes, mas ela tem prazo máximo de sessenta dias para decidir. As outras duas vieram do Supremo, por construção: exigir pedido prévio no benefício previdenciário e a recusa administrativa no habeas data.
+FRANCISCA: Exatamente. O artigo quinto, inciso trinta e cinco, diz que a lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito. Então a decisão final sobre a legalidade de um ato é sempre do juiz.
+THALITA: E o interessado não precisa esgotar a via administrativa antes de ir ao juiz. Pode entrar direto com a ação. Existem exceções, e o Bruno vai gostar delas, porque são as que caem.
+FRANCISCA: Caem demais. A primeira é a justiça desportiva: a Constituição manda esgotar essa instância antes, mas ela tem prazo máximo de sessenta dias para decidir. As outras duas vieram do Supremo, por construção: exigir pedido prévio no benefício previdenciário e a recusa administrativa no habeas data.
 THALITA: Então se a banca disser que sempre é preciso esgotar a via administrativa, está errado.
-BRUNO: Errado. A regra é não exigir. As exceções são poucas e conhecidas.
-FRANCISCA: Agora, o que o juiz controla? A legalidade, mas em sentido amplo. Não é só a lei em sentido estrito. Entram os princípios, a existência dos motivos e a proporcionalidade. É o chamado controle de juridicidade.
-ANTONIO: E o limite é o mérito puro. A escolha de conveniência e oportunidade, entre opções igualmente legais, pertence ao administrador. O juiz não troca a decisão dele pela sua.
+FRANCISCA: Errado. A regra é não exigir. As exceções são poucas e conhecidas.
+THALITA: Agora, o que o juiz controla? A legalidade, mas em sentido amplo. Não é só a lei em sentido estrito. Entram os princípios, a existência dos motivos e a proporcionalidade. É o chamado controle de juridicidade.
+FRANCISCA: E o limite é o mérito puro. A escolha de conveniência e oportunidade, entre opções igualmente legais, pertence ao administrador. O juiz não troca a decisão dele pela sua.
 THALITA: Resumindo para anotar: o juiz olha se está dentro do direito, não se foi a melhor escolha.
-BRUNO: Isso. E guarde o resultado desse controle: o juiz anula o ato ilegal. Revogar, por conveniência, é coisa da própria Administração. Se a questão disser que o Judiciário revogou, desconfie.
-FRANCISCA: Os instrumentos que veremos já, daqui a pouco, são o mandado de segurança, a ação popular, a ação civil pública, o habeas data e o mandado de injunção, além das ações comuns.
-
+FRANCISCA: Isso. E guarde o resultado desse controle: o juiz anula o ato ilegal. Revogar, por conveniência, é coisa da própria Administração. Se a questão disser que o Judiciário revogou, desconfie.
+THALITA: Os instrumentos que veremos já, daqui a pouco, são o mandado de segurança, a ação popular, a ação civil pública, o habeas data e o mandado de injunção, além das ações comuns.
 == SLIDE: Mérito administrativo: onde o juiz entra e onde não entra
 * Ato vinculado: controle integral
 * Competência, finalidade e forma: sempre vinculados, sempre controláveis
 * Motivo e objeto: legalidade, existência, razoabilidade, proporcionalidade
 * Escolha entre opções legais: não; separação de Poderes
 * Correção de prova: Tema 485 STF
-ANTONIO: Vamos organizar isso em linhas. Primeira linha: ato vinculado. O juiz controla tudo, porque a lei já decidiu e sobra só a legalidade estrita.
+FRANCISCA: Vamos organizar isso em linhas. Primeira linha: ato vinculado. O juiz controla tudo, porque a lei já decidiu e sobra só a legalidade estrita.
 THALITA: E no ato discricionário? Aí a gente não pode mexer, né?
 FRANCISCA: Calma, essa é a pegadinha clássica. Mesmo no ato discricionário, três elementos são sempre vinculados: competência, finalidade e forma. Esses o juiz controla sem qualquer restrição.
-ANTONIO: Depois vêm motivo e objeto, que são o campo do mérito. Aqui o juiz também pode entrar, mas só quanto à legalidade. Ele verifica se os motivos existiram de verdade, e aqui vale a teoria dos motivos determinantes: o motivo declarado vincula o ato.
-BRUNO: E ainda cabe analisar razoabilidade, proporcionalidade e desvio de finalidade. Um exemplo: o gestor demite por um motivo que nunca aconteceu. O juiz pode anular, porque o motivo é inexistente. Isso não é invadir o mérito.
+THALITA: Depois vêm motivo e objeto, que são o campo do mérito. Aqui o juiz também pode entrar, mas só quanto à legalidade. Ele verifica se os motivos existiram de verdade, e aqui vale a teoria dos motivos determinantes: o motivo declarado vincula o ato.
+FRANCISCA: E ainda cabe analisar razoabilidade, proporcionalidade e desvio de finalidade. Um exemplo: o gestor demite por um motivo que nunca aconteceu. O juiz pode anular, porque o motivo é inexistente. Isso não é invadir o mérito.
 THALITA: Então só não pode mexer quando a escolha é entre duas opções igualmente legais, e o administrador escolheu uma delas.
-ANTONIO: Perfeito. Aí vale a separação de Poderes. Nessa escolha o juiz não substitui o administrador.
-FRANCISCA: Um caso especial é a correção de prova de concurso. Pelo Tema quatrocentos e oitenta e cinco do Supremo, em regra o Judiciário não reexamina critérios de correção nem notas. A exceção é flagrante ilegalidade ou incompatibilidade com o edital.
-THALITA: Entendi: se a questão cobrada estava fora do edital, o juiz pode entrar.
-FRANCISCA: Isso, porque a incompatibilidade com o edital é questão de legalidade.
-BRUNO: Agora decore a fórmula da FCC. Ela costuma escrever que o controle judicial dos atos discricionários é possível quanto à legalidade, inclusive à luz da razoabilidade e da proporcionalidade, mas o Judiciário não pode substituir o juízo de conveniência e oportunidade do administrador.
+FRANCISCA: Perfeito. Aí vale a separação de Poderes. Nessa escolha o juiz não substitui o administrador.
+THALITA: Um caso especial é a correção de prova de concurso. Pelo Tema quatrocentos e oitenta e cinco do Supremo, em regra o Judiciário não reexamina critérios de correção nem notas. A exceção é flagrante ilegalidade ou incompatibilidade com o edital.
+FRANCISCA: Entendi: se a questão cobrada estava fora do edital, o juiz pode entrar.
+THALITA: Isso, porque a incompatibilidade com o edital é questão de legalidade.
+FRANCISCA: Agora decore a fórmula da FCC. Ela costuma escrever que o controle judicial dos atos discricionários é possível quanto à legalidade, inclusive à luz da razoabilidade e da proporcionalidade, mas o Judiciário não pode substituir o juízo de conveniência e oportunidade do administrador.
 THALITA: Fórmula guardada. Controla legalidade, não substitui a conveniência, e o resultado é anulação.
-BRUNO: Perfeito. Quem inverter qualquer parte dessa frase, errou a alternativa.
-
+FRANCISCA: Perfeito. Quem inverter qualquer parte dessa frase, errou a alternativa.
 == SLIDE: Mandado de segurança e ação popular
 * MS: art. 5º, LXIX; Lei 12.016/2009; direito líquido e certo
 * Decadência de 120 dias da ciência do ato; sem honorários
 * MS coletivo: partido, sindicato, entidade de classe, associação com 1 ano
 * Ação popular: art. 5º, LXXIII; só o cidadão (eleitor)
 * Isenção de custas, salvo má-fé; Súmula 365 STF; prescrição em 5 anos
-ANTONIO: Passemos às ações constitucionais de controle. Começamos pelo mandado de segurança, artigo quinto, inciso sessenta e nove, regulado pela Lei doze mil e dezesseis, de dois mil e nove.
+THALITA: Passemos às ações constitucionais de controle. Começamos pelo mandado de segurança, artigo quinto, inciso sessenta e nove, regulado pela Lei doze mil e dezesseis, de dois mil e nove.
 FRANCISCA: Ele protege direito líquido e certo, aquele provado de plano, com documentos, sem dilação probatória. E só cabe quando o direito não é amparado por habeas corpus nem por habeas data. A ilegalidade ou o abuso vem de autoridade pública ou de agente de pessoa jurídica no exercício de atribuição pública.
 THALITA: E o prazo? Vi que tem um prazo curto.
-BRUNO: Cento e vinte dias, contados da ciência do ato. E é prazo decadencial. A FCC adora trocar por prescricional ou mudar para noventa dias. Outro ponto: no mandado de segurança não há condenação em honorários advocatícios.
-FRANCISCA: Também não cabe contra ato de gestão comercial de empresa estatal. Se a estatal age como empresa, em atividade econômica comum, não se usa o mandado de segurança.
-ANTONIO: O mandado de segurança coletivo pode ser impetrado por partido político com representação no Congresso Nacional, por sindicato, entidade de classe ou associação, estas últimas em funcionamento há pelo menos um ano.
+FRANCISCA: Cento e vinte dias, contados da ciência do ato. E é prazo decadencial. A FCC adora trocar por prescricional ou mudar para noventa dias. Outro ponto: no mandado de segurança não há condenação em honorários advocatícios.
+THALITA: Também não cabe contra ato de gestão comercial de empresa estatal. Se a estatal age como empresa, em atividade econômica comum, não se usa o mandado de segurança.
+FRANCISCA: O mandado de segurança coletivo pode ser impetrado por partido político com representação no Congresso Nacional, por sindicato, entidade de classe ou associação, estas últimas em funcionamento há pelo menos um ano.
 THALITA: Então o um ano vale para associação, e o partido só precisa de representação no Congresso.
-ANTONIO: Isso mesmo. Agora a ação popular, artigo quinto, inciso setenta e três, Lei quatro mil setecentos e dezessete, de mil novecentos e sessenta e cinco. Ela anula ato lesivo ao patrimônio público ou de entidade de que o Estado participe, e também à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.
-BRUNO: O ponto de prova é a legitimidade: somente o cidadão, quer dizer, o eleitor. Pessoa jurídica não pode propor, e isso está na Súmula trezentos e sessenta e cinco do Supremo. Associação, sindicato e o Ministério Público não propõem ação popular.
+FRANCISCA: Isso mesmo. Agora a ação popular, artigo quinto, inciso setenta e três, Lei quatro mil setecentos e dezessete, de mil novecentos e sessenta e cinco. Ela anula ato lesivo ao patrimônio público ou de entidade de que o Estado participe, e também à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.
+THALITA: O ponto de prova é a legitimidade: somente o cidadão, quer dizer, o eleitor. Pessoa jurídica não pode propor, e isso está na Súmula trezentos e sessenta e cinco do Supremo. Associação, sindicato e o Ministério Público não propõem ação popular.
 FRANCISCA: O autor fica isento de custas e de ônus de sucumbência, salvo se ficar comprovada má-fé. E a prescrição é de cinco anos.
 THALITA: Então se eu perder a ação popular de boa-fé, não pago nada.
 FRANCISCA: Isso. A ideia é incentivar o cidadão a fiscalizar.
-
 == SLIDE: Ação civil pública, habeas data e mandado de injunção
 * ACP: Lei 7.347/1985; difusos, coletivos e individuais homogêneos
 * Legitimados: MP, Defensoria, entes, autarquias, fundações, estatais, associações
 * Habeas data: art. 5º, LXXII; prova da recusa, Súmula 2 STJ; gratuito
 * Mandado de injunção: art. 5º, LXXI; Lei 13.300/2016
 * Dica: popular = cidadão; ACP = instituições
-ANTONIO: Terceira ação: a ação civil pública, Lei sete mil trezentos e quarenta e sete, de mil novecentos e oitenta e cinco. Ela tutela interesses difusos, coletivos e individuais homogêneos, inclusive o patrimônio público.
+THALITA: Terceira ação: a ação civil pública, Lei sete mil trezentos e quarenta e sete, de mil novecentos e oitenta e cinco. Ela tutela interesses difusos, coletivos e individuais homogêneos, inclusive o patrimônio público.
 FRANCISCA: Quem pode propor são instituições: Ministério Público, Defensoria Pública, entes federados, autarquias, fundações, empresas estatais e associações constituídas há pelo menos um ano. E o juiz pode dispensar esse requisito temporal da associação quando houver manifesto interesse social.
 THALITA: Já tenho um macete. Ação popular é o cidadão, o título de eleitor. Ação civil pública é instituição.
-BRUNO: Ótimo macete, e ele cobre muita questão. Só some outro: mandado de segurança coletivo e ação civil pública pedem associação com um ano. Já a denúncia ao Tribunal de Contas da União não exige nada disso, qualquer cidadão pode fazer.
-ANTONIO: O habeas data está no artigo quinto, inciso setenta e dois, e na Lei nove mil quinhentos e sete, de mil novecentos e noventa e sete. Serve para conhecer ou retificar informações pessoais constantes de registros públicos ou de caráter público. É gratuito.
+FRANCISCA: Ótimo macete, e ele cobre muita questão. Só some outro: mandado de segurança coletivo e ação civil pública pedem associação com um ano. Já a denúncia ao Tribunal de Contas da União não exige nada disso, qualquer cidadão pode fazer.
+THALITA: O habeas data está no artigo quinto, inciso setenta e dois, e na Lei nove mil quinhentos e sete, de mil novecentos e noventa e sete. Serve para conhecer ou retificar informações pessoais constantes de registros públicos ou de caráter público. É gratuito.
 FRANCISCA: E exige prova da recusa administrativa, conforme a Súmula dois do Superior Tribunal de Justiça. Sem ter pedido antes e sido negado, falta interesse de agir.
 THALITA: E o mandado de injunção?
 FRANCISCA: Artigo quinto, inciso setenta e um, Lei treze mil trezentos, de dois mil e dezesseis. Cabe quando falta norma regulamentadora que inviabiliza o exercício de direito constitucional. Um exemplo famoso é a greve do servidor público: o Supremo supriu a falta aplicando a Lei de greve da iniciativa privada, nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze.
 THALITA: Então no mandado de injunção a falha é a omissão normativa, e não um ato ilegal.
-BRUNO: Exato. Se a questão falar em ato ilegal de autoridade, é mandado de segurança. Se falar em falta de regulamentação, é injunção.
-ANTONIO: Um caso para fixar. Carla, eleitora em Belém, descobre que a prefeitura doou um terreno público a uma empresa de um vereador, sem licitação e sem interesse público.
+FRANCISCA: Exato. Se a questão falar em ato ilegal de autoridade, é mandado de segurança. Se falar em falta de regulamentação, é injunção.
+THALITA: Um caso para fixar. Carla, eleitora em Belém, descobre que a prefeitura doou um terreno público a uma empresa de um vereador, sem licitação e sem interesse público.
 FRANCISCA: Ela pode propor ação popular sem pagar custas, e só arcaria com a sucumbência se ficasse provada má-fé. A associação de moradores não pode propor ação popular, mas, se tiver mais de um ano de constituição, pode propor ação civil pública.
-
 == SLIDE: Improbidade administrativa: base e sujeitos
 * Art. 37, § 4º, CF: sanções na forma e gradação da lei
 * Lei 8.429/1992, com a Lei 14.230/2021: só existe improbidade dolosa
 * Sujeito passivo: Administração direta e indireta e entidades que recebem verba pública
 * Agente público, particular equiparado e terceiro (art. 3º)
 * Tema 576 STF: sem foro por prerrogativa
-ANTONIO: Agora um grande tema da disciplina: a improbidade administrativa. A base está no artigo trinta e sete, parágrafo quarto, da Constituição: suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma e gradação da lei, sem prejuízo da ação penal.
-THALITA: E a lei é a oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois, que foi reformada, não é?
-BRUNO: Pela Lei catorze mil duzentos e trinta, de dois mil e vinte e um. E a mudança central é esta: hoje só existe improbidade dolosa. Acabou a modalidade culposa do artigo dez.
+THALITA: Agora um grande tema da disciplina: a improbidade administrativa. A base está no artigo trinta e sete, parágrafo quarto, da Constituição: suspensão dos direitos políticos, perda da função pública, indisponibilidade dos bens e ressarcimento ao erário, na forma e gradação da lei, sem prejuízo da ação penal.
+FRANCISCA: E a lei é a oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois, que foi reformada, não é?
+THALITA: Pela Lei catorze mil duzentos e trinta, de dois mil e vinte e um. E a mudança central é esta: hoje só existe improbidade dolosa. Acabou a modalidade culposa do artigo dez.
 FRANCISCA: Vamos aos sujeitos. O sujeito passivo é a Administração direta e indireta de todos os Poderes e entes. Também entram a entidade privada que recebe subvenção, benefício ou incentivo público e a que é custeada pelo erário. Nesses dois casos, o ressarcimento se limita à repercussão sobre a contribuição pública.
-ANTONIO: O agente público é o agente político, o servidor e quem exerce, ainda que transitoriamente ou sem remuneração, mandato, cargo, emprego ou função nessas entidades. Artigo segundo da lei.
+THALITA: O agente público é o agente político, o servidor e quem exerce, ainda que transitoriamente ou sem remuneração, mandato, cargo, emprego ou função nessas entidades. Artigo segundo da lei.
 FRANCISCA: Há também o particular equiparado: pessoa física ou jurídica que celebra com a Administração convênio, contrato de repasse, contrato de gestão, termo de parceria ou ajuste equivalente.
 THALITA: E o terceiro? É o particular que se mete no ato do servidor?
-ANTONIO: Sim. Terceiro é quem, sem ser agente público, induz ou concorre dolosamente para o ato. Artigo terceiro.
-BRUNO: E aqui vem uma pegadinha: o particular sozinho não pratica improbidade. Precisa haver agente público envolvido. Ação só contra o terceiro, sem o agente no polo passivo, é inviável, segundo o Superior Tribunal de Justiça.
+FRANCISCA: Sim. Terceiro é quem, sem ser agente público, induz ou concorre dolosamente para o ato. Artigo terceiro.
+THALITA: E aqui vem uma pegadinha: o particular sozinho não pratica improbidade. Precisa haver agente público envolvido. Ação só contra o terceiro, sem o agente no polo passivo, é inviável, segundo o Superior Tribunal de Justiça.
 FRANCISCA: Sócios e dirigentes não respondem pelo ato da pessoa jurídica, salvo se comprovada participação e benefício diretos. A pessoa jurídica não sofre as sanções dessa lei se o mesmo ato for punido pela Lei Anticorrupção, a doze mil oitocentos e quarenta e seis, de dois mil e treze. E o herdeiro responde pela reparação até o limite da herança.
 THALITA: E agente político também responde?
 FRANCISCA: Responde. Pelo Tema quinhentos e setenta e seis do Supremo, os agentes políticos, exceto o Presidente da República, se sujeitam tanto aos crimes de responsabilidade quanto à ação de improbidade. E não há foro por prerrogativa de função, porque a ação tem natureza civil sancionatória.
-
 == SLIDE: Dolo específico e o Tema 1199 do STF
 * Dolo: vontade livre e consciente de alcançar o resultado ilícito
 * Não bastam voluntariedade, erro grosseiro, negligência ou inabilidade
 * Sem improbidade: pagamento em duplicidade por descuido; nomeação política sem fim ilícito
 * Tema 1199: sem retroação à coisa julgada; aplica-se aos processos em curso
 * Prescrição nova não retroage; marco em 26/10/2021
-ANTONIO: O coração da reforma é o dolo. Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado na lei, não bastando a voluntariedade do agente.
-THALITA: Ou seja, não basta querer fazer o ato. Tem de querer o resultado ilegal.
-ANTONIO: Isso mesmo. Erro grosseiro, negligência ou inabilidade não bastam. E o simples exercício da função, sem prova de ato doloso com fim ilícito, afasta a responsabilização.
-BRUNO: Pense em quatro casos em que, em regra, não há improbidade. Gestor que paga fatura em duplicidade por descuido: conduta culposa. Divergência de interpretação da lei, baseada em jurisprudência ainda não pacificada. Mera nomeação política por detentor de mandato, sem dolo com finalidade ilícita. E perda patrimonial decorrente da própria atividade econômica, salvo ato doloso com essa finalidade.
+THALITA: O coração da reforma é o dolo. Considera-se dolo a vontade livre e consciente de alcançar o resultado ilícito tipificado na lei, não bastando a voluntariedade do agente.
+FRANCISCA: Ou seja, não basta querer fazer o ato. Tem de querer o resultado ilegal.
+THALITA: Isso mesmo. Erro grosseiro, negligência ou inabilidade não bastam. E o simples exercício da função, sem prova de ato doloso com fim ilícito, afasta a responsabilização.
+FRANCISCA: Pense em quatro casos em que, em regra, não há improbidade. Gestor que paga fatura em duplicidade por descuido: conduta culposa. Divergência de interpretação da lei, baseada em jurisprudência ainda não pacificada. Mera nomeação política por detentor de mandato, sem dolo com finalidade ilícita. E perda patrimonial decorrente da própria atividade econômica, salvo ato doloso com essa finalidade.
 THALITA: Então se a questão fala em gestor desatento, que errou sem querer, a resposta é que não há improbidade.
-BRUNO: Correto. Agora o direito intertemporal, no Tema mil cento e noventa e nove do Supremo. São quatro teses. Primeira: a responsabilidade exige dolo nos três tipos.
-FRANCISCA: Segunda: a revogação da modalidade culposa não retroage para atingir a coisa julgada nem a fase de execução das penas. Quem já tem condenação culposa definitiva continua condenado.
-ANTONIO: Terceira: a lei nova se aplica aos processos em curso, por atos culposos anteriores, sem trânsito em julgado. O juiz examina se houve dolo, e sem prova de dolo a ação é julgada improcedente.
-FRANCISCA: Quarta: o novo regime de prescrição é irretroativo. Os marcos novos contam da publicação da lei, em vinte e seis de outubro de dois mil e vinte e um.
-THALITA: Macete: coisa julgada fica, processo em curso se analisa o dolo, prescrição nova não volta.
-BRUNO: É a fórmula da banca. E cuidado com a alternativa que diz que a lei nova retroage integralmente por ser mais benéfica, pelo artigo quinto, inciso quarenta, da Constituição. O Supremo afastou a retroatividade penal automática na improbidade.
+FRANCISCA: Correto. Agora o direito intertemporal, no Tema mil cento e noventa e nove do Supremo. São quatro teses. Primeira: a responsabilidade exige dolo nos três tipos.
+THALITA: Segunda: a revogação da modalidade culposa não retroage para atingir a coisa julgada nem a fase de execução das penas. Quem já tem condenação culposa definitiva continua condenado.
+FRANCISCA: Terceira: a lei nova se aplica aos processos em curso, por atos culposos anteriores, sem trânsito em julgado. O juiz examina se houve dolo, e sem prova de dolo a ação é julgada improcedente.
+THALITA: Quarta: o novo regime de prescrição é irretroativo. Os marcos novos contam da publicação da lei, em vinte e seis de outubro de dois mil e vinte e um.
+FRANCISCA: Macete: coisa julgada fica, processo em curso se analisa o dolo, prescrição nova não volta.
+THALITA: É a fórmula da banca. E cuidado com a alternativa que diz que a lei nova retroage integralmente por ser mais benéfica, pelo artigo quinto, inciso quarenta, da Constituição. O Supremo afastou a retroatividade penal automática na improbidade.
 FRANCISCA: Um alerta: o Supremo vem estendendo esse raciocínio às condutas do artigo onze cujos incisos foram revogados, em processos sem trânsito em julgado. Confira a orientação vigente na data do edital.
-
 == SLIDE: Os três tipos e as condutas mais cobradas
 * Art. 9º: enriquecimento ilícito, dolo, dano dispensável
 * Art. 10: lesão ao erário, dano efetivo e comprovado indispensável
 * Art. 11: princípios, rol taxativo, fim de benefício indevido
 * Nepotismo, inclusive cruzado, até o 3º grau: art. 11, XI
 * Dica: ganha, faz perder, viola o dever listado
-ANTONIO: Chegamos aos três tipos. Artigo nono, enriquecimento ilícito. Artigo dez, lesão ao erário. Artigo onze, atentado aos princípios.
-THALITA: Qual é o macete para separar?
-BRUNO: Quem ganha, artigo nono. Quem faz o erário perder, artigo dez. Quem viola o dever sem ganho nem perda comprovados, artigo onze, desde que a conduta esteja listada.
+THALITA: Chegamos aos três tipos. Artigo nono, enriquecimento ilícito. Artigo dez, lesão ao erário. Artigo onze, atentado aos princípios.
+FRANCISCA: Qual é o macete para separar?
+THALITA: Quem ganha, artigo nono. Quem faz o erário perder, artigo dez. Quem viola o dever sem ganho nem perda comprovados, artigo onze, desde que a conduta esteja listada.
 FRANCISCA: No nono, o núcleo é auferir vantagem patrimonial indevida em razão do cargo, e o dano ao erário é dispensável. No artigo dez, o dano precisa ser efetivo e comprovado, e a conduta é ação ou omissão que cause perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação.
-ANTONIO: No artigo onze, o dolo vem acompanhado do fim de obter proveito ou benefício indevido, e exige lesividade relevante. E o rol de incisos do artigo onze é taxativo. Nos artigos nove e dez, os róis são exemplificativos.
-THALITA: Então exemplificativo, nono e dez. Taxativo, só o onze. Posso anotar assim?
-BRUNO: Pode, e a banca cobra muito essa troca.
+THALITA: No artigo onze, o dolo vem acompanhado do fim de obter proveito ou benefício indevido, e exige lesividade relevante. E o rol de incisos do artigo onze é taxativo. Nos artigos nove e dez, os róis são exemplificativos.
+FRANCISCA: Então exemplificativo, nono e dez. Taxativo, só o onze. Posso anotar assim?
+THALITA: Pode, e a banca cobra muito essa troca.
 FRANCISCA: Condutas típicas do artigo nono: receber vantagem de quem tenha interesse que possa ser atingido pela decisão do agente; usar em obra ou serviço particular veículos, máquinas ou servidores públicos; adquirir bens desproporcionais à renda, com o agente podendo provar a origem lícita; e aceitar emprego ou consultoria de quem tenha interesse em decisão dele.
-ANTONIO: No artigo dez: permitir que bem público passe ao patrimônio particular; vender ou alugar bem público abaixo do mercado, ou comprar acima; frustrar a licitude de licitação ou dispensá-la indevidamente, com perda patrimonial efetiva; ordenar despesa não autorizada em lei.
-BRUNO: No artigo onze: revelar segredo funcional, negar publicidade a ato oficial, frustrar o caráter concorrencial de licitação para obter benefício, deixar de prestar contas para ocultar irregularidades, e o nepotismo, inclusive cruzado, até o terceiro grau. Atenção: retardar ou deixar de praticar ato de ofício deixou de ser improbidade, o inciso foi revogado.
+THALITA: No artigo dez: permitir que bem público passe ao patrimônio particular; vender ou alugar bem público abaixo do mercado, ou comprar acima; frustrar a licitude de licitação ou dispensá-la indevidamente, com perda patrimonial efetiva; ordenar despesa não autorizada em lei.
+FRANCISCA: No artigo onze: revelar segredo funcional, negar publicidade a ato oficial, frustrar o caráter concorrencial de licitação para obter benefício, deixar de prestar contas para ocultar irregularidades, e o nepotismo, inclusive cruzado, até o terceiro grau. Atenção: retardar ou deixar de praticar ato de ofício deixou de ser improbidade, o inciso foi revogado.
 THALITA: Dá para ilustrar?
 FRANCISCA: Márcio, diretor de autarquia, usa três motoristas da autarquia por quarenta dias para fazer a mudança da casa de praia dele: artigo nono, inciso quarto. Tereza, pregoeira, direciona a licitação e o contrato sai trezentos mil reais acima do mercado: artigo dez, inciso oito. Bruno, secretário, nomeia o irmão da esposa, um cunhado, parente por afinidade em segundo grau, para cargo em comissão subordinado a ele: artigo onze, inciso onze.
 THALITA: Então o artigo onze tem um único dano a menos para provar, mas só vale se a conduta estiver listada.
-ANTONIO: Muito bem. Com os tipos fechados, falta ver a consequência: quais são as sanções, como corre a ação e em quanto tempo prescreve. É o nosso próximo tema.
+FRANCISCA: Muito bem. Com os tipos fechados, falta ver a consequência: quais são as sanções, como corre a ação e em quanto tempo prescreve. É o nosso próximo tema.

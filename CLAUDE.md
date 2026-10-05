@@ -28,24 +28,19 @@ SEGMENTO s012
 == SLIDE: Título curto do slide
 * tópico telegráfico (pode usar "art. 5º", siglas e números)
 * outro tópico (2 a 6 por slide)
-ANTONIO: fala...
-THALITA: fala...
-BRUNO: fala...
 FRANCISCA: fala...
+THALITA: fala...
 == SLIDE: ...
 ```
 
-## As quatro vozes (todas participam de cada segmento)
+## As duas vozes (as duas participam de cada segmento)
 
-- ANTONIO (Antônio, professor): conduz, explica a teoria, organiza o raciocínio.
-- FRANCISCA (Francisca, professora): aprofunda, traz a lei em paráfrase, a jurisprudência e exemplos concretos.
-- BRUNO (Bruno, especialista em FCC): mostra como a banca cobra, as pegadinhas, comenta as questões alternativa por alternativa.
-- THALITA (Thalita, concurseira): pergunta o que o aluno perguntaria, pede exemplo, resume com macetes.
+- FRANCISCA (professora): conduz, explica a teoria, traz a lei em paráfrase e exemplos.
+- THALITA (professora e especialista em FCC): pergunta o que o aluno perguntaria, mostra como a banca cobra, comenta as questões e resume com macetes.
 
 Alterne sempre (nunca a mesma voz duas vezes seguidas). Falas de 1 a 5 frases.
-Cada voz fica entre 10% e 45% das palavras: a THALITA não só pergunta, ela
-também resume, dá macetes e arrisca respostas (às vezes erradas, e alguém corrige). Conversa de verdade: um responde ao outro,
-completa, discorda e corrige quando faz sentido. Chamar pelo nome, só de vez em quando.
+Cada voz fica entre 10% e 70% das palavras. Conversa de verdade: uma responde
+à outra, completa, corrige quando faz sentido. Chamar pelo nome, só de vez em quando.
 
 ## Escrever para o ouvido (a voz é sintética e lê tudo ao pé da letra)
 

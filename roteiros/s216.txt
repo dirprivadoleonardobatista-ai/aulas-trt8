@@ -5,83 +5,83 @@ SEGMENTO s216
 * Escritura pública: imóvel acima de 30 salários mínimos (art. 108)
 * Reserva mental, silêncio e interpretação (arts. 110 a 114)
 * Autocontrato e conflito de interesses: anulável (arts. 117 e 119)
-ANTONIO: Terminamos pessoas e bens, e agora entramos no coração da parte geral: o negócio jurídico. Pense numa escada de três degraus. Primeiro a existência, depois a validade, por último a eficácia.
+FRANCISCA: Terminamos pessoas e bens, e agora entramos no coração da parte geral: o negócio jurídico. Pense numa escada de três degraus. Primeiro a existência, depois a validade, por último a eficácia.
 THALITA: Então um negócio pode existir e ainda assim ser inválido?
-ANTONIO: Pode. Existe quando há agente, vontade, objeto e forma. É válido quando passa pelo artigo cento e quatro: agente capaz, objeto lícito, possível, determinado ou determinável, e forma prescrita ou não proibida em lei.
-FRANCISCA: E a forma importa muito em um caso clássico. Para direitos reais sobre imóveis de valor superior a trinta salários mínimos, a escritura pública é essencial, conforme o artigo cento e oito. Abaixo disso, o instrumento particular basta.
-BRUNO: A FCC adora trocar o número. Ela coloca vinte salários, cinquenta salários. Fixe trinta e fique tranquila, Thalita.
+FRANCISCA: Pode. Existe quando há agente, vontade, objeto e forma. É válido quando passa pelo artigo cento e quatro: agente capaz, objeto lícito, possível, determinado ou determinável, e forma prescrita ou não proibida em lei.
+THALITA: E a forma importa muito em um caso clássico. Para direitos reais sobre imóveis de valor superior a trinta salários mínimos, a escritura pública é essencial, conforme o artigo cento e oito. Abaixo disso, o instrumento particular basta.
+FRANCISCA: A FCC adora trocar o número. Ela coloca vinte salários, cinquenta salários. Fixe trinta e fique tranquila, Thalita.
 THALITA: Trinta salários mínimos, escritura pública. Anotado. E se a pessoa declara uma coisa, mas pensa outra?
 FRANCISCA: Isso é a reserva mental, artigo cento e dez. A declaração vale, mesmo que a pessoa guarde um propósito escondido. A exceção é quando o destinatário conhecia esse propósito. Aí a declaração não subsiste.
-ANTONIO: Já o silêncio, no artigo cento e onze, importa anuência quando as circunstâncias ou os usos autorizarem e não for exigida declaração expressa. Silêncio não é regra de aceitação. É exceção.
-BRUNO: Cuidado com a assertiva que diz que quem cala sempre consente. Está errada.
+THALITA: Já o silêncio, no artigo cento e onze, importa anuência quando as circunstâncias ou os usos autorizarem e não for exigida declaração expressa. Silêncio não é regra de aceitação. É exceção.
+FRANCISCA: Cuidado com a assertiva que diz que quem cala sempre consente. Está errada.
 THALITA: Chutando: na interpretação vale sempre a letra da lei, certo?
 FRANCISCA: Quase o contrário. Nos artigos cento e doze a cento e catorze, vale mais a intenção das partes do que o sentido literal da linguagem. E os negócios benéficos e a renúncia se interpretam estritamente, ou seja, sem ampliar.
-ANTONIO: Agora dois casos de anulabilidade. O autocontrato, no artigo cento e dezessete: o representante que negocia consigo mesmo. É anulável, salvo se a lei permitir ou o representado autorizar.
-BRUNO: E o conflito de interesses, artigo cento e dezenove. É anulável se o terceiro sabia ou devia saber do conflito. O prazo decadencial é de cento e oitenta dias, contados da conclusão do negócio ou da cessação da incapacidade.
+THALITA: Agora dois casos de anulabilidade. O autocontrato, no artigo cento e dezessete: o representante que negocia consigo mesmo. É anulável, salvo se a lei permitir ou o representado autorizar.
+FRANCISCA: E o conflito de interesses, artigo cento e dezenove. É anulável se o terceiro sabia ou devia saber do conflito. O prazo decadencial é de cento e oitenta dias, contados da conclusão do negócio ou da cessação da incapacidade.
 THALITA: Resumindo: autocontrato e conflito, anulável. Cento e oitenta dias no conflito.
-ANTONIO: Perfeito. Vamos agora para o terceiro degrau, a eficácia, com os elementos acidentais.
+FRANCISCA: Perfeito. Vamos agora para o terceiro degrau, a eficácia, com os elementos acidentais.
 == SLIDE: Elementos acidentais: condição, termo e encargo
 * Condição: futuro e incerto, só da vontade das partes (art. 121)
 * Suspensiva (art. 125) x resolutiva (art. 127)
 * Termo: futuro e certo; inicial suspende exercício, não aquisição (art. 131)
 * Encargo: não suspende aquisição nem exercício (art. 136)
 * Prazo: exclui o dia do começo, inclui o do vencimento (art. 132)
-FRANCISCA: Elementos acidentais são aqueles que as partes podem acrescentar para modular a eficácia. São três: condição, termo e encargo. A FCC cobra isso com frequência.
-THALITA: Como eu diferencio condição de termo sem errar?
-ANTONIO: Pela certeza. A condição é evento futuro e incerto, derivado da vontade das partes, artigo cento e vinte e um. O termo é evento futuro e certo, como uma data.
+THALITA: Elementos acidentais são aqueles que as partes podem acrescentar para modular a eficácia. São três: condição, termo e encargo. A FCC cobra isso com frequência.
+FRANCISCA: Como eu diferencio condição de termo sem errar?
+THALITA: Pela certeza. A condição é evento futuro e incerto, derivado da vontade das partes, artigo cento e vinte e um. O termo é evento futuro e certo, como uma data.
 FRANCISCA: Na condição suspensiva, o direito não se adquire enquanto ela estiver pendente, artigo cento e vinte e cinco. Na resolutiva, o negócio vigora desde logo e acaba quando a condição se realiza, artigo cento e vinte e sete.
 THALITA: Dou um exemplo: eu te dou o carro se eu passar no concurso. Isso é suspensiva?
-BRUNO: Isso mesmo. Enquanto você não passar, não há aquisição. Já a resolutiva seria assim: uso o carro até você ser nomeada, e na nomeação o direito termina.
-FRANCISCA: Sobre o termo, a regra é clara no artigo cento e trinta e um. O termo inicial suspende o exercício do direito, mas não a aquisição. A pessoa já é titular, só não pode exercer ainda.
-BRUNO: Pegadinha clássica: a banca diz que o termo inicial suspende a aquisição. Errado. Quem suspende a aquisição é a condição suspensiva.
-ANTONIO: E o encargo é o ônus imposto ao beneficiário de uma liberalidade, como uma doação com obrigação de cuidar de um animal. Ele não suspende nem a aquisição nem o exercício, salvo se for imposto como condição suspensiva. Artigo cento e trinta e seis.
-THALITA: Então encargo é um peso que eu carrego, mas o direito já é meu.
-FRANCISCA: Boa síntese. Sobre o prazo, o artigo cento e trinta e dois manda excluir o dia do começo e incluir o do vencimento. Se cair em feriado, prorroga para o dia útil seguinte. E meado do mês é o dia quinze.
-BRUNO: E o artigo cento e trinta e três diz que, nos contratos, o prazo se presume em favor do devedor. No testamento, em favor do herdeiro. Nunca do credor.
+FRANCISCA: Isso mesmo. Enquanto você não passar, não há aquisição. Já a resolutiva seria assim: uso o carro até você ser nomeada, e na nomeação o direito termina.
+THALITA: Sobre o termo, a regra é clara no artigo cento e trinta e um. O termo inicial suspende o exercício do direito, mas não a aquisição. A pessoa já é titular, só não pode exercer ainda.
+FRANCISCA: Pegadinha clássica: a banca diz que o termo inicial suspende a aquisição. Errado. Quem suspende a aquisição é a condição suspensiva.
+THALITA: E o encargo é o ônus imposto ao beneficiário de uma liberalidade, como uma doação com obrigação de cuidar de um animal. Ele não suspende nem a aquisição nem o exercício, salvo se for imposto como condição suspensiva. Artigo cento e trinta e seis.
+FRANCISCA: Então encargo é um peso que eu carrego, mas o direito já é meu.
+THALITA: Boa síntese. Sobre o prazo, o artigo cento e trinta e dois manda excluir o dia do começo e incluir o do vencimento. Se cair em feriado, prorroga para o dia útil seguinte. E meado do mês é o dia quinze.
+FRANCISCA: E o artigo cento e trinta e três diz que, nos contratos, o prazo se presume em favor do devedor. No testamento, em favor do herdeiro. Nunca do credor.
 THALITA: Devedor no contrato, herdeiro no testamento. Combinado.
-ANTONIO: Mas e quando a própria condição é viciada? Isso tem consequências diferentes.
+FRANCISCA: Mas e quando a própria condição é viciada? Isso tem consequências diferentes.
 == SLIDE: Condições viciadas e encargo ilícito
 * Puramente potestativa ou perplexa: defesa (art. 122)
 * Impossível suspensiva, ilícita ou contraditória: invalida (art. 123)
 * Impossível resolutiva: tem-se por inexistente (art. 124)
 * Implemento obstado maliciosamente: reputa-se verificado (art. 129)
 * Encargo ilícito ou impossível: não escrito, salvo motivo determinante (art. 137)
-BRUNO: A tabela de condições viciadas é um clássico de prova, então vamos linha por linha. Primeira linha: condição puramente potestativa ou perplexa é defesa, artigo cento e vinte e dois.
-THALITA: Potestativa eu sei: depende do arbítrio de uma parte só. E perplexa?
-FRANCISCA: Perplexa é a que priva o negócio de todo efeito. Por exemplo, eu te empresto o imóvel, com a condição de você nunca usá-lo. Ela esvazia o contrato.
-BRUNO: Atenção. Potestativa pura, como eu pago se eu quiser, é proibida. Mas a condição simplesmente potestativa, que depende de algum fato ou esforço, é permitida.
-ANTONIO: Segunda linha, artigo cento e vinte e três. As condições física ou juridicamente impossíveis, quando suspensivas, invalidam o negócio. O mesmo vale para as ilícitas e para as incompreensíveis ou contraditórias.
-THALITA: Mas se a condição impossível for resolutiva? Também invalida?
-FRANCISCA: Não, e é aí que a banca erra a gente. A resolutiva impossível tem-se por inexistente, artigo cento e vinte e quatro. O negócio continua, como se a condição nunca tivesse sido escrita. O mesmo vale para a condição de não fazer coisa impossível.
-BRUNO: Resumo de macete: impossível suspensiva, invalida. Impossível resolutiva, inexistente.
+THALITA: A tabela de condições viciadas é um clássico de prova, então vamos linha por linha. Primeira linha: condição puramente potestativa ou perplexa é defesa, artigo cento e vinte e dois.
+FRANCISCA: Potestativa eu sei: depende do arbítrio de uma parte só. E perplexa?
+THALITA: Perplexa é a que priva o negócio de todo efeito. Por exemplo, eu te empresto o imóvel, com a condição de você nunca usá-lo. Ela esvazia o contrato.
+FRANCISCA: Atenção. Potestativa pura, como eu pago se eu quiser, é proibida. Mas a condição simplesmente potestativa, que depende de algum fato ou esforço, é permitida.
+THALITA: Segunda linha, artigo cento e vinte e três. As condições física ou juridicamente impossíveis, quando suspensivas, invalidam o negócio. O mesmo vale para as ilícitas e para as incompreensíveis ou contraditórias.
+FRANCISCA: Mas se a condição impossível for resolutiva? Também invalida?
+THALITA: Não, e é aí que a banca erra a gente. A resolutiva impossível tem-se por inexistente, artigo cento e vinte e quatro. O negócio continua, como se a condição nunca tivesse sido escrita. O mesmo vale para a condição de não fazer coisa impossível.
+FRANCISCA: Resumo de macete: impossível suspensiva, invalida. Impossível resolutiva, inexistente.
 THALITA: Suspensiva invalida, resolutiva some. Gravei.
-ANTONIO: Terceira linha, o artigo cento e vinte e nove. Se alguém impede maliciosamente o implemento da condição, ela se reputa verificada. Se alguém a provoca de má-fé, reputa-se não verificada.
-FRANCISCA: É a boa-fé objetiva. Quem frauda o evento não pode se beneficiar da própria torpeza.
-BRUNO: A prova costuma inverter. Diz que a condição maliciosamente obstada se reputa não verificada. Errado. Obstada, verificada.
+FRANCISCA: Terceira linha, o artigo cento e vinte e nove. Se alguém impede maliciosamente o implemento da condição, ela se reputa verificada. Se alguém a provoca de má-fé, reputa-se não verificada.
+THALITA: É a boa-fé objetiva. Quem frauda o evento não pode se beneficiar da própria torpeza.
+FRANCISCA: A prova costuma inverter. Diz que a condição maliciosamente obstada se reputa não verificada. Errado. Obstada, verificada.
 THALITA: Obstada, verificada. Provocada, não verificada. Entendi.
-ANTONIO: Por fim, o encargo ilícito ou impossível, artigo cento e trinta e sete. Considera-se não escrito, e o negócio permanece. Só invalida se o encargo foi o motivo determinante da liberalidade.
-FRANCISCA: Imagine doar um terreno para o beneficiário cometer um crime. Se esse era o motivo determinante, toda a doação cai.
-ANTONIO: Agora vamos aos vícios que realmente tiram o sono de quem estuda: os defeitos do negócio jurídico.
+FRANCISCA: Por fim, o encargo ilícito ou impossível, artigo cento e trinta e sete. Considera-se não escrito, e o negócio permanece. Só invalida se o encargo foi o motivo determinante da liberalidade.
+THALITA: Imagine doar um terreno para o beneficiário cometer um crime. Se esse era o motivo determinante, toda a doação cai.
+FRANCISCA: Agora vamos aos vícios que realmente tiram o sono de quem estuda: os defeitos do negócio jurídico.
 == SLIDE: Defeitos do negócio jurídico: o quadro mestre
 * Erro e dolo: vício de vontade, prazo de 4 anos da celebração
 * Coação: 4 anos do dia em que cessar
 * Estado de perigo exige dolo de aproveitamento; lesão não
 * Fraude contra credores: ação pauliana, 4 anos
 * Simulação: nulidade, imprescritível (arts. 167 e 169)
-BRUNO: Defeitos geram, como regra, anulabilidade. A grande exceção é a simulação, que gera nulidade. Guarde isso desde já.
-THALITA: Começa pelo erro?
-FRANCISCA: Começo. O erro é a falsa percepção espontânea, que seja substancial e perceptível por pessoa de diligência normal. O falso motivo só vicia se for expresso como razão determinante. E o erro de cálculo só autoriza a retificação.
-BRUNO: Tranquilo na prova: erro de cálculo não anula, retifica.
-ANTONIO: O dolo, ao contrário, é o artifício malicioso para induzir a erro. O dolo acidental só gera perdas e danos. O silêncio intencional é dolo. O dolo de terceiro anula o negócio se o beneficiado sabia ou devia saber. E, se o dolo for recíproco, nenhuma parte pode alegá-lo.
-THALITA: E a coação? É qualquer ameaça?
-FRANCISCA: Não. É o fundado temor de dano iminente e considerável à pessoa, à família ou aos bens. Ameaçar exercer regularmente um direito não é coação, nem o simples temor reverencial, aquele respeito por pais ou chefes.
-BRUNO: E olhe o prazo, que é a grande pegadinha. Todos os defeitos têm quatro anos contados da celebração. A coação é a exceção: quatro anos contados do dia em que ela cessar.
+THALITA: Defeitos geram, como regra, anulabilidade. A grande exceção é a simulação, que gera nulidade. Guarde isso desde já.
+FRANCISCA: Começa pelo erro?
+THALITA: Começo. O erro é a falsa percepção espontânea, que seja substancial e perceptível por pessoa de diligência normal. O falso motivo só vicia se for expresso como razão determinante. E o erro de cálculo só autoriza a retificação.
+FRANCISCA: Tranquilo na prova: erro de cálculo não anula, retifica.
+THALITA: O dolo, ao contrário, é o artifício malicioso para induzir a erro. O dolo acidental só gera perdas e danos. O silêncio intencional é dolo. O dolo de terceiro anula o negócio se o beneficiado sabia ou devia saber. E, se o dolo for recíproco, nenhuma parte pode alegá-lo.
+FRANCISCA: E a coação? É qualquer ameaça?
+THALITA: Não. É o fundado temor de dano iminente e considerável à pessoa, à família ou aos bens. Ameaçar exercer regularmente um direito não é coação, nem o simples temor reverencial, aquele respeito por pais ou chefes.
+FRANCISCA: E olhe o prazo, que é a grande pegadinha. Todos os defeitos têm quatro anos contados da celebração. A coação é a exceção: quatro anos contados do dia em que ela cessar.
 THALITA: Então coação, o relógio só começa quando a ameaça acaba. Faz sentido!
-ANTONIO: Agora o par que a FCC adora comparar: estado de perigo e lesão. No estado de perigo, a pessoa se vê na necessidade de salvar a si ou a um familiar de grave dano conhecido da outra parte, e assume obrigação excessivamente onerosa. Exige dolo de aproveitamento.
-FRANCISCA: Na lesão, há premente necessidade ou inexperiência e prestação manifestamente desproporcional. Não exige dolo de aproveitamento. E dá para evitar a anulação oferecendo suplemento ou reduzindo o proveito.
-THALITA: Macete: perigo tem dolo, lesão não tem.
-BRUNO: Isso. Depois vem a fraude contra credores: ato do devedor insolvente, ou que o torna insolvente. Se for gratuito, anula-se mesmo que ele ignore a insolvência. Se for oneroso, só quando a insolvência for notória ou conhecível. Quem pode agir são os credores quirografários anteriores, pela ação pauliana.
-ANTONIO: E a simulação é declaração enganosa acordada entre as partes. É nula, subsiste o negócio dissimulado se for válido, e ressalva-se o terceiro de boa-fé. Não prescreve, artigo cento e sessenta e nove.
+FRANCISCA: Agora o par que a FCC adora comparar: estado de perigo e lesão. No estado de perigo, a pessoa se vê na necessidade de salvar a si ou a um familiar de grave dano conhecido da outra parte, e assume obrigação excessivamente onerosa. Exige dolo de aproveitamento.
+THALITA: Na lesão, há premente necessidade ou inexperiência e prestação manifestamente desproporcional. Não exige dolo de aproveitamento. E dá para evitar a anulação oferecendo suplemento ou reduzindo o proveito.
+FRANCISCA: Macete: perigo tem dolo, lesão não tem.
+THALITA: Isso. Depois vem a fraude contra credores: ato do devedor insolvente, ou que o torna insolvente. Se for gratuito, anula-se mesmo que ele ignore a insolvência. Se for oneroso, só quando a insolvência for notória ou conhecível. Quem pode agir são os credores quirografários anteriores, pela ação pauliana.
+FRANCISCA: E a simulação é declaração enganosa acordada entre as partes. É nula, subsiste o negócio dissimulado se for válido, e ressalva-se o terceiro de boa-fé. Não prescreve, artigo cento e sessenta e nove.
 == SLIDE: Invalidade, prescrição, decadência e prova
 * Nulidade (arts. 166 a 170): interesse público, de ofício, sem prazo
 * Anulabilidade (arts. 171 a 179): interesse privado, 4 anos, não de ofício
@@ -89,15 +89,15 @@ ANTONIO: E a simulação é declaração enganosa acordada entre as partes. É n
 * Prescrição: pretensão; decadência: direito potestativo; prazo geral de 10 anos
 * Interrupção: uma só vez (art. 202); prazos do art. 206
 * Prova: confissão, documento, testemunha (arts. 212 a 232)
-BRUNO: Falta contrapor nulidade e anulabilidade. A nulidade protege o interesse público. Qualquer interessado, o Ministério Público e o juiz, de ofício, podem alegar. Não se confirma e não convalesce com o tempo. A sentença é declaratória, com efeitos retroativos.
+THALITA: Falta contrapor nulidade e anulabilidade. A nulidade protege o interesse público. Qualquer interessado, o Ministério Público e o juiz, de ofício, podem alegar. Não se confirma e não convalesce com o tempo. A sentença é declaratória, com efeitos retroativos.
 FRANCISCA: A anulabilidade protege o interesse privado. Só os interessados alegam, nunca de ofício. Pode ser confirmada, ressalvado direito de terceiro. A sentença é desconstitutiva e o prazo é de quatro anos, ou dois anos da conclusão quando a lei não fixar prazo.
-BRUNO: Pegadinha: ato de incapaz, os quatro anos contam da cessação da incapacidade. E o menor que dolosamente oculta a idade não pode invocá-la depois.
-THALITA: E conversão? Eu sempre confundo com confirmação.
-ANTONIO: Conversão, artigo cento e setenta: o negócio nulo que contenha os requisitos de outro subsiste como este, se as partes o teriam querido.
+THALITA: Pegadinha: ato de incapaz, os quatro anos contam da cessação da incapacidade. E o menor que dolosamente oculta a idade não pode invocá-la depois.
+FRANCISCA: E conversão? Eu sempre confundo com confirmação.
+THALITA: Conversão, artigo cento e setenta: o negócio nulo que contenha os requisitos de outro subsiste como este, se as partes o teriam querido.
 FRANCISCA: Agora a prescrição. Ela extingue a pretensão, artigo cento e oitenta e nove. A decadência extingue o direito potestativo. O prazo geral é de dez anos. Os prazos prescricionais só a lei fixa, e acordo não os altera.
-BRUNO: A interrupção só acontece uma vez, artigo duzentos e dois. Um segundo protesto não reinicia nada. E ela faz o prazo recomeçar do zero, ao contrário da suspensão, que retoma pelo saldo.
-THALITA: Então no artigo duzentos e seis: um ano para hospedeiros e seguro, dois para alimentos, três para aluguéis, reparação civil e enriquecimento sem causa, cinco para dívidas líquidas e honorários de profissionais liberais?
-FRANCISCA: Isso. E o STJ fixou: extracontratual, três anos; contratual, dez anos.
-ANTONIO: Na decadência legal, a renúncia é nula e o juiz conhece de ofício. Na convencional, o juiz não conhece de ofício, e a parte pode alegar em qualquer grau.
-BRUNO: Por fim, a prova. A confissão é irrevogável, mas anulável por erro de fato ou coação. A escritura pública faz prova plena. Quem se recusa a exame médico não aproveita a recusa. E a Súmula trezentos e um do STJ: a recusa ao exame de DNA gera presunção relativa de paternidade.
-THALITA: Chega de teoria, quero praticar. Vamos às questões da FCC!
+THALITA: A interrupção só acontece uma vez, artigo duzentos e dois. Um segundo protesto não reinicia nada. E ela faz o prazo recomeçar do zero, ao contrário da suspensão, que retoma pelo saldo.
+FRANCISCA: Então no artigo duzentos e seis: um ano para hospedeiros e seguro, dois para alimentos, três para aluguéis, reparação civil e enriquecimento sem causa, cinco para dívidas líquidas e honorários de profissionais liberais?
+THALITA: Isso. E o STJ fixou: extracontratual, três anos; contratual, dez anos.
+FRANCISCA: Na decadência legal, a renúncia é nula e o juiz conhece de ofício. Na convencional, o juiz não conhece de ofício, e a parte pode alegar em qualquer grau.
+THALITA: Por fim, a prova. A confissão é irrevogável, mas anulável por erro de fato ou coação. A escritura pública faz prova plena. Quem se recusa a exame médico não aproveita a recusa. E a Súmula trezentos e um do STJ: a recusa ao exame de DNA gera presunção relativa de paternidade.
+FRANCISCA: Chega de teoria, quero praticar. Vamos às questões da FCC!

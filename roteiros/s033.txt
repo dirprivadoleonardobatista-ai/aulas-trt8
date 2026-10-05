@@ -7,44 +7,44 @@ SEGMENTO s033
 * Reunião com fornecedor: duas ou mais pessoas, com ata
 FRANCISCA: Saímos da sustentabilidade e entramos na ética. O Código de Ética dos servidores do TRT oito é a Resolução oitenta e oito, de dois mil e doze, alterada em dois mil e dezessete, dois mil e vinte e dois e dois mil e vinte e três.
 THALITA: Quem está submetido a ele? Só o servidor concursado?
-ANTONIO: Não. Todos os agentes públicos vinculados ao tribunal: magistrados, estagiários, voluntários, cedidos e terceirizados. E vale atuando ou não nas dependências do tribunal. É o artigo segundo. Casos omissos são decididos pela Presidência, artigo vinte e cinco.
-BRUNO: Cuidado com a pegadinha de dizer que só vale para servidores efetivos. Está errado.
+FRANCISCA: Não. Todos os agentes públicos vinculados ao tribunal: magistrados, estagiários, voluntários, cedidos e terceirizados. E vale atuando ou não nas dependências do tribunal. É o artigo segundo. Casos omissos são decididos pela Presidência, artigo vinte e cinco.
+THALITA: Cuidado com a pegadinha de dizer que só vale para servidores efetivos. Está errado.
 FRANCISCA: Os princípios, no artigo quarto, incluem legalidade, impessoalidade, moralidade, respeito, decoro, proteção do patrimônio público, eficácia, equidade, gestão democrática, sustentabilidade, inovação, transparência e dignidade humana. A Resolução de dois mil e vinte e dois acrescentou integridade, segurança da informação e proteção de dados pessoais.
 THALITA: E direitos? O servidor tem algum?
-ANTONIO: Tem. Ambiente que preserve a integridade física, moral, mental e psicológica, capacitação, interlocução livre, equidade na avaliação, promoção e transferência, e sigilo das informações pessoais, inclusive as médicas.
-BRUNO: Nos deveres, fique atento. Prestar compromisso no ato da posse. Tratar com urbanidade, sem discriminação. Representar contra ordem ilegal, sem omitir-se. Não burlar o ponto. Comunicar conflito de interesses e consultar o Comitê na dúvida.
+FRANCISCA: Tem. Ambiente que preserve a integridade física, moral, mental e psicológica, capacitação, interlocução livre, equidade na avaliação, promoção e transferência, e sigilo das informações pessoais, inclusive as médicas.
+THALITA: Nos deveres, fique atento. Prestar compromisso no ato da posse. Tratar com urbanidade, sem discriminação. Representar contra ordem ilegal, sem omitir-se. Não burlar o ponto. Comunicar conflito de interesses e consultar o Comitê na dúvida.
 FRANCISCA: Também combater e denunciar a corrupção e observar a LGPD. E reuniões com advogados, fornecedores e licitantes devem ter duas ou mais pessoas, com registro em ata. Ao se desligar, o servidor devolve bens e não apaga registros.
 THALITA: Macete: reunião com interessado nunca é a sós, e sempre vira ata.
-ANTONIO: Um aviso da apostila: o texto compilado do artigo sexto tem dois incisos dezoito e dois incisos dezenove. Em prova, guie-se pelo conteúdo do dever.
+FRANCISCA: Um aviso da apostila: o texto compilado do artigo sexto tem dois incisos dezoito e dois incisos dezenove. Em prova, guie-se pelo conteúdo do dever.
 == SLIDE: Vedações do artigo sétimo
 * Vedado usar cargo ou informação privilegiada
 * Assédio: cometer ou permitir; conceito com objetivo ou efeito
 * Nepotismo: manter sob subordinação parente até o 3º grau
 * Exercer advocacia; receber presentes, mesmo em festividades
 * Brindes sem valor comercial não são presentes
-BRUNO: Vamos às vedações. Primeiro grupo, uso do cargo: usar cargo, influência ou informação privilegiada para favorecer alguém, compactuar com ato antiético mesmo que formalmente legal e procrastinar direito alheio.
-THALITA: Mesmo que legal? Como assim?
-FRANCISCA: Significa que a legalidade formal não basta. Se o ato é antiético, o servidor não pode compactuar com ele.
-ANTONIO: No grupo das pessoas, é vedado discriminar, prejudicar reputações, perseguir por motivo pessoal e cometer ou permitir assédio sexual ou moral. O assédio moral, no Código, é a conduta que tenha por objetivo ou efeito degradar as condições de trabalho, atentar contra direitos ou dignidade, ou comprometer a saúde ou o desenvolvimento profissional.
-BRUNO: Repare: objetivo ou efeito. Não exige intenção nem reiteração. E também é vedado permitir o assédio, que é a conduta omissiva típica do gestor.
-THALITA: Então o chefe que sabe e não faz nada também descumpre o Código.
-FRANCISCA: Exatamente. Outras vedações: nepotismo, que é manter sob subordinação cônjuge, companheiro ou parente até o terceiro grau, inclusive. Exercer a advocacia. Apresentar-se embriagado. Ausentar-se injustificadamente. Ser conivente com infração ao Código.
-ANTONIO: Quanto às vantagens, é vedado receber presentes de interessado na atividade do servidor, mesmo em festividades. Brindes sem valor comercial, como agendas, canetas e copos, não são presentes. O presente que não pode ser recusado nem devolvido sem ônus é doado a entidade filantrópica, com registro na página de Transparência.
+THALITA: Vamos às vedações. Primeiro grupo, uso do cargo: usar cargo, influência ou informação privilegiada para favorecer alguém, compactuar com ato antiético mesmo que formalmente legal e procrastinar direito alheio.
+FRANCISCA: Mesmo que legal? Como assim?
+THALITA: Significa que a legalidade formal não basta. Se o ato é antiético, o servidor não pode compactuar com ele.
+FRANCISCA: No grupo das pessoas, é vedado discriminar, prejudicar reputações, perseguir por motivo pessoal e cometer ou permitir assédio sexual ou moral. O assédio moral, no Código, é a conduta que tenha por objetivo ou efeito degradar as condições de trabalho, atentar contra direitos ou dignidade, ou comprometer a saúde ou o desenvolvimento profissional.
+THALITA: Repare: objetivo ou efeito. Não exige intenção nem reiteração. E também é vedado permitir o assédio, que é a conduta omissiva típica do gestor.
+FRANCISCA: Então o chefe que sabe e não faz nada também descumpre o Código.
+THALITA: Exatamente. Outras vedações: nepotismo, que é manter sob subordinação cônjuge, companheiro ou parente até o terceiro grau, inclusive. Exercer a advocacia. Apresentar-se embriagado. Ausentar-se injustificadamente. Ser conivente com infração ao Código.
+FRANCISCA: Quanto às vantagens, é vedado receber presentes de interessado na atividade do servidor, mesmo em festividades. Brindes sem valor comercial, como agendas, canetas e copos, não são presentes. O presente que não pode ser recusado nem devolvido sem ônus é doado a entidade filantrópica, com registro na página de Transparência.
 THALITA: E política e tecnologia?
-BRUNO: Pela Resolução de dois mil e vinte e dois: propaganda partidária nas dependências, coagir subordinado a filiar-se, falar em nome do tribunal nas redes sem autorização e compartilhar senhas.
+FRANCISCA: Pela Resolução de dois mil e vinte e dois: propaganda partidária nas dependências, coagir subordinado a filiar-se, falar em nome do tribunal nas redes sem autorização e compartilhar senhas.
 == SLIDE: Cargos de chefia e Comitê de Ética e Integridade
 * Patrimônio: comunicar imediatamente; sociedade acima de 5%
 * Quarentena: 4 meses após CJ-3 ou CJ-4
 * Comitê: 1 Desembargador e 3 membros; mandato de 2 anos
 * Comitê não aplica penalidade disciplinar
 * Sem remuneração; relatório anual
-FRANCISCA: Nos cargos em comissão, direção e chefia, o servidor comunica imediatamente ao Comitê alteração patrimonial relevante. Participação societária acima de cinco por cento em empresa de economia mista, instituição financeira ou empresa que negocie com o Poder Público também deve ser comunicada.
-ANTONIO: A autoridade não pode deixar de cientificar previamente o subordinado de exoneração ou dispensa, nem decidir contra as provas de sindicância ou processo disciplinar. Proposta de trabalho futuro deve ser informada imediatamente, independentemente de aceitação ou rejeição. E há quarentena de quatro meses após a exoneração de CJ três ou CJ quatro, para quem teve relacionamento oficial direto e relevante nos seis meses anteriores.
+THALITA: Nos cargos em comissão, direção e chefia, o servidor comunica imediatamente ao Comitê alteração patrimonial relevante. Participação societária acima de cinco por cento em empresa de economia mista, instituição financeira ou empresa que negocie com o Poder Público também deve ser comunicada.
+FRANCISCA: A autoridade não pode deixar de cientificar previamente o subordinado de exoneração ou dispensa, nem decidir contra as provas de sindicância ou processo disciplinar. Proposta de trabalho futuro deve ser informada imediatamente, independentemente de aceitação ou rejeição. E há quarentena de quatro meses após a exoneração de CJ três ou CJ quatro, para quem teve relacionamento oficial direto e relevante nos seis meses anteriores.
 THALITA: Quatro de quarentena, seis de olhar para trás. Anotei.
-BRUNO: Agora o Comitê de Ética e Integridade. Composição: um Desembargador e três membros, com suplentes, designados pelo Presidente entre servidores efetivos sem punição penal ou administrativa nos últimos cinco anos. Mandato de dois anos, permitida a recondução.
-FRANCISCA: Se o caso envolve cônjuge, companheiro ou parente até o terceiro grau do titular, assume o suplente. O membro indiciado criminalmente ou que responda a processo disciplinar fica suspenso até o trânsito em julgado. Se um membro estiver eticamente comprometido, o Presidente designa um Subcomitê de Ética Especial.
-THALITA: Eles ganham alguma coisa por isso?
-ANTONIO: Nada. É relevante serviço público, anotado na ficha funcional, com prioridade sobre as atividades do cargo. Competem a ele difundir a cultura ética, receber denúncias e encaminhar indícios às autoridades, responder consultas sobre conflito de interesses, apurar desvio ético e elaborar relatório anual.
-BRUNO: Pegadinhas: o Comitê não aplica penalidade disciplinar. Há um Desembargador titular, e dizer dois titulares é errado. E o nome antigo, Comissão de Ética, é anterior à Resolução de dois mil e vinte e três.
+FRANCISCA: Agora o Comitê de Ética e Integridade. Composição: um Desembargador e três membros, com suplentes, designados pelo Presidente entre servidores efetivos sem punição penal ou administrativa nos últimos cinco anos. Mandato de dois anos, permitida a recondução.
+THALITA: Se o caso envolve cônjuge, companheiro ou parente até o terceiro grau do titular, assume o suplente. O membro indiciado criminalmente ou que responda a processo disciplinar fica suspenso até o trânsito em julgado. Se um membro estiver eticamente comprometido, o Presidente designa um Subcomitê de Ética Especial.
+FRANCISCA: Eles ganham alguma coisa por isso?
+THALITA: Nada. É relevante serviço público, anotado na ficha funcional, com prioridade sobre as atividades do cargo. Competem a ele difundir a cultura ética, receber denúncias e encaminhar indícios às autoridades, responder consultas sobre conflito de interesses, apurar desvio ético e elaborar relatório anual.
+FRANCISCA: Pegadinhas: o Comitê não aplica penalidade disciplinar. Há um Desembargador titular, e dizer dois titulares é errado. E o nome antigo, Comissão de Ética, é anterior à Resolução de dois mil e vinte e três.
 THALITA: Muito bem. Falta ainda ver como o tribunal enfrenta violência, assédio e discriminação. Vamos lá?
-ANTONIO: Vamos. É o próximo tema.
+FRANCISCA: Vamos. É o próximo tema.

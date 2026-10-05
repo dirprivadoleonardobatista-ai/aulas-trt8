@@ -5,13 +5,13 @@ SEGMENTO s181
 * Domicílio do empregado só para agente ou viajante comercial (art. 651, § 1º)
 * Sede da empresa não é critério do art. 651
 * Gabarito: C
-ANTONIO: Vimos a aplicação do CPC e a prescrição. Agora as questões, no estilo FCC. Na primeira, a Renata foi contratada em Belém pela Sigma Montagens, que executa instalações industriais em vários estados, e trabalhou sucessivamente em Parauapebas e em São Luís. Dispensada, quer ajuizar reclamação. O que ela pode fazer?
+FRANCISCA: Vimos a aplicação do CPC e a prescrição. Agora as questões, no estilo FCC. Na primeira, a Renata foi contratada em Belém pela Sigma Montagens, que executa instalações industriais em vários estados, e trabalhou sucessivamente em Parauapebas e em São Luís. Dispensada, quer ajuizar reclamação. O que ela pode fazer?
 THALITA: Pausa para pensar. Eu iria na A: no último local, São Luís.
-BRUNO: É a armadilha do último local. Vamos às alternativas. A diz que deve ajuizar exclusivamente em São Luís. Errada: para empregador que promove atividades fora do lugar do contrato, a lei assegura opção, artigo seiscentos e cinquenta e um, parágrafo terceiro.
-FRANCISCA: A B manda ajuizar no foro da sede da empresa. Errada: a sede não é critério do artigo seiscentos e cinquenta e um. A C diz que ela pode optar entre o foro da celebração do contrato e o da prestação dos serviços. Correta, é a letra do parágrafo terceiro.
-THALITA: E a D? Domicílio do empregado parece justo.
-ANTONIO: A lei só fala em domicílio para o agente ou viajante comercial, na falta de agência ou filial a que se subordine, parágrafo primeiro. Não vale para todo empregado.
-BRUNO: A E diz que deve ajuizar em Belém, com vedação do local da prestação. Errada: Belém é uma das opções, não a única. Gabarito: C.
+FRANCISCA: É a armadilha do último local. Vamos às alternativas. A diz que deve ajuizar exclusivamente em São Luís. Errada: para empregador que promove atividades fora do lugar do contrato, a lei assegura opção, artigo seiscentos e cinquenta e um, parágrafo terceiro.
+THALITA: A B manda ajuizar no foro da sede da empresa. Errada: a sede não é critério do artigo seiscentos e cinquenta e um. A C diz que ela pode optar entre o foro da celebração do contrato e o da prestação dos serviços. Correta, é a letra do parágrafo terceiro.
+FRANCISCA: E a D? Domicílio do empregado parece justo.
+THALITA: A lei só fala em domicílio para o agente ou viajante comercial, na falta de agência ou filial a que se subordine, parágrafo primeiro. Não vale para todo empregado.
+FRANCISCA: A E diz que deve ajuizar em Belém, com vedação do local da prestação. Errada: Belém é uma das opções, não a única. Gabarito: C.
 THALITA: Macete: viajou muito, escolhe entre onde assinou e onde trabalhou.
 FRANCISCA: Exato. Mas atenção: a regra geral continua sendo o local da prestação dos serviços.
 == SLIDE: Questão 2: competência da Justiça do Trabalho
@@ -19,28 +19,28 @@ FRANCISCA: Exato. Mas atenção: a regra geral continua sendo o local da presta�
 * II: possessória decorrente de greve é da Justiça do Trabalho (SV 23)
 * III: cobrança de honorários de advogado: relação de consumo, Justiça Estadual (Súm. 363 STJ)
 * Gabarito: A (I e II)
-BRUNO: Questão dois. Três ações. Primeira: indenização por danos morais decorrentes de acidente de trabalho, proposta pelos filhos do empregado falecido contra o ex-empregador. Segunda: ação possessória de empresa privada por ocupação das instalações durante greve de seus empregados. Terceira: cobrança de honorários contratuais de advogado contra cliente pessoa física. Qual é da Justiça do Trabalho?
-THALITA: Pausa para pensar. Eu diria só a primeira, porque os filhos não são empregados.
-FRANCISCA: Boa dúvida, mas a Constituição, no artigo cento e catorze, inciso sexto, e a Súmula trezentos e noventa e dois do TST incluem as ações de dependentes ou sucessores. Então o item um é nosso.
-ANTONIO: O item dois é a Súmula Vinculante vinte e três: possessória decorrente de greve na iniciativa privada é da Justiça do Trabalho.
+THALITA: Questão dois. Três ações. Primeira: indenização por danos morais decorrentes de acidente de trabalho, proposta pelos filhos do empregado falecido contra o ex-empregador. Segunda: ação possessória de empresa privada por ocupação das instalações durante greve de seus empregados. Terceira: cobrança de honorários contratuais de advogado contra cliente pessoa física. Qual é da Justiça do Trabalho?
+FRANCISCA: Pausa para pensar. Eu diria só a primeira, porque os filhos não são empregados.
+THALITA: Boa dúvida, mas a Constituição, no artigo cento e catorze, inciso sexto, e a Súmula trezentos e noventa e dois do TST incluem as ações de dependentes ou sucessores. Então o item um é nosso.
+FRANCISCA: O item dois é a Súmula Vinculante vinte e três: possessória decorrente de greve na iniciativa privada é da Justiça do Trabalho.
 THALITA: Então a B, que só traz o item um, está errada por omitir o dois.
-BRUNO: Isso. E o item três? Cobrança de honorários de advogado contra cliente é relação de consumo, Súmula trezentos e sessenta e três do STJ, Justiça Estadual.
-FRANCISCA: Por isso a C, a D e a E estão erradas, todas elas incluem o item três. A resposta é a A, itens um e dois.
-THALITA: Macete: acidente com família, greve com posse, tudo trabalhista; advogado cobrando cliente, Justiça Estadual.
-ANTONIO: Gabarito A. Repare que basta identificar o item três como falso para eliminar três alternativas.
+FRANCISCA: Isso. E o item três? Cobrança de honorários de advogado contra cliente é relação de consumo, Súmula trezentos e sessenta e três do STJ, Justiça Estadual.
+THALITA: Por isso a C, a D e a E estão erradas, todas elas incluem o item três. A resposta é a A, itens um e dois.
+FRANCISCA: Macete: acidente com família, greve com posse, tudo trabalhista; advogado cobrando cliente, Justiça Estadual.
+THALITA: Gabarito A. Repare que basta identificar o item três como falso para eliminar três alternativas.
 == SLIDE: Questão 3: oficial de justiça em localidade com várias Varas
 * Prazo de 9 dias para cumprir o ato (art. 721, § 2º)
 * Descumprimento sem razão: ato passa a outro oficial, com penalidades
 * Avaliação: 10 dias, por remissão ao art. 888 (art. 721, § 3º)
 * TRT pode ter órgão de distribuição de mandados (§ 1º); na falta, qualquer serventuário (§ 5º)
 * Gabarito: E
-THALITA: Questão três é de Oficial de Justiça, sobre o artigo setecentos e vinte e um da CLT, para localidades com mais de uma Vara. Olha só as alternativas. Pausa para pensar.
-ANTONIO: A A fala em quinze dias, prorrogáveis. Errada: o prazo é de nove dias, sem essa prorrogação, artigo setecentos e vinte e um, parágrafo segundo.
-BRUNO: A B diz que a avaliação deve ser concluída em nove dias. Errada: para avaliação o prazo é de dez dias, por remissão ao artigo oitocentos e oitenta e oito, parágrafo terceiro.
+FRANCISCA: Questão três é de Oficial de Justiça, sobre o artigo setecentos e vinte e um da CLT, para localidades com mais de uma Vara. Olha só as alternativas. Pausa para pensar.
+THALITA: A A fala em quinze dias, prorrogáveis. Errada: o prazo é de nove dias, sem essa prorrogação, artigo setecentos e vinte e um, parágrafo segundo.
+FRANCISCA: A B diz que a avaliação deve ser concluída em nove dias. Errada: para avaliação o prazo é de dez dias, por remissão ao artigo oitocentos e oitenta e oito, parágrafo terceiro.
 THALITA: Nove para o ato, dez para a avaliação. Troca clássica.
 FRANCISCA: A C diz que é vedada a criação de órgão para distribuição de mandados. Errada: a lei ressalva justamente a existência de órgão específico de distribuição de mandados no TRT, parágrafo primeiro.
-ANTONIO: A D diz que, na falta ou impedimento do oficial, o ato será obrigatoriamente redistribuído pelo Presidente do Tribunal a oficial de outra localidade. Errada: o juiz da Vara pode atribuir o ato a qualquer serventuário, parágrafo quinto.
-BRUNO: E a E reproduz o parágrafo segundo: o ato não cumprido em nove dias, sem razões que o justifiquem, terá sua atribuição transferida a outro oficial, e o faltoso sujeita-se às penalidades da lei. Gabarito: E.
+THALITA: A D diz que, na falta ou impedimento do oficial, o ato será obrigatoriamente redistribuído pelo Presidente do Tribunal a oficial de outra localidade. Errada: o juiz da Vara pode atribuir o ato a qualquer serventuário, parágrafo quinto.
+FRANCISCA: E a E reproduz o parágrafo segundo: o ato não cumprido em nove dias, sem razões que o justifiquem, terá sua atribuição transferida a outro oficial, e o faltoso sujeita-se às penalidades da lei. Gabarito: E.
 THALITA: Essa é de decoreba mesmo: nove dias para o ato, dez para avaliar.
 FRANCISCA: Dica de prova: quando aparecer número de dias, desconfie da troca.
 == SLIDE: Questão 4: honorários periciais do beneficiário da gratuidade
@@ -49,14 +49,14 @@ FRANCISCA: Dica de prova: quando aparecer número de dias, desconfie da troca.
 * Assistente técnico: pago por quem o indicou (Súm. 341 TST)
 * Vedado exigir adiantamento (art. 790-B, § 3º; OJ 98 SDI-2)
 * Gabarito: B
-BRUNO: Questão quatro. Paulo, beneficiário da justiça gratuita, pediu adicional de insalubridade e horas extras. A perícia concluiu que não há insalubridade; as horas extras foram deferidas. Paulo também indicou assistente técnico. À luz da CLT, da ADI cinco mil setecentos e sessenta e seis e da jurisprudência do TST, quem paga o quê?
-THALITA: Pausa para pensar. Eu diria que Paulo paga o perito com o crédito das horas extras, afinal ele ganhou dinheiro.
-FRANCISCA: Exatamente a tese que o Supremo afastou na ADI cinco mil setecentos e sessenta e seis: o crédito obtido em juízo não pode ser usado para pagar despesa do beneficiário da gratuidade. A A está errada.
-ANTONIO: Paulo foi sucumbente no objeto da perícia, artigo setecentos e noventa-B, mas, sendo beneficiário da gratuidade, quem paga o perito é a União, Súmula quatrocentos e cinquenta e sete do TST. O assistente técnico é pago por quem o indicou, Súmula trezentos e quarenta e um. Então a B é a correta.
-BRUNO: A C diz que a empresa paga ambos por ter sido vencida em horas extras. Errada: o critério é a sucumbência no objeto da perícia, não no conjunto da ação.
-THALITA: E a D, exigir adiantamento e devolver depois?
-FRANCISCA: Errada. É vedada a exigência de adiantamento, artigo setecentos e noventa-B, parágrafo terceiro, e Orientação Jurisprudencial noventa e oito da SDI-dois.
-ANTONIO: A E põe a União pagando o assistente. Errada: a indicação de assistente é faculdade da parte, que responde pelos honorários dele. Gabarito: B.
+THALITA: Questão quatro. Paulo, beneficiário da justiça gratuita, pediu adicional de insalubridade e horas extras. A perícia concluiu que não há insalubridade; as horas extras foram deferidas. Paulo também indicou assistente técnico. À luz da CLT, da ADI cinco mil setecentos e sessenta e seis e da jurisprudência do TST, quem paga o quê?
+FRANCISCA: Pausa para pensar. Eu diria que Paulo paga o perito com o crédito das horas extras, afinal ele ganhou dinheiro.
+THALITA: Exatamente a tese que o Supremo afastou na ADI cinco mil setecentos e sessenta e seis: o crédito obtido em juízo não pode ser usado para pagar despesa do beneficiário da gratuidade. A A está errada.
+FRANCISCA: Paulo foi sucumbente no objeto da perícia, artigo setecentos e noventa-B, mas, sendo beneficiário da gratuidade, quem paga o perito é a União, Súmula quatrocentos e cinquenta e sete do TST. O assistente técnico é pago por quem o indicou, Súmula trezentos e quarenta e um. Então a B é a correta.
+THALITA: A C diz que a empresa paga ambos por ter sido vencida em horas extras. Errada: o critério é a sucumbência no objeto da perícia, não no conjunto da ação.
+FRANCISCA: E a D, exigir adiantamento e devolver depois?
+THALITA: Errada. É vedada a exigência de adiantamento, artigo setecentos e noventa-B, parágrafo terceiro, e Orientação Jurisprudencial noventa e oito da SDI-dois.
+FRANCISCA: A E põe a União pagando o assistente. Errada: a indicação de assistente é faculdade da parte, que responde pelos honorários dele. Gabarito: B.
 THALITA: Perito, União; assistente, quem chamou.
 == SLIDE: Questões 5 e 6: Súmula 214 e prescrição intercorrente
 * Súm. 214, a: decisão de TRT contrária a súmula ou OJ do TST é recorrível de imediato
@@ -66,10 +66,10 @@ THALITA: Perito, União; assistente, quem chamou.
 * Gabaritos: Questão 5, D; Questão 6, A
 FRANCISCA: Questão cinco, sobre a Súmula duzentos e quatorze. As interlocutórias não ensejam recurso imediato, salvo a decisão... A: que rejeita exceção de incompetência territorial. B: do juiz que indefere oitiva de testemunha. C: que acolhe a exceção e remete a outra Vara do mesmo Tribunal Regional. D: de Tribunal Regional contrária a súmula ou orientação do TST. E: que defere tutela provisória antes da sentença, por recurso ordinário.
 THALITA: Pausa para pensar. Eu arrisco a C, porque acolheu a exceção.
-BRUNO: Quase. A exceção da alínea c exige remessa para Tribunal Regional distinto, e a C diz outra Vara do mesmo Tribunal. Errada. A A também: a decisão que rejeita a exceção nunca é imediatamente recorrível. E a B é típica interlocutória: a parte protesta e renova no recurso contra a sentença, artigo oitocentos e noventa e três, parágrafo primeiro.
-ANTONIO: A D é a correta: alínea a da Súmula duzentos e quatorze. A E erra porque a tutela provisória antes da sentença é impugnável por mandado de segurança, Súmula quatrocentos e catorze, inciso segundo.
-THALITA: Macete: contra súmula do TST, recorre já; o resto, só no final.
-FRANCISCA: Questão seis, prescrição intercorrente. A A diz: dois anos, a partir de quando o exequente descumpre ordem judicial na execução, declarável de ofício em qualquer grau. A B fala em cinco anos, do trânsito em julgado, a requerimento do executado. A C diz que é inaplicável. A D conta da paralisação por qualquer causa, inclusive demora da secretaria. A E só admite o juiz de primeiro grau.
-BRUNO: A A é a correta, artigo onze-A, caput e parágrafos primeiro e segundo. A B erra prazo, termo inicial e exigência de requerimento. A C é entendimento superado pela Reforma, a antiga Súmula cento e catorze. A D erra porque exige inércia do exequente, não demora do Judiciário. E a E erra porque o parágrafo segundo admite a declaração em qualquer grau.
+FRANCISCA: Quase. A exceção da alínea c exige remessa para Tribunal Regional distinto, e a C diz outra Vara do mesmo Tribunal. Errada. A A também: a decisão que rejeita a exceção nunca é imediatamente recorrível. E a B é típica interlocutória: a parte protesta e renova no recurso contra a sentença, artigo oitocentos e noventa e três, parágrafo primeiro.
+THALITA: A D é a correta: alínea a da Súmula duzentos e quatorze. A E erra porque a tutela provisória antes da sentença é impugnável por mandado de segurança, Súmula quatrocentos e catorze, inciso segundo.
+FRANCISCA: Macete: contra súmula do TST, recorre já; o resto, só no final.
+THALITA: Questão seis, prescrição intercorrente. A A diz: dois anos, a partir de quando o exequente descumpre ordem judicial na execução, declarável de ofício em qualquer grau. A B fala em cinco anos, do trânsito em julgado, a requerimento do executado. A C diz que é inaplicável. A D conta da paralisação por qualquer causa, inclusive demora da secretaria. A E só admite o juiz de primeiro grau.
+FRANCISCA: A A é a correta, artigo onze-A, caput e parágrafos primeiro e segundo. A B erra prazo, termo inicial e exigência de requerimento. A C é entendimento superado pela Reforma, a antiga Súmula cento e catorze. A D erra porque exige inércia do exequente, não demora do Judiciário. E a E erra porque o parágrafo segundo admite a declaração em qualquer grau.
 THALITA: Dois anos, ordem descumprida pelo exequente, de ofício, qualquer grau. Gabarito A.
-ANTONIO: Fechamos a aula. Na introdução da próxima, vamos abrir um novo bloco de Direito Processual do Trabalho.
+FRANCISCA: Fechamos a aula. Na introdução da próxima, vamos abrir um novo bloco de Direito Processual do Trabalho.

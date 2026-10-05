@@ -4,13 +4,13 @@ SEGMENTO s046
 * Impedimento de longo prazo: físico, mental, intelectual ou sensorial
 * Interação com barreiras que pode obstruir a participação plena
 * Impedimento sozinho não basta; limitação temporária não é deficiência
-ANTONIO: Vimos a base constitucional e a Convenção de Nova York. Agora entramos na própria lei: a Lei treze mil cento e quarenta e seis, de dois mil e quinze, a Lei Brasileira de Inclusão, também chamada de Estatuto da Pessoa com Deficiência. Foi publicada em julho de dois mil e quinze e entrou em vigor cento e oitenta dias depois, em janeiro de dois mil e dezesseis.
+FRANCISCA: Vimos a base constitucional e a Convenção de Nova York. Agora entramos na própria lei: a Lei treze mil cento e quarenta e seis, de dois mil e quinze, a Lei Brasileira de Inclusão, também chamada de Estatuto da Pessoa com Deficiência. Foi publicada em julho de dois mil e quinze e entrou em vigor cento e oitenta dias depois, em janeiro de dois mil e dezesseis.
 THALITA: Por onde começamos? Pelo conceito?
 FRANCISCA: Pelo conceito do artigo segundo, que reproduz o da Convenção. Em paráfrase: pessoa com deficiência é aquela que tem impedimento de longo prazo, de natureza física, mental, intelectual ou sensorial, que, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade, em igualdade de condições com as demais pessoas.
-BRUNO: Cada elemento rende pegadinha. Primeiro, o impedimento, que é a alteração nas funções ou estruturas do corpo. Mas impedimento sozinho não basta. Segundo, o longo prazo. Uma perna engessada é limitação temporária, caracteriza mobilidade reduzida, não deficiência.
-THALITA: E as quatro naturezas são física, mental, intelectual e sensorial. Mental e intelectual são a mesma coisa?
-BRUNO: Não. Na LBI são categorias distintas, e a banca pode usar isso.
-ANTONIO: O núcleo do modelo social está na interação com barreiras: a deficiência nasce do encontro entre impedimento e barreira. E repare no verbo: a participação plena e efetiva pode ser obstruída. Basta que possa obstruir. A lei não exige incapacidade total.
+THALITA: Cada elemento rende pegadinha. Primeiro, o impedimento, que é a alteração nas funções ou estruturas do corpo. Mas impedimento sozinho não basta. Segundo, o longo prazo. Uma perna engessada é limitação temporária, caracteriza mobilidade reduzida, não deficiência.
+FRANCISCA: E as quatro naturezas são física, mental, intelectual e sensorial. Mental e intelectual são a mesma coisa?
+THALITA: Não. Na LBI são categorias distintas, e a banca pode usar isso.
+FRANCISCA: O núcleo do modelo social está na interação com barreiras: a deficiência nasce do encontro entre impedimento e barreira. E repare no verbo: a participação plena e efetiva pode ser obstruída. Basta que possa obstruir. A lei não exige incapacidade total.
 THALITA: Então, se a questão disser que só é deficiente quem não consegue participar de nada, está errada.
 FRANCISCA: Está. Exige-se impedimento de longo prazo mais interação com barreiras, com potencial de obstruir a participação.
 == SLIDE: Avaliação biopsicossocial e leis posteriores
@@ -18,40 +18,40 @@ FRANCISCA: Está. Exige-se impedimento de longo prazo mais interação com barre
 * Quatro fatores: corpo, fatores socioambientais, atividades, participação
 * TEA é deficiência para todos os efeitos legais
 * Visão monocular: deficiência sensorial visual
-BRUNO: Passamos à avaliação biopsicossocial, artigo segundo, parágrafo primeiro. Quando necessária, será feita por equipe multiprofissional e interdisciplinar. Atenção ao quando necessária: a banca diz que é sempre obrigatória, e isso está errado. E troca a equipe por perícia médica oficial ou junta médica, também errado.
-THALITA: E o que essa equipe avalia?
-ANTONIO: Quatro fatores. Primeiro, os impedimentos nas funções e nas estruturas do corpo. Segundo, os fatores socioambientais, psicológicos e pessoais. Terceiro, a limitação no desempenho de atividades. Quarto, a restrição de participação.
-THALITA: Corpo, fatores pessoais e ambientais, atividades e participação. Quatro.
-FRANCISCA: Isso. O instrumento unificado de avaliação, previsto no parágrafo segundo, depende de regulamentação do Executivo, então confira o estágio de implantação vigente na data do edital.
-ANTONIO: Leis posteriores ampliaram ou explicitaram o conceito. A Lei doze mil setecentos e sessenta e quatro, de dois mil e doze, considera a pessoa com transtorno do espectro autista pessoa com deficiência para todos os efeitos legais. A Lei catorze mil cento e vinte e seis, de dois mil e vinte e um, classifica a visão monocular como deficiência sensorial, do tipo visual.
-FRANCISCA: A Lei catorze mil setecentos e sessenta e oito, de dois mil e vinte e três, define deficiência auditiva, incluindo a perda unilateral total. E a Lei catorze mil seiscentos e vinte e quatro, também de dois mil e vinte e três, instituiu o cordão de fita com girassóis como símbolo de deficiências ocultas.
-THALITA: Girassol para deficiência oculta. Esse eu guardo fácil.
+THALITA: Passamos à avaliação biopsicossocial, artigo segundo, parágrafo primeiro. Quando necessária, será feita por equipe multiprofissional e interdisciplinar. Atenção ao quando necessária: a banca diz que é sempre obrigatória, e isso está errado. E troca a equipe por perícia médica oficial ou junta médica, também errado.
+FRANCISCA: E o que essa equipe avalia?
+THALITA: Quatro fatores. Primeiro, os impedimentos nas funções e nas estruturas do corpo. Segundo, os fatores socioambientais, psicológicos e pessoais. Terceiro, a limitação no desempenho de atividades. Quarto, a restrição de participação.
+FRANCISCA: Corpo, fatores pessoais e ambientais, atividades e participação. Quatro.
+THALITA: Isso. O instrumento unificado de avaliação, previsto no parágrafo segundo, depende de regulamentação do Executivo, então confira o estágio de implantação vigente na data do edital.
+FRANCISCA: Leis posteriores ampliaram ou explicitaram o conceito. A Lei doze mil setecentos e sessenta e quatro, de dois mil e doze, considera a pessoa com transtorno do espectro autista pessoa com deficiência para todos os efeitos legais. A Lei catorze mil cento e vinte e seis, de dois mil e vinte e um, classifica a visão monocular como deficiência sensorial, do tipo visual.
+THALITA: A Lei catorze mil setecentos e sessenta e oito, de dois mil e vinte e três, define deficiência auditiva, incluindo a perda unilateral total. E a Lei catorze mil seiscentos e vinte e quatro, também de dois mil e vinte e três, instituiu o cordão de fita com girassóis como símbolo de deficiências ocultas.
+FRANCISCA: Girassol para deficiência oculta. Esse eu guardo fácil.
 == SLIDE: Glossário do artigo terceiro, parte um
 * Acessibilidade, desenho universal, tecnologia assistiva
 * Barreiras e comunicação (inclui Libras, Braille, linguagem simples)
 * Adaptação razoável: sem ônus desproporcional e indevido
 * Mobilidade reduzida inclui idoso, gestante, lactante, obeso
-BRUNO: Agora o glossário do artigo terceiro, campeão de incidência. Comece pela acessibilidade: a possibilidade e a condição de alcance, com segurança e autonomia, de espaços, mobiliário, equipamentos urbanos, edificações, transportes, informação, comunicação e demais serviços abertos ao público ou de uso coletivo, na zona urbana ou rural, por pessoa com deficiência ou com mobilidade reduzida.
-THALITA: E o desenho universal?
-FRANCISCA: É a concepção de produtos, ambientes, programas e serviços utilizáveis por todos, sem necessidade de adaptação ou de projeto específico, incluindo recursos de tecnologia assistiva. Já a tecnologia assistiva, ou ajuda técnica, reúne produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que promovem a funcionalidade, visando autonomia, independência, qualidade de vida e inclusão.
-ANTONIO: Barreira é qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social e o exercício de direitos. Comunicação abrange línguas, inclusive Libras, visualização de textos, Braille, comunicação tátil, caracteres ampliados, multimídia, linguagem simples, sistemas auditivos, voz digitalizada e formatos aumentativos e alternativos.
-BRUNO: A banca inverte dois conceitos. Desenho universal dispensa adaptação, e é a regra. Adaptação razoável é o ajuste pontual, necessário e adequado, sem ônus desproporcional e indevido, quando requerido no caso concreto. Só entra quando o desenho universal não basta.
-THALITA: Então o desenho universal vem primeiro, e a adaptação razoável é o remendo, limitado pelo custo desproporcional.
-FRANCISCA: Isso. Também são definidos o elemento de urbanização, como pavimentação, saneamento, energia, iluminação pública e abastecimento de água, e o mobiliário urbano, objetos sobrepostos ou acrescidos aos elementos de urbanização, como semáforos, postes, lixeiras, bancos, quiosques e toldos.
-BRUNO: A pessoa com mobilidade reduzida tem dificuldade de movimentação, permanente ou temporária, e inclui idoso, gestante, lactante, pessoa com criança de colo e obeso, mesmo sem deficiência.
+THALITA: Agora o glossário do artigo terceiro, campeão de incidência. Comece pela acessibilidade: a possibilidade e a condição de alcance, com segurança e autonomia, de espaços, mobiliário, equipamentos urbanos, edificações, transportes, informação, comunicação e demais serviços abertos ao público ou de uso coletivo, na zona urbana ou rural, por pessoa com deficiência ou com mobilidade reduzida.
+FRANCISCA: E o desenho universal?
+THALITA: É a concepção de produtos, ambientes, programas e serviços utilizáveis por todos, sem necessidade de adaptação ou de projeto específico, incluindo recursos de tecnologia assistiva. Já a tecnologia assistiva, ou ajuda técnica, reúne produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que promovem a funcionalidade, visando autonomia, independência, qualidade de vida e inclusão.
+FRANCISCA: Barreira é qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social e o exercício de direitos. Comunicação abrange línguas, inclusive Libras, visualização de textos, Braille, comunicação tátil, caracteres ampliados, multimídia, linguagem simples, sistemas auditivos, voz digitalizada e formatos aumentativos e alternativos.
+THALITA: A banca inverte dois conceitos. Desenho universal dispensa adaptação, e é a regra. Adaptação razoável é o ajuste pontual, necessário e adequado, sem ônus desproporcional e indevido, quando requerido no caso concreto. Só entra quando o desenho universal não basta.
+FRANCISCA: Então o desenho universal vem primeiro, e a adaptação razoável é o remendo, limitado pelo custo desproporcional.
+THALITA: Isso. Também são definidos o elemento de urbanização, como pavimentação, saneamento, energia, iluminação pública e abastecimento de água, e o mobiliário urbano, objetos sobrepostos ou acrescidos aos elementos de urbanização, como semáforos, postes, lixeiras, bancos, quiosques e toldos.
+FRANCISCA: A pessoa com mobilidade reduzida tem dificuldade de movimentação, permanente ou temporária, e inclui idoso, gestante, lactante, pessoa com criança de colo e obeso, mesmo sem deficiência.
 THALITA: Gestante, idoso, lactante, criança de colo e obeso. Anotei a lista.
 == SLIDE: Glossário parte dois e espécies de barreiras
 * Residência inclusiva; moradia para a vida independente
 * Atendente pessoal x acompanhante x profissional de apoio escolar
 * Barreiras: urbanística, arquitetônica, transportes, comunicações, atitudinal, tecnológica
 * Mnemônico U-A-T-C-A-T
-ANTONIO: Continuando o glossário. Residências inclusivas são unidades de acolhimento do SUAS, em áreas residenciais, para jovens e adultos com deficiência em situação de dependência, sem condições de autossustento e com vínculos familiares fragilizados ou rompidos. Moradia para a vida independente é a moradia com serviços de apoio coletivos e individualizados que ampliam a autonomia.
+FRANCISCA: Continuando o glossário. Residências inclusivas são unidades de acolhimento do SUAS, em áreas residenciais, para jovens e adultos com deficiência em situação de dependência, sem condições de autossustento e com vínculos familiares fragilizados ou rompidos. Moradia para a vida independente é a moradia com serviços de apoio coletivos e individualizados que ampliam a autonomia.
 THALITA: E os três profissionais? Atendente, apoio escolar e acompanhante. Confundo todos.
 FRANCISCA: O atendente pessoal é a pessoa, da família ou não, com ou sem remuneração, que presta cuidados básicos e essenciais nas atividades diárias, excluídas técnicas de profissões regulamentadas. O profissional de apoio escolar auxilia o estudante com deficiência em alimentação, higiene, locomoção e atividades escolares, em todos os níveis, em escolas públicas e privadas, também sem técnicas de profissões regulamentadas.
-BRUNO: O acompanhante apenas acompanha a pessoa com deficiência, podendo ou não exercer as funções de atendente pessoal. A pegadinha: o atendente cuida; o acompanhante acompanha, e pode ou não cuidar.
-THALITA: E as barreiras? São quantas?
-ANTONIO: Seis. Urbanística, nas vias e espaços públicos e privados abertos ao público, como a calçada sem rebaixamento. Arquitetônica, nos edifícios, como o fórum só com escadas. Nos transportes, como o ônibus sem elevador. Nas comunicações e na informação, como a audiência sem intérprete de Libras. Atitudinal, em atitudes ou comportamentos, como o gestor que presume a incapacidade do candidato. E tecnológica, no acesso às tecnologias, como o sistema processual incompatível com leitor de tela.
-BRUNO: Mnemônico: U, A, T, C, A, T. Urbanística, arquitetônica, transportes, comunicações, atitudinal, tecnológica. A rua fica fora do prédio: urbanística e arquitetônica.
+THALITA: O acompanhante apenas acompanha a pessoa com deficiência, podendo ou não exercer as funções de atendente pessoal. A pegadinha: o atendente cuida; o acompanhante acompanha, e pode ou não cuidar.
+FRANCISCA: E as barreiras? São quantas?
+THALITA: Seis. Urbanística, nas vias e espaços públicos e privados abertos ao público, como a calçada sem rebaixamento. Arquitetônica, nos edifícios, como o fórum só com escadas. Nos transportes, como o ônibus sem elevador. Nas comunicações e na informação, como a audiência sem intérprete de Libras. Atitudinal, em atitudes ou comportamentos, como o gestor que presume a incapacidade do candidato. E tecnológica, no acesso às tecnologias, como o sistema processual incompatível com leitor de tela.
+FRANCISCA: Mnemônico: U, A, T, C, A, T. Urbanística, arquitetônica, transportes, comunicações, atitudinal, tecnológica. A rua fica fora do prédio: urbanística e arquitetônica.
 THALITA: Rua fora, prédio dentro. Gostei desse macete.
 == SLIDE: Igualdade, não discriminação e atendimento prioritário
 * Discriminação por ação ou omissão, com propósito ou efeito
@@ -59,11 +59,11 @@ THALITA: Rua fora, prédio dentro. Gostei desse macete.
 * Ação afirmativa é direito, não dever (art. 4º, § 2º)
 * Prioridade: não se estende ao acompanhante em restituição de IR e tramitação processual
 FRANCISCA: Passamos à igualdade, artigos quarto a oitavo. Toda pessoa com deficiência tem direito à igualdade de oportunidades e não sofre discriminação de nenhuma espécie. Discriminação é distinção, restrição ou exclusão, por ação ou omissão, com o propósito ou o efeito de prejudicar direitos, e inclui recusar adaptação razoável e tecnologia assistiva.
-BRUNO: Repare: por ação ou omissão, com propósito ou efeito. Não exige intenção. E o artigo quarto, parágrafo segundo, diz que a pessoa com deficiência não está obrigada a fruir de benefícios de ação afirmativa. É direito, não dever. O candidato pode concorrer só na ampla concorrência, sem se inscrever nas vagas reservadas. A banca diz que deverá usar a cota. Errado.
-THALITA: E os artigos cinco a oito?
-ANTONIO: O artigo quinto protege contra negligência, discriminação, exploração, violência, tortura, crueldade, opressão e tratamento desumano, com especial atenção a criança, adolescente, mulher e idoso com deficiência. O sexto afirma que a deficiência não afeta a plena capacidade civil. O sétimo impõe a todos o dever de comunicar ameaça ou violação, e juízes que tomem conhecimento remetem peças ao Ministério Público. O oitavo impõe ao Estado, à sociedade e à família o dever de assegurar, com prioridade, a efetivação dos direitos.
+THALITA: Repare: por ação ou omissão, com propósito ou efeito. Não exige intenção. E o artigo quarto, parágrafo segundo, diz que a pessoa com deficiência não está obrigada a fruir de benefícios de ação afirmativa. É direito, não dever. O candidato pode concorrer só na ampla concorrência, sem se inscrever nas vagas reservadas. A banca diz que deverá usar a cota. Errado.
+FRANCISCA: E os artigos cinco a oito?
+THALITA: O artigo quinto protege contra negligência, discriminação, exploração, violência, tortura, crueldade, opressão e tratamento desumano, com especial atenção a criança, adolescente, mulher e idoso com deficiência. O sexto afirma que a deficiência não afeta a plena capacidade civil. O sétimo impõe a todos o dever de comunicar ameaça ou violação, e juízes que tomem conhecimento remetem peças ao Ministério Público. O oitavo impõe ao Estado, à sociedade e à família o dever de assegurar, com prioridade, a efetivação dos direitos.
 FRANCISCA: Agora o atendimento prioritário do artigo nono. Cobre proteção e socorro, atendimento em serviços ao público, recursos humanos e tecnológicos que garantam igualdade, pontos de parada e terminais acessíveis, acesso a informações e comunicação acessíveis, restituição de imposto de renda e tramitação processual.
-BRUNO: O parágrafo primeiro estende os direitos ao acompanhante ou atendente pessoal, salvo restituição de imposto de renda e tramitação processual. E, nos serviços de emergência, a prioridade obedece aos protocolos de atendimento médico: o paciente mais grave passa à frente, mesmo sem deficiência.
-THALITA: Um exemplo: Carla, cadeirante, ajuíza reclamação trabalhista, e o irmão Bruno, que a acompanha, tem outra ação. Só o processo de Carla tem prioridade, certo?
-FRANCISCA: Exato. Já o de Bruno não, porque a extensão ao acompanhante não alcança a tramitação processual.
-ANTONIO: No próximo tema, vamos aos direitos fundamentais, acessibilidade, informação e acesso à justiça.
+THALITA: O parágrafo primeiro estende os direitos ao acompanhante ou atendente pessoal, salvo restituição de imposto de renda e tramitação processual. E, nos serviços de emergência, a prioridade obedece aos protocolos de atendimento médico: o paciente mais grave passa à frente, mesmo sem deficiência.
+FRANCISCA: Um exemplo: Carla, cadeirante, ajuíza reclamação trabalhista, e o irmão Bruno, que a acompanha, tem outra ação. Só o processo de Carla tem prioridade, certo?
+THALITA: Exato. Já o de Bruno não, porque a extensão ao acompanhante não alcança a tramitação processual.
+FRANCISCA: No próximo tema, vamos aos direitos fundamentais, acessibilidade, informação e acesso à justiça.

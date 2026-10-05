@@ -1,15 +1,16 @@
 name: producao
 
-# Sessoes do Claude Code na nuvem fazem push de roteiros/ (num branch claude/... ou no main).
-# 1) integrar: copia so os roteiros validos do branch para o main
-# 2) render:   gera voz, slides e video das aulas completas e publica no release "aulas"
+# 1) integrar: copia so os roteiros validos de um branch das sessoes na nuvem para o main
+# 2) render:   6 maquinas em paralelo; cada uma gera e publica as suas aulas
+#              (aula N vai para a parte (N-1) % 6)
+# 3) indice:   junta o indice das partes e atualiza o texto do release
 on:
   push:
-    paths: ["roteiros/**"]
+    paths: ["roteiros/**", "estudio/**"]
   workflow_dispatch:
     inputs:
       aula:
-        description: "Refazer so esta aula (ex.: a012). Vazio = todas as prontas"
+        description: "Refazer so esta aula (ex.: a012). Vazio = todas as pendentes"
         required: false
         default: ""
 
@@ -35,9 +36,13 @@ jobs:
     needs: integrar
     if: ${{ always() && (needs.integrar.result == 'success' || needs.integrar.result == 'skipped') }}
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix:
+        parte: [0, 1, 2, 3, 4, 5]
     concurrency:
-      group: render
+      group: render-${{ matrix.parte }}
       cancel-in-progress: false
     steps:
       - uses: actions/checkout@v5
@@ -51,13 +56,35 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg > /dev/null
           pip install -q "edge-tts==7.2.8" pillow
-      - name: Gerar e publicar as aulas prontas
+      - name: Gerar e publicar as aulas desta parte
         env:
           GH_TOKEN: ${{ github.token }}
-          TTS_PARALELO: "6"
+          TTS_PARALELO: "4"
+          PARTE: ${{ matrix.parte }}
+          PARTES: "6"
         run: |
           if [ -n "${{ inputs.aula }}" ]; then
-            python -m estudio.render --aula "${{ inputs.aula }}" --max-minutos 300
+            if [ "${{ matrix.parte }}" = "0" ]; then
+              python -m estudio.render --aula "${{ inputs.aula }}" --max-minutos 320
+            fi
           else
-            python -m estudio.render --max-minutos 300
+            python -m estudio.render --max-minutos 320
           fi
+
+  indice:
+    needs: render
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Juntar o indice e atualizar o release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pip install -q pillow
+          python -m estudio.render --indice

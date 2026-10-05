@@ -20,18 +20,55 @@ import unicodedata
 
 from . import slides as sl
 from . import tts
+from . import questoes as Q
 from .formato import validar
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SAIDA = os.path.join(RAIZ, "saida")
 CACHE = os.path.join(RAIZ, ".cache_tts")
 TAG = "aulas"
-VERSAO = 2          # suba quando mudar o visual: as aulas publicadas antes sao refeitas
+VERSAO = 3          # suba quando mudar o visual: as aulas publicadas antes sao refeitas
 
-PAUSA_FALA = 0.35
-PAUSA_SLIDE = 0.8
-CAPA_S = 3.5
-FIM_S = 4.0
+# Pausas pensadas para quem ouve absorver (referencia medida: sustentacao oral
+# humana, 127 palavras/min e uma pausa a cada ~3 s; aqui, mais calmo ainda).
+PAUSA_FRASE = 1.3        # depois de cada frase
+PAUSA_PERGUNTA = 1.6     # depois de frase com "?"
+PAUSA_FALA = 2.0         # troca de voz
+PAUSA_SLIDE = 3.3        # troca de slide
+PAUSA_PENSAR = 5.0       # quando a fala pede para o aluno pensar
+LEITURA_S = 120          # tempo de leitura de cada questao, como em simulado
+AVISO_LEITURA = "Leia a questão com atenção. Você tem dois minutos."
+CAPA_S = 4.0
+FIM_S = 5.0
+PENSAR = re.compile(r"(pausa para (você )?pensar|pense (um pouco|bem|antes)|tente responder|"
+                    r"antes de (eu )?(responder|dar a resposta|ver o gabarito)|"
+                    r"qual (é|seria) a (resposta|alternativa correta)|o que você (acha|marcaria)|"
+                    r"faça uma pausa|pare e pense)", re.I)
+
+
+def frases(texto):
+    return [f.strip() for f in re.split(r"(?<=[.!?…])\s+", texto) if f.strip()]
+
+
+def trechos(frase):
+    """Frase partida na pontuacao interna (virgula, ponto e virgula, dois-pontos,
+    travessao). Cada trecho e gerado separado e termina no proprio sinal, entao
+    a voz fecha a palavra inteira com entonacao de continuacao; a pausa entra
+    depois, em silencio real (cortar dentro da frase engolia o fim das palavras)."""
+    partes = [p.strip() for p in re.split(r"(?<=[,;:—–])\s+", frase) if p.strip()]
+    # trecho de uma palavra so ("Ora,") fica sozinho; nao ha o que juntar
+    return partes or [frase]
+
+
+def pausa_depois(frase, ultima_da_fala, ultima_do_slide):
+    p = PAUSA_PERGUNTA if frase.rstrip().endswith("?") else PAUSA_FRASE
+    if PENSAR.search(frase):
+        p = max(p, PAUSA_PENSAR)
+    if ultima_do_slide:
+        p = max(p, PAUSA_SLIDE)
+    elif ultima_da_fala:
+        p = max(p, PAUSA_FALA)
+    return p
 
 
 def log(msg):
@@ -57,6 +94,18 @@ def ff(*args):
         raise RuntimeError("ffmpeg: " + r.stderr[-600:])
 
 
+# Volume: nivelador dinamico + compressor + limitador. Resultado medido: cerca
+# de -13 LUFS com picos abaixo de -0,5 dB (as aulas antigas estavam em -16,6).
+# Mais alto que isso exige compressao que abafa a voz e estoura picos (chiado).
+CADEIA_VOLUME = ("dynaudnorm=f=200:g=15:p=0.95:m=30:t=0.001,"
+                 "acompressor=threshold=-22dB:ratio=4:attack=2:release=80:makeup=6,"
+                 "alimiter=limit=0.60:attack=1:release=40:level=0")
+
+
+def normalizar(bruto, destino):
+    ff("-i", bruto, "-af", CADEIA_VOLUME, "-ar", "44100", "-ac", "1", destino)
+
+
 # ---------------------------------------------------------------- publicacao
 def gh(*args, ok=False):
     r = subprocess.run(["gh"] + list(args), capture_output=True, text=True)
@@ -71,26 +120,48 @@ def release_garantido():
            "--notes", "Gerando... o índice aparece aqui conforme as aulas ficam prontas.")
 
 
+PARTE = int(os.environ.get("PARTE", "0"))      # trabalho dividido entre maquinas
+PARTES = int(os.environ.get("PARTES", "1"))
+
+
 def indice_publicado():
+    """Junta todos os indices do release (o geral e o de cada parte); para cada
+    aula vale a entrada de versao mais nova."""
     tmp = tempfile.mkdtemp()
-    r = gh("release", "download", TAG, "-p", "indice.json", "-D", tmp, ok=True)
-    arq = os.path.join(tmp, "indice.json")
-    if r.returncode or not os.path.exists(arq):
-        return {}
-    with open(arq, encoding="utf-8") as f:
-        return json.load(f)
+    gh("release", "download", TAG, "-p", "indice*.json", "-D", tmp, ok=True)
+    junto = {}
+    for nome in sorted(os.listdir(tmp)):
+        with open(os.path.join(tmp, nome), encoding="utf-8") as f:
+            for k, v in json.load(f).items():
+                if v.get("versao", 1) >= junto.get(k, {}).get("versao", 0):
+                    junto[k] = v
+    return junto
 
 
-def publicar(arquivos, indice, plano):
+def publicar(arquivos, meu_indice):
+    """Sobe os arquivos da aula e o indice desta parte (cada maquina escreve so
+    o seu, para nao pisar no das outras)."""
     gh("release", "upload", TAG, "--clobber", *arquivos)
+    arq = os.path.join(SAIDA, "indice_parte_%d.json" % PARTE)
+    with open(arq, "w", encoding="utf-8") as f:
+        json.dump(meu_indice, f, ensure_ascii=False, indent=1)
+    gh("release", "upload", TAG, "--clobber", arq)
+
+
+def atualizar_indice_geral(plano):
+    """Junta os indices das partes, publica indice.json e o texto do release."""
+    release_garantido()
+    indice = indice_publicado()
+    os.makedirs(SAIDA, exist_ok=True)
     arq = os.path.join(SAIDA, "indice.json")
     with open(arq, "w", encoding="utf-8") as f:
         json.dump(indice, f, ensure_ascii=False, indent=1)
     notas = os.path.join(SAIDA, "notas.md")
     with open(notas, "w", encoding="utf-8") as f:
-        f.write(texto_indice(indice, plano))
+        f.write(texto_indice({k: v for k, v in indice.items() if v.get("versao", 1) >= VERSAO}, plano))
     gh("release", "upload", TAG, "--clobber", arq)
     gh("release", "edit", TAG, "--notes-file", notas)
+    log("indice geral: %d aulas na versao atual" % sum(1 for v in indice.values() if v.get("versao", 1) >= VERSAO))
 
 
 def texto_indice(indice, plano):
@@ -155,9 +226,9 @@ def montar(aula, rots, plano, destino_dir):
     os.makedirs(tmp, exist_ok=True)
     os.makedirs(destino_dir, exist_ok=True)
 
-    falas = [(v, t) for r in rots for s in r["slides"] for v, t in s["falas"]]
-    log("%s: %d slides, %d falas -> voz" % (aula["id"], sum(len(r["slides"]) for r in rots), len(falas)))
-    wavs = iter(tts.sintetizar(falas, CACHE))
+    pedacos = [(v, f) for r in rots for s in r["slides"] for v, t in s["falas"] for f in frases(t)]
+    log("%s: %d slides, %d frases -> voz" % (aula["id"], sum(len(r["slides"]) for r in rots), len(pedacos)))
+    wavs = iter(tts.sintetizar(pedacos, CACHE))
 
     aulas = plano["aulas"]
     prox = aulas[aula["numero"]] if aula["numero"] < len(aulas) else None
@@ -169,29 +240,85 @@ def montar(aula, rots, plano, destino_dir):
     linha = [(capa, CAPA_S)]
     eventos, t, n = [], CAPA_S, 0
     imagens = {}
+    segs = {x["id"]: x for x in plano["segmentos"]}
+    pool = {}                                   # questoes da aula inteira (reserva)
+    for sid in aula["segmentos"]:
+        for num, q in Q.ler(segs[sid]["fonte"]).items():
+            pool.setdefault(num, q)
+    telas_q = {}
+
+    def tela_questao(sid, num):
+        """imagens da questao num (texto integral), ou None se nao achar."""
+        q = Q.ler(segs[sid]["fonte"]).get(num) or pool.get(num)
+        if not q:
+            return None
+        if (sid, num) not in telas_q:
+            telas_q[(sid, num)] = sl.questao(os.path.join(tmp, "q_%s_%02d" % (sid, num)),
+                                             aula["disciplina"], aula["numero"], num, q)
+        return telas_q[(sid, num)]
+
+    aviso_wav = tts.sintetizar([("FRANCISCA", AVISO_LEITURA)], CACHE)[0]
+    lidas = set()
+
+    def bloco_de_leitura(sid, num):
+        """aviso falado + 2 min com a questao na tela e cronometro + bipe."""
+        nonlocal t
+        tela = tela_questao(sid, num)[0]
+        aviso = tts.ler_frase(aviso_wav, AVISO_LEITURA)
+        dur = len(aviso) / 2 / tts.TAXA
+        pcm.extend([aviso, tts.silencio(0.8)])
+        linha.append((tela, dur + 0.8))
+        eventos.append((t, t + dur, "FRANCISCA", AVISO_LEITURA))
+        t += dur + 0.8
+        for seg in range(LEITURA_S, 0, -1):
+            img = sl.com_cronometro(tela, os.path.join(tmp, "q_%s_%02d_t%03d.png" % (sid, num, seg)), seg, LEITURA_S)
+            linha.append((img, 1.0))
+        pcm.append(tts.silencio(LEITURA_S))
+        eventos.append((t, t + 3.0, "", "Tempo de leitura: dois minutos."))
+        t += LEITURA_S
+        bip = tts.bipe()
+        pcm.extend([bip, tts.silencio(1.2)])
+        linha.append((tela, len(bip) / 2 / tts.TAXA + 1.2))
+        t += len(bip) / 2 / tts.TAXA + 1.2
+
     for r in rots:
+        sid = r["segmento"]
         for s in r["slides"]:
             n += 1
+            imagens[n] = sl.slide(os.path.join(tmp, "s%03d.png" % n), aula["disciplina"], aula["numero"],
+                                  s["titulo"], s["topicos"], n, total_slides)
+            nums = [x for x in Q.numeros_do_titulo(s["titulo"]) if tela_questao(sid, x)]
+            atual = nums[0] if nums else None
             for k, (voz, texto) in enumerate(s["falas"]):
-                chave = n
-                if chave not in imagens:
-                    imagens[chave] = sl.slide(os.path.join(tmp, "s%03d.png" % n),
-                                              aula["disciplina"], aula["numero"], s["titulo"],
-                                              s["topicos"], n, total_slides)
-                audio = tts.ler_pcm(next(wavs))
-                pausa = PAUSA_SLIDE if k == len(s["falas"]) - 1 else PAUSA_FALA
-                dur = len(audio) / 2 / tts.TAXA
-                pcm += [audio, tts.silencio(pausa)]
-                linha.append((imagens[chave], dur + pausa))
-                eventos.append((t, t + dur, voz, texto))
-                t += dur + pausa
+                citada = Q.numero_citado(texto)
+                if nums and citada and tela_questao(sid, citada):
+                    atual = citada
+                tela = imagens[n]
+                if atual and (sid, atual) not in lidas:
+                    lidas.add((sid, atual))
+                    bloco_de_leitura(sid, atual)
+                if atual:
+                    paginas = tela_questao(sid, atual)
+                    tela = paginas[1] if len(paginas) > 1 and re.search(r"alternativa|letra [a-e]\b", texto, re.I) else paginas[0]
+                fs = frases(texto)
+                for j, fr in enumerate(fs):
+                    # frase inteira: so assim a voz mantem a entonacao de continuacao
+                    # na virgula (gerada em pedacos, ela baixa o tom em cada virgula)
+                    audio = tts.ler_frase(next(wavs), fr)
+                    ult_fala = j == len(fs) - 1
+                    pausa = pausa_depois(fr, ult_fala, ult_fala and k == len(s["falas"]) - 1)
+                    dur = len(audio) / 2 / tts.TAXA
+                    pcm += [audio, tts.silencio(pausa)]
+                    linha.append((tela, dur + pausa))
+                    eventos.append((t, t + dur, voz, fr))
+                    t += dur + pausa
     pcm.append(tts.silencio(FIM_S))
     linha.append((fim, FIM_S))
 
     bruto = os.path.join(tmp, "bruto.wav")
     tts.gravar_wav(b"".join(pcm), bruto)
     norm = os.path.join(tmp, "norm.wav")
-    ff("-i", bruto, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "1", norm)
+    normalizar(bruto, norm)
 
     lista = os.path.join(tmp, "imagens.txt")
     with open(lista, "w", encoding="utf-8") as f:
@@ -206,8 +333,8 @@ def montar(aula, rots, plano, destino_dir):
     ff("-f", "concat", "-safe", "0", "-i", lista, "-i", norm,
        "-c:v", "libx264", "-preset", "veryfast", "-tune", "stillimage", "-crf", "27",
        "-r", "4", "-g", "480", "-pix_fmt", "yuv420p",
-       "-c:a", "aac", "-b:a", "80k", "-movflags", "+faststart", "-shortest", mp4)
-    ff("-i", norm, "-c:a", "libmp3lame", "-b:a", "64k", "-ac", "1", mp3)
+       "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", "-shortest", mp4)
+    ff("-i", norm, "-c:a", "libmp3lame", "-b:a", "96k", "-ac", "1", mp3)
     _srt(eventos, srt)
     shutil.rmtree(tmp, ignore_errors=True)
     return [mp4, mp3, srt], (t + FIM_S) / 60
@@ -218,6 +345,7 @@ def main():
     ap.add_argument("--aula")
     ap.add_argument("--local", action="store_true")
     ap.add_argument("--max-minutos", type=float, default=300)
+    ap.add_argument("--indice", action="store_true", help="so junta os indices e atualiza o release")
     a = ap.parse_args()
     inicio = time.time()
 
@@ -225,16 +353,25 @@ def main():
         plano = json.load(f)
     segs = {s["id"]: s for s in plano["segmentos"]}
 
+    if a.indice:
+        atualizar_indice_geral(plano)
+        return
+
+    meu_indice = {}
     if a.local:
         arq = os.path.join(SAIDA, "indice.json")
         indice = json.load(open(arq, encoding="utf-8")) if os.path.exists(arq) else {}
     else:
         release_garantido()
         indice = indice_publicado()
+        da_parte = {x["id"] for x in plano["aulas"] if (x["numero"] - 1) % PARTES == PARTE}
+        meu_indice = {k: v for k, v in indice.items() if k in da_parte}
 
     feitas, pendencias = 0, []
     for aula in plano["aulas"]:
         if a.aula and aula["id"] != a.aula:
+            continue
+        if not a.aula and (aula["numero"] - 1) % PARTES != PARTE:
             continue
         if indice.get(aula["id"], {}).get("versao", 1) >= VERSAO and not a.aula:
             continue
@@ -254,11 +391,12 @@ def main():
             continue
         indice[aula["id"]] = {"arquivo": os.path.basename(arquivos[0]), "minutos": round(minutos, 1),
                               "versao": VERSAO}
+        meu_indice[aula["id"]] = indice[aula["id"]]
         if a.local:
             with open(os.path.join(SAIDA, "indice.json"), "w", encoding="utf-8") as f:
                 json.dump(indice, f, ensure_ascii=False, indent=1)
         else:
-            publicar(arquivos, indice, plano)
+            publicar(arquivos, meu_indice)
             for x in arquivos:
                 os.remove(x)
         feitas += 1

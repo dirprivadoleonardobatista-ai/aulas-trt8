@@ -4,101 +4,101 @@ SEGMENTO s086
 * Dever de eficiência: art. 37, caput (EC 19/1998)
 * Dever de probidade: art. 37, § 4º; Lei 8.429/1992
 * Dever de prestar contas: art. 70, parágrafo único
-ANTONIO: Vimos os poderes administrativos. Agora a outra face da moeda: os deveres do administrador, o uso e o abuso do poder e a nova Lei de Abuso de Autoridade. Lembra que poder administrativo é poder-dever? Então esses deveres decorrem daí.
+FRANCISCA: Vimos os poderes administrativos. Agora a outra face da moeda: os deveres do administrador, o uso e o abuso do poder e a nova Lei de Abuso de Autoridade. Lembra que poder administrativo é poder-dever? Então esses deveres decorrem daí.
 THALITA: Quais são os deveres clássicos?
 FRANCISCA: Na lição de Hely Lopes Meirelles, são quatro: agir, eficiência, probidade e prestar contas.
-ANTONIO: Dever de agir: o poder é irrenunciável. Havendo situação que exija atuação, o agente deve agir.
-BRUNO: A omissão pode configurar abuso de poder, ensejar mandado de segurança, responsabilidade civil do Estado e infração funcional.
+THALITA: Dever de agir: o poder é irrenunciável. Havendo situação que exija atuação, o agente deve agir.
+FRANCISCA: A omissão pode configurar abuso de poder, ensejar mandado de segurança, responsabilidade civil do Estado e infração funcional.
 THALITA: Então não agir também é errado, não só agir demais.
 FRANCISCA: Isso. Dever de eficiência: atuar com rapidez, perfeição e rendimento. Está no artigo trinta e sete, caput, com a redação da Emenda Constitucional dezenove, de mil novecentos e noventa e oito, e leva à avaliação de desempenho.
-ANTONIO: Dever de probidade: atuar com honestidade e lealdade à instituição. A base é o artigo trinta e sete, parágrafo quarto, e a Lei oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois.
+THALITA: Dever de probidade: atuar com honestidade e lealdade à instituição. A base é o artigo trinta e sete, parágrafo quarto, e a Lei oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois.
 FRANCISCA: As consequências são suspensão dos direitos políticos, perda da função, indisponibilidade de bens e ressarcimento.
-BRUNO: Dever de prestar contas: quem gere dinheiro, bens ou valores públicos deve demonstrar a regularidade da gestão. O artigo setenta, parágrafo único, alcança qualquer pessoa física ou jurídica, pública ou privada.
-THALITA: Macete: agir, eficiência, probidade e contas. Quatro deveres.
+THALITA: Dever de prestar contas: quem gere dinheiro, bens ou valores públicos deve demonstrar a regularidade da gestão. O artigo setenta, parágrafo único, alcança qualquer pessoa física ou jurídica, pública ou privada.
+FRANCISCA: Macete: agir, eficiência, probidade e contas. Quatro deveres.
 == SLIDE: Uso e abuso: excesso, desvio e omissão
 * Abuso de poder é o gênero; excesso e desvio são as espécies
 * Excesso: vício de competência; convalidável se não for exclusiva
 * Desvio: vício de finalidade; não admite convalidação
 * Omissão: dever de decidir em 30 dias (Lei 9.784, arts. 48 e 49)
-ANTONIO: O uso do poder é regular quando o agente atua nos limites da competência, para o fim previsto em lei e na forma adequada. O abuso ocorre quando a autoridade, embora competente para algum ato, ultrapassa os limites das atribuições ou se afasta do interesse público.
-THALITA: Então abuso é um gênero?
-FRANCISCA: É. Abuso de poder é gênero, e tem duas espécies: excesso de poder e desvio de poder, também chamado desvio de finalidade. Pode ser comissivo ou omissivo.
-BRUNO: Excesso de poder é vício de competência: o agente vai além do que a lei permite. Desvio de poder é vício de finalidade: ele atua dentro da competência, mas com fim diverso do previsto em lei, explícita ou implicitamente.
+THALITA: O uso do poder é regular quando o agente atua nos limites da competência, para o fim previsto em lei e na forma adequada. O abuso ocorre quando a autoridade, embora competente para algum ato, ultrapassa os limites das atribuições ou se afasta do interesse público.
+FRANCISCA: Então abuso é um gênero?
+THALITA: É. Abuso de poder é gênero, e tem duas espécies: excesso de poder e desvio de poder, também chamado desvio de finalidade. Pode ser comissivo ou omissivo.
+FRANCISCA: Excesso de poder é vício de competência: o agente vai além do que a lei permite. Desvio de poder é vício de finalidade: ele atua dentro da competência, mas com fim diverso do previsto em lei, explícita ou implicitamente.
 THALITA: Excesso, competência; desvio, finalidade. Parece fácil, mas a banca embaralha.
-ANTONIO: Exemplo de excesso: um chefe de seção que aplica pena de demissão, reservada ao Presidente do Tribunal. Exemplo de desvio: remover servidor de ofício para puni-lo por desafeto pessoal.
-FRANCISCA: E a omissão: a autoridade que não decide requerimento no prazo legal. Pela Lei nove mil setecentos e oitenta e quatro, artigos quarenta e oito e quarenta e nove, há o dever de decidir em trinta dias, prorrogáveis por mais trinta, motivadamente.
-BRUNO: A base legal está na Lei da Ação Popular, quatro mil setecentos e dezessete, de mil novecentos e sessenta e cinco, artigo segundo, parágrafo único: alínea a para incompetência, alínea e para desvio de finalidade.
+FRANCISCA: Exemplo de excesso: um chefe de seção que aplica pena de demissão, reservada ao Presidente do Tribunal. Exemplo de desvio: remover servidor de ofício para puni-lo por desafeto pessoal.
+THALITA: E a omissão: a autoridade que não decide requerimento no prazo legal. Pela Lei nove mil setecentos e oitenta e quatro, artigos quarenta e oito e quarenta e nove, há o dever de decidir em trinta dias, prorrogáveis por mais trinta, motivadamente.
+FRANCISCA: A base legal está na Lei da Ação Popular, quatro mil setecentos e dezessete, de mil novecentos e sessenta e cinco, artigo segundo, parágrafo único: alínea a para incompetência, alínea e para desvio de finalidade.
 THALITA: E dá para convalidar o vício?
-ANTONIO: O excesso de poder, vício de competência, pode ser convalidado se a competência não for exclusiva. O desvio de finalidade não admite convalidação.
+FRANCISCA: O excesso de poder, vício de competência, pode ser convalidado se a competência não for exclusiva. O desvio de finalidade não admite convalidação.
 THALITA: Macete: competência se convalida, finalidade não.
 == SLIDE: Pegadinhas e exemplo: Carla e o Diretor de Secretaria
 * Excesso é vício de competência, não de finalidade
 * Abuso também ocorre por omissão
 * Desvio de finalidade prova-se por indícios
 * Retaliação dentro da competência: desvio; penalidade fora da alçada: excesso
-BRUNO: A FCC adora trocar os conceitos. Dizer que excesso de poder ocorre quando o agente atua visando fim diverso do interesse público: errado, isso é desvio.
+FRANCISCA: A FCC adora trocar os conceitos. Dizer que excesso de poder ocorre quando o agente atua visando fim diverso do interesse público: errado, isso é desvio.
 THALITA: Outra armadilha: dizer que abuso de poder só ocorre por conduta comissiva.
 FRANCISCA: Errado, admite a forma omissiva. E o desvio de finalidade é de difícil prova: demonstra-se por indícios, como motivação incoerente, perseguição e o momento do ato.
-ANTONIO: Vamos a um caso concreto. O Diretor de Secretaria de uma Vara do Trabalho, competente para distribuir tarefas, determina que a servidora Carla trabalhe isolada numa sala sem estrutura, porque ela denunciou irregularidades.
-THALITA: Ele tem competência para distribuir tarefas, então está tudo certo?
-FRANCISCA: Há competência formal, mas a finalidade é retaliatória. É desvio de poder.
-BRUNO: E se o mesmo Diretor tivesse determinado a suspensão de Carla, penalidade que não está na alçada dele? Aí seria excesso de poder.
+THALITA: Vamos a um caso concreto. O Diretor de Secretaria de uma Vara do Trabalho, competente para distribuir tarefas, determina que a servidora Carla trabalhe isolada numa sala sem estrutura, porque ela denunciou irregularidades.
+FRANCISCA: Ele tem competência para distribuir tarefas, então está tudo certo?
+THALITA: Há competência formal, mas a finalidade é retaliatória. É desvio de poder.
+FRANCISCA: E se o mesmo Diretor tivesse determinado a suspensão de Carla, penalidade que não está na alçada dele? Aí seria excesso de poder.
 THALITA: Entendi: dentro da competência, mas com fim errado, é desvio; fora da competência, é excesso.
-ANTONIO: Perfeito. O mesmo agente, duas hipóteses diferentes, e a pergunta da prova é exatamente essa: qual elemento do ato está viciado.
-FRANCISCA: E lembre da omissão: se a autoridade deixa de decidir o requerimento no prazo legal, há abuso por omissão, e cabe mandado de segurança.
-THALITA: Macete: excesso, fora da competência; desvio, fora da finalidade.
+FRANCISCA: Perfeito. O mesmo agente, duas hipóteses diferentes, e a pergunta da prova é exatamente essa: qual elemento do ato está viciado.
+THALITA: E lembre da omissão: se a autoridade deixa de decidir o requerimento no prazo legal, há abuso por omissão, e cabe mandado de segurança.
+FRANCISCA: Macete: excesso, fora da competência; desvio, fora da finalidade.
 == SLIDE: Lei 13.869/2019: sujeitos, dolo e crime de hermenêutica
 * Revogou a Lei 4.898/1965; agente público no exercício ou a pretexto
 * Sujeito ativo: qualquer agente público, de qualquer Poder e ente
 * Particular responde como coautor ou partícipe se souber da condição
 * Dolo específico: prejudicar, beneficiar ou capricho (art. 1º, § 1º)
 * Divergência de interpretação não é crime (art. 1º, § 2º)
-ANTONIO: Lei treze mil oitocentos e sessenta e nove, de dois mil e dezenove, a nova Lei de Abuso de Autoridade. Revogou a antiga Lei quatro mil oitocentos e noventa e oito, de mil novecentos e sessenta e cinco, e tipificou crimes praticados por agente público, servidor ou não, que, no exercício das funções ou a pretexto de exercê-las, abuse do poder que lhe foi atribuído. É o artigo primeiro.
-THALITA: Quem pode ser sujeito ativo? Só servidor?
-FRANCISCA: Qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional, de qualquer Poder e de qualquer ente federado. Inclui servidores e militares, membros do Legislativo, do Executivo, do Judiciário, do Ministério Público e dos tribunais ou conselhos de contas. É o artigo segundo.
-BRUNO: O conceito é amplo: exerce, ainda que transitoriamente ou sem remuneração, mandato, cargo, emprego ou função, por qualquer forma de investidura ou vínculo.
+THALITA: Lei treze mil oitocentos e sessenta e nove, de dois mil e dezenove, a nova Lei de Abuso de Autoridade. Revogou a antiga Lei quatro mil oitocentos e noventa e oito, de mil novecentos e sessenta e cinco, e tipificou crimes praticados por agente público, servidor ou não, que, no exercício das funções ou a pretexto de exercê-las, abuse do poder que lhe foi atribuído. É o artigo primeiro.
+FRANCISCA: Quem pode ser sujeito ativo? Só servidor?
+THALITA: Qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional, de qualquer Poder e de qualquer ente federado. Inclui servidores e militares, membros do Legislativo, do Executivo, do Judiciário, do Ministério Público e dos tribunais ou conselhos de contas. É o artigo segundo.
+FRANCISCA: O conceito é amplo: exerce, ainda que transitoriamente ou sem remuneração, mandato, cargo, emprego ou função, por qualquer forma de investidura ou vínculo.
 THALITA: E o particular, pode responder?
-ANTONIO: Pode, como coautor ou partícipe, se conhecer a condição de agente público do autor. É a comunicabilidade da elementar, artigo trinta do Código Penal.
-FRANCISCA: O sujeito passivo é duplo: o Estado, de forma imediata, e a pessoa física ou jurídica atingida.
-BRUNO: Elemento subjetivo: todos os crimes são dolosos, com finalidade específica, artigo primeiro, parágrafo primeiro. O agente deve atuar para prejudicar outrem, para beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal. Não existe forma culposa.
+FRANCISCA: Pode, como coautor ou partícipe, se conhecer a condição de agente público do autor. É a comunicabilidade da elementar, artigo trinta do Código Penal.
+THALITA: O sujeito passivo é duplo: o Estado, de forma imediata, e a pessoa física ou jurídica atingida.
+FRANCISCA: Elemento subjetivo: todos os crimes são dolosos, com finalidade específica, artigo primeiro, parágrafo primeiro. O agente deve atuar para prejudicar outrem, para beneficiar a si mesmo ou a terceiro, ou por mero capricho ou satisfação pessoal. Não existe forma culposa.
 THALITA: Se o juiz errar sem querer, não é crime?
-ANTONIO: Não. E há ainda o parágrafo segundo: a divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade.
-FRANCISCA: É a vedação ao crime de hermenêutica. Juízes, membros do Ministério Público, delegados e servidores que interpretam a norma ou valoram a prova de modo diferente de outra instância não cometem crime por isso. Só há abuso com o dolo específico.
-THALITA: Macete: dolo específico, ou seja, prejudicar, beneficiar ou capricho.
+FRANCISCA: Não. E há ainda o parágrafo segundo: a divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade.
+THALITA: É a vedação ao crime de hermenêutica. Juízes, membros do Ministério Público, delegados e servidores que interpretam a norma ou valoram a prova de modo diferente de outra instância não cometem crime por isso. Só há abuso com o dolo específico.
+FRANCISCA: Macete: dolo específico, ou seja, prejudicar, beneficiar ou capricho.
 == SLIDE: Ação penal e efeitos da condenação
 * Ação penal pública incondicionada (art. 3º); subsidiária em 6 meses
 * Indenizar; inabilitação de 1 a 5 anos; perda do cargo
 * Inabilitação e perda: só com reincidência e declaração motivada
 * Penas restritivas: serviços; suspensão de 1 a 6 meses
 * Instâncias: coisa julgada nas excludentes (arts. 6º a 8º)
-ANTONIO: Ação penal: pública incondicionada, artigo terceiro. Não depende de representação do ofendido.
+THALITA: Ação penal: pública incondicionada, artigo terceiro. Não depende de representação do ofendido.
 FRANCISCA: Cabe ação penal privada subsidiária se o Ministério Público não oferecer denúncia no prazo legal. O Ministério Público pode aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir, produzir prova, recorrer e retomar a ação se o querelante for negligente.
 THALITA: E qual o prazo do particular?
-BRUNO: Seis meses, contados do fim do prazo para o oferecimento da denúncia, artigo terceiro, parágrafo segundo.
-ANTONIO: Efeitos da condenação, artigo quarto. Primeiro, torna certa a obrigação de indenizar; a requerimento do ofendido, o juiz fixa valor mínimo de reparação.
+FRANCISCA: Seis meses, contados do fim do prazo para o oferecimento da denúncia, artigo terceiro, parágrafo segundo.
+THALITA: Efeitos da condenação, artigo quarto. Primeiro, torna certa a obrigação de indenizar; a requerimento do ofendido, o juiz fixa valor mínimo de reparação.
 FRANCISCA: Segundo, inabilitação para cargo, mandato ou função pública, de um a cinco anos. Terceiro, perda do cargo, mandato ou função pública.
 THALITA: Esses dois são automáticos, né?
-BRUNO: Pegadinha clássica! Não são. Dependem de reincidência em crime de abuso de autoridade e devem ser declarados motivadamente na sentença. É o parágrafo único do artigo quarto.
-ANTONIO: Penas restritivas substitutivas, artigo quinto: prestação de serviços à comunidade ou a entidades públicas, e suspensão do exercício do cargo, função ou mandato por um a seis meses, com perda de vencimentos e vantagens. Podem ser aplicadas de forma autônoma ou cumulativa.
+FRANCISCA: Pegadinha clássica! Não são. Dependem de reincidência em crime de abuso de autoridade e devem ser declarados motivadamente na sentença. É o parágrafo único do artigo quarto.
+THALITA: Penas restritivas substitutivas, artigo quinto: prestação de serviços à comunidade ou a entidades públicas, e suspensão do exercício do cargo, função ou mandato por um a seis meses, com perda de vencimentos e vantagens. Podem ser aplicadas de forma autônoma ou cumulativa.
 FRANCISCA: Independência das instâncias, artigos sexto e sétimo: as penas não excluem sanções civis e administrativas, e, decidida no crime a existência do fato ou a autoria, não se discute mais nas outras esferas.
-BRUNO: Artigo oitavo: a sentença penal que reconhece estado de necessidade, legítima defesa, estrito cumprimento do dever legal ou exercício regular de direito faz coisa julgada no cível e no administrativo-disciplinar.
-THALITA: E o procedimento?
-ANTONIO: Aplicam-se o Código de Processo Penal e, no que couber, a Lei nove mil e noventa e nove, de mil novecentos e noventa e cinco, artigo trinta e nove.
+THALITA: Artigo oitavo: a sentença penal que reconhece estado de necessidade, legítima defesa, estrito cumprimento do dever legal ou exercício regular de direito faz coisa julgada no cível e no administrativo-disciplinar.
+FRANCISCA: E o procedimento?
+THALITA: Aplicam-se o Código de Processo Penal e, no que couber, a Lei nove mil e noventa e nove, de mil novecentos e noventa e cinco, artigo trinta e nove.
 == SLIDE: Pegadinhas de alta incidência na Lei 13.869/2019
 * Perda do cargo não é automática: reincidência e motivação
 * Ação penal: incondicionada, nunca condicionada à representação
 * Inabilitação: 1 a 5 anos; suspensão: 1 a 6 meses
 * Interpretação minoritária não é crime; só forma dolosa
-BRUNO: Vamos às pegadinhas de alta incidência. Primeira: a perda do cargo é efeito automático da condenação. Errado: exige reincidência específica e declaração motivada.
+FRANCISCA: Vamos às pegadinhas de alta incidência. Primeira: a perda do cargo é efeito automático da condenação. Errado: exige reincidência específica e declaração motivada.
 THALITA: Segunda: a ação penal é pública condicionada à representação do ofendido.
 FRANCISCA: Errado: é incondicionada, artigo terceiro.
-ANTONIO: Terceira: a inabilitação dura de dois a oito anos. Errado: é de um a cinco anos.
-THALITA: Quarta: a suspensão do cargo, como pena restritiva, vai de um a doze meses. Errado: de um a seis meses, com perda de vencimentos. Estou pegando o jeito.
-BRUNO: Quinta: há crime quando o juiz adota interpretação minoritária da lei. Errado, por causa do parágrafo segundo do artigo primeiro.
+THALITA: Terceira: a inabilitação dura de dois a oito anos. Errado: é de um a cinco anos.
+FRANCISCA: Quarta: a suspensão do cargo, como pena restritiva, vai de um a doze meses. Errado: de um a seis meses, com perda de vencimentos. Estou pegando o jeito.
+THALITA: Quinta: há crime quando o juiz adota interpretação minoritária da lei. Errado, por causa do parágrafo segundo do artigo primeiro.
 FRANCISCA: Sexta: admite-se a forma culposa. Errado: só a dolosa, com finalidade específica.
-ANTONIO: Vale reunir os números: inabilitação, de um a cinco anos; suspensão, de um a seis meses; ação subsidiária, seis meses.
-THALITA: E a ação penal sempre pública incondicionada. Cinco, seis e incondicionada.
-BRUNO: Mais uma dica: trate cada alternativa como um teste de qual número ou condição a banca trocou. Nessa lei, é quase sempre um prazo, uma pena ou a condição da ação penal.
+THALITA: Vale reunir os números: inabilitação, de um a cinco anos; suspensão, de um a seis meses; ação subsidiária, seis meses.
+FRANCISCA: E a ação penal sempre pública incondicionada. Cinco, seis e incondicionada.
+THALITA: Mais uma dica: trate cada alternativa como um teste de qual número ou condição a banca trocou. Nessa lei, é quase sempre um prazo, uma pena ou a condição da ação penal.
 FRANCISCA: E lembre da independência das instâncias: a condenação criminal não impede sanções civis e administrativas, e a decisão penal sobre o fato ou a autoria vincula as outras esferas.
 THALITA: Fechei: reincidência para perder o cargo, incondicionada, um a cinco anos, um a seis meses.
 == SLIDE: Principais tipos penais, primeira parte
@@ -107,38 +107,38 @@ THALITA: Fechei: reincidência para perder o cargo, incondicionada, um a cinco a
 * Art. 12: não comunicar flagrante; nota de culpa em 24 horas
 * Art. 13: constranger preso; art. 15-A: violência institucional
 * Art. 16: não se identificar ao preso
-ANTONIO: Principais tipos penais, em paráfrase. Artigo nono: decretar privação de liberdade em manifesta desconformidade com as hipóteses legais, ou deixar, em prazo razoável, de relaxar prisão manifestamente ilegal, de substituí-la por medida cautelar ou liberdade provisória, ou de deferir habeas corpus cabível. Detenção de um a quatro anos, e multa.
+FRANCISCA: Principais tipos penais, em paráfrase. Artigo nono: decretar privação de liberdade em manifesta desconformidade com as hipóteses legais, ou deixar, em prazo razoável, de relaxar prisão manifestamente ilegal, de substituí-la por medida cautelar ou liberdade provisória, ou de deferir habeas corpus cabível. Detenção de um a quatro anos, e multa.
 THALITA: Esse é para qualquer agente?
 FRANCISCA: A apostila destaca o artigo nono como crime da autoridade judiciária. Guarde assim para a prova.
-BRUNO: Artigo dez: decretar condução coercitiva de testemunha ou investigado manifestamente descabida, ou sem prévia intimação para comparecimento. Detenção de um a quatro anos, e multa.
+THALITA: Artigo dez: decretar condução coercitiva de testemunha ou investigado manifestamente descabida, ou sem prévia intimação para comparecimento. Detenção de um a quatro anos, e multa.
 FRANCISCA: Artigo doze: deixar injustificadamente de comunicar prisão em flagrante ao juiz no prazo legal. Incluem-se figuras equiparadas: não comunicar a família, não entregar a nota de culpa em vinte e quatro horas e prolongar a prisão sem cumprir alvará. Detenção de seis meses a dois anos, e multa.
 THALITA: Nota de culpa em vinte e quatro horas. Guardei.
-ANTONIO: Artigo treze: constranger preso, com violência, grave ameaça ou redução da capacidade de resistência, a exibir-se à curiosidade pública, a submeter-se a situação vexatória ou a produzir prova contra si ou contra terceiro. Detenção de um a quatro anos, e multa, sem prejuízo da pena da violência.
-BRUNO: Artigo quinze-A, incluído pela Lei catorze mil trezentos e vinte e um, de dois mil e vinte e dois: violência institucional. Submeter vítima ou testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos que a façam reviver a violência. Detenção de três meses a um ano, e multa.
-THALITA: Esse é o mais novo da lista, de dois mil e vinte e dois.
-FRANCISCA: Artigo dezesseis: deixar de identificar-se, ou identificar-se falsamente, ao preso por ocasião da captura ou em interrogatório. Detenção de seis meses a dois anos, e multa.
+FRANCISCA: Artigo treze: constranger preso, com violência, grave ameaça ou redução da capacidade de resistência, a exibir-se à curiosidade pública, a submeter-se a situação vexatória ou a produzir prova contra si ou contra terceiro. Detenção de um a quatro anos, e multa, sem prejuízo da pena da violência.
+THALITA: Artigo quinze-A, incluído pela Lei catorze mil trezentos e vinte e um, de dois mil e vinte e dois: violência institucional. Submeter vítima ou testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos que a façam reviver a violência. Detenção de três meses a um ano, e multa.
+FRANCISCA: Esse é o mais novo da lista, de dois mil e vinte e dois.
+THALITA: Artigo dezesseis: deixar de identificar-se, ou identificar-se falsamente, ao preso por ocasião da captura ou em interrogatório. Detenção de seis meses a dois anos, e multa.
 == SLIDE: Principais tipos penais, segunda parte
 * Art. 18: interrogar preso no repouso noturno
 * Art. 20: impedir entrevista reservada com o advogado
 * Art. 22: invasão de imóvel; mandado após 21h ou antes das 5h
 * Ressalvas: socorro, flagrante ou desastre
 * Art. 25: prova ilícita; art. 27: investigação sem indício
-ANTONIO: Artigo dezoito: interrogar preso durante o repouso noturno, salvo flagrante ou consentimento do preso devidamente assistido. Artigo vinte: impedir, sem justa causa, entrevista pessoal e reservada do preso com seu advogado. Ambos com detenção de seis meses a dois anos, e multa.
-BRUNO: Artigo vinte e dois: invadir ou permanecer em imóvel alheio, clandestina ou astuciosamente ou contra a vontade do ocupante, sem ordem judicial ou fora das hipóteses legais. Equipara-se cumprir mandado de busca domiciliar depois das vinte e uma horas ou antes das cinco. Detenção de um a quatro anos, e multa.
-THALITA: Mas se for para salvar alguém?
-FRANCISCA: Não há crime se o ingresso for para prestar socorro, ou se houver fundados indícios de flagrante delito ou desastre. É o parágrafo segundo.
-ANTONIO: Artigo vinte e cinco: obter prova por meio manifestamente ilícito, e também usá-la sabendo da ilicitude. Artigo vinte e sete: requisitar ou instaurar procedimento investigatório sem qualquer indício de crime, ilícito funcional ou infração administrativa. Não há crime em sindicância ou investigação preliminar sumária devidamente justificada.
+FRANCISCA: Artigo dezoito: interrogar preso durante o repouso noturno, salvo flagrante ou consentimento do preso devidamente assistido. Artigo vinte: impedir, sem justa causa, entrevista pessoal e reservada do preso com seu advogado. Ambos com detenção de seis meses a dois anos, e multa.
+THALITA: Artigo vinte e dois: invadir ou permanecer em imóvel alheio, clandestina ou astuciosamente ou contra a vontade do ocupante, sem ordem judicial ou fora das hipóteses legais. Equipara-se cumprir mandado de busca domiciliar depois das vinte e uma horas ou antes das cinco. Detenção de um a quatro anos, e multa.
+FRANCISCA: Mas se for para salvar alguém?
+THALITA: Não há crime se o ingresso for para prestar socorro, ou se houver fundados indícios de flagrante delito ou desastre. É o parágrafo segundo.
+FRANCISCA: Artigo vinte e cinco: obter prova por meio manifestamente ilícito, e também usá-la sabendo da ilicitude. Artigo vinte e sete: requisitar ou instaurar procedimento investigatório sem qualquer indício de crime, ilícito funcional ou infração administrativa. Não há crime em sindicância ou investigação preliminar sumária devidamente justificada.
 == SLIDE: Tipos finais, vetos e dica para Agente da Polícia Judicial
 * Art. 30: persecução sem justa causa; art. 32: negar acesso aos autos
 * Art. 33: exigência sem amparo legal e carteirada
 * Art. 37: demora em vista; art. 38: antecipar culpa
 * Vetos geram saltos na numeração; há ADIs no STF
 * Mais cobrados na rotina de segurança: arts. 13, 16, 18, 22 e 33
-BRUNO: Artigo trinta: iniciar ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem se sabe inocente. Detenção de um a quatro anos, e multa. Artigo trinta e dois: negar ao interessado, ao defensor ou ao advogado acesso aos autos de investigação, ressalvadas diligências cujo sigilo seja imprescindível; dialoga com a Súmula Vinculante catorze.
+THALITA: Artigo trinta: iniciar ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem se sabe inocente. Detenção de um a quatro anos, e multa. Artigo trinta e dois: negar ao interessado, ao defensor ou ao advogado acesso aos autos de investigação, ressalvadas diligências cujo sigilo seja imprescindível; dialoga com a Súmula Vinculante catorze.
 FRANCISCA: Artigo trinta e três: exigir informação ou cumprimento de obrigação sem expresso amparo legal, ou usar o cargo para se eximir de obrigação ou obter vantagem indevida, a famosa carteirada. Artigo trinta e sete: demorar demasiada e injustificadamente no exame de processo de que pediu vista em órgão colegiado, para procrastinar. Artigo trinta e oito: antecipar, o responsável pela investigação, a atribuição de culpa por meio de comunicação, inclusive rede social, antes de concluídas as apurações e formalizada a acusação.
 THALITA: Macete da carteirada: artigo trinta e três.
-BRUNO: Atenção: vários artigos do projeto foram vetados, como os artigos onze, catorze, dezessete, vinte e seis, trinta e quatro e trinta e cinco, e parte dos vetos foi derrubada pelo Congresso. Por isso a numeração tem saltos. Há ainda ações diretas de inconstitucionalidade no STF contra dispositivos; confira eventual decisão de mérito antes da prova.
-FRANCISCA: A lei também incluiu no Estatuto da OAB o crime de violação de prerrogativas do advogado, artigo sétimo-B da Lei oito mil novecentos e seis, de mil novecentos e noventa e quatro.
-THALITA: Para quem faz a prova de Agente da Polícia Judicial, quais caem mais?
-BRUNO: Os tipos mais ligados à rotina de segurança: treze, dezesseis, dezoito, vinte e dois e trinta e três. Para cada um, memorize a conduta central e a ressalva que exclui o crime: flagrante, socorro, consentimento do preso assistido e o horário das vinte e uma às cinco.
-ANTONIO: Muito bem. Com isso fechamos a teoria. Agora vamos colocar tudo à prova com questões comentadas no estilo FCC.
+FRANCISCA: Atenção: vários artigos do projeto foram vetados, como os artigos onze, catorze, dezessete, vinte e seis, trinta e quatro e trinta e cinco, e parte dos vetos foi derrubada pelo Congresso. Por isso a numeração tem saltos. Há ainda ações diretas de inconstitucionalidade no STF contra dispositivos; confira eventual decisão de mérito antes da prova.
+THALITA: A lei também incluiu no Estatuto da OAB o crime de violação de prerrogativas do advogado, artigo sétimo-B da Lei oito mil novecentos e seis, de mil novecentos e noventa e quatro.
+FRANCISCA: Para quem faz a prova de Agente da Polícia Judicial, quais caem mais?
+THALITA: Os tipos mais ligados à rotina de segurança: treze, dezesseis, dezoito, vinte e dois e trinta e três. Para cada um, memorize a conduta central e a ressalva que exclui o crime: flagrante, socorro, consentimento do preso assistido e o horário das vinte e uma às cinco.
+FRANCISCA: Muito bem. Com isso fechamos a teoria. Agora vamos colocar tudo à prova com questões comentadas no estilo FCC.

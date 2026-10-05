@@ -7,12 +7,12 @@ SEGMENTO s131
 * Sumário: opção em 10 dias, defesa em 5, duração 30 + 15
 FRANCISCA: Depois do rito sumário e da revisão, vamos juntar tudo numa tabela mestra de prazos do regime disciplinar. Quem domina essa tabela ganha várias questões.
 THALITA: Maravilha! Eu sempre me perco nesses números. Por onde começa?
-ANTONIO: Pela sindicância: trinta dias, prorrogáveis por igual período. Depois o afastamento preventivo: até sessenta dias, prorrogáveis por igual prazo, com remuneração. E a conclusão do PAD: sessenta dias da publicação do ato da comissão, prorrogáveis por igual prazo.
-BRUNO: Repare na simetria. Sindicância, trinta mais trinta. PAD e afastamento, sessenta mais sessenta. A banca adora trocar um pelo outro.
+FRANCISCA: Pela sindicância: trinta dias, prorrogáveis por igual período. Depois o afastamento preventivo: até sessenta dias, prorrogáveis por igual prazo, com remuneração. E a conclusão do PAD: sessenta dias da publicação do ato da comissão, prorrogáveis por igual prazo.
+THALITA: Repare na simetria. Sindicância, trinta mais trinta. PAD e afastamento, sessenta mais sessenta. A banca adora trocar um pelo outro.
 FRANCISCA: A defesa escrita, com um indiciado, é de dez dias. Com dois ou mais indiciados, vinte dias, prazo comum. Se a comissão precisar de diligências, o prazo da defesa é prorrogado pelo dobro. E depois da citação por edital, a defesa é de quinze dias, a partir da última publicação.
 THALITA: Então: dez, vinte, quinze. E o julgamento?
-ANTONIO: Vinte dias do recebimento do processo. No rito sumário, tudo encolhe: a opção na acumulação ilegal é de dez dias improrrogáveis, a defesa é de cinco dias, e a duração é de trinta dias, prorrogáveis por até quinze.
-BRUNO: Macete da apostila: trinta, sessenta, dez, vinte. O sumário é o primo menor: trinta mais quinze e defesa de cinco.
+FRANCISCA: Vinte dias do recebimento do processo. No rito sumário, tudo encolhe: a opção na acumulação ilegal é de dez dias improrrogáveis, a defesa é de cinco dias, e a duração é de trinta dias, prorrogáveis por até quinze.
+THALITA: Macete da apostila: trinta, sessenta, dez, vinte. O sumário é o primo menor: trinta mais quinze e defesa de cinco.
 == SLIDE: Tabela mestra: revisão, faltas, penas e prescrição
 * Revisão: comissão em 60 dias; julgamento em 20
 * Abandono: mais de 30 dias consecutivos (art. 138)
@@ -20,13 +20,13 @@ BRUNO: Macete da apostila: trinta, sessenta, dez, vinte. O sumário é o primo m
 * Suspensão: máximo de 90 dias; recusa de inspeção, 15
 * Cancelamento do registro: 3 e 5 anos; incompatibilização: 5 anos
 * Prescrição: 5 anos, 2 anos e 180 dias (art. 142)
-THALITA: Continuando a tabela, tem mais coisa? Meu caderno já está cheio!
-FRANCISCA: Tem. A comissão revisora tem sessenta dias, e o julgamento da revisão é em vinte. O abandono de cargo é a ausência por mais de trinta dias consecutivos, do artigo cento e trinta e oito. A inassiduidade habitual são sessenta dias de faltas interpoladas em doze meses, do artigo cento e trinta e nove.
-BRUNO: Sobre as penas: a suspensão tem máximo de noventa dias, e a suspensão por recusa de inspeção médica é de até quinze dias. O cancelamento do registro da penalidade ocorre após três anos de efetivo exercício, no caso da advertência, e cinco anos, no caso da suspensão.
+FRANCISCA: Continuando a tabela, tem mais coisa? Meu caderno já está cheio!
+THALITA: Tem. A comissão revisora tem sessenta dias, e o julgamento da revisão é em vinte. O abandono de cargo é a ausência por mais de trinta dias consecutivos, do artigo cento e trinta e oito. A inassiduidade habitual são sessenta dias de faltas interpoladas em doze meses, do artigo cento e trinta e nove.
+FRANCISCA: Sobre as penas: a suspensão tem máximo de noventa dias, e a suspensão por recusa de inspeção médica é de até quinze dias. O cancelamento do registro da penalidade ocorre após três anos de efetivo exercício, no caso da advertência, e cinco anos, no caso da suspensão.
 THALITA: E aquela incompatibilização para nova investidura?
-ANTONIO: Cinco anos, para quem infringiu o artigo cento e dezessete, incisos nove e onze. E a prescrição da pretensão punitiva é de cinco anos, dois anos ou cento e oitenta dias, conforme a penalidade, no artigo cento e quarenta e dois.
-FRANCISCA: Para ficar fácil: demissão, cassação e destituição, cinco anos; suspensão, dois anos; advertência, cento e oitenta dias.
-BRUNO: E é aí que a banca troca. Já vi advertência com dois anos e suspensão com cento e oitenta dias.
+FRANCISCA: Cinco anos, para quem infringiu o artigo cento e dezessete, incisos nove e onze. E a prescrição da pretensão punitiva é de cinco anos, dois anos ou cento e oitenta dias, conforme a penalidade, no artigo cento e quarenta e dois.
+THALITA: Para ficar fácil: demissão, cassação e destituição, cinco anos; suspensão, dois anos; advertência, cento e oitenta dias.
+FRANCISCA: E é aí que a banca troca. Já vi advertência com dois anos e suspensão com cento e oitenta dias.
 THALITA: Entendi: quanto mais leve a pena, menor o prazo. Anotado!
 == SLIDE: Jurisprudência essencial sobre PAD: súmulas do STF
 * Súmula Vinculante 5: falta de advogado no PAD não viola a Constituição
@@ -34,14 +34,14 @@ THALITA: Entendi: quanto mais leve a pena, menor o prazo. Anotado!
 * Súmula 19 do STF: sem bis in idem no mesmo processo
 * Súmula 591 do STJ: prova emprestada, com autorização do juízo
 * Súmula 592 do STJ: excesso de prazo exige prejuízo
-ANTONIO: Agora a jurisprudência, que cai muito em prova de PAD. Começo pela Súmula Vinculante cinco: a ausência de advogado na defesa do servidor no processo disciplinar não fere a Constituição.
+FRANCISCA: Agora a jurisprudência, que cai muito em prova de PAD. Começo pela Súmula Vinculante cinco: a ausência de advogado na defesa do servidor no processo disciplinar não fere a Constituição.
 THALITA: Mas então não precisa de advogado nunca?
-BRUNO: Não há obrigatoriedade de defesa técnica. A antiga Súmula trezentos e quarenta e três do STJ foi superada. A banca tenta dizer que a defesa por advogado é obrigatória. Errado.
-FRANCISCA: A Súmula dezoito do Supremo diz que a parte do fato não coberta pela absolvição criminal ainda pode ser punida administrativamente: é a falta residual. E a Súmula dezenove diz que não se pode punir duas vezes o servidor com base no mesmo processo.
-THALITA: Dezoito, falta residual; dezenove, sem punir duas vezes. Ficou claro!
-ANTONIO: Do STJ, a Súmula quinhentos e noventa e um: a prova emprestada é aceita no PAD, se autorizada pelo juízo competente, com contraditório e ampla defesa. A pegadinha é a exigência de autorização do juízo.
-BRUNO: A quinhentos e noventa e dois diz que o excesso de prazo para concluir o PAD só gera nulidade se houver prejuízo comprovado à defesa. Ou seja, o prazo não é peremptório.
-FRANCISCA: E a Súmula seiscentos e onze admite que o PAD nasça de denúncia anônima, desde que haja motivação e investigação ou sindicância prévia.
+FRANCISCA: Não há obrigatoriedade de defesa técnica. A antiga Súmula trezentos e quarenta e três do STJ foi superada. A banca tenta dizer que a defesa por advogado é obrigatória. Errado.
+THALITA: A Súmula dezoito do Supremo diz que a parte do fato não coberta pela absolvição criminal ainda pode ser punida administrativamente: é a falta residual. E a Súmula dezenove diz que não se pode punir duas vezes o servidor com base no mesmo processo.
+FRANCISCA: Dezoito, falta residual; dezenove, sem punir duas vezes. Ficou claro!
+THALITA: Do STJ, a Súmula quinhentos e noventa e um: a prova emprestada é aceita no PAD, se autorizada pelo juízo competente, com contraditório e ampla defesa. A pegadinha é a exigência de autorização do juízo.
+FRANCISCA: A quinhentos e noventa e dois diz que o excesso de prazo para concluir o PAD só gera nulidade se houver prejuízo comprovado à defesa. Ou seja, o prazo não é peremptório.
+THALITA: E a Súmula seiscentos e onze admite que o PAD nasça de denúncia anônima, desde que haja motivação e investigação ou sindicância prévia.
 == SLIDE: Mais súmulas do STJ sobre o processo disciplinar
 * Súmula 635: marco inicial e interrupção da prescrição (conferir)
 * Súmula 641: portaria de instauração sem exposição detalhada
@@ -49,12 +49,12 @@ FRANCISCA: E a Súmula seiscentos e onze admite que o PAD nasça de denúncia an
 * Súmula 651: demissão por improbidade sem condenação judicial
 * Súmula 665: controle judicial limitado à legalidade
 * Conferir numeração e redação exata antes da prova
-THALITA: Eu ainda tenho cinco súmulas para decorar, é isso?
-BRUNO: Isso. A Súmula seiscentos e trinta e cinco trata do marco inicial, da interrupção e da retomada da prescrição do artigo cento e quarenta e dois. A apostila avisa: confira a redação exata.
-ANTONIO: A seiscentos e quarenta e um diz que a portaria de instauração do PAD dispensa exposição detalhada dos fatos. O detalhamento se dá na indiciação.
-FRANCISCA: A seiscentos e cinquenta: nas hipóteses do artigo cento e trinta e dois, a autoridade não pode aplicar pena menos grave que a demissão. É vinculação, não discricionariedade. E a seiscentos e cinquenta e um: a demissão por improbidade pode ser aplicada no PAD, sem prévia condenação judicial, pela independência entre o PAD e a ação de improbidade.
-THALITA: E a última?
-BRUNO: A seiscentos e sessenta e cinco: o controle judicial do PAD limita-se à legalidade e à regularidade, salvo flagrante ilegalidade, teratologia ou desproporção. Não há reexame do mérito.
+FRANCISCA: Eu ainda tenho cinco súmulas para decorar, é isso?
+THALITA: Isso. A Súmula seiscentos e trinta e cinco trata do marco inicial, da interrupção e da retomada da prescrição do artigo cento e quarenta e dois. A apostila avisa: confira a redação exata.
+FRANCISCA: A seiscentos e quarenta e um diz que a portaria de instauração do PAD dispensa exposição detalhada dos fatos. O detalhamento se dá na indiciação.
+THALITA: A seiscentos e cinquenta: nas hipóteses do artigo cento e trinta e dois, a autoridade não pode aplicar pena menos grave que a demissão. É vinculação, não discricionariedade. E a seiscentos e cinquenta e um: a demissão por improbidade pode ser aplicada no PAD, sem prévia condenação judicial, pela independência entre o PAD e a ação de improbidade.
+FRANCISCA: E a última?
+THALITA: A seiscentos e sessenta e cinco: o controle judicial do PAD limita-se à legalidade e à regularidade, salvo flagrante ilegalidade, teratologia ou desproporção. Não há reexame do mérito.
 FRANCISCA: Um alerta: esses números e enunciados aparecem em paráfrase. Confira no sítio do STF e do STJ antes da prova, principalmente as súmulas seiscentos e trinta e cinco, seiscentos e quarenta e um, seiscentos e cinquenta, seiscentos e cinquenta e um e seiscentos e sessenta e cinco.
 == SLIDE: Comunicabilidade entre as instâncias
 * Regra: independência entre as esferas civil, penal e administrativa
@@ -62,13 +62,13 @@ FRANCISCA: Um alerta: esses números e enunciados aparecem em paráfrase. Confir
 * Insuficiência de provas e atipicidade: não vinculam
 * Condenação criminal definitiva: fato e autoria não se rediscutem
 * Prescrição penal vale se a infração também é crime
-ANTONIO: Agora a comunicabilidade entre as instâncias. A regra é a independência: civil, penal e administrativa andam separadas.
-THALITA: Então se o servidor for absolvido no crime, está livre na esfera administrativa?
-BRUNO: Depende do motivo. A exceção, do artigo cento e vinte e seis, é a absolvição criminal que nega o fato ou a autoria. Absolvição por inexistência do fato ou por negativa de autoria afasta a responsabilidade administrativa.
+THALITA: Agora a comunicabilidade entre as instâncias. A regra é a independência: civil, penal e administrativa andam separadas.
+FRANCISCA: Então se o servidor for absolvido no crime, está livre na esfera administrativa?
+THALITA: Depende do motivo. A exceção, do artigo cento e vinte e seis, é a absolvição criminal que nega o fato ou a autoria. Absolvição por inexistência do fato ou por negativa de autoria afasta a responsabilidade administrativa.
 FRANCISCA: Já a absolvição por insuficiência de provas não vincula a Administração: a apuração continua. O mesmo vale para a atipicidade penal, porque a conduta pode ser ilícito disciplinar. Na absolvição por excludente de ilicitude, a interpretação exige cuidado e a conferência da orientação do STJ.
 THALITA: Então só dois motivos mandam arquivar: o fato não existe, ou não foi o servidor. Anoto assim!
-ANTONIO: Perfeito. Se houver condenação criminal definitiva, fato e autoria não se discutem de novo, e a Administração pode punir. A absolvição administrativa, por outro lado, não impede condenação penal ou civil.
-BRUNO: E qualquer afirmação que diga que toda absolvição criminal vincula a Administração está errada.
+FRANCISCA: Perfeito. Se houver condenação criminal definitiva, fato e autoria não se discutem de novo, e a Administração pode punir. A absolvição administrativa, por outro lado, não impede condenação penal ou civil.
+THALITA: E qualquer afirmação que diga que toda absolvição criminal vincula a Administração está errada.
 == SLIDE: Panorama da seguridade social do servidor
 * Servidor: aposentadoria, licenças, auxílio-natalidade e salário-família
 * Dependentes: pensão, auxílio-funeral e auxílio-reclusão
@@ -77,9 +77,9 @@ BRUNO: E qualquer afirmação que diga que toda absolvição criminal vincula a 
 * Gestante: 120 dias (+60); paternidade: 5 dias (+15)
 FRANCISCA: Fechamos o bloco com um panorama do plano de seguridade social do servidor, o Título seis da Lei oito mil cento e doze. A cobrança de números é menos frequente que no regime disciplinar, mas aparece.
 THALITA: O que o servidor recebe, e o que a família recebe?
-ANTONIO: O servidor tem aposentadoria, auxílio-natalidade, salário-família, licenças para tratamento de saúde, à gestante, à adotante e à paternidade, licença por acidente em serviço e assistência à saúde. Aos dependentes cabem pensão, auxílio-funeral, auxílio-reclusão e assistência à saúde.
-BRUNO: A aposentadoria hoje obedece ao artigo quarenta da Constituição, com as alterações da Emenda cento e três, de dois mil e dezenove. A pensão segue regras previdenciárias atualizadas.
+FRANCISCA: O servidor tem aposentadoria, auxílio-natalidade, salário-família, licenças para tratamento de saúde, à gestante, à adotante e à paternidade, licença por acidente em serviço e assistência à saúde. Aos dependentes cabem pensão, auxílio-funeral, auxílio-reclusão e assistência à saúde.
+THALITA: A aposentadoria hoje obedece ao artigo quarenta da Constituição, com as alterações da Emenda cento e três, de dois mil e dezenove. A pensão segue regras previdenciárias atualizadas.
 FRANCISCA: O auxílio-natalidade equivale ao menor vencimento do serviço público, inclusive no natimorto, com acréscimo de cinquenta por cento por nascituro em parto múltiplo. Se a parturiente não for servidora, é pago ao cônjuge ou companheiro servidor. O auxílio-funeral equivale a um mês de remuneração ou provento.
-BRUNO: O auxílio-reclusão é pago à família do servidor ativo preso: dois terços da remuneração durante a prisão em flagrante ou preventiva, e metade durante o afastamento por condenação definitiva a pena que não determine a perda do cargo.
-THALITA: E as licenças: gestante, cento e vinte dias, com possibilidade de mais sessenta; paternidade, cinco dias, com possibilidade de mais quinze. Confiram a redação vigente!
-ANTONIO: Muito bem. Agora, com toda a teoria na cabeça, partimos para as questões comentadas no estilo FCC.
+THALITA: O auxílio-reclusão é pago à família do servidor ativo preso: dois terços da remuneração durante a prisão em flagrante ou preventiva, e metade durante o afastamento por condenação definitiva a pena que não determine a perda do cargo.
+FRANCISCA: E as licenças: gestante, cento e vinte dias, com possibilidade de mais sessenta; paternidade, cinco dias, com possibilidade de mais quinze. Confiram a redação vigente!
+THALITA: Muito bem. Agora, com toda a teoria na cabeça, partimos para as questões comentadas no estilo FCC.

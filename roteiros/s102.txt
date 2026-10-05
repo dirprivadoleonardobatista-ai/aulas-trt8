@@ -5,51 +5,51 @@ SEGMENTO s102
 * Anulação: Administração ou Judiciário; revogação: só a autora do ato
 * TCU: controle externo (art. 71, CF)
 * Responsabilidade solidária (art. 74, § 1º)
-ANTONIO: Terminamos a LGPD, e agora é hora de treinar tudo com questões no estilo FCC. Vamos começar pela primeira, sobre controle da Administração Pública. Quem está com a caneta na mão?
+FRANCISCA: Terminamos a LGPD, e agora é hora de treinar tudo com questões no estilo FCC. Vamos começar pela primeira, sobre controle da Administração Pública. Quem está com a caneta na mão?
 THALITA: Eu! Já aviso que não sou boa em controle.
-ANTONIO: A questão pede a alternativa correta sobre o controle da Administração. Na A, diz que o controle finalístico da direta sobre as autarquias decorre da hierarquia e independe de lei. Na B, diz que a anulação pode vir do controle administrativo ou do judicial, e a revogação cabe só à Administração que editou o ato. Na C, o controle do Tribunal de Contas da União sobre o Executivo seria controle interno. Na D, responsáveis pelo controle interno que souberem de irregularidade e não comunicarem ao TCU teriam responsabilidade subsidiária. Na E, só o cidadão no gozo dos direitos políticos poderia denunciar ao TCU. Pausa para você pensar.
+FRANCISCA: A questão pede a alternativa correta sobre o controle da Administração. Na A, diz que o controle finalístico da direta sobre as autarquias decorre da hierarquia e independe de lei. Na B, diz que a anulação pode vir do controle administrativo ou do judicial, e a revogação cabe só à Administração que editou o ato. Na C, o controle do Tribunal de Contas da União sobre o Executivo seria controle interno. Na D, responsáveis pelo controle interno que souberem de irregularidade e não comunicarem ao TCU teriam responsabilidade subsidiária. Na E, só o cidadão no gozo dos direitos políticos poderia denunciar ao TCU. Pausa para você pensar.
 THALITA: Eu iria na B, porque as outras parecem exageradas.
-BRUNO: Acertou! Vamos às alternativas. A está errada: tutela, ou controle finalístico, não envolve hierarquia. Há vinculação, não subordinação, e só existe nos limites da lei. Dizer que independe de previsão legal é a pegadinha.
-FRANCISCA: A B está correta. A anulação pode vir da própria Administração, conforme a Súmula quatrocentos e setenta e três do Supremo e o artigo cinquenta e três da Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove, ou do Judiciário. Já a revogação, que envolve mérito, conveniência e oportunidade, só cabe à Administração autora do ato.
-THALITA: Então o Judiciário não revoga ato do Executivo?
-FRANCISCA: Isso mesmo, ele só anula quando há ilegalidade.
-BRUNO: A C troca as bolas. O controle do TCU sobre o Executivo é externo, artigo setenta e um da Constituição. O Tribunal auxilia o Congresso e não pertence à estrutura do Executivo.
-ANTONIO: A D erra na responsabilidade. Os responsáveis pelo controle interno que souberem de irregularidade e não a comunicarem ao TCU respondem de forma solidária, artigo setenta e quatro, parágrafo primeiro, e não subsidiária.
-THALITA: Solidária, anotei. E a E?
-BRUNO: A E restringe demais. Também são legitimados partido político, associação e sindicato, artigo setenta e quatro, parágrafo segundo. A FCC adora o "somente" para esconder erro.
-THALITA: Macete: palavra "somente" ou "exclusivamente" em alternativa merece desconfiança.
+FRANCISCA: Acertou! Vamos às alternativas. A está errada: tutela, ou controle finalístico, não envolve hierarquia. Há vinculação, não subordinação, e só existe nos limites da lei. Dizer que independe de previsão legal é a pegadinha.
+THALITA: A B está correta. A anulação pode vir da própria Administração, conforme a Súmula quatrocentos e setenta e três do Supremo e o artigo cinquenta e três da Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove, ou do Judiciário. Já a revogação, que envolve mérito, conveniência e oportunidade, só cabe à Administração autora do ato.
+FRANCISCA: Então o Judiciário não revoga ato do Executivo?
+THALITA: Isso mesmo, ele só anula quando há ilegalidade.
+FRANCISCA: A C troca as bolas. O controle do TCU sobre o Executivo é externo, artigo setenta e um da Constituição. O Tribunal auxilia o Congresso e não pertence à estrutura do Executivo.
+THALITA: A D erra na responsabilidade. Os responsáveis pelo controle interno que souberem de irregularidade e não a comunicarem ao TCU respondem de forma solidária, artigo setenta e quatro, parágrafo primeiro, e não subsidiária.
+FRANCISCA: Solidária, anotei. E a E?
+THALITA: A E restringe demais. Também são legitimados partido político, associação e sindicato, artigo setenta e quatro, parágrafo segundo. A FCC adora o "somente" para esconder erro.
+FRANCISCA: Macete: palavra "somente" ou "exclusivamente" em alternativa merece desconfiança.
 == SLIDE: Questão 2: competências do TCU
 * Gabarito D
 * Contas do Presidente: parecer prévio em 60 dias; julga o Congresso
 * Cargo em comissão: fora do registro (art. 71, III)
 * Contrato: sustado pelo Congresso; atos: pelo TCU (art. 71, X)
 * TCU pode agir por iniciativa própria
-FRANCISCA: Segunda questão, ainda no Tribunal de Contas. Pergunta: de acordo com a Constituição, compete ao TCU o quê? A alternativa A diz julgar as contas do Presidente da República mediante parecer prévio em noventa dias. A B, apreciar para registro a legalidade das admissões de pessoal, inclusive cargos em comissão. A C, sustar diretamente a execução de contrato administrativo. A D, aplicar sanções previstas em lei, entre elas multa proporcional ao dano, com eficácia de título executivo para as decisões que imputem débito ou multa. A E, realizar inspeções e auditorias só quando provocado pelo Legislativo. Pausa para você pensar.
-THALITA: Chutaria D, porque parece a mais completa.
-FRANCISCA: Boa intuição, vamos confirmar. A A está errada: o TCU aprecia as contas do Presidente com parecer prévio em sessenta dias, não noventa. Quem julga é o Congresso, artigos quarenta e nove, inciso nove, e setenta e um, inciso um.
-BRUNO: A B cai na exceção. As nomeações para cargo em comissão estão excluídas do registro, artigo setenta e um, inciso três.
+THALITA: Segunda questão, ainda no Tribunal de Contas. Pergunta: de acordo com a Constituição, compete ao TCU o quê? A alternativa A diz julgar as contas do Presidente da República mediante parecer prévio em noventa dias. A B, apreciar para registro a legalidade das admissões de pessoal, inclusive cargos em comissão. A C, sustar diretamente a execução de contrato administrativo. A D, aplicar sanções previstas em lei, entre elas multa proporcional ao dano, com eficácia de título executivo para as decisões que imputem débito ou multa. A E, realizar inspeções e auditorias só quando provocado pelo Legislativo. Pausa para você pensar.
+FRANCISCA: Chutaria D, porque parece a mais completa.
+THALITA: Boa intuição, vamos confirmar. A A está errada: o TCU aprecia as contas do Presidente com parecer prévio em sessenta dias, não noventa. Quem julga é o Congresso, artigos quarenta e nove, inciso nove, e setenta e um, inciso um.
+FRANCISCA: A B cai na exceção. As nomeações para cargo em comissão estão excluídas do registro, artigo setenta e um, inciso três.
 THALITA: Ou seja, comissionado não passa pelo registro do TCU.
 FRANCISCA: Isso. A C é a mais traiçoeira. Sustar contrato compete ao Congresso Nacional. O TCU só decide se o Congresso ou o Executivo não agirem em noventa dias, artigo setenta e um, parágrafos primeiro e segundo. O TCU susta diretamente atos, não contratos: é o inciso dez.
 THALITA: Então a regra é: ato, o TCU susta; contrato, o Congresso.
-ANTONIO: Perfeito. A D é a correta, artigo setenta e um, inciso oito, e parágrafo terceiro: aplicar sanções, como multa proporcional ao dano, e suas decisões que imputem débito ou multa têm eficácia de título executivo.
-BRUNO: A E erra no exclusivamente. O TCU pode agir por iniciativa própria, artigo setenta e um, inciso quatro, além de quando provocado pelo Legislativo.
-THALITA: De novo o "exclusivamente"! Esse chute eu já pego.
+FRANCISCA: Perfeito. A D é a correta, artigo setenta e um, inciso oito, e parágrafo terceiro: aplicar sanções, como multa proporcional ao dano, e suas decisões que imputem débito ou multa têm eficácia de título executivo.
+THALITA: A E erra no exclusivamente. O TCU pode agir por iniciativa própria, artigo setenta e um, inciso quatro, além de quando provocado pelo Legislativo.
+FRANCISCA: De novo o "exclusivamente"! Esse chute eu já pego.
 == SLIDE: Questão 3: poderes da CPI
 * Gabarito A
 * Poderes de investigação de autoridade judicial (art. 58, § 3º)
 * Quebra de sigilo bancário, fiscal e de dados: por decisão fundamentada
 * Reserva de jurisdição: interceptação telefônica e indisponibilidade de bens
 * CPI: 1/3 dos membros, fato determinado e prazo certo; não pune
-ANTONIO: Terceira questão, estilo Oficial de Justiça. O Senado instalou uma CPI para apurar desvios em contratos de uma autarquia federal, e o principal investigado é Hélio, diretor da entidade. A alternativa A: a comissão pode determinar, por decisão fundamentada, a quebra dos sigilos bancário e fiscal. A B: pode determinar interceptação telefônica por maioria absoluta. A C: pode decretar a indisponibilidade dos bens. A D: dependeu de requerimento da maioria absoluta dos senadores e pode funcionar por prazo indeterminado. A E: ao final pode aplicar a pena de perda da função pública. Pausa para você pensar.
-THALITA: A CPI é poderosa, então vou arriscar a C, indisponibilidade de bens.
-BRUNO: Errou, Thalita, e a banca adora essa isca. A C é errada: indisponibilidade de bens é medida cautelar reservada ao Judiciário.
+THALITA: Terceira questão, estilo Oficial de Justiça. O Senado instalou uma CPI para apurar desvios em contratos de uma autarquia federal, e o principal investigado é Hélio, diretor da entidade. A alternativa A: a comissão pode determinar, por decisão fundamentada, a quebra dos sigilos bancário e fiscal. A B: pode determinar interceptação telefônica por maioria absoluta. A C: pode decretar a indisponibilidade dos bens. A D: dependeu de requerimento da maioria absoluta dos senadores e pode funcionar por prazo indeterminado. A E: ao final pode aplicar a pena de perda da função pública. Pausa para você pensar.
+FRANCISCA: A CPI é poderosa, então vou arriscar a C, indisponibilidade de bens.
+THALITA: Errou, Francisca, e a banca adora essa isca. A C é errada: indisponibilidade de bens é medida cautelar reservada ao Judiciário.
 FRANCISCA: A A é a correta. A CPI tem poderes de investigação próprios das autoridades judiciais, artigo cinquenta e oito, parágrafo terceiro, e pode quebrar sigilos bancário, fiscal e de dados por decisão fundamentada.
 THALITA: Então ela quebra sigilo, mas não escuta telefone?
-BRUNO: Isso! A B é errada: interceptação telefônica está sob reserva de jurisdição, artigo quinto, inciso doze. Só o juiz autoriza.
-ANTONIO: Reserva de jurisdição: só o juiz decide. Pense em interceptação, indisponibilidade de bens e mandado de busca em domicílio.
+FRANCISCA: Isso! A B é errada: interceptação telefônica está sob reserva de jurisdição, artigo quinto, inciso doze. Só o juiz autoriza.
+THALITA: Reserva de jurisdição: só o juiz decide. Pense em interceptação, indisponibilidade de bens e mandado de busca em domicílio.
 FRANCISCA: A D mistura os requisitos. Para criar CPI bastam requerimento de um terço dos membros, fato determinado e prazo certo. Não é maioria absoluta nem prazo indeterminado.
 THALITA: Um terço, fato determinado, prazo certo. Vou colocar na minha lista de macetes.
-BRUNO: E a E: a CPI não julga nem pune. Ao final, encaminha as conclusões ao Ministério Público, que promove a responsabilização.
+FRANCISCA: E a E: a CPI não julga nem pune. Ao final, encaminha as conclusões ao Ministério Público, que promove a responsabilização.
 THALITA: Resumo da CPI: investiga como juiz, mas não decide como juiz.
 == SLIDE: Questão 4: controle judicial e remédios
 * Gabarito E
@@ -57,42 +57,42 @@ THALITA: Resumo da CPI: investiga como juiz, mas não decide como juiz.
 * Ação popular: só o cidadão (art. 5º, LXXIII; Súmula 365 do STF)
 * Habeas data: exige prévia recusa (Súmula 2 do STJ)
 * Súmula Vinculante 21: depósito prévio inconstitucional
-BRUNO: Quarta questão: controle judicial da Administração e seus instrumentos. A alternativa A diz que o mandado de segurança deve ser impetrado em cento e oitenta dias. A B, que a ação popular pode ser ajuizada por associação constituída há um ano. A C, que o habeas data independe de prévia recusa. A D, que é constitucional exigir depósito prévio para recurso administrativo. A E, que o Judiciário pode anular ato discricionário quando os motivos forem inexistentes, mas não pode revogá-lo por inconveniência. Pausa para você pensar.
+FRANCISCA: Quarta questão: controle judicial da Administração e seus instrumentos. A alternativa A diz que o mandado de segurança deve ser impetrado em cento e oitenta dias. A B, que a ação popular pode ser ajuizada por associação constituída há um ano. A C, que o habeas data independe de prévia recusa. A D, que é constitucional exigir depósito prévio para recurso administrativo. A E, que o Judiciário pode anular ato discricionário quando os motivos forem inexistentes, mas não pode revogá-lo por inconveniência. Pausa para você pensar.
 THALITA: Eu sei que o prazo do mandado de segurança é cento e vinte dias. Então A cai.
-BRUNO: Perfeito. A A está errada: o prazo decadencial é de cento e vinte dias, artigo vinte e três da Lei doze mil e dezesseis, de dois mil e nove.
-FRANCISCA: A B também cai: a ação popular é exclusiva do cidadão, artigo quinto, inciso setenta e três, e Súmula trezentos e sessenta e cinco do Supremo. O requisito de um ano de constituição é da ação civil pública e do mandado de segurança coletivo.
-THALITA: Troquei os remédios, então.
-BRUNO: A C erra porque, sem recusa administrativa, não há interesse de agir. É a Súmula dois do STJ.
-ANTONIO: A D contraria a Súmula Vinculante vinte e um: é inconstitucional exigir depósito ou arrolamento prévio de dinheiro ou bens para admissibilidade de recurso administrativo.
+FRANCISCA: Perfeito. A A está errada: o prazo decadencial é de cento e vinte dias, artigo vinte e três da Lei doze mil e dezesseis, de dois mil e nove.
+THALITA: A B também cai: a ação popular é exclusiva do cidadão, artigo quinto, inciso setenta e três, e Súmula trezentos e sessenta e cinco do Supremo. O requisito de um ano de constituição é da ação civil pública e do mandado de segurança coletivo.
+FRANCISCA: Troquei os remédios, então.
+THALITA: A C erra porque, sem recusa administrativa, não há interesse de agir. É a Súmula dois do STJ.
+FRANCISCA: A D contraria a Súmula Vinculante vinte e um: é inconstitucional exigir depósito ou arrolamento prévio de dinheiro ou bens para admissibilidade de recurso administrativo.
 THALITA: Então a E é a correta. Mas por quê?
 FRANCISCA: Pela teoria dos motivos determinantes: se o motivo invocado é inexistente, o ato é nulo. O Judiciário pode anulá-lo, mas não revoga ato de outro Poder, porque revogar envolve mérito, conveniência e oportunidade.
 THALITA: Macete: o juiz anula, mas quem revoga é a própria Administração.
-BRUNO: E fique atenta: a FCC costuma cobrar justamente essa diferença entre anular e revogar.
+FRANCISCA: E fique atenta: a FCC costuma cobrar justamente essa diferença entre anular e revogar.
 == SLIDE: Questão 5: o que é improbidade
 * Gabarito C
 * Condutas: carro e motoristas em obra particular; erro por desatenção; nepotismo
 * Sem improbidade culposa desde a Lei 14.230/2021
 * Art. 9º, IV: enriquecimento ilícito; art. 11, XI: nepotismo
-ANTONIO: Quinta questão, sobre improbidade, nos termos da Lei oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois, com redação da Lei quatorze mil duzentos e trinta, de dois mil e vinte e um. Três condutas. Na primeira, Carlos, diretor de autarquia federal, usa deliberadamente veículo oficial e dois motoristas, por trinta dias, para levar material de construção à sua casa de campo. Na segunda, Paula, servidora, por desatenção, autoriza pagamento em duplicidade de quarenta mil reais a fornecedor, sem intenção de beneficiá-lo. Na terceira, Rogério, secretário estadual, nomeia o irmão da esposa para cargo em comissão na sua secretaria, para favorecer a própria família. Quais configuram improbidade? Pausa para você pensar.
-THALITA: Eu diria que as três são improbidade. Todas parecem feias.
-BRUNO: Feio nem sempre é improbidade. A segunda é culposa, e desde a Lei quatorze mil duzentos e trinta não há improbidade culposa. Artigo primeiro, parágrafos primeiro a terceiro.
+THALITA: Quinta questão, sobre improbidade, nos termos da Lei oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois, com redação da Lei quatorze mil duzentos e trinta, de dois mil e vinte e um. Três condutas. Na primeira, Carlos, diretor de autarquia federal, usa deliberadamente veículo oficial e dois motoristas, por trinta dias, para levar material de construção à sua casa de campo. Na segunda, Paula, servidora, por desatenção, autoriza pagamento em duplicidade de quarenta mil reais a fornecedor, sem intenção de beneficiá-lo. Na terceira, Rogério, secretário estadual, nomeia o irmão da esposa para cargo em comissão na sua secretaria, para favorecer a própria família. Quais configuram improbidade? Pausa para você pensar.
+FRANCISCA: Eu diria que as três são improbidade. Todas parecem feias.
+THALITA: Feio nem sempre é improbidade. A segunda é culposa, e desde a Lei quatorze mil duzentos e trinta não há improbidade culposa. Artigo primeiro, parágrafos primeiro a terceiro.
 FRANCISCA: A primeira é enriquecimento ilícito, artigo nono, inciso quatro: uso de veículos e servidores em obra particular. A terceira é nepotismo com dolo de favorecimento, artigo onze, inciso onze, e o irmão da esposa é parente por afinidade em segundo grau.
 THALITA: Então o gabarito é só a primeira e a terceira.
-ANTONIO: Exatamente: alternativa C. Vamos às demais. A, que inclui as três, está errada porque inclui a conduta culposa de Paula. A B inclui Paula e deixa Rogério de fora. A D exclui Carlos e inclui Paula. A E diz só a terceira, mas a primeira também é improbidade.
-BRUNO: E Paula? Pode responder administrativamente e ser obrigada a ressarcir o erário, mas não pela lei de improbidade.
-THALITA: Macete: sem dolo, sem improbidade.
+FRANCISCA: Exatamente: alternativa C. Vamos às demais. A, que inclui as três, está errada porque inclui a conduta culposa de Paula. A B inclui Paula e deixa Rogério de fora. A D exclui Carlos e inclui Paula. A E diz só a terceira, mas a primeira também é improbidade.
+THALITA: E Paula? Pode responder administrativamente e ser obrigada a ressarcir o erário, mas não pela lei de improbidade.
+FRANCISCA: Macete: sem dolo, sem improbidade.
 == SLIDE: Questão 6: sanções por dano ao erário
 * Gabarito B
 * Art. 10: perda da função, direitos políticos até 12 anos, multa igual ao dano
 * Proibição de contratar até 12 anos
 * Perda da função e direitos políticos só após trânsito em julgado (art. 20)
-FRANCISCA: Sexta questão: Joana, servidora federal, foi condenada, com dolo comprovado, por ato de improbidade que causou lesão ao erário, artigo dez. Quais sanções sofre, na redação vigente? A: suspensão dos direitos políticos até catorze anos e multa de duas vezes o dano. B: perda da função, suspensão dos direitos políticos até doze anos, multa igual ao valor do dano e proibição de contratar com o Poder Público por até doze anos. C: suspensão dos direitos políticos de cinco a oito anos e multa de até duas vezes o dano. D: perda da função e suspensão dos direitos políticos com efeitos imediatos a partir da publicação da sentença. E: somente multa de até vinte e quatro vezes a remuneração e proibição de contratar por até quatro anos. Pausa para você pensar.
-THALITA: Eu lembro que o artigo nono vai a catorze anos. Então A não serve para lesão ao erário.
-FRANCISCA: Isso. A A está errada: catorze anos é o limite do artigo nono, e a multa do artigo dez equivale ao valor do dano, artigo doze, inciso dois. Ela só pode dobrar se ineficaz, parágrafo segundo.
-BRUNO: A C usa os patamares antigos, de antes da Lei quatorze mil duzentos e trinta. É a isca para quem estudou por material velho.
+THALITA: Sexta questão: Joana, servidora federal, foi condenada, com dolo comprovado, por ato de improbidade que causou lesão ao erário, artigo dez. Quais sanções sofre, na redação vigente? A: suspensão dos direitos políticos até catorze anos e multa de duas vezes o dano. B: perda da função, suspensão dos direitos políticos até doze anos, multa igual ao valor do dano e proibição de contratar com o Poder Público por até doze anos. C: suspensão dos direitos políticos de cinco a oito anos e multa de até duas vezes o dano. D: perda da função e suspensão dos direitos políticos com efeitos imediatos a partir da publicação da sentença. E: somente multa de até vinte e quatro vezes a remuneração e proibição de contratar por até quatro anos. Pausa para você pensar.
+FRANCISCA: Eu lembro que o artigo nono vai a catorze anos. Então A não serve para lesão ao erário.
+THALITA: Isso. A A está errada: catorze anos é o limite do artigo nono, e a multa do artigo dez equivale ao valor do dano, artigo doze, inciso dois. Ela só pode dobrar se ineficaz, parágrafo segundo.
+FRANCISCA: A C usa os patamares antigos, de antes da Lei quatorze mil duzentos e trinta. É a isca para quem estudou por material velho.
 THALITA: E a B?
-ANTONIO: A B é a correta, artigo doze, inciso dois, na redação de dois mil e vinte e um: perda da função, direitos políticos até doze anos, multa igual ao dano e proibição de contratar por até doze anos.
-BRUNO: A D erra no momento. Perda da função e suspensão dos direitos políticos só se efetivam com o trânsito em julgado, artigo vinte. Não é a partir da publicação da sentença.
+FRANCISCA: A B é a correta, artigo doze, inciso dois, na redação de dois mil e vinte e um: perda da função, direitos políticos até doze anos, multa igual ao dano e proibição de contratar por até doze anos.
+THALITA: A D erra no momento. Perda da função e suspensão dos direitos políticos só se efetivam com o trânsito em julgado, artigo vinte. Não é a partir da publicação da sentença.
 FRANCISCA: A E descreve as sanções do artigo onze, que é a violação de princípios, artigo doze, inciso três. Lesão ao erário comporta, sim, suspensão de direitos políticos.
 THALITA: Fechando: erário, doze, doze, dano. Quando é enriquecimento, catorze.
-ANTONIO: Muito bem. Vamos agora para mais questões, as próximas seis, sobre prescrição, ressarcimento, a Lei de Acesso e a LGPD.
+FRANCISCA: Muito bem. Vamos agora para mais questões, as próximas seis, sobre prescrição, ressarcimento, a Lei de Acesso e a LGPD.

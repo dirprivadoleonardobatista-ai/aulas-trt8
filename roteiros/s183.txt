@@ -4,15 +4,14 @@ SEGMENTO s183
 * Ato = manifestação de vontade; termo = documentação nos autos
 * Art. 770: atos públicos, dias úteis, das 6h às 20h
 * Penhora em domingo ou feriado: só com autorização expressa do juiz
-ANTONIO: Olá, pessoal, sejam bem-vindos! Esta é a aula cinquenta e três, de Direito Processual do Trabalho. Hoje vamos ver atos, termos e prazos processuais, distribuição e valor da causa, custas e emolumentos, e depois partes, procuradores, massa falida, recuperação judicial, litisconsórcio e justiça gratuita.
-FRANCISCA: Eu sou a Francisca. Trago a lei em paráfrase, a jurisprudência e os exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira. Pergunto, arrisco respostas e faço os resumos com macetes.
-ANTONIO: Vamos começar. Ato processual é a manifestação de vontade das partes, do juiz ou dos auxiliares no processo. Termo é a documentação desse ato nos autos.
+FRANCISCA: Olá, pessoal, sejam bem-vindos! Esta é a aula cinquenta e três, de Direito Processual do Trabalho. Hoje vamos ver atos, termos e prazos processuais, distribuição e valor da causa, custas e emolumentos, e depois partes, procuradores, massa falida, recuperação judicial, litisconsórcio e justiça gratuita.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Vamos começar. Ato processual é a manifestação de vontade das partes, do juiz ou dos auxiliares no processo. Termo é a documentação desse ato nos autos.
 FRANCISCA: O artigo setecentos e setenta traz três regras. Primeira: os atos são públicos, e o sigilo só existe quando o interesse social determinar. Segunda: realizam-se em dias úteis, das seis às vinte horas. Terceira: a penhora pode ser feita em domingo ou feriado, mediante autorização expressa do juiz ou presidente.
 THALITA: Então o oficial de justiça pode decidir sozinho penhorar no domingo?
-BRUNO: Não! Pegadinha clássica. A autorização tem de ser expressa e do juiz, não do oficial.
-ANTONIO: Outros dispositivos úteis. Pelo artigo setecentos e setenta e dois, a parte que, por motivo justificado, não puder assinar, assina a rogo, com duas testemunhas, se não houver procurador constituído.
+FRANCISCA: Não! Pegadinha clássica. A autorização tem de ser expressa e do juiz, não do oficial.
+THALITA: Outros dispositivos úteis. Pelo artigo setecentos e setenta e dois, a parte que, por motivo justificado, não puder assinar, assina a rogo, com duas testemunhas, se não houver procurador constituído.
 FRANCISCA: Pelos artigos setecentos e setenta e oito e setecentos e setenta e nove, os autos só saem da secretaria com advogado constituído ou em remessa a órgão competente, e partes e procuradores consultam com ampla liberdade. Pelos artigos setecentos e oitenta e setecentos e oitenta e um, documentos só são desentranhados depois de findo o processo, e certidões de processos em segredo de justiça dependem de despacho do juiz.
 THALITA: Resumindo: ato público, seis às vinte horas, só a penhora vai ao domingo, e só com autorização do juiz.
 == SLIDE: Dias úteis, prorrogação e suspensão de fim de ano
@@ -20,43 +19,43 @@ THALITA: Resumindo: ato público, seis às vinte horas, só a penhora vai ao dom
 * Prorrogação: juízo entender necessário ou força maior comprovada
 * Art. 775-A: suspensão de 20 de dezembro a 20 de janeiro
 * Sem audiências nem sessões; Súmula 262, II TST
-BRUNO: Agora, a contagem. O artigo setecentos e setenta e cinco manda contar os prazos em dias úteis, com exclusão do dia do começo e inclusão do dia do vencimento.
+FRANCISCA: Agora, a contagem. O artigo setecentos e setenta e cinco manda contar os prazos em dias úteis, com exclusão do dia do começo e inclusão do dia do vencimento.
 THALITA: Mas na Justiça do Trabalho o prazo não era contínuo e irrelevável?
-ANTONIO: Antes da Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, sim. Hoje, dias úteis, como no artigo duzentos e dezenove do CPC.
-BRUNO: A FCC ainda apresenta a frase prazos contínuos e irreleváveis. É redação revogada. Outra troca: dias úteis aplicados à prescrição. Errado.
+FRANCISCA: Antes da Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, sim. Hoje, dias úteis, como no artigo duzentos e dezenove do CPC.
+THALITA: A FCC ainda apresenta a frase prazos contínuos e irreleváveis. É redação revogada. Outra troca: dias úteis aplicados à prescrição. Errado.
 FRANCISCA: A regra vale para prazos processuais. Prescrição, de dois e cinco anos, decadência do inquérito, de trinta dias, e prazo da rescisória, de dois anos, são de direito material e correm continuamente.
-ANTONIO: A prorrogação, pelo tempo estritamente necessário, só tem duas hipóteses: quando o juízo entender necessário, ou por força maior devidamente comprovada. E o parágrafo segundo dá ao juízo poder para dilatar prazos e alterar a ordem de produção de provas, para dar mais efetividade à tutela.
-THALITA: Então não vale prorrogar a pedido da parte, sem motivo.
-BRUNO: Isso, e a banca adora essa troca.
+THALITA: A prorrogação, pelo tempo estritamente necessário, só tem duas hipóteses: quando o juízo entender necessário, ou por força maior devidamente comprovada. E o parágrafo segundo dá ao juízo poder para dilatar prazos e alterar a ordem de produção de provas, para dar mais efetividade à tutela.
+FRANCISCA: Então não vale prorrogar a pedido da parte, sem motivo.
+THALITA: Isso, e a banca adora essa troca.
 FRANCISCA: Agora a suspensão do artigo setecentos e setenta e cinco-A: o prazo fica suspenso de vinte de dezembro a vinte de janeiro, inclusive. É suspensão, e não interrupção: o prazo retoma em vinte e um de janeiro, pelo saldo.
 THALITA: Isso quer dizer que todo mundo está de férias?
 FRANCISCA: Não. Juízes, Ministério Público, defensores e servidores trabalham, ressalvadas férias individuais e feriados. Mas não há audiências nem sessões de julgamento. O recesso forense, de vinte de dezembro a seis de janeiro, fica dentro desse período, e a Súmula duzentos e sessenta e dois, item dois, do TST diz que o recesso e as férias coletivas dos Ministros suspendem os prazos recursais.
-ANTONIO: Exemplo. Bruno foi intimado na segunda, quinze de dezembro, para recorrer, em oito dias. Correm dezesseis, dezessete, dezoito e dezenove: quatro dias. Suspende de vinte de dezembro a vinte de janeiro. Retoma em vinte e um, quarta-feira, quinto dia; vinte e dois, sexto; vinte e três, sétimo; e vence em vinte e seis de janeiro, segunda-feira, oitavo dia, sem feriados locais.
-THALITA: Quatro dias antes, quatro depois, e o prazo reinicia pelo saldo.
+THALITA: Exemplo. Bruno foi intimado na segunda, quinze de dezembro, para recorrer, em oito dias. Correm dezesseis, dezessete, dezoito e dezenove: quatro dias. Suspende de vinte de dezembro a vinte de janeiro. Retoma em vinte e um, quarta-feira, quinto dia; vinte e dois, sexto; vinte e três, sétimo; e vence em vinte e seis de janeiro, segunda-feira, oitavo dia, sem feriados locais.
+FRANCISCA: Quatro dias antes, quatro depois, e o prazo reinicia pelo saldo.
 == SLIDE: Termo inicial e as súmulas do TST
 * Art. 774: da intimação, notificação ou edital; começa no dia útil seguinte
 * Súmula 1: publicação na sexta, conta da segunda
 * Súmula 16: notificação postal, presume-se recebida em 48 horas
 * Súmula 262, I: sábado; Súmula 385, I: feriado local
-FRANCISCA: O prazo conta-se da intimação pessoal, do recebimento da notificação ou da publicação ou afixação do edital, e o primeiro dia de contagem é o dia útil seguinte. O parágrafo único do artigo setecentos e setenta e quatro traz as quarenta e oito horas do Correio para devolver notificação não entregue, que não se confundem com as da Súmula dezesseis.
-BRUNO: Vamos às súmulas. Súmula um: intimação ou publicação na sexta-feira, prazo contado da segunda-feira imediata, inclusive, salvo se não houver expediente.
+THALITA: O prazo conta-se da intimação pessoal, do recebimento da notificação ou da publicação ou afixação do edital, e o primeiro dia de contagem é o dia útil seguinte. O parágrafo único do artigo setecentos e setenta e quatro traz as quarenta e oito horas do Correio para devolver notificação não entregue, que não se confundem com as da Súmula dezesseis.
+FRANCISCA: Vamos às súmulas. Súmula um: intimação ou publicação na sexta-feira, prazo contado da segunda-feira imediata, inclusive, salvo se não houver expediente.
 THALITA: E a postal?
-ANTONIO: Súmula dezesseis: a notificação postal presume-se recebida quarenta e oito horas depois da postagem. O não recebimento ou a entrega tardia é ônus de prova do destinatário.
-BRUNO: Súmula duzentos e sessenta e dois, item um: intimação no sábado, o prazo começa no primeiro dia útil imediato e a contagem é no subsequente.
+FRANCISCA: Súmula dezesseis: a notificação postal presume-se recebida quarenta e oito horas depois da postagem. O não recebimento ou a entrega tardia é ônus de prova do destinatário.
+THALITA: Súmula duzentos e sessenta e dois, item um: intimação no sábado, o prazo começa no primeiro dia útil imediato e a contagem é no subsequente.
 FRANCISCA: Súmula trezentos e oitenta e cinco, item um: feriado local, a parte deve comprová-lo ao interpor o recurso. Mas atenção: o artigo mil e três, parágrafo sexto, do CPC foi alterado pela Lei catorze mil novecentos e trinta e nove, de dois mil e vinte e quatro. O tribunal pode determinar a correção do vício ou desconsiderá-lo se a informação constar dos autos. Confira a redação vigente da súmula.
 THALITA: Então, se o feriado local aparece no processo, a parte talvez não perca o recurso. Mas na prova, uso a regra clássica: comprova ao interpor.
-BRUNO: Boa. Só confira a redação vigente se a questão citar a lei nova.
+FRANCISCA: Boa. Só confira a redação vigente se a questão citar a lei nova.
 == SLIDE: Prazo em dobro: quem tem e quem não tem
 * Fazenda Pública: dobro para recorrer (DL 779/1969)
 * RO em 16 dias; embargos de declaração em 10 (OJ 192 SBDI-1)
 * MPT: dobro para se manifestar (art. 180 CPC)
 * Mistas e litisconsortes: sem dobro (Súmula 170; OJ 310)
-ANTONIO: Falta o prazo em dobro. Para União, Estados, Distrito Federal, Municípios, autarquias e fundações públicas sem atividade econômica, o Decreto-Lei setecentos e setenta e nove, de mil novecentos e sessenta e nove, dá prazo em dobro para recorrer. Recurso ordinário em dezesseis dias, embargos de declaração em dez, pela Orientação Jurisprudencial cento e noventa e dois da SBDI-um. E o intervalo do artigo oitocentos e quarenta e um é quadruplicado, vinte dias.
-THALITA: E o Ministério Público do Trabalho?
-FRANCISCA: Tem prazo em dobro para se manifestar nos autos, pelo artigo cento e oitenta do CPC.
-BRUNO: Sociedade de economia mista e empresa pública exploradora de atividade econômica não têm dobro. Súmula cento e setenta do TST. E litisconsortes com procuradores distintos também não têm.
+THALITA: Falta o prazo em dobro. Para União, Estados, Distrito Federal, Municípios, autarquias e fundações públicas sem atividade econômica, o Decreto-Lei setecentos e setenta e nove, de mil novecentos e sessenta e nove, dá prazo em dobro para recorrer. Recurso ordinário em dezesseis dias, embargos de declaração em dez, pela Orientação Jurisprudencial cento e noventa e dois da SBDI-um. E o intervalo do artigo oitocentos e quarenta e um é quadruplicado, vinte dias.
+FRANCISCA: E o Ministério Público do Trabalho?
+THALITA: Tem prazo em dobro para se manifestar nos autos, pelo artigo cento e oitenta do CPC.
+FRANCISCA: Sociedade de economia mista e empresa pública exploradora de atividade econômica não têm dobro. Súmula cento e setenta do TST. E litisconsortes com procuradores distintos também não têm.
 THALITA: Mas no CPC tem, não tem?
-BRUNO: Tem, no artigo duzentos e vinte e nove. Só que a Orientação Jurisprudencial trezentos e dez da SBDI-um diz que ele é inaplicável ao processo do trabalho, por incompatibilidade com a celeridade.
-FRANCISCA: Para não esquecer os privilégios do Decreto-Lei setecentos e setenta e nove, são seis: presunção relativa dos recibos de quitação, quádruplo do artigo oitocentos e quarenta e um, dobro para recurso, sem depósito recursal, remessa necessária e custas a final.
-THALITA: Resumo: Fazenda e MPT têm dobro, mistas e litisconsortes não.
-ANTONIO: Com os prazos fechados, vamos ao próximo tema: a distribuição e o valor da causa e, depois, as custas e os emolumentos dos artigos setecentos e oitenta e nove a setecentos e noventa-A.
+FRANCISCA: Tem, no artigo duzentos e vinte e nove. Só que a Orientação Jurisprudencial trezentos e dez da SBDI-um diz que ele é inaplicável ao processo do trabalho, por incompatibilidade com a celeridade.
+THALITA: Para não esquecer os privilégios do Decreto-Lei setecentos e setenta e nove, são seis: presunção relativa dos recibos de quitação, quádruplo do artigo oitocentos e quarenta e um, dobro para recurso, sem depósito recursal, remessa necessária e custas a final.
+FRANCISCA: Resumo: Fazenda e MPT têm dobro, mistas e litisconsortes não.
+THALITA: Com os prazos fechados, vamos ao próximo tema: a distribuição e o valor da causa e, depois, as custas e os emolumentos dos artigos setecentos e oitenta e nove a setecentos e noventa-A.

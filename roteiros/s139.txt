@@ -8,25 +8,25 @@ SEGMENTO s139
 * Avulso não portuário: solidária dos tomadores
 FRANCISCA: Terminamos o empregador, a sucessão e o grupo econômico. Agora vamos comparar tudo num mapa de responsabilidades, que ajuda a organizar a cabeça antes da terceirização.
 THALITA: Maravilha! Eu sempre misturo solidária com subsidiária.
-ANTONIO: Vamos separar. No grupo econômico, a responsabilidade é solidária, pelo artigo segundo, parágrafo segundo da CLT. Na sucessão, o sucedido só responde solidariamente com o sucessor se houver fraude, e o sócio retirante responde de forma subsidiária, em ações ajuizadas até dois anos depois da saída.
-BRUNO: Na terceirização com contratante privada, a responsabilidade é subsidiária, pelo artigo quinto A, parágrafo quinto, da Lei seis mil e dezenove, e pela ADPF trezentos e vinte e quatro. No trabalho temporário, a tomadora responde subsidiariamente, e a responsabilidade vira solidária na falência da empresa de trabalho temporário.
+FRANCISCA: Vamos separar. No grupo econômico, a responsabilidade é solidária, pelo artigo segundo, parágrafo segundo da CLT. Na sucessão, o sucedido só responde solidariamente com o sucessor se houver fraude, e o sócio retirante responde de forma subsidiária, em ações ajuizadas até dois anos depois da saída.
+THALITA: Na terceirização com contratante privada, a responsabilidade é subsidiária, pelo artigo quinto A, parágrafo quinto, da Lei seis mil e dezenove, e pela ADPF trezentos e vinte e quatro. No trabalho temporário, a tomadora responde subsidiariamente, e a responsabilidade vira solidária na falência da empresa de trabalho temporário.
 FRANCISCA: Na Administração Pública tomadora, a responsabilidade é subsidiária, mas só com culpa comprovada na fiscalização. E nos contratos da Lei catorze mil cento e trinta e três com dedicação exclusiva de mão de obra, a responsabilidade é solidária pelos encargos previdenciários e subsidiária pelos trabalhistas, se comprovada falha na fiscalização. Por fim, os tomadores do trabalhador avulso não portuário respondem solidariamente, pela Lei doze mil e vinte e três, de dois mil e nove.
 THALITA: Macete: grupo, solidária; terceirização privada, subsidiária; Administração Pública, só com culpa.
-BRUNO: Perfeito. A FCC troca solidária por subsidiária de propósito.
+FRANCISCA: Perfeito. A FCC troca solidária por subsidiária de propósito.
 == SLIDE: Lei 6.019/1974: conceito e requisitos da terceirização
 * Art. 4º-A: transferência de quaisquer atividades, inclusive a principal
 * Prestadora: pessoa jurídica de direito privado
 * A prestadora contrata, remunera e dirige o trabalho
 * Art. 4º-B: CNPJ, Junta Comercial e capital compatível
 * Art. 4º-C: condições nas dependências; salário equivalente é facultativo
-ANTONIO: Vamos à Lei seis mil e dezenove, de mil novecentos e setenta e quatro, nos dispositivos da terceirização. O artigo quarto A define: terceirização é a transferência, pela contratante, da execução de quaisquer atividades, inclusive a principal, a pessoa jurídica de direito privado com capacidade econômica compatível.
-THALITA: Então pode terceirizar até a atividade principal?
-FRANCISCA: Pode. E a pegadinha é que a prestadora precisa ser pessoa jurídica de direito privado: não pode ser pessoa física. Ela contrata, remunera e dirige o trabalho, e pode subcontratar outras empresas, a chamada quarteirização.
-BRUNO: Quem dirige é a prestadora. Se a contratante dá ordens diretas aos empregados da terceirizada, há indício de fraude. E não há vínculo entre os empregados ou sócios da prestadora e a contratante.
-FRANCISCA: O artigo quarto B exige da prestadora CNPJ, registro na Junta Comercial e capital social compatível com o número de empregados, de dez mil a duzentos e cinquenta mil reais.
-THALITA: E direitos dos terceirizados? Eles recebem o mesmo salário dos empregados da contratante?
-BRUNO: Aí a pegadinha do artigo quarto C. Enquanto trabalharem nas dependências da contratante, os terceirizados têm as mesmas condições de alimentação em refeitório, transporte, atendimento médico ou ambulatorial, treinamento quando necessário e condições sanitárias e de segurança. Direitos obrigatórios só quando e enquanto o serviço for nas dependências da contratante.
-ANTONIO: E o salário equivalente e outros direitos podem ser pactuados entre contratante e prestadora, no parágrafo primeiro. A isonomia salarial é facultativa. Se os terceirizados forem vinte por cento ou mais dos empregados da contratante, alimentação e atendimento ambulatorial podem ser oferecidos em outro local de igual padrão.
+THALITA: Vamos à Lei seis mil e dezenove, de mil novecentos e setenta e quatro, nos dispositivos da terceirização. O artigo quarto A define: terceirização é a transferência, pela contratante, da execução de quaisquer atividades, inclusive a principal, a pessoa jurídica de direito privado com capacidade econômica compatível.
+FRANCISCA: Então pode terceirizar até a atividade principal?
+THALITA: Pode. E a pegadinha é que a prestadora precisa ser pessoa jurídica de direito privado: não pode ser pessoa física. Ela contrata, remunera e dirige o trabalho, e pode subcontratar outras empresas, a chamada quarteirização.
+FRANCISCA: Quem dirige é a prestadora. Se a contratante dá ordens diretas aos empregados da terceirizada, há indício de fraude. E não há vínculo entre os empregados ou sócios da prestadora e a contratante.
+THALITA: O artigo quarto B exige da prestadora CNPJ, registro na Junta Comercial e capital social compatível com o número de empregados, de dez mil a duzentos e cinquenta mil reais.
+FRANCISCA: E direitos dos terceirizados? Eles recebem o mesmo salário dos empregados da contratante?
+THALITA: Aí a pegadinha do artigo quarto C. Enquanto trabalharem nas dependências da contratante, os terceirizados têm as mesmas condições de alimentação em refeitório, transporte, atendimento médico ou ambulatorial, treinamento quando necessário e condições sanitárias e de segurança. Direitos obrigatórios só quando e enquanto o serviço for nas dependências da contratante.
+FRANCISCA: E o salário equivalente e outros direitos podem ser pactuados entre contratante e prestadora, no parágrafo primeiro. A isonomia salarial é facultativa. Se os terceirizados forem vinte por cento ou mais dos empregados da contratante, alimentação e atendimento ambulatorial podem ser oferecidos em outro local de igual padrão.
 THALITA: Macete: dependências da contratante, condições obrigatórias; salário igual, só se combinarem.
 == SLIDE: Contratante, quarentenas e exemplo
 * Art. 5º-A: contratante pode ser pessoa física ou jurídica
@@ -35,23 +35,23 @@ THALITA: Macete: dependências da contratante, condições obrigatórias; salár
 * Art. 5º-D: empregado demitido, 18 meses para voltar como terceirizado
 * Sem exceção de aposentado no art. 5º-D
 FRANCISCA: O artigo quinto A trata da contratante, que pode ser pessoa física ou jurídica, diferente da prestadora. É vedado usar os terceirizados em atividade diversa da contratada, e o serviço pode ser executado na contratante ou em outro local ajustado.
-BRUNO: A saúde, a higiene e a segurança são responsabilidade da contratante quando o trabalho ocorre em suas dependências ou local por ela designado. E a contratante responde subsidiariamente pelas obrigações trabalhistas do período da prestação. Não é solidária.
-THALITA: E essas quarentenas de dezoito meses?
-ANTONIO: Duas regras. O artigo quinto C proíbe contratar a pessoa jurídica cujos titulares ou sócios tenham sido, nos últimos dezoito meses, empregados ou prestadores sem vínculo da contratante, salvo aposentados. Já o artigo quinto D proíbe que o empregado demitido volte a prestar serviços à mesma empresa como empregado de prestadora antes de dezoito meses da demissão, sem exceção para aposentado.
+THALITA: A saúde, a higiene e a segurança são responsabilidade da contratante quando o trabalho ocorre em suas dependências ou local por ela designado. E a contratante responde subsidiariamente pelas obrigações trabalhistas do período da prestação. Não é solidária.
+FRANCISCA: E essas quarentenas de dezoito meses?
+THALITA: Duas regras. O artigo quinto C proíbe contratar a pessoa jurídica cujos titulares ou sócios tenham sido, nos últimos dezoito meses, empregados ou prestadores sem vínculo da contratante, salvo aposentados. Já o artigo quinto D proíbe que o empregado demitido volte a prestar serviços à mesma empresa como empregado de prestadora antes de dezoito meses da demissão, sem exceção para aposentado.
 FRANCISCA: Um exemplo: Carla foi dispensada pela Beta Sociedade Anônima em janeiro de dois mil e vinte e cinco. A prestadora Gama Serviços quer alocá-la na própria Beta. Pelo artigo quinto D, isso só é possível a partir de julho de dois mil e vinte e seis. Se Carla abrisse empresa própria para ser contratada pela Beta, incidiria o artigo quinto C, também de dezoito meses, salvo se fosse aposentada.
 THALITA: Então a exceção de aposentado só está no quinto C, e não no quinto D?
-BRUNO: Exatamente. A banca troca isso.
+FRANCISCA: Exatamente. A banca troca isso.
 == SLIDE: STF: ADPF 324, Tema 725 e Súmula 331 do TST
 * Tema 725: lícita a terceirização, seja qual for o objeto social
 * ADPF 324: lícita toda atividade, meio ou fim
 * Fraude: pessoalidade e subordinação direta geram vínculo (art. 9º)
 * Súmula 331, I e III: superados quanto à atividade-fim
 * Súmula 331, II, IV e VI: válidos
-ANTONIO: Vamos ao Supremo. O Tema setecentos e vinte e cinco diz que é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, seja qual for o objeto social das empresas, mantida a responsabilidade subsidiária da contratante.
+THALITA: Vamos ao Supremo. O Tema setecentos e vinte e cinco diz que é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, seja qual for o objeto social das empresas, mantida a responsabilidade subsidiária da contratante.
 FRANCISCA: E a ADPF trezentos e vinte e quatro afirma que é lícita a terceirização de toda e qualquer atividade, meio ou fim, sem vínculo entre contratante e empregado da contratada. Cabe à contratante verificar a idoneidade e a capacidade econômica da terceirizada e responder subsidiariamente pelas obrigações trabalhistas e previdenciárias.
 THALITA: Então não existe mais terceirização ilícita?
-BRUNO: Existe, quando há fraude. A licitude em tese não legitima a fraude: se houver pessoalidade e subordinação direta ao tomador, ou mera intermediação de mão de obra, o vínculo pode ser reconhecido, pelo artigo nono da CLT.
-ANTONIO: Daí a Súmula trezentos e trinta e um do TST. O item um, que dizia que a contratação por empresa interposta é ilegal, está superado quanto à atividade-fim, e resta útil só para a fraude. O item dois, sem vínculo com a Administração por falta de concurso, continua válido. O item três está parcialmente superado: a distinção meio e fim caiu, mas pessoalidade e subordinação direta continuam gerando vínculo.
+FRANCISCA: Existe, quando há fraude. A licitude em tese não legitima a fraude: se houver pessoalidade e subordinação direta ao tomador, ou mera intermediação de mão de obra, o vínculo pode ser reconhecido, pelo artigo nono da CLT.
+THALITA: Daí a Súmula trezentos e trinta e um do TST. O item um, que dizia que a contratação por empresa interposta é ilegal, está superado quanto à atividade-fim, e resta útil só para a fraude. O item dois, sem vínculo com a Administração por falta de concurso, continua válido. O item três está parcialmente superado: a distinção meio e fim caiu, mas pessoalidade e subordinação direta continuam gerando vínculo.
 FRANCISCA: O item quatro, responsabilidade subsidiária do tomador no inadimplemento da prestadora, é válido. O item cinco, sobre a Administração, é válido, lido conforme o Tema mil cento e dezoito. E o item seis, que abrange todas as verbas da condenação do período, inclusive as multas dos artigos quatrocentos e sessenta e sete e quatrocentos e setenta e sete, é válido.
 THALITA: Resumo: um e três, superados na atividade-fim; dois, quatro, cinco e seis, valem.
 == SLIDE: Administração Pública como tomadora
@@ -60,13 +60,13 @@ THALITA: Resumo: um e três, superados na atividade-fim; dois, quatro, cinco e s
 * Tema 1118: o autor prova a negligência; inércia após notificação
 * Exigir capital compatível; condicionar pagamentos à quitação
 * Falso: responde sempre que a contratada for inadimplente
-BRUNO: Agora a Administração Pública como tomadora, onde a FCC pega muita gente. A ADC dezesseis, de dois mil e dez, declarou constitucional o artigo setenta e um, parágrafo primeiro, da Lei oito mil seiscentos e sessenta e seis: o inadimplemento da contratada não transfere automaticamente a responsabilidade ao Poder Público. A responsabilização exige culpa demonstrada.
+FRANCISCA: Agora a Administração Pública como tomadora, onde a FCC pega muita gente. A ADC dezesseis, de dois mil e dez, declarou constitucional o artigo setenta e um, parágrafo primeiro, da Lei oito mil seiscentos e sessenta e seis: o inadimplemento da contratada não transfere automaticamente a responsabilidade ao Poder Público. A responsabilização exige culpa demonstrada.
 THALITA: E os temas do Supremo?
 FRANCISCA: O Tema duzentos e quarenta e seis diz que o inadimplemento dos encargos trabalhistas da contratada não transfere automaticamente ao ente público o dever de pagá-los, nem de forma solidária nem subsidiária.
-ANTONIO: E o Tema mil cento e dezoito, do Recurso Extraordinário um milhão duzentos e noventa e oito mil seiscentos e quarenta e sete, tem quatro pontos. Primeiro, não cabe responsabilizar a Administração só pela inversão do ônus da prova: o autor deve provar o comportamento negligente ou o nexo causal. Segundo, há negligência quando o ente permanece inerte após notificação formal de descumprimento, feita pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria ou outro meio idôneo.
+THALITA: E o Tema mil cento e dezoito, do Recurso Extraordinário um milhão duzentos e noventa e oito mil seiscentos e quarenta e sete, tem quatro pontos. Primeiro, não cabe responsabilizar a Administração só pela inversão do ônus da prova: o autor deve provar o comportamento negligente ou o nexo causal. Segundo, há negligência quando o ente permanece inerte após notificação formal de descumprimento, feita pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria ou outro meio idôneo.
 FRANCISCA: Terceiro, cabe à Administração garantir segurança, higiene e salubridade quando o trabalho ocorre em suas dependências. Quarto, ela deve exigir capital social compatível e adotar controles, como condicionar pagamentos à prova de quitação trabalhista do mês anterior, no artigo cento e vinte e um, parágrafo terceiro, da Lei catorze mil cento e trinta e três.
 THALITA: Quer dizer que se o trabalhador avisa a Administração e ela não faz nada, aí sim há negligência? Então o aviso formal é a chave, e quem prova a negligência é o trabalhador. Certo?
-BRUNO: Certíssimo, Thalita. Agora, confira a redação oficial da tese e eventual modulação, porque o tema foi julgado em dois mil e vinte e cinco. E guarde: afirmar que a Administração responde subsidiariamente sempre que a contratada for inadimplente é falso.
+FRANCISCA: Certíssimo, Thalita. Agora, confira a redação oficial da tese e eventual modulação, porque o tema foi julgado em dois mil e vinte e cinco. E guarde: afirmar que a Administração responde subsidiariamente sempre que a contratada for inadimplente é falso.
 THALITA: Entendi: Administração só responde se provada a culpa na fiscalização, nunca pelo mero inadimplemento.
 == SLIDE: Dono da obra e subempreitada
 * Dono da obra: sem responsabilidade, salvo construtora ou incorporadora (OJ 191)
@@ -74,11 +74,11 @@ THALITA: Entendi: Administração só responde se provada a culpa na fiscalizaç
 * Entes públicos: exceção à culpa in eligendo
 * Subempreitada: reclamar contra o empreiteiro principal (art. 455)
 * Ação regressiva e retenção de valores
-ANTONIO: Vamos às figuras correlatas. O dono da obra, pela Orientação Jurisprudencial cento e noventa e um da SDI um, não responde pelos débitos trabalhistas do empreiteiro, nem solidária nem subsidiariamente, salvo se for construtora ou incorporadora.
+FRANCISCA: Vamos às figuras correlatas. O dono da obra, pela Orientação Jurisprudencial cento e noventa e um da SDI um, não responde pelos débitos trabalhistas do empreiteiro, nem solidária nem subsidiariamente, salvo se for construtora ou incorporadora.
 THALITA: Então se eu contrato um pedreiro para reformar minha casa e ele não paga o ajudante, eu não pago?
 FRANCISCA: Em regra, não. O incidente de recurso repetitivo, o Tema seis do TST, confirmou a exclusão para pessoas físicas e para empresas de qualquer porte e entes públicos. Mas, exceto para entes públicos, o dono da obra responde subsidiariamente se contratou empreiteiro sem idoneidade econômico-financeira: é a culpa na escolha, por analogia ao artigo quatrocentos e cinquenta e cinco.
-BRUNO: Na subempreitada, o subempreiteiro responde pelas obrigações dos seus contratos. Mas os empregados podem reclamar contra o empreiteiro principal se o subempreiteiro não pagar. O principal tem ação regressiva e pode reter valores devidos ao subempreiteiro. É o artigo quatrocentos e cinquenta e cinco.
-ANTONIO: Cuidado: a FCC cobra a literalidade. O direito de reclamar é contra o empreiteiro principal, e não contra o dono da obra, com ação regressiva e retenção a favor dele. A natureza dessa responsabilidade, solidária ou subsidiária, divide a doutrina, então responda pela letra da lei.
+THALITA: Na subempreitada, o subempreiteiro responde pelas obrigações dos seus contratos. Mas os empregados podem reclamar contra o empreiteiro principal se o subempreiteiro não pagar. O principal tem ação regressiva e pode reter valores devidos ao subempreiteiro. É o artigo quatrocentos e cinquenta e cinco.
+FRANCISCA: Cuidado: a FCC cobra a literalidade. O direito de reclamar é contra o empreiteiro principal, e não contra o dono da obra, com ação regressiva e retenção a favor dele. A natureza dessa responsabilidade, solidária ou subsidiária, divide a doutrina, então responda pela letra da lei.
 THALITA: Macete: dono da obra, regra de não responder; empreiteiro principal responde pelo subempreiteiro.
 == SLIDE: Trabalho por plataformas digitais
 * Motoristas e entregadores por aplicativo: subordinação algorítmica?
@@ -88,9 +88,9 @@ THALITA: Macete: dono da obra, regra de não responder; empreiteiro principal re
 * PLP 12/2024: trabalhador autônomo por plataforma (não aprovado)
 FRANCISCA: Para fechar, o trabalho por plataformas digitais. É o caso de motoristas e entregadores por aplicativo, onde se debate a subordinação algorítmica. A Justiça do Trabalho tem decisões nos dois sentidos.
 THALITA: Quais são os argumentos de cada lado?
-BRUNO: Pró-vínculo: tarifa definida pela plataforma, avaliações e bloqueios como poder disciplinar, controle por geolocalização, que remete ao parágrafo único do artigo sexto da CLT. Contra: liberdade de ligar e desligar o aplicativo, de recusar corridas e de atuar em várias plataformas, ausência de pessoalidade rígida e propriedade do veículo.
-ANTONIO: O Supremo, em várias reclamações, sobretudo na Primeira Turma, cassou vínculos reconhecidos pela Justiça do Trabalho, invocando a ADPF trezentos e vinte e quatro, a ADC quarenta e oito e o Tema setecentos e vinte e cinco. E o Tema mil duzentos e noventa e um, do Recurso Extraordinário um milhão quatrocentos e quarenta e seis mil trezentos e trinta e seis, teve repercussão geral reconhecida em dois mil e vinte e quatro, com audiência pública realizada e mérito pendente na última verificação.
+FRANCISCA: Pró-vínculo: tarifa definida pela plataforma, avaliações e bloqueios como poder disciplinar, controle por geolocalização, que remete ao parágrafo único do artigo sexto da CLT. Contra: liberdade de ligar e desligar o aplicativo, de recusar corridas e de atuar em várias plataformas, ausência de pessoalidade rígida e propriedade do veículo.
+THALITA: O Supremo, em várias reclamações, sobretudo na Primeira Turma, cassou vínculos reconhecidos pela Justiça do Trabalho, invocando a ADPF trezentos e vinte e quatro, a ADC quarenta e oito e o Tema setecentos e vinte e cinco. E o Tema mil duzentos e noventa e um, do Recurso Extraordinário um milhão quatrocentos e quarenta e seis mil trezentos e trinta e seis, teve repercussão geral reconhecida em dois mil e vinte e quatro, com audiência pública realizada e mérito pendente na última verificação.
 FRANCISCA: O Projeto de Lei Complementar doze, de dois mil e vinte e quatro, propõe o trabalhador autônomo por plataforma, no transporte de passageiros em veículo de quatro rodas, com remuneração mínima por hora, limite de conexão diária a uma mesma plataforma e contribuição previdenciária. Não foi aprovado na última verificação.
-BRUNO: Confira antes da prova se o Supremo concluiu o Tema mil duzentos e noventa e um e se o projeto foi aprovado. Sem tese vinculante, a prova tende a cobrar os requisitos do artigo terceiro e a noção de subordinação algorítmica.
-THALITA: Então vamos treinar com as questões comentadas?
-ANTONIO: Vamos! Questões no estilo FCC sobre tudo o que vimos na aula.
+THALITA: Confira antes da prova se o Supremo concluiu o Tema mil duzentos e noventa e um e se o projeto foi aprovado. Sem tese vinculante, a prova tende a cobrar os requisitos do artigo terceiro e a noção de subordinação algorítmica.
+FRANCISCA: Então vamos treinar com as questões comentadas?
+THALITA: Vamos! Questões no estilo FCC sobre tudo o que vimos na aula.

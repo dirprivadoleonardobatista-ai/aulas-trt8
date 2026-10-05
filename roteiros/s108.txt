@@ -5,74 +5,74 @@ SEGMENTO s108
 * Leilão: imóveis e móveis inservíveis ou apreendidos; sem habilitação
 * Concurso: trabalho técnico, científico ou artístico
 * Vedada a combinação de modalidades (art. 28, § 2º)
-ANTONIO: Vimos a teoria da formalização à nulidade. Agora é hora de treinar com questões no estilo FCC. A primeira trata das modalidades de licitação e dos critérios de julgamento. A alternativa A diz que o pregão pode adotar técnica e preço para serviço comum de engenharia. A B, que o leilão serve para bens imóveis e móveis em geral, com maior lance e habilitação simplificada. A C, que o concurso serve para escolher trabalho técnico, científico ou artístico, com julgamento por melhor técnica ou conteúdo artístico e prêmio ou remuneração ao vencedor. A D, que a concorrência é vedada para bens e serviços especiais, que seriam por diálogo competitivo. A E, que se admite combinar concorrência e pregão quando o objeto reunir bens comuns e especiais. Pausa para você pensar.
+FRANCISCA: Vimos a teoria da formalização à nulidade. Agora é hora de treinar com questões no estilo FCC. A primeira trata das modalidades de licitação e dos critérios de julgamento. A alternativa A diz que o pregão pode adotar técnica e preço para serviço comum de engenharia. A B, que o leilão serve para bens imóveis e móveis em geral, com maior lance e habilitação simplificada. A C, que o concurso serve para escolher trabalho técnico, científico ou artístico, com julgamento por melhor técnica ou conteúdo artístico e prêmio ou remuneração ao vencedor. A D, que a concorrência é vedada para bens e serviços especiais, que seriam por diálogo competitivo. A E, que se admite combinar concorrência e pregão quando o objeto reunir bens comuns e especiais. Pausa para você pensar.
 THALITA: Meu chute é a C, porque as outras têm cara de armadilha.
-BRUNO: Chute bom! Vamos comentar. A A está errada: o pregão admite apenas menor preço ou maior desconto, artigo sexto, inciso quarenta e um. Serviço comum de engenharia pode ir a pregão, mas sem técnica e preço.
-FRANCISCA: A B erra em dois pontos. O leilão abrange bens imóveis e bens móveis inservíveis ou legalmente apreendidos, artigo sexto, inciso quarenta. E ele não tem fase de habilitação, artigo trinta e um, parágrafo quarto.
-THALITA: Então leilão tem maior lance e sem habilitação.
-ANTONIO: Isso. A C é a correta, reproduz o artigo sexto, inciso trinta e nove. Já a D inverte tudo: a concorrência é justamente a modalidade para bens e serviços especiais e para obras e serviços comuns e especiais de engenharia, artigo sexto, inciso trinta e oito. O diálogo competitivo tem hipóteses restritas, artigo trinta e dois.
-BRUNO: A E é a vedação clássica. É proibido criar outras modalidades e combinar as existentes, artigo vinte e oito, parágrafo segundo.
+FRANCISCA: Chute bom! Vamos comentar. A A está errada: o pregão admite apenas menor preço ou maior desconto, artigo sexto, inciso quarenta e um. Serviço comum de engenharia pode ir a pregão, mas sem técnica e preço.
+THALITA: A B erra em dois pontos. O leilão abrange bens imóveis e bens móveis inservíveis ou legalmente apreendidos, artigo sexto, inciso quarenta. E ele não tem fase de habilitação, artigo trinta e um, parágrafo quarto.
+FRANCISCA: Então leilão tem maior lance e sem habilitação.
+THALITA: Isso. A C é a correta, reproduz o artigo sexto, inciso trinta e nove. Já a D inverte tudo: a concorrência é justamente a modalidade para bens e serviços especiais e para obras e serviços comuns e especiais de engenharia, artigo sexto, inciso trinta e oito. O diálogo competitivo tem hipóteses restritas, artigo trinta e dois.
+FRANCISCA: A E é a vedação clássica. É proibido criar outras modalidades e combinar as existentes, artigo vinte e oito, parágrafo segundo.
 THALITA: Macete: modalidades fechadas, não se inventa nem se mistura.
-ANTONIO: Isso. A lei nova é taxativa nesse ponto.
+FRANCISCA: Isso. A lei nova é taxativa nesse ponto.
 == SLIDE: Questão 2: fases do processo licitatório
 * Gabarito A
 * Ordem: julgamento antes da habilitação (art. 17)
 * Inversão: ato motivado, benefícios e previsão no edital
 * Revogação: fato superveniente comprovado
 * Manifestação prévia: anulação e revogação (art. 71, § 3º)
-FRANCISCA: Segunda questão, sobre o processo licitatório. Afirmativa um: em regra, o julgamento antecede a habilitação. Afirmativa dois: a habilitação pode anteceder a apresentação de propostas e o julgamento, mediante ato motivado com explicitação dos benefícios, ainda que não haja previsão no edital. Afirmativa três: a revogação pode fundar-se em fato anterior à abertura do certame e dispensa manifestação prévia dos interessados, exigida só na anulação. As alternativas: A, só a um; B, um e dois; C, dois e três; D, um e três; E, todas. Pausa para você pensar.
-THALITA: Eu acho que a dois está certa, porque falou ato motivado.
-BRUNO: Cuidado, Thalita, é a pegadinha. A afirmativa um está certa: a ordem do artigo dezessete coloca o julgamento antes da habilitação.
-ANTONIO: A dois está errada. A inversão exige, cumulativamente, ato motivado, explicitação dos benefícios e previsão expressa no edital, artigo dezessete, parágrafo primeiro. Dizer "ainda que não haja previsão no edital" invalida.
+THALITA: Segunda questão, sobre o processo licitatório. Afirmativa um: em regra, o julgamento antecede a habilitação. Afirmativa dois: a habilitação pode anteceder a apresentação de propostas e o julgamento, mediante ato motivado com explicitação dos benefícios, ainda que não haja previsão no edital. Afirmativa três: a revogação pode fundar-se em fato anterior à abertura do certame e dispensa manifestação prévia dos interessados, exigida só na anulação. As alternativas: A, só a um; B, um e dois; C, dois e três; D, um e três; E, todas. Pausa para você pensar.
+FRANCISCA: Eu acho que a dois está certa, porque falou ato motivado.
+THALITA: Cuidado, Francisca, é a pegadinha. A afirmativa um está certa: a ordem do artigo dezessete coloca o julgamento antes da habilitação.
+FRANCISCA: A dois está errada. A inversão exige, cumulativamente, ato motivado, explicitação dos benefícios e previsão expressa no edital, artigo dezessete, parágrafo primeiro. Dizer "ainda que não haja previsão no edital" invalida.
 THALITA: Então a dois cai por causa do edital.
 FRANCISCA: Na três há dois erros. A revogação exige fato superveniente devidamente comprovado, artigo setenta e um, parágrafo segundo, e não fato anterior à abertura. E a manifestação prévia dos interessados é exigida tanto na anulação quanto na revogação, parágrafo terceiro.
-BRUNO: Resultado: só a um está correta. Gabarito A. A B está errada por incluir a dois; a C, por incluir dois e três; a D, por incluir a três; a E, por incluir dois e três.
-THALITA: Macete: revogação é fato superveniente, anulação é ilegalidade, e os dois pedem manifestação prévia.
-ANTONIO: Boa síntese.
+THALITA: Resultado: só a um está correta. Gabarito A. A B está errada por incluir a dois; a C, por incluir dois e três; a D, por incluir a três; a E, por incluir dois e três.
+FRANCISCA: Macete: revogação é fato superveniente, anulação é ilegalidade, e os dois pedem manifestação prévia.
+THALITA: Boa síntese.
 == SLIDE: Questão 3: prazos mínimos para propostas
 * Gabarito E
 * Bens, menor preço: 8 dias úteis
 * Serviço especial de engenharia, menor preço: 25 dias úteis
 * Contratação integrada: 60 dias úteis
 * Prazos do art. 55 em dias úteis
-BRUNO: Terceira questão, estilo Técnico. O TRT quer realizar, no mesmo mês, dois certames: um pregão para comprar computadores de especificação usual, com menor preço, e uma concorrência para serviço especial de engenharia, também com menor preço. Os prazos mínimos para propostas, contados da divulgação do edital, são, respectivamente, de: A, oito dias corridos e vinte e cinco corridos. B, dez dias úteis e trinta e cinco úteis. C, quinze úteis e vinte e cinco úteis. D, oito úteis e sessenta úteis. E, oito úteis e vinte e cinco úteis. Pausa para você pensar.
+FRANCISCA: Terceira questão, estilo Técnico. O TRT quer realizar, no mesmo mês, dois certames: um pregão para comprar computadores de especificação usual, com menor preço, e uma concorrência para serviço especial de engenharia, também com menor preço. Os prazos mínimos para propostas, contados da divulgação do edital, são, respectivamente, de: A, oito dias corridos e vinte e cinco corridos. B, dez dias úteis e trinta e cinco úteis. C, quinze úteis e vinte e cinco úteis. D, oito úteis e sessenta úteis. E, oito úteis e vinte e cinco úteis. Pausa para você pensar.
 THALITA: Eu lembro de oito dias úteis para bens. Então A e E ficam. Acho que é E.
 FRANCISCA: Isso. A A erra porque os prazos do artigo cinquenta e cinco são contados em dias úteis, não corridos.
-ANTONIO: A E é a correta. Bens com menor preço: oito dias úteis, artigo cinquenta e cinco, inciso um, alínea a. Serviços especiais de engenharia com menor preço: vinte e cinco dias úteis, inciso dois, alínea b.
-BRUNO: A B usa números verdadeiros nos lugares errados. Dez dias úteis é o prazo para serviços comuns com menor preço. Trinta e cinco é para semi-integrada, técnica e preço ou demais hipóteses.
+THALITA: A E é a correta. Bens com menor preço: oito dias úteis, artigo cinquenta e cinco, inciso um, alínea a. Serviços especiais de engenharia com menor preço: vinte e cinco dias úteis, inciso dois, alínea b.
+FRANCISCA: A B usa números verdadeiros nos lugares errados. Dez dias úteis é o prazo para serviços comuns com menor preço. Trinta e cinco é para semi-integrada, técnica e preço ou demais hipóteses.
 THALITA: E o quinze da C?
 FRANCISCA: Quinze dias úteis é o prazo para bens com outros critérios que não menor preço ou maior desconto, e também para o maior lance.
-ANTONIO: Por fim, a D: sessenta dias úteis é o prazo da contratação integrada, artigo cinquenta e cinco, inciso dois, alínea c.
-THALITA: Macete: bens oito, serviço comum dez, especial vinte e cinco, integrada sessenta.
-BRUNO: Isso! E sempre dias úteis.
+THALITA: Por fim, a D: sessenta dias úteis é o prazo da contratação integrada, artigo cinquenta e cinco, inciso dois, alínea c.
+FRANCISCA: Macete: bens oito, serviço comum dez, especial vinte e cinco, integrada sessenta.
+THALITA: Isso! E sempre dias úteis.
 == SLIDE: Questão 4: inexigibilidade de licitação
 * Gabarito B
 * Imóvel de características necessárias: inexigibilidade (art. 74, V)
 * Valor, emergência e licitação deserta: dispensa
 * Publicidade e divulgação: vedada a inexigibilidade
-ANTONIO: Quarta questão, estilo Oficial de Justiça. Qual é hipótese de inexigibilidade? A: contratação de obra de engenharia abaixo de cem mil reais, valor original da lei. B: aquisição ou locação de imóvel cujas características de instalações e localização tornem necessária sua escolha. C: emergência que possa comprometer a segurança de pessoas, para parcelas de obras concluídas em até um ano. D: contratação que mantenha as condições do edital de licitação realizada há menos de um ano, na qual não surgiram interessados. E: serviços de publicidade e divulgação com empresa de notória especialização. Pausa para você pensar.
+FRANCISCA: Quarta questão, estilo Oficial de Justiça. Qual é hipótese de inexigibilidade? A: contratação de obra de engenharia abaixo de cem mil reais, valor original da lei. B: aquisição ou locação de imóvel cujas características de instalações e localização tornem necessária sua escolha. C: emergência que possa comprometer a segurança de pessoas, para parcelas de obras concluídas em até um ano. D: contratação que mantenha as condições do edital de licitação realizada há menos de um ano, na qual não surgiram interessados. E: serviços de publicidade e divulgação com empresa de notória especialização. Pausa para você pensar.
 THALITA: Eu tô entre B e E. Notória especialização é inexigibilidade, não é?
-BRUNO: É, mas o texto da lei veda a inexigibilidade para serviços de publicidade e divulgação, artigo setenta e quatro, inciso três, parte final. Então a E cai.
-FRANCISCA: A B é a correta, artigo setenta e quatro, inciso cinco. Na Lei oito mil seiscentos e sessenta e seis, essa hipótese era dispensa. A lei nova a deslocou para a inexigibilidade, exigindo avaliação prévia, certificação de inexistência de imóvel público disponível e justificativas, parágrafo quinto.
-ANTONIO: A A é dispensa em razão do valor, artigo setenta e cinco, inciso um, com valor atualizado anualmente por decreto.
+FRANCISCA: É, mas o texto da lei veda a inexigibilidade para serviços de publicidade e divulgação, artigo setenta e quatro, inciso três, parte final. Então a E cai.
+THALITA: A B é a correta, artigo setenta e quatro, inciso cinco. Na Lei oito mil seiscentos e sessenta e seis, essa hipótese era dispensa. A lei nova a deslocou para a inexigibilidade, exigindo avaliação prévia, certificação de inexistência de imóvel público disponível e justificativas, parágrafo quinto.
+FRANCISCA: A A é dispensa em razão do valor, artigo setenta e cinco, inciso um, com valor atualizado anualmente por decreto.
 THALITA: E emergência e licitação deserta também são dispensa?
-BRUNO: Isso. A C é emergência, dispensa, artigo setenta e cinco, inciso oito. A D é licitação deserta, dispensa, artigo setenta e cinco, inciso três, alínea a.
+FRANCISCA: Isso. A C é emergência, dispensa, artigo setenta e cinco, inciso oito. A D é licitação deserta, dispensa, artigo setenta e cinco, inciso três, alínea a.
 THALITA: Macete: dispensa é a lista, inexigibilidade é inviabilidade de competição.
-ANTONIO: E lembre: a lista de dispensa é taxativa.
+FRANCISCA: E lembre: a lista de dispensa é taxativa.
 == SLIDE: Questão 5: sanções por documento falso
 * Gabarito D
 * Documento falso: infração do art. 155, VIII
 * Inidoneidade: 3 a 6 anos, todos os entes
 * Competência exclusiva de autoridade equivalente a ministro
 * Advertência só para inexecução parcial; multa de 0,5% a 30%
-FRANCISCA: Quinta questão. A empresa Beta, em pregão eletrônico conduzido pelo TRT, apresentou atestado de capacidade técnica comprovadamente falso. Instaurado o devido processo, ela estará sujeita a: A, impedimento de licitar e contratar por até três anos, em todos os entes. B, inidoneidade por até cinco anos, por competência do agente de contratação. C, advertência cumulada com multa de até vinte por cento, vedada sanção mais grave por ser primeira infração. D, inidoneidade pelo prazo mínimo de três e máximo de seis anos, com efeitos em todos os entes, cumulável com multa e de competência exclusiva de autoridade equivalente a ministro de Estado. E, inidoneidade insuscetível de cumulação com multa, com reabilitação após um ano. Pausa para você pensar.
-THALITA: A D é gigante, geralmente a maior é a certa.
-BRUNO: Hoje o chute funcionou! Mas vamos ver o porquê. Documento falso é infração do artigo cento e cinquenta e cinco, inciso oito, punida com inidoneidade, artigo cento e cinquenta e seis, parágrafo quinto.
-ANTONIO: Por isso a A erra: impedimento é sanção menos grave, e o impedimento alcança só o ente federativo que aplicou a sanção, parágrafo quarto.
-FRANCISCA: A B erra no prazo e na autoridade. A inidoneidade vai de três a seis anos, e a competência é exclusiva da autoridade de nível equivalente a ministro ou secretário, parágrafo sexto, inciso dois. Não é do agente de contratação.
-BRUNO: A C está errada em três pontos. Advertência cabe exclusivamente para inexecução parcial, artigo cento e cinquenta e cinco, inciso um. A multa varia de meio por cento a trinta por cento, artigo cento e cinquenta e seis, parágrafo terceiro. E não há vedação de sanção mais grave.
+THALITA: Quinta questão. A empresa Beta, em pregão eletrônico conduzido pelo TRT, apresentou atestado de capacidade técnica comprovadamente falso. Instaurado o devido processo, ela estará sujeita a: A, impedimento de licitar e contratar por até três anos, em todos os entes. B, inidoneidade por até cinco anos, por competência do agente de contratação. C, advertência cumulada com multa de até vinte por cento, vedada sanção mais grave por ser primeira infração. D, inidoneidade pelo prazo mínimo de três e máximo de seis anos, com efeitos em todos os entes, cumulável com multa e de competência exclusiva de autoridade equivalente a ministro de Estado. E, inidoneidade insuscetível de cumulação com multa, com reabilitação após um ano. Pausa para você pensar.
+FRANCISCA: A D é gigante, geralmente a maior é a certa.
+THALITA: Hoje o chute funcionou! Mas vamos ver o porquê. Documento falso é infração do artigo cento e cinquenta e cinco, inciso oito, punida com inidoneidade, artigo cento e cinquenta e seis, parágrafo quinto.
+FRANCISCA: Por isso a A erra: impedimento é sanção menos grave, e o impedimento alcança só o ente federativo que aplicou a sanção, parágrafo quarto.
+THALITA: A B erra no prazo e na autoridade. A inidoneidade vai de três a seis anos, e a competência é exclusiva da autoridade de nível equivalente a ministro ou secretário, parágrafo sexto, inciso dois. Não é do agente de contratação.
+FRANCISCA: A C está errada em três pontos. Advertência cabe exclusivamente para inexecução parcial, artigo cento e cinquenta e cinco, inciso um. A multa varia de meio por cento a trinta por cento, artigo cento e cinquenta e seis, parágrafo terceiro. E não há vedação de sanção mais grave.
 THALITA: E a E, de reabilitação em um ano?
-ANTONIO: Errada em dois pontos. A multa pode ser cumulada, parágrafo sétimo. E a reabilitação na inidoneidade exige o mínimo de três anos, além de programa de integridade, por ser o inciso oito, artigo cento e sessenta e três, inciso três e parágrafo único.
+FRANCISCA: Errada em dois pontos. A multa pode ser cumulada, parágrafo sétimo. E a reabilitação na inidoneidade exige o mínimo de três anos, além de programa de integridade, por ser o inciso oito, artigo cento e sessenta e três, inciso três e parágrafo único.
 THALITA: Macete: documento falso, inidoneidade, três a seis anos, só autoridade de topo.
 == SLIDE: Questão 6: limites de alteração em reforma
 * Gabarito A
@@ -80,11 +80,11 @@ THALITA: Macete: documento falso, inidoneidade, três a seis anos, só autoridad
 * Supressão continua em 25%
 * Base: valor inicial atualizado
 * Limites não se afastam pelo reequilíbrio no mesmo aditivo
-BRUNO: Sexta questão, com conta. Contrato de reforma de edifício, valor inicial atualizado de oitocentos mil reais. Em alteração unilateral, o contratado é obrigado a aceitar, nas mesmas condições: A, acréscimos de até quatrocentos mil e supressões de até duzentos mil. B, acréscimos e supressões de até quatrocentos mil. C, acréscimos de até duzentos mil e supressões de até quatrocentos mil. D, acréscimos e supressões de até duzentos mil, pois o limite de cinquenta por cento vale só para obras novas. E, acréscimos de qualquer montante, se restabelecido o equilíbrio no mesmo aditivo. Pausa para você pensar.
+FRANCISCA: Sexta questão, com conta. Contrato de reforma de edifício, valor inicial atualizado de oitocentos mil reais. Em alteração unilateral, o contratado é obrigada a aceitar, nas mesmas condições: A, acréscimos de até quatrocentos mil e supressões de até duzentos mil. B, acréscimos e supressões de até quatrocentos mil. C, acréscimos de até duzentos mil e supressões de até quatrocentos mil. D, acréscimos e supressões de até duzentos mil, pois o limite de cinquenta por cento vale só para obras novas. E, acréscimos de qualquer montante, se restabelecido o equilíbrio no mesmo aditivo. Pausa para você pensar.
 THALITA: Cinquenta por cento de oitocentos é quatrocentos, vinte e cinco é duzentos. Então A!
 FRANCISCA: Exato. Em reforma de edifício, os acréscimos vão a cinquenta por cento, quatrocentos mil, e as supressões permanecem em vinte e cinco por cento, duzentos mil. Artigo cento e vinte e cinco.
-ANTONIO: A B está errada porque o limite de cinquenta por cento vale somente para acréscimos. A C inverte os limites.
-BRUNO: A D diz que o cinquenta é para obras novas. Errado: é específico para reforma de edifício ou de equipamento.
+THALITA: A B está errada porque o limite de cinquenta por cento vale somente para acréscimos. A C inverte os limites.
+FRANCISCA: A D diz que o cinquenta é para obras novas. Errado: é específico para reforma de edifício ou de equipamento.
 THALITA: E a E, de qualquer montante?
 FRANCISCA: As alterações unilaterais estão sujeitas aos limites do artigo cento e vinte e cinco e não podem transfigurar o objeto, artigo cento e vinte e seis. O reequilíbrio no mesmo aditivo, artigo cento e trinta, não afasta os limites.
 THALITA: Macete: reforma, cinquenta só para cima.
@@ -94,41 +94,41 @@ THALITA: Macete: reforma, cinquenta só para cima.
 * Receita com investimento: até 35 anos
 * Indeterminado: só monopólio
 * Escopo: prorrogação automática
-ANTONIO: Sétima questão, estilo Técnico, sobre duração. A: contratos de serviços contínuos terão até sessenta meses, prorrogáveis excepcionalmente por mais doze. B: contratação que gere receita, com investimento, terá no máximo vinte anos. C: serviços e fornecimentos contínuos podem ter até cinco anos, prorrogados sucessivamente, respeitada a vigência máxima decenal, com previsão em edital e vantajosidade atestada. D: prazo indeterminado é admitido em qualquer serviço contínuo com créditos orçamentários a cada exercício. E: no contrato por escopo, a vigência se extingue automaticamente ao fim do prazo, mesmo sem conclusão do objeto. Pausa para você pensar.
+FRANCISCA: Sétima questão, estilo Técnico, sobre duração. A: contratos de serviços contínuos terão até sessenta meses, prorrogáveis excepcionalmente por mais doze. B: contratação que gere receita, com investimento, terá no máximo vinte anos. C: serviços e fornecimentos contínuos podem ter até cinco anos, prorrogados sucessivamente, respeitada a vigência máxima decenal, com previsão em edital e vantajosidade atestada. D: prazo indeterminado é admitido em qualquer serviço contínuo com créditos orçamentários a cada exercício. E: no contrato por escopo, a vigência se extingue automaticamente ao fim do prazo, mesmo sem conclusão do objeto. Pausa para você pensar.
 THALITA: A A parece com a lei antiga. Então vou de C.
-BRUNO: Perfeito. A A reproduz a revogada Lei oito mil seiscentos e sessenta e seis, artigo cinquenta e sete, inciso dois e parágrafo quarto. Na lei nova não existe esse "doze excepcionais".
-FRANCISCA: A B erra no número: com investimento, são até trinta e cinco anos; sem investimento, até dez anos, artigo cento e dez.
-ANTONIO: A C é correta, artigos cento e seis e cento e sete.
+FRANCISCA: Perfeito. A A reproduz a revogada Lei oito mil seiscentos e sessenta e seis, artigo cinquenta e sete, inciso dois e parágrafo quarto. Na lei nova não existe esse "doze excepcionais".
+THALITA: A B erra no número: com investimento, são até trinta e cinco anos; sem investimento, até dez anos, artigo cento e dez.
+FRANCISCA: A C é correta, artigos cento e seis e cento e sete.
 THALITA: E a D? Indeterminado?
-BRUNO: Só quando a Administração é usuária de serviço público em regime de monopólio, artigo cento e nove. Não é qualquer contínuo.
-FRANCISCA: E a E erra no efeito. No contrato por escopo, se o objeto não for concluído no prazo, a vigência é automaticamente prorrogada, artigo cento e onze, e o contratado em culpa responde por mora e sanções.
-THALITA: Macete: contínuo cinco mais cinco, receita trinta e cinco, monopólio indeterminado, escopo automático.
+FRANCISCA: Só quando a Administração é usuária de serviço público em regime de monopólio, artigo cento e nove. Não é qualquer contínuo.
+THALITA: E a E erra no efeito. No contrato por escopo, se o objeto não for concluído no prazo, a vigência é automaticamente prorrogada, artigo cento e onze, e o contratado em culpa responde por mora e sanções.
+FRANCISCA: Macete: contínuo cinco mais cinco, receita trinta e cinco, monopólio indeterminado, escopo automático.
 == SLIDE: Questão 8: cláusulas exorbitantes
 * Gabarito E
 * Prerrogativas: alterar, sancionar, ocupar provisoriamente
 * Cláusulas econômico-financeiras: só com concordância do contratado
 * Art. 104, I, IV e V, alínea a
-FRANCISCA: Oitava questão, sobre prerrogativas da Administração. Afirmativa um: modificar unilateralmente o contrato para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado. Dois: alterar unilateralmente as cláusulas econômico-financeiras para reduzir o preço sempre que houver vantagem. Três: ocupar provisoriamente bens e utilizar pessoal e serviços vinculados ao objeto, em caso de risco à prestação de serviços essenciais. Quatro: aplicar sanções motivadas pela inexecução total ou parcial. Quais são cláusulas exorbitantes? A, um e dois. B, dois e quatro. C, um, dois e três. D, três e quatro. E, um, três e quatro. Pausa para você pensar.
-THALITA: A dois parece abusiva demais. Eu a cortaria.
-BRUNO: Acertou. A dois não é prerrogativa. As cláusulas econômico-financeiras e monetárias não podem ser alteradas sem prévia concordância do contratado, artigo cento e quatro, parágrafo primeiro.
-ANTONIO: As outras três são prerrogativas: modificar para melhor adequação ao interesse público, aplicar sanções por inexecução e ocupar provisoriamente bens e pessoal em risco a serviços essenciais. Artigo cento e quatro, incisos um, quatro e cinco, alínea a.
+THALITA: Oitava questão, sobre prerrogativas da Administração. Afirmativa um: modificar unilateralmente o contrato para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado. Dois: alterar unilateralmente as cláusulas econômico-financeiras para reduzir o preço sempre que houver vantagem. Três: ocupar provisoriamente bens e utilizar pessoal e serviços vinculados ao objeto, em caso de risco à prestação de serviços essenciais. Quatro: aplicar sanções motivadas pela inexecução total ou parcial. Quais são cláusulas exorbitantes? A, um e dois. B, dois e quatro. C, um, dois e três. D, três e quatro. E, um, três e quatro. Pausa para você pensar.
+FRANCISCA: A dois parece abusiva demais. Eu a cortaria.
+THALITA: Acertou. A dois não é prerrogativa. As cláusulas econômico-financeiras e monetárias não podem ser alteradas sem prévia concordância do contratado, artigo cento e quatro, parágrafo primeiro.
+FRANCISCA: As outras três são prerrogativas: modificar para melhor adequação ao interesse público, aplicar sanções por inexecução e ocupar provisoriamente bens e pessoal em risco a serviços essenciais. Artigo cento e quatro, incisos um, quatro e cinco, alínea a.
 THALITA: Então só a E fica sem a dois.
 FRANCISCA: Isso. A A está errada porque inclui a dois. A B inclui a dois e omite a um e a três. A C inclui a dois e omite a quatro. A D omite a um, que é prerrogativa.
-BRUNO: Cuidado com esses "apenas em", porque o gabarito exige o conjunto exato.
-THALITA: Macete: pode mudar o objeto, punir e ocupar; preço, só com acordo.
+THALITA: Cuidado com esses "apenas em", porque o gabarito exige o conjunto exato.
+FRANCISCA: Macete: pode mudar o objeto, punir e ocupar; preço, só com acordo.
 == SLIDE: Questão 9: recursos na licitação
 * Gabarito B
 * Intenção de recorrer: imediatamente
 * Razões: 3 dias úteis
 * Reconsideração em 3 dias úteis; autoridade superior em até 10
 * Efeito suspensivo; fase única
-BRUNO: Nona e última desta parte. Carla, representante da Delta, foi inabilitada em concorrência eletrônica sem inversão de fases e quer recorrer. A: o recurso deve ser interposto em cinco dias úteis, da publicação do resultado final. B: a intenção de recorrer deve ser manifestada imediatamente, sob pena de preclusão, e o prazo de três dias úteis para razões começa na intimação ou na lavratura da ata; sem reconsideração em três dias úteis, a autoridade superior decide em até dez dias úteis. C: o recurso não tem efeito suspensivo, e a apreciação ocorre ao final de cada fase. D: a intenção deve ser manifestada em três dias úteis, e as razões em cinco. E: o recurso vai diretamente ao tribunal de contas, que decide em dez dias úteis. Pausa para você pensar.
-THALITA: Esse "imediatamente" eu lembro! É a B.
-FRANCISCA: Boa. A B reproduz o artigo cento e sessenta e cinco, parágrafo primeiro, inciso um, e parágrafo segundo.
-ANTONIO: A A erra no prazo e no marco: são três dias úteis, contados da intimação ou da lavratura da ata, artigo cento e sessenta e cinco, inciso um.
-BRUNO: A C erra dos dois lados: recurso e pedido de reconsideração têm efeito suspensivo, artigo cento e sessenta e oito, e a apreciação se dá em fase única, artigo cento e sessenta e cinco, parágrafo primeiro, inciso dois.
-THALITA: E a D?
-FRANCISCA: Troca os papéis. A intenção é manifestada imediatamente; as razões vêm em três dias úteis.
-ANTONIO: A E também erra: o recurso é dirigido à autoridade que praticou o ato, que pode reconsiderar ou encaminhar à autoridade superior. A provocação dos órgãos de controle se dá por representação, artigo cento e setenta, parágrafo quarto.
+THALITA: Nona e última desta parte. Carla, representante da Delta, foi inabilitada em concorrência eletrônica sem inversão de fases e quer recorrer. A: o recurso deve ser interposto em cinco dias úteis, da publicação do resultado final. B: a intenção de recorrer deve ser manifestada imediatamente, sob pena de preclusão, e o prazo de três dias úteis para razões começa na intimação ou na lavratura da ata; sem reconsideração em três dias úteis, a autoridade superior decide em até dez dias úteis. C: o recurso não tem efeito suspensivo, e a apreciação ocorre ao final de cada fase. D: a intenção deve ser manifestada em três dias úteis, e as razões em cinco. E: o recurso vai diretamente ao tribunal de contas, que decide em dez dias úteis. Pausa para você pensar.
+FRANCISCA: Esse "imediatamente" eu lembro! É a B.
+THALITA: Boa. A B reproduz o artigo cento e sessenta e cinco, parágrafo primeiro, inciso um, e parágrafo segundo.
+FRANCISCA: A A erra no prazo e no marco: são três dias úteis, contados da intimação ou da lavratura da ata, artigo cento e sessenta e cinco, inciso um.
+THALITA: A C erra dos dois lados: recurso e pedido de reconsideração têm efeito suspensivo, artigo cento e sessenta e oito, e a apreciação se dá em fase única, artigo cento e sessenta e cinco, parágrafo primeiro, inciso dois.
+FRANCISCA: E a D?
+THALITA: Troca os papéis. A intenção é manifestada imediatamente; as razões vêm em três dias úteis.
+FRANCISCA: A E também erra: o recurso é dirigido à autoridade que praticou o ato, que pode reconsiderar ou encaminhar à autoridade superior. A provocação dos órgãos de controle se dá por representação, artigo cento e setenta, parágrafo quarto.
 THALITA: Macete: recurso é imediato, razões em três, reconsideração em três, superior em dez.
-BRUNO: Isso! E agora vamos à segunda parte das questões, com mais temas da Lei de Licitações.
+FRANCISCA: Isso! E agora vamos à segunda parte das questões, com mais temas da Lei de Licitações.

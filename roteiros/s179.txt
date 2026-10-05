@@ -5,20 +5,18 @@ SEGMENTO s179
 * Órgãos (art. 85): PGT, Colégio, Conselho Superior, Câmara de Coordenação e Revisão, Corregedoria
 * PGT: nomeado pelo PGR, lista tríplice do Colégio, mandato de 2 anos, uma recondução
 * Pegadinha: PGT não é nomeado pelo Presidente da República
-ANTONIO: Olá, pessoal, bem-vindos à aula cinquenta e dois: Direito Processual do Trabalho, primeira disciplina da parte processual, na segunda parte. Hoje vamos estudar o Ministério Público do Trabalho, pela Lei Complementar setenta e cinco, de mil novecentos e noventa e três, e depois os princípios do processo do trabalho. Eu sou o Antônio, professor, e conduzo a aula.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase, a jurisprudência e exemplos concretos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Vou mostrar como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira. Pergunto o que vocês estariam perguntando e resumo no fim.
-ANTONIO: Vamos começar. O Ministério Público do Trabalho é ramo do Ministério Público da União, artigo cento e vinte e oito, inciso primeiro, alínea b, da Constituição, e é chefiado pelo Procurador-Geral do Trabalho. Ele atua como órgão agente, quando é autor, e como órgão interveniente, quando fiscaliza a ordem jurídica.
+FRANCISCA: Olá, pessoal, bem-vindos à aula cinquenta e dois: Direito Processual do Trabalho, primeira disciplina da parte processual, na segunda parte. Hoje vamos estudar o Ministério Público do Trabalho, pela Lei Complementar setenta e cinco, de mil novecentos e noventa e três, e depois os princípios do processo do trabalho. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos começar. O Ministério Público do Trabalho é ramo do Ministério Público da União, artigo cento e vinte e oito, inciso primeiro, alínea b, da Constituição, e é chefiado pelo Procurador-Geral do Trabalho. Ele atua como órgão agente, quando é autor, e como órgão interveniente, quando fiscaliza a ordem jurídica.
 THALITA: Dá um exemplo de órgão agente?
 FRANCISCA: Ação civil pública, ação anulatória de cláusula e dissídio coletivo em caso de greve. Já como interveniente, ele dá parecer. Agora os órgãos, do artigo oitenta e cinco: Procurador-Geral do Trabalho, Colégio de Procuradores, Conselho Superior, Câmara de Coordenação e Revisão, Corregedoria, Subprocuradores-Gerais, Procuradores Regionais e Procuradores do Trabalho.
-BRUNO: A pegadinha preferida da FCC: dizer que o Procurador-Geral do Trabalho é nomeado pelo Presidente da República depois de aprovação do Senado. Errado. Quem nomeia é o Procurador-Geral da República, a partir de lista tríplice elaborada pelo Colégio. A sabatina no Senado existe para o Procurador-Geral da República, não para o do Trabalho.
-THALITA: O escolhido precisa ter quanto de idade e de carreira?
-ANTONIO: Mais de trinta e cinco anos e cinco de carreira. O mandato é de dois anos, com uma recondução.
+THALITA: A pegadinha preferida da FCC: dizer que o Procurador-Geral do Trabalho é nomeado pelo Presidente da República depois de aprovação do Senado. Errado. Quem nomeia é o Procurador-Geral da República, a partir de lista tríplice elaborada pelo Colégio. A sabatina no Senado existe para o Procurador-Geral da República, não para o do Trabalho.
+FRANCISCA: O escolhido precisa ter quanto de idade e de carreira?
+THALITA: Mais de trinta e cinco anos e cinco de carreira. O mandato é de dois anos, com uma recondução.
 FRANCISCA: O Colégio reúne todos os membros da carreira em atividade. Ele faz a lista tríplice para o Procurador-Geral, a lista sêxtupla para o quinto constitucional, no TST e nos TRTs, e elege membros do Conselho Superior.
-BRUNO: O Conselho Superior é presidido pelo Procurador-Geral, tem função normativa e disciplinar e pode propor ao Procurador-Geral da República a exoneração do chefe do MPT, por voto secreto de dois terços. Mas atenção: a apostila manda conferir os artigos noventa e cinco e seguintes se a questão pedir a composição numérica exata.
-THALITA: E a Câmara de Coordenação e a Corregedoria?
-ANTONIO: A Câmara tem três membros, um indicado pelo Procurador-Geral e dois pelo Conselho Superior, com mandato de dois anos, e cuida da coordenação, integração e revisão do exercício funcional. A Corregedoria fiscaliza a atividade funcional e a conduta dos membros, e o Corregedor-Geral é escolhido entre Subprocuradores-Gerais de lista tríplice do Conselho.
+THALITA: O Conselho Superior é presidido pelo Procurador-Geral, tem função normativa e disciplinar e pode propor ao Procurador-Geral da República a exoneração do chefe do MPT, por voto secreto de dois terços. Mas atenção: a apostila manda conferir os artigos noventa e cinco e seguintes se a questão pedir a composição numérica exata.
+FRANCISCA: E a Câmara de Coordenação e a Corregedoria?
+THALITA: A Câmara tem três membros, um indicado pelo Procurador-Geral e dois pelo Conselho Superior, com mandato de dois anos, e cuida da coordenação, integração e revisão do exercício funcional. A Corregedoria fiscaliza a atividade funcional e a conduta dos membros, e o Corregedor-Geral é escolhido entre Subprocuradores-Gerais de lista tríplice do Conselho.
 FRANCISCA: A carreira vai de Procurador do Trabalho, depois Procurador Regional, até Subprocurador-Geral. Os Subprocuradores atuam junto ao TST; os Regionais e os do Trabalho, nos TRTs e no primeiro grau.
 == SLIDE: Atribuições judiciais do MPT (art. 83)
 * Ações previstas na CF e nas leis; manifestação em qualquer fase por juízo próprio (incisos I e II)
@@ -26,17 +24,17 @@ FRANCISCA: A carreira vai de Procurador do Trabalho, depois Procurador Regional,
 * Recorrer e pedir revisão de súmulas (VI); sessões dos tribunais (VII)
 * Instaurar instância em greve (VIII); mandado de injunção (X); árbitro, só se pedido (XI)
 * Intervenção obrigatória só em 2º e 3º graus se a parte for ente público (XIII)
-BRUNO: Chegamos ao quadro do artigo oitenta e três, com treze incisos. A FCC adora cobrar isso. Vamos devagar.
-ANTONIO: Inciso primeiro: promover as ações que a Constituição e as leis trabalhistas atribuírem. É a base genérica. Inciso segundo: manifestar-se em qualquer fase do processo, a pedido do juiz ou por iniciativa própria, quando houver interesse público. Aqui a intervenção é facultativa, por juízo do próprio MPT.
+THALITA: Chegamos ao quadro do artigo oitenta e três, com treze incisos. A FCC adora cobrar isso. Vamos devagar.
+FRANCISCA: Inciso primeiro: promover as ações que a Constituição e as leis trabalhistas atribuírem. É a base genérica. Inciso segundo: manifestar-se em qualquer fase do processo, a pedido do juiz ou por iniciativa própria, quando houver interesse público. Aqui a intervenção é facultativa, por juízo do próprio MPT.
 THALITA: Facultativa. Então é diferente da obrigatória que a gente vai ver no último inciso.
 FRANCISCA: Exato. Inciso terceiro: ajuizar ação civil pública na Justiça do Trabalho para defender interesses coletivos, quando forem desrespeitados direitos sociais constitucionais. Tema frequente em prova. Inciso quarto: propor ação de nulidade de cláusula de contrato, acordo ou convenção coletiva que viole liberdades individuais ou coletivas ou direitos indisponíveis. É a ação anulatória.
-BRUNO: O quinto é a defesa de direitos de menores, incapazes e índios decorrentes das relações de trabalho. O sexto, recorrer das decisões da Justiça do Trabalho, como parte ou fiscal da lei, e pedir revisão de súmulas do TST. O sétimo, funcionar nas sessões dos tribunais, com manifestação oral, vista e pedido de diligências.
-THALITA: Já são sete. O oitavo me lembra a greve.
-ANTONIO: Lembrou certo. Inciso oitavo: instaurar instância em caso de greve, quando a ordem jurídica ou o interesse público exigirem. Liga-se ao artigo cento e catorze, parágrafo terceiro, da Constituição. O nono: participar da instrução e da conciliação em dissídios de paralisação de serviços, oficiando obrigatoriamente sobre acordos antes da homologação.
+THALITA: O quinto é a defesa de direitos de menores, incapazes e índios decorrentes das relações de trabalho. O sexto, recorrer das decisões da Justiça do Trabalho, como parte ou fiscal da lei, e pedir revisão de súmulas do TST. O sétimo, funcionar nas sessões dos tribunais, com manifestação oral, vista e pedido de diligências.
+FRANCISCA: Já são sete. O oitavo me lembra a greve.
+THALITA: Lembrou certo. Inciso oitavo: instaurar instância em caso de greve, quando a ordem jurídica ou o interesse público exigirem. Liga-se ao artigo cento e catorze, parágrafo terceiro, da Constituição. O nono: participar da instrução e da conciliação em dissídios de paralisação de serviços, oficiando obrigatoriamente sobre acordos antes da homologação.
 FRANCISCA: Décimo: promover mandado de injunção de competência da Justiça do Trabalho. Décimo primeiro: atuar como árbitro, se as partes pedirem, nos dissídios da competência da Justiça do Trabalho. Arbitragem só a pedido das partes. Décimo segundo: requerer as diligências necessárias ao andamento dos processos.
-BRUNO: E o décimo terceiro é o mais cobrado: intervir obrigatoriamente em todos os feitos de segundo e terceiro graus quando a parte for pessoa jurídica de direito público, Estado estrangeiro ou organismo internacional. Obrigatória só nos graus superiores.
-THALITA: Entendi. Exemplo: a Carla move reclamação contra o Município de Breves. Na Vara, a intervenção por esse fundamento não é obrigatória, mas no TRT, quando o recurso sobe, passa a ser obrigatória.
-ANTONIO: Perfeito, é o exemplo da apostila.
+THALITA: E o décimo terceiro é o mais cobrado: intervir obrigatoriamente em todos os feitos de segundo e terceiro graus quando a parte for pessoa jurídica de direito público, Estado estrangeiro ou organismo internacional. Obrigatória só nos graus superiores.
+FRANCISCA: Entendi. Exemplo: a Carla move reclamação contra o Município de Breves. Na Vara, a intervenção por esse fundamento não é obrigatória, mas no TRT, quando o recurso sobe, passa a ser obrigatória.
+THALITA: Perfeito, é o exemplo da apostila.
 == SLIDE: Atribuições extrajudiciais, TAC e OJ 237
 * Art. 84: inquérito civil e requisição de procedimentos à fiscalização do trabalho
 * Ciência pessoal das decisões nas causas em que interveio ou emitiu parecer escrito
@@ -45,32 +43,32 @@ ANTONIO: Perfeito, é o exemplo da apostila.
 * Mas pode recorrer contra vínculo com ente estatal sem concurso após a CF/1988
 FRANCISCA: Passamos às atribuições extrajudiciais, do artigo oitenta e quatro. A primeira é instaurar inquérito civil e outros procedimentos para assegurar a observância dos direitos sociais dos trabalhadores.
 THALITA: Então o inquérito civil é a investigação do MPT antes de ir ao Judiciário?
-ANTONIO: Isso. A segunda é requisitar à autoridade federal de fiscalização do trabalho a abertura de procedimentos administrativos, podendo acompanhá-los e produzir provas. A terceira é ser cientificado pessoalmente das decisões nas causas em que interveio ou emitiu parecer escrito.
-BRUNO: Cuidado: ciência pessoal. Se a banca disser que o MPT é intimado pelo Diário, é pegadinha. E ainda há a participação em órgãos colegiados pertinentes às suas atribuições.
+FRANCISCA: Isso. A segunda é requisitar à autoridade federal de fiscalização do trabalho a abertura de procedimentos administrativos, podendo acompanhá-los e produzir provas. A terceira é ser cientificado pessoalmente das decisões nas causas em que interveio ou emitiu parecer escrito.
+THALITA: Cuidado: ciência pessoal. Se a banca disser que o MPT é intimado pelo Diário, é pegadinha. E ainda há a participação em órgãos colegiados pertinentes às suas atribuições.
 FRANCISCA: A última é firmar termo de ajuste de conduta, que tem eficácia de título executivo extrajudicial, pelo artigo quinto, parágrafo sexto, da Lei sete mil trezentos e quarenta e sete, de mil novecentos e oitenta e cinco, e pelo artigo oitocentos e setenta e seis da CLT.
 THALITA: Então o TAC, se descumprido, já vai direto para a execução, sem precisar de processo de conhecimento.
-ANTONIO: Exato. Agora a jurisprudência: a Orientação Jurisprudencial duzentos e trinta e sete da SDI-um. O MPT não tem legitimidade para recorrer em defesa de interesse patrimonial privado, ainda que de empresa pública ou sociedade de economia mista.
-BRUNO: Mas tem legitimidade para recorrer de decisão que reconhece vínculo com essas entidades sem concurso público após a Constituição de mil novecentos e oitenta e oito, porque aí se trata de matéria de ordem pública. A banca gosta de trocar uma coisa pela outra.
-THALITA: Então: interesse patrimonial privado não, ordem pública sim.
-FRANCISCA: Isso. Resumindo o MPT: agente, quando propõe ação civil pública, anulatória ou dissídio de greve; interveniente, quando é fiscal da ordem jurídica; obrigatório só em segundo e terceiro graus com ente público; e extrajudicialmente, inquérito, requisição e TAC.
-ANTONIO: Fechamos o Ministério Público. Agora entramos nos princípios do processo do trabalho.
+FRANCISCA: Exato. Agora a jurisprudência: a Orientação Jurisprudencial duzentos e trinta e sete da SDI-um. O MPT não tem legitimidade para recorrer em defesa de interesse patrimonial privado, ainda que de empresa pública ou sociedade de economia mista.
+THALITA: Mas tem legitimidade para recorrer de decisão que reconhece vínculo com essas entidades sem concurso público após a Constituição de mil novecentos e oitenta e oito, porque aí se trata de matéria de ordem pública. A banca gosta de trocar uma coisa pela outra.
+FRANCISCA: Então: interesse patrimonial privado não, ordem pública sim.
+THALITA: Isso. Resumindo o MPT: agente, quando propõe ação civil pública, anulatória ou dissídio de greve; interveniente, quando é fiscal da ordem jurídica; obrigatório só em segundo e terceiro graus com ente público; e extrajudicialmente, inquérito, requisição e TAC.
+FRANCISCA: Fechamos o Ministério Público. Agora entramos nos princípios do processo do trabalho.
 == SLIDE: Princípios do processo do trabalho: o quadro geral
 * Proteção: compensa a desigualdade material (arts. 844, 899 e 790)
 * Oralidade: defesa oral em 20 minutos; razões finais em 10 (arts. 847 e 850)
 * Concentração e imediatidade: audiência una; juiz colhe a prova (arts. 849, 820, 848)
 * Celeridade (art. 765); informalidade (art. 841), com pedido certo desde a Reforma (art. 840, § 1º)
 * Impulso oficial (arts. 765 e 878), restrito na execução
-BRUNO: O processo do trabalho foi desenhado para a parte economicamente frágil e para o crédito alimentar. Daí os princípios: proteção, oralidade, concentração, imediatidade, celeridade e informalidade.
-THALITA: Quero começar pelo da proteção. Como ele aparece no processo?
-ANTONIO: Compensa a desigualdade material com regras processuais favoráveis ao trabalhador. Se o reclamante falta, há arquivamento; se o reclamado falta, há revelia, artigo oitocentos e quarenta e quatro. O depósito recursal é só do empregador, artigo oitocentos e noventa e nove. E há gratuidade, artigo setecentos e noventa.
+THALITA: O processo do trabalho foi desenhado para a parte economicamente frágil e para o crédito alimentar. Daí os princípios: proteção, oralidade, concentração, imediatidade, celeridade e informalidade.
+FRANCISCA: Quero começar pelo da proteção. Como ele aparece no processo?
+THALITA: Compensa a desigualdade material com regras processuais favoráveis ao trabalhador. Se o reclamante falta, há arquivamento; se o reclamado falta, há revelia, artigo oitocentos e quarenta e quatro. O depósito recursal é só do empregador, artigo oitocentos e noventa e nove. E há gratuidade, artigo setecentos e noventa.
 FRANCISCA: Mas esse princípio foi relativizado pela Reforma: custas por ausência do reclamante e honorários de sucumbência.
-BRUNO: Oralidade: predomínio da palavra falada na audiência. Reclamação verbal, artigo oitocentos e quarenta, parágrafo segundo; defesa oral em vinte minutos, artigo oitocentos e quarenta e sete; razões finais em dez minutos, artigo oitocentos e cinquenta. Hoje admite peças escritas, no PJe.
-THALITA: Vinte para a defesa, dez para as razões finais. Concentração é o quê?
-ANTONIO: Atos reunidos em audiência una. Não sendo possível concluí-la, o juiz marca a continuação para a primeira desimpedida, artigo oitocentos e quarenta e nove. Na prática, há fracionamento por pauta, inicial e instrução.
+THALITA: Oralidade: predomínio da palavra falada na audiência. Reclamação verbal, artigo oitocentos e quarenta, parágrafo segundo; defesa oral em vinte minutos, artigo oitocentos e quarenta e sete; razões finais em dez minutos, artigo oitocentos e cinquenta. Hoje admite peças escritas, no PJe.
+FRANCISCA: Vinte para a defesa, dez para as razões finais. Concentração é o quê?
+THALITA: Atos reunidos em audiência una. Não sendo possível concluí-la, o juiz marca a continuação para a primeira desimpedida, artigo oitocentos e quarenta e nove. Na prática, há fracionamento por pauta, inicial e instrução.
 FRANCISCA: Imediatidade: contato direto do juiz com as partes e as provas, com interrogatório das partes e oitiva de testemunhas pelo juiz, artigos oitocentos e vinte e oitocentos e quarenta e oito. A exceção é a carta precatória.
-BRUNO: Celeridade: duração razoável, artigo quinto, inciso setenta e oito, da Constituição, artigo setecentos e sessenta e cinco da CLT e procedimento sumaríssimo. Informalidade: formas simples, petição sem fundamentação jurídica detalhada, notificação postal, artigo oitocentos e quarenta e um. Mas a Reforma exigiu pedido certo, determinado e com valor.
-THALITA: E o impulso oficial?
-ANTONIO: O juiz conduz o processo e, em certos casos, promove a execução, artigos setecentos e sessenta e cinco e oitocentos e setenta e oito. Restrito na execução após a Reforma. Voltamos a isso no fim.
+THALITA: Celeridade: duração razoável, artigo quinto, inciso setenta e oito, da Constituição, artigo setecentos e sessenta e cinco da CLT e procedimento sumaríssimo. Informalidade: formas simples, petição sem fundamentação jurídica detalhada, notificação postal, artigo oitocentos e quarenta e um. Mas a Reforma exigiu pedido certo, determinado e com valor.
+FRANCISCA: E o impulso oficial?
+THALITA: O juiz conduz o processo e, em certos casos, promove a execução, artigos setecentos e sessenta e cinco e oitocentos e setenta e oito. Restrito na execução após a Reforma. Voltamos a isso no fim.
 == SLIDE: Irrecorribilidade das interlocutórias e Súmula 214
 * Interlocutórias: sem recurso imediato (art. 893, § 1º); protesto evita preclusão
 * Súm. 214, a: decisão de TRT contrária a súmula ou OJ do TST
@@ -79,38 +77,38 @@ ANTONIO: O juiz conduz o processo e, em certos casos, promove a execução, arti
 * Rejeição da exceção: nunca recorrível de imediato; terminativa do feito é recorrível (art. 799, § 2º)
 FRANCISCA: Os incidentes são resolvidos pelo próprio juízo, e o mérito das interlocutórias só se aprecia no recurso contra a decisão definitiva, artigo oitocentos e noventa e três, parágrafo primeiro. A parte deve registrar o inconformismo, o protesto, para evitar a preclusão, e renovar a matéria no recurso cabível.
 THALITA: Mas existem exceções, né? A tal Súmula duzentos e quatorze.
-BRUNO: Três exceções. A primeira, alínea a: decisão de TRT contrária a súmula ou orientação jurisprudencial do TST. Exemplo: o acórdão regional anula a sentença e devolve os autos, contrariando súmula do TST. Cabe recurso de revista de imediato.
-FRANCISCA: Alínea b: decisão suscetível de recurso para o mesmo tribunal. Por exemplo, decisão monocrática do relator, que desafia agravo interno.
-THALITA: E a c?
-ANTONIO: Decisão que acolhe exceção de incompetência territorial e remete os autos a TRT distinto daquele a que se vincula o juízo excepcionado. Exemplo: a Vara de Belém, da Oitava Região, acolhe a exceção e manda para Fortaleza, na Sétima Região. Cabe recurso ordinário imediato.
-BRUNO: Pegadinha número um: se a banca diz que, acolhida a exceção, cabe recurso imediato, só vale se a remessa for para outra região. Dentro da mesma região, não cabe.
+FRANCISCA: Três exceções. A primeira, alínea a: decisão de TRT contrária a súmula ou orientação jurisprudencial do TST. Exemplo: o acórdão regional anula a sentença e devolve os autos, contrariando súmula do TST. Cabe recurso de revista de imediato.
+THALITA: Alínea b: decisão suscetível de recurso para o mesmo tribunal. Por exemplo, decisão monocrática do relator, que desafia agravo interno.
+FRANCISCA: E a c?
+THALITA: Decisão que acolhe exceção de incompetência territorial e remete os autos a TRT distinto daquele a que se vincula o juízo excepcionado. Exemplo: a Vara de Belém, da Oitava Região, acolhe a exceção e manda para Fortaleza, na Sétima Região. Cabe recurso ordinário imediato.
+FRANCISCA: Pegadinha número um: se a banca diz que, acolhida a exceção, cabe recurso imediato, só vale se a remessa for para outra região. Dentro da mesma região, não cabe.
 THALITA: Eu chutaria que, se a exceção for rejeitada, cabe recurso. Erro?
-BRUNO: Erro. A decisão que rejeita a exceção nunca é recorrível de imediato. Pegadinha número três: decisão terminativa do feito, como incompetência absoluta que extingue o processo ou remete à Justiça Comum, é recorrível, artigo setecentos e noventa e nove, parágrafo segundo.
-FRANCISCA: A apostila ainda traz outras interlocutórias. No incidente de desconsideração da personalidade jurídica, não cabe recurso imediato na fase de conhecimento; na execução cabe agravo de petição, sem garantia do juízo. A tutela provisória concedida ou negada antes da sentença é atacável por mandado de segurança; concedida na sentença, por recurso ordinário, Súmula quatrocentos e catorze.
+FRANCISCA: Erro. A decisão que rejeita a exceção nunca é recorrível de imediato. Pegadinha número três: decisão terminativa do feito, como incompetência absoluta que extingue o processo ou remete à Justiça Comum, é recorrível, artigo setecentos e noventa e nove, parágrafo segundo.
+THALITA: A apostila ainda traz outras interlocutórias. No incidente de desconsideração da personalidade jurídica, não cabe recurso imediato na fase de conhecimento; na execução cabe agravo de petição, sem garantia do juízo. A tutela provisória concedida ou negada antes da sentença é atacável por mandado de segurança; concedida na sentença, por recurso ordinário, Súmula quatrocentos e catorze.
 == SLIDE: Conciliação e jus postulandi
 * Conciliação sempre buscada (art. 764); duas tentativas obrigatórias (arts. 846 e 850)
 * Sem acordo, o juízo conciliatório vira decisório; acordo possível a qualquer tempo
 * Termo de acordo: decisão irrecorrível, só rescisória (Súm. 259); homologação é faculdade (Súm. 418)
 * Jus postulandi (art. 791; Súm. 425): vale nas Varas e TRTs
 * Exigem advogado: rescisória, cautelar, MS, recursos ao TST e acordo extrajudicial (art. 855-B)
-THALITA: Agora a conciliação. É sempre o objetivo?
-ANTONIO: Sim: os dissídios, individuais e coletivos, estão sempre sujeitos à conciliação, artigo setecentos e sessenta e quatro. O juiz deve empregar bons ofícios e persuasão. Se não houver acordo, o juízo conciliatório converte-se em arbitral, isto é, decisório.
-BRUNO: E a conciliação pode ocorrer mesmo depois de encerrado o juízo conciliatório. As tentativas obrigatórias são duas: na abertura da audiência, artigo oitocentos e quarenta e seis, e após as razões finais, artigo oitocentos e cinquenta.
-FRANCISCA: O termo de acordo vale como decisão irrecorrível, salvo para a Previdência quanto às contribuições. Só se impugna por ação rescisória, Súmula duzentos e cinquenta e nove. E o juiz não é obrigado a homologar: não há direito líquido e certo à homologação, Súmula quatrocentos e dezoito.
-THALITA: Resumindo: duas tentativas, termo irrecorrível, só rescisória, e o juiz pode recusar homologar.
-ANTONIO: Isso. Agora o jus postulandi, artigo setecentos e noventa e um e Súmula quatrocentos e vinte e cinco. Empregado e empregador podem atuar sem advogado, mas com limites.
-BRUNO: Sem advogado: reclamação e defesa nas Varas, recursos ordinários e atos perante os TRTs, acompanhamento da reclamação até o final nas instâncias ordinárias.
-FRANCISCA: Exigem advogado: ação rescisória, ação cautelar, mandado de segurança, recursos de competência do TST, como revista e embargos, e homologação de acordo extrajudicial, artigo oitocentos e cinquenta e cinco-B, com advogados distintos, facultado ao trabalhador o do sindicato.
-THALITA: Eu guardo: Vara e TRT, pode; rescisória, cautelar, mandado de segurança e TST, precisa.
+FRANCISCA: Agora a conciliação. É sempre o objetivo?
+THALITA: Sim: os dissídios, individuais e coletivos, estão sempre sujeitos à conciliação, artigo setecentos e sessenta e quatro. O juiz deve empregar bons ofícios e persuasão. Se não houver acordo, o juízo conciliatório converte-se em arbitral, isto é, decisório.
+FRANCISCA: E a conciliação pode ocorrer mesmo depois de encerrado o juízo conciliatório. As tentativas obrigatórias são duas: na abertura da audiência, artigo oitocentos e quarenta e seis, e após as razões finais, artigo oitocentos e cinquenta.
+THALITA: O termo de acordo vale como decisão irrecorrível, salvo para a Previdência quanto às contribuições. Só se impugna por ação rescisória, Súmula duzentos e cinquenta e nove. E o juiz não é obrigada a homologar: não há direito líquido e certo à homologação, Súmula quatrocentos e dezoito.
+FRANCISCA: Resumindo: duas tentativas, termo irrecorrível, só rescisória, e o juiz pode recusar homologar.
+THALITA: Isso. Agora o jus postulandi, artigo setecentos e noventa e um e Súmula quatrocentos e vinte e cinco. Empregado e empregador podem atuar sem advogado, mas com limites.
+FRANCISCA: Sem advogado: reclamação e defesa nas Varas, recursos ordinários e atos perante os TRTs, acompanhamento da reclamação até o final nas instâncias ordinárias.
+THALITA: Exigem advogado: ação rescisória, ação cautelar, mandado de segurança, recursos de competência do TST, como revista e embargos, e homologação de acordo extrajudicial, artigo oitocentos e cinquenta e cinco-B, com advogados distintos, facultado ao trabalhador o do sindicato.
+FRANCISCA: Eu guardo: Vara e TRT, pode; rescisória, cautelar, mandado de segurança e TST, precisa.
 == SLIDE: Impulso oficial na execução e próximo tema
 * Antes da Reforma: execução por qualquer interessado ou de ofício, em qualquer caso
 * Depois da Lei 13.467/2017: pelas partes; de ofício só sem advogado (art. 878)
 * Contribuições previdenciárias continuam de ofício (art. 114, VIII CF; art. 876, parágrafo único)
 * Exemplo: Márcio com advogado; sentença transitada; o juiz não inicia a execução
-ANTONIO: Para fechar os princípios, o impulso oficial na execução, artigo oitocentos e setenta e oito. Antes da Reforma, a execução podia ser promovida por qualquer interessado ou de ofício pelo juiz, em qualquer caso.
-BRUNO: Depois da Lei treze mil quatrocentos e sessenta e sete, a execução é promovida pelas partes. De ofício, apenas quando as partes não estiverem representadas por advogado.
+THALITA: Para fechar os princípios, o impulso oficial na execução, artigo oitocentos e setenta e oito. Antes da Reforma, a execução podia ser promovida por qualquer interessado ou de ofício pelo juiz, em qualquer caso.
+FRANCISCA: Depois da Lei treze mil quatrocentos e sessenta e sete, a execução é promovida pelas partes. De ofício, apenas quando as partes não estiverem representadas por advogado.
 THALITA: Dá um exemplo?
 FRANCISCA: Na reclamação do Márcio, assistido por advogado, a sentença transitou em julgado e o advogado nada requereu. O juiz não pode iniciar de ofício a execução do crédito trabalhista. Se o Márcio atuasse sem advogado, pelo jus postulandi, poderia.
-BRUNO: E um alerta: as contribuições previdenciárias continuam executadas de ofício, artigo cento e catorze, inciso oitavo, da Constituição, e artigo oitocentos e setenta e seis, parágrafo único, da CLT. A restrição do artigo oitocentos e setenta e oito não as alcança.
-THALITA: Então: crédito trabalhista, só de ofício sem advogado; contribuição previdenciária, sempre de ofício.
-ANTONIO: Perfeito. Na próxima parte vamos ver a aplicação subsidiária e supletiva do Código de Processo Civil, e também prescrição, decadência e prescrição intercorrente. Até lá.
+THALITA: E um alerta: as contribuições previdenciárias continuam executadas de ofício, artigo cento e catorze, inciso oitavo, da Constituição, e artigo oitocentos e setenta e seis, parágrafo único, da CLT. A restrição do artigo oitocentos e setenta e oito não as alcança.
+FRANCISCA: Então: crédito trabalhista, só de ofício sem advogado; contribuição previdenciária, sempre de ofício.
+THALITA: Perfeito. Na próxima parte vamos ver a aplicação subsidiária e supletiva do Código de Processo Civil, e também prescrição, decadência e prescrição intercorrente. Até lá.

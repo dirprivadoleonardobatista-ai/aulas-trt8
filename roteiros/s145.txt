@@ -5,16 +5,15 @@ SEGMENTO s145
 * Dispensa sem justa causa e proteção constitucional
 * Acordo do art. 484-A e culpa recíproca; aviso prévio
 * Verbas em 10 dias (art. 477, §6º)
-ANTONIO: Bem-vindos à aula quarenta e dois, a segunda parte de Direito do Trabalho sobre o contrato de trabalho, a vida e a morte do vínculo. Hoje vamos estudar a extinção do contrato em duas partes e, depois, o aviso prévio. Nesta primeira parte: justa causa, rescisão indireta e dispensa sem justa causa.
-THALITA: Eu sou a Thalita, concurseira. Justa causa me deixa confusa, porque tem muita letrinha!
-FRANCISCA: Eu sou a Francisca, professora. Vou trazer a lei em paráfrase e exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC, e vou mostrar as pegadinhas.
-ANTONIO: Antes dos detalhes, o mapa geral. A extinção pode ser por ato do empregador: dispensa sem justa causa, com multa de quarenta por cento sobre o FGTS, e dispensa por justa causa, do artigo quatrocentos e oitenta e dois, rol taxativo.
+FRANCISCA: Bem-vindos à aula quarenta e dois, a segunda parte de Direito do Trabalho sobre o contrato de trabalho, a vida e a morte do vínculo. Hoje vamos estudar a extinção do contrato em duas partes e, depois, o aviso prévio. Nesta primeira parte: justa causa, rescisão indireta e dispensa sem justa causa.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Antes dos detalhes, o mapa geral. A extinção pode ser por ato do empregador: dispensa sem justa causa, com multa de quarenta por cento sobre o FGTS, e dispensa por justa causa, do artigo quatrocentos e oitenta e dois, rol taxativo.
 FRANCISCA: Por ato do empregado: o pedido de demissão e a rescisão indireta, do artigo quatrocentos e oitenta e três. Por ato de ambos: o acordo do artigo quatrocentos e oitenta e quatro A e a culpa recíproca, do artigo quatrocentos e oitenta e quatro, com a Súmula catorze do TST, que prevê cinquenta por cento.
-BRUNO: E há outras formas: término do contrato a termo, morte, força maior, no artigo quinhentos e dois, o fato do príncipe, do artigo quatrocentos e oitenta e seis, e a dispensa coletiva, do artigo quatrocentos e setenta e sete A, com o Tema seiscentos e trinta e oito do Supremo.
-THALITA: E o prazo para pagar tudo isso?
-ANTONIO: Pagamento das verbas e entrega de documentos em dez dias do término do contrato, artigo quatrocentos e setenta e sete, parágrafo sexto, sob pena da multa do parágrafo oitavo. E as parcelas incontroversas não pagas em audiência levam acréscimo de cinquenta por cento, artigo quatrocentos e sessenta e sete.
-THALITA: Macete: dez dias para pagar, e cinquenta por cento sobre o incontroverso na audiência.
+THALITA: E há outras formas: término do contrato a termo, morte, força maior, no artigo quinhentos e dois, o fato do príncipe, do artigo quatrocentos e oitenta e seis, e a dispensa coletiva, do artigo quatrocentos e setenta e sete A, com o Tema seiscentos e trinta e oito do Supremo.
+FRANCISCA: E o prazo para pagar tudo isso?
+THALITA: Pagamento das verbas e entrega de documentos em dez dias do término do contrato, artigo quatrocentos e setenta e sete, parágrafo sexto, sob pena da multa do parágrafo oitavo. E as parcelas incontroversas não pagas em audiência levam acréscimo de cinquenta por cento, artigo quatrocentos e sessenta e sete.
+FRANCISCA: Macete: dez dias para pagar, e cinquenta por cento sobre o incontroverso na audiência.
 == SLIDE: Justa causa do empregado: do art. 482, alíneas a até e
 * Rol taxativo: tipicidade
 * Improbidade: desonestidade patrimonial
@@ -22,27 +21,27 @@ THALITA: Macete: dez dias para pagar, e cinquenta por cento sobre o incontrovers
 * Negociação habitual: habitualidade + falta de permissão
 * Condenação criminal: trânsito em julgado, sem suspensão da pena
 * Desídia: negligência reiterada
-FRANCISCA: Vamos ao artigo quatrocentos e oitenta e dois, que lista as justas causas do empregado. O rol é taxativo, pelo princípio da tipicidade: não há justa causa fora da lei.
-THALITA: E o que é a improbidade?
-BRUNO: É a desonestidade que atinge o patrimônio: furto, apropriação, fraude em atestado, falsificação de ponto. Exige prova robusta e atinge a fidúcia mesmo se o valor for pequeno.
-ANTONIO: A alínea b traz duas figuras. Incontinência de conduta é o desvio de natureza sexual, como assédio sexual ou pornografia no ambiente de trabalho. Mau procedimento é a conduta incompatível com as regras de convivência, residual: o que não se enquadra em outra alínea. É um tipo aberto, usado com cautela.
-FRANCISCA: A alínea c é a negociação habitual por conta própria ou alheia sem permissão do empregador, quando constituir ato de concorrência ou for prejudicial ao serviço. Exige habitualidade, falta de permissão e concorrência ou prejuízo. Ato isolado não configura, e com permissão do empregador não há falta.
-THALITA: Então vendedor que vende cosméticos uma vez para uma colega não comete justa causa?
-BRUNO: Exatamente: falta habitualidade e, se houver permissão, também não há falta.
-ANTONIO: A alínea d é a condenação criminal com trânsito em julgado, desde que não haja suspensão da execução da pena. O motivo é a impossibilidade física de trabalhar, pela prisão. O sursis afasta a justa causa.
-FRANCISCA: E a alínea e é a desídia: desleixo, negligência, faltas e atrasos reiterados. Em regra exige gradação de penas, mas um ato único gravíssimo pode bastar.
+THALITA: Vamos ao artigo quatrocentos e oitenta e dois, que lista as justas causas do empregado. O rol é taxativo, pelo princípio da tipicidade: não há justa causa fora da lei.
+FRANCISCA: E o que é a improbidade?
+THALITA: É a desonestidade que atinge o patrimônio: furto, apropriação, fraude em atestado, falsificação de ponto. Exige prova robusta e atinge a fidúcia mesmo se o valor for pequeno.
+FRANCISCA: A alínea b traz duas figuras. Incontinência de conduta é o desvio de natureza sexual, como assédio sexual ou pornografia no ambiente de trabalho. Mau procedimento é a conduta incompatível com as regras de convivência, residual: o que não se enquadra em outra alínea. É um tipo aberto, usado com cautela.
+THALITA: A alínea c é a negociação habitual por conta própria ou alheia sem permissão do empregador, quando constituir ato de concorrência ou for prejudicial ao serviço. Exige habitualidade, falta de permissão e concorrência ou prejuízo. Ato isolado não configura, e com permissão do empregador não há falta.
+FRANCISCA: Então vendedor que vende cosméticos uma vez para uma colega não comete justa causa?
+THALITA: Exatamente: falta habitualidade e, se houver permissão, também não há falta.
+FRANCISCA: A alínea d é a condenação criminal com trânsito em julgado, desde que não haja suspensão da execução da pena. O motivo é a impossibilidade física de trabalhar, pela prisão. O sursis afasta a justa causa.
+THALITA: E a alínea e é a desídia: desleixo, negligência, faltas e atrasos reiterados. Em regra exige gradação de penas, mas um ato único gravíssimo pode bastar.
 == SLIDE: Alíneas f, g, h e abandono de emprego
 * Embriaguez habitual ou em serviço; alcoolismo crônico é doença
 * Violação de segredo: não se confunde com denúncia de ilícito
 * Indisciplina: ordem geral; insubordinação: ordem pessoal
 * Abandono: ausência prolongada + intenção de não voltar
 * Súmula 32 do TST: 30 dias após alta previdenciária
-THALITA: Continuando, qual a próxima?
-BRUNO: A alínea f: embriaguez habitual ou em serviço. Habitual é fora do serviço, mas reiterada. Em serviço, basta uma vez. Cuidado: o TST trata o alcoolismo crônico como doença, com encaminhamento ao INSS, e não como justa causa.
+FRANCISCA: Continuando, qual a próxima?
+THALITA: A alínea f: embriaguez habitual ou em serviço. Habitual é fora do serviço, mas reiterada. Em serviço, basta uma vez. Cuidado: o TST trata o alcoolismo crônico como doença, com encaminhamento ao INSS, e não como justa causa.
 FRANCISCA: A alínea g é a violação de segredo da empresa: divulgação de informação sigilosa, como fórmula, cadastro ou estratégia. Não se confunde com a denúncia de ilícito às autoridades.
-ANTONIO: A alínea h traz dois conceitos que a FCC adora trocar. Indisciplina é o descumprimento de ordem geral, de regulamento, circular ou aviso a todos: exemplo, fumar em local proibido. Insubordinação é o descumprimento de ordem pessoal e direta do superior: exemplo, recusar uma tarefa determinada pelo chefe.
-THALITA: Macete: indisciplina, ordem de todos; insubordinação, ordem pessoal.
-BRUNO: Isso! Agora o abandono de emprego, que tem elemento objetivo, a ausência prolongada, e subjetivo, a intenção de não voltar. Pela Súmula trinta e dois do TST, presume-se o abandono se o trabalhador não retornar ao serviço no prazo de trinta dias após a cessação do benefício previdenciário, nem justificar o motivo.
+THALITA: A alínea h traz dois conceitos que a FCC adora trocar. Indisciplina é o descumprimento de ordem geral, de regulamento, circular ou aviso a todos: exemplo, fumar em local proibido. Insubordinação é o descumprimento de ordem pessoal e direta do superior: exemplo, recusar uma tarefa determinada pelo chefe.
+FRANCISCA: Macete: indisciplina, ordem de todos; insubordinação, ordem pessoal.
+THALITA: Isso! Agora o abandono de emprego, que tem elemento objetivo, a ausência prolongada, e subjetivo, a intenção de não voltar. Pela Súmula trinta e dois do TST, presume-se o abandono se o trabalhador não retornar ao serviço no prazo de trinta dias após a cessação do benefício previdenciário, nem justificar o motivo.
 FRANCISCA: E a Súmula sessenta e dois diz que o prazo de decadência do direito do empregador de ajuizar inquérito em face do empregado que abandona o emprego conta a partir do momento em que o empregado pretendeu retornar ao serviço.
 THALITA: Então trinta dias após a alta, presume-se abandono.
 == SLIDE: Ofensas, jogos de azar e perda de habilitação
@@ -52,13 +51,13 @@ THALITA: Então trinta dias após a alta, presume-se abandono.
 * Jogos de azar: prática constante
 * Perda da habilitação por conduta dolosa
 * Hipóteses esparsas: EPI, ferroviário, aprendiz, doméstico
-ANTONIO: As alíneas j e k tratam das ofensas e são alvo preferido de pegadinha. A alínea j é o ato lesivo da honra ou da boa fama, ou ofensa física, praticado no serviço contra qualquer pessoa: colega, cliente, terceiro.
-FRANCISCA: A alínea k é a mesma ofensa, mas contra o empregador e superiores hierárquicos, e vale dentro ou fora do serviço. Nas duas, a excludente é a legítima defesa, própria ou de outrem.
-BRUNO: Então a diferença é: na j, a ofensa precisa ser no serviço; na k, não precisa. A FCC pergunta exatamente isso.
+FRANCISCA: As alíneas j e k tratam das ofensas e são alvo preferido de pegadinha. A alínea j é o ato lesivo da honra ou da boa fama, ou ofensa física, praticado no serviço contra qualquer pessoa: colega, cliente, terceiro.
+THALITA: A alínea k é a mesma ofensa, mas contra o empregador e superiores hierárquicos, e vale dentro ou fora do serviço. Nas duas, a excludente é a legítima defesa, própria ou de outrem.
+FRANCISCA: Então a diferença é: na j, a ofensa precisa ser no serviço; na k, não precisa. A FCC pergunta exatamente isso.
 THALITA: Entendi: contra qualquer pessoa, só no serviço; contra patrão e chefe, em qualquer lugar.
-ANTONIO: Agora os jogos de azar, a prática constante. Jogo eventual não configura. E a última alínea é a perda da habilitação ou dos requisitos legais para o exercício da profissão, em decorrência de conduta dolosa do empregado. Foi incluída pela Reforma Trabalhista.
-FRANCISCA: Exemplo: motorista que perde a CNH por dirigir embriagado, conduta dolosa. Perda culposa não configura. Pegadinha: perda da CNH por qualquer motivo está errado.
-BRUNO: E há hipóteses esparsas fora do artigo quatrocentos e oitenta e dois: recusa injustificada ao uso de EPI, no artigo cento e cinquenta e oito, parágrafo único; recusa do ferroviário a horas extras em caso de urgência ou acidente, no artigo duzentos e quarenta; hipóteses do aprendiz, no artigo quatrocentos e trinta e três, e do doméstico, na Lei Complementar cento e cinquenta, de dois mil e quinze.
+FRANCISCA: Agora os jogos de azar, a prática constante. Jogo eventual não configura. E a última alínea é a perda da habilitação ou dos requisitos legais para o exercício da profissão, em decorrência de conduta dolosa do empregado. Foi incluída pela Reforma Trabalhista.
+THALITA: Exemplo: motorista que perde a CNH por dirigir embriagado, conduta dolosa. Perda culposa não configura. Pegadinha: perda da CNH por qualquer motivo está errado.
+FRANCISCA: E há hipóteses esparsas fora do artigo quatrocentos e oitenta e dois: recusa injustificada ao uso de EPI, no artigo cento e cinquenta e oito, parágrafo único; recusa do ferroviário a horas extras em caso de urgência ou acidente, no artigo duzentos e quarenta; hipóteses do aprendiz, no artigo quatrocentos e trinta e três, e do doméstico, na Lei Complementar cento e cinquenta, de dois mil e quinze.
 THALITA: Macete: ofensa ao chefe vale em qualquer lugar; ao colega, só no serviço.
 == SLIDE: Requisitos para aplicar a justa causa
 * Tipicidade, gravidade e atualidade
@@ -68,26 +67,26 @@ THALITA: Macete: ofensa ao chefe vale em qualquer lugar; ao colega, só no servi
 * Não discriminação (Lei 9.029/1995)
 * Súmula 212: ônus da prova do término é do empregador
 FRANCISCA: Não basta a conduta estar no artigo quatrocentos e oitenta e dois: há requisitos para aplicar a justa causa. O primeiro é a tipicidade: conduta prevista em lei. Sem ela, a justa causa é nula e a dispensa vira imotivada.
-BRUNO: O segundo é a gravidade, suficiente para quebrar a fidúcia. O terceiro é a atualidade, ou imediatidade: punição logo após o conhecimento da falta, admitido prazo razoável para apuração. A demora gera perdão tácito.
-THALITA: E se a falta for leve?
-ANTONIO: Aí entra a proporcionalidade e a gradação: faltas leves pedem advertência e suspensão antes da dispensa. Pena desproporcional é anulável.
+THALITA: O segundo é a gravidade, suficiente para quebrar a fidúcia. O terceiro é a atualidade, ou imediatidade: punição logo após o conhecimento da falta, admitido prazo razoável para apuração. A demora gera perdão tácito.
+FRANCISCA: E se a falta for leve?
+THALITA: Aí entra a proporcionalidade e a gradação: faltas leves pedem advertência e suspensão antes da dispensa. Pena desproporcional é anulável.
 FRANCISCA: O quarto é o non bis in idem: uma falta, uma punição. O empregado advertido por um fato não pode depois ser dispensado pelo mesmo fato. O quinto é o nexo causal: a dispensa deve decorrer da falta indicada, e não se troca o motivo depois.
-BRUNO: O sexto é a não discriminação: punição isonômica entre empregados na mesma situação. Punição seletiva indica discriminação, pela Lei nove mil e vinte e nove, de mil novecentos e noventa e cinco.
-THALITA: Macete: tipicidade, gravidade, atualidade, proporção, uma punição só, motivo certo, tratamento igual.
-ANTONIO: E lembre a Súmula duzentos e doze: quando negados a prestação de serviço e o despedimento, o ônus de provar o término do contrato é do empregador, pela presunção favorável ao empregado.
+THALITA: O sexto é a não discriminação: punição isonômica entre empregados na mesma situação. Punição seletiva indica discriminação, pela Lei nove mil e vinte e nove, de mil novecentos e noventa e cinco.
+FRANCISCA: Macete: tipicidade, gravidade, atualidade, proporção, uma punição só, motivo certo, tratamento igual.
+THALITA: E lembre a Súmula duzentos e doze: quando negados a prestação de serviço e o despedimento, o ônus de provar o término do contrato é do empregador, pela presunção favorável ao empregado.
 == SLIDE: Exemplos de aplicação e rescisão indireta (art. 483)
 * Atrasos reiterados + advertências e suspensão: justa causa válida
 * Furto conhecido e dispensa meses depois: perdão tácito
 * Suspensão e depois dispensa pelo mesmo furto: bis in idem
 * Rescisão indireta: justa causa do empregador
 * Mesmas verbas da dispensa sem justa causa
-BRUNO: Vamos a exemplos. Márcio chegou atrasado seis vezes em um mês, recebeu duas advertências e uma suspensão de três dias. Voltou a atrasar e foi dispensado por desídia: justa causa válida, pela gradação.
-FRANCISCA: Se a empresa, sabendo de um furto cometido em janeiro, só o dispensasse em agosto, sem apuração no período, haveria perdão tácito. E se Márcio fosse suspenso pelo furto e, depois de cumprir a suspensão, dispensado pelo mesmo furto, haveria bis in idem.
-THALITA: Entendi! Falta de atualidade, perdão; dupla punição, bis in idem; punição gradual, justa causa válida.
-ANTONIO: Agora a rescisão indireta, a despedida indireta, do artigo quatrocentos e oitenta e três. É a justa causa do empregador. Reconhecida em juízo, o empregado recebe as mesmas verbas da dispensa sem justa causa: aviso prévio, quarenta por cento do FGTS e guias do seguro-desemprego.
-BRUNO: Atenção: nas demais hipóteses, o empregado em regra se afasta e ajuíza a ação, assumindo o risco de, se improcedente, o caso ser tratado como pedido de demissão ou abandono. Só nas hipóteses de descumprimento de obrigações do contrato e de redução do trabalho por peça ou tarefa a lei permite continuar trabalhando até a decisão final.
-FRANCISCA: Isso está no parágrafo terceiro do artigo quatrocentos e oitenta e três, aplicável ao descumprimento das obrigações do contrato e à redução do trabalho por peça ou tarefa.
-THALITA: Macete: continuar trabalhando só no descumprimento do contrato e na redução de peça.
+FRANCISCA: Vamos a exemplos. Márcio chegou atrasado seis vezes em um mês, recebeu duas advertências e uma suspensão de três dias. Voltou a atrasar e foi dispensado por desídia: justa causa válida, pela gradação.
+THALITA: Se a empresa, sabendo de um furto cometido em janeiro, só o dispensasse em agosto, sem apuração no período, haveria perdão tácito. E se Márcio fosse suspenso pelo furto e, depois de cumprir a suspensão, dispensado pelo mesmo furto, haveria bis in idem.
+FRANCISCA: Entendi! Falta de atualidade, perdão; dupla punição, bis in idem; punição gradual, justa causa válida.
+THALITA: Agora a rescisão indireta, a despedida indireta, do artigo quatrocentos e oitenta e três. É a justa causa do empregador. Reconhecida em juízo, o empregado recebe as mesmas verbas da dispensa sem justa causa: aviso prévio, quarenta por cento do FGTS e guias do seguro-desemprego.
+FRANCISCA: Atenção: nas demais hipóteses, o empregado em regra se afasta e ajuíza a ação, assumindo o risco de, se improcedente, o caso ser tratado como pedido de demissão ou abandono. Só nas hipóteses de descumprimento de obrigações do contrato e de redução do trabalho por peça ou tarefa a lei permite continuar trabalhando até a decisão final.
+THALITA: Isso está no parágrafo terceiro do artigo quatrocentos e oitenta e três, aplicável ao descumprimento das obrigações do contrato e à redução do trabalho por peça ou tarefa.
+FRANCISCA: Macete: continuar trabalhando só no descumprimento do contrato e na redução de peça.
 == SLIDE: Hipóteses do art. 483 e situações especiais
 * a: serviços superiores às forças ou alheios ao contrato
 * b: rigor excessivo; c: perigo manifesto
@@ -95,25 +94,25 @@ THALITA: Macete: continuar trabalhando só no descumprimento do contrato e na re
 * e: ofensa à honra, inclusive de pessoa da família
 * f: ofensa física; g: redução de peça ou tarefa
 * §1º: suspender ou rescindir; §2º: morte do empregador
-ANTONIO: As hipóteses do artigo quatrocentos e oitenta e três. Alínea a: exigir serviços superiores às forças, proibidos por lei, contrários aos bons costumes ou alheios ao contrato. Exemplo: impor função estranha ao contratado.
+THALITA: As hipóteses do artigo quatrocentos e oitenta e três. Alínea a: exigir serviços superiores às forças, proibidos por lei, contrários aos bons costumes ou alheios ao contrato. Exemplo: impor função estranha ao contratado.
 FRANCISCA: Alínea b: rigor excessivo, como perseguição e punições desproporcionais e reiteradas. Alínea c: perigo manifesto de mal considerável, como trabalho em altura sem equipamento de proteção.
-BRUNO: A alínea d é a mais cobrada: descumprir as obrigações do contrato. Atraso reiterado de salários, não recolhimento do FGTS, não anotar a CTPS. E o TST fixou tese vinculante no sentido de que irregularidade nos depósitos do FGTS configura descumprimento suficiente para a rescisão indireta, dispensada a imediatidade. Confira o número do tema e a redação da tese.
-THALITA: E a mora salarial?
-BRUNO: Mora salarial contumaz é o atraso ou sonegação de salários por período igual ou superior a três meses, no Decreto-Lei trezentos e sessenta e oito, de mil novecentos e sessenta e oito.
+THALITA: A alínea d é a mais cobrada: descumprir as obrigações do contrato. Atraso reiterado de salários, não recolhimento do FGTS, não anotar a CTPS. E o TST fixou tese vinculante no sentido de que irregularidade nos depósitos do FGTS configura descumprimento suficiente para a rescisão indireta, dispensada a imediatidade. Confira o número do tema e a redação da tese.
+FRANCISCA: E a mora salarial?
+THALITA: Mora salarial contumaz é o atraso ou sonegação de salários por período igual ou superior a três meses, no Decreto-Lei trezentos e sessenta e oito, de mil novecentos e sessenta e oito.
 FRANCISCA: A alínea e é o ato lesivo da honra e boa fama contra o empregado ou pessoas de sua família. A alínea f é a ofensa física, só contra o próprio empregado, salvo legítima defesa. A alínea g é a redução do trabalho por peça ou tarefa, afetando sensivelmente o salário.
-ANTONIO: O parágrafo primeiro permite ao empregado suspender a prestação dos serviços ou rescindir o contrato quando tiver de cumprir obrigações legais incompatíveis, como serviço militar ou mandato. O parágrafo segundo, em caso de morte do empregador pessoa física, dá a faculdade de rescindir, com as verbas do pedido de demissão, dispensado o aviso prévio, segundo a doutrina majoritária.
-THALITA: Macete: ofensa à família só na honra; ofensa física só contra o empregado.
+THALITA: O parágrafo primeiro permite ao empregado suspender a prestação dos serviços ou rescindir o contrato quando tiver de cumprir obrigações legais incompatíveis, como serviço militar ou mandato. O parágrafo segundo, em caso de morte do empregador pessoa física, dá a faculdade de rescindir, com as verbas do pedido de demissão, dispensado o aviso prévio, segundo a doutrina majoritária.
+FRANCISCA: Macete: ofensa à família só na honra; ofensa física só contra o empregado.
 == SLIDE: Dispensa sem justa causa e a proteção constitucional
 * Art. 7º, I: proteção contra despedida arbitrária; lei complementar nunca veio
 * ADCT, art. 10: multa de 40% sobre o FGTS
 * Sem reintegração na dispensa imotivada: direito potestativo
 * Despedida discriminatória: Lei 9.029/1995; Súmula 443
 * Convenção 158 da OIT: denunciada, fora de vigor
-BRUNO: Fechamos com a dispensa sem justa causa. O artigo sétimo, inciso um, da Constituição protege a relação de emprego contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que prevê indenização compensatória.
-ANTONIO: Essa lei complementar nunca veio. A proteção provisória do artigo dez do ADCT é a multa de quarenta por cento sobre os depósitos do FGTS, quatro vezes os dez por cento da Lei cinco mil cento e sete, hoje regulada no artigo dezoito, parágrafo primeiro, da Lei oito mil e trinta e seis. A contribuição adicional de dez por cento da Lei Complementar cento e dez foi extinta pela Lei treze mil novecentos e trinta e dois, a partir de dois mil e vinte.
+THALITA: Fechamos com a dispensa sem justa causa. O artigo sétimo, inciso um, da Constituição protege a relação de emprego contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que prevê indenização compensatória.
+FRANCISCA: Essa lei complementar nunca veio. A proteção provisória do artigo dez do ADCT é a multa de quarenta por cento sobre os depósitos do FGTS, quatro vezes os dez por cento da Lei cinco mil cento e sete, hoje regulada no artigo dezoito, parágrafo primeiro, da Lei oito mil e trinta e seis. A contribuição adicional de dez por cento da Lei Complementar cento e dez foi extinta pela Lei treze mil novecentos e trinta e dois, a partir de dois mil e vinte.
 THALITA: Então no regime geral não existe direito à reintegração na dispensa imotivada?
 FRANCISCA: Não. A dispensa é direito potestativo do empregador, limitada pelas estabilidades e pela vedação à discriminação. Despedida arbitrária é a que não se funda em motivo disciplinar, técnico, econômico ou financeiro, como no artigo cento e sessenta e cinco, para o cipeiro. Despedida sem justa causa é a que não se funda em falta grave do artigo quatrocentos e oitenta e dois.
 THALITA: Quer dizer que o patrão pode dispensar sem motivo nenhum, mas paga a multa de quarenta por cento? E se a dispensa for por preconceito, a história muda completamente, certo?
-BRUNO: Isso mesmo, Thalita. E a despedida discriminatória, por sexo, origem, raça, cor, estado civil, situação familiar, deficiência ou idade, pela Lei nove mil e vinte e nove: reintegração com ressarcimento integral ou remuneração em dobro, à escolha do empregado. A Súmula quatrocentos e quarenta e três presume discriminatória a despedida de portador do vírus HIV ou de outra doença grave que suscite estigma, com direito à reintegração.
-ANTONIO: Por fim, a Convenção cento e cinquenta e oito da OIT, que exige motivação da dispensa. Foi promulgada em mil novecentos e noventa e seis e denunciada no mesmo ano. Na ADI mil seiscentos e vinte e cinco, o Supremo fixou que a denúncia exige anuência do Congresso, mas modulou: vale só para denúncias futuras. A Convenção não está em vigor, e a dispensa imotivada continua permitida com a indenização de quarenta por cento do FGTS.
-THALITA: Resumindo: dispensa imotivada, quarenta por cento e sem reintegração; discriminatória, reintegração ou dobro. Na próxima parte, vamos ver o restante das formas de extinção!
+FRANCISCA: Isso mesmo, Thalita. E a despedida discriminatória, por sexo, origem, raça, cor, estado civil, situação familiar, deficiência ou idade, pela Lei nove mil e vinte e nove: reintegração com ressarcimento integral ou remuneração em dobro, à escolha do empregado. A Súmula quatrocentos e quarenta e três presume discriminatória a despedida de portador do vírus HIV ou de outra doença grave que suscite estigma, com direito à reintegração.
+THALITA: Por fim, a Convenção cento e cinquenta e oito da OIT, que exige motivação da dispensa. Foi promulgada em mil novecentos e noventa e seis e denunciada no mesmo ano. Na ADI mil seiscentos e vinte e cinco, o Supremo fixou que a denúncia exige anuência do Congresso, mas modulou: vale só para denúncias futuras. A Convenção não está em vigor, e a dispensa imotivada continua permitida com a indenização de quarenta por cento do FGTS.
+FRANCISCA: Resumindo: dispensa imotivada, quarenta por cento e sem reintegração; discriminatória, reintegração ou dobro. Na próxima parte, vamos ver o restante das formas de extinção!

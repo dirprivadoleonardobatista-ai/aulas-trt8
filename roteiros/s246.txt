@@ -5,36 +5,35 @@ SEGMENTO s246
 * Polícia judicial e resoluções do CNJ e do CSJT
 * Legislação penal especial e questões comentadas
 * Eixo comum: arma de fogo é o último recurso
-ANTONIO: Boa tarde, pessoal! Bem-vindos à aula setenta e três, a última do cargo de Agente da Polícia Judicial. O tema de hoje é uso da força, armas, polícia judicial e legislação especial. Vamos começar pelo uso da força, depois o Estatuto do Desarmamento, a segurança pública e a polícia judicial, e fechamos com legislação penal especial e questões comentadas.
-FRANCISCA: Eu sou a Francisca, professora, e hoje trago a lei em paráfrase e os exemplos concretos.
-BRUNO: Eu sou o Bruno, especialista em FCC, e vou mostrar onde a banca arma as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira, a que pergunta o que vocês também estão querendo perguntar.
-ANTONIO: Antes de entrar nos detalhes, guarde o eixo de tudo: o Código de Conduta da ONU, de mil novecentos e setenta e nove, e os Princípios de Havana, de mil novecentos e noventa, levaram à Lei treze mil e sessenta, de dois mil e catorze, depois ao Decreto doze mil trezentos e quarenta e um, de dois mil e vinte e quatro, e às Portarias oitocentos e cinquenta e cinco e oitocentos e cinquenta e seis, de dois mil e vinte e cinco.
-THALITA: Muita norma. Qual é o fio condutor para eu não me perder?
-FRANCISCA: O fio é um só: a arma de fogo é o último recurso. Tudo o mais é desdobramento disso.
-BRUNO: E guarde essa frase, porque a FCC testa em quase toda prova que trata do assunto.
+FRANCISCA: Boa tarde, pessoal! Bem-vindos à aula setenta e três, a última do cargo de Agente da Polícia Judicial. O tema de hoje é uso da força, armas, polícia judicial e legislação especial. Vamos começar pelo uso da força, depois o Estatuto do Desarmamento, a segurança pública e a polícia judicial, e fechamos com legislação penal especial e questões comentadas.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Antes de entrar nos detalhes, guarde o eixo de tudo: o Código de Conduta da ONU, de mil novecentos e setenta e nove, e os Princípios de Havana, de mil novecentos e noventa, levaram à Lei treze mil e sessenta, de dois mil e catorze, depois ao Decreto doze mil trezentos e quarenta e um, de dois mil e vinte e quatro, e às Portarias oitocentos e cinquenta e cinco e oitocentos e cinquenta e seis, de dois mil e vinte e cinco.
+FRANCISCA: Muita norma. Qual é o fio condutor para eu não me perder?
+THALITA: O fio é um só: a arma de fogo é o último recurso. Tudo o mais é desdobramento disso.
+FRANCISCA: E guarde essa frase, porque a FCC testa em quase toda prova que trata do assunto.
 == SLIDE: Lei 13.060: princípios e vedações ao disparo
 * Priorizar instrumentos de menor potencial ofensivo
 * Princípios: legalidade, necessidade, razoabilidade e proporcionalidade
 * Ilegítimo atirar em pessoa em fuga desarmada
 * Ilegítimo atirar em veículo que fura bloqueio, salvo risco
 * Socorro médico imediato e comunicação à família
-FRANCISCA: Vamos à Lei treze mil e sessenta. O artigo segundo diz que os órgãos de segurança devem priorizar os instrumentos de menor potencial ofensivo, desde que isso não ponha em risco a integridade física ou psíquica dos policiais.
-BRUNO: Repare em dois detalhes. É devem, não podem. E a ressalva existe para proteger o policial. A banca costuma trocar devem por podem.
+THALITA: Vamos à Lei treze mil e sessenta. O artigo segundo diz que os órgãos de segurança devem priorizar os instrumentos de menor potencial ofensivo, desde que isso não ponha em risco a integridade física ou psíquica dos policiais.
+FRANCISCA: Repare em dois detalhes. É devem, não podem. E a ressalva existe para proteger o policial. A banca costuma trocar devem por podem.
 THALITA: E os princípios, quais são?
 FRANCISCA: Três, nos incisos do artigo segundo: legalidade, necessidade, e razoabilidade e proporcionalidade.
-BRUNO: Só três. Precaução e não discriminação não estão na lei. Elas aparecem no decreto, que veremos daqui a pouco.
-ANTONIO: Agora as vedações. No parágrafo único do artigo segundo, o inciso primeiro diz que é ilegítimo atirar em pessoa em fuga desarmada, ou que não represente risco imediato de morte ou lesão aos agentes ou a terceiros.
+THALITA: Só três. Precaução e não discriminação não estão na lei. Elas aparecem no decreto, que veremos daqui a pouco.
+FRANCISCA: Agora as vedações. No parágrafo único do artigo segundo, o inciso primeiro diz que é ilegítimo atirar em pessoa em fuga desarmada, ou que não represente risco imediato de morte ou lesão aos agentes ou a terceiros.
 THALITA: Então fugir, por si só, não autoriza atirar?
-ANTONIO: Exatamente. A fuga, sozinha, não autoriza o disparo.
-FRANCISCA: O inciso segundo trata do veículo que fura bloqueio. Atirar nele é ilegítimo, salvo se o ato gerar risco de morte ou lesão. Perceba que a exceção só existe nesse inciso.
-BRUNO: Se a questão trouxer exceção para a pessoa em fuga desarmada, está errada. A exceção é só do veículo.
+FRANCISCA: Exatamente. A fuga, sozinha, não autoriza o disparo.
+THALITA: O inciso segundo trata do veículo que fura bloqueio. Atirar nele é ilegítimo, salvo se o ato gerar risco de morte ou lesão. Perceba que a exceção só existe nesse inciso.
+FRANCISCA: Se a questão trouxer exceção para a pessoa em fuga desarmada, está errada. A exceção é só do veículo.
 THALITA: Entendi. Pessoa em fuga desarmada: sem exceção. Veículo no bloqueio: com exceção do risco de morte.
 FRANCISCA: Isso. E o artigo quarto define os instrumentos de menor potencial ofensivo: projetados para, com baixa probabilidade de morte ou lesão permanente, conter, debilitar ou incapacitar temporariamente.
-BRUNO: Cuidado: não é sem nenhum risco. A palavra é baixa probabilidade.
-ANTONIO: Os artigos terceiro e quinto trazem deveres: a formação deve incluir instrumentos não letais, e o poder público deve fornecer esses instrumentos a todo agente. E o artigo sexto: se houver ferimento, socorro médico imediato e comunicação à família ou à pessoa indicada.
+THALITA: Cuidado: não é sem nenhum risco. A palavra é baixa probabilidade.
+FRANCISCA: Os artigos terceiro e quinto trazem deveres: a formação deve incluir instrumentos não letais, e o poder público deve fornecer esses instrumentos a todo agente. E o artigo sexto: se houver ferimento, socorro médico imediato e comunicação à família ou à pessoa indicada.
 THALITA: São duas obrigações juntas: socorrer e comunicar.
-BRUNO: Cumulativas. Se a alternativa disser uma ou outra, erra. E lembre que as duas vedações ao disparo repetem no decreto e na portaria. A portaria acrescenta que não se deve apontar arma como rotina na abordagem, nem disparar a esmo ou como advertência.
+FRANCISCA: Cumulativas. Se a alternativa disser uma ou outra, erra. E lembre que as duas vedações ao disparo repetem no decreto e na portaria. A portaria acrescenta que não se deve apontar arma como rotina na abordagem, nem disparar a esmo ou como advertência.
 == SLIDE: Decreto 12.341 e as Portarias 855 e 856
 * Sete princípios, incluindo precaução e responsabilização
 * Uso diferenciado: desescalada e arma como último recurso
@@ -42,33 +41,33 @@ BRUNO: Cumulativas. Se a alternativa disser uma ou outra, erra. E lembre que as 
 * Mínimo de dois instrumentos de menor potencial ofensivo
 * Portaria 856 criou o CNMUDF; a 855 traz normas complementares
 THALITA: Passando para o decreto. Quantos princípios ele traz?
-ANTONIO: Sete: legalidade, precaução, necessidade, proporcionalidade, razoabilidade, responsabilização e não discriminação. Estão no artigo segundo.
-FRANCISCA: As diretrizes dizem que o objetivo deve ser legal, que o meio mais intenso só se usa se o menos intenso for insuficiente, e que o nível de força deve ser compatível com a ameaça.
-BRUNO: Cuidado com a palavra níveis. O decreto não lista níveis de força. Ele fala em uso diferenciado. As escalas de presença, verbalização, mãos livres, técnicas não letais e força letal vêm da doutrina.
+FRANCISCA: Sete: legalidade, precaução, necessidade, proporcionalidade, razoabilidade, responsabilização e não discriminação. Estão no artigo segundo.
+THALITA: As diretrizes dizem que o objetivo deve ser legal, que o meio mais intenso só se usa se o menos intenso for insuficiente, e que o nível de força deve ser compatível com a ameaça.
+FRANCISCA: Cuidado com a palavra níveis. O decreto não lista níveis de força. Ele fala em uso diferenciado. As escalas de presença, verbalização, mãos livres, técnicas não letais e força letal vêm da doutrina.
 THALITA: E o uso diferenciado, em resumo?
-ANTONIO: Nível de força conforme a ameaça, com prioridade para comunicação, negociação e desescalada. A arma de fogo é último recurso, e só por agentes habilitados. Se houver ferimento ou morte, o relatório circunstanciado é obrigatório.
-FRANCISCA: A capacitação é obrigatória, anual e no horário de serviço, incluindo armas de fogo e instrumentos de menor potencial ofensivo. E os órgãos devem fornecer equipamento de proteção e no mínimo dois instrumentos de menor potencial ofensivo por profissional em serviço.
-BRUNO: O repasse de verbas dos fundos nacionais de segurança pública e penitenciário a Estados, Distrito Federal e Municípios fica condicionado ao cumprimento da lei e do decreto.
+FRANCISCA: Nível de força conforme a ameaça, com prioridade para comunicação, negociação e desescalada. A arma de fogo é último recurso, e só por agentes habilitados. Se houver ferimento ou morte, o relatório circunstanciado é obrigatório.
+THALITA: A capacitação é obrigatória, anual e no horário de serviço, incluindo armas de fogo e instrumentos de menor potencial ofensivo. E os órgãos devem fornecer equipamento de proteção e no mínimo dois instrumentos de menor potencial ofensivo por profissional em serviço.
+FRANCISCA: O repasse de verbas dos fundos nacionais de segurança pública e penitenciário a Estados, Distrito Federal e Municípios fica condicionado ao cumprimento da lei e do decreto.
 THALITA: E as portarias?
-ANTONIO: A oitocentos e cinquenta e cinco traz normas complementares para as forças federais e para quem recebe recursos dos fundos. A habilitação para arma é renovada a cada dois anos, algema só em caso excepcional e justificada por escrito, conforme a Súmula Vinculante onze, e há câmeras corporais.
-FRANCISCA: Em caso de lesão ou morte: socorro, preservar o local, acionar polícia judiciária e perícia, avisar familiares e fazer relatório circunstanciado.
-BRUNO: A pegadinha: o Comitê Nacional de Monitoramento do Uso da Força, o CNMUDF, foi criado pela Portaria oitocentos e cinquenta e seis, de dezessete de janeiro de dois mil e vinte e cinco, não pela oitocentos e cinquenta e cinco. Quem preside é o Secretário Nacional de Segurança Pública, com dois representantes da sociedade civil, e a reunião é semestral, sem remuneração.
+FRANCISCA: A oitocentos e cinquenta e cinco traz normas complementares para as forças federais e para quem recebe recursos dos fundos. A habilitação para arma é renovada a cada dois anos, algema só em caso excepcional e justificada por escrito, conforme a Súmula Vinculante onze, e há câmeras corporais.
+THALITA: Em caso de lesão ou morte: socorro, preservar o local, acionar polícia judiciária e perícia, avisar familiares e fazer relatório circunstanciado.
+FRANCISCA: A pegadinha: o Comitê Nacional de Monitoramento do Uso da Força, o CNMUDF, foi criado pela Portaria oitocentos e cinquenta e seis, de dezessete de janeiro de dois mil e vinte e cinco, não pela oitocentos e cinquenta e cinco. Quem preside é o Secretário Nacional de Segurança Pública, com dois representantes da sociedade civil, e a reunião é semestral, sem remuneração.
 == SLIDE: Normas internacionais: Havana e Código de Conduta
 * Havana: arma de fogo só diante de ameaça iminente de morte ou lesão grave
 * Advertência prévia, salvo risco ou inutilidade
 * Ordem superior não justifica abuso
 * Código de Conduta: oito artigos, força só quando estritamente necessária
 * Tortura: proibição absoluta
-ANTONIO: Fechando o uso da força, as normas internacionais. Os Princípios de Havana dizem que se usam primeiro meios não violentos. A força e a arma de fogo só entram quando os outros meios forem ineficazes.
-THALITA: E quando posso usar a arma, segundo Havana?
-FRANCISCA: Só contra ameaça iminente de morte ou lesão grave, a si ou a terceiros, para evitar crime grave contra a vida ou deter quem represente esse perigo. O uso letal intencional só é admitido se for inevitável para proteger a vida.
-BRUNO: Antes de atirar, o agente se identifica e dá aviso claro, com tempo para a pessoa obedecer, salvo se isso gerar risco ou for inútil. Ordem superior não justifica abuso, e o superior responde se sabia e não agiu.
+THALITA: Fechando o uso da força, as normas internacionais. Os Princípios de Havana dizem que se usam primeiro meios não violentos. A força e a arma de fogo só entram quando os outros meios forem ineficazes.
+FRANCISCA: E quando posso usar a arma, segundo Havana?
+THALITA: Só contra ameaça iminente de morte ou lesão grave, a si ou a terceiros, para evitar crime grave contra a vida ou deter quem represente esse perigo. O uso letal intencional só é admitido se for inevitável para proteger a vida.
+FRANCISCA: Antes de atirar, o agente se identifica e dá aviso claro, com tempo para a pessoa obedecer, salvo se isso gerar risco ou for inútil. Ordem superior não justifica abuso, e o superior responde se sabia e não agiu.
 THALITA: E o Código de Conduta, são quantos artigos?
-ANTONIO: Oito. O primeiro é cumprir o dever legal. O segundo, respeitar a dignidade e os direitos humanos. O terceiro, usar a força somente quando estritamente necessária.
-FRANCISCA: O quarto trata do sigilo das informações confidenciais. O quinto proíbe, de forma absoluta, tortura e tratamento cruel. O sexto manda proteger a saúde dos custodiados.
-BRUNO: O sétimo veda a corrupção e manda combatê-la. O oitavo manda respeitar a lei, impedir violações e comunicá-las aos superiores.
+FRANCISCA: Oito. O primeiro é cumprir o dever legal. O segundo, respeitar a dignidade e os direitos humanos. O terceiro, usar a força somente quando estritamente necessária.
+THALITA: O quarto trata do sigilo das informações confidenciais. O quinto proíbe, de forma absoluta, tortura e tratamento cruel. O sexto manda proteger a saúde dos custodiados.
+FRANCISCA: O sétimo veda a corrupção e manda combatê-la. O oitavo manda respeitar a lei, impedir violações e comunicá-las aos superiores.
 THALITA: Eu faço o mnemônico: dever, dignidade, força, sigilo, tortura, saúde, corrupção, comunicar.
-ANTONIO: Perfeito. E a pegadinha da FCC é trocar estritamente necessária por conveniente, ou dizer que guerra justifica tortura.
-BRUNO: Não justifica. A vedação é absoluta, nem ordem superior nem emergência servem de desculpa.
-THALITA: Então vou resumir o bloco inteiro num macete: força só quando necessária, arma só em último caso, fuga desarmada nunca justifica tiro, e tortura é proibida sempre, até em guerra. Se eu errar algum ponto, me corrijam!
-FRANCISCA: Agora que fechamos o uso da força, o próximo bloco traz o Estatuto do Desarmamento, a segurança pública e a polícia judicial.
+FRANCISCA: Perfeito. E a pegadinha da FCC é trocar estritamente necessária por conveniente, ou dizer que guerra justifica tortura.
+THALITA: Não justifica. A vedação é absoluta, nem ordem superior nem emergência servem de desculpa.
+FRANCISCA: Então vou resumir o bloco inteiro num macete: força só quando necessária, arma só em último caso, fuga desarmada nunca justifica tiro, e tortura é proibida sempre, até em guerra. Se eu errar algum ponto, me corrijam!
+THALITA: Agora que fechamos o uso da força, o próximo bloco traz o Estatuto do Desarmamento, a segurança pública e a polícia judicial.

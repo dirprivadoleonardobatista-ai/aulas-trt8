@@ -5,45 +5,45 @@ SEGMENTO s094
 * Sem caução: Súmula Vinculante 21 e Súmula 373 do STJ
 * No máximo 3 instâncias (art. 57)
 * Legitimados: partes, afetados, associações e cidadãos (art. 58)
-ANTONIO: Vimos a instrução, a decisão e o desfazimento do processo. Agora, o que fazer quando a decisão desagrada: o recurso administrativo e a revisão, artigos cinquenta e seis a sessenta e cinco.
+FRANCISCA: Vimos a instrução, a decisão e o desfazimento do processo. Agora, o que fazer quando a decisão desagrada: o recurso administrativo e a revisão, artigos cinquenta e seis a sessenta e cinco.
 THALITA: Cabe recurso de quê, exatamente?
 FRANCISCA: De decisões administrativas, por razões de legalidade e de mérito, artigo cinquenta e seis. O recurso é dirigido à autoridade que proferiu a decisão; se ela não reconsiderar em cinco dias, encaminha à autoridade superior.
-BRUNO: Independe de caução, salvo exigência legal. E a Súmula Vinculante vinte e um declara inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo. A Súmula trezentos e setenta e três do STJ vai no mesmo sentido, quanto ao depósito prévio.
-THALITA: E se o recorrente alega violação de súmula vinculante?
-FRANCISCA: A autoridade, se não reconsiderar, explicita as razões de aplicabilidade ou não da súmula antes de encaminhar, parágrafo terceiro.
-ANTONIO: Instâncias: no máximo três, salvo disposição legal diversa, artigo cinquenta e sete.
-BRUNO: Legitimados, artigo cinquenta e oito: os titulares de direitos que forem parte; os indiretamente afetados; organizações e associações, nos interesses coletivos; e cidadãos ou associações, nos difusos.
-THALITA: Macete: recurso, legalidade e mérito, sem caução, até três instâncias.
+THALITA: Independe de caução, salvo exigência legal. E a Súmula Vinculante vinte e um declara inconstitucional a exigência de depósito ou arrolamento prévios de dinheiro ou bens para admissibilidade de recurso administrativo. A Súmula trezentos e setenta e três do STJ vai no mesmo sentido, quanto ao depósito prévio.
+FRANCISCA: E se o recorrente alega violação de súmula vinculante?
+THALITA: A autoridade, se não reconsiderar, explicita as razões de aplicabilidade ou não da súmula antes de encaminhar, parágrafo terceiro.
+FRANCISCA: Instâncias: no máximo três, salvo disposição legal diversa, artigo cinquenta e sete.
+THALITA: Legitimados, artigo cinquenta e oito: os titulares de direitos que forem parte; os indiretamente afetados; organizações e associações, nos interesses coletivos; e cidadãos ou associações, nos difusos.
+FRANCISCA: Macete: recurso, legalidade e mérito, sem caução, até três instâncias.
 == SLIDE: Prazos, efeitos, decisão e não conhecimento
 * Recorrer: 10 dias; decidir: 30 dias do recebimento dos autos
 * Efeito em regra só devolutivo; suspensivo se justo receio (art. 61)
 * Contrarrazões: 5 dias úteis (art. 62)
 * Decisão pode agravar, com ciência prévia (art. 64)
 * Não conhecimento: prazo, incompetência, legitimidade, esfera exaurida
-ANTONIO: Prazo para recorrer: dez dias, da ciência ou divulgação oficial, salvo disposição específica, artigo cinquenta e nove. O recurso é decidido em trinta dias, do recebimento dos autos pelo órgão competente, prorrogáveis por igual período com justificativa explícita.
-THALITA: Trinta dias contados do recurso protocolado?
-BRUNO: Não: do recebimento dos autos pelo órgão competente.
+THALITA: Prazo para recorrer: dez dias, da ciência ou divulgação oficial, salvo disposição específica, artigo cinquenta e nove. O recurso é decidido em trinta dias, do recebimento dos autos pelo órgão competente, prorrogáveis por igual período com justificativa explícita.
+FRANCISCA: Trinta dias contados do recurso protocolado?
+THALITA: Não: do recebimento dos autos pelo órgão competente.
 FRANCISCA: Forma: requerimento com os fundamentos do pedido de reexame, podendo juntar documentos, artigo sessenta. Efeito: em regra, apenas devolutivo. Havendo justo receio de prejuízo de difícil ou incerta reparação, a autoridade recorrida ou a imediatamente superior pode conceder efeito suspensivo, de ofício ou a pedido, artigo sessenta e um.
-ANTONIO: Contrarrazões: os demais interessados são intimados para alegar em cinco dias úteis, artigo sessenta e dois.
-THALITA: E o que a autoridade pode decidir?
-BRUNO: Confirmar, modificar, anular ou revogar, total ou parcialmente, a decisão recorrida, se a matéria for de sua competência, artigo sessenta e quatro.
+THALITA: Contrarrazões: os demais interessados são intimados para alegar em cinco dias úteis, artigo sessenta e dois.
+FRANCISCA: E o que a autoridade pode decidir?
+THALITA: Confirmar, modificar, anular ou revogar, total ou parcialmente, a decisão recorrida, se a matéria for de sua competência, artigo sessenta e quatro.
 FRANCISCA: E se puder decorrer gravame ao recorrente, ele deve ser cientificado para alegar antes da decisão. É o parágrafo único.
-ANTONIO: Não conhecimento, artigo sessenta e três: recurso fora do prazo; perante órgão incompetente; por quem não seja legitimado; ou após exaurida a esfera administrativa.
-BRUNO: No caso de órgão incompetente, indica-se a autoridade competente e devolve-se o prazo. E o não conhecimento não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida preclusão administrativa.
+THALITA: Não conhecimento, artigo sessenta e três: recurso fora do prazo; perante órgão incompetente; por quem não seja legitimado; ou após exaurida a esfera administrativa.
+FRANCISCA: No caso de órgão incompetente, indica-se a autoridade competente e devolve-se o prazo. E o não conhecimento não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida preclusão administrativa.
 THALITA: Então recapitulando: dez dias para recorrer, trinta para decidir contados do recebimento dos autos, cinco dias úteis de contrarrazões, e o efeito é em regra só devolutivo, a não ser que haja justo receio de prejuízo de difícil reparação.
 == SLIDE: Recurso x revisão e o caso de Carla
 * Revisão: processos com sanção, a qualquer tempo, fatos novos (art. 65)
 * Recurso admite reformatio in pejus, com prévia ciência
 * Revisão veda o agravamento da sanção
 * Exemplo: multa em 3/2 vence em 13/2
-ANTONIO: Agora a comparação mais cobrada: recurso e revisão. A revisão, artigo sessenta e cinco, cabe em processos de que resultem sanções, a qualquer tempo, a pedido ou de ofício, com fundamento em fatos novos ou circunstâncias relevantes que justifiquem a inadequação da sanção.
+FRANCISCA: Agora a comparação mais cobrada: recurso e revisão. A revisão, artigo sessenta e cinco, cabe em processos de que resultem sanções, a qualquer tempo, a pedido ou de ofício, com fundamento em fatos novos ou circunstâncias relevantes que justifiquem a inadequação da sanção.
 THALITA: E o recurso tem prazo, a revisão não?
 FRANCISCA: Isso. Recurso, dez dias e legalidade ou mérito. Revisão, a qualquer tempo e fatos novos.
-BRUNO: E a regra mais trocada pela FCC: no recurso, a reformatio in pejus é admitida, com prévia ciência do recorrente; na revisão, é vedada. Da revisão não pode resultar agravamento da sanção, parágrafo único do artigo sessenta e cinco.
-THALITA: Eu chutaria que em nenhum dos dois pode piorar.
-ANTONIO: Errou, e é exatamente a pegadinha. No recurso pode piorar, desde que o recorrente seja ouvido antes. Na revisão, nunca.
+THALITA: E a regra mais trocada pela FCC: no recurso, a reformatio in pejus é admitida, com prévia ciência do recorrente; na revisão, é vedada. Da revisão não pode resultar agravamento da sanção, parágrafo único do artigo sessenta e cinco.
+FRANCISCA: Eu chutaria que em nenhum dos dois pode piorar.
+THALITA: Errou, e é exatamente a pegadinha. No recurso pode piorar, desde que o recorrente seja ouvido antes. Na revisão, nunca.
 FRANCISCA: Um exemplo: Carla foi multada em três de fevereiro, com ciência no mesmo dia. Exclui-se o dia do começo e inclui-se o do vencimento: dez dias contínuos, vence em treze de fevereiro. Se esse dia não tiver expediente, prorroga-se para o primeiro dia útil seguinte.
-BRUNO: A autoridade tem cinco dias para reconsiderar, e a instância superior, trinta dias, mais trinta, para decidir, podendo até aumentar a multa, desde que intime Carla antes.
+THALITA: A autoridade tem cinco dias para reconsiderar, e a instância superior, trinta dias, mais trinta, para decidir, podendo até aumentar a multa, desde que intime Carla antes.
 FRANCISCA: Dois anos depois, surge prova nova: Carla pede a revisão. A multa pode ser reduzida ou cancelada, nunca aumentada.
 THALITA: Resumindo o caso da Carla: no recurso, a multa pode subir, mas só se a Carla for avisada antes e puder se manifestar; na revisão, com prova nova, só pode cair ou ser cancelada. Macete: recurso pode piorar com aviso; revisão nunca piora.
 == SLIDE: Súmula vinculante nos recursos e contagem de prazos
@@ -52,40 +52,40 @@ THALITA: Resumindo o caso da Carla: no recurso, a multa pode subir, mas só se a
 * Dias contínuos; meses e anos, de data a data
 * Prazos não se suspendem, salvo força maior comprovada
 * Dias úteis: só onde a lei diz (arts. 26, 41 e 62)
-ANTONIO: Um aprofundamento: artigos sessenta e quatro-A e sessenta e quatro-B, da Lei onze mil quatrocentos e dezessete, de dois mil e seis. Alegada violação de súmula vinculante, o órgão julgador do recurso explicita as razões de sua aplicação ou não.
-FRANCISCA: E, acolhida a reclamação pelo STF, a autoridade prolatora e o órgão julgador devem adequar as futuras decisões em casos semelhantes, sob pena de responsabilização pessoal cível, administrativa e penal.
-THALITA: Passando aos prazos, como se conta?
-BRUNO: Artigo sessenta e seis: começa na cientificação oficial; exclui o dia do começo e inclui o do vencimento. Se vencer em dia sem expediente ou com encerramento antecipado, prorroga-se até o primeiro dia útil seguinte.
-ANTONIO: Prazos em dias contam-se de modo contínuo. Prazos em meses ou anos, de data a data; se no mês do vencimento não houver o dia equivalente, o prazo vence no último dia do mês.
-FRANCISCA: E os prazos não se suspendem, salvo força maior devidamente comprovada, artigo sessenta e sete.
-BRUNO: Atenção: a lei mistura prazos em dias contínuos, regra do artigo sessenta e seis, parágrafo segundo, com alguns expressamente em dias úteis: antecedência da intimação, artigos vinte e seis e quarenta e um, e contrarrazões do artigo sessenta e dois. A FCC cobra essa distinção.
+FRANCISCA: Um aprofundamento: artigos sessenta e quatro-A e sessenta e quatro-B, da Lei onze mil quatrocentos e dezessete, de dois mil e seis. Alegada violação de súmula vinculante, o órgão julgador do recurso explicita as razões de sua aplicação ou não.
+THALITA: E, acolhida a reclamação pelo STF, a autoridade prolatora e o órgão julgador devem adequar as futuras decisões em casos semelhantes, sob pena de responsabilização pessoal cível, administrativa e penal.
+FRANCISCA: Passando aos prazos, como se conta?
+THALITA: Artigo sessenta e seis: começa na cientificação oficial; exclui o dia do começo e inclui o do vencimento. Se vencer em dia sem expediente ou com encerramento antecipado, prorroga-se até o primeiro dia útil seguinte.
+FRANCISCA: Prazos em dias contam-se de modo contínuo. Prazos em meses ou anos, de data a data; se no mês do vencimento não houver o dia equivalente, o prazo vence no último dia do mês.
+THALITA: E os prazos não se suspendem, salvo força maior devidamente comprovada, artigo sessenta e sete.
+FRANCISCA: Atenção: a lei mistura prazos em dias contínuos, regra do artigo sessenta e seis, parágrafo segundo, com alguns expressamente em dias úteis: antecedência da intimação, artigos vinte e seis e quarenta e um, e contrarrazões do artigo sessenta e dois. A FCC cobra essa distinção.
 THALITA: Macete: regra geral é dia corrido; úteis só onde a lei diz.
 == SLIDE: Prioridade de tramitação (art. 69-A)
 * Beneficiários: 60 anos ou mais, deficiência, doença grave
 * Doença grave contraída após o início do processo também vale
 * Em qualquer órgão ou instância, parte ou interessado
 * Requerimento com prova da condição; autos com identificação própria
-ANTONIO: Prioridade de tramitação, artigo sessenta e nove-A. Beneficiários: pessoa com sessenta anos ou mais, pessoa com deficiência física ou mental, e pessoa com doença grave, mesmo que contraída após o início do processo.
+FRANCISCA: Prioridade de tramitação, artigo sessenta e nove-A. Beneficiários: pessoa com sessenta anos ou mais, pessoa com deficiência física ou mental, e pessoa com doença grave, mesmo que contraída após o início do processo.
 THALITA: Quais doenças?
 FRANCISCA: O rol é exemplificativo: tuberculose ativa, esclerose múltipla, neoplasia maligna, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, doença de Paget avançada, contaminação por radiação, AIDS, ou outra doença grave atestada pela medicina especializada.
-BRUNO: A prioridade vale em qualquer órgão ou instância, figurando a pessoa como parte ou interessado. O interessado requer, com prova de sua condição, à autoridade competente, e, deferida a prioridade, os autos recebem identificação própria.
-THALITA: Precisa provar a condição?
-ANTONIO: Precisa, junto com o requerimento. E vale conferir se houve alteração legislativa recente: a prioridade especial a maiores de oitenta anos, no Estatuto da Pessoa Idosa, e a terminologia pessoa com deficiência.
-THALITA: Macete: sessenta anos, deficiência, doença grave, e com prova.
+THALITA: A prioridade vale em qualquer órgão ou instância, figurando a pessoa como parte ou interessado. O interessado requer, com prova de sua condição, à autoridade competente, e, deferida a prioridade, os autos recebem identificação própria.
+FRANCISCA: Precisa provar a condição?
+THALITA: Precisa, junto com o requerimento. E vale conferir se houve alteração legislativa recente: a prioridade especial a maiores de oitenta anos, no Estatuto da Pessoa Idosa, e a terminologia pessoa com deficiência.
+FRANCISCA: Macete: sessenta anos, deficiência, doença grave, e com prova.
 == SLIDE: Quadro mestre dos prazos da Lei 9.784/1999
 * Geral: 5 dias; intimação: 3 dias úteis; parecer: 15 dias
 * Alegações finais: 10 dias; decidir: 30 + 30 dias
 * Decadência: 5 anos; recurso: 10 dias; decisão do recurso: 30 + 30
 * Capacidade: 18 anos; parentesco: 3º grau; idoso: 60 anos
-ANTONIO: Quadro mestre dos prazos da Lei nove mil setecentos e oitenta e quatro. Prazo geral para atos do órgão e dos administrados, sem disposição específica: cinco dias, dilatáveis até o dobro, com justificação, artigo vinte e quatro.
+THALITA: Quadro mestre dos prazos da Lei nove mil setecentos e oitenta e quatro. Prazo geral para atos do órgão e dos administrados, sem disposição específica: cinco dias, dilatáveis até o dobro, com justificação, artigo vinte e quatro.
 FRANCISCA: Intimação para comparecimento e para prova ou diligência: antecedência mínima de três dias úteis, artigos vinte e seis e quarenta e um. Parecer obrigatório: quinze dias, no máximo, artigo quarenta e dois.
-BRUNO: Manifestação do interessado após encerrada a instrução: até dez dias, artigo quarenta e quatro. Decisão após concluída a instrução: até trinta dias, prorrogáveis por igual período, artigo quarenta e nove.
-THALITA: E a decadência?
-FRANCISCA: Cinco anos, para anular atos favoráveis, salvo má-fé, artigo cinquenta e quatro.
-ANTONIO: No recurso: reconsideração em cinco dias; três instâncias; dez dias para recorrer; trinta dias para decidir, prorrogáveis; cinco dias úteis de contrarrazões. A revisão, a qualquer tempo.
-BRUNO: Ainda: capacidade para atuar no processo, dezoito anos, artigo dez; parentesco para impedimento e suspeição, até o terceiro grau, artigos dezoito e vinte; prioridade do idoso, sessenta anos; decisão coordenada, três ou mais órgãos.
-THALITA: Tem uma sequência para decorar?
-ANTONIO: Tem: três, úteis, na intimação. Cinco: geral, reconsideração, contrarrazões e anos da decadência. Dez: recurso e alegações finais. Quinze: parecer. Trinta mais trinta: decidir processo e recurso. Três instâncias, dezoito anos, sessenta anos.
-THALITA: Repetindo para fixar: três dias úteis na intimação; cinco, quinze e dez para geral, parecer e alegações finais; trinta e trinta para decidir; três instâncias; dezoito anos para atuar no processo; sessenta anos para a prioridade. Vou escrever isso num papel e colar na parede de casa.
-FRANCISCA: Perfeito. Esse quadro vale ouro na prova.
-ANTONIO: Agora vamos aplicar tudo isso em questões comentadas no estilo FCC.
+THALITA: Manifestação do interessado após encerrada a instrução: até dez dias, artigo quarenta e quatro. Decisão após concluída a instrução: até trinta dias, prorrogáveis por igual período, artigo quarenta e nove.
+FRANCISCA: E a decadência?
+THALITA: Cinco anos, para anular atos favoráveis, salvo má-fé, artigo cinquenta e quatro.
+FRANCISCA: No recurso: reconsideração em cinco dias; três instâncias; dez dias para recorrer; trinta dias para decidir, prorrogáveis; cinco dias úteis de contrarrazões. A revisão, a qualquer tempo.
+THALITA: Ainda: capacidade para atuar no processo, dezoito anos, artigo dez; parentesco para impedimento e suspeição, até o terceiro grau, artigos dezoito e vinte; prioridade do idoso, sessenta anos; decisão coordenada, três ou mais órgãos.
+FRANCISCA: Tem uma sequência para decorar?
+THALITA: Tem: três, úteis, na intimação. Cinco: geral, reconsideração, contrarrazões e anos da decadência. Dez: recurso e alegações finais. Quinze: parecer. Trinta mais trinta: decidir processo e recurso. Três instâncias, dezoito anos, sessenta anos.
+FRANCISCA: Repetindo para fixar: três dias úteis na intimação; cinco, quinze e dez para geral, parecer e alegações finais; trinta e trinta para decidir; três instâncias; dezoito anos para atuar no processo; sessenta anos para a prioridade. Vou escrever isso num papel e colar na parede de casa.
+THALITA: Perfeito. Esse quadro vale ouro na prova.
+FRANCISCA: Agora vamos aplicar tudo isso em questões comentadas no estilo FCC.

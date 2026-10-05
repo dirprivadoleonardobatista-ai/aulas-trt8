@@ -4,15 +4,15 @@ SEGMENTO s059
 * Inclusões: moradia (2000), alimentação (2010), transporte (2015)
 * Renda básica familiar: parágrafo único (EC 114/2021)
 * Reserva do possível, mínimo existencial e vedação ao retrocesso
-ANTONIO: Depois dos remédios constitucionais, chegamos aos direitos sociais, dos artigos seis a onze. São direitos de segunda dimensão, que exigem prestação do Estado. O artigo sexto traz o rol geral: educação, saúde, trabalho, lazer, segurança, previdência social, proteção à maternidade e à infância e assistência aos desamparados.
+FRANCISCA: Depois dos remédios constitucionais, chegamos aos direitos sociais, dos artigos seis a onze. São direitos de segunda dimensão, que exigem prestação do Estado. O artigo sexto traz o rol geral: educação, saúde, trabalho, lazer, segurança, previdência social, proteção à maternidade e à infância e assistência aos desamparados.
 THALITA: E o que foi acrescentado depois, que a prova gosta de perguntar?
 FRANCISCA: Três itens entraram por emenda. A moradia, pela Emenda vinte e seis, de dois mil. A alimentação, pela Emenda sessenta e quatro, de dois mil e dez. E o transporte, pela Emenda noventa, de dois mil e quinze, o mais recente do caput. Em dois mil e vinte e um, a Emenda cento e catorze criou, no parágrafo único, a renda básica familiar, para o brasileiro em vulnerabilidade social, em programa permanente de transferência de renda, observada a legislação fiscal e orçamentária.
-BRUNO: A FCC costuma inserir no rol itens que não estão lá, como cultura, meio ambiente ou propriedade. Se aparecer um desses no artigo sexto, é pegadinha.
-THALITA: Eu decorei assim: moradia, alimentação, transporte, formando MAT. "MATou a fome com renda". Moradia em dois mil, alimentação em dois mil e dez, transporte em dois mil e quinze, renda em dois mil e vinte e um.
-ANTONIO: Bom macete. Agora três conceitos de apoio. A reserva do possível diz que a efetivação depende de recursos disponíveis. É defesa do Estado, mas não pode ser usada para fugir do núcleo essencial.
+THALITA: A FCC costuma inserir no rol itens que não estão lá, como cultura, meio ambiente ou propriedade. Se aparecer um desses no artigo sexto, é pegadinha.
+FRANCISCA: Eu decorei assim: moradia, alimentação, transporte, formando MAT. "MATou a fome com renda". Moradia em dois mil, alimentação em dois mil e dez, transporte em dois mil e quinze, renda em dois mil e vinte e um.
+THALITA: Bom macete. Agora três conceitos de apoio. A reserva do possível diz que a efetivação depende de recursos disponíveis. É defesa do Estado, mas não pode ser usada para fugir do núcleo essencial.
 FRANCISCA: Esse núcleo é o mínimo existencial: as condições mínimas de vida digna, exigíveis judicialmente. Ele limita a reserva do possível.
-BRUNO: E a vedação ao retrocesso: conquistas sociais não podem ser suprimidas sem compensação. É um princípio implícito na ordem constitucional.
-THALITA: Então: reserva do possível é o argumento do Estado, mínimo existencial é o limite, e vedação ao retrocesso protege o que já foi conquistado.
+THALITA: E a vedação ao retrocesso: conquistas sociais não podem ser suprimidas sem compensação. É um princípio implícito na ordem constitucional.
+FRANCISCA: Então: reserva do possível é o argumento do Estado, mínimo existencial é o limite, e vedação ao retrocesso protege o que já foi conquistado.
 == SLIDE: Artigo sétimo: números que a FCC troca
 * Despedida arbitrária: lei complementar; até lá, 40% do FGTS
 * Jornada de oito horas diárias e quarenta e quatro semanais
@@ -20,14 +20,14 @@ THALITA: Então: reserva do possível é o argumento do Estado, mínimo existenc
 * Licença-gestante de 120 dias; aviso prévio de 30 dias no mínimo
 * Prescrição de cinco anos, até dois anos após o fim do contrato
 * Menores: 18, 16 e 14 anos
-FRANCISCA: O artigo sétimo traz os direitos dos trabalhadores, estudados a fundo em Direito do Trabalho. Aqui, só os incisos mais cobrados. O inciso um prevê proteção contra despedida arbitrária ou sem justa causa, nos termos de lei complementar. Até ela vir, vale a indenização de quarenta por cento sobre o FGTS.
-BRUNO: O inciso quatro garante o salário mínimo nacionalmente unificado, vedada a vinculação para qualquer fim. Pela Súmula Vinculante quatro, ele não serve de indexador nem pode ser substituído por decisão judicial. O inciso seis prevê irredutibilidade salarial, salvo convenção ou acordo coletivo.
+THALITA: O artigo sétimo traz os direitos dos trabalhadores, estudados a fundo em Direito do Trabalho. Aqui, só os incisos mais cobrados. O inciso um prevê proteção contra despedida arbitrária ou sem justa causa, nos termos de lei complementar. Até ela vir, vale a indenização de quarenta por cento sobre o FGTS.
+FRANCISCA: O inciso quatro garante o salário mínimo nacionalmente unificado, vedada a vinculação para qualquer fim. Pela Súmula Vinculante quatro, ele não serve de indexador nem pode ser substituído por decisão judicial. O inciso seis prevê irredutibilidade salarial, salvo convenção ou acordo coletivo.
 THALITA: E participação nos lucros?
-ANTONIO: Inciso onze: desvinculada da remuneração, de eficácia limitada, regulada pela Lei dez mil cento e um, de dois mil. Agora os números. Jornada de até oito horas diárias e quarenta e quatro semanais, com compensação ou redução por acordo ou convenção. Turnos ininterruptos de revezamento: seis horas, salvo negociação coletiva.
-FRANCISCA: Hora extra com adicional de no mínimo cinquenta por cento. Férias anuais com pelo menos um terço a mais. Licença-gestante de cento e vinte dias. A licença-paternidade é nos termos da lei, e o ADCT fixa cinco dias, mas confira eventual lei nova, porque o STF reconheceu a omissão na ADO vinte.
-THALITA: Aviso prévio proporcional, mínimo de trinta dias, na Lei doze mil quinhentos e seis, de dois mil e onze. Creche até cinco anos, depois da Emenda cinquenta e três.
-BRUNO: Certo. Prescrição de cinco anos, até o limite de dois anos após a extinção do contrato, para urbanos e rurais. E o inciso trinta e três, a pegadinha dos números: proibido trabalho noturno, perigoso ou insalubre a menor de dezoito, qualquer trabalho a menor de dezesseis, salvo aprendiz a partir de quatorze.
-ANTONIO: O parágrafo único trata dos domésticos, com rol ampliado pela Emenda setenta e dois, de dois mil e treze, e a Lei Complementar cento e cinquenta, de dois mil e quinze.
+FRANCISCA: Inciso onze: desvinculada da remuneração, de eficácia limitada, regulada pela Lei dez mil cento e um, de dois mil. Agora os números. Jornada de até oito horas diárias e quarenta e quatro semanais, com compensação ou redução por acordo ou convenção. Turnos ininterruptos de revezamento: seis horas, salvo negociação coletiva.
+THALITA: Hora extra com adicional de no mínimo cinquenta por cento. Férias anuais com pelo menos um terço a mais. Licença-gestante de cento e vinte dias. A licença-paternidade é nos termos da lei, e o ADCT fixa cinco dias, mas confira eventual lei nova, porque o STF reconheceu a omissão na ADO vinte.
+FRANCISCA: Aviso prévio proporcional, mínimo de trinta dias, na Lei doze mil quinhentos e seis, de dois mil e onze. Creche até cinco anos, depois da Emenda cinquenta e três.
+THALITA: Certo. Prescrição de cinco anos, até o limite de dois anos após a extinção do contrato, para urbanos e rurais. E o inciso trinta e três, a pegadinha dos números: proibido trabalho noturno, perigoso ou insalubre a menor de dezoito, qualquer trabalho a menor de dezesseis, salvo aprendiz a partir de quatorze.
+FRANCISCA: O parágrafo único trata dos domésticos, com rol ampliado pela Emenda setenta e dois, de dois mil e treze, e a Lei Complementar cento e cinquenta, de dois mil e quinze.
 == SLIDE: Artigo oitavo: liberdade sindical
 * Registro no órgão competente não é autorização
 * Unicidade: uma organização por categoria, base não inferior a um Município
@@ -36,26 +36,26 @@ ANTONIO: O parágrafo único trata dos domésticos, com rol ampliado pela Emenda
 * Negociação coletiva: participação obrigatória do sindicato
 THALITA: Passamos para o sindicato. É livre criar?
 FRANCISCA: É. O inciso um proíbe a lei de exigir autorização do Estado para fundar sindicato, ressalvado o registro no órgão competente. Registro não é autorização. Também ficam vedadas a interferência e a intervenção do poder público.
-BRUNO: O inciso dois é a unicidade sindical: só uma organização por categoria, em qualquer grau, na mesma base territorial, definida pelos interessados e não inferior a um Município. A Constituição não adota a pluralidade sindical, e a FCC troca isso sempre.
-ANTONIO: O inciso três: o sindicato defende direitos coletivos ou individuais da categoria, inclusive judicialmente, com substituição processual ampla, inclusive de não filiados. O inciso quatro permite que a assembleia fixe contribuição confederativa, descontada em folha, mas a Súmula Vinculante quarenta diz que ela só é exigível dos filiados.
-THALITA: E o inciso cinco, ninguém é obrigado a se filiar?
-FRANCISCA: Isso, liberdade negativa: ninguém é obrigado a filiar-se nem a permanecer filiado. O inciso seis torna obrigatória a participação dos sindicatos nas negociações coletivas, e o sete garante ao aposentado filiado votar e ser votado.
-BRUNO: O inciso oito é a estabilidade do dirigente: é vedada a dispensa do sindicalizado desde o registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o fim do mandato, salvo falta grave. O marco inicial é o registro da candidatura, não a eleição nem a posse.
-THALITA: Registro da candidatura, não eleição nem posse. Anotado.
-FRANCISCA: Na jurisprudência, a contribuição sindical, o antigo imposto sindical, passou a ser facultativa com a Reforma Trabalhista, e o STF validou isso na ADI cinco mil setecentos e noventa e quatro. No Tema novecentos e trinta e cinco, o STF admitiu a contribuição assistencial prevista em acordo ou convenção para todos os empregados, inclusive não sindicalizados, desde que assegurado o direito de oposição.
+THALITA: O inciso dois é a unicidade sindical: só uma organização por categoria, em qualquer grau, na mesma base territorial, definida pelos interessados e não inferior a um Município. A Constituição não adota a pluralidade sindical, e a FCC troca isso sempre.
+FRANCISCA: O inciso três: o sindicato defende direitos coletivos ou individuais da categoria, inclusive judicialmente, com substituição processual ampla, inclusive de não filiados. O inciso quatro permite que a assembleia fixe contribuição confederativa, descontada em folha, mas a Súmula Vinculante quarenta diz que ela só é exigível dos filiados.
+THALITA: E o inciso cinco, ninguém é obrigada a se filiar?
+FRANCISCA: Isso, liberdade negativa: ninguém é obrigada a filiar-se nem a permanecer filiado. O inciso seis torna obrigatória a participação dos sindicatos nas negociações coletivas, e o sete garante ao aposentado filiado votar e ser votado.
+THALITA: O inciso oito é a estabilidade do dirigente: é vedada a dispensa do sindicalizado desde o registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o fim do mandato, salvo falta grave. O marco inicial é o registro da candidatura, não a eleição nem a posse.
+FRANCISCA: Registro da candidatura, não eleição nem posse. Anotado.
+THALITA: Na jurisprudência, a contribuição sindical, o antigo imposto sindical, passou a ser facultativa com a Reforma Trabalhista, e o STF validou isso na ADI cinco mil setecentos e noventa e quatro. No Tema novecentos e trinta e cinco, o STF admitiu a contribuição assistencial prevista em acordo ou convenção para todos os empregados, inclusive não sindicalizados, desde que assegurado o direito de oposição.
 == SLIDE: Artigos nono a onze: greve e participação
 * Greve: trabalhadores decidem oportunidade e interesses (art. 9º)
 * Servidor: lei específica; na omissão, Lei 7.783 (MIs 670, 708 e 712)
 * Segurança pública e militares: greve vedada
 * Art. 10: colegiados públicos; art. 11: mais de 200 empregados, um representante
-BRUNO: O artigo nono assegura o direito de greve: compete aos trabalhadores decidir sobre a oportunidade e os interesses a defender. O parágrafo primeiro manda a lei definir os serviços essenciais e o atendimento das necessidades inadiáveis. O parágrafo segundo diz que os abusos sujeitam os responsáveis às penas da lei.
+FRANCISCA: O artigo nono assegura o direito de greve: compete aos trabalhadores decidir sobre a oportunidade e os interesses a defender. O parágrafo primeiro manda a lei definir os serviços essenciais e o atendimento das necessidades inadiáveis. O parágrafo segundo diz que os abusos sujeitam os responsáveis às penas da lei.
 THALITA: E o servidor público pode fazer greve?
 FRANCISCA: Pode, nos termos de lei específica, pelo artigo trinta e sete, inciso sete. Como a lei nunca veio, o STF mandou aplicar a Lei de Greve do setor privado, a sete mil setecentos e oitenta e três, nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze.
-ANTONIO: Mas há vedações. Segurança pública: o STF, no Tema quinhentos e quarenta e um, vedou a greve, inclusive dos policiais civis. Militares: o artigo cento e quarenta e dois, parágrafo terceiro, inciso quatro, veda sindicalização e greve.
-BRUNO: O artigo dez garante participação de trabalhadores e empregadores nos colegiados de órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão, como os conselhos do FGTS e da Previdência.
-FRANCISCA: E o artigo onze: empresas com mais de duzentos empregados elegem um representante, para promover o entendimento direto com o empregador. Isso não se confunde com a comissão de representantes da CLT.
-BRUNO: Os números que a FCC troca nesse bloco: duzentos empregados e um representante; um ano após o mandato; Município como base mínima; cinco anos e dois anos de prescrição; cinco anos de idade na creche.
+THALITA: Mas há vedações. Segurança pública: o STF, no Tema quinhentos e quarenta e um, vedou a greve, inclusive dos policiais civis. Militares: o artigo cento e quarenta e dois, parágrafo terceiro, inciso quatro, veda sindicalização e greve.
+FRANCISCA: O artigo dez garante participação de trabalhadores e empregadores nos colegiados de órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão, como os conselhos do FGTS e da Previdência.
+THALITA: E o artigo onze: empresas com mais de duzentos empregados elegem um representante, para promover o entendimento direto com o empregador. Isso não se confunde com a comissão de representantes da CLT.
+FRANCISCA: Os números que a FCC troca nesse bloco: duzentos empregados e um representante; um ano após o mandato; Município como base mínima; cinco anos e dois anos de prescrição; cinco anos de idade na creche.
 THALITA: Então vou fazer o resumo relâmpago da aula inteira. Primeiro, o artigo quinto: o caput protege também o estrangeiro não residente, e a pessoa jurídica titulariza direitos compatíveis. Domicílio: flagrante, desastre e socorro a qualquer hora; ordem judicial só de dia. Interceptação telefônica só por juiz, para fins penais. Reunião: aviso, não autorização. Associação: dissolução só com trânsito em julgado.
 FRANCISCA: Faltou a RAÇÃO: racismo e ação de grupos armados são imprescritíveis. Tortura, tráfico, terrorismo e hediondos não têm graça nem anistia, mas prescrevem.
 THALITA: Isso! Extradição: nato nunca, naturalizado só em dois casos. Remédios: só o habeas corpus dispensa advogado, só HC e HD são gratuitos, mandado de segurança tem cento e vinte dias, e o um ano de funcionamento é só da associação. Direitos sociais: unicidade sindical, estabilidade a partir do registro da candidatura, e greve vedada na segurança pública.
-ANTONIO: É isso, pessoal, revisem as pegadinhas, e até a próxima aula!
+FRANCISCA: É isso, pessoal, revisem as pegadinhas, e até a próxima aula!

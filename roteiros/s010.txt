@@ -4,48 +4,48 @@ SEGMENTO s010
 * Exceções: prover, requerer, precaver
 * Futuro do subjuntivo: o ponto que mais derruba
 * Reaver, precaver e falir: defectivos
-ANTONIO: Terminada a concordância, vamos à flexão verbal e nominal. A FCC cobra o derivado seguindo o primitivo: intervir segue vir, manter segue ter, propor segue pôr, prever segue ver. As exceções são prover, requerer e precaver.
+FRANCISCA: Terminada a concordância, vamos à flexão verbal e nominal. A FCC cobra o derivado seguindo o primitivo: intervir segue vir, manter segue ter, propor segue pôr, prever segue ver. As exceções são prover, requerer e precaver.
 THALITA: E qual é o tempo que mais derruba?
-BRUNO: O futuro do subjuntivo. Se ele vier, quando eu vir, se ele mantiver, se a parte propuser. Se o sindicato intervier, quando o perito vir os documentos, se a empresa mantiver a proposta, se o credor reouver os bens, quando puder, se couber recurso, se houver.
-FRANCISCA: Vamos por verbo. Intervir, convir, provir e advir seguem vir: interveio, intervieram no pretérito perfeito, intervier no futuro do subjuntivo, interviesse. Errado: interviu, se ele intervir, se convir.
-THALITA: E o verbo ver? Se ele ver?
-ANTONIO: Errado: se ele vir, se eles virem. Prever, rever e antever seguem ver: previu, se ele previr. Errado: preveu, se ele prever. Prover é a exceção: segue ver no presente, provejo e provê, mas é regular no pretérito, proveu e proveram. Errado: proviu.
-BRUNO: Manter, deter, reter, conter, obter e entreter seguem ter: manteve, mantiveram, mantiver, mantivesse. Errado: manteu, se ele manter, deteu. Propor, compor, dispor, impor, supor e repor seguem pôr: propôs, propuseram, propuser, propusesse. Errado: se ele propor. Satisfazer, desfazer e refazer seguem fazer: satisfez, satisfizer. Errado: satisfazeu.
-FRANCISCA: Reaver é defectivo, só nas formas com v: reavemos, reaveis, reouve, reouveram, reouver. Errado: reavejo, reaveu, se ele reaver. Precaver-se também é defectivo: precavemos, precaveis, precavi, precaveu. Errado: precavejo, precavenho. Requerer não segue querer: requeiro, requer, requeri, requereu, se ele requerer. Errado: requis.
-THALITA: Falir e abolir só têm as formas com i, certo? Falimos, falis. Não existe a empresa fale.
-FRANCISCA: Isso. E os verbos em iar são regulares, anuncio, negocio, salvo mediar, ansiar, remediar, incendiar, odiar e intermediar: medeio, anseio, remedeio, incendeio, odeio.
+FRANCISCA: O futuro do subjuntivo. Se ele vier, quando eu vir, se ele mantiver, se a parte propuser. Se o sindicato intervier, quando o perito vir os documentos, se a empresa mantiver a proposta, se o credor reouver os bens, quando puder, se couber recurso, se houver.
+THALITA: Vamos por verbo. Intervir, convir, provir e advir seguem vir: interveio, intervieram no pretérito perfeito, intervier no futuro do subjuntivo, interviesse. Errado: interviu, se ele intervir, se convir.
+FRANCISCA: E o verbo ver? Se ele ver?
+THALITA: Errado: se ele vir, se eles virem. Prever, rever e antever seguem ver: previu, se ele previr. Errado: preveu, se ele prever. Prover é a exceção: segue ver no presente, provejo e provê, mas é regular no pretérito, proveu e proveram. Errado: proviu.
+FRANCISCA: Manter, deter, reter, conter, obter e entreter seguem ter: manteve, mantiveram, mantiver, mantivesse. Errado: manteu, se ele manter, deteu. Propor, compor, dispor, impor, supor e repor seguem pôr: propôs, propuseram, propuser, propusesse. Errado: se ele propor. Satisfazer, desfazer e refazer seguem fazer: satisfez, satisfizer. Errado: satisfazeu.
+THALITA: Reaver é defectivo, só nas formas com v: reavemos, reaveis, reouve, reouveram, reouver. Errado: reavejo, reaveu, se ele reaver. Precaver-se também é defectivo: precavemos, precaveis, precavi, precaveu. Errado: precavejo, precavenho. Requerer não segue querer: requeiro, requer, requeri, requereu, se ele requerer. Errado: requis.
+FRANCISCA: Falir e abolir só têm as formas com i, certo? Falimos, falis. Não existe a empresa fale.
+THALITA: Isso. E os verbos em iar são regulares, anuncio, negocio, salvo mediar, ansiar, remediar, incendiar, odiar e intermediar: medeio, anseio, remedeio, incendeio, odeio.
 == SLIDE: Acentos, particípios e plural de compostos
 * Tem e vem: singular; têm e vêm: plural
 * Crer, dar, ler, ver: creem, deem, leem, veem sem acento
 * Particípio abundante: regular com ter, irregular com ser
 * Plural de compostos: substantivo mais adjetivo, ambos variam
-BRUNO: Acentuação. Ter e vir: tem e vem no singular, têm e vêm no plural. Os derivados seguem: mantém e mantêm, intervém e intervêm, detém e detêm. Já crer, dar, ler e ver têm crê, dê, lê, vê no singular, e creem, deem, leem, veem no plural, sem acento desde dois mil e nove. E poder: pode no presente, pôde no pretérito.
+FRANCISCA: Acentuação. Ter e vir: tem e vem no singular, têm e vêm no plural. Os derivados seguem: mantém e mantêm, intervém e intervêm, detém e detêm. Já crer, dar, ler e ver têm crê, dê, lê, vê no singular, e creem, deem, leem, veem no plural, sem acento desde dois mil e nove. E poder: pode no presente, pôde no pretérito.
 THALITA: Então eu vou com macete: o plural de ter e vir tem circunflexo, o de ler e ver perde o acento.
-ANTONIO: Particípios abundantes. Com ter e haver, usa-se o regular; com ser e estar, o irregular. Tinha aceitado, foi aceito. Tinha entregado, foi entregue. Tinha elegido, foi eleito. Já pagar, ganhar e gastar usam pago, ganho e gasto com qualquer auxiliar.
-FRANCISCA: Flexão nominal, o plural dos compostos. Substantivo mais adjetivo, ou adjetivo mais substantivo, ambos variam: obras-primas, matérias-primas, segundas-feiras. Substantivo mais substantivo que o especifica, só o primeiro varia: salários-família, palavras-chave. O segundo também é admitido. Verbo ou palavra invariável mais substantivo, só o substantivo: guarda-chuvas, abaixo-assinados, vice-presidentes.
-THALITA: Então vice-presidentes e guarda-chuvas: só a segunda parte.
-BRUNO: Isso. E cuidado com salários-família, porque a FCC gosta de dar o plural errado como alternativa.
+FRANCISCA: Particípios abundantes. Com ter e haver, usa-se o regular; com ser e estar, o irregular. Tinha aceitado, foi aceito. Tinha entregado, foi entregue. Tinha elegido, foi eleito. Já pagar, ganhar e gastar usam pago, ganho e gasto com qualquer auxiliar.
+THALITA: Flexão nominal, o plural dos compostos. Substantivo mais adjetivo, ou adjetivo mais substantivo, ambos variam: obras-primas, matérias-primas, segundas-feiras. Substantivo mais substantivo que o especifica, só o primeiro varia: salários-família, palavras-chave. O segundo também é admitido. Verbo ou palavra invariável mais substantivo, só o substantivo: guarda-chuvas, abaixo-assinados, vice-presidentes.
+FRANCISCA: Então vice-presidentes e guarda-chuvas: só a segunda parte.
+THALITA: Isso. E cuidado com salários-família, porque a FCC gosta de dar o plural errado como alternativa.
 == SLIDE: Vozes do verbo e transposição
 * Ativa, passiva analítica, passiva sintética, reflexiva
 * Só VTD e VTDI vão para a passiva
 * Ser assume o tempo e o modo do verbo da ativa
 * Locução: o auxiliar fica; tempo composto não vira simples
-ANTONIO: Vozes do verbo. Na ativa, o sujeito é o agente: o juiz proferiu a sentença. Na passiva analítica, o sujeito é paciente, com ser mais particípio: a sentença foi proferida pelo juiz. Na passiva sintética, com se: proferiu-se a sentença. Na reflexiva, o sujeito pratica e sofre a ação: o servidor feriu-se.
+FRANCISCA: Vozes do verbo. Na ativa, o sujeito é o agente: o juiz proferiu a sentença. Na passiva analítica, o sujeito é paciente, com ser mais particípio: a sentença foi proferida pelo juiz. Na passiva sintética, com se: proferiu-se a sentença. Na reflexiva, o sujeito pratica e sofre a ação: o servidor feriu-se.
 THALITA: E quem vai para a passiva?
 FRANCISCA: Só verbo transitivo direto e transitivo direto e indireto. O objeto direto vira sujeito paciente, e o sujeito vira agente da passiva. Transitivo indireto, intransitivo e de ligação não vão: o jogo foi assistido é rejeitado pela norma. Obedecer, desobedecer e responder são a exceção tradicional: as normas foram obedecidas.
-BRUNO: Na transposição, o verbo ser assume o tempo e o modo do verbo da ativa. Presente, é analisado. Pretérito perfeito, foi analisado. Imperfeito, era analisado. Mais-que-perfeito simples, fora analisado. Futuro do presente, será analisado. Futuro do pretérito, seria analisado. Futuro do subjuntivo, quando for analisado.
+THALITA: Na transposição, o verbo ser assume o tempo e o modo do verbo da ativa. Presente, é analisado. Pretérito perfeito, foi analisado. Imperfeito, era analisado. Mais-que-perfeito simples, fora analisado. Futuro do presente, será analisado. Futuro do pretérito, seria analisado. Futuro do subjuntivo, quando for analisado.
 FRANCISCA: Com tempos compostos, mantém-se a composição: tinha analisado vira tinha sido analisado, e não foi analisado. Teria analisado vira teria sido analisado. Tem analisado vira tem sido analisado.
 THALITA: E nas locuções? Deve analisar, vai analisar, estava analisando?
-ANTONIO: Auxiliar fica e só concorda com o novo sujeito, e ser entra na forma nominal: deve ser analisado, vai ser analisado, estava sendo analisado, vinha sendo analisado.
-BRUNO: Outras regras de ouro. Pronome objeto vira pronome reto: o juiz o intimou vira ele foi intimado pelo juiz. Em verbo transitivo direto e indireto, só o objeto direto sobe: foi concedido prazo à parte pelo juiz. Sujeito indeterminado, na terceira pessoa do plural, gera passiva sem agente: arquivaram o processo vira o processo foi arquivado. E sintética vira analítica: devem-se publicar os editais igual a os editais devem ser publicados.
+FRANCISCA: Auxiliar fica e só concorda com o novo sujeito, e ser entra na forma nominal: deve ser analisado, vai ser analisado, estava sendo analisado, vinha sendo analisado.
+THALITA: Outras regras de ouro. Pronome objeto vira pronome reto: o juiz o intimou vira ele foi intimado pelo juiz. Em verbo transitivo direto e indireto, só o objeto direto sobe: foi concedido prazo à parte pelo juiz. Sujeito indeterminado, na terceira pessoa do plural, gera passiva sem agente: arquivaram o processo vira o processo foi arquivado. E sintética vira analítica: devem-se publicar os editais igual a os editais devem ser publicados.
 == SLIDE: Exemplo de transposição com locução
 * A comissão vinha examinando as propostas
 * As propostas vinham sendo examinadas pela comissão
 * Auxiliar fica; ser vai para a forma nominal
 FRANCISCA: Vamos treinar com um caso de prova. A comissão vinha examinando as propostas. Na passiva, o auxiliar vinha permanece e concorda com o novo sujeito, as propostas, então vira vinham.
 THALITA: E o examinando? Ele vira examinadas e pronto?
-BRUNO: Falta o ser, na forma nominal, que é sendo. Fica: as propostas vinham sendo examinadas pela comissão. Quem escreve vinham examinadas ou foram examinadas perde a ideia de ação em andamento.
-ANTONIO: Guarde o roteiro: o objeto direto sobe a sujeito, o auxiliar concorda com ele, o ser entra em forma nominal, o verbo principal vai ao particípio e concorda, e o antigo sujeito vira agente da passiva.
+FRANCISCA: Falta o ser, na forma nominal, que é sendo. Fica: as propostas vinham sendo examinadas pela comissão. Quem escreve vinham examinadas ou foram examinadas perde a ideia de ação em andamento.
+THALITA: Guarde o roteiro: o objeto direto sobe a sujeito, o auxiliar concorda com ele, o ser entra em forma nominal, o verbo principal vai ao particípio e concorda, e o antigo sujeito vira agente da passiva.
 == SLIDE: Correlação de tempos e modos, e resumo da aula
 * Presente ou futuro: presente do subjuntivo
 * Pretérito ou futuro do pretérito: imperfeito do subjuntivo
@@ -53,10 +53,10 @@ ANTONIO: Guarde o roteiro: o objeto direto sobe a sujeito, o auxiliar concorda c
 * Erros clássicos: se acordo, seria; caso for
 FRANCISCA: Última parte: correlação de tempos e modos. O tempo da principal define o do subjuntivo na subordinada. Presente ou futuro pede presente do subjuntivo: é necessário que todos compareçam. Pretérito ou futuro do pretérito pede imperfeito: era necessário que todos comparecessem.
 THALITA: E nas condicionais?
-BRUNO: Condição real: futuro do subjuntivo com futuro do presente. Se o réu recorrer, o processo subirá ao TRT. Hipótese: imperfeito do subjuntivo com futuro do pretérito. Se o réu recorresse, o processo subiria. Irreal no passado: mais-que-perfeito do subjuntivo com futuro do pretérito composto. Se o réu tivesse recorrido, o processo teria subido.
-ANTONIO: Quanto ao conectivo, se pede futuro do subjuntivo na possível, se ele vier, e imperfeito na improvável, se ele viesse. Caso pede presente do subjuntivo na possível, caso ele venha, e imperfeito na improvável, caso ele viesse.
-BRUNO: Erros mais cobrados. Se as partes chegarem a um acordo, o processo seria extinto: mistura real com hipotética, o certo é será. Caso o recurso for provido: caso não admite futuro do subjuntivo, o certo é seja. Era imprescindível que os servidores cumpram as metas: o certo é cumprissem. Quando o relator propor: o certo é propuser.
+FRANCISCA: Condição real: futuro do subjuntivo com futuro do presente. Se o réu recorrer, o processo subirá ao TRT. Hipótese: imperfeito do subjuntivo com futuro do pretérito. Se o réu recorresse, o processo subiria. Irreal no passado: mais-que-perfeito do subjuntivo com futuro do pretérito composto. Se o réu tivesse recorrido, o processo teria subido.
+THALITA: Quanto ao conectivo, se pede futuro do subjuntivo na possível, se ele vier, e imperfeito na improvável, se ele viesse. Caso pede presente do subjuntivo na possível, caso ele venha, e imperfeito na improvável, caso ele viesse.
+FRANCISCA: Erros mais cobrados. Se as partes chegarem a um acordo, o processo seria extinto: mistura real com hipotética, o certo é será. Caso o recurso for provido: caso não admite futuro do subjuntivo, o certo é seja. Era imprescindível que os servidores cumpram as metas: o certo é cumprissem. Quando o relator propor: o certo é propuser.
 THALITA: E se tivesse estudado, seria aprovado?
-BRUNO: Aceito no uso, mas a correlação rigorosa pede teria sido aprovado.
+FRANCISCA: Aceito no uso, mas a correlação rigorosa pede teria sido aprovado.
 THALITA: Resumo relâmpago do que mais cai. Crase: precisa de preposição e artigo, e nunca antes de verbo, masculino ou plural. Vírgula: nunca entre sujeito e verbo, e par na intercalação. Lhe nunca é objeto direto, e cujo não leva artigo. Haver de existir fica no singular, e o se de verbo transitivo direto concorda. E o futuro do subjuntivo: vier, vir, mantiver, propuser, intervier.
-ANTONIO: Ótimo resumo, Thalita. Fim de aula, até a próxima!
+FRANCISCA: Ótimo resumo, Thalita. Fim de aula, até a próxima!

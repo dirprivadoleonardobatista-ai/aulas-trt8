@@ -4,56 +4,55 @@ SEGMENTO s100
 * Regra: publicidade; exceção: sigilo
 * Administração direta, indireta e entidades privadas sem fins lucrativos
 * Diretrizes do art. 3º: cinco ideias
-ANTONIO: Olá, pessoal, boas-vindas à aula vinte e nove do nosso curso para o TRT oito! Estamos em Direito Administrativo, terceira parte, segunda metade da disciplina. Hoje vemos a Lei de Acesso à Informação, depois a Lei Geral de Proteção de Dados, e fechamos com questões comentadas no estilo FCC.
-THALITA: Eu sou a Thalita, concurseira como você, e vou perguntar o que você perguntaria.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase, a jurisprudência e os exemplos.
-BRUNO: E eu sou o Bruno, especialista em FCC. Mostro onde a banca arma pegadinha.
-ANTONIO: Começando pela Lei de Acesso à Informação, a lei doze mil quinhentos e vinte e sete, de dois mil e onze. Ela regulamenta o artigo quinto, inciso trinta e três, o artigo trinta e sete, parágrafo terceiro, inciso dois, e o artigo duzentos e dezesseis, parágrafo segundo, da Constituição. A regra é a publicidade; o sigilo é a exceção.
-THALITA: Então, na dúvida, a resposta certa é publicidade?
-BRUNO: Exatamente. A FCC cobra isso logo de cara: qualquer alternativa que trate o sigilo como regra está errada.
+FRANCISCA: Olá, pessoal, boas-vindas à aula vinte e nove do nosso curso para o TRT oito! Estamos em Direito Administrativo, terceira parte, segunda metade da disciplina. Hoje vemos a Lei de Acesso à Informação, depois a Lei Geral de Proteção de Dados, e fechamos com questões comentadas no estilo FCC.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Começando pela Lei de Acesso à Informação, a lei doze mil quinhentos e vinte e sete, de dois mil e onze. Ela regulamenta o artigo quinto, inciso trinta e três, o artigo trinta e sete, parágrafo terceiro, inciso dois, e o artigo duzentos e dezesseis, parágrafo segundo, da Constituição. A regra é a publicidade; o sigilo é a exceção.
+FRANCISCA: Então, na dúvida, a resposta certa é publicidade?
+THALITA: Exatamente. A FCC cobra isso logo de cara: qualquer alternativa que trate o sigilo como regra está errada.
 FRANCISCA: Quem se sujeita à lei? Primeiro, a administração direta: órgãos dos três Poderes, incluídos os Tribunais de Contas, e o Ministério Público, em todos os entes. Depois, a administração indireta: autarquias, fundações, empresas públicas, sociedades de economia mista e demais entidades controladas.
 THALITA: E uma entidade privada? Tipo uma ONG que recebe dinheiro do governo?
 FRANCISCA: Entra, sim: as entidades privadas sem fins lucrativos que recebam recursos públicos. Mas atenção: a publicidade fica restrita à parcela recebida e à sua destinação. Não é a contabilidade inteira da entidade.
-ANTONIO: As diretrizes estão no artigo terceiro. Publicidade como regra, com sigilo sempre justificado. Transparência ativa. Uso dos meios da tecnologia da informação. Fomento à cultura de transparência na administração. E desenvolvimento do controle social.
-THALITA: Deixa eu resumir: publicidade, transparência ativa, tecnologia, cultura e controle social.
-BRUNO: Isso. E controle social é a sociedade fiscalizando o Estado. A FCC adora essa expressão.
+THALITA: As diretrizes estão no artigo terceiro. Publicidade como regra, com sigilo sempre justificado. Transparência ativa. Uso dos meios da tecnologia da informação. Fomento à cultura de transparência na administração. E desenvolvimento do controle social.
+FRANCISCA: Deixa eu resumir: publicidade, transparência ativa, tecnologia, cultura e controle social.
+THALITA: Isso. E controle social é a sociedade fiscalizando o Estado. A FCC adora essa expressão.
 == SLIDE: Transparência ativa e o pedido de informação
 * Art. 8º: divulgar sem pedido, em sítio oficial na internet
 * Município até 10.000 habitantes: dispensa do sítio, não da execução orçamentária
 * Pedido: qualquer interessado, sem dizer o motivo (art. 10, § 3º)
 * Resposta em 20 dias + 10 de prorrogação
 * Busca gratuita; cobra-se só a reprodução
-ANTONIO: Vamos à transparência ativa, artigo oitavo. É o órgão divulgando informação de interesse público sem que ninguém peça.
-FRANCISCA: O conteúdo mínimo é este: competências e estrutura, repasses, despesas, licitações e contratos, dados de programas e obras e respostas a perguntas frequentes. E a divulgação é obrigatória em sítio oficial na internet.
-THALITA: Até prefeitura pequena precisa ter site?
-FRANCISCA: Municípios com até dez mil habitantes ficam dispensados do sítio. Mas continuam obrigados a divulgar, em tempo real, a execução orçamentária e financeira, conforme a Lei Complementar cento e trinta e um, de dois mil e nove.
-BRUNO: Pegadinha clássica: dizer que o município pequeno fica dispensado de qualquer divulgação. Errado. Só do sítio.
-ANTONIO: Agora a transparência passiva: o pedido. Quem pode pedir? Qualquer interessado, por qualquer meio legítimo, artigo dez. O pedido leva a identificação do requerente e a especificação da informação.
-THALITA: Eu preciso explicar para que quero a informação?
-BRUNO: Não! O parágrafo terceiro do artigo dez veda exigir os motivos do pedido. Se a alternativa disser que o pedido deve ser fundamentado, pode riscar.
+FRANCISCA: Vamos à transparência ativa, artigo oitavo. É o órgão divulgando informação de interesse público sem que ninguém peça.
+THALITA: O conteúdo mínimo é este: competências e estrutura, repasses, despesas, licitações e contratos, dados de programas e obras e respostas a perguntas frequentes. E a divulgação é obrigatória em sítio oficial na internet.
+FRANCISCA: Até prefeitura pequena precisa ter site?
+THALITA: Municípios com até dez mil habitantes ficam dispensados do sítio. Mas continuam obrigados a divulgar, em tempo real, a execução orçamentária e financeira, conforme a Lei Complementar cento e trinta e um, de dois mil e nove.
+FRANCISCA: Pegadinha clássica: dizer que o município pequeno fica dispensado de qualquer divulgação. Errado. Só do sítio.
+THALITA: Agora a transparência passiva: o pedido. Quem pode pedir? Qualquer interessado, por qualquer meio legítimo, artigo dez. O pedido leva a identificação do requerente e a especificação da informação.
+FRANCISCA: Eu preciso explicar para que quero a informação?
+THALITA: Não! O parágrafo terceiro do artigo dez veda exigir os motivos do pedido. Se a alternativa disser que o pedido deve ser fundamentado, pode riscar.
 FRANCISCA: A resposta é imediata, se a informação estiver disponível. Senão, em até vinte dias. Pode haver prorrogação por mais dez dias, com justificativa expressa e ciência do requerente.
 THALITA: Vinte mais dez, trinta no total, só se justificar.
-ANTONIO: Isso. Sobre o custo: busca e fornecimento são gratuitos. Cobra-se apenas o custo de reprodução, e fica isento quem declarar hipossuficiência, nos termos da Lei sete mil cento e quinze, de mil novecentos e oitenta e três.
-FRANCISCA: E existe o acesso parcial. Se uma parte do documento é sigilosa, oculta-se essa parte e entrega-se o restante. É o artigo sétimo, parágrafo segundo.
-THALITA: Então não dá para negar o documento inteiro só porque um trecho é sigiloso.
-FRANCISCA: Exatamente isso.
+FRANCISCA: Isso. Sobre o custo: busca e fornecimento são gratuitos. Cobra-se apenas o custo de reprodução, e fica isento quem declarar hipossuficiência, nos termos da Lei sete mil cento e quinze, de mil novecentos e oitenta e três.
+THALITA: E existe o acesso parcial. Se uma parte do documento é sigilosa, oculta-se essa parte e entrega-se o restante. É o artigo sétimo, parágrafo segundo.
+FRANCISCA: Então não dá para negar o documento inteiro só porque um trecho é sigiloso.
+THALITA: Exatamente isso.
 == SLIDE: Recursos, prazos de ouro e graus de sigilo
 * Recurso: 10 dias da ciência; autoridade superior decide em 5
 * Executivo federal: CGU e Comissão Mista de Reavaliação
 * Trocas típicas de prazo na FCC
 * Ultrassecreta 25, secreta 15, reservada 5 anos
-ANTONIO: Negado o pedido, cabe recurso em dez dias da ciência da negativa. Ele vai para a autoridade hierarquicamente superior à que decidiu, e ela se manifesta em cinco dias.
+FRANCISCA: Negado o pedido, cabe recurso em dez dias da ciência da negativa. Ele vai para a autoridade hierarquicamente superior à que decidiu, e ela se manifesta em cinco dias.
 THALITA: E no Executivo federal, acaba aí?
 FRANCISCA: Não. Negado esse recurso, cabe recurso à Controladoria-Geral da União, que decide em cinco dias, e depois à Comissão Mista de Reavaliação de Informações. É o artigo dezesseis.
-BRUNO: Agora as trocas típicas. Trinta dias para a resposta: errado, são vinte. Prorrogação de vinte dias: errado, são dez. Recurso em quinze dias: errado, são dez. Pedido fundamentado: errado. Busca remunerada: errado, é gratuita, salvo reprodução.
-THALITA: Vou arriscar um exemplo. A Ana pede ao TRT, no dia primeiro de março, a relação dos contratos de vigilância.
-FRANCISCA: Boa! O prazo final é vinte e um de março. Com justificativa, o tribunal prorroga até trinta e um de março.
-THALITA: E se o tribunal negar?
-ANTONIO: Ana tem dez dias da ciência para recorrer à autoridade superior, que decide em cinco. E ninguém pode exigir que ela explique para que quer os dados.
-BRUNO: Resumindo os prazos de ouro: vinte mais dez para responder, dez para recorrer, cinco para a autoridade decidir.
-ANTONIO: Agora as restrições de acesso. O artigo vinte e quatro prevê três graus de sigilo. Ultrassecreta: vinte e cinco anos, prorrogável uma única vez, por até mais vinte e cinco. Secreta: quinze anos. Reservada: cinco anos.
-THALITA: Macete: vinte e cinco, quinze, cinco. Ultra vale um quarto de século, secreta uma década e meia, reservada um lustro.
-BRUNO: Perfeito. E só a ultrassecreta é prorrogável, pela Comissão Mista de Reavaliação, limitada a uma renovação. Artigo trinta e cinco.
+THALITA: Agora as trocas típicas. Trinta dias para a resposta: errado, são vinte. Prorrogação de vinte dias: errado, são dez. Recurso em quinze dias: errado, são dez. Pedido fundamentado: errado. Busca remunerada: errado, é gratuita, salvo reprodução.
+FRANCISCA: Vou arriscar um exemplo. A Ana pede ao TRT, no dia primeiro de março, a relação dos contratos de vigilância.
+THALITA: Boa! O prazo final é vinte e um de março. Com justificativa, o tribunal prorroga até trinta e um de março.
+FRANCISCA: E se o tribunal negar?
+THALITA: Ana tem dez dias da ciência para recorrer à autoridade superior, que decide em cinco. E ninguém pode exigir que ela explique para que quer os dados.
+FRANCISCA: Resumindo os prazos de ouro: vinte mais dez para responder, dez para recorrer, cinco para a autoridade decidir.
+THALITA: Agora as restrições de acesso. O artigo vinte e quatro prevê três graus de sigilo. Ultrassecreta: vinte e cinco anos, prorrogável uma única vez, por até mais vinte e cinco. Secreta: quinze anos. Reservada: cinco anos.
+FRANCISCA: Macete: vinte e cinco, quinze, cinco. Ultra vale um quarto de século, secreta uma década e meia, reservada um lustro.
+THALITA: Perfeito. E só a ultrassecreta é prorrogável, pela Comissão Mista de Reavaliação, limitada a uma renovação. Artigo trinta e cinco.
 == SLIDE: Quem classifica, dados pessoais e responsabilidades
 * Art. 27: classificação por autoridades; vedada a subdelegação
 * Direitos humanos: informação não pode ser restringida (art. 21)
@@ -61,16 +60,16 @@ BRUNO: Perfeito. E só a ultrassecreta é prorrogável, pela Comissão Mista de 
 * Agente público: no mínimo suspensão; órgão responde direto (art. 34)
 FRANCISCA: Quem classifica no Executivo federal, artigo vinte e sete? Ultrassecreta: Presidente, Vice, Ministros e equiparados, Comandantes das Forças Armadas e chefes de missões diplomáticas e consulares permanentes no exterior.
 THALITA: E os outros graus abrem para mais gente?
-ANTONIO: Abrem. Secreta: os anteriores mais os titulares de autarquias, fundações, empresas públicas e sociedades de economia mista. Reservada: os anteriores mais autoridades de chefia de nível equivalente a DAS cento e um ponto cinco ou superior.
-BRUNO: Cuidado com a ratificação. Classificação ultrassecreta ou secreta feita por Comandante ou chefe de missão deve ser ratificada pelo Ministro. E a competência pode ser delegada, mas é vedada a subdelegação.
-ANTONIO: Duas regras especiais. Informação sobre a segurança do Presidente, do Vice e de cônjuges e filhos é reservada até o fim do mandato. E pode haver termo final por evento, desde que ocorra antes do prazo máximo.
+FRANCISCA: Abrem. Secreta: os anteriores mais os titulares de autarquias, fundações, empresas públicas e sociedades de economia mista. Reservada: os anteriores mais autoridades de chefia de nível equivalente a DAS cento e um ponto cinco ou superior.
+THALITA: Cuidado com a ratificação. Classificação ultrassecreta ou secreta feita por Comandante ou chefe de missão deve ser ratificada pelo Ministro. E a competência pode ser delegada, mas é vedada a subdelegação.
+FRANCISCA: Duas regras especiais. Informação sobre a segurança do Presidente, do Vice e de cônjuges e filhos é reservada até o fim do mandato. E pode haver termo final por evento, desde que ocorra antes do prazo máximo.
 THALITA: Mas e se a informação for sobre violação de direitos humanos?
 FRANCISCA: Aí não pode ser restringida, artigo vinte e um. Informação necessária à tutela de direitos fundamentais também não pode ser negada.
-ANTONIO: Informações pessoais, artigo trinta e um: intimidade, vida privada, honra e imagem. Acesso restrito por até cem anos da produção, independentemente de classificação, a agentes autorizados e ao próprio titular. Terceiros, só com previsão legal ou consentimento expresso.
-BRUNO: O consentimento é dispensado em casos como diagnóstico médico de incapaz, pesquisa de evidente interesse público sem identificar a pessoa, ordem judicial, defesa de direitos humanos e interesse público preponderante.
+THALITA: Informações pessoais, artigo trinta e um: intimidade, vida privada, honra e imagem. Acesso restrito por até cem anos da produção, independentemente de classificação, a agentes autorizados e ao próprio titular. Terceiros, só com previsão legal ou consentimento expresso.
+FRANCISCA: O consentimento é dispensado em casos como diagnóstico médico de incapaz, pesquisa de evidente interesse público sem identificar a pessoa, ordem judicial, defesa de direitos humanos e interesse público preponderante.
 THALITA: Macete: a pessoal vai a cem porque protege a pessoa a vida inteira.
 FRANCISCA: Responsabilidades, artigos trinta e dois a trinta e quatro. O agente público civil que recusa, retarda ou fornece informação incorreta, destrói ou oculta, divulga sigilo indevidamente ou impõe sigilo para proveito próprio comete infração punida, no mínimo, com suspensão, podendo configurar improbidade. O militar responde por transgressão média ou grave.
-ANTONIO: O particular com vínculo com o Poder Público sofre advertência, multa, rescisão, suspensão de licitar e impedimento de contratar por até dois anos, e declaração de inidoneidade.
-BRUNO: E o órgão ou entidade responde diretamente pelos danos da divulgação indevida, com regresso contra o agente em caso de dolo ou culpa.
+THALITA: O particular com vínculo com o Poder Público sofre advertência, multa, rescisão, suspensão de licitar e impedimento de contratar por até dois anos, e declaração de inidoneidade.
+FRANCISCA: E o órgão ou entidade responde diretamente pelos danos da divulgação indevida, com regresso contra o agente em caso de dolo ou culpa.
 THALITA: Fechei a LAI! E agora, qual é o próximo tema?
-ANTONIO: Dados pessoais de verdade: a Lei Geral de Proteção de Dados. Vamos a ela.
+FRANCISCA: Dados pessoais de verdade: a Lei Geral de Proteção de Dados. Vamos a ela.

@@ -4,20 +4,18 @@ SEGMENTO s060
 * Nacionalidade, direitos políticos, partidos e questões
 * Art. 12, I: alíneas a, b e c
 * Ius soli e ius sanguinis
-ANTONIO: Olá, pessoal, sejam bem-vindos à aula dezoito. Hoje fechamos o estudo dos direitos e garantias fundamentais com a segunda parte: nacionalidade, direitos políticos, partidos políticos e, no fim, questões comentadas estilo FCC. Eu sou o Antônio, professor, e conduzo a aula.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase, a jurisprudência e os exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde estão as armadilhas.
-THALITA: E eu sou a Thalita, concurseira. Pergunto o que você perguntaria.
-ANTONIO: Vamos começar pela nacionalidade, nos artigos doze e treze. Nacionalidade é o vínculo jurídico-político entre a pessoa e o Estado. A primária, ou originária, decorre do nascimento e dá o brasileiro nato. A secundária, ou adquirida, decorre de ato de vontade e dá o naturalizado.
+FRANCISCA: Olá, pessoal, sejam bem-vindos à aula dezoito. Hoje fechamos o estudo dos direitos e garantias fundamentais com a segunda parte: nacionalidade, direitos políticos, partidos políticos e, no fim, questões comentadas estilo FCC. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos começar pela nacionalidade, nos artigos doze e treze. Nacionalidade é o vínculo jurídico-político entre a pessoa e o Estado. A primária, ou originária, decorre do nascimento e dá o brasileiro nato. A secundária, ou adquirida, decorre de ato de vontade e dá o naturalizado.
 THALITA: E só a Constituição pode distinguir nato de naturalizado?
 FRANCISCA: Exato. E a Emenda Constitucional cento e trinta e um, de dois mil e vinte e três, reescreveu as hipóteses de perda, como veremos. Agora os natos, no artigo doze, inciso primeiro, com três alíneas.
-BRUNO: A alínea a usa o critério do território, o ius soli. É nato quem nasce no Brasil, ainda que de pais estrangeiros, desde que nenhum deles esteja a serviço de seu país.
-THALITA: E se só um dos pais estiver a serviço?
-BRUNO: Basta um deles estar a serviço do seu próprio país para afastar a nacionalidade. Mas se o pai estiver a serviço de um terceiro país, a criança nascida no Brasil é brasileira nata.
+THALITA: A alínea a usa o critério do território, o ius soli. É nato quem nasce no Brasil, ainda que de pais estrangeiros, desde que nenhum deles esteja a serviço de seu país.
+FRANCISCA: E se só um dos pais estiver a serviço?
+THALITA: Basta um deles estar a serviço do seu próprio país para afastar a nacionalidade. Mas se o pai estiver a serviço de um terceiro país, a criança nascida no Brasil é brasileira nata.
 FRANCISCA: A alínea b combina sangue com serviço: nascido no estrangeiro, de pai ou mãe brasileiros, desde que qualquer deles esteja a serviço da República Federativa do Brasil, o que inclui União, Estados, Municípios, Distrito Federal e autarquias.
-ANTONIO: A alínea c tem duas partes. Na primeira, nascido no estrangeiro de pai ou mãe brasileiros e registrado em repartição brasileira competente, como o consulado. Na segunda, nascido no estrangeiro de pai ou mãe brasileiros, que venha a residir no Brasil e opte, em qualquer tempo, depois da maioridade, pela nacionalidade brasileira.
-THALITA: Depois da maioridade, então depois dos dezoito anos.
-BRUNO: Isso. E o processo da opção corre perante a Justiça Federal, artigo cento e nove, inciso dez. É a chamada nacionalidade potestativa.
+THALITA: A alínea c tem duas partes. Na primeira, nascido no estrangeiro de pai ou mãe brasileiros e registrado em repartição brasileira competente, como o consulado. Na segunda, nascido no estrangeiro de pai ou mãe brasileiros, que venha a residir no Brasil e opte, em qualquer tempo, depois da maioridade, pela nacionalidade brasileira.
+FRANCISCA: Depois da maioridade, então depois dos dezoito anos.
+THALITA: Isso. E o processo da opção corre perante a Justiça Federal, artigo cento e nove, inciso dez. É a chamada nacionalidade potestativa.
 FRANCISCA: Um exemplo. Tereza, brasileira, mora na Itália como professora particular e lá tem um filho com um italiano. Ela não está a serviço do Brasil, então a alínea b não se aplica. O filho será nato se for registrado no consulado, ou se, residindo no Brasil, optar depois dos dezoito anos.
 THALITA: Entendi. Sem serviço, só pelo registro ou pela opção.
 == SLIDE: Brasileiros naturalizados e quase-nacionalidade portuguesa
@@ -25,45 +23,45 @@ THALITA: Entendi. Sem serviço, só pelo registro ou pela opção.
 * Lusófonos: 1 ano de residência e idoneidade moral
 * Extraordinária: mais de 15 anos, sem condenação penal, com requerimento
 * Português com residência permanente: equiparado, não se torna brasileiro
-ANTONIO: Passemos aos naturalizados, no artigo doze, inciso segundo. A naturalização ordinária, alínea a, é para estrangeiros em geral e exige os requisitos da lei. Hoje é a Lei treze mil quatrocentos e quarenta e cinco, de dois mil e dezessete, a Lei de Migração: capacidade civil, residência, comunicação em português, ausência de condenação.
+FRANCISCA: Passemos aos naturalizados, no artigo doze, inciso segundo. A naturalização ordinária, alínea a, é para estrangeiros em geral e exige os requisitos da lei. Hoje é a Lei treze mil quatrocentos e quarenta e cinco, de dois mil e dezessete, a Lei de Migração: capacidade civil, residência, comunicação em português, ausência de condenação.
 THALITA: E é um direito de quem preenche os requisitos?
-BRUNO: Não. É ato discricionário. Não há direito subjetivo. Já para os originários de países de língua portuguesa, como Portugal, Angola, Moçambique e Cabo Verde, basta residência por um ano ininterrupto e idoneidade moral, mas continua sendo ato discricionário.
-FRANCISCA: A naturalização extraordinária, ou quinzenária, alínea b, vale para estrangeiros de qualquer nacionalidade: residência no Brasil há mais de quinze anos ininterruptos, sem condenação penal, e requerimento. Aqui o ato é vinculado, preenchidos os requisitos há direito subjetivo.
-THALITA: Os números então são um ano e quinze anos.
-BRUNO: E atenção: desde que requeiram. Sem requerimento, não há naturalização automática. A FCC gosta de dizer que o estrangeiro com quinze anos vira brasileiro automaticamente. Errado.
-ANTONIO: Agora a quase-nacionalidade portuguesa, no artigo doze, parágrafo primeiro. Ao português com residência permanente no Brasil, havendo reciprocidade em favor dos brasileiros em Portugal, atribuem-se os direitos inerentes ao brasileiro, salvo os casos previstos na Constituição.
+FRANCISCA: Não. É ato discricionário. Não há direito subjetivo. Já para os originários de países de língua portuguesa, como Portugal, Angola, Moçambique e Cabo Verde, basta residência por um ano ininterrupto e idoneidade moral, mas continua sendo ato discricionário.
+THALITA: A naturalização extraordinária, ou quinzenária, alínea b, vale para estrangeiros de qualquer nacionalidade: residência no Brasil há mais de quinze anos ininterruptos, sem condenação penal, e requerimento. Aqui o ato é vinculado, preenchidos os requisitos há direito subjetivo.
+FRANCISCA: Os números então são um ano e quinze anos.
+THALITA: E atenção: desde que requeiram. Sem requerimento, não há naturalização automática. A FCC gosta de dizer que o estrangeiro com quinze anos vira brasileiro automaticamente. Errado.
+FRANCISCA: Agora a quase-nacionalidade portuguesa, no artigo doze, parágrafo primeiro. Ao português com residência permanente no Brasil, havendo reciprocidade em favor dos brasileiros em Portugal, atribuem-se os direitos inerentes ao brasileiro, salvo os casos previstos na Constituição.
 THALITA: Então ele vira brasileiro?
 FRANCISCA: Não. O português continua estrangeiro, apenas equiparado. Não ocupa cargos privativos de nato, e a extradição só ocorre a pedido de Portugal, conforme o Tratado de Amizade, Decreto três mil novecentos e vinte e sete, de dois mil e um.
-BRUNO: Condição: reciprocidade. Sem reciprocidade, nada de equiparação.
-THALITA: Resumi: português, residência permanente, reciprocidade, equiparado, continua estrangeiro. E para guardar os números da naturalização, um ano para quem fala português e mais de quinze anos na extraordinária, sempre com requerimento. Se a questão disser que a naturalização é automática, eu já marco como errada.
+THALITA: Condição: reciprocidade. Sem reciprocidade, nada de equiparação.
+FRANCISCA: Resumi: português, residência permanente, reciprocidade, equiparado, continua estrangeiro. E para guardar os números da naturalização, um ano para quem fala português e mais de quinze anos na extraordinária, sempre com requerimento. Se a questão disser que a naturalização é automática, eu já marco como errada.
 == SLIDE: Distinções entre natos e naturalizados e cargos privativos
 * Art. 12, §2º: a lei não pode criar distinção nova
 * Extradição, Conselho da República, empresa jornalística, perda
 * Cargos privativos: Presidente, Vice, Câmara, Senado, STF, diplomacia, oficial, Defesa
 * Mnemônico MP três ponto COM
-ANTONIO: O parágrafo segundo do artigo doze diz que a lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos na Constituição. O rol é taxativo e constitucional. Lei, decreto ou edital que crie distinção nova é inconstitucional.
-THALITA: Quais são as distinções?
-FRANCISCA: Cinco. Os cargos privativos de nato. A extradição: nato nunca é extraditado, naturalizado só em duas hipóteses. O Conselho da República, onde seis cidadãos são natos e maiores de trinta e cinco anos. A propriedade de empresa jornalística e de radiodifusão, privativa de natos ou naturalizados há mais de dez anos. E a perda da nacionalidade, porque o cancelamento da naturalização só atinge o naturalizado.
-BRUNO: Agora a lista dos cargos privativos de nato, no artigo doze, parágrafo terceiro. Presidente e Vice-Presidente da República. Presidente da Câmara dos Deputados. Presidente do Senado. Ministro do Supremo. Carreira diplomática. Oficial das Forças Armadas. E Ministro de Estado da Defesa.
+THALITA: O parágrafo segundo do artigo doze diz que a lei não poderá estabelecer distinção entre brasileiros natos e naturalizados, salvo nos casos previstos na Constituição. O rol é taxativo e constitucional. Lei, decreto ou edital que crie distinção nova é inconstitucional.
+FRANCISCA: Quais são as distinções?
+THALITA: Cinco. Os cargos privativos de nato. A extradição: nato nunca é extraditado, naturalizado só em duas hipóteses. O Conselho da República, onde seis cidadãos são natos e maiores de trinta e cinco anos. A propriedade de empresa jornalística e de radiodifusão, privativa de natos ou naturalizados há mais de dez anos. E a perda da nacionalidade, porque o cancelamento da naturalização só atinge o naturalizado.
+FRANCISCA: Agora a lista dos cargos privativos de nato, no artigo doze, parágrafo terceiro. Presidente e Vice-Presidente da República. Presidente da Câmara dos Deputados. Presidente do Senado. Ministro do Supremo. Carreira diplomática. Oficial das Forças Armadas. E Ministro de Estado da Defesa.
 THALITA: É muita coisa. Tem macete?
-BRUNO: Tem: pense em MP três ponto COM. Ministro do Supremo, Presidente e Vice da República, Presidente da Câmara, Presidente do Senado, Carreira diplomática, Oficial das Forças Armadas, Ministro da Defesa.
-FRANCISCA: Os quatro primeiros fazem parte da linha de sucessão do Presidente, no artigo oitenta, e o Presidente do Supremo é o último. Diplomacia representa o país no exterior, oficial e Ministro da Defesa tratam de segurança nacional.
-ANTONIO: E o que não é privativo: Deputado, Senador, Ministro do STJ, do TST ou do TCU, Procurador-Geral da República, demais Ministros de Estado, Presidente do STJ e Advogado-Geral da União.
-BRUNO: A FCC adora incluir Ministro do STJ, Senador ou Ministro das Relações Exteriores na lista. Todos podem ser naturalizados. O que é privativo é a presidência da Câmara e do Senado, não o mandato parlamentar.
-THALITA: Fechei: presidência sim, mandato não. Então eu posso ser senadora sendo naturalizada, mas nunca presidente do Senado. E ministra do Supremo, nunca, se for naturalizada. Vou revisar essa lista toda noite antes da prova, porque a banca adora trocar um cargo só.
+FRANCISCA: Tem: pense em MP três ponto COM. Ministro do Supremo, Presidente e Vice da República, Presidente da Câmara, Presidente do Senado, Carreira diplomática, Oficial das Forças Armadas, Ministro da Defesa.
+THALITA: Os quatro primeiros fazem parte da linha de sucessão do Presidente, no artigo oitenta, e o Presidente do Supremo é o último. Diplomacia representa o país no exterior, oficial e Ministro da Defesa tratam de segurança nacional.
+FRANCISCA: E o que não é privativo: Deputado, Senador, Ministro do STJ, do TST ou do TCU, Procurador-Geral da República, demais Ministros de Estado, Presidente do STJ e Advogado-Geral da União.
+THALITA: A FCC adora incluir Ministro do STJ, Senador ou Ministro das Relações Exteriores na lista. Todos podem ser naturalizados. O que é privativo é a presidência da Câmara e do Senado, não o mandato parlamentar.
+FRANCISCA: Fechei: presidência sim, mandato não. Então eu posso ser senadora sendo naturalizada, mas nunca presidente do Senado. E ministra do Supremo, nunca, se for naturalizada. Vou revisar essa lista toda noite antes da prova, porque a banca adora trocar um cargo só.
 == SLIDE: Perda da nacionalidade pela EC 131 e o artigo 13
 * Cancelamento da naturalização: só por fraude ou atentado contra a ordem constitucional
 * Pedido expresso de perda, vedada a apatridia
 * Adquirir outra nacionalidade não gera mais perda
 * Art. 13: português, símbolos nacionais; entes podem ter símbolos próprios
-FRANCISCA: Vamos à perda da nacionalidade, que mudou com a Emenda Constitucional cento e trinta e um. Hoje há duas hipóteses. Primeira: o cancelamento da naturalização, por sentença judicial, em razão de fraude no processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático. Só atinge o naturalizado, a ação corre na Justiça Federal e os efeitos são ex nunc.
-THALITA: E a segunda?
-ANTONIO: O pedido expresso de perda, feito perante autoridade brasileira competente. Vale para nato ou naturalizado, é ato voluntário, e ficam ressalvadas as situações que gerem apatridia.
-BRUNO: Antes da emenda, o cancelamento era por atividade nociva ao interesse nacional. Agora, só fraude ou atentado. Antes, adquirir outra nacionalidade gerava perda automática, salvo exceções. Agora, adquirir outra nacionalidade não gera perda. Só o pedido expresso.
+THALITA: Vamos à perda da nacionalidade, que mudou com a Emenda Constitucional cento e trinta e um. Hoje há duas hipóteses. Primeira: o cancelamento da naturalização, por sentença judicial, em razão de fraude no processo de naturalização ou de atentado contra a ordem constitucional e o Estado Democrático. Só atinge o naturalizado, a ação corre na Justiça Federal e os efeitos são ex nunc.
+FRANCISCA: E a segunda?
+THALITA: O pedido expresso de perda, feito perante autoridade brasileira competente. Vale para nato ou naturalizado, é ato voluntário, e ficam ressalvadas as situações que gerem apatridia.
+FRANCISCA: Antes da emenda, o cancelamento era por atividade nociva ao interesse nacional. Agora, só fraude ou atentado. Antes, adquirir outra nacionalidade gerava perda automática, salvo exceções. Agora, adquirir outra nacionalidade não gera perda. Só o pedido expresso.
 THALITA: Então se o brasileiro virar cidadão americano, ele continua brasileiro?
 FRANCISCA: Continua, desde que não peça a perda. E o parágrafo quinto permite que quem renunciou readquira a nacionalidade originária, nos termos da lei.
-BRUNO: Cuidado com questões anteriores a dois mil e vinte e três. Elas tratam como correta a perda por aquisição voluntária de outra nacionalidade. Hoje isso está errado. Confira sempre a redação vigente.
-ANTONIO: Para fechar, o artigo treze. A língua portuguesa é o idioma oficial. São símbolos da República a bandeira, o hino, as armas e o selo nacionais. Estados, Distrito Federal e Municípios podem ter símbolos próprios, é uma faculdade.
+THALITA: Cuidado com questões anteriores a dois mil e vinte e três. Elas tratam como correta a perda por aquisição voluntária de outra nacionalidade. Hoje isso está errado. Confira sempre a redação vigente.
+FRANCISCA: Para fechar, o artigo treze. A língua portuguesa é o idioma oficial. São símbolos da República a bandeira, o hino, as armas e o selo nacionais. Estados, Distrito Federal e Municípios podem ter símbolos próprios, é uma faculdade.
 THALITA: Língua portuguesa, símbolos nacionais, símbolos próprios facultativos.
 FRANCISCA: Com a nacionalidade pronta, passamos aos direitos políticos.
-ANTONIO: Vamos então aos direitos políticos, artigos catorze a dezesseis, e aos partidos políticos, artigo dezessete.
+THALITA: Vamos então aos direitos políticos, artigos catorze a dezesseis, e aos partidos políticos, artigo dezessete.

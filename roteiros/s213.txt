@@ -4,16 +4,14 @@ SEGMENTO s213
 * Q1: prazos recursais no processo do trabalho
 * ED 5 dias; RE 15 dias; revisão do valor da causa 48 horas
 * Fazenda em dobro; litisconsortes sem dobra (OJ 310)
-ANTONIO: Olá, pessoal, boas-vindas! Aqui é o Antônio e esta é a aula sessenta e dois, de Direito Processual do Trabalho, a última da parte de recursos, PJe e precedentes. O tema são as questões comentadas, no estilo da FCC. Vamos resolver as questões uma a uma, lendo o enunciado, dando um tempo para você pensar e comentando cada alternativa.
-FRANCISCA: Oi, gente! Eu sou a Francisca, professora. Vou trazer o fundamento legal de cada alternativa.
-BRUNO: Eu sou o Bruno, especialista em FCC. Vou mostrar onde a banca esconde a pegadinha.
-THALITA: E eu sou a Thalita, concurseira. Vou arriscar as respostas, e quem sabe errar de propósito para a gente aprender. Vamos?
-ANTONIO: Questão um. Acerca dos prazos recursais no processo do trabalho, qual alternativa é correta? A: embargos de declaração em cinco dias, recurso extraordinário em quinze e revisão do valor da causa em quarenta e oito horas. B: agravo de instrumento em cinco dias. C: o Município tem os mesmos oito dias do particular. D: litisconsortes com advogados distintos têm prazo em dobro. E: agravo interno em quinze dias úteis. Pausa para você pensar.
-THALITA: Eu marcaria a D. Dois advogados, prazo em dobro, como no processo civil.
-BRUNO: Cuidado, Thalita, essa é a pegadinha. A D está errada: o artigo duzentos e vinte e nove do CPC é inaplicável ao processo do trabalho, Orientação Jurisprudencial trezentos e dez da SDI-1. A alternativa A é a correta, o gabarito. Cinco, quinze e quarenta e oito horas.
+FRANCISCA: Olá, pessoal, boas-vindas! Esta é a aula sessenta e dois, de Direito Processual do Trabalho, a última da parte de recursos, PJe e precedentes. O tema são as questões comentadas, no estilo da FCC. Vamos resolver as questões uma a uma, lendo o enunciado, dando um tempo para você pensar e comentando cada alternativa.
+THALITA: Oi, gente! Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Questão um. Acerca dos prazos recursais no processo do trabalho, qual alternativa é correta? A: embargos de declaração em cinco dias, recurso extraordinário em quinze e revisão do valor da causa em quarenta e oito horas. B: agravo de instrumento em cinco dias. C: o Município tem os mesmos oito dias do particular. D: litisconsortes com advogados distintos têm prazo em dobro. E: agravo interno em quinze dias úteis. Pausa para você pensar.
+FRANCISCA: Eu marcaria a D. Dois advogados, prazo em dobro, como no processo civil.
+THALITA: Cuidado, Francisca, essa é a pegadinha. A D está errada: o artigo duzentos e vinte e nove do CPC é inaplicável ao processo do trabalho, Orientação Jurisprudencial trezentos e dez da SDI-1. A alternativa A é a correta, o gabarito. Cinco, quinze e quarenta e oito horas.
 FRANCISCA: A B está errada: o agravo de instrumento segue o prazo geral de oito dias, artigo oitocentos e noventa e sete. A C está errada: o Decreto-Lei setecentos e setenta e nove, artigo primeiro, inciso terceiro, dá prazo em dobro à Fazenda Pública. E a E está errada: todos os recursos, inclusive agravo interno e regimental, têm oito dias, salvo os embargos de declaração.
 THALITA: Então: embargos de declaração cinco, extraordinário quinze, revisão quarenta e oito horas, o resto oito. Peguei.
-
 == SLIDE: Questão 2: depósito recursal
 * I: pequeno porte, metade (§9º)
 * II: recuperação judicial, isenção (§10)
@@ -22,73 +20,68 @@ THALITA: Então: embargos de declaração cinco, extraordinário quinze, revisã
 * Gabarito C: itens I, II e IV
 FRANCISCA: Questão dois. Sobre o depósito recursal, considere quatro afirmações. Item um: para empresas de pequeno porte, o valor é reduzido pela metade. Item dois: empresas em recuperação judicial são isentas. Item três: constatado depósito em valor inferior ao devido, o recurso é imediatamente considerado deserto, sem complementação. Item quatro: pode ser substituído por fiança bancária ou seguro garantia judicial. Pausa para você pensar.
 THALITA: Item três me parece certo: se depositou menos, deserção.
-BRUNO: Essa é a armadilha clássica. O item três é falso: a insuficiência gera intimação para complementar em cinco dias, Orientação Jurisprudencial cento e quarenta da SDI-1 e artigo mil e sete, parágrafo segundo, do CPC. Deserção imediata é só para a ausência total.
-ANTONIO: Os itens um, dois e quatro são verdadeiros. Um, parágrafo nono do artigo oitocentos e noventa e nove. Dois, parágrafo décimo. Quatro, parágrafo onze. O gabarito é a alternativa C: um, dois e quatro, apenas.
-THALITA: Então a A erra por omitir o quatro?
-FRANCISCA: Exato. A A traz um e dois apenas, e omite o item quatro, que também é correto. A B inclui o três, falso. A D inclui o três e exclui o um e o dois. A E diz que os quatro estão corretos, mas o três contraria a Orientação cento e quarenta.
-BRUNO: Dica de prova: sempre que o item falar em consequência imediata e drástica, como deserção sem chance de complementar, desconfie. A jurisprudência trabalhista dá chance para sanar vícios.
+FRANCISCA: Essa é a armadilha clássica. O item três é falso: a insuficiência gera intimação para complementar em cinco dias, Orientação Jurisprudencial cento e quarenta da SDI-1 e artigo mil e sete, parágrafo segundo, do CPC. Deserção imediata é só para a ausência total.
+THALITA: Os itens um, dois e quatro são verdadeiros. Um, parágrafo nono do artigo oitocentos e noventa e nove. Dois, parágrafo décimo. Quatro, parágrafo onze. O gabarito é a alternativa C: um, dois e quatro, apenas.
+FRANCISCA: Então a A erra por omitir o quatro?
+THALITA: Exato. A A traz um e dois apenas, e omite o item quatro, que também é correto. A B inclui o três, falso. A D inclui o três e exclui o um e o dois. A E diz que os quatro estão corretos, mas o três contraria a Orientação cento e quarenta.
+FRANCISCA: Dica de prova: sempre que o item falar em consequência imediata e drástica, como deserção sem chance de complementar, desconfie. A jurisprudência trabalhista dá chance para sanar vícios.
 THALITA: Macete: insuficiência, cinco dias para completar; ausência, deserção.
-
 == SLIDE: Questão 3: exceção de incompetência territorial
 * Ana ajuíza em Belém; exceção acolhida; remessa a Macapá
 * Súmula 214, c: recurso imediato só se TRT distinto
 * Belém e Macapá: mesmo TRT da oitava região
 * Gabarito E: não cabe recurso imediato
-ANTONIO: Questão três. Ana ajuizou reclamação em Vara de Belém. A reclamada apresentou exceção de incompetência territorial, acolhida, com remessa dos autos a uma Vara de Macapá. Ana pretende recorrer imediatamente. Segundo a jurisprudência sumulada do TST, o que ocorre? A: cabe recurso ordinário, pois toda decisão que acolhe exceção é recorrível de imediato. B: agravo de instrumento. C: agravo de petição. D: cabe recurso ordinário porque os autos foram para outro Estado. E: não cabe recurso imediato, pois ambas estão no mesmo Tribunal Regional. Pausa para pensar.
+FRANCISCA: Questão três. Ana ajuizou reclamação em Vara de Belém. A reclamada apresentou exceção de incompetência territorial, acolhida, com remessa dos autos a uma Vara de Macapá. Ana pretende recorrer imediatamente. Segundo a jurisprudência sumulada do TST, o que ocorre? A: cabe recurso ordinário, pois toda decisão que acolhe exceção é recorrível de imediato. B: agravo de instrumento. C: agravo de petição. D: cabe recurso ordinário porque os autos foram para outro Estado. E: não cabe recurso imediato, pois ambas estão no mesmo Tribunal Regional. Pausa para pensar.
 THALITA: Macapá é outro Estado, então eu marco a D.
 FRANCISCA: Boa tentativa, mas o critério da Súmula duzentos e catorze, alínea c, é o Tribunal Regional, não o Estado. O TRT da oitava região abrange Pará e Amapá. Então Belém e Macapá estão no mesmo Regional.
-BRUNO: O gabarito é a E: remessa dentro do mesmo Regional é interlocutória irrecorrível de imediato, artigo oitocentos e noventa e três, parágrafo primeiro, e Súmula duzentos e catorze. A matéria pode ser impugnada no recurso contra a decisão definitiva.
-ANTONIO: A A está errada porque só é recorrível de imediato a decisão que remete para TRT distinto. A B está errada: o agravo de instrumento serve apenas para destrancar recurso cujo seguimento foi negado, artigo oitocentos e noventa e sete, alínea b. A C está errada: o agravo de petição é recurso da fase de execução, alínea a.
+THALITA: O gabarito é a E: remessa dentro do mesmo Regional é interlocutória irrecorrível de imediato, artigo oitocentos e noventa e três, parágrafo primeiro, e Súmula duzentos e catorze. A matéria pode ser impugnada no recurso contra a decisão definitiva.
+FRANCISCA: A A está errada porque só é recorrível de imediato a decisão que remete para TRT distinto. A B está errada: o agravo de instrumento serve apenas para destrancar recurso cujo seguimento foi negado, artigo oitocentos e noventa e sete, alínea b. A C está errada: o agravo de petição é recurso da fase de execução, alínea a.
 THALITA: Quer dizer que o aluno mais atento é quem sabe que o Amapá está na oitava região.
-BRUNO: Isso! A FCC adora usar um Estado diferente para você cair no critério errado.
-
+FRANCISCA: Isso! A FCC adora usar um Estado diferente para você cair no critério errado.
 == SLIDE: Questão 4: depósito no agravo de instrumento
 * Ômega: revista não admitida; agravo de instrumento
 * Depósito: 50% do depósito do recurso a destrancar (§7º)
 * Dispensado se contra súmula ou OJ do TST (§8º)
 * Gabarito B
-ANTONIO: Questão quatro. A Ômega Limitada, empresa de grande porte, teve negado seguimento ao recurso de revista pela Presidência do TRT e pretende interpor agravo de instrumento. O depósito recursal exigido no agravo de instrumento: A: cem por cento do depósito do recurso negado. B: cinquenta por cento do depósito do recurso que se pretende destrancar, não exigido quando o agravo visa destrancar revista contra decisão contrária a súmula ou orientação jurisprudencial do TST. C: cinquenta por cento do valor total da condenação. D: dispensado sempre que dirigido ao TST. E: cinquenta por cento, dispensado quando a decisão contrariar jurisprudência de outro TRT. Pausa para você pensar.
-THALITA: Eu fico entre B e E. Parece tudo igual.
-FRANCISCA: Diferem no final. A B diz súmula ou OJ do TST, a E diz jurisprudência de outro TRT. O parágrafo oitavo do artigo oitocentos e noventa e nove exige contrariedade a súmula ou OJ do TST, não de TRT.
-ANTONIO: Gabarito B. Ela reproduz, com outras palavras, os parágrafos sétimo e oitavo. A A está errada: o percentual é cinquenta, não cem. A C está errada: a base é o depósito do recurso a destrancar, não a condenação. A D está errada: não há dispensa genérica para agravo dirigido ao TST.
+THALITA: Questão quatro. A Ômega Limitada, empresa de grande porte, teve negado seguimento ao recurso de revista pela Presidência do TRT e pretende interpor agravo de instrumento. O depósito recursal exigido no agravo de instrumento: A: cem por cento do depósito do recurso negado. B: cinquenta por cento do depósito do recurso que se pretende destrancar, não exigido quando o agravo visa destrancar revista contra decisão contrária a súmula ou orientação jurisprudencial do TST. C: cinquenta por cento do valor total da condenação. D: dispensado sempre que dirigido ao TST. E: cinquenta por cento, dispensado quando a decisão contrariar jurisprudência de outro TRT. Pausa para você pensar.
+FRANCISCA: Eu fico entre B e E. Parece tudo igual.
+THALITA: Diferem no final. A B diz súmula ou OJ do TST, a E diz jurisprudência de outro TRT. O parágrafo oitavo do artigo oitocentos e noventa e nove exige contrariedade a súmula ou OJ do TST, não de TRT.
+FRANCISCA: Gabarito B. Ela reproduz, com outras palavras, os parágrafos sétimo e oitavo. A A está errada: o percentual é cinquenta, não cem. A C está errada: a base é o depósito do recurso a destrancar, não a condenação. A D está errada: não há dispensa genérica para agravo dirigido ao TST.
 THALITA: E a E, que eu quase marquei, erra no final.
-BRUNO: Exato. A pegadinha está no complemento: o troca-troca entre TST e TRT. Fica o macete: cinquenta por cento do depósito do recurso trancado, não da condenação, e a dispensa é só para súmula ou OJ do TST.
-
+FRANCISCA: Exato. A pegadinha está no complemento: o troca-troca entre TST e TRT. Fica o macete: cinquenta por cento do depósito do recurso trancado, não da condenação, e a dispensa é só para súmula ou OJ do TST.
 == SLIDE: Questão 5: agravo de petição
 * Beta alega excesso de execução genérico
 * Art. 897, §1º: delimitar matérias e valores
 * Parte incontroversa executada de imediato (Súmula 416)
 * Prazo de 8 dias; julgado por Turma do TRT
 * Gabarito D
-FRANCISCA: Questão cinco, para Oficial de Justiça Avaliador. Na execução, a Beta S.A. interpôs agravo de petição alegando genericamente excesso de execução, sem indicar parcelas e valores. Nos termos da CLT: A: será conhecido, pois a delimitação só se aplica à revista. B: suspende integralmente a execução. C: prazo de cinco dias. D: só será recebido quando o agravante delimitar, justificadamente, as matérias e valores impugnados, permitida a execução imediata da parte remanescente. E: julgado pelo próprio juiz da execução, com retratação obrigatória. Pausa para pensar.
-THALITA: Ah, essa eu sei! É a D, a delimitação.
-ANTONIO: Muito bem, Thalita, é a D mesmo. Paráfrase fiel do artigo oitocentos e noventa e sete, parágrafo primeiro, da CLT.
-BRUNO: Comentando as outras. A A está errada: a delimitação é requisito específico do agravo de petição, não da revista. A B está errada: a parte não impugnada pode ser executada imediatamente, até o final, Súmula quatrocentos e dezesseis. A C está errada: o prazo é de oito dias, artigo oitocentos e noventa e sete, caput. A E está errada: o agravo de petição é julgado por Turma do TRT, parágrafo terceiro.
+THALITA: Questão cinco, para Oficial de Justiça Avaliador. Na execução, a Beta S.A. interpôs agravo de petição alegando genericamente excesso de execução, sem indicar parcelas e valores. Nos termos da CLT: A: será conhecido, pois a delimitação só se aplica à revista. B: suspende integralmente a execução. C: prazo de cinco dias. D: só será recebido quando o agravante delimitar, justificadamente, as matérias e valores impugnados, permitida a execução imediata da parte remanescente. E: julgado pelo próprio juiz da execução, com retratação obrigatória. Pausa para pensar.
+FRANCISCA: Ah, essa eu sei! É a D, a delimitação.
+THALITA: Muito bem, Francisca, é a D mesmo. Paráfrase fiel do artigo oitocentos e noventa e sete, parágrafo primeiro, da CLT.
+FRANCISCA: Comentando as outras. A A está errada: a delimitação é requisito específico do agravo de petição, não da revista. A B está errada: a parte não impugnada pode ser executada imediatamente, até o final, Súmula quatrocentos e dezesseis. A C está errada: o prazo é de oito dias, artigo oitocentos e noventa e sete, caput. A E está errada: o agravo de petição é julgado por Turma do TRT, parágrafo terceiro.
 THALITA: E o macete é: agravo de petição, delimita matéria e valor, o resto a execução segue.
 FRANCISCA: Isso. E lembre que, como Oficial de Justiça, você vai executar essa parte incontroversa no dia a dia.
-
 == SLIDE: Questão 6: revista no sumaríssimo
 * Sumaríssimo: súmula do TST, SV e violação direta da CF (§9º)
 * OJ não autoriza revista (Súmula 442)
 * Divergência e lei federal ficam de fora
 * Gabarito A
-ANTONIO: Questão seis. Em causa submetida ao procedimento sumaríssimo, o recurso de revista somente será admitido por: A: contrariedade a súmula de jurisprudência uniforme do TST, a súmula vinculante do STF e violação direta da Constituição. B: contrariedade a súmula do TST, a orientação jurisprudencial da SDI-1 e a súmula vinculante. C: divergência jurisprudencial entre Tribunais Regionais e violação literal de lei federal. D: violação literal de lei federal e da Constituição. E: violação direta da Constituição, exclusivamente, como na execução. Pausa para pensar.
-THALITA: Eu iria na B, porque OJ também é jurisprudência do TST.
-BRUNO: Essa é a troca clássica. Orientação jurisprudencial não autoriza revista no sumaríssimo, Súmula quatrocentos e quarenta e dois. A resposta é a A, artigo oitocentos e noventa e seis, parágrafo nono.
+THALITA: Questão seis. Em causa submetida ao procedimento sumaríssimo, o recurso de revista somente será admitido por: A: contrariedade a súmula de jurisprudência uniforme do TST, a súmula vinculante do STF e violação direta da Constituição. B: contrariedade a súmula do TST, a orientação jurisprudencial da SDI-1 e a súmula vinculante. C: divergência jurisprudencial entre Tribunais Regionais e violação literal de lei federal. D: violação literal de lei federal e da Constituição. E: violação direta da Constituição, exclusivamente, como na execução. Pausa para pensar.
+FRANCISCA: Eu iria na B, porque OJ também é jurisprudência do TST.
+THALITA: Essa é a troca clássica. Orientação jurisprudencial não autoriza revista no sumaríssimo, Súmula quatrocentos e quarenta e dois. A resposta é a A, artigo oitocentos e noventa e seis, parágrafo nono.
 FRANCISCA: A C está errada: divergência jurisprudencial e violação de lei não estão no rol do parágrafo nono. A D está errada: violação de lei federal não é hipótese no sumaríssimo. A E confunde com a execução: a restrição exclusiva à Constituição é a regra do parágrafo segundo, não do sumaríssimo.
 THALITA: Então decoro assim: sumaríssimo, súmula do TST, súmula vinculante e Constituição; execução, só Constituição.
-ANTONIO: Perfeito. Esse quadro cai muito.
-
+FRANCISCA: Perfeito. Esse quadro cai muito.
 == SLIDE: Questão 7: transcendência
 * Econômica: elevado valor da causa
 * Política: desrespeito a súmula do TST ou do STF
 * Social: direito social pedido pelo reclamante-recorrente
 * Jurídica: questão nova
 * TRT não examina transcendência (§6º); gabarito E
-BRUNO: Questão sete. Sobre a transcendência do recurso de revista, considere: item um: é indicador de transcendência econômica o elevado valor da causa. Item dois: é indicador de transcendência política a existência de questão nova na interpretação da legislação trabalhista. Item três: é indicador de transcendência social a postulação, pelo reclamante recorrente, de direito social constitucionalmente assegurado. Item quatro: cabe à Presidência do TRT examinar a transcendência antes de remeter o recurso ao TST. Pausa para você pensar.
-THALITA: Eu marcaria um, dois e três. O quatro, não sei.
-FRANCISCA: Quase. O item dois é falso: questão nova é transcendência jurídica. A política é o desrespeito da instância recorrida à jurisprudência sumulada do TST ou do STF, artigo oitocentos e noventa e seis-A, parágrafo primeiro. O item quatro também é falso: o juízo de admissibilidade no TRT não abrange transcendência, parágrafo sexto.
-ANTONIO: Gabarito E: itens um e três, apenas. A A inclui o dois, falso. A B tem dois e quatro, ambos incorretos. A C inclui o quatro, falso. A D inclui o quatro.
+THALITA: Questão sete. Sobre a transcendência do recurso de revista, considere: item um: é indicador de transcendência econômica o elevado valor da causa. Item dois: é indicador de transcendência política a existência de questão nova na interpretação da legislação trabalhista. Item três: é indicador de transcendência social a postulação, pelo reclamante recorrente, de direito social constitucionalmente assegurado. Item quatro: cabe à Presidência do TRT examinar a transcendência antes de remeter o recurso ao TST. Pausa para você pensar.
+FRANCISCA: Eu marcaria um, dois e três. O quatro, não sei.
+THALITA: Quase. O item dois é falso: questão nova é transcendência jurídica. A política é o desrespeito da instância recorrida à jurisprudência sumulada do TST ou do STF, artigo oitocentos e noventa e seis-A, parágrafo primeiro. O item quatro também é falso: o juízo de admissibilidade no TRT não abrange transcendência, parágrafo sexto.
+FRANCISCA: Gabarito E: itens um e três, apenas. A A inclui o dois, falso. A B tem dois e quatro, ambos incorretos. A C inclui o quatro, falso. A D inclui o quatro.
 THALITA: Macete: econômica, valor; política, súmula desrespeitada; social, direito social do reclamante; jurídica, questão nova.
-BRUNO: A troca entre política e jurídica é pegadinha frequente. E a Presidência do TRT admite, mas quem avalia transcendência é só o TST.
-ANTONIO: Terminamos as primeiras sete. Agora vamos seguir com as questões de oito a catorze, sobre revista na execução, recurso adesivo, reexame necessário, embargos, recurso ordinário e PJe.
+FRANCISCA: A troca entre política e jurídica é pegadinha frequente. E a Presidência do TRT admite, mas quem avalia transcendência é só o TST.
+THALITA: Terminamos as primeiras sete. Agora vamos seguir com as questões de oito a catorze, sobre revista na execução, recurso adesivo, reexame necessário, embargos, recurso ordinário e PJe.

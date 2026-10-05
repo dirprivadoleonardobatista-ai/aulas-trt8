@@ -166,3 +166,82 @@ def capa(destino, aula, total_aulas, final=False, proxima=None):
     d.text((x, H - 50), RODAPE, font=fonte(16), fill="#9CC9EA")
     img.save(destino, optimize=True)
     return destino
+
+
+def _blocos_questao(d, q, f, larg):
+    """Linhas da questao: [(texto, fonte, recuo, espaco_depois, rotulo)]."""
+    linhas = []
+    for par in q["enunciado"]:
+        for l in quebrar(d, par, f, larg):
+            linhas.append([l, f, 0, 0, ""])
+        linhas[-1][3] = int(f.size * 0.45)
+    for letra, txt in q["alternativas"]:
+        for i, l in enumerate(quebrar(d, txt, f, larg - 46)):
+            linhas.append([l, f, 46, 0, "(%s)" % letra if i == 0 else ""])
+        linhas[-1][3] = int(f.size * 0.25)
+    return linhas
+
+
+def questao(destino_base, disciplina, aula_num, num, q):
+    """Tela com o texto INTEGRAL da questao (enunciado e alternativas).
+    Se nao couber numa tela, vira duas: enunciado / alternativas.
+    Devolve a lista de imagens (1 ou 2)."""
+    x, larg = 50, W - 100
+    topo, limite = 132, H - 52
+
+    def desenhar(destino, cab, enun, alts, tamanhos):
+        for tam in tamanhos:
+            img = Image.new("RGB", (W, H), FUNDO)
+            d = ImageDraw.Draw(img)
+            _cabecalho(img, d, disciplina, aula_num)
+            d.text((x, 80), cab, font=fonte(24, "Bold"), fill=AZUL_ESCURO)
+            f, fn = fonte(tam), fonte(tam, "Bold")
+            linhas = _blocos_questao(d, {"enunciado": enun, "alternativas": alts}, f, larg)
+            alt_total = sum(int(l[1].size * 1.3) + l[3] for l in linhas)
+            if topo + alt_total <= limite or tam == tamanhos[-1]:
+                y = topo
+                for texto, fl, recuo, depois, rotulo in linhas:
+                    if rotulo:
+                        d.text((x, y), rotulo, font=fn, fill=AZUL)
+                    d.text((x + recuo, y), texto, font=fl, fill=TEXTO)
+                    y += int(fl.size * 1.3) + depois
+                _rodape(d, 0, 0)
+                img.save(destino, optimize=True)
+                return topo + alt_total <= limite
+        return False
+
+    cab = "QUESTÃO %d" % num + ("  ·  " + q["cabecalho"] if q.get("cabecalho") else "")
+    if len(cab) > 95:
+        cab = cab[:94] + "…"
+    tamanhos = (27, 25, 23, 22, 21, 20, 19)
+    um = destino_base + ".png"
+    if desenhar(um, cab, q["enunciado"], q["alternativas"], tamanhos):
+        return [um]
+    # duas telas: enunciado inteiro; depois as alternativas inteiras
+    a = destino_base + "_a.png"
+    b = destino_base + "_b.png"
+    desenhar(a, cab, q["enunciado"], [], tamanhos + (18, 17, 16))
+    desenhar(b, "QUESTÃO %d  ·  alternativas" % num, [], q["alternativas"], tamanhos + (18, 17, 16))
+    return [a, b]
+
+
+def com_cronometro(base_png, destino, segundos_restantes, total):
+    """Copia a tela da questao com um cronometro regressivo e uma barra de tempo."""
+    img = Image.open(base_png).convert("RGB")
+    d = ImageDraw.Draw(img)
+    m, s = divmod(int(segundos_restantes), 60)
+    txt = "LEITURA  %d:%02d" % (m, s)
+    f = fonte(20, "Bold")
+    larg = d.textlength(txt, font=f) + 36
+    x1 = W - 40
+    x0 = x1 - larg
+    # sobre o cabecalho, no lugar do "AULA NN"
+    d.rectangle([W - 260, 0, W, 61], fill=AZUL_ESCURO)
+    d.rounded_rectangle([x0, 13, x1, 49], radius=18, fill="#B8860B" if segundos_restantes > 15 else "#A83246")
+    d.text((x0 + 18, 19), txt, font=f, fill="white")
+    # barra fina de progresso logo abaixo do cabecalho
+    frac = max(0.0, min(1.0, segundos_restantes / float(total)))
+    d.rectangle([0, 62, W, 67], fill=CINZA)
+    d.rectangle([0, 62, int(W * frac), 67], fill="#B8860B")
+    img.save(destino)
+    return destino

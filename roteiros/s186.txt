@@ -5,17 +5,15 @@ SEGMENTO s186
 * Devidos contra a Fazenda, com sindicato assistente e em causa própria
 * Procedência parcial: recíprocos, sem compensação; também na reconvenção
 * Só em ações ajuizadas a partir de 11/11/2017
-ANTONIO: Olá, pessoal, bem-vindos à aula cinquenta e quatro de Direito Processual do Trabalho, segunda parte do bloco sobre atos, prazos, custas, partes, honorários e nulidades. Hoje vamos estudar os honorários advocatícios e periciais, as nulidades dos artigos setecentos e noventa e quatro a setecentos e noventa e oito, as exceções e, no fim, questões comentadas. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora, e trago a lei, a jurisprudência e os exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC, e mostro as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira. Pergunto, arrisco e resumo.
-ANTONIO: Começamos pelos honorários de sucumbência, artigo setecentos e noventa e um-A da CLT. Desde a Reforma, são devidos ao advogado, ainda que atue em causa própria, entre cinco e quinze por cento. A base segue uma ordem: o valor da liquidação da sentença, o proveito econômico obtido e, só se não for possível mensurá-lo, o valor atualizado da causa.
+FRANCISCA: Olá, pessoal, bem-vindos à aula cinquenta e quatro de Direito Processual do Trabalho, segunda parte do bloco sobre atos, prazos, custas, partes, honorários e nulidades. Hoje vamos estudar os honorários advocatícios e periciais, as nulidades dos artigos setecentos e noventa e quatro a setecentos e noventa e oito, as exceções e, no fim, questões comentadas. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começamos pelos honorários de sucumbência, artigo setecentos e noventa e um-A da CLT. Desde a Reforma, são devidos ao advogado, ainda que atue em causa própria, entre cinco e quinze por cento. A base segue uma ordem: o valor da liquidação da sentença, o proveito econômico obtido e, só se não for possível mensurá-lo, o valor atualizado da causa.
 THALITA: Cinco a quinze? Eu me lembrava de dez a vinte.
-BRUNO: Dez a vinte é o CPC, e é a troca preferida da banca. Na CLT é de cinco a quinze por cento.
-FRANCISCA: Eles são devidos também nas ações contra a Fazenda Pública e naquelas em que a parte esteja assistida ou substituída pelo sindicato. A pegadinha é dizer que não cabem contra a Fazenda. Cabem.
-THALITA: E como o juiz escolhe entre cinco e quinze?
-ANTONIO: Observa o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, e o trabalho realizado e o tempo exigido do advogado.
-BRUNO: Na procedência parcial, os honorários são recíprocos, e é vedada a compensação. Cada advogado recebe os seus, porque os honorários pertencem ao advogado, não à parte. Também são devidos na reconvenção.
+FRANCISCA: Dez a vinte é o CPC, e é a troca preferida da banca. Na CLT é de cinco a quinze por cento.
+THALITA: Eles são devidos também nas ações contra a Fazenda Pública e naquelas em que a parte esteja assistida ou substituída pelo sindicato. A pegadinha é dizer que não cabem contra a Fazenda. Cabem.
+FRANCISCA: E como o juiz escolhe entre cinco e quinze?
+THALITA: Observa o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, e o trabalho realizado e o tempo exigido do advogado.
+FRANCISCA: Na procedência parcial, os honorários são recíprocos, e é vedada a compensação. Cada advogado recebe os seus, porque os honorários pertencem ao advogado, não à parte. Também são devidos na reconvenção.
 THALITA: Então a alternativa que diz que os honorários se compensam está errada.
 FRANCISCA: Exato. E atenção ao tempo: valem para ações ajuizadas a partir de onze de novembro de dois mil e dezessete. Nas anteriores, aplicam-se o artigo catorze da Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, e as Súmulas duzentos e dezenove e trezentos e vinte e nove do TST, conforme a Instrução Normativa quarenta e um. A apostila manda conferir eventual revisão posterior dessas súmulas.
 == SLIDE: ADI 5766, honorários periciais e contratuais
@@ -24,36 +22,36 @@ FRANCISCA: Exato. E atenção ao tempo: valem para ações ajuizadas a partir de
 * Honorários periciais do beneficiário: União paga (Súm. 457); sem adiantamento (art. 790-B, § 3º)
 * Custas por ausência do reclamante: mantidas (art. 844, § 2º)
 * Contratuais: pagamento direto ao advogado por destaque (Lei 8.906/1994, art. 22, § 4º)
-BRUNO: A ADI cinco mil setecentos e sessenta e seis, do Supremo, em dois mil e vinte e um, mexeu nisso. Declarou inconstitucional, no parágrafo quarto do artigo setecentos e noventa e um-A, a expressão que permitia usar créditos obtidos em juízo, ainda que em outro processo, para pagar os honorários do beneficiário da justiça gratuita.
-THALITA: Então o beneficiário não paga nada?
-ANTONIO: Pode ser condenado, mas a obrigação fica sob condição suspensiva de exigibilidade. Só pode ser executada se, nos dois anos seguintes ao trânsito em julgado, o credor demonstrar que deixou de existir a insuficiência de recursos. Passado o prazo, as obrigações se extinguem.
+THALITA: A ADI cinco mil setecentos e sessenta e seis, do Supremo, em dois mil e vinte e um, mexeu nisso. Declarou inconstitucional, no parágrafo quarto do artigo setecentos e noventa e um-A, a expressão que permitia usar créditos obtidos em juízo, ainda que em outro processo, para pagar os honorários do beneficiário da justiça gratuita.
+FRANCISCA: Então o beneficiário não paga nada?
+THALITA: Pode ser condenado, mas a obrigação fica sob condição suspensiva de exigibilidade. Só pode ser executada se, nos dois anos seguintes ao trânsito em julgado, o credor demonstrar que deixou de existir a insuficiência de recursos. Passado o prazo, as obrigações se extinguem.
 FRANCISCA: A mesma ação derrubou a cobrança de honorários periciais do beneficiário, no artigo setecentos e noventa-B, caput e parágrafo quarto. Mas manteve as custas do artigo oitocentos e quarenta e quatro, parágrafo segundo: reclamante ausente sem justificativa em quinze dias paga custas, mesmo sendo beneficiário.
-BRUNO: Sobre os honorários periciais, regra geral: paga a parte sucumbente na pretensão objeto da perícia. O juiz não pode exigir adiantamento, artigo setecentos e noventa-B, parágrafo terceiro, e Orientação Jurisprudencial noventa e oito da SDI-dois. Se o sucumbente for beneficiário da gratuidade, quem responde é a União, Súmula quatrocentos e cinquenta e sete.
-THALITA: E os honorários contratuais, aqueles combinados entre cliente e advogado?
-FRANCISCA: Se o contrato for juntado antes do mandado de levantamento ou do precatório, o juiz determina o pagamento direto ao advogado, por dedução do crédito do cliente. É o chamado destaque, artigo vinte e dois, parágrafo quarto, da Lei oito mil novecentos e seis, de mil novecentos e noventa e quatro.
-THALITA: Macete: sucumbência, cinco a quinze; beneficiário, condição suspensiva de dois anos; perícia do beneficiário, União paga.
+THALITA: Sobre os honorários periciais, regra geral: paga a parte sucumbente na pretensão objeto da perícia. O juiz não pode exigir adiantamento, artigo setecentos e noventa-B, parágrafo terceiro, e Orientação Jurisprudencial noventa e oito da SDI-dois. Se o sucumbente for beneficiário da gratuidade, quem responde é a União, Súmula quatrocentos e cinquenta e sete.
+FRANCISCA: E os honorários contratuais, aqueles combinados entre cliente e advogado?
+THALITA: Se o contrato for juntado antes do mandado de levantamento ou do precatório, o juiz determina o pagamento direto ao advogado, por dedução do crédito do cliente. É o chamado destaque, artigo vinte e dois, parágrafo quarto, da Lei oito mil novecentos e seis, de mil novecentos e noventa e quatro.
+FRANCISCA: Macete: sucumbência, cinco a quinze; beneficiário, condição suspensiva de dois anos; perícia do beneficiário, União paga.
 == SLIDE: Nulidades: artigos 794 a 798
 * Sem manifesto prejuízo, sem nulidade (art. 794)
 * Arguição na primeira oportunidade de falar, sob pena de preclusão (art. 795)
 * De ofício: só a incompetência de foro, entendida como absoluta; nulos os atos decisórios
 * Não se pronuncia se suprível ou arguida por quem deu causa (art. 796)
 * Nulidade atinge só os atos posteriores dependentes (art. 798)
-ANTONIO: Passamos às nulidades, artigos setecentos e noventa e quatro a setecentos e noventa e oito. A regra de ouro está no setecentos e noventa e quatro: só há nulidade quando resultar dos atos questionados manifesto prejuízo às partes. Sem prejuízo, sem nulidade.
-THALITA: E até quando posso alegar a nulidade?
-FRANCISCA: O artigo setecentos e noventa e cinco manda arguir na primeira vez em que a parte tiver de falar em audiência ou nos autos. Se não o fizer, há preclusão. Na prática, a parte registra protestos em ata para evitar isso.
-BRUNO: A pegadinha é dizer que se pode arguir a qualquer tempo, até o trânsito em julgado. Falso para as relativas.
+THALITA: Passamos às nulidades, artigos setecentos e noventa e quatro a setecentos e noventa e oito. A regra de ouro está no setecentos e noventa e quatro: só há nulidade quando resultar dos atos questionados manifesto prejuízo às partes. Sem prejuízo, sem nulidade.
+FRANCISCA: E até quando posso alegar a nulidade?
+THALITA: O artigo setecentos e noventa e cinco manda arguir na primeira vez em que a parte tiver de falar em audiência ou nos autos. Se não o fizer, há preclusão. Na prática, a parte registra protestos em ata para evitar isso.
+FRANCISCA: A pegadinha é dizer que se pode arguir a qualquer tempo, até o trânsito em julgado. Falso para as relativas.
 THALITA: E o juiz? Pode declarar nulidade sem ninguém pedir?
-ANTONIO: Em regra, só mediante provocação das partes. A exceção é a nulidade fundada em incompetência de foro, que o juiz declara de ofício, parágrafo primeiro do artigo setecentos e noventa e cinco. Nesse caso, são nulos os atos decisórios.
-FRANCISCA: Aqui um cuidado: incompetência de foro deve ser lida como incompetência absoluta, material, funcional ou pessoal. A territorial é relativa e depende da exceção do artigo oitocentos. Declarada a incompetência, o juiz remete o processo com urgência ao competente. E o artigo setecentos e noventa e sete manda o juiz declarar a que atos a nulidade se estende.
-BRUNO: Outra pegadinha: dizer que, declarada a incompetência, anulam-se todos os atos. Falso: só os decisórios.
+FRANCISCA: Em regra, só mediante provocação das partes. A exceção é a nulidade fundada em incompetência de foro, que o juiz declara de ofício, parágrafo primeiro do artigo setecentos e noventa e cinco. Nesse caso, são nulos os atos decisórios.
+THALITA: Aqui um cuidado: incompetência de foro deve ser lida como incompetência absoluta, material, funcional ou pessoal. A territorial é relativa e depende da exceção do artigo oitocentos. Declarada a incompetência, o juiz remete o processo com urgência ao competente. E o artigo setecentos e noventa e sete manda o juiz declarar a que atos a nulidade se estende.
+FRANCISCA: Outra pegadinha: dizer que, declarada a incompetência, anulam-se todos os atos. Falso: só os decisórios.
 == SLIDE: Princípios das nulidades e pegadinhas
 * Prejuízo: art. 794; convalidação: art. 795; economia: art. 796, a
 * Interesse: art. 796, b; utilidade ou causalidade: art. 798
 * Pegadinha: nulidades arguíveis a qualquer tempo; juiz declara de ofício qualquer nulidade
 * Próximo tema: exceções (arts. 799 a 802)
 THALITA: Quero organizar isso em cinco princípios. O do prejuízo: só há nulidade com manifesto prejuízo, artigo setecentos e noventa e quatro. O da convalidação: arguir na primeira oportunidade, senão preclui, artigo setecentos e noventa e cinco.
-ANTONIO: O da economia: não se anula o que pode ser suprido ou repetido, artigo setecentos e noventa e seis, alínea a. O do interesse: quem deu causa à nulidade não pode arguí-la, alínea b do mesmo artigo.
-FRANCISCA: E o da utilidade, ou causalidade: a nulidade do ato só prejudica os posteriores que dele dependam ou sejam consequência, artigo setecentos e noventa e oito.
-BRUNO: Resumo das pegadinhas: um, nulidades podem ser arguidas a qualquer tempo, falso; dois, o juiz declara de ofício qualquer nulidade, falso, só a incompetência absoluta; três, declarada a incompetência, anulam-se todos os atos, falso, só os decisórios.
+FRANCISCA: O da economia: não se anula o que pode ser suprido ou repetido, artigo setecentos e noventa e seis, alínea a. O do interesse: quem deu causa à nulidade não pode arguí-la, alínea b do mesmo artigo.
+THALITA: E o da utilidade, ou causalidade: a nulidade do ato só prejudica os posteriores que dele dependam ou sejam consequência, artigo setecentos e noventa e oito.
+FRANCISCA: Resumo das pegadinhas: um, nulidades podem ser arguidas a qualquer tempo, falso; dois, o juiz declara de ofício qualquer nulidade, falso, só a incompetência absoluta; três, declarada a incompetência, anulam-se todos os atos, falso, só os decisórios.
 THALITA: Então: prejuízo, primeira oportunidade, suprível não anula, quem causou não alega, só os dependentes caem.
-ANTONIO: Perfeito. Falando em incompetência, no próximo tema vamos tratar das exceções, dos artigos setecentos e noventa e nove a oitocentos e dois, justamente a via para arguir a incompetência territorial e outros incidentes.
+FRANCISCA: Perfeito. Falando em incompetência, no próximo tema vamos tratar das exceções, dos artigos setecentos e noventa e nove a oitocentos e dois, justamente a via para arguir a incompetência territorial e outros incidentes.

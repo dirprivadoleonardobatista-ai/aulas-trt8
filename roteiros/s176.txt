@@ -5,62 +5,62 @@ SEGMENTO s176
 * II greve (SV 23); III representação sindical; IV MS, HC e HD
 * V conflitos; VI dano moral; VII penalidades administrativas
 FRANCISCA: Na aula passada vimos os órgãos. Agora vejamos o que eles julgam. A Emenda Constitucional quarenta e cinco, de dois mil e quatro, deslocou o eixo da competência da relação de emprego para a relação de trabalho.
-BRUNO: Só que o STF podou essa ampliação em três frentes: servidores estatutários, na ADI três mil trezentos e noventa e cinco; matéria penal, na ADI três mil seiscentos e oitenta e quatro; e previdência complementar, no Recurso Extraordinário quinhentos e oitenta e seis mil quatrocentos e cinquenta e três.
-THALITA: Vamos aos incisos, então.
-ANTONIO: Inciso um: ações oriundas da relação de trabalho, incluídos os entes de direito público externo e a administração direta e indireta de todos os entes federativos. Pela ADI três mil trezentos e noventa e cinco, ficam de fora as causas entre o Poder Público e servidores com vínculo estatutário ou jurídico-administrativo, inclusive os temporários do artigo trinta e sete, inciso nove.
+THALITA: Só que o STF podou essa ampliação em três frentes: servidores estatutários, na ADI três mil trezentos e noventa e cinco; matéria penal, na ADI três mil seiscentos e oitenta e quatro; e previdência complementar, no Recurso Extraordinário quinhentos e oitenta e seis mil quatrocentos e cinquenta e três.
+FRANCISCA: Vamos aos incisos, então.
+THALITA: Inciso um: ações oriundas da relação de trabalho, incluídos os entes de direito público externo e a administração direta e indireta de todos os entes federativos. Pela ADI três mil trezentos e noventa e cinco, ficam de fora as causas entre o Poder Público e servidores com vínculo estatutário ou jurídico-administrativo, inclusive os temporários do artigo trinta e sete, inciso nove.
 FRANCISCA: Inciso dois: ações que envolvam o exercício do direito de greve. Pela Súmula Vinculante vinte e três, a possessória em razão de greve de trabalhadores da iniciativa privada é da Justiça do Trabalho. Inciso três: representação sindical, entre sindicatos, entre sindicato e trabalhadores, entre sindicato e empregadores, incluindo disputa de base territorial e cobrança de contribuições sindicais.
-BRUNO: Inciso quatro: mandado de segurança, habeas corpus e habeas data, quando o ato envolver matéria trabalhista. Por exemplo, mandado de segurança contra ato de auditor-fiscal do trabalho vai para a Vara. O habeas corpus ficou residual depois da Súmula Vinculante vinte e cinco, que vedou a prisão do depositário infiel.
-ANTONIO: Inciso cinco: conflitos de competência entre órgãos com jurisdição trabalhista, ressalvado o Supremo. Inciso seis: indenização por dano moral ou patrimonial decorrente da relação de trabalho. Inciso sete: penalidades administrativas aplicadas aos empregadores pela fiscalização, incluindo execução fiscal de multa e anulatória de auto de infração.
+THALITA: Inciso quatro: mandado de segurança, habeas corpus e habeas data, quando o ato envolver matéria trabalhista. Por exemplo, mandado de segurança contra ato de auditor-fiscal do trabalho vai para a Vara. O habeas corpus ficou residual depois da Súmula Vinculante vinte e cinco, que vedou a prisão do depositário infiel.
+FRANCISCA: Inciso cinco: conflitos de competência entre órgãos com jurisdição trabalhista, ressalvado o Supremo. Inciso seis: indenização por dano moral ou patrimonial decorrente da relação de trabalho. Inciso sete: penalidades administrativas aplicadas aos empregadores pela fiscalização, incluindo execução fiscal de multa e anulatória de auto de infração.
 THALITA: E o oito e o nove?
 FRANCISCA: Inciso oito: execução, de ofício, das contribuições sociais do artigo cento e noventa e cinco, inciso um, alínea a, e inciso dois, decorrentes das sentenças que proferir. Inciso nove: outras controvérsias da relação de trabalho, na forma da lei, o que exige lei específica, como o pequeno empreiteiro operário do artigo seiscentos e cinquenta e dois da CLT.
-BRUNO: E não esqueça os parágrafos. O segundo condiciona o dissídio coletivo econômico ao comum acordo. O terceiro legitima o Ministério Público do Trabalho a ajuizar dissídio na greve em atividade essencial com lesão ao interesse público. O primeiro faculta a eleição de árbitros após frustrada a negociação.
-THALITA: Comum acordo, MPT na greve essencial, árbitros no primeiro. Beleza.
+THALITA: E não esqueça os parágrafos. O segundo condiciona o dissídio coletivo econômico ao comum acordo. O terceiro legitima o Ministério Público do Trabalho a ajuizar dissídio na greve em atividade essencial com lesão ao interesse público. O primeiro faculta a eleição de árbitros após frustrada a negociação.
+FRANCISCA: Comum acordo, MPT na greve essencial, árbitros no primeiro. Beleza.
 == SLIDE: Relação de trabalho x relação de consumo
 * Súmula 363 STJ: profissional liberal x cliente é Justiça Estadual
 * Representante comercial: Justiça Comum (Tema 550)
 * Transporte autônomo de cargas: ADC 48
 * Pejotização: Tema 1389, conferir o julgamento
-ANTONIO: Quando alguém presta serviço, pode haver relação de trabalho ou de consumo. Na relação de trabalho, uma pessoa física trabalha para outrem, em proveito alheio, e a ação trata de remuneração, condições de trabalho e indenizações. Fundamento: artigo cento e catorze, inciso um.
+THALITA: Quando alguém presta serviço, pode haver relação de trabalho ou de consumo. Na relação de trabalho, uma pessoa física trabalha para outrem, em proveito alheio, e a ação trata de remuneração, condições de trabalho e indenizações. Fundamento: artigo cento e catorze, inciso um.
 FRANCISCA: Na relação de consumo, o profissional oferece serviço no mercado ao destinatário final. Exemplo: advogado cobrando honorários contratuais do cliente, ou dentista contra paciente. A Súmula trezentos e sessenta e três do STJ diz que a ação de cobrança de profissional liberal contra seu cliente é da Justiça Estadual.
 THALITA: Então diarista contra a tomadora é Justiça do Trabalho, e advogado contra cliente é Justiça Estadual.
-BRUNO: Perfeito. Também ficam na Justiça Comum a relação entre representante comercial autônomo e representada, quando atendidos os requisitos da Lei quatro mil oitocentos e oitenta e seis, de mil novecentos e sessenta e cinco, pelo Tema quinhentos e cinquenta do STF, e o transporte autônomo de cargas da Lei onze mil quatrocentos e quarenta e dois, de dois mil e sete, pela ADC quarenta e oito.
-FRANCISCA: A apostila alerta ainda para o Tema mil trezentos e oitenta e nove do STF, sobre competência e licitude da contratação de trabalhador por pessoa jurídica, a chamada pejotização, com suspensão nacional de processos. Confira o estado do julgamento antes da prova.
-THALITA: Se a questão trouxer pejotização, eu confiro a data da questão, pois pode estar desatualizada.
+FRANCISCA: Perfeito. Também ficam na Justiça Comum a relação entre representante comercial autônomo e representada, quando atendidos os requisitos da Lei quatro mil oitocentos e oitenta e seis, de mil novecentos e sessenta e cinco, pelo Tema quinhentos e cinquenta do STF, e o transporte autônomo de cargas da Lei onze mil quatrocentos e quarenta e dois, de dois mil e sete, pela ADC quarenta e oito.
+THALITA: A apostila alerta ainda para o Tema mil trezentos e oitenta e nove do STF, sobre competência e licitude da contratação de trabalhador por pessoa jurídica, a chamada pejotização, com suspensão nacional de processos. Confira o estado do julgamento antes da prova.
+FRANCISCA: Se a questão trouxer pejotização, eu confiro a data da questão, pois pode estar desatualizada.
 == SLIDE: Servidores públicos: quem julga?
 * Estatutário e temporário: Justiça Comum (ADI 3.395)
 * Celetista com verbas trabalhistas: Justiça do Trabalho
 * Tema 1143, 992 e 544: conferir
 * Critério: natureza do vínculo
-BRUNO: A pegadinha preferida da FCC é dizer que a Justiça do Trabalho é competente para todas as ações envolvendo a administração pública. Falso. O critério é a natureza do vínculo.
-THALITA: Então estatutário vai para onde?
-ANTONIO: Justiça Comum, federal ou estadual, seja cargo efetivo ou comissionado, pela ADI três mil trezentos e noventa e cinco. O contratado temporário do artigo trinta e sete, inciso nove, também vai para a Justiça Comum, mesmo alegando desvirtuamento do contrato.
+THALITA: A pegadinha preferida da FCC é dizer que a Justiça do Trabalho é competente para todas as ações envolvendo a administração pública. Falso. O critério é a natureza do vínculo.
+FRANCISCA: Então estatutário vai para onde?
+THALITA: Justiça Comum, federal ou estadual, seja cargo efetivo ou comissionado, pela ADI três mil trezentos e noventa e cinco. O contratado temporário do artigo trinta e sete, inciso nove, também vai para a Justiça Comum, mesmo alegando desvirtuamento do contrato.
 FRANCISCA: Já o empregado público celetista que pede verbas trabalhistas vai para a Justiça do Trabalho. Mas, se o servidor celetista pede parcela de natureza administrativa, a Justiça Comum julga, segundo o Tema mil cento e quarenta e três do STF, que a apostila manda conferir.
-BRUNO: Dois outros temas, também para conferir: o Tema novecentos e noventa e dois, que coloca na Justiça Comum a fase pré-contratual de concurso de entidade que contrata pelo regime celetista, e o Tema quinhentos e quarenta e quatro, que coloca na Justiça Comum a abusividade de greve de servidores celetistas da administração direta, autarquias e fundações.
-THALITA: Macete: celetista pede verba trabalhista, JT. Estatutário e temporário, Justiça Comum. Certo?
-ANTONIO: Certo. Decore a regra geral e confira os temas.
+THALITA: Dois outros temas, também para conferir: o Tema novecentos e noventa e dois, que coloca na Justiça Comum a fase pré-contratual de concurso de entidade que contrata pelo regime celetista, e o Tema quinhentos e quarenta e quatro, que coloca na Justiça Comum a abusividade de greve de servidores celetistas da administração direta, autarquias e fundações.
+FRANCISCA: Macete: celetista pede verba trabalhista, JT. Estatutário e temporário, Justiça Comum. Certo?
+THALITA: Certo. Decore a regra geral e confira os temas.
 == SLIDE: Danos, acidentes e previdência
 * SV 22 e Súmula 392 TST: acidente é JT, inclusive dependentes
 * Ação acidentária contra o INSS: Justiça Estadual
 * Súmulas 736 STF, 389 e 300 TST
 * Complementação: RE 586.453, Justiça Comum
 FRANCISCA: Indenização por dano moral ou material de acidente do trabalho, do empregado contra o empregador, é da Justiça do Trabalho, pela Súmula Vinculante vinte e dois. Se os dependentes ou sucessores do falecido ajuízam, a competência continua sendo trabalhista, Súmula trezentos e noventa e dois do TST.
-BRUNO: Mas a ação acidentária contra o INSS, para pedir benefício, é da Justiça Estadual, artigo cento e nove, inciso um, Súmula quinze do STJ e Súmula quinhentos e um do STF.
-THALITA: Então o INSS vai para a Justiça Estadual, o empregador para a trabalhista.
-ANTONIO: Exato. Veja também: descumprimento de normas de segurança, higiene e saúde, inclusive ação coletiva, é da Justiça do Trabalho, Súmula setecentos e trinta e seis do STF. A indenização pela não entrega das guias do seguro-desemprego é da Justiça do Trabalho, Súmula trezentos e oitenta e nove do TST. O cadastramento no PIS também, Súmula trezentos do TST.
+THALITA: Mas a ação acidentária contra o INSS, para pedir benefício, é da Justiça Estadual, artigo cento e nove, inciso um, Súmula quinze do STJ e Súmula quinhentos e um do STF.
+FRANCISCA: Então o INSS vai para a Justiça Estadual, o empregador para a trabalhista.
+THALITA: Exato. Veja também: descumprimento de normas de segurança, higiene e saúde, inclusive ação coletiva, é da Justiça do Trabalho, Súmula setecentos e trinta e seis do STF. A indenização pela não entrega das guias do seguro-desemprego é da Justiça do Trabalho, Súmula trezentos e oitenta e nove do TST. O cadastramento no PIS também, Súmula trezentos do TST.
 FRANCISCA: Na complementação de aposentadoria paga por entidade de previdência privada, a competência é da Justiça Comum, no Recurso Extraordinário quinhentos e oitenta e seis mil quatrocentos e cinquenta e três, Tema cento e noventa. Houve modulação: ficam na Justiça do Trabalho os processos com sentença de mérito até vinte de fevereiro de dois mil e treze. Já a ação contra o empregador, para reconhecer verbas trabalhistas e reflexos nas contribuições à previdência privada, é da Justiça do Trabalho, pelo Tema mil cento e sessenta e seis, a conferir.
-BRUNO: Exemplo: Márcio morreu em acidente na obra da Gama Construções. A viúva quer indenização por danos morais contra a empresa, que vai para a Vara do Trabalho pela Súmula trezentos e noventa e dois, e pensão por morte do INSS, que vai para a Justiça Comum.
-THALITA: Dois pedidos, duas justiças. Boa. Então, se a questão misturar dano moral contra o empregador com benefício do INSS, eu separo os pedidos, mando o primeiro para a Vara do Trabalho e o segundo para a Justiça Comum, e não caio na pegadinha de dizer que tudo é da mesma justiça.
-FRANCISCA: Isso mesmo, Thalita. Raciocínio de prova.
+THALITA: Exemplo: Márcio morreu em acidente na obra da Gama Construções. A viúva quer indenização por danos morais contra a empresa, que vai para a Vara do Trabalho pela Súmula trezentos e noventa e dois, e pensão por morte do INSS, que vai para a Justiça Comum.
+FRANCISCA: Dois pedidos, duas justiças. Boa. Então, se a questão misturar dano moral contra o empregador com benefício do INSS, eu separo os pedidos, mando o primeiro para a Vara do Trabalho e o segundo para a Justiça Comum, e não caio na pegadinha de dizer que tudo é da mesma justiça.
+THALITA: Isso mesmo, Francisca. Raciocínio de prova.
 == SLIDE: Contribuições previdenciárias e os limites do STF
 * Art. 114, VIII e SV 53: execução sobre condenação e acordos
 * Sentença apenas declaratória: sem execução de contribuições
 * SAT: Súmula 454 TST; terceiros: fora
 * Três "nãos": estatutário, penal, previdência privada
-ANTONIO: A Justiça do Trabalho executa de ofício as contribuições incidentes sobre o objeto da condenação e sobre os acordos homologados, conforme a Súmula Vinculante cinquenta e três e o parágrafo único do artigo oitocentos e setenta e seis da CLT.
-BRUNO: Mas, se a sentença só reconhece o vínculo, sem condenação em dinheiro, não há competência para executar as contribuições do período reconhecido. A alternativa que diz o contrário, de todo o período do vínculo, está errada.
-THALITA: E a contribuição do seguro de acidente de trabalho?
-ANTONIO: A Justiça do Trabalho executa de ofício, por ter natureza de contribuição para a seguridade social, Súmula quatrocentos e cinquenta e quatro do TST. As contribuições de terceiros, o Sistema S, ficam fora, pela jurisprudência dominante, ponto a conferir.
+FRANCISCA: A Justiça do Trabalho executa de ofício as contribuições incidentes sobre o objeto da condenação e sobre os acordos homologados, conforme a Súmula Vinculante cinquenta e três e o parágrafo único do artigo oitocentos e setenta e seis da CLT.
+THALITA: Mas, se a sentença só reconhece o vínculo, sem condenação em dinheiro, não há competência para executar as contribuições do período reconhecido. A alternativa que diz o contrário, de todo o período do vínculo, está errada.
+FRANCISCA: E a contribuição do seguro de acidente de trabalho?
+THALITA: A Justiça do Trabalho executa de ofício, por ter natureza de contribuição para a seguridade social, Súmula quatrocentos e cinquenta e quatro do TST. As contribuições de terceiros, o Sistema S, ficam fora, pela jurisprudência dominante, ponto a conferir.
 FRANCISCA: Sobre matéria penal, a Justiça do Trabalho não tem competência criminal, ADI três mil seiscentos e oitenta e quatro. Crime contra a organização do trabalho de caráter coletivo vai para a Justiça Federal, artigo cento e nove, inciso seis.
 THALITA: Deixa eu fazer o resumo: três nãos do STF ao artigo cento e catorze. Não ao estatutário, não à matéria penal e não à previdência privada contra a entidade.
-BRUNO: E três sins vinculantes: acidente, na Súmula Vinculante vinte e dois; possessória em greve, na vinte e três; contribuições sobre a condenação, na cinquenta e três.
-ANTONIO: Com a competência material fixada, o próximo passo é saber o que fazer quando dois órgãos discordam sobre quem deve julgar: os conflitos de competência, artigos oitocentos e três a oitocentos e onze da CLT, e depois os serviços auxiliares da Justiça do Trabalho.
+FRANCISCA: E três sins vinculantes: acidente, na Súmula Vinculante vinte e dois; possessória em greve, na vinte e três; contribuições sobre a condenação, na cinquenta e três.
+THALITA: Com a competência material fixada, o próximo passo é saber o que fazer quando dois órgãos discordam sobre quem deve julgar: os conflitos de competência, artigos oitocentos e três a oitocentos e onze da CLT, e depois os serviços auxiliares da Justiça do Trabalho.

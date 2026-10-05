@@ -4,17 +4,16 @@ SEGMENTO s197
 * Por cálculos, por arbitramento ou por artigos
 * Artigos = procedimento comum (art. 509, II, CPC)
 * Não se pode inovar nem discutir a causa principal (§1º)
-ANTONIO: Terminamos a sentença com a coisa julgada. Agora a sentença ilíquida: quando ela não diz o valor, ordena-se previamente a liquidação, artigo oitocentos e setenta e nove. A CLT prevê três modalidades: cálculo, arbitramento e artigos.
+FRANCISCA: Terminamos a sentença com a coisa julgada. Agora a sentença ilíquida: quando ela não diz o valor, ordena-se previamente a liquidação, artigo oitocentos e setenta e nove. A CLT prevê três modalidades: cálculo, arbitramento e artigos.
 THALITA: Qual a diferença entre elas? Parece tudo a mesma coisa.
 FRANCISCA: Não é. Por cálculos, basta operação aritmética com os dados que já estão nos autos. Exemplo: horas extras, com os cartões de ponto já juntados. É a mais comum.
-BRUNO: Por arbitramento é quando precisa de conhecimento técnico, um perito estima o valor. Exemplo da apostila: o valor do salário-utilidade. E por artigos é quando há fato novo a alegar e provar, e no Código de Processo Civil isso se chama procedimento comum, artigo quinhentos e nove, inciso segundo.
-THALITA: Então: cálculo é conta, arbitramento é perito, artigos é fato novo.
-ANTONIO: Perfeito. E um limite importante, parágrafo primeiro: na liquidação não se pode modificar nem inovar a sentença liquidanda, nem discutir matéria pertinente à causa principal.
+THALITA: Por arbitramento é quando precisa de conhecimento técnico, um perito estima o valor. Exemplo da apostila: o valor do salário-utilidade. E por artigos é quando há fato novo a alegar e provar, e no Código de Processo Civil isso se chama procedimento comum, artigo quinhentos e nove, inciso segundo.
+FRANCISCA: Então: cálculo é conta, arbitramento é perito, artigos é fato novo.
+THALITA: Perfeito. E um limite importante, parágrafo primeiro: na liquidação não se pode modificar nem inovar a sentença liquidanda, nem discutir matéria pertinente à causa principal.
 FRANCISCA: Ou seja, a liquidação só diz quanto. Não reabre o que foi decidido. E ela abrange também as contribuições previdenciárias.
-BRUNO: A FCC pode dar como exemplo de arbitramento a conta de horas extras. Está errado, isso é cálculo. Atenção à descrição do exemplo.
-THALITA: Anotei: o exemplo é que diferencia.
-ANTONIO: E o juiz pode nomear perito para cálculos complexos, fixando os honorários ao final.
-
+THALITA: A FCC pode dar como exemplo de arbitramento a conta de horas extras. Está errado, isso é cálculo. Atenção à descrição do exemplo.
+FRANCISCA: Anotei: o exemplo é que diferencia.
+THALITA: E o juiz pode nomear perito para cálculos complexos, fixando os honorários ao final.
 == SLIDE: Impugnação à conta e prazos
 * Art. 879, §2º: juiz DEVERÁ abrir prazo COMUM de 8 dias
 * Impugnação fundamentada, com itens e valores, sob pena de preclusão
@@ -23,101 +22,95 @@ ANTONIO: E o juiz pode nomear perito para cálculos complexos, fixando os honor�
 * Súmula 211: juros e correção incluídos ainda que omisso o pedido
 FRANCISCA: Elaborada a conta e tornada líquida, o juiz deverá abrir às partes prazo comum de oito dias para impugnação fundamentada, com a indicação dos itens e valores da discordância, sob pena de preclusão. Está no parágrafo segundo.
 THALITA: Deverá ou poderá? Eu lembro de ter visto os dois.
-BRUNO: Boa lembrança, e é exatamente o alvo da FCC. Antes da Reforma, o texto dizia que o juiz poderia abrir prazo sucessivo de dez dias. Hoje é deverá, prazo comum de oito dias. Se a alternativa disser poderá, ou sucessivo, ou dez dias, está desatualizada.
-FRANCISCA: E a impugnação precisa ser fundamentada. Não basta dizer que discorda da conta. Tem de apontar itens e valores. Quem não impugna no prazo tem a matéria precluída.
-THALITA: E a União? Ela também tem oito dias?
-ANTONIO: Não. Elaborada a conta, a União é intimada para se manifestar em dez dias, sob pena de preclusão, parágrafo terceiro.
+FRANCISCA: Boa lembrança, e é exatamente o alvo da FCC. Antes da Reforma, o texto dizia que o juiz poderia abrir prazo sucessivo de dez dias. Hoje é deverá, prazo comum de oito dias. Se a alternativa disser poderá, ou sucessivo, ou dez dias, está desatualizada.
+THALITA: E a impugnação precisa ser fundamentada. Não basta dizer que discorda da conta. Tem de apontar itens e valores. Quem não impugna no prazo tem a matéria precluída.
+FRANCISCA: E a União? Ela também tem oito dias?
+THALITA: Não. Elaborada a conta, a União é intimada para se manifestar em dez dias, sob pena de preclusão, parágrafo terceiro.
 FRANCISCA: Já os embargos à execução, com o juízo garantido, são em cinco dias, artigo oitocentos e oitenta e quatro. A Fazenda Pública tem trinta dias, pela Lei nove mil quatrocentos e noventa e quatro, de mil novecentos e noventa e sete.
-BRUNO: A decisão que homologa os cálculos é interlocutória e não tem recurso imediato. Só se rediscute nos embargos, e apenas o que foi impugnado nos oito dias, artigo oitocentos e oitenta e quatro, parágrafo terceiro. A Súmula duzentos e onze do TST completa: juros de mora e correção monetária entram na liquidação mesmo que o pedido ou a condenação sejam omissos.
-THALITA: Resumindo: oito dias comum para as partes, dez para a União, e o que não foi impugnado preclui.
-
+THALITA: A decisão que homologa os cálculos é interlocutória e não tem recurso imediato. Só se rediscute nos embargos, e apenas o que foi impugnado nos oito dias, artigo oitocentos e oitenta e quatro, parágrafo terceiro. A Súmula duzentos e onze do TST completa: juros de mora e correção monetária entram na liquidação mesmo que o pedido ou a condenação sejam omissos.
+FRANCISCA: Resumindo: oito dias comum para as partes, dez para a União, e o que não foi impugnado preclui.
 == SLIDE: Correção monetária e juros
 * Pré-judicial: IPCA-E + juros do art. 39, caput, Lei 8.177/1991
 * Ajuizamento até 29/08/2024: taxa SELIC
 * A partir de 30/08/2024: IPCA + taxa legal (SELIC menos IPCA, piso zero)
 * ADCs 58 e 59: TR afastada; conferir orientação vigente
-ANTONIO: Agora a correção monetária e os juros, um assunto que muda e pede atenção à data. O artigo oitocentos e setenta e nove, parágrafo sétimo, ainda menciona a TR, mas o STF, nas ADCs cinquenta e oito e cinquenta e nove, deu interpretação conforme e afastou esse índice.
-THALITA: Então a TR não vale mais. E o que vale?
-FRANCISCA: Depende da fase. Na fase pré-judicial, do vencimento da obrigação até o ajuizamento da ação, aplica-se o IPCA-E mais os juros do artigo trinta e nove, caput, da Lei oito mil cento e setenta e sete, de mil novecentos e noventa e um.
-BRUNO: Do ajuizamento da ação até vinte e nove de agosto de dois mil e vinte e quatro, aplica-se a taxa SELIC, que já engloba correção e juros. Não pode somar juros por fora, porque a SELIC já os contém.
+THALITA: Agora a correção monetária e os juros, um assunto que muda e pede atenção à data. O artigo oitocentos e setenta e nove, parágrafo sétimo, ainda menciona a TR, mas o STF, nas ADCs cinquenta e oito e cinquenta e nove, deu interpretação conforme e afastou esse índice.
+FRANCISCA: Então a TR não vale mais. E o que vale?
+THALITA: Depende da fase. Na fase pré-judicial, do vencimento da obrigação até o ajuizamento da ação, aplica-se o IPCA-E mais os juros do artigo trinta e nove, caput, da Lei oito mil cento e setenta e sete, de mil novecentos e noventa e um.
+FRANCISCA: Do ajuizamento da ação até vinte e nove de agosto de dois mil e vinte e quatro, aplica-se a taxa SELIC, que já engloba correção e juros. Não pode somar juros por fora, porque a SELIC já os contém.
 THALITA: E depois dessa data?
-ANTONIO: A partir de trinta de agosto de dois mil e vinte e quatro, vale o IPCA para a correção, nos termos do Código Civil, mais juros pela taxa legal, que é a SELIC deduzido o IPCA, com piso em zero. Isso decorre da Lei catorze mil novecentos e cinco, de dois mil e vinte e quatro, e foi fixado pela SBDI-1 do TST.
-FRANCISCA: A apostila alerta: conferir a orientação vigente na data do edital antes de responder questão literal, porque o tema é dinâmico.
-BRUNO: Se a banca copiar a letra seca do parágrafo sétimo e falar em TR, desconfie. A fonte que vale é o entendimento do STF e do TST.
+FRANCISCA: A partir de trinta de agosto de dois mil e vinte e quatro, vale o IPCA para a correção, nos termos do Código Civil, mais juros pela taxa legal, que é a SELIC deduzido o IPCA, com piso em zero. Isso decorre da Lei catorze mil novecentos e cinco, de dois mil e vinte e quatro, e foi fixado pela SBDI-1 do TST.
+THALITA: A apostila alerta: conferir a orientação vigente na data do edital antes de responder questão literal, porque o tema é dinâmico.
+FRANCISCA: Se a banca copiar a letra seca do parágrafo sétimo e falar em TR, desconfie. A fonte que vale é o entendimento do STF e do TST.
 THALITA: Macete: antes do processo, IPCA-E; no processo, SELIC; depois de agosto de dois mil e vinte e quatro, IPCA mais taxa legal.
-
 == SLIDE: Dissídio coletivo e comum acordo
 * Competência originária dos tribunais; poder normativo (art. 114, §2º, CF)
 * Econômico exige comum acordo; pode ser tácito
 * Não se exige no dissídio de greve nem no jurídico
 * STF: exigência constitucional (Tema 841; ADI 3423)
 * Greve em atividade essencial: MPT pode ajuizar (art. 114, §3º)
-ANTONIO: Chegamos aos dissídios coletivos. É ação de competência originária dos tribunais, TRT ou SDC do TST, no exercício do poder normativo, para criar normas, no econômico, ou interpretar normas, no jurídico. A base é o artigo cento e catorze da Constituição.
-FRANCISCA: Frustrada a negociação coletiva, as partes podem eleger árbitros, parágrafo primeiro. Recusando-se qualquer das partes à negociação ou à arbitragem, é facultado, de comum acordo, ajuizar dissídio coletivo de natureza econômica. A Justiça decide respeitando as disposições mínimas legais e as convencionadas anteriormente.
-THALITA: Comum acordo significa que os dois sindicatos têm de concordar em ir ao tribunal?
-BRUNO: Isso. É pressuposto processual, criado pela Emenda Constitucional quarenta e cinco. O TST admite que seja tácito: se o suscitado não se opõe expressamente na defesa, entende-se que concordou.
-ANTONIO: E o STF julgou constitucional essa exigência, em repercussão geral, Tema oitocentos e quarenta e um, e nas ADIs contra a Emenda, como a três mil quatrocentos e vinte e três. A apostila manda conferir o número do tema e a tese exata.
-FRANCISCA: A exigência não se aplica ao dissídio de greve nem ao jurídico. E a negociação prévia frustrada também é pressuposto, artigo seiscentos e dezesseis, parágrafo quarto, da CLT.
-BRUNO: Parágrafo terceiro do artigo cento e catorze: em greve em atividade essencial, com possibilidade de lesão ao interesse público, o Ministério Público do Trabalho pode ajuizar o dissídio. Pegadinha: dizer que o MPT sempre pode ajuizar dissídio econômico. Não é isso.
+FRANCISCA: Chegamos aos dissídios coletivos. É ação de competência originária dos tribunais, TRT ou SDC do TST, no exercício do poder normativo, para criar normas, no econômico, ou interpretar normas, no jurídico. A base é o artigo cento e catorze da Constituição.
+THALITA: Frustrada a negociação coletiva, as partes podem eleger árbitros, parágrafo primeiro. Recusando-se qualquer das partes à negociação ou à arbitragem, é facultado, de comum acordo, ajuizar dissídio coletivo de natureza econômica. A Justiça decide respeitando as disposições mínimas legais e as convencionadas anteriormente.
+FRANCISCA: Comum acordo significa que os dois sindicatos têm de concordar em ir ao tribunal?
+THALITA: Isso. É pressuposto processual, criado pela Emenda Constitucional quarenta e cinco. O TST admite que seja tácito: se o suscitado não se opõe expressamente na defesa, entende-se que concordou.
+FRANCISCA: E o STF julgou constitucional essa exigência, em repercussão geral, Tema oitocentos e quarenta e um, e nas ADIs contra a Emenda, como a três mil quatrocentos e vinte e três. A apostila manda conferir o número do tema e a tese exata.
+THALITA: A exigência não se aplica ao dissídio de greve nem ao jurídico. E a negociação prévia frustrada também é pressuposto, artigo seiscentos e dezesseis, parágrafo quarto, da CLT.
+FRANCISCA: Parágrafo terceiro do artigo cento e catorze: em greve em atividade essencial, com possibilidade de lesão ao interesse público, o Ministério Público do Trabalho pode ajuizar o dissídio. Pegadinha: dizer que o MPT sempre pode ajuizar dissídio econômico. Não é isso.
 THALITA: Então: econômico, comum acordo; greve essencial, MPT.
-
 == SLIDE: Espécies de dissídio coletivo
 * Econômico: cria novas condições de trabalho e salário
 * Jurídico: interpreta norma preexistente (OJ 7 SDC)
 * De greve: abusividade; partes e MPT
 * Originário, revisional e de extensão
-ANTONIO: Vamos às espécies. O econômico, ou de interesse, cria novas condições de trabalho e salário, e exige comum acordo. O jurídico, ou de interpretação, interpreta norma coletiva ou sentença normativa preexistente aplicável à categoria.
+FRANCISCA: Vamos às espécies. O econômico, ou de interesse, cria novas condições de trabalho e salário, e exige comum acordo. O jurídico, ou de interpretação, interpreta norma coletiva ou sentença normativa preexistente aplicável à categoria.
 THALITA: E o jurídico serve para interpretar qualquer lei?
 FRANCISCA: Não. Pela Orientação Jurisprudencial sete da SDC, ele não serve para interpretar norma de caráter genérico. E não exige comum acordo.
-BRUNO: O dissídio de greve serve para declarar se a greve foi abusiva ou não e julgar as reivindicações. Legitimados: as partes e o MPT, pela Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, e pelo artigo cento e catorze, parágrafo terceiro, da Constituição.
-THALITA: Quando uma categoria não tem convenção anterior, é qual tipo?
-ANTONIO: Originário. É o dissídio quando não existe norma coletiva anterior. A sentença vigora da data do ajuizamento ou da publicação, artigo oitocentos e sessenta e sete, parágrafo único.
+THALITA: O dissídio de greve serve para declarar se a greve foi abusiva ou não e julgar as reivindicações. Legitimados: as partes e o MPT, pela Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, e pelo artigo cento e catorze, parágrafo terceiro, da Constituição.
+FRANCISCA: Quando uma categoria não tem convenção anterior, é qual tipo?
+THALITA: Originário. É o dissídio quando não existe norma coletiva anterior. A sentença vigora da data do ajuizamento ou da publicação, artigo oitocentos e sessenta e sete, parágrafo único.
 FRANCISCA: O revisional serve para rever sentença normativa cujas circunstâncias mudaram, e só depois de um ano de vigência, artigo oitocentos e setenta e três. O de extensão estende a sentença normativa a outros empregados, artigos oitocentos e sessenta e oito a oitocentos e setenta e um.
-BRUNO: A FCC costuma pedir a correspondência entre tipo e objeto. Decore o par: econômico cria, jurídico interpreta, greve declara abusividade, originário não tem norma anterior, revisional rever depois de um ano, extensão amplia.
-THALITA: Entendi. Cada nome já diz a função.
-
+THALITA: A FCC costuma pedir a correspondência entre tipo e objeto. Decore o par: econômico cria, jurídico interpreta, greve declara abusividade, originário não tem norma anterior, revisional rever depois de um ano, extensão amplia.
+FRANCISCA: Entendi. Cada nome já diz a função.
 == SLIDE: Instauração e processamento
 * Representação escrita ao Presidente do Tribunal (art. 856)
 * Legitimidade: sindicatos; federação e confederação na falta; MPT na greve
 * Assembleia: 2/3 dos associados em 1ª convocação ou 2/3 dos presentes em 2ª
 * Instauração nos 60 dias anteriores ao termo final (art. 616, §3º)
 * Audiência de conciliação em 10 dias; acordo homologado pelo Tribunal
-ANTONIO: Como se instaura? Por representação escrita ao Presidente do Tribunal, artigo oitocentos e cinquenta e seis. Têm legitimidade as associações sindicais. Na falta de sindicato, a federação e, na falta desta, a confederação. O MPT, na greve.
-THALITA: E o sindicato decide sozinho entrar com o dissídio?
-FRANCISCA: Não. A assembleia precisa aprovar, artigo oitocentos e cinquenta e nove: dois terços dos associados interessados em primeira convocação ou dois terços dos presentes em segunda convocação.
-BRUNO: E o prazo, quando já existe norma em vigor? Instaura-se nos sessenta dias anteriores ao termo final, para que a nova sentença vigore a partir do dia imediato, artigo seiscentos e dezesseis, parágrafo terceiro. Se perder esse prazo, a vigência muda.
+THALITA: Como se instaura? Por representação escrita ao Presidente do Tribunal, artigo oitocentos e cinquenta e seis. Têm legitimidade as associações sindicais. Na falta de sindicato, a federação e, na falta desta, a confederação. O MPT, na greve.
+FRANCISCA: E o sindicato decide sozinho entrar com o dissídio?
+THALITA: Não. A assembleia precisa aprovar, artigo oitocentos e cinquenta e nove: dois terços dos associados interessados em primeira convocação ou dois terços dos presentes em segunda convocação.
+FRANCISCA: E o prazo, quando já existe norma em vigor? Instaura-se nos sessenta dias anteriores ao termo final, para que a nova sentença vigore a partir do dia imediato, artigo seiscentos e dezesseis, parágrafo terceiro. Se perder esse prazo, a vigência muda.
 THALITA: Se perder, a vigência só começa da publicação ou do ajuizamento. Certo?
-ANTONIO: Isso. Depois, a audiência de conciliação é designada em dez dias, artigo oitocentos e sessenta. Havendo acordo, é submetido à homologação do Tribunal, artigo oitocentos e sessenta e três. Sem acordo, julgamento após diligências e oitiva do MPT, artigo oitocentos e sessenta e quatro.
-FRANCISCA: A competência é do TRT, se o conflito não exceder sua jurisdição, ou do TST, pela SDC, se exceder, Lei sete mil setecentos e um, de mil novecentos e oitenta e oito.
-BRUNO: Atenção: a instauração de ofício pelo Presidente do Tribunal, que aparece na parte final do artigo oitocentos e cinquenta e seis, é considerada incompatível com a Constituição de mil novecentos e oitenta e oito. A iniciativa é das partes e do MPT.
+FRANCISCA: Isso. Depois, a audiência de conciliação é designada em dez dias, artigo oitocentos e sessenta. Havendo acordo, é submetido à homologação do Tribunal, artigo oitocentos e sessenta e três. Sem acordo, julgamento após diligências e oitiva do MPT, artigo oitocentos e sessenta e quatro.
+THALITA: A competência é do TRT, se o conflito não exceder sua jurisdição, ou do TST, pela SDC, se exceder, Lei sete mil setecentos e um, de mil novecentos e oitenta e oito.
+FRANCISCA: Atenção: a instauração de ofício pelo Presidente do Tribunal, que aparece na parte final do artigo oitocentos e cinquenta e seis, é considerada incompatível com a Constituição de mil novecentos e oitenta e oito. A iniciativa é das partes e do MPT.
 THALITA: Então não existe dissídio de ofício. Guardei.
-
 == SLIDE: Sentença normativa: vigência, extensão e revisão
 * Vigência máxima: 4 anos (art. 868, parágrafo único)
 * Convenção e acordo coletivo: 2 anos (art. 614, §3º)
 * Extensão: 3/4 dos empregadores e 3/4 dos empregados (art. 870)
 * Revisão: após mais de 1 ano de vigência (arts. 873 a 875)
-ANTONIO: A sentença normativa tem prazo máximo de vigência de quatro anos, artigo oitocentos e sessenta e oito, parágrafo único. Não confunda com a convenção e o acordo coletivo, cujo teto é de dois anos, artigo seiscentos e catorze, parágrafo terceiro.
+FRANCISCA: A sentença normativa tem prazo máximo de vigência de quatro anos, artigo oitocentos e sessenta e oito, parágrafo único. Não confunda com a convenção e o acordo coletivo, cujo teto é de dois anos, artigo seiscentos e catorze, parágrafo terceiro.
 THALITA: Quatro anos para a sentença, dois para a convenção. Anotei.
 FRANCISCA: Quanto à vigência, se o dissídio foi ajuizado fora do prazo do artigo seiscentos e dezesseis, ou não havia norma anterior, vale da publicação, ou do ajuizamento, se não houver norma em vigor. Se foi no prazo, vale do dia imediato ao termo final da norma anterior.
-BRUNO: A extensão aos demais empregados da empresa pode ser feita na própria decisão, se o Tribunal julgar justo e conveniente. Para estender à categoria, a pedido de empregadores, sindicatos, MPT ou de ofício pelo Tribunal, é preciso concordância de três quartos dos empregadores e três quartos dos empregados, ou seus sindicatos, e a manifestação em trinta a sessenta dias.
-THALITA: Três quartos de cada lado. Dois lados, duas frações iguais.
-ANTONIO: A revisão só pode ser pedida após mais de um ano de vigência, se mudadas as circunstâncias, artigo oitocentos e setenta e três. Podem pedir o Tribunal que proferiu a decisão, o MPT, as associações sindicais e empregadores interessados. A oitiva é de trinta dias, e o julgamento cabe ao mesmo Tribunal, ouvido o MPT.
+THALITA: A extensão aos demais empregados da empresa pode ser feita na própria decisão, se o Tribunal julgar justo e conveniente. Para estender à categoria, a pedido de empregadores, sindicatos, MPT ou de ofício pelo Tribunal, é preciso concordância de três quartos dos empregadores e três quartos dos empregados, ou seus sindicatos, e a manifestação em trinta a sessenta dias.
+FRANCISCA: Três quartos de cada lado. Dois lados, duas frações iguais.
+THALITA: A revisão só pode ser pedida após mais de um ano de vigência, se mudadas as circunstâncias, artigo oitocentos e setenta e três. Podem pedir o Tribunal que proferiu a decisão, o MPT, as associações sindicais e empregadores interessados. A oitiva é de trinta dias, e o julgamento cabe ao mesmo Tribunal, ouvido o MPT.
 FRANCISCA: O Precedente Normativo cento e vinte da SDC diz que a sentença normativa vigora até ser revogada por norma coletiva superveniente, respeitado o prazo máximo legal de quatro anos.
-BRUNO: Pegadinha: trocar o prazo de revisão. É após um ano, não antes, e a vigência máxima é quatro anos, não dois.
-
+THALITA: Pegadinha: trocar o prazo de revisão. É após um ano, não antes, e a vigência máxima é quatro anos, não dois.
 == SLIDE: Ação de cumprimento, recurso e efeito suspensivo
 * Ação de cumprimento: Vara do Trabalho; sindicato substituto processual
 * Súmula 246: dispensa o trânsito em julgado
 * Súmula 350: prescrição conta do trânsito em julgado da sentença normativa
 * Recurso ordinário ao TST em 8 dias; efeito suspensivo pelo Presidente do TST
-ANTONIO: Celebrado o acordo, ou transitada em julgado a decisão, segue-se o cumprimento, artigo oitocentos e setenta e dois. Quando o empregador não paga, os empregados ou seus sindicatos podem ajuizar ação de cumprimento na Vara do Trabalho, sem precisar de outorga de poderes dos associados.
+FRANCISCA: Celebrado o acordo, ou transitada em julgado a decisão, segue-se o cumprimento, artigo oitocentos e setenta e dois. Quando o empregador não paga, os empregados ou seus sindicatos podem ajuizar ação de cumprimento na Vara do Trabalho, sem precisar de outorga de poderes dos associados.
 THALITA: E dá para rediscutir se o aumento era justo ou não?
 FRANCISCA: Não. É vedado questionar matéria de fato e de direito já apreciada na sentença normativa. E apesar do texto falar em trânsito em julgado, a Súmula duzentos e quarenta e seis do TST dispensa o trânsito para a ação de cumprimento.
-BRUNO: A Súmula duzentos e oitenta e seis estende a legitimidade do sindicato também à observância de acordo ou convenção coletivos. A Súmula trezentos e cinquenta diz que o prazo prescricional da ação de cumprimento conta do trânsito em julgado da sentença normativa. E a trezentos e noventa e sete: reformada a sentença normativa, não cabe rescisória contra a decisão da ação de cumprimento.
-THALITA: Quanto ao recurso, é ordinário, certo?
-ANTONIO: Sim. Da sentença normativa do TRT cabe recurso ordinário ao TST, no prazo de oito dias, artigo oitocentos e noventa e cinco, inciso segundo. A regra é o efeito devolutivo, mas a Lei dez mil cento e noventa e dois, de dois mil e um, permite efeito suspensivo na medida e extensão dadas por despacho do Presidente do TST.
-BRUNO: Não é automático, e não é o relator nem o Presidente do TRT. Quem decide é o Presidente do TST.
-FRANCISCA: Exemplo: o sindicato dos comerciários de Belém e o patronal frustraram a negociação. O profissional ajuíza dissídio econômico no TRT da oitava região, e o patronal alega, na contestação, falta de comum acordo. O processo é extinto sem resolução do mérito. Se ele não tivesse se oposto, haveria concordância tácita.
-THALITA: Resumo relâmpago do que mais cai na FCC: comum acordo no econômico; dois terços na assembleia; sessenta dias antes do termo final; audiência em dez dias; vigência máxima de quatro anos; extensão com três quartos mais três quartos; revisão após um ano; efeito suspensivo pelo Presidente do TST. E na liquidação, oito dias comuns e preclusão.
-ANTONIO: Com isso fechamos a aula. Bons estudos, e até a próxima.
+THALITA: A Súmula duzentos e oitenta e seis estende a legitimidade do sindicato também à observância de acordo ou convenção coletivos. A Súmula trezentos e cinquenta diz que o prazo prescricional da ação de cumprimento conta do trânsito em julgado da sentença normativa. E a trezentos e noventa e sete: reformada a sentença normativa, não cabe rescisória contra a decisão da ação de cumprimento.
+FRANCISCA: Quanto ao recurso, é ordinário, certo?
+THALITA: Sim. Da sentença normativa do TRT cabe recurso ordinário ao TST, no prazo de oito dias, artigo oitocentos e noventa e cinco, inciso segundo. A regra é o efeito devolutivo, mas a Lei dez mil cento e noventa e dois, de dois mil e um, permite efeito suspensivo na medida e extensão dadas por despacho do Presidente do TST.
+FRANCISCA: Não é automático, e não é o relator nem o Presidente do TRT. Quem decide é o Presidente do TST.
+THALITA: Exemplo: o sindicato dos comerciários de Belém e o patronal frustraram a negociação. O profissional ajuíza dissídio econômico no TRT da oitava região, e o patronal alega, na contestação, falta de comum acordo. O processo é extinto sem resolução do mérito. Se ele não tivesse se oposto, haveria concordância tácita.
+FRANCISCA: Resumo relâmpago do que mais cai na FCC: comum acordo no econômico; dois terços na assembleia; sessenta dias antes do termo final; audiência em dez dias; vigência máxima de quatro anos; extensão com três quartos mais três quartos; revisão após um ano; efeito suspensivo pelo Presidente do TST. E na liquidação, oito dias comuns e preclusão.
+THALITA: Com isso fechamos a aula. Bons estudos, e até a próxima.

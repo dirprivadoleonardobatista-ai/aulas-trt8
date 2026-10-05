@@ -6,47 +6,47 @@ SEGMENTO s009
 * Haver e fazer impessoais ficam no singular
 FRANCISCA: Depois de pontuação e pronomes, vamos à concordância, onde o grande trabalho é achar o sujeito.
 THALITA: Eu sempre me perco quando o sujeito vem depois do verbo. Qual é o método?
-ANTONIO: O método da FCC: pergunte quem ou o que ao verbo, coloque a frase na ordem direta e descarte as intercalações. Em "cabem ao relator, nos termos do Regimento, as providências urgentes", o sujeito é as providências, e por isso o plural.
-BRUNO: Os erros típicos são sempre do sujeito posposto. Ocorreram diversos incidentes, faltam três assinaturas, bastam duas testemunhas. A banca escreve "ocorreu diversos incidentes" ou "falta três assinaturas", e o aluno aceita porque o verbo veio antes.
+FRANCISCA: O método da FCC: pergunte quem ou o que ao verbo, coloque a frase na ordem direta e descarte as intercalações. Em "cabem ao relator, nos termos do Regimento, as providências urgentes", o sujeito é as providências, e por isso o plural.
+THALITA: Os erros típicos são sempre do sujeito posposto. Ocorreram diversos incidentes, faltam três assinaturas, bastam duas testemunhas. A banca escreve "ocorreu diversos incidentes" ou "falta três assinaturas", e o aluno aceita porque o verbo veio antes.
 FRANCISCA: No sujeito distante, o verbo é atraído pelo termo mais próximo. Os relatórios que a Contadoria, após meses de trabalho, encaminhou apontam falhas. O sujeito é relatórios, logo apontam. Errar é concordar com encaminhou, no singular.
 THALITA: E quando o sujeito é uma oração? Compete aos analistas elaborar as minutas. Eu botaria competem, por causa de analistas.
-ANTONIO: Boa tentativa, mas o sujeito é a oração elaborar as minutas, então o verbo fica no singular: compete. O mesmo vale para falta apresentar os documentos.
-BRUNO: Com o relativo que, o verbo concorda com o antecedente: foram os servidores que apresentaram a proposta; fui eu que redigi.
+FRANCISCA: Boa tentativa, mas o sujeito é a oração elaborar as minutas, então o verbo fica no singular: compete. O mesmo vale para falta apresentar os documentos.
+THALITA: Com o relativo que, o verbo concorda com o antecedente: foram os servidores que apresentaram a proposta; fui eu que redigi.
 FRANCISCA: Agora haver e fazer impessoais. Haver no sentido de existir, ocorrer ou acontecer fica na terceira pessoa do singular: houve muitos recursos, havia dúvidas. Haver ou fazer indicando tempo decorrido também: há dez anos trabalho aqui, faz dois anos que.
 THALITA: E se tiver um auxiliar na frente? Devem haver soluções?
-ANTONIO: Errado. O auxiliar também fica no singular, contaminado: deve haver soluções, vai fazer cinco anos, pode haver recursos.
-BRUNO: Já existir, ocorrer, acontecer e restar são pessoais: existem soluções, devem existir soluções. E haver auxiliar, com particípio, também é pessoal: os servidores haviam saído.
-THALITA: Macete: trocou haver por existir, o verbo existir é que manda no plural. Há muitas dúvidas vira existem muitas dúvidas. Podia haver falhas vira podiam existir falhas.
-BRUNO: Perfeito. E as erradas são hão dúvidas, podiam haver falhas e podia existir falhas.
+FRANCISCA: Errado. O auxiliar também fica no singular, contaminado: deve haver soluções, vai fazer cinco anos, pode haver recursos.
+THALITA: Já existir, ocorrer, acontecer e restar são pessoais: existem soluções, devem existir soluções. E haver auxiliar, com particípio, também é pessoal: os servidores haviam saído.
+FRANCISCA: Macete: trocou haver por existir, o verbo existir é que manda no plural. Há muitas dúvidas vira existem muitas dúvidas. Podia haver falhas vira podiam existir falhas.
+THALITA: Perfeito. E as erradas são hão dúvidas, podiam haver falhas e podia existir falhas.
 == SLIDE: O pronome se e a concordância
 * Se apassivador (VTD): verbo concorda com o paciente
 * Se indeterminador (VTI, VI, VL): sempre singular
 * Teste da passiva analítica
 * Locução + se: plural é a forma segura
-ANTONIO: Verbos com se. Se o verbo é transitivo direto ou transitivo direto e indireto, o se é apassivador e o verbo concorda com o sujeito paciente. Analisaram-se os recursos, que é o mesmo que os recursos foram analisados. Publicou-se o edital.
+FRANCISCA: Verbos com se. Se o verbo é transitivo direto ou transitivo direto e indireto, o se é apassivador e o verbo concorda com o sujeito paciente. Analisaram-se os recursos, que é o mesmo que os recursos foram analisados. Publicou-se o edital.
 THALITA: E quando o verbo não tem objeto direto?
 FRANCISCA: Aí o se indetermina o sujeito, e o verbo fica sempre no singular. Precisa-se de técnicos, trata-se de questões novas, vive-se bem aqui, é-se feliz. Isso vale para verbos transitivos indiretos, intransitivos e de ligação.
-BRUNO: A FCC adora trocar trata-se de questões novas por tratam-se de questões novas. Errado, porque trata-se é verbo transitivo indireto, o sujeito está indeterminado e não existe sujeito paciente.
-THALITA: Como eu descubro qual é qual na hora da prova?
-ANTONIO: Teste da passiva analítica. Se dá para reescrever com ser mais particípio, o se é apassivador e o verbo concorda. Alugam-se salas vira salas são alugadas. Se não dá, como técnicos são precisados, o que é absurdo, é indeterminação e o verbo fica no singular.
+THALITA: A FCC adora trocar trata-se de questões novas por tratam-se de questões novas. Errado, porque trata-se é verbo transitivo indireto, o sujeito está indeterminado e não existe sujeito paciente.
+FRANCISCA: Como eu descubro qual é qual na hora da prova?
+THALITA: Teste da passiva analítica. Se dá para reescrever com ser mais particípio, o se é apassivador e o verbo concorda. Alugam-se salas vira salas são alugadas. Se não dá, como técnicos são precisados, o que é absurdo, é indeterminação e o verbo fica no singular.
 FRANCISCA: Em locuções, com auxiliar mais verbo transitivo direto, o plural é preferível: devem-se analisar os recursos, o mesmo que os recursos devem ser analisados.
-BRUNO: Atenção: deve-se analisar os recursos também é registrada por parte da gramática, que vê aí o se indeterminando o sujeito e a oração analisar os recursos como complemento. Mas em prova, a forma segura é o plural. Se aparecer a única opção com devem-se, é ela.
-THALITA: Resumo: transitivo direto com se, concorda; transitivo indireto, intransitivo e ligação, singular. Se der dúvida, passiva analítica.
-ANTONIO: Isso mesmo.
+THALITA: Atenção: deve-se analisar os recursos também é registrada por parte da gramática, que vê aí o se indeterminando o sujeito e a oração analisar os recursos como complemento. Mas em prova, a forma segura é o plural. Se aparecer a única opção com devem-se, é ela.
+FRANCISCA: Resumo: transitivo direto com se, concorda; transitivo indireto, intransitivo e ligação, singular. Se der dúvida, passiva analítica.
+THALITA: Isso mesmo.
 == SLIDE: Coletivos, partitivos, porcentagens e sujeito composto
 * Coletivo e partitivo com especificador: singular ou plural
 * Porcentagem: concorda com o numeral ou com o especificador
 * Um dos que: plural
 * Composto anteposto: plural; ou: exclusão singular
 FRANCISCA: Coletivos e partitivos. Coletivo sem especificador fica no singular: a equipe concluiu o trabalho. Com especificador plural, singular é o preferível, mas o plural também vale: um grupo de servidores apresentou ou apresentaram a proposta.
-BRUNO: Partitivos como a maioria de, grande parte de, a maior parte de e metade de, seguidos de plural, admitem os dois: a maioria dos juízes votou ou votaram. Porcentagem com especificador também: um por cento dos eleitores faltou ou faltaram; trinta por cento da categoria aderiu ou aderiram.
-THALITA: E se tiver um determinante, tipo os dez por cento?
-BRUNO: Concorda com o determinante: os dez por cento restantes serão pagos.
-ANTONIO: Agora o um dos que, sempre plural: ele é um dos servidores que mais se dedicam. O singular é aceito por parte da gramática quando se quer destacar o indivíduo, mas a FCC trata o plural como padrão. Na dúvida, plural.
+THALITA: Partitivos como a maioria de, grande parte de, a maior parte de e metade de, seguidos de plural, admitem os dois: a maioria dos juízes votou ou votaram. Porcentagem com especificador também: um por cento dos eleitores faltou ou faltaram; trinta por cento da categoria aderiu ou aderiram.
+FRANCISCA: E se tiver um determinante, tipo os dez por cento?
+THALITA: Concorda com o determinante: os dez por cento restantes serão pagos.
+FRANCISCA: Agora o um dos que, sempre plural: ele é um dos servidores que mais se dedicam. O singular é aceito por parte da gramática quando se quer destacar o indivíduo, mas a FCC trata o plural como padrão. Na dúvida, plural.
 THALITA: E mais de um? Eu diria sempre plural.
 FRANCISCA: Não. Mais de um fica no singular: mais de um candidato recorreu. Só vai ao plural se houver reciprocidade: mais de um advogado se cumprimentaram. E cerca de e menos de com numeral concordam com o numeral: cerca de mil candidatos compareceram.
-ANTONIO: Sujeito composto anteposto vai para o plural: o juiz e o servidor assinaram. Posposto, admite plural ou concordância com o mais próximo: assinaram ou assinou o juiz e o servidor. Com pessoas diferentes, a primeira prevalece sobre a segunda e a terceira: eu e Ana iremos.
-BRUNO: Resumido por tudo, nada ou ninguém, concorda com o resumidor: provas, testemunhas, documentos, nada convenceu o juiz. E ligado por ou: exclusão, singular, Ana ou Bruno será nomeado presidente; indiferença ou inclusão, plural, o frio ou o calor prejudicam a obra.
+THALITA: Sujeito composto anteposto vai para o plural: o juiz e o servidor assinaram. Posposto, admite plural ou concordância com o mais próximo: assinaram ou assinou o juiz e o servidor. Com pessoas diferentes, a primeira prevalece sobre a segunda e a terceira: eu e Ana iremos.
+FRANCISCA: Resumido por tudo, nada ou ninguém, concorda com o resumidor: provas, testemunhas, documentos, nada convenceu o juiz. E ligado por ou: exclusão, singular, Ana ou Bruno será nomeado presidente; indiferença ou inclusão, plural, o frio ou o calor prejudicam a obra.
 THALITA: Vou guardar: ou que exclui, singular; ou que soma, plural.
 == SLIDE: O verbo ser e concordância nominal
 * Ser com tudo, isso, o que: prefere o predicativo plural
@@ -55,11 +55,11 @@ THALITA: Vou guardar: ou que exclui, singular; ou que soma, plural.
 * Menos, alerta, pseudo não variam; bastante, meio, só, caro: depende
 FRANCISCA: O verbo ser. Com tudo, isso, aquilo ou o que, mais predicativo no plural, a preferência é pelo predicativo: tudo são dúvidas, o que preocupa são os prazos. Em horas e datas, concorda com o numeral: são dez horas, é uma hora, é meio-dia e meia. Quantidade com é pouco, muito ou suficiente: singular, como em dez dias é pouco para a defesa.
 THALITA: Passando à nominal: é proibido entrada ou é proibida a entrada?
-BRUNO: As duas podem estar certas, e depende do determinante. Sem artigo, invariável: é proibido entrada. Com artigo ou pronome, concorda: é proibida a entrada, é necessária muita cautela. Errado: é proibido a entrada.
-ANTONIO: Anexo, incluso e apenso variam, porque são adjetivos: seguem anexas as certidões, vão inclusos os comprovantes. A expressão em anexo é invariável: seguem em anexo as certidões. Errado: segue anexo as certidões.
-FRANCISCA: Obrigado, próprio, quite e mesmo variam: ela disse obrigada, estamos quites, elas mesmas assinaram. Mas mesmo no sentido de realmente é advérbio e fica invariável.
-BRUNO: Bastante. Como adjetivo, no sentido de muitos ou suficientes, varia: há bastantes provas. Como advérbio, no sentido de muito, junto de adjetivo ou verbo, não varia: as provas são bastante sólidas. Errado: bastantes sólidas.
-THALITA: Meio é igual. Meia hora e meio-dia e meia, variam. Ela ficou meio preocupada, invariável, porque é um pouco.
-ANTONIO: Isso. Só como adjetivo, sozinho, varia: eles ficaram sós. Como advérbio, somente, não: só eles ficaram. Menos, alerta e pseudo são invariáveis: menos provas, nunca menas; os servidores estão alerta.
+FRANCISCA: As duas podem estar certas, e depende do determinante. Sem artigo, invariável: é proibido entrada. Com artigo ou pronome, concorda: é proibida a entrada, é necessária muita cautela. Errado: é proibido a entrada.
+THALITA: Anexo, incluso e apenso variam, porque são adjetivos: seguem anexas as certidões, vão inclusos os comprovantes. A expressão em anexo é invariável: seguem em anexo as certidões. Errado: segue anexo as certidões.
+FRANCISCA: Obrigada, próprio, quite e mesmo variam: ela disse obrigada, estamos quites, elas mesmas assinaram. Mas mesmo no sentido de realmente é advérbio e fica invariável.
+THALITA: Bastante. Como adjetivo, no sentido de muitos ou suficientes, varia: há bastantes provas. Como advérbio, no sentido de muito, junto de adjetivo ou verbo, não varia: as provas são bastante sólidas. Errado: bastantes sólidas.
+FRANCISCA: Meio é igual. Meia hora e meio-dia e meia, variam. Ela ficou meio preocupada, invariável, porque é um pouco.
+THALITA: Isso. Só como adjetivo, sozinho, varia: eles ficaram sós. Como advérbio, somente, não: só eles ficaram. Menos, alerta e pseudo são invariáveis: menos provas, nunca menas; os servidores estão alerta.
 FRANCISCA: Caro, barato e longe seguem o mesmo critério. As certidões são caras, adjetivo. As certidões custaram caro, advérbio. Quando há vários substantivos antes do adjetivo, o plural prevalece, ou concorda com o mais próximo: língua e literatura portuguesas ou portuguesa.
-ANTONIO: Fechamos a concordância. Agora vamos à flexão verbal e nominal, às vozes do verbo e à correlação de tempos e modos, onde a FCC cobra o futuro do subjuntivo.
+THALITA: Fechamos a concordância. Agora vamos à flexão verbal e nominal, às vozes do verbo e à correlação de tempos e modos, onde a FCC cobra o futuro do subjuntivo.

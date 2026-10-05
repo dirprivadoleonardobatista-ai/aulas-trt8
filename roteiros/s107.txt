@@ -4,38 +4,37 @@ SEGMENTO s107
 * Convocação: prazo do edital, prorrogável uma vez
 * Forma escrita; consultar CEIS e CNEP (art. 91)
 * Eficácia: PNCP em 20 dias úteis (licitação) ou 10 (direta)
-ANTONIO: Olá, pessoal, boas-vindas à aula trinta e um do nosso curso! Estamos em Direito Administrativo, licitações e contratos, a segunda parte, sobre a Lei quatorze mil cento e trinta e três, de dois mil e vinte e um. Hoje vamos de formalização e garantias, duração e prorrogação, alterações e equilíbrio econômico-financeiro, execução, extinção e nulidade, e depois resolvemos questões no estilo FCC.
-THALITA: Eu sou a Thalita, concurseira, e vou perguntar tudo o que der dúvida.
-FRANCISCA: Eu sou a Francisca, professora, e trago a lei em paráfrase e os exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC, e mostro onde a banca caça distração.
-ANTONIO: Vamos começar pela convocação para assinar o contrato, artigo noventa. O vencedor assina no prazo do edital, e esse prazo pode ser prorrogado uma vez, por igual período.
-THALITA: E se o vencedor não aparecer?
-FRANCISCA: A Administração chama os remanescentes, na ordem de classificação, nas condições do vencedor. E a recusa injustificada do vencedor é considerada inexecução total.
-BRUNO: Guarde: prorrogação do prazo de assinatura é uma única vez. Se a questão disser "sucessivamente", está errada.
-ANTONIO: Quanto à forma, artigo noventa e um: o contrato é escrito, admitida a forma eletrônica. E, antes de formalizar ou prorrogar, a Administração consulta o CEIS e o CNEP, os cadastros de empresas punidas.
-THALITA: Foro também tem regra?
-FRANCISCA: Tem. O foro da sede da Administração é obrigatório, salvo exceções internacionais, artigo noventa e dois, parágrafo primeiro.
-BRUNO: Agora a eficácia, artigo noventa e quatro. O contrato só produz efeitos depois da divulgação no PNCP, o Portal Nacional de Contratações Públicas. O prazo é de vinte dias úteis da assinatura, na licitação, e dez dias úteis, na contratação direta.
+FRANCISCA: Olá, pessoal, boas-vindas à aula trinta e um do nosso curso! Estamos em Direito Administrativo, licitações e contratos, a segunda parte, sobre a Lei quatorze mil cento e trinta e três, de dois mil e vinte e um. Hoje vamos de formalização e garantias, duração e prorrogação, alterações e equilíbrio econômico-financeiro, execução, extinção e nulidade, e depois resolvemos questões no estilo FCC.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Vamos começar pela convocação para assinar o contrato, artigo noventa. O vencedor assina no prazo do edital, e esse prazo pode ser prorrogado uma vez, por igual período.
+FRANCISCA: E se o vencedor não aparecer?
+THALITA: A Administração chama os remanescentes, na ordem de classificação, nas condições do vencedor. E a recusa injustificada do vencedor é considerada inexecução total.
+FRANCISCA: Guarde: prorrogação do prazo de assinatura é uma única vez. Se a questão disser "sucessivamente", está errada.
+THALITA: Quanto à forma, artigo noventa e um: o contrato é escrito, admitida a forma eletrônica. E, antes de formalizar ou prorrogar, a Administração consulta o CEIS e o CNEP, os cadastros de empresas punidas.
+FRANCISCA: Foro também tem regra?
+THALITA: Tem. O foro da sede da Administração é obrigatório, salvo exceções internacionais, artigo noventa e dois, parágrafo primeiro.
+FRANCISCA: Agora a eficácia, artigo noventa e quatro. O contrato só produz efeitos depois da divulgação no PNCP, o Portal Nacional de Contratações Públicas. O prazo é de vinte dias úteis da assinatura, na licitação, e dez dias úteis, na contratação direta.
 THALITA: Vinte para licitação, dez para direta. Dobro para quem licita.
 FRANCISCA: Sobre o instrumento, artigo noventa e cinco: carta-contrato, nota de empenho, autorização de compra ou ordem de serviço podem substituí-lo. Em alguns casos, pelo valor. Nas compras com entrega imediata e integral, sem obrigações futuras, independentemente do valor.
 THALITA: E contrato verbal?
-BRUNO: É nulo. A exceção são pequenas compras ou serviços de pronto pagamento de valor não superior a dez mil reais, no texto original. A apostila manda conferir o valor atualizado.
+FRANCISCA: É nulo. A exceção são pequenas compras ou serviços de pronto pagamento de valor não superior a dez mil reais, no texto original. A apostila manda conferir o valor atualizado.
 == SLIDE: Garantias contratuais
 * Facultativa, prevista no edital (art. 96)
 * Escolha do contratado: caução, seguro, fiança, capitalização
 * Até 5%; até 10% com complexidade e riscos (art. 98)
 * Grande vulto: seguro com retomada até 30% (art. 99)
 * Liberação após a fiel execução (art. 100)
-ANTONIO: Agora as garantias. Primeira regra: a exigência é facultativa, fica a critério da autoridade, e deve estar prevista no edital. Artigo noventa e seis.
-THALITA: Quem escolhe o tipo de garantia, a Administração?
-FRANCISCA: Não, quem escolhe é o contratado. As opções: caução em dinheiro ou títulos da dívida pública, seguro-garantia, fiança bancária ou título de capitalização, esta última pela Lei quatorze mil setecentos e setenta, de dois mil e vinte e três.
-BRUNO: Se a alternativa disser que a Administração escolhe a modalidade, risque.
-ANTONIO: O percentual, artigo noventa e oito: até cinco por cento do valor inicial do contrato. Pode subir até dez por cento, se justificado pela complexidade técnica e pelos riscos envolvidos.
-THALITA: Esse dez é para obras de grande vulto, né?
-BRUNO: Pegadinha! Não. O dez por cento do artigo noventa e oito não depende de grande vulto; depende de justificativa de complexidade e riscos. A FCC explora essa troca.
+THALITA: Agora as garantias. Primeira regra: a exigência é facultativa, fica a critério da autoridade, e deve estar prevista no edital. Artigo noventa e seis.
+FRANCISCA: Quem escolhe o tipo de garantia, a Administração?
+THALITA: Não, quem escolhe é o contratado. As opções: caução em dinheiro ou títulos da dívida pública, seguro-garantia, fiança bancária ou título de capitalização, esta última pela Lei quatorze mil setecentos e setenta, de dois mil e vinte e três.
+FRANCISCA: Se a alternativa disser que a Administração escolhe a modalidade, risque.
+THALITA: O percentual, artigo noventa e oito: até cinco por cento do valor inicial do contrato. Pode subir até dez por cento, se justificado pela complexidade técnica e pelos riscos envolvidos.
+FRANCISCA: Esse dez é para obras de grande vulto, né?
+THALITA: Pegadinha! Não. O dez por cento do artigo noventa e oito não depende de grande vulto; depende de justificativa de complexidade e riscos. A FCC explora essa troca.
 FRANCISCA: Para obras e serviços de engenharia de grande vulto, a regra própria está nos artigos noventa e nove e cento e dois: seguro-garantia com cláusula de retomada, de até trinta por cento. Ou seja, a seguradora pode assumir a obra.
 THALITA: Cinco, dez com justificativa, e trinta com retomada em grande vulto.
-ANTONIO: Isso. E a liberação, artigo cem: depois da fiel execução do contrato ou da extinção por culpa exclusiva da Administração.
+FRANCISCA: Isso. E a liberação, artigo cem: depois da fiel execução do contrato ou da extinção por culpa exclusiva da Administração.
 THALITA: Então se a culpa foi da Administração, o contratado já pode pegar a garantia de volta.
 FRANCISCA: Exato. A garantia protege a Administração, não pode virar peso para quem não deu causa.
 == SLIDE: Duração e prorrogação dos contratos
@@ -44,97 +43,97 @@ FRANCISCA: Exato. A garantia protege a Administração, não pode virar peso par
 * Receita: 10 anos; com investimento: 35 anos
 * Monopólio: indeterminado; TI estruturante: 15 anos
 * 60 meses + 12 excepcionais é da Lei 8.666
-ANTONIO: Vamos à duração, artigos cento e cinco a cento e catorze. A regra é que o prazo conste do edital, com créditos a cada exercício, e, se o contrato ultrapassar um exercício financeiro, observa-se o plano plurianual.
-THALITA: Então vigência não é livre?
-FRANCISCA: Não. Para serviços e fornecimentos contínuos, o contrato pode ter até cinco anos, atestada a vantagem da plurianualidade e a existência de créditos, artigo cento e seis.
-THALITA: E se faltar dinheiro depois?
-FRANCISCA: Se faltarem créditos ou a vantagem se perder, a Administração extingue sem ônus. Mas só na data de aniversário do contrato, e avisando com prazo não inferior a dois meses antes dela.
-BRUNO: Já a prorrogação desses contínuos, artigo cento e sete, é sucessiva, até dez anos, com previsão no edital e atestado de vantajosidade.
-ANTONIO: Outras hipóteses. Nas hipóteses especiais de dispensa, como defesa, inovação, segurança nacional e SUS, o prazo pode chegar a dez anos, artigo cento e oito.
-THALITA: E prazo indeterminado, existe?
-BRUNO: Só quando a Administração é usuária de serviço público em regime de monopólio, artigo cento e nove. Se a FCC colocar "qualquer serviço contínuo", errado.
+THALITA: Vamos à duração, artigos cento e cinco a cento e catorze. A regra é que o prazo conste do edital, com créditos a cada exercício, e, se o contrato ultrapassar um exercício financeiro, observa-se o plano plurianual.
+FRANCISCA: Então vigência não é livre?
+THALITA: Não. Para serviços e fornecimentos contínuos, o contrato pode ter até cinco anos, atestada a vantagem da plurianualidade e a existência de créditos, artigo cento e seis.
+FRANCISCA: E se faltar dinheiro depois?
+THALITA: Se faltarem créditos ou a vantagem se perder, a Administração extingue sem ônus. Mas só na data de aniversário do contrato, e avisando com prazo não inferior a dois meses antes dela.
+FRANCISCA: Já a prorrogação desses contínuos, artigo cento e sete, é sucessiva, até dez anos, com previsão no edital e atestado de vantajosidade.
+THALITA: Outras hipóteses. Nas hipóteses especiais de dispensa, como defesa, inovação, segurança nacional e SUS, o prazo pode chegar a dez anos, artigo cento e oito.
+FRANCISCA: E prazo indeterminado, existe?
+THALITA: Só quando a Administração é usuária de serviço público em regime de monopólio, artigo cento e nove. Se a FCC colocar "qualquer serviço contínuo", errado.
 FRANCISCA: Contratos que geram receita ou de eficiência, artigo cento e dez: dez anos sem investimento; trinta e cinco anos se houver investimento revertido ao patrimônio público.
-ANTONIO: No contrato por escopo, artigo cento e onze, se o objeto não for concluído, a prorrogação é automática. Se a culpa for do contratado, ele responde por mora e sanções.
-THALITA: E fornecimento com serviço associado?
-FRANCISCA: Operação e manutenção ficam limitadas a cinco anos do recebimento, artigo cento e treze. E sistemas estruturantes de tecnologia da informação podem durar até quinze anos, artigo cento e catorze.
-BRUNO: A banca adora cobrar "sessenta meses mais doze excepcionais". Isso é da Lei oito mil seiscentos e sessenta e seis. Na lei nova, errado.
+THALITA: No contrato por escopo, artigo cento e onze, se o objeto não for concluído, a prorrogação é automática. Se a culpa for do contratado, ele responde por mora e sanções.
+FRANCISCA: E fornecimento com serviço associado?
+THALITA: Operação e manutenção ficam limitadas a cinco anos do recebimento, artigo cento e treze. E sistemas estruturantes de tecnologia da informação podem durar até quinze anos, artigo cento e catorze.
+FRANCISCA: A banca adora cobrar "sessenta meses mais doze excepcionais". Isso é da Lei oito mil seiscentos e sessenta e seis. Na lei nova, errado.
 == SLIDE: Alterações unilaterais e por acordo
 * Unilateral: qualitativa e quantitativa (art. 124, I)
 * Acordo: garantia, regime, pagamento, reequilíbrio
 * Limites: 25%; reforma, acréscimos até 50% (art. 125)
 * Base: valor inicial atualizado
-ANTONIO: Agora um tema campeão de prova: alterações. O artigo cento e vinte e quatro prevê alterações unilaterais e alterações por acordo.
-THALITA: Unilateral é a Administração decidindo sozinha?
-ANTONIO: Sim. Pode ser qualitativa, quando modifica o projeto ou as especificações para melhor adequação técnica, ou quantitativa, quando acrescenta ou diminui o objeto, nos limites legais.
+THALITA: Agora um tema campeão de prova: alterações. O artigo cento e vinte e quatro prevê alterações unilaterais e alterações por acordo.
+FRANCISCA: Unilateral é a Administração decidindo sozinha?
+THALITA: Sim. Pode ser qualitativa, quando modifica o projeto ou as especificações para melhor adequação técnica, ou quantitativa, quando acrescenta ou diminui o objeto, nos limites legais.
 FRANCISCA: Por acordo, são quatro hipóteses. Substituição da garantia. Mudança do regime de execução ou do modo de fornecimento. Mudança da forma de pagamento, vedada a antecipação sem contraprestação. E reequilíbrio por força maior, caso fortuito, fato do príncipe ou fatos imprevisíveis, ou previsíveis de consequências incalculáveis, respeitada a matriz de riscos.
 THALITA: Os limites são vinte e cinco por cento, certo?
-BRUNO: Certo, artigo cento e vinte e cinco: o contratado é obrigado a aceitar, nas mesmas condições, acréscimos ou supressões de até vinte e cinco por cento do valor inicial atualizado do contrato.
+FRANCISCA: Certo, artigo cento e vinte e cinco: o contratado é obrigada a aceitar, nas mesmas condições, acréscimos ou supressões de até vinte e cinco por cento do valor inicial atualizado do contrato.
 THALITA: E o cinquenta por cento?
 FRANCISCA: Só para acréscimos em reforma de edifício ou de equipamento. As supressões continuam em vinte e cinco.
-BRUNO: A base de cálculo é o valor inicial atualizado. E se a Administração impuser supressão além do limite, o contratado tem direito à extinção, artigo cento e trinta e sete, parágrafo segundo, inciso um.
-THALITA: Dá um exemplo?
-ANTONIO: Reforma de um milhão de reais: acréscimo unilateral até quinhentos mil e supressão até duzentos e cinquenta mil. Compra de mobiliário de quatrocentos mil reais: até cem mil para mais ou para menos.
-THALITA: Então reforma é a única que sobe a cinquenta por cento, e só no acréscimo.
-BRUNO: É isso. E a transfiguração do objeto é vedada, artigo cento e vinte e seis.
+THALITA: A base de cálculo é o valor inicial atualizado. E se a Administração impuser supressão além do limite, o contratado tem direito à extinção, artigo cento e trinta e sete, parágrafo segundo, inciso um.
+FRANCISCA: Dá um exemplo?
+THALITA: Reforma de um milhão de reais: acréscimo unilateral até quinhentos mil e supressão até duzentos e cinquenta mil. Compra de mobiliário de quatrocentos mil reais: até cem mil para mais ou para menos.
+FRANCISCA: Então reforma é a única que sobe a cinquenta por cento, e só no acréscimo.
+THALITA: É isso. E a transfiguração do objeto é vedada, artigo cento e vinte e seis.
 == SLIDE: Regras complementares e equilíbrio econômico-financeiro
 * Reajuste: índice, anual, apostila
 * Repactuação: custos de mão de obra, 1 ano, apostila
 * Revisão: álea extraordinária, qualquer tempo, termo aditivo
 * Fato do príncipe x fato da Administração
 FRANCISCA: Algumas regras complementares. Materiais já adquiridos na supressão são pagos pelo custo comprovado e reajustado, artigo cento e vinte e nove. O pedido de reequilíbrio deve ser feito durante a vigência e antes de eventual prorrogação, e a extinção não impede a indenização, artigo cento e trinta e um.
-ANTONIO: O aditivo deve ser prévio à execução da condição alterada, salvo antecipação justificada, formalizada em até um mês, artigo cento e trinta e dois. A decisão do pedido sai em um mês após a instrução, prorrogável por igual período. E a apostila serve para reajuste e repactuação previstos, compensações financeiras, mudança de razão social e empenho.
-THALITA: Eu sempre confundo reajuste, repactuação e revisão.
-BRUNO: Vamos separar. Reajuste é a aplicação do índice previsto no contrato. A cláusula é obrigatória independentemente do prazo, e a data-base é a do orçamento estimado. É anual e se formaliza por apostila.
+THALITA: O aditivo deve ser prévio à execução da condição alterada, salvo antecipação justificada, formalizada em até um mês, artigo cento e trinta e dois. A decisão do pedido sai em um mês após a instrução, prorrogável por igual período. E a apostila serve para reajuste e repactuação previstos, compensações financeiras, mudança de razão social e empenho.
+FRANCISCA: Eu sempre confundo reajuste, repactuação e revisão.
+THALITA: Vamos separar. Reajuste é a aplicação do índice previsto no contrato. A cláusula é obrigatória independentemente do prazo, e a data-base é a do orçamento estimado. É anual e se formaliza por apostila.
 FRANCISCA: Repactuação é a variação analítica de custos, em serviços contínuos com dedicação exclusiva ou predominância de mão de obra. As datas são a da proposta, para o mercado, e a da convenção, acordo ou dissídio, para a mão de obra. O intervalo é de um ano, também por apostila.
-BRUNO: Revisão é recomposição por álea extraordinária. Pode ocorrer a qualquer tempo, por termo aditivo.
-THALITA: Macete: reajuste é índice, repactuação é planilha de custos, revisão é fato extraordinário.
-ANTONIO: Ótimo. Agora as teorias. Imprevisão: fato imprevisível, ou de consequências incalculáveis, extraordinário, que onera excessivamente. Exemplo: disparada anormal do preço de um insumo por crise internacional.
+THALITA: Revisão é recomposição por álea extraordinária. Pode ocorrer a qualquer tempo, por termo aditivo.
+FRANCISCA: Macete: reajuste é índice, repactuação é planilha de custos, revisão é fato extraordinário.
+THALITA: Ótimo. Agora as teorias. Imprevisão: fato imprevisível, ou de consequências incalculáveis, extraordinário, que onera excessivamente. Exemplo: disparada anormal do preço de um insumo por crise internacional.
 FRANCISCA: Fato do príncipe é ato geral do poder público que repercute indiretamente no contrato, como aumento de tributo sobre o objeto, artigo cento e trinta e quatro. Fato da Administração é ação ou omissão da contratante que atinge diretamente o contrato: não liberar a área, atrasar pagamento.
 THALITA: E caso fortuito e força maior?
-BRUNO: Evento inevitável, como uma enchente que destrói o canteiro. E um alerta: na repactuação, a Administração não se vincula a cláusulas coletivas sobre matéria não trabalhista, participação nos lucros ou direitos não previstos em lei. Artigo cento e trinta e cinco, parágrafo primeiro.
+FRANCISCA: Evento inevitável, como uma enchente que destrói o canteiro. E um alerta: na repactuação, a Administração não se vincula a cláusulas coletivas sobre matéria não trabalhista, participação nos lucros ou direitos não previstos em lei. Artigo cento e trinta e cinco, parágrafo primeiro.
 == SLIDE: Execução, responsabilidade trabalhista e pagamentos
 * Fiscal designado; vedado retardamento imotivado
 * Responsabilidade: só do contratado, salvo falha de fiscalização
 * Previdenciária: solidária; trabalhista: subsidiária
 * Ordem cronológica de pagamentos (art. 141)
-ANTONIO: Execução do contrato. A regra é a fiel execução, com fiscal designado, e a vedação ao retardamento imotivado da execução. Artigos cento e quinze e cento e dezessete. Quanto a encargos trabalhistas, previdenciários, fiscais e comerciais, responde só o contratado, artigo cento e vinte e um, e não há transferência automática à Administração.
-THALITA: Mas se a empresa deixar de pagar os terceirizados?
-FRANCISCA: Aí entra o parágrafo segundo. Exclusivamente nos serviços contínuos com dedicação exclusiva de mão de obra, a Administração responde solidariamente pelos encargos previdenciários e subsidiariamente pelos trabalhistas, se comprovada falha na fiscalização.
-THALITA: Previdenciários solidária, trabalhistas subsidiária.
-BRUNO: Perfeito. E a FCC troca! Dizer que os trabalhistas são solidários é erro clássico. Em ambos, a falha na fiscalização precisa estar comprovada.
+THALITA: Execução do contrato. A regra é a fiel execução, com fiscal designado, e a vedação ao retardamento imotivado da execução. Artigos cento e quinze e cento e dezessete. Quanto a encargos trabalhistas, previdenciários, fiscais e comerciais, responde só o contratado, artigo cento e vinte e um, e não há transferência automática à Administração.
+FRANCISCA: Mas se a empresa deixar de pagar os terceirizados?
+THALITA: Aí entra o parágrafo segundo. Exclusivamente nos serviços contínuos com dedicação exclusiva de mão de obra, a Administração responde solidariamente pelos encargos previdenciários e subsidiariamente pelos trabalhistas, se comprovada falha na fiscalização.
+FRANCISCA: Previdenciários solidária, trabalhistas subsidiária.
+THALITA: Perfeito. E a FCC troca! Dizer que os trabalhistas são solidários é erro clássico. Em ambos, a falha na fiscalização precisa estar comprovada.
 FRANCISCA: O parágrafo terceiro prevê medidas preventivas: garantia com cobertura de verbas rescisórias, pagamento condicionado à quitação, conta vinculada, pagamento direto aos trabalhadores e liberação de férias, décimo terceiro e verbas rescisórias só no fato gerador.
-ANTONIO: Jurisprudência. O STF, na ADC dezesseis e no Tema duzentos e quarenta e seis, decidiu que o inadimplemento do contratado não transfere automaticamente a responsabilidade ao Poder Público.
-BRUNO: A Súmula trezentos e trinta e um do TST, item cinco, diz que a responsabilidade é subsidiária se evidenciada conduta culposa, especialmente na fiscalização, e não decorre de mero inadimplemento.
-FRANCISCA: E o Tema mil cento e dezoito do STF, em síntese: não basta inverter o ônus da prova; o autor deve demonstrar a negligência ou o nexo causal. Caracteriza negligência a inércia após notificação formal do descumprimento. Paráfrase; vale conferir a tese oficial.
-THALITA: Agora os pagamentos.
-ANTONIO: Artigo cento e quarenta e um: ordem cronológica, por fonte de recursos, nas categorias bens, locações, serviços e obras.
-BRUNO: A quebra da ordem exige justificativa prévia e comunicação posterior ao controle interno e ao tribunal de contas, exclusivamente em hipóteses como grave perturbação, emergência ou calamidade; microempresa, empresa de pequeno porte, cooperativa e agricultor familiar com risco de descontinuidade; sistemas estruturantes; falência ou recuperação judicial do contratado; e objeto imprescindível.
-FRANCISCA: Quebra imotivada gera responsabilização do agente, e pode configurar o crime do artigo trezentos e trinta e sete-H do Código Penal. E o pagamento antecipado é vedado, salvo sensível economia ou condição indispensável, justificada e prevista no edital.
+THALITA: Jurisprudência. O STF, na ADC dezesseis e no Tema duzentos e quarenta e seis, decidiu que o inadimplemento do contratado não transfere automaticamente a responsabilidade ao Poder Público.
+FRANCISCA: A Súmula trezentos e trinta e um do TST, item cinco, diz que a responsabilidade é subsidiária se evidenciada conduta culposa, especialmente na fiscalização, e não decorre de mero inadimplemento.
+THALITA: E o Tema mil cento e dezoito do STF, em síntese: não basta inverter o ônus da prova; o autor deve demonstrar a negligência ou o nexo causal. Caracteriza negligência a inércia após notificação formal do descumprimento. Paráfrase; vale conferir a tese oficial.
+FRANCISCA: Agora os pagamentos.
+THALITA: Artigo cento e quarenta e um: ordem cronológica, por fonte de recursos, nas categorias bens, locações, serviços e obras.
+FRANCISCA: A quebra da ordem exige justificativa prévia e comunicação posterior ao controle interno e ao tribunal de contas, exclusivamente em hipóteses como grave perturbação, emergência ou calamidade; microempresa, empresa de pequeno porte, cooperativa e agricultor familiar com risco de descontinuidade; sistemas estruturantes; falência ou recuperação judicial do contratado; e objeto imprescindível.
+THALITA: Quebra imotivada gera responsabilização do agente, e pode configurar o crime do artigo trezentos e trinta e sete-H do Código Penal. E o pagamento antecipado é vedado, salvo sensível economia ou condição indispensável, justificada e prevista no edital.
 == SLIDE: Extinção do contrato
 * Motivos do art. 137, caput
 * Direito do contratado: supressão acima do limite, suspensão acima de 3 meses
 * Atraso de pagamento acima de 2 meses
 * Formas: unilateral, consensual, arbitral ou judicial
-ANTONIO: Extinção dos contratos, artigo cento e trinta e sete. Os motivos do caput: descumprimento de cláusulas, especificações ou prazos; desatendimento à fiscalização; alteração societária que restrinja a capacidade; falência, insolvência, dissolução ou falecimento; caso fortuito ou força maior; atraso ou impossibilidade de licença ambiental ou de liberação de áreas; descumprimento da reserva de cargos para pessoa com deficiência, reabilitado e aprendiz; e interesse público justificado pela autoridade máxima.
+FRANCISCA: Extinção dos contratos, artigo cento e trinta e sete. Os motivos do caput: descumprimento de cláusulas, especificações ou prazos; desatendimento à fiscalização; alteração societária que restrinja a capacidade; falência, insolvência, dissolução ou falecimento; caso fortuito ou força maior; atraso ou impossibilidade de licença ambiental ou de liberação de áreas; descumprimento da reserva de cargos para pessoa com deficiência, reabilitado e aprendiz; e interesse público justificado pela autoridade máxima.
 THALITA: E o contratado, pode pedir para extinguir?
-BRUNO: Pode, nos casos do parágrafo segundo. Supressão além do limite do artigo cento e vinte e cinco. Suspensão por ordem escrita superior a três meses. Suspensões repetidas que totalizem noventa dias úteis. Atraso de pagamento superior a dois meses da nota fiscal. E não liberação de área, local ou objeto.
+FRANCISCA: Pode, nos casos do parágrafo segundo. Supressão além do limite do artigo cento e vinte e cinco. Suspensão por ordem escrita superior a três meses. Suspensões repetidas que totalizem noventa dias úteis. Atraso de pagamento superior a dois meses da nota fiscal. E não liberação de área, local ou objeto.
 THALITA: Três meses, noventa dias úteis e dois meses de atraso.
 FRANCISCA: Mas atenção: essas hipóteses não autorizam a extinção em calamidade, grave perturbação da ordem ou guerra, nem se o contratado contribuiu para o problema. Nesses casos, ele pode optar por suspender suas obrigações, com reequilíbrio, parágrafo terceiro.
-ANTONIO: Formas, artigo cento e trinta e oito. Unilateral: ato escrito, salvo descumprimento causado pela própria Administração, com autorização escrita e fundamentada. Consensual: acordo, conciliação, mediação ou comitê de resolução de disputas, se houver interesse da Administração. Arbitral ou judicial: cláusula compromissória ou decisão judicial.
+THALITA: Formas, artigo cento e trinta e oito. Unilateral: ato escrito, salvo descumprimento causado pela própria Administração, com autorização escrita e fundamentada. Consensual: acordo, conciliação, mediação ou comitê de resolução de disputas, se houver interesse da Administração. Arbitral ou judicial: cláusula compromissória ou decisão judicial.
 FRANCISCA: Se a culpa for exclusiva da Administração, o contratado tem direito a ressarcimento de prejuízos comprovados, devolução da garantia, pagamentos até a extinção e custo de desmobilização.
 THALITA: E as consequências da extinção unilateral?
-BRUNO: Artigo cento e trinta e nove. Assunção imediata do objeto, a critério da Administração. Ocupação e uso de local, instalações, equipamentos, material e pessoal, com autorização expressa de ministro ou secretário. Execução da garantia e retenção de créditos até o limite dos prejuízos e multas.
+FRANCISCA: Artigo cento e trinta e nove. Assunção imediata do objeto, a critério da Administração. Ocupação e uso de local, instalações, equipamentos, material e pessoal, com autorização expressa de ministro ou secretário. Execução da garantia e retenção de créditos até o limite dos prejuízos e multas.
 == SLIDE: Nulidade dos contratos
 * Juízo de interesse público antes de anular (art. 147)
 * Efeitos retroativos; modulação por até 6 meses
 * Indenização se a nulidade não for imputável ao contratado
 * Objeto e crédito indicados (art. 150)
-ANTONIO: Por fim, a nulidade, artigos cento e quarenta e sete a cento e cinquenta. Antes de suspender ou anular um contrato, a autoridade verifica se a medida atende ao interesse público.
-THALITA: Como assim? Se é ilegal, não tem que anular?
-FRANCISCA: Nem sempre. A autoridade avalia impactos econômicos, riscos sociais e ambientais, custo de deterioração e de desmobilização, postos de trabalho, custo de nova licitação, entre outros. Se a anulação não atender ao interesse público, mantém o contrato e resolve em perdas e danos.
-BRUNO: Os efeitos são retroativos. Se for impossível o retorno, perdas e danos, artigo cento e quarenta e oito. Mas pode haver modulação: eficácia diferida por até seis meses, prorrogável uma única vez.
+THALITA: Por fim, a nulidade, artigos cento e quarenta e sete a cento e cinquenta. Antes de suspender ou anular um contrato, a autoridade verifica se a medida atende ao interesse público.
+FRANCISCA: Como assim? Se é ilegal, não tem que anular?
+THALITA: Nem sempre. A autoridade avalia impactos econômicos, riscos sociais e ambientais, custo de deterioração e de desmobilização, postos de trabalho, custo de nova licitação, entre outros. Se a anulação não atender ao interesse público, mantém o contrato e resolve em perdas e danos.
+FRANCISCA: Os efeitos são retroativos. Se for impossível o retorno, perdas e danos, artigo cento e quarenta e oito. Mas pode haver modulação: eficácia diferida por até seis meses, prorrogável uma única vez.
 THALITA: E se o contratado já executou parte?
 FRANCISCA: Ele é indenizado pelo que executou e pelos prejuízos comprovados, se a nulidade não for imputável a ele. Artigo cento e quarenta e nove.
-ANTONIO: E o artigo cento e cinquenta: contratação sem caracterização do objeto ou sem indicação de créditos orçamentários é nula.
-THALITA: Fechando a aula de teoria, deixa eu resumir os números que mais caem. Garantia: cinco por cento, dez com justificativa, trinta com retomada em grande vulto. Contínuos: cinco anos, prorrogáveis até dez. Alterações: vinte e cinco por cento, e cinquenta só no acréscimo de reforma. Reajuste é índice, repactuação é planilha de custos, revisão é fato extraordinário. Extinção pelo contratado: três meses de suspensão ou dois meses de atraso. E nulidade: interesse público antes de anular, seis meses de modulação, indenização sem culpa do contratado.
-ANTONIO: Muito bem. Agora vamos treinar tudo isso com as questões comentadas no estilo FCC, parte um.
+THALITA: E o artigo cento e cinquenta: contratação sem caracterização do objeto ou sem indicação de créditos orçamentários é nula.
+FRANCISCA: Fechando a aula de teoria, deixa eu resumir os números que mais caem. Garantia: cinco por cento, dez com justificativa, trinta com retomada em grande vulto. Contínuos: cinco anos, prorrogáveis até dez. Alterações: vinte e cinco por cento, e cinquenta só no acréscimo de reforma. Reajuste é índice, repactuação é planilha de custos, revisão é fato extraordinário. Extinção pelo contratado: três meses de suspensão ou dois meses de atraso. E nulidade: interesse público antes de anular, seis meses de modulação, indenização sem culpa do contratado.
+THALITA: Muito bem. Agora vamos treinar tudo isso com as questões comentadas no estilo FCC, parte um.

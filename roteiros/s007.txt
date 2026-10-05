@@ -4,63 +4,61 @@ SEGMENTO s007
 * Também com o "a" de aquele, aquela, aquilo e a qual
 * Condição dupla: regente pede "a" + regido aceita artigo
 * Falta um dos dois: não há crase
-ANTONIO: Olá, pessoal, bem-vindos! Esta é a aula três do nosso curso, de Língua Portuguesa, na parte de gramática aplicada, o núcleo da FCC. Hoje vamos de crase, depois pontuação e pronomes, concordância verbal e nominal, e fechamos com flexão, vozes do verbo e correlação de tempos e modos. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora. Vou trazer a lei, a regra em paráfrase e os exemplos concretos, para a teoria não ficar solta.
-BRUNO: Eu sou o Bruno, especialista em FCC. Meu papel é mostrar como a banca cobra e onde ela arma as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira como vocês. Vou perguntar o que vocês perguntariam e, de vez em quando, arriscar uma resposta errada para alguém me corrigir.
-ANTONIO: Combinado. Então vamos ao conceito. Crase é a fusão de duas vogais iguais: a preposição "a", exigida por quem rege, com o artigo feminino "a" ou "as". Também acontece com o "a" inicial de aquele, aquela e aquilo, e de a qual e as quais. O acento grave só sinaliza essa fusão.
+FRANCISCA: Olá, pessoal, bem-vindos! Esta é a aula três do nosso curso, de Língua Portuguesa, na parte de gramática aplicada, o núcleo da FCC. Hoje vamos de crase, depois pontuação e pronomes, concordância verbal e nominal, e fechamos com flexão, vozes do verbo e correlação de tempos e modos. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Combinado. Então vamos ao conceito. Crase é a fusão de duas vogais iguais: a preposição "a", exigida por quem rege, com o artigo feminino "a" ou "as". Também acontece com o "a" inicial de aquele, aquela e aquilo, e de a qual e as quais. O acento grave só sinaliza essa fusão.
 THALITA: Então não é um acento que se coloca antes de toda palavra feminina, certo?
 FRANCISCA: Certo, e esse é o maior erro de quem estuda decorando. A crase é fenômeno de regência. A análise começa pelo termo anterior, que pode ser um verbo, um nome ou uma locução. Se ele exige a preposição "a", aí sim você olha o termo seguinte.
-BRUNO: Resumindo numa condição dupla. Primeiro, o regente pede a preposição. Segundo, o regido é feminino e aceita o artigo. Faltou uma das duas, não tem crase. A FCC adora dar uma frase em que só existe o artigo, sem preposição, e pôr o acento mesmo assim.
-THALITA: Dá um exemplo?
-ANTONIO: Pense em começar a sessão. O verbo começar, nesse sentido, não pede preposição. Então o "a" é só artigo, e não há crase. Já em comparecer à audiência, o verbo comparecer pede a preposição, e audiência aceita artigo. Preposição mais artigo: crase.
+THALITA: Resumindo numa condição dupla. Primeiro, o regente pede a preposição. Segundo, o regido é feminino e aceita o artigo. Faltou uma das duas, não tem crase. A FCC adora dar uma frase em que só existe o artigo, sem preposição, e pôr o acento mesmo assim.
+FRANCISCA: Dá um exemplo?
+THALITA: Pense em começar a sessão. O verbo começar, nesse sentido, não pede preposição. Então o "a" é só artigo, e não há crase. Já em comparecer à audiência, o verbo comparecer pede a preposição, e audiência aceita artigo. Preposição mais artigo: crase.
 FRANCISCA: Visualize como um fluxograma. Pergunta um: o regente exige a preposição "a"? Se não, sem crase. Se sim, pergunta dois: o regido aceita o artigo, ou é aquele ou a qual? Se não, só preposição, sem crase. Se sim, a mais a vira com acento grave.
 THALITA: Então vou resumir: primeiro olho para trás, depois para a frente. Primeiro o regente, depois o regido. Isso eu consigo guardar.
-BRUNO: Guarde também que a ordem importa na prova. Quem começa olhando a palavra feminina e coloca o acento por reflexo cai em quase todas as questões.
+FRANCISCA: Guarde também que a ordem importa na prova. Quem começa olhando a palavra feminina e coloca o acento por reflexo cai em quase todas as questões.
 == SLIDE: Testes práticos e crase obrigatória
 * Troca pelo masculino: se surgir "ao", há crase
 * Vou a, volto da: com "da" há crase; com "de", não
 * Aquele vira "a este"; à qual vira "ao qual"
 * Obrigatória: regência + artigo, locuções femininas, horas
-ANTONIO: Agora quatro testes práticos. O primeiro é a troca pelo masculino. Se ao trocar a palavra feminina por uma masculina aparecer "ao", então há crase. Comparecer à audiência vira comparecer ao julgamento. Aparece "ao", logo, crase.
-THALITA: E em começar a sessão? Troco por começar o julgamento e não aparece "ao", só "o". Então não tem preposição, só artigo.
-ANTONIO: Perfeito, você mesma respondeu.
+THALITA: Agora quatro testes práticos. O primeiro é a troca pelo masculino. Se ao trocar a palavra feminina por uma masculina aparecer "ao", então há crase. Comparecer à audiência vira comparecer ao julgamento. Aparece "ao", logo, crase.
+FRANCISCA: E em começar a sessão? Troco por começar o julgamento e não aparece "ao", só "o". Então não tem preposição, só artigo.
+THALITA: Perfeito, você mesma respondeu.
 FRANCISCA: O segundo teste serve para lugares: vou a, volto da. Se você diz volto da, então há crase. Se diz volto de, não há. Volto da Bahia, logo, vou à Bahia. Volto de Belém, logo, vou a Belém. E o Pará e o Amapá levam artigo, então vou ao Pará e ao Amapá.
-BRUNO: O terceiro teste é com o demonstrativo: àquele vira "a este". Refiro-me àquele parecer, refiro-me a este parecer. O quarto é com o relativo: à qual vira "ao qual". A norma à qual aludi, o artigo ao qual aludi.
-THALITA: Ok. Agora, quando a crase é obrigatória? Tenho medo de esquecer algum caso.
-ANTONIO: Vamos pelos grupos. Primeiro, regência mais artigo. Obedeceu às normas, fez referência à lei, foi favorável à proposta. O regente pode ser verbo ou nome.
+THALITA: O terceiro teste é com o demonstrativo: àquele vira "a este". Refiro-me àquele parecer, refiro-me a este parecer. O quarto é com o relativo: à qual vira "ao qual". A norma à qual aludi, o artigo ao qual aludi.
+FRANCISCA: Ok. Agora, quando a crase é obrigatória? Tenho medo de esquecer algum caso.
+THALITA: Vamos pelos grupos. Primeiro, regência mais artigo. Obedeceu às normas, fez referência à lei, foi favorável à proposta. O regente pode ser verbo ou nome.
 FRANCISCA: Segundo, locuções adverbiais femininas: às vezes, à noite, à tarde, às pressas, à vontade, à toa, à risca, à revelia. Cuidado com às vezes, no sentido de de vez em quando, que leva acento. Já "as vezes em que faltou" é substantivo, e não leva.
-BRUNO: Terceiro, locuções prepositivas: à custa de, à frente de, à procura de, à espera de, à mercê de, à luz de, à exceção de. Por exemplo, decidiu à luz da jurisprudência. E quarto, locuções conjuntivas: à medida que e à proporção que.
-THALITA: Vi uma pegadinha aqui, né?
-BRUNO: Vi, é clássica. À medida que indica proporção, igual a à proporção que. Na medida em que indica causa, igual a já que. Estão erradas "a medida que" sem acento, "à medida em que" e "na medida que".
+THALITA: Terceiro, locuções prepositivas: à custa de, à frente de, à procura de, à espera de, à mercê de, à luz de, à exceção de. Por exemplo, decidiu à luz da jurisprudência. E quarto, locuções conjuntivas: à medida que e à proporção que.
+FRANCISCA: Vi uma pegadinha aqui, né?
+THALITA: Vi, é clássica. À medida que indica proporção, igual a à proporção que. Na medida em que indica causa, igual a já que. Estão erradas "a medida que" sem acento, "à medida em que" e "na medida que".
 == SLIDE: Mais casos obrigatórios
 * Horas determinadas: à uma, às duas, à meia-noite
 * À moda de, mesmo implícita: única crase antes de masculino
 * Àquele, àquela, àquilo com regente que pede "a"
 * À qual; "a" = aquela antes de "de" ou "que"
-ANTONIO: Continuando a lista da crase obrigatória. Quinto, horas determinadas. Às catorze horas, à uma hora, à meia-noite, e das oito às dezoito horas. Horário exato leva crase.
+FRANCISCA: Continuando a lista da crase obrigatória. Quinto, horas determinadas. Às catorze horas, à uma hora, à meia-noite, e das oito às dezoito horas. Horário exato leva crase.
 THALITA: E se eu disser "daqui a uma hora"?
 FRANCISCA: Aí é tempo futuro, só preposição, sem crase. Guarde isso, voltamos a esse ponto daqui a pouco.
-BRUNO: Sexto caso, e um que a FCC ama: à moda de, mesmo quando a expressão está implícita. Bife à milanesa, gol à Pelé. É a única crase antes de palavra masculina, porque quem rege é a palavra oculta moda.
-THALITA: Então a crase não está no masculino. Está na moda que sumiu.
-ANTONIO: Exatamente. Sétimo, aquele, aquela e aquilo. Assisti àquele julgamento. Prefiro este parecer àquele. Só que atenção: só há crase se o regente pedir a preposição "a". Se ele não pedir, fica sem acento.
+THALITA: Sexto caso, e um que a FCC ama: à moda de, mesmo quando a expressão está implícita. Bife à milanesa, gol à Pelé. É a única crase antes de palavra masculina, porque quem rege é a palavra oculta moda.
+FRANCISCA: Então a crase não está no masculino. Está na moda que sumiu.
+THALITA: Exatamente. Sétimo, aquele, aquela e aquilo. Assisti àquele julgamento. Prefiro este parecer àquele. Só que atenção: só há crase se o regente pedir a preposição "a". Se ele não pedir, fica sem acento.
 FRANCISCA: Oitavo, a qual e as quais. A súmula à qual o parecer alude. O verbo aludir pede a, então a mais a qual dá à qual. Lembre do teste: ao qual.
-BRUNO: E o nono é o mais traiçoeiro. O "a" que significa aquela, antes de "de" ou "que". Esta decisão é semelhante à do TST. Minha tese é igual à que você defendeu. Existe uma elipse: semelhante à decisão do TST.
-THALITA: Ou seja, "à do TST" é "à decisão do TST". E "à que você defendeu" é "à tese que você defendeu"?
-FRANCISCA: Isso. A palavra feminina sumiu, mas o artigo e a preposição continuam lá, e a crase aparece.
-BRUNO: Gravem esse trio: horas, moda de e à do ou à que. Costuma cair quando a frase tem um "a" solto antes de "de" ou "que".
+THALITA: E o nono é o mais traiçoeiro. O "a" que significa aquela, antes de "de" ou "que". Esta decisão é semelhante à do TST. Minha tese é igual à que você defendeu. Existe uma elipse: semelhante à decisão do TST.
+FRANCISCA: Ou seja, "à do TST" é "à decisão do TST". E "à que você defendeu" é "à tese que você defendeu"?
+THALITA: Isso. A palavra feminina sumiu, mas o artigo e a preposição continuam lá, e a crase aparece.
+FRANCISCA: Gravem esse trio: horas, moda de e à do ou à que. Costuma cair quando a frase tem um "a" solto antes de "de" ou "que".
 == SLIDE: Crase proibida, facultativa e pegadinhas
 * Proibida: masculino, verbo, pronomes, plural, repetição
 * Há (tempo passado) x a (futuro ou distância)
 * Facultativa: possessivo feminino singular, nome de mulher, até
 * Casa, terra, distância: determinada leva crase
-ANTONIO: Agora a crase proibida. Primeiro, antes de palavra masculina: andou a cavalo, pagamento a prazo. Segundo, antes de verbo: começou a chover, a partir de amanhã. Terceiro, antes de pronomes pessoais e de tratamento: entregou a ela, requeiro a Vossa Excelência, dirigi-me a você. A exceção é senhora e senhorita: informo à senhora.
-THALITA: E antes de qualquer, cada, ninguém, esta e essa também não vai.
-FRANCISCA: Certo, indefinidos e demonstrativos como esta e isto repelem artigo. Também não há crase com "a" no singular diante de plural, como em referiu-se a normas internas, nem em palavras repetidas, como cara a cara, gota a gota. Nem antes de "uma" e numerais que não sejam horário: chegou a uma conclusão, de dois a cinco de outubro.
-BRUNO: Também não depois de outra preposição, exceto até. Perante a lei, após a audiência. Nem antes de cidade sem determinante, vou a Macapá, nem antes de que, quem e cujo: a lei a que me refiro, a quem me dirijo.
-ANTONIO: E tempo futuro e distância pedem só a preposição: daqui a duas semanas, a dois quilômetros. Já tempo passado é "há": tramita há dois anos. "Há dois anos atrás" é redundante.
-THALITA: Agora a facultativa. Possessivo feminino singular: refiro-me à sua proposta ou a sua proposta. Nome próprio de mulher: entreguei à Carla ou a Carla. Depois de até: foi até à porta ou até a porta. Tudo certo.
-BRUNO: Mas há limites. Possessivo no plural é às suas propostas ou a suas propostas, nunca "à suas". E se o possessivo vira substantivo, como em prefiro esta tese à sua, a crase é obrigatória.
+THALITA: Agora a crase proibida. Primeiro, antes de palavra masculina: andou a cavalo, pagamento a prazo. Segundo, antes de verbo: começou a chover, a partir de amanhã. Terceiro, antes de pronomes pessoais e de tratamento: entregou a ela, requeiro a Vossa Excelência, dirigi-me a você. A exceção é senhora e senhorita: informo à senhora.
+FRANCISCA: E antes de qualquer, cada, ninguém, esta e essa também não vai.
+THALITA: Certo, indefinidos e demonstrativos como esta e isto repelem artigo. Também não há crase com "a" no singular diante de plural, como em referiu-se a normas internas, nem em palavras repetidas, como cara a cara, gota a gota. Nem antes de "uma" e numerais que não sejam horário: chegou a uma conclusão, de dois a cinco de outubro.
+FRANCISCA: Também não depois de outra preposição, exceto até. Perante a lei, após a audiência. Nem antes de cidade sem determinante, vou a Macapá, nem antes de que, quem e cujo: a lei a que me refiro, a quem me dirijo.
+THALITA: E tempo futuro e distância pedem só a preposição: daqui a duas semanas, a dois quilômetros. Já tempo passado é "há": tramita há dois anos. "Há dois anos atrás" é redundante.
+FRANCISCA: Agora a facultativa. Possessivo feminino singular: refiro-me à sua proposta ou a sua proposta. Nome próprio de mulher: entreguei à Carla ou a Carla. Depois de até: foi até à porta ou até a porta. Tudo certo.
+THALITA: Mas há limites. Possessivo no plural é às suas propostas ou a suas propostas, nunca "à suas". E se o possessivo vira substantivo, como em prefiro esta tese à sua, a crase é obrigatória.
 FRANCISCA: Nos casos especiais, vale o critério da determinação. Trabalham a distância, sem crase; ficou à distância de dez metros, com crase. Voltou a casa, o próprio lar; voltou à casa dos pais, especificada. Os marinheiros desceram a terra, oposto de a bordo; voltou à terra natal, com crase.
-BRUNO: As pegadinhas mais frequentes da FCC: crase antes de verbo, à mais plural, à Vossa Excelência, a que contra à qual, o àquele esquecido, e daqui à indevido. Agora, no exemplo final: às nove horas, o oficial dirigiu-se àquela vara, entregou a intimação à servidora e voltou a pé a casa. Cada acento ou ausência de acento se explica por uma regra que acabamos de ver.
-ANTONIO: Bom, com a crase resolvida, no próximo tema vamos para pontuação e pronomes. Vírgula, relativos e colocação pronominal.
+THALITA: As pegadinhas mais frequentes da FCC: crase antes de verbo, à mais plural, à Vossa Excelência, a que contra à qual, o àquele esquecido, e daqui à indevido. Agora, no exemplo final: às nove horas, o oficial dirigiu-se àquela vara, entregou a intimação à servidora e voltou a pé a casa. Cada acento ou ausência de acento se explica por uma regra que acabamos de ver.
+FRANCISCA: Bom, com a crase resolvida, no próximo tema vamos para pontuação e pronomes. Vírgula, relativos e colocação pronominal.

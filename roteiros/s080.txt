@@ -4,108 +4,108 @@ SEGMENTO s080
 * Interdito proibitório em greve: Justiça do Trabalho (SV 23)
 * Execução de ofício: só o objeto da condenação (SV 53)
 * Gabarito: C
-ANTONIO: Vimos as funções essenciais à Justiça. Agora vamos treinar, com sete questões comentadas no estilo FCC. Questão um. Márcio, empregado da Alfa, sofreu acidente de trabalho e ajuizou ação de indenização por danos morais e materiais contra a empregadora. Durante greve, a Alfa ajuizou interdito proibitório para impedir a ocupação da sede. E uma sentença trabalhista reconheceu o vínculo de Tereza e condenou a empresa a pagar horas extras. Pela Constituição e pelas súmulas vinculantes, qual alternativa é correta?
+FRANCISCA: Vimos as funções essenciais à Justiça. Agora vamos treinar, com sete questões comentadas no estilo FCC. Questão um. Márcio, empregado da Alfa, sofreu acidente de trabalho e ajuizou ação de indenização por danos morais e materiais contra a empregadora. Durante greve, a Alfa ajuizou interdito proibitório para impedir a ocupação da sede. E uma sentença trabalhista reconheceu o vínculo de Tereza e condenou a empresa a pagar horas extras. Pela Constituição e pelas súmulas vinculantes, qual alternativa é correta?
 THALITA: Muita coisa junta. Pausa para você pensar, que eu vou tentar também. Eu iria na alternativa A: acidente de trabalho, Justiça estadual.
-BRUNO: Caiu na pegadinha clássica. A alternativa A é errada. A ação de indenização do empregado contra o empregador por acidente de trabalho é da Justiça do Trabalho, artigo cento e catorze, inciso seis, e Súmula Vinculante vinte e dois. A Justiça estadual julga a ação acidentária contra o INSS.
-FRANCISCA: A alternativa B diz que o interdito proibitório é da Justiça comum, por ser possessória civil. Errada. A Súmula Vinculante vinte e três atribui à Justiça do Trabalho a possessória ajuizada em decorrência de greve de trabalhadores da iniciativa privada.
-ANTONIO: A alternativa C junta tudo: a Justiça do Trabalho julga a ação de Márcio, julga o interdito proibitório e executa de ofício as contribuições previdenciárias sobre as horas extras da condenação de Tereza. Correta: artigo cento e catorze, incisos seis e oito, e as súmulas vinculantes vinte e dois, vinte e três e cinquenta e três.
+FRANCISCA: Caiu na pegadinha clássica. A alternativa A é errada. A ação de indenização do empregado contra o empregador por acidente de trabalho é da Justiça do Trabalho, artigo cento e catorze, inciso seis, e Súmula Vinculante vinte e dois. A Justiça estadual julga a ação acidentária contra o INSS.
+THALITA: A alternativa B diz que o interdito proibitório é da Justiça comum, por ser possessória civil. Errada. A Súmula Vinculante vinte e três atribui à Justiça do Trabalho a possessória ajuizada em decorrência de greve de trabalhadores da iniciativa privada.
+FRANCISCA: A alternativa C junta tudo: a Justiça do Trabalho julga a ação de Márcio, julga o interdito proibitório e executa de ofício as contribuições previdenciárias sobre as horas extras da condenação de Tereza. Correta: artigo cento e catorze, incisos seis e oito, e as súmulas vinculantes vinte e dois, vinte e três e cinquenta e três.
 THALITA: Mas a D fala em todos os salários do período do vínculo. Por que não serve?
-BRUNO: Porque a Súmula Vinculante cinquenta e três limita a execução de ofício às contribuições do objeto da condenação e dos acordos homologados. A parte declaratória do vínculo não gera execução de ofício.
-FRANCISCA: E a alternativa E exige que a ação tenha sido ajuizada depois da Emenda Constitucional quarenta e cinco. Errada: a Súmula Vinculante vinte e dois alcança inclusive as ações que ainda não tinham sentença de mérito em primeiro grau quando a emenda foi promulgada.
-THALITA: Macete: acidente e greve são Justiça do Trabalho, e a execução de ofício só vai até o que foi condenado. Gabarito C.
+FRANCISCA: Porque a Súmula Vinculante cinquenta e três limita a execução de ofício às contribuições do objeto da condenação e dos acordos homologados. A parte declaratória do vínculo não gera execução de ofício.
+THALITA: E a alternativa E exige que a ação tenha sido ajuizada depois da Emenda Constitucional quarenta e cinco. Errada: a Súmula Vinculante vinte e dois alcança inclusive as ações que ainda não tinham sentença de mérito em primeiro grau quando a emenda foi promulgada.
+FRANCISCA: Macete: acidente e greve são Justiça do Trabalho, e a execução de ofício só vai até o que foi condenado. Gabarito C.
 == SLIDE: Questão 2: dissídio coletivo e artigo 114
 * Dissídio coletivo econômico exige comum acordo (art. 114, § 2º)
 * Árbitros: as partes PODEM eleger (art. 114, § 1º)
 * Penalidades administrativas: Justiça do Trabalho (art. 114, VII)
 * Greve essencial: MPT pode ajuizar (art. 114, § 3º)
 * Gabarito: E
-ANTONIO: Questão dois. Quatro afirmações sobre o artigo cento e catorze. Um: recusando-se qualquer das partes à negociação ou à arbitragem, qualquer delas, isoladamente, pode ajuizar dissídio coletivo econômico. Dois: compete à Justiça do Trabalho julgar as ações sobre penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização. Três: em greve de atividade essencial, com possibilidade de lesão ao interesse público, o Ministério Público do Trabalho pode ajuizar dissídio coletivo. Quatro: frustrada a negociação, as partes devem eleger árbitros antes do dissídio. Qual conjunto está correto? A, um e dois. B, um e quatro. C, dois e quatro. D, três e quatro. E, dois e três.
-THALITA: Pausa para pensar. Eu diria um e dois, alternativa A.
-FRANCISCA: O item um está errado. O parágrafo segundo exige comum acordo das partes, e o STF considerou esse pressuposto constitucional. Então a alternativa A cai, e a B, que também traz o um, cai junto.
-BRUNO: O item quatro também é falso. O parágrafo primeiro diz que as partes poderão eleger árbitros: é faculdade, não dever. Por isso as alternativas B, C e D, que incluem o quatro, estão erradas.
+THALITA: Questão dois. Quatro afirmações sobre o artigo cento e catorze. Um: recusando-se qualquer das partes à negociação ou à arbitragem, qualquer delas, isoladamente, pode ajuizar dissídio coletivo econômico. Dois: compete à Justiça do Trabalho julgar as ações sobre penalidades administrativas impostas aos empregadores pelos órgãos de fiscalização. Três: em greve de atividade essencial, com possibilidade de lesão ao interesse público, o Ministério Público do Trabalho pode ajuizar dissídio coletivo. Quatro: frustrada a negociação, as partes devem eleger árbitros antes do dissídio. Qual conjunto está correto? A, um e dois. B, um e quatro. C, dois e quatro. D, três e quatro. E, dois e três.
+FRANCISCA: Pausa para pensar. Eu diria um e dois, alternativa A.
+THALITA: O item um está errado. O parágrafo segundo exige comum acordo das partes, e o STF considerou esse pressuposto constitucional. Então a alternativa A cai, e a B, que também traz o um, cai junto.
+FRANCISCA: O item quatro também é falso. O parágrafo primeiro diz que as partes poderão eleger árbitros: é faculdade, não dever. Por isso as alternativas B, C e D, que incluem o quatro, estão erradas.
 THALITA: Então sobram o dois e o três?
-ANTONIO: Sobram. O item dois reproduz o inciso sete do artigo cento e catorze. O item três reproduz o parágrafo terceiro. Gabarito E.
+FRANCISCA: Sobram. O item dois reproduz o inciso sete do artigo cento e catorze. O item três reproduz o parágrafo terceiro. Gabarito E.
 THALITA: Macete: dissídio econômico, comum acordo; arbitragem, poderão. A FCC adora trocar essas palavrinhas.
-BRUNO: Dica de prova: em questão de afirmações, ache um item falso que elimine várias alternativas. Aqui, o item quatro eliminava três de uma vez.
-FRANCISCA: E no item três, repare na divisão: o Ministério Público do Trabalho provoca, e a Justiça do Trabalho decide o conflito.
+FRANCISCA: Dica de prova: em questão de afirmações, ache um item falso que elimine várias alternativas. Aqui, o item quatro eliminava três de uma vez.
+THALITA: E no item três, repare na divisão: o Ministério Público do Trabalho provoca, e a Justiça do Trabalho decide o conflito.
 == SLIDE: Questão 3: composição dos TRTs
 * TRT: mínimo de 7 juízes, nomeados pelo Presidente, sem Senado
 * Idade: mais de 30 e menos de 70 anos (EC 122/2022)
 * Justiça itinerante: INSTALARÃO; Câmaras regionais: PODERÃO
 * Quinto constitucional: mais de 10 anos de atividade
 * Gabarito: A
-ANTONIO: Questão três. Os Tribunais Regionais do Trabalho: A, compõem-se de no mínimo sete juízes, recrutados quando possível na região, nomeados pelo Presidente entre brasileiros com mais de trinta e menos de setenta anos. B, sete juízes nomeados pelo Presidente após aprovação da escolha por maioria absoluta do Senado. C, poderão instalar a justiça itinerante e deverão funcionar descentralizadamente, em Câmaras regionais. D, um quinto dos lugares para advogados e membros do Ministério Público do Trabalho com mais de cinco anos de atividade. E, lugares da carreira preenchidos só por merecimento, mediante promoção.
+FRANCISCA: Questão três. Os Tribunais Regionais do Trabalho: A, compõem-se de no mínimo sete juízes, recrutados quando possível na região, nomeados pelo Presidente entre brasileiros com mais de trinta e menos de setenta anos. B, sete juízes nomeados pelo Presidente após aprovação da escolha por maioria absoluta do Senado. C, poderão instalar a justiça itinerante e deverão funcionar descentralizadamente, em Câmaras regionais. D, um quinto dos lugares para advogados e membros do Ministério Público do Trabalho com mais de cinco anos de atividade. E, lugares da carreira preenchidos só por merecimento, mediante promoção.
 THALITA: Pausa para pensar! Eu marcaria a B, porque todo tribunal passa pelo Senado.
 FRANCISCA: Errada, Thalita. Não há aprovação do Senado para juízes de TRT. A sabatina existe para o TST.
-BRUNO: A alternativa A é a correta: artigo cento e quinze, caput, com idade máxima de setenta anos depois da Emenda Constitucional cento e vinte e dois, de dois mil e vinte e dois.
-ANTONIO: A C inverte os verbos. Os TRTs instalarão a justiça itinerante, parágrafo primeiro, e poderão funcionar descentralizadamente em Câmaras regionais, parágrafo segundo.
+THALITA: A alternativa A é a correta: artigo cento e quinze, caput, com idade máxima de setenta anos depois da Emenda Constitucional cento e vinte e dois, de dois mil e vinte e dois.
+FRANCISCA: A C inverte os verbos. Os TRTs instalarão a justiça itinerante, parágrafo primeiro, e poderão funcionar descentralizadamente em Câmaras regionais, parágrafo segundo.
 THALITA: Instalarão a itinerante, poderão as Câmaras. Guardei!
 FRANCISCA: A D erra no tempo: são mais de dez anos de efetiva atividade, artigo cento e quinze, inciso um, combinado com o artigo noventa e quatro.
-BRUNO: E a E diz que as vagas da carreira são só por merecimento. Errado: a promoção é por antiguidade e merecimento, alternadamente, artigo cento e quinze, inciso dois.
-THALITA: Então o gabarito é A: sete juízes, sem Senado.
-ANTONIO: Isso. Fixe: TRT sem Senado; TST com sabatina.
+THALITA: E a E diz que as vagas da carreira são só por merecimento. Errado: a promoção é por antiguidade e merecimento, alternadamente, artigo cento e quinze, inciso dois.
+FRANCISCA: Então o gabarito é A: sete juízes, sem Senado.
+THALITA: Isso. Fixe: TRT sem Senado; TST com sabatina.
 == SLIDE: Questão 4: Conselho Superior da Justiça do Trabalho
 * CSJT funciona junto ao TST (art. 111-A, § 2º, II)
 * Supervisão: 1º e 2º graus, não o próprio TST
 * Decisões do CSJT têm efeito vinculante
 * ENAMAT regulamenta cursos, não decide promoções
 * Gabarito: D
-BRUNO: Questão quatro. Funcionará junto ao Tribunal Superior do Trabalho: A, a Escola Nacional, a ENAMAT, com supervisão administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus. B, o Conselho Superior, com decisões meramente recomendatórias. C, o Conselho Superior, com supervisão de todos os órgãos, inclusive do próprio TST. D, o Conselho Superior, com supervisão administrativa, orçamentária, financeira e patrimonial de primeiro e segundo graus, órgão central do sistema, com decisões vinculantes. E, a Escola, com decisões vinculantes sobre promoção de juízes.
+FRANCISCA: Questão quatro. Funcionará junto ao Tribunal Superior do Trabalho: A, a Escola Nacional, a ENAMAT, com supervisão administrativa, orçamentária, financeira e patrimonial da Justiça do Trabalho de primeiro e segundo graus. B, o Conselho Superior, com decisões meramente recomendatórias. C, o Conselho Superior, com supervisão de todos os órgãos, inclusive do próprio TST. D, o Conselho Superior, com supervisão administrativa, orçamentária, financeira e patrimonial de primeiro e segundo graus, órgão central do sistema, com decisões vinculantes. E, a Escola, com decisões vinculantes sobre promoção de juízes.
 THALITA: Pausa para pensar. Eu iria na C: supervisão de todos os órgãos.
-ANTONIO: Quase. A alternativa C erra porque a supervisão alcança a Justiça do Trabalho de primeiro e segundo graus, não o próprio TST.
-FRANCISCA: A alternativa A troca as funções. A escola, a ENAMAT, regulamenta, entre outras coisas, os cursos oficiais para ingresso e promoção. Quem supervisiona é o Conselho Superior.
-BRUNO: A alternativa B diz que as decisões são recomendatórias. Errada: o artigo cento e onze-A, parágrafo segundo, inciso dois, dá efeito vinculante às decisões do Conselho.
+FRANCISCA: Quase. A alternativa C erra porque a supervisão alcança a Justiça do Trabalho de primeiro e segundo graus, não o próprio TST.
+THALITA: A alternativa A troca as funções. A escola, a ENAMAT, regulamenta, entre outras coisas, os cursos oficiais para ingresso e promoção. Quem supervisiona é o Conselho Superior.
+FRANCISCA: A alternativa B diz que as decisões são recomendatórias. Errada: o artigo cento e onze-A, parágrafo segundo, inciso dois, dá efeito vinculante às decisões do Conselho.
 THALITA: Então a D, que traz todas as palavras certas?
 FRANCISCA: Isso. É a paráfrase fiel do mesmo dispositivo: supervisão administrativa, orçamentária, financeira e patrimonial, primeiro e segundo graus, órgão central, efeito vinculante.
-ANTONIO: E na E, a escola não decide promoções, nem tem decisões vinculantes previstas na Constituição. Gabarito D.
-THALITA: Macete: Conselho Superior vincula, e só de primeiro e segundo graus. A escola cuida de cursos.
-BRUNO: A FCC troca o órgão. Leia sempre o sujeito da frase antes do verbo.
+THALITA: E na E, a escola não decide promoções, nem tem decisões vinculantes previstas na Constituição. Gabarito D.
+FRANCISCA: Macete: Conselho Superior vincula, e só de primeiro e segundo graus. A escola cuida de cursos.
+THALITA: A FCC troca o órgão. Leia sempre o sujeito da frase antes do verbo.
 == SLIDE: Questão 5: Conselho Nacional de Justiça
 * CNJ: mandato de 2 anos, uma recondução (art. 103-B)
 * TRT e juiz do trabalho no CNJ: indicados pelo TST
 * Corregedor: Ministro do STJ
 * Revisão disciplinar: processos julgados há menos de 1 ano
 * Oficiam: PGR e Presidente do CF da OAB. Gabarito: B
-ANTONIO: Questão cinco, sobre o Conselho Nacional de Justiça. A: quinze membros, mandato de três anos, vedada a recondução. B: o juiz de TRT e o juiz do trabalho que o integram são indicados pelo TST. C: o Ministro-Corregedor é Ministro do TST, excluído da distribuição de processos naquele Tribunal. D: compete rever processos disciplinares julgados há menos de dois anos. E: oficiam junto ao Conselho o Advogado-Geral da União e o Presidente do Conselho Federal da OAB.
+FRANCISCA: Questão cinco, sobre o Conselho Nacional de Justiça. A: quinze membros, mandato de três anos, vedada a recondução. B: o juiz de TRT e o juiz do trabalho que o integram são indicados pelo TST. C: o Ministro-Corregedor é Ministro do TST, excluído da distribuição de processos naquele Tribunal. D: compete rever processos disciplinares julgados há menos de dois anos. E: oficiam junto ao Conselho o Advogado-Geral da União e o Presidente do Conselho Federal da OAB.
 THALITA: Pausa para pensar. Eu marco E: o Advogado-Geral oficia, né?
-BRUNO: Pegadinha. Quem oficia junto ao CNJ é o Procurador-Geral da República e o Presidente do Conselho Federal da OAB, artigo cento e três-B, parágrafo sexto. Não o Advogado-Geral.
-FRANCISCA: A alternativa A erra o mandato: são dois anos, admitida uma recondução, no caput do artigo cento e três-B.
-THALITA: Então o corregedor, na alternativa C, é ministro do TST? Achei que fosse do STJ.
-FRANCISCA: Achou certo. O corregedor é Ministro do STJ, parágrafo quinto. A alternativa C está errada.
-ANTONIO: A D troca o prazo. Podem ser revistos os processos disciplinares julgados há menos de um ano, parágrafo quarto, inciso cinco.
-BRUNO: Sobra a B, correta: incisos oito e nove do artigo cento e três-B. O juiz de TRT e o juiz do trabalho no Conselho são indicados pelo TST.
+FRANCISCA: Pegadinha. Quem oficia junto ao CNJ é o Procurador-Geral da República e o Presidente do Conselho Federal da OAB, artigo cento e três-B, parágrafo sexto. Não o Advogado-Geral.
+THALITA: A alternativa A erra o mandato: são dois anos, admitida uma recondução, no caput do artigo cento e três-B.
+FRANCISCA: Então o corregedor, na alternativa C, é ministro do TST? Achei que fosse do STJ.
+THALITA: Achou certo. O corregedor é Ministro do STJ, parágrafo quinto. A alternativa C está errada.
+FRANCISCA: A D troca o prazo. Podem ser revistos os processos disciplinares julgados há menos de um ano, parágrafo quarto, inciso cinco.
+THALITA: Sobra a B, correta: incisos oito e nove do artigo cento e três-B. O juiz de TRT e o juiz do trabalho no Conselho são indicados pelo TST.
 FRANCISCA: Faça o paralelo com o CNMP. O CNJ tem quinze membros e é presidido pelo Presidente do STF. O CNMP tem catorze e é presidido pelo Procurador-Geral da República.
 THALITA: Anotei: dois anos com uma recondução, corregedor do STJ, revisão de menos de um ano.
-ANTONIO: Gabarito B. Comparativo guardado, e vamos adiante.
+FRANCISCA: Gabarito B. Comparativo guardado, e vamos adiante.
 == SLIDE: Questão 6: Estatuto da Magistratura (art. 93)
 * Concurso: OAB em todas as fases, 3 anos de atividade jurídica
 * Recusa do mais antigo: 2/3 dos membros
 * Órgão especial: facultativo, tribunais com mais de 25 julgadores
 * Férias coletivas em 2º grau: vedadas
 * Promoção obrigatória: 3 vezes seguidas ou 5 alternadas. Gabarito: E
-BRUNO: Questão seis. Estatuto da Magistratura, artigo noventa e três. A: ingresso com participação da OAB só na fase de títulos, e dois anos de atividade jurídica. B: na antiguidade, o tribunal só pode recusar o juiz mais antigo por maioria absoluta. C: em tribunais com mais de quinze julgadores, órgão especial de onze a vinte e cinco membros. D: atividade ininterrupta, permitidas férias coletivas em tribunais de segundo grau, com plantão. E: é obrigatória a promoção do juiz que figure três vezes consecutivas ou cinco alternadas em lista de merecimento.
-THALITA: Pausa para pensar. Eu escolheria a D: o plantão resolve.
-ANTONIO: A D está errada: são vedadas férias coletivas nos juízos e tribunais de segundo grau, artigo noventa e três, inciso doze.
+THALITA: Questão seis. Estatuto da Magistratura, artigo noventa e três. A: ingresso com participação da OAB só na fase de títulos, e dois anos de atividade jurídica. B: na antiguidade, o tribunal só pode recusar o juiz mais antigo por maioria absoluta. C: em tribunais com mais de quinze julgadores, órgão especial de onze a vinte e cinco membros. D: atividade ininterrupta, permitidas férias coletivas em tribunais de segundo grau, com plantão. E: é obrigatória a promoção do juiz que figure três vezes consecutivas ou cinco alternadas em lista de merecimento.
+FRANCISCA: Pausa para pensar. Eu escolheria a D: o plantão resolve.
+THALITA: A D está errada: são vedadas férias coletivas nos juízos e tribunais de segundo grau, artigo noventa e três, inciso doze.
 FRANCISCA: A alternativa A erra duas vezes. A OAB participa de todas as fases do concurso, e exigem-se três anos de atividade jurídica, artigo noventa e três, inciso um.
 THALITA: E a B? Maioria absoluta parece razoável.
-BRUNO: Parece, mas a recusa do mais antigo exige dois terços dos membros do tribunal, inciso dois, alínea d.
-FRANCISCA: Na C, o órgão especial é facultativo, a Constituição diz poderá, e cabe em tribunais com mais de vinte e cinco julgadores, artigo noventa e três, inciso onze.
-ANTONIO: Sobra a E, correta: inciso dois, alínea a. É obrigatória a promoção do juiz que figure por três vezes consecutivas ou cinco alternadas na lista de merecimento.
+FRANCISCA: Parece, mas a recusa do mais antigo exige dois terços dos membros do tribunal, inciso dois, alínea d.
+THALITA: Na C, o órgão especial é facultativo, a Constituição diz poderá, e cabe em tribunais com mais de vinte e cinco julgadores, artigo noventa e três, inciso onze.
+FRANCISCA: Sobra a E, correta: inciso dois, alínea a. É obrigatória a promoção do juiz que figure por três vezes consecutivas ou cinco alternadas na lista de merecimento.
 THALITA: Três consecutivas ou cinco alternadas, dois terços para recusar, três anos de atividade, vinte e cinco julgadores.
-BRUNO: Perfeito. É um bom resumo dos números do artigo noventa e três.
+FRANCISCA: Perfeito. É um bom resumo dos números do artigo noventa e três.
 == SLIDE: Questão 7: garantias e vedações da magistratura
 * Vitaliciedade no 1º grau: após 2 anos de exercício (art. 95, I)
 * Em estágio, a perda do cargo depende do tribunal
 * Quarentena de 3 anos só no juízo ou tribunal de onde se afastou
 * Inamovibilidade e irredutibilidade não dependem da vitaliciedade
 * Gabarito: C
-ANTONIO: Questão sete. Carla, juíza do trabalho substituta com um ano e meio de exercício, responde a processo administrativo no Tribunal Regional ao qual está vinculada. Bruno, desembargador do quinto constitucional, aposentou-se e pretende advogar. A: Carla só perde o cargo por sentença transitada em julgado, pois a vitaliciedade é adquirida na posse. B: Bruno não pode advogar em nenhum juízo ou tribunal antes de três anos. C: Carla pode perder o cargo por deliberação do tribunal a que está vinculada, e Bruno não pode advogar no tribunal do qual se afastou antes de três anos. D: Carla pode perder o cargo por deliberação do CNJ, por dois terços, e Bruno está livre para advogar. E: Carla, por não ser vitalícia, não goza de inamovibilidade nem de irredutibilidade de subsídio.
-THALITA: Pausa para pensar. Eu iria na A: vitaliciedade na posse.
-FRANCISCA: No primeiro grau, a vitaliciedade vem só após dois anos de exercício, artigo noventa e cinco, inciso um. Carla tem um ano e meio, então ainda está em estágio.
-BRUNO: A alternativa B exagera na quarentena. Ela alcança apenas o juízo ou tribunal do qual o magistrado se afastou, artigo noventa e cinco, parágrafo único, inciso cinco.
+THALITA: Questão sete. Carla, juíza do trabalho substituta com um ano e meio de exercício, responde a processo administrativo no Tribunal Regional ao qual está vinculada. Bruno, desembargador do quinto constitucional, aposentou-se e pretende advogar. A: Carla só perde o cargo por sentença transitada em julgado, pois a vitaliciedade é adquirida na posse. B: Bruno não pode advogar em nenhum juízo ou tribunal antes de três anos. C: Carla pode perder o cargo por deliberação do tribunal a que está vinculada, e Bruno não pode advogar no tribunal do qual se afastou antes de três anos. D: Carla pode perder o cargo por deliberação do CNJ, por dois terços, e Bruno está livre para advogar. E: Carla, por não ser vitalícia, não goza de inamovibilidade nem de irredutibilidade de subsídio.
+FRANCISCA: Pausa para pensar. Eu iria na A: vitaliciedade na posse.
+THALITA: No primeiro grau, a vitaliciedade vem só após dois anos de exercício, artigo noventa e cinco, inciso um. Carla tem um ano e meio, então ainda está em estágio.
+FRANCISCA: A alternativa B exagera na quarentena. Ela alcança apenas o juízo ou tribunal do qual o magistrado se afastou, artigo noventa e cinco, parágrafo único, inciso cinco.
 THALITA: Então a D também erra, né, porque Bruno não está livre.
-ANTONIO: Exato. E, durante o estágio, a perda do cargo depende de deliberação do tribunal a que o juiz estiver vinculado, e não do CNJ.
-FRANCISCA: A alternativa E diz que, sem vitaliciedade, não há inamovibilidade nem irredutibilidade. Errada: essas garantias não dependem da aquisição da vitaliciedade.
-BRUNO: Gabarito C, que combina as duas regras: tribunal para a juíza em estágio e quarentena de três anos no tribunal de origem para o aposentado.
+FRANCISCA: Exato. E, durante o estágio, a perda do cargo depende de deliberação do tribunal a que o juiz estiver vinculado, e não do CNJ.
+THALITA: A alternativa E diz que, sem vitaliciedade, não há inamovibilidade nem irredutibilidade. Errada: essas garantias não dependem da aquisição da vitaliciedade.
+FRANCISCA: Gabarito C, que combina as duas regras: tribunal para a juíza em estágio e quarentena de três anos no tribunal de origem para o aposentado.
 THALITA: Macete: dois anos para ser vitalício, três anos de quarentena só onde atuava.
-ANTONIO: Terminamos este bloco de sete questões. Na sequência, mais questões, agora sobre veto, medidas provisórias, Executivo e funções essenciais. Vamos lá!
+FRANCISCA: Terminamos este bloco de sete questões. Na sequência, mais questões, agora sobre veto, medidas provisórias, Executivo e funções essenciais. Vamos lá!

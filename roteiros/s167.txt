@@ -5,41 +5,39 @@ SEGMENTO s167
 * ADIs 6050, 6069 e 6082: critérios orientativos
 * Vedada a acumulação; reincidência: dobro
 * Gabarito: A
-ANTONIO: Vamos à segunda rodada de questões comentadas. Questão onze, analista judiciário. A Tereza obteve o reconhecimento judicial de ofensa extrapatrimonial de natureza grave praticada pelo empregador. Seu último salário contratual era de dois mil e quinhentos reais. Nos termos do artigo duzentos e vinte e três G e da interpretação do Supremo.
+FRANCISCA: Vamos à segunda rodada de questões comentadas. Questão onze, analista judiciário. A Tereza obteve o reconhecimento judicial de ofensa extrapatrimonial de natureza grave praticada pelo empregador. Seu último salário contratual era de dois mil e quinhentos reais. Nos termos do artigo duzentos e vinte e três G e da interpretação do Supremo.
 THALITA: Alternativa A: o parâmetro legal é de até vinte vezes o último salário contratual, ou seja, cinquenta mil reais, admitindo-se, fundamentadamente, arbitramento em valor superior conforme o caso.
-BRUNO: Pausa para você pensar. Correta! Artigo duzentos e vinte e três G, parágrafo primeiro, inciso três, combinado com a tese das ADIs seis mil e cinquenta, seis mil e sessenta e nove e seis mil e oitenta e dois: os critérios são orientativos, e o juiz pode fixar valor superior.
-FRANCISCA: Alternativa B: limitada a vinte vezes o salário mínimo nacional, sem ultrapassar. Errada. A base é o último salário contratual do ofendido, e os limites não são tetos absolutos.
-ANTONIO: C: limitada a cinco vezes o último salário, doze mil e quinhentos reais. Errada, cinco vezes é o parâmetro da ofensa média, inciso dois.
-BRUNO: D: cinquenta vezes, cento e vinte e cinco mil reais. Errada, cinquenta vezes é o parâmetro da ofensa gravíssima, inciso quatro. E a E: cumular os parâmetros das ofensas grave e gravíssima na reincidência. Errada: é vedada a acumulação, e na reincidência o juiz poderá elevar ao dobro, parágrafo terceiro.
-THALITA: Macete: média cinco, grave vinte, gravíssima cinquenta, e a base é o salário do ofendido.
-
+FRANCISCA: Pausa para você pensar. Correta! Artigo duzentos e vinte e três G, parágrafo primeiro, inciso três, combinado com a tese das ADIs seis mil e cinquenta, seis mil e sessenta e nove e seis mil e oitenta e dois: os critérios são orientativos, e o juiz pode fixar valor superior.
+THALITA: Alternativa B: limitada a vinte vezes o salário mínimo nacional, sem ultrapassar. Errada. A base é o último salário contratual do ofendido, e os limites não são tetos absolutos.
+FRANCISCA: C: limitada a cinco vezes o último salário, doze mil e quinhentos reais. Errada, cinco vezes é o parâmetro da ofensa média, inciso dois.
+THALITA: D: cinquenta vezes, cento e vinte e cinco mil reais. Errada, cinquenta vezes é o parâmetro da ofensa gravíssima, inciso quatro. E a E: cumular os parâmetros das ofensas grave e gravíssima na reincidência. Errada: é vedada a acumulação, e na reincidência o juiz poderá elevar ao dobro, parágrafo terceiro.
+FRANCISCA: Macete: média cinco, grave vinte, gravíssima cinquenta, e a base é o salário do ofendido.
 == SLIDE: Questões 12 e 13: mulher e aprendizagem
 * Q12: aborto não criminoso: repouso de 2 semanas (art. 395)
 * ADI 5938: afastamento da insalubre em qualquer grau, sem atestado
 * Amamentação: 2 descansos de 30 min; 6 consultas; 20 kg e 25 kg
 * Q13: aprendizagem até 3 anos, exceto deficiência (art. 428, §3º)
 * Gabaritos: E e C
-FRANCISCA: Questão doze, técnico judiciário, sobre a proteção ao trabalho da mulher. A: a gestante só será afastada de atividade insalubre em grau médio se apresentar atestado de médico de sua confiança.
-THALITA: Eu acho que é falsa por causa daquela ADI de gestante e lactante.
-ANTONIO: É. A ADI cinquenta e nove trinta e oito declarou inconstitucional a exigência de atestado: o afastamento é obrigatório em qualquer grau. B: para amamentar, um descanso especial de uma hora.
-BRUNO: Errada. São dois descansos de meia hora, artigo trezentos e noventa e seis. C: no mínimo quatro consultas médicas. Errada, o mínimo é seis, artigo trezentos e noventa e dois, parágrafo quarto. D: força superior a vinte e cinco quilos para o trabalho contínuo ou trinta ocasional. Errada, os limites são vinte e vinte e cinco quilos.
-FRANCISCA: E: em aborto não criminoso, comprovado por atestado médico oficial, a mulher tem repouso remunerado de duas semanas, com direito de retornar à função. Correta, artigo trezentos e noventa e cinco. Gabarito E.
-ANTONIO: Questão treze, sobre o contrato de aprendizagem. A: pode ser ajustado verbalmente. Errada, é por escrito, artigo quatrocentos e vinte e oito. B: seis horas diárias, admitida a compensação por acordo individual escrito. Errada, são vedadas prorrogação e compensação.
+THALITA: Questão doze, técnico judiciário, sobre a proteção ao trabalho da mulher. A: a gestante só será afastada de atividade insalubre em grau médio se apresentar atestado de médico de sua confiança.
+FRANCISCA: Eu acho que é falsa por causa daquela ADI de gestante e lactante.
+THALITA: É. A ADI cinquenta e nove trinta e oito declarou inconstitucional a exigência de atestado: o afastamento é obrigatório em qualquer grau. B: para amamentar, um descanso especial de uma hora.
+FRANCISCA: Errada. São dois descansos de meia hora, artigo trezentos e noventa e seis. C: no mínimo quatro consultas médicas. Errada, o mínimo é seis, artigo trezentos e noventa e dois, parágrafo quarto. D: força superior a vinte e cinco quilos para o trabalho contínuo ou trinta ocasional. Errada, os limites são vinte e vinte e cinco quilos.
+THALITA: E: em aborto não criminoso, comprovado por atestado médico oficial, a mulher tem repouso remunerado de duas semanas, com direito de retornar à função. Correta, artigo trezentos e noventa e cinco. Gabarito E.
+FRANCISCA: Questão treze, sobre o contrato de aprendizagem. A: pode ser ajustado verbalmente. Errada, é por escrito, artigo quatrocentos e vinte e oito. B: seis horas diárias, admitida a compensação por acordo individual escrito. Errada, são vedadas prorrogação e compensação.
 THALITA: C: não pode ser estipulado por mais de três anos, exceto aprendiz com deficiência. Essa eu sei, é a correta, parágrafo terceiro do artigo quatrocentos e vinte e oito.
-BRUNO: Correto. D: cota de cinco a dez por cento. Errada, o máximo é quinze. E: extinção antecipada por desempenho insuficiente assegura a indenização do artigo quatrocentos e setenta e nove. Errada, nas hipóteses do artigo quatrocentos e trinta e três não se aplicam os artigos quatrocentos e setenta e nove e quatrocentos e oitenta. Gabarito C.
-
+FRANCISCA: Correto. D: cota de cinco a dez por cento. Errada, o máximo é quinze. E: extinção antecipada por desempenho insuficiente assegura a indenização do artigo quatrocentos e setenta e nove. Errada, nas hipóteses do artigo quatrocentos e trinta e três não se aplicam os artigos quatrocentos e setenta e nove e quatrocentos e oitenta. Gabarito C.
 == SLIDE: Questão 14 e resumo da aula
 * Q14: descontos com plano de saúde, autorização escrita (Súmula 342)
 * Salário mensal: até o 5º dia útil
 * Moeda corrente; depósito tem força de recibo
 * Gabarito: D
 * Resumo da aula 48
-FRANCISCA: Questão quatorze, oficial de justiça, sobre a proteção ao salário. A: em dano culposo, o desconto é lícito independentemente de prévio ajuste. Errada! No culposo, só com acordo prévio. O dolo dispensa o ajuste.
-THALITA: B: o salário mensal deve ser pago até o décimo dia útil do mês seguinte. Errada, é o quinto dia útil.
-FRANCISCA: C: válido o pagamento em moeda estrangeira, se ajustado no contrato. Errada. O salário deve ser pago em moeda corrente do País, e o pagamento em desacordo considera-se não feito, artigo quatrocentos e sessenta e três.
-ANTONIO: D: os descontos para integração em plano de assistência médico-hospitalar, com autorização prévia e por escrito, não afrontam o artigo quatrocentos e sessenta e dois, salvo coação ou outro vício. Correta, é a Súmula trezentos e quarenta e dois.
-BRUNO: E: o comprovante de depósito em conta aberta em nome do empregado, com seu consentimento, não tem força de recibo. Errada. Tem força de recibo, artigo quatrocentos e sessenta e quatro, parágrafo único. Gabarito D.
-THALITA: Percebi um padrão nessas quatro questões. A banca troca números: quatro consultas no lugar de seis, dez por cento no lugar de quinze, décimo dia útil no lugar de quinto. Troca o verbo: culposo no lugar de doloso. E troca o texto antigo pelo novo, como a exigência de atestado na insalubridade.
-ANTONIO: Excelente observação. Quem confere números, verbos e a redação atual acerta a maioria das alternativas.
-THALITA: Hora do resumo relâmpago da aula. Mulher: licença de cento e vinte dias, estabilidade até cinco meses após o parto, insalubre afasta em qualquer grau, duas pausas de meia hora, seis consultas, vinte e vinte e cinco quilos. Menor: noturno, perigoso e insalubre vetados antes dos dezoito; aprendiz de catorze a vinte e quatro, três anos, seis horas, cota de cinco a quinze, FGTS de dois. Trabalho escravo: quatro modos, uma conduta basta. E nas questões, confira números, verbos, pessoas e texto antigo.
-ANTONIO: Bons estudos, pessoal, e até a próxima aula!
+THALITA: Questão quatorze, oficial de justiça, sobre a proteção ao salário. A: em dano culposo, o desconto é lícito independentemente de prévio ajuste. Errada! No culposo, só com acordo prévio. O dolo dispensa o ajuste.
+FRANCISCA: B: o salário mensal deve ser pago até o décimo dia útil do mês seguinte. Errada, é o quinto dia útil.
+THALITA: C: válido o pagamento em moeda estrangeira, se ajustado no contrato. Errada. O salário deve ser pago em moeda corrente do País, e o pagamento em desacordo considera-se não feito, artigo quatrocentos e sessenta e três.
+FRANCISCA: D: os descontos para integração em plano de assistência médico-hospitalar, com autorização prévia e por escrito, não afrontam o artigo quatrocentos e sessenta e dois, salvo coação ou outro vício. Correta, é a Súmula trezentos e quarenta e dois.
+THALITA: E: o comprovante de depósito em conta aberta em nome do empregado, com seu consentimento, não tem força de recibo. Errada. Tem força de recibo, artigo quatrocentos e sessenta e quatro, parágrafo único. Gabarito D.
+FRANCISCA: Percebi um padrão nessas quatro questões. A banca troca números: quatro consultas no lugar de seis, dez por cento no lugar de quinze, décimo dia útil no lugar de quinto. Troca o verbo: culposo no lugar de doloso. E troca o texto antigo pelo novo, como a exigência de atestado na insalubridade.
+THALITA: Excelente observação. Quem confere números, verbos e a redação atual acerta a maioria das alternativas.
+FRANCISCA: Hora do resumo relâmpago da aula. Mulher: licença de cento e vinte dias, estabilidade até cinco meses após o parto, insalubre afasta em qualquer grau, duas pausas de meia hora, seis consultas, vinte e vinte e cinco quilos. Menor: noturno, perigoso e insalubre vetados antes dos dezoito; aprendiz de catorze a vinte e quatro, três anos, seis horas, cota de cinco a quinze, FGTS de dois. Trabalho escravo: quatro modos, uma conduta basta. E nas questões, confira números, verbos, pessoas e texto antigo.
+THALITA: Bons estudos, pessoal, e até a próxima aula!

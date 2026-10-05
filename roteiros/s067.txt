@@ -5,27 +5,27 @@ SEGMENTO s067
 * Gás canalizado: serviço estadual; vedada medida provisória
 * Regiões metropolitanas: lei complementar estadual
 * Deputados estaduais: três vezes, ou 36 mais o excedente a 12
-ANTONIO: Encerramos as competências com o quadro geral. Agora vamos às entidades em espécie, começando pelos Estados, nos artigos vinte e cinco a vinte e oito. O Estado se organiza por Constituição e leis próprias, respeitados os princípios da Constituição Federal, e aqui entra o princípio da simetria, que limita a auto-organização.
+FRANCISCA: Encerramos as competências com o quadro geral. Agora vamos às entidades em espécie, começando pelos Estados, nos artigos vinte e cinco a vinte e oito. O Estado se organiza por Constituição e leis próprias, respeitados os princípios da Constituição Federal, e aqui entra o princípio da simetria, que limita a auto-organização.
 THALITA: E as competências dos Estados? São só as que sobram?
 FRANCISCA: Sim, o parágrafo primeiro do artigo vinte e cinco reserva aos Estados as competências que não lhes são vedadas, as remanescentes ou residuais. Mas cuidado: na repartição tributária, a competência residual é da União, pelo artigo cento e cinquenta e quatro, inciso um.
-BRUNO: O parágrafo segundo: o Estado explora, diretamente ou por concessão, os serviços locais de gás canalizado, e é proibida medida provisória para regulamentá-los. A FCC diz que o gás canalizado é do Município ou da União. Errado, é do Estado.
-THALITA: E região metropolitana?
-ANTONIO: Parágrafo terceiro: o Estado pode instituir, por lei complementar estadual, regiões metropolitanas, aglomerações urbanas e microrregiões, formadas por Municípios limítrofes. Segundo o STF, na ADI mil oitocentos e quarenta e dois, não depende de plebiscito nem de adesão dos Municípios.
+THALITA: O parágrafo segundo: o Estado explora, diretamente ou por concessão, os serviços locais de gás canalizado, e é proibida medida provisória para regulamentá-los. A FCC diz que o gás canalizado é do Município ou da União. Errado, é do Estado.
+FRANCISCA: E região metropolitana?
+THALITA: Parágrafo terceiro: o Estado pode instituir, por lei complementar estadual, regiões metropolitanas, aglomerações urbanas e microrregiões, formadas por Municípios limítrofes. Segundo o STF, na ADI mil oitocentos e quarenta e dois, não depende de plebiscito nem de adesão dos Municípios.
 FRANCISCA: Sobre a Assembleia Legislativa: o mandato é de quatro anos, e valem as regras da Constituição sobre imunidades, remuneração, perda de mandato, licença e impedimentos. O subsídio é fixado por lei de iniciativa da Assembleia, no máximo setenta e cinco por cento do subsídio dos deputados federais. Não é por resolução nem por decreto legislativo.
-BRUNO: O número de deputados estaduais: até doze deputados federais, o triplo; acima de doze, trinta e seis mais o que exceder doze. Exemplos: o Pará tem dezessete federais, então trinta e seis mais cinco, quarenta e um. O Amapá tem oito, então vinte e quatro. São Paulo tem setenta, trinta e seis mais cinquenta e oito, noventa e quatro.
-THALITA: Então: até doze, vezes três; acima de doze, trinta e seis mais o excesso.
-FRANCISCA: E o Governador e o Vice: eleição no primeiro domingo de outubro, segundo turno no último, mandato de quatro anos. Pela Emenda cento e onze, de dois mil e vinte e um, a posse passa a ser em seis de janeiro, a partir dos eleitos em dois mil e vinte e seis. Confira a redação vigente.
+THALITA: O número de deputados estaduais: até doze deputados federais, o triplo; acima de doze, trinta e seis mais o que exceder doze. Exemplos: o Pará tem dezessete federais, então trinta e seis mais cinco, quarenta e um. O Amapá tem oito, então vinte e quatro. São Paulo tem setenta, trinta e seis mais cinquenta e oito, noventa e quatro.
+FRANCISCA: Então: até doze, vezes três; acima de doze, trinta e seis mais o excesso.
+THALITA: E o Governador e o Vice: eleição no primeiro domingo de outubro, segundo turno no último, mandato de quatro anos. Pela Emenda cento e onze, de dois mil e vinte e um, a posse passa a ser em seis de janeiro, a partir dos eleitos em dois mil e vinte e seis. Confira a redação vigente.
 == SLIDE: Municípios: lei orgânica, eleições e Vereadores
 * Lei orgânica: dois turnos, dez dias, dois terços; Câmara promulga
 * Segundo turno: mais de 200 mil eleitores
 * Subsídio dos Vereadores: legislatura para a seguinte
 * Gasto com Vereadores: 5% da receita; só imunidade material
 * Prefeito: foro no Tribunal de Justiça
-BRUNO: Passando aos Municípios, artigo vinte e nove. A lei orgânica é votada em dois turnos, com intervalo mínimo de dez dias, aprovada por dois terços da Câmara, que a promulga. Dois turnos, dez dias, dois terços.
+FRANCISCA: Passando aos Municípios, artigo vinte e nove. A lei orgânica é votada em dois turnos, com intervalo mínimo de dez dias, aprovada por dois terços da Câmara, que a promulga. Dois turnos, dez dias, dois terços.
 THALITA: E as eleições municipais?
-ANTONIO: Prefeito, Vice e Vereadores têm mandato de quatro anos, eleição direta e simultânea, e posse em primeiro de janeiro. O segundo turno só ocorre em Municípios com mais de duzentos mil eleitores. Eleitores, não habitantes: a FCC troca.
-FRANCISCA: O número de Vereadores é escalonado pela população, de nove, nos Municípios de até quinze mil habitantes, a cinquenta e cinco, nos de mais de oito milhões. O subsídio é fixado pela Câmara em uma legislatura para a seguinte, entre vinte e setenta e cinco por cento do subsídio dos deputados estaduais, conforme a população.
-BRUNO: O total da remuneração dos Vereadores é limitado a cinco por cento da receita do Município. Os Vereadores são invioláveis por opiniões, palavras e votos, no exercício do mandato e na circunscrição do Município. Só têm imunidade material: não há imunidade formal, quanto a prisão e processo.
+FRANCISCA: Prefeito, Vice e Vereadores têm mandato de quatro anos, eleição direta e simultânea, e posse em primeiro de janeiro. O segundo turno só ocorre em Municípios com mais de duzentos mil eleitores. Eleitores, não habitantes: a FCC troca.
+THALITA: O número de Vereadores é escalonado pela população, de nove, nos Municípios de até quinze mil habitantes, a cinquenta e cinco, nos de mais de oito milhões. O subsídio é fixado pela Câmara em uma legislatura para a seguinte, entre vinte e setenta e cinco por cento do subsídio dos deputados estaduais, conforme a população.
+FRANCISCA: O total da remuneração dos Vereadores é limitado a cinco por cento da receita do Município. Os Vereadores são invioláveis por opiniões, palavras e votos, no exercício do mandato e na circunscrição do Município. Só têm imunidade material: não há imunidade formal, quanto a prisão e processo.
 THALITA: E o Prefeito, quem julga?
 FRANCISCA: O Tribunal de Justiça. Pela Súmula setecentos e dois do STF, nos crimes federais o foro é o Tribunal Regional Federal, e nos eleitorais, o Tribunal Regional Eleitoral. A iniciativa popular exige cinco por cento do eleitorado.
 THALITA: Então, macete para os números: lei orgânica, dois turnos, dez dias, dois terços; segundo turno, duzentos mil eleitores; iniciativa popular e gasto com Vereadores, cinco por cento.
@@ -35,38 +35,38 @@ THALITA: Então, macete para os números: lei orgânica, dois turnos, dez dias, 
 * Art. 30: interesse local, suplementar, tributos, distritos, transporte coletivo
 * SV 38 e SV 49
 * Contas: Câmara com parecer do Tribunal de Contas; dois terços
-ANTONIO: O artigo vinte e nove A limita a despesa da Câmara a um percentual da receita tributária e das transferências do exercício anterior, decrescente conforme a população: sete por cento até cem mil habitantes, depois seis, cinco, quatro e meio, quatro, e três e meio por cento acima de oito milhões.
-BRUNO: A folha da Câmara, incluído o subsídio dos Vereadores, não passa de setenta por cento da receita dela. Comete crime de responsabilidade o Prefeito que repassa acima do limite, não repassa até o dia vinte de cada mês ou repassa a menor. E o Presidente da Câmara, se descumprir o limite de setenta por cento.
-THALITA: E se mudou alguma coisa recentemente?
-FRANCISCA: A Emenda cento e nove, de dois mil e vinte e um, incluiu no limite os gastos com inativos e pensionistas, a partir da legislatura iniciada em dois mil e vinte e cinco. Confira a redação vigente.
-ANTONIO: Agora o artigo trinta, competências municipais. Legislar sobre assuntos de interesse local, e suplementar a legislação federal e estadual no que couber. Instituir e arrecadar seus tributos, criar, organizar e suprimir distritos, observada a lei estadual, e organizar e prestar serviços de interesse local, inclusive transporte coletivo.
-BRUNO: Súmula Vinculante trinta e oito: o Município pode fixar horário de funcionamento do comércio local. Súmula Vinculante quarenta e nove: lei municipal não pode impedir instalação de comércio do mesmo ramo em certa área, por violar a livre concorrência.
+FRANCISCA: O artigo vinte e nove A limita a despesa da Câmara a um percentual da receita tributária e das transferências do exercício anterior, decrescente conforme a população: sete por cento até cem mil habitantes, depois seis, cinco, quatro e meio, quatro, e três e meio por cento acima de oito milhões.
+THALITA: A folha da Câmara, incluído o subsídio dos Vereadores, não passa de setenta por cento da receita dela. Comete crime de responsabilidade o Prefeito que repassa acima do limite, não repassa até o dia vinte de cada mês ou repassa a menor. E o Presidente da Câmara, se descumprir o limite de setenta por cento.
+FRANCISCA: E se mudou alguma coisa recentemente?
+THALITA: A Emenda cento e nove, de dois mil e vinte e um, incluiu no limite os gastos com inativos e pensionistas, a partir da legislatura iniciada em dois mil e vinte e cinco. Confira a redação vigente.
+FRANCISCA: Agora o artigo trinta, competências municipais. Legislar sobre assuntos de interesse local, e suplementar a legislação federal e estadual no que couber. Instituir e arrecadar seus tributos, criar, organizar e suprimir distritos, observada a lei estadual, e organizar e prestar serviços de interesse local, inclusive transporte coletivo.
+THALITA: Súmula Vinculante trinta e oito: o Município pode fixar horário de funcionamento do comércio local. Súmula Vinculante quarenta e nove: lei municipal não pode impedir instalação de comércio do mesmo ramo em certa área, por violar a livre concorrência.
 FRANCISCA: Também compete ao Município manter educação infantil e ensino fundamental, prestar serviços de saúde, com cooperação da União e do Estado, ordenar o uso do solo urbano e proteger o patrimônio histórico-cultural local.
 THALITA: E a fiscalização, artigo trinta e um?
-ANTONIO: A Câmara Municipal faz o controle externo, com auxílio do Tribunal de Contas do Estado ou do Tribunal ou Conselho de Contas dos Municípios, órgão estadual. Os únicos Tribunais de Contas municipais são os de São Paulo e Rio de Janeiro, e é proibido criar novos. O parecer prévio só deixa de prevalecer por decisão de dois terços da Câmara.
-BRUNO: As contas ficam sessenta dias por ano à disposição de qualquer contribuinte. E, na jurisprudência, o STF decidiu, no Tema oitocentos e trinta e cinco, que a Câmara julga as contas do Prefeito, de governo e de gestão. E o parecer não prevalece por mero decurso de prazo, no Tema cento e cinquenta e sete.
+FRANCISCA: A Câmara Municipal faz o controle externo, com auxílio do Tribunal de Contas do Estado ou do Tribunal ou Conselho de Contas dos Municípios, órgão estadual. Os únicos Tribunais de Contas municipais são os de São Paulo e Rio de Janeiro, e é proibido criar novos. O parecer prévio só deixa de prevalecer por decisão de dois terços da Câmara.
+THALITA: As contas ficam sessenta dias por ano à disposição de qualquer contribuinte. E, na jurisprudência, o STF decidiu, no Tema oitocentos e trinta e cinco, que a Câmara julga as contas do Prefeito, de governo e de gestão. E o parecer não prevalece por mero decurso de prazo, no Tema cento e cinquenta e sete.
 == SLIDE: Distrito Federal: artigo trinta e dois
 * Não pode ser dividido em Municípios
 * Lei orgânica: dois turnos, dez dias, dois terços
 * Competências cumulativas: estaduais e municipais
 * União mantém Judiciário, MP e polícias do DF
 * Defensoria Pública do DF é do próprio DF (EC 69/2012)
-THALITA: Chegou a vez do Distrito Federal. Posso resumir que ele é meio Estado, meio Município?
-FRANCISCA: Pode. O artigo trinta e dois veda a divisão do Distrito Federal em Municípios. Ele tem regiões administrativas, não Municípios. A lei orgânica segue o mesmo rito: dois turnos, intervalo de dez dias, dois terços da Câmara Legislativa. E não tem Constituição distrital.
-BRUNO: As competências legislativas são cumulativas: as reservadas aos Estados e aos Municípios. Por exemplo, o DF institui o ICMS, que é estadual, e o IPTU, que é municipal. Os deputados distritais seguem o artigo vinte e sete, e o Governador é eleito na mesma data dos governadores estaduais.
-ANTONIO: Agora a pegadinha: o Judiciário e o Ministério Público do DF, e as polícias civil, penal e militar e o corpo de bombeiros, são organizados e mantidos pela União, nos incisos treze e quatorze do artigo vinte e um. Mas a Defensoria Pública do DF é organizada pelo próprio DF desde a Emenda sessenta e nove, de dois mil e doze.
-THALITA: Então o que a União mantém no DF é o Judiciário, o Ministério Público e as forças de segurança. A Defensoria não.
-FRANCISCA: Isso. E o parágrafo quarto diz que lei federal disciplina a utilização das polícias pelo Governo do DF. A Súmula Vinculante trinta e nove diz que os vencimentos dessas corporações são fixados por lei federal.
-BRUNO: Pegadinha de prova: dizer que o Judiciário do DF é mantido pelo próprio DF. Errado, é da União.
+FRANCISCA: Chegou a vez do Distrito Federal. Posso resumir que ele é meio Estado, meio Município?
+THALITA: Pode. O artigo trinta e dois veda a divisão do Distrito Federal em Municípios. Ele tem regiões administrativas, não Municípios. A lei orgânica segue o mesmo rito: dois turnos, intervalo de dez dias, dois terços da Câmara Legislativa. E não tem Constituição distrital.
+FRANCISCA: As competências legislativas são cumulativas: as reservadas aos Estados e aos Municípios. Por exemplo, o DF institui o ICMS, que é estadual, e o IPTU, que é municipal. Os deputados distritais seguem o artigo vinte e sete, e o Governador é eleito na mesma data dos governadores estaduais.
+THALITA: Agora a pegadinha: o Judiciário e o Ministério Público do DF, e as polícias civil, penal e militar e o corpo de bombeiros, são organizados e mantidos pela União, nos incisos treze e quatorze do artigo vinte e um. Mas a Defensoria Pública do DF é organizada pelo próprio DF desde a Emenda sessenta e nove, de dois mil e doze.
+FRANCISCA: Então o que a União mantém no DF é o Judiciário, o Ministério Público e as forças de segurança. A Defensoria não.
+THALITA: Isso. E o parágrafo quarto diz que lei federal disciplina a utilização das polícias pelo Governo do DF. A Súmula Vinculante trinta e nove diz que os vencimentos dessas corporações são fixados por lei federal.
+FRANCISCA: Pegadinha de prova: dizer que o Judiciário do DF é mantido pelo próprio DF. Errado, é da União.
 == SLIDE: Territórios: artigo trinta e três
 * Autarquia territorial da União; sem autonomia política
 * Podem ser divididos em Municípios
 * Governador nomeado pelo Presidente, após aprovação do Senado
 * Contas julgadas pelo Congresso com parecer do TCU
 * Quatro deputados federais; nenhum Senador
-ANTONIO: Por último, os Territórios, no artigo trinta e três. São autarquias territoriais da União, sem autonomia política. Podem ser divididos em Municípios, diferentemente do Distrito Federal. O Governador é nomeado pelo Presidente da República, depois de aprovação do Senado.
-THALITA: E as contas do Território?
-FRANCISCA: São julgadas pelo Congresso Nacional, com parecer prévio do Tribunal de Contas da União. Territórios com mais de cem mil habitantes terão, além do Governador, órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais, e a lei disporá sobre a eleição da Câmara Territorial.
-BRUNO: Na representação, elegem quatro deputados federais, pelo artigo quarenta e cinco, parágrafo segundo, mas não elegem Senadores. Hoje não existem Territórios, mas a prova pode cobrar a regra.
+THALITA: Por último, os Territórios, no artigo trinta e três. São autarquias territoriais da União, sem autonomia política. Podem ser divididos em Municípios, diferentemente do Distrito Federal. O Governador é nomeado pelo Presidente da República, depois de aprovação do Senado.
+FRANCISCA: E as contas do Território?
+THALITA: São julgadas pelo Congresso Nacional, com parecer prévio do Tribunal de Contas da União. Territórios com mais de cem mil habitantes terão, além do Governador, órgãos judiciários de primeira e segunda instância, membros do Ministério Público e defensores públicos federais, e a lei disporá sobre a eleição da Câmara Territorial.
+FRANCISCA: Na representação, elegem quatro deputados federais, pelo artigo quarenta e cinco, parágrafo segundo, mas não elegem Senadores. Hoje não existem Territórios, mas a prova pode cobrar a regra.
 THALITA: Fazendo um quadro rápido: Estado divide-se em Municípios, o Distrito Federal não pode, o Território pode. E o Judiciário: o Estado mantém o seu, o DF e o Território são mantidos pela União, e o Município nem tem.
-ANTONIO: Perfeito. Com isso fechamos a organização dos entes. No próximo tema, vamos à intervenção federal e estadual, nos artigos trinta e quatro a trinta e seis.
+FRANCISCA: Perfeito. Com isso fechamos a organização dos entes. No próximo tema, vamos à intervenção federal e estadual, nos artigos trinta e quatro a trinta e seis.

@@ -6,33 +6,33 @@ SEGMENTO s053
 * Declarar a constitucionalidade: o órgão fracionário faz sozinho
 FRANCISCA: Com a teoria geral na mão, vamos ao controle difuso. Nele, a inconstitucionalidade é questão prejudicial: o juiz a examina para decidir o caso, e a decisão vale, em regra, entre as partes. O ponto mais cobrado é a cláusula de reserva de plenário, no artigo noventa e sete.
 THALITA: O que o artigo noventa e sete diz, exatamente?
-ANTONIO: Que somente pelo voto da maioria absoluta de seus membros, ou dos membros do respectivo órgão especial, os tribunais poderão declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.
-BRUNO: A apostila separa quatro elementos, e a FCC mexe em cada um. O primeiro é quem: tribunais. Juiz singular não se submete à regra. O segundo é o quórum: maioria absoluta, nem maioria simples, nem dois terços.
+FRANCISCA: Que somente pelo voto da maioria absoluta de seus membros, ou dos membros do respectivo órgão especial, os tribunais poderão declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.
+THALITA: A apostila separa quatro elementos, e a FCC mexe em cada um. O primeiro é quem: tribunais. Juiz singular não se submete à regra. O segundo é o quórum: maioria absoluta, nem maioria simples, nem dois terços.
 FRANCISCA: O terceiro é de quem: dos membros do tribunal ou do órgão especial. Pelo artigo noventa e três, inciso onze, tribunais com mais de vinte e cinco julgadores podem criar órgão especial, com no mínimo onze e no máximo vinte e cinco membros. O quarto elemento é o quê: declarar a inconstitucionalidade.
 THALITA: Então se a turma achar que a lei é constitucional, não precisa mandar para o pleno?
 FRANCISCA: Exato. A constitucionalidade o órgão fracionário reconhece sozinho. A reserva vale só para declarar a inconstitucionalidade.
-BRUNO: Pegadinha clássica: a alternativa diz que a turma precisa de reserva de plenário para declarar a lei constitucional. Errado. Ou então troca maioria absoluta por maioria simples.
-THALITA: Maioria absoluta é metade mais um do total de membros, não dos presentes, certo?
-ANTONIO: Certo. E é do total de membros do tribunal ou do órgão especial, independentemente de quantos estiverem na sessão.
-THALITA: Resumo meu: tribunal, maioria absoluta, pleno ou órgão especial, e só para declarar inconstitucionalidade.
-FRANCISCA: Perfeito. Agora veja como o Supremo ampliou o alcance dessa regra.
+THALITA: Pegadinha clássica: a alternativa diz que a turma precisa de reserva de plenário para declarar a lei constitucional. Errado. Ou então troca maioria absoluta por maioria simples.
+FRANCISCA: Maioria absoluta é metade mais um do total de membros, não dos presentes, certo?
+THALITA: Certo. E é do total de membros do tribunal ou do órgão especial, independentemente de quantos estiverem na sessão.
+FRANCISCA: Resumo meu: tribunal, maioria absoluta, pleno ou órgão especial, e só para declarar inconstitucionalidade.
+THALITA: Perfeito. Agora veja como o Supremo ampliou o alcance dessa regra.
 == SLIDE: Súmula Vinculante dez e o artigo 949 do CPC
 * SV 10: afastar a incidência da lei também viola a reserva
 * Exceção: já há decisão do pleno, do órgão especial ou do STF
 * Cisão funcional: o pleno decide só a questão constitucional
 * Reclamação ao STF, art. 103-A, §3º
-ANTONIO: A Súmula Vinculante dez diz que viola a cláusula de reserva de plenário a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
+FRANCISCA: A Súmula Vinculante dez diz que viola a cláusula de reserva de plenário a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
 THALITA: Ou seja, não adianta fugir da expressão inconstitucional?
-BRUNO: Não adianta. Se a turma deixa de aplicar a lei por incompatibilidade com a Constituição, mesmo sem usar a palavra, houve declaração disfarçada, e a decisão é nula. É muito cobrado em prova de tribunal trabalhista.
-FRANCISCA: Existe uma exceção, no Código de Processo Civil, artigo novecentos e quarenta e nove, parágrafo único. Os órgãos fracionários não submeterão a arguição ao plenário ou ao órgão especial quando já houver pronunciamento destes, ou do plenário do Supremo, sobre a questão.
-ANTONIO: Fora dessa exceção, a turma acolhe a arguição e remete somente a questão constitucional ao pleno. É a chamada cisão funcional, nos artigos novecentos e quarenta e oito a novecentos e cinquenta do Código. Resolvida a questão, o órgão fracionário volta e julga o caso.
+FRANCISCA: Não adianta. Se a turma deixa de aplicar a lei por incompatibilidade com a Constituição, mesmo sem usar a palavra, houve declaração disfarçada, e a decisão é nula. É muito cobrado em prova de tribunal trabalhista.
+THALITA: Existe uma exceção, no Código de Processo Civil, artigo novecentos e quarenta e nove, parágrafo único. Os órgãos fracionários não submeterão a arguição ao plenário ou ao órgão especial quando já houver pronunciamento destes, ou do plenário do Supremo, sobre a questão.
+FRANCISCA: Fora dessa exceção, a turma acolhe a arguição e remete somente a questão constitucional ao pleno. É a chamada cisão funcional, nos artigos novecentos e quarenta e oito a novecentos e cinquenta do Código. Resolvida a questão, o órgão fracionário volta e julga o caso.
 THALITA: Então o pleno não julga o processo inteiro.
-ANTONIO: Não. Só a questão constitucional.
-BRUNO: Vamos à tabela de situações. Juiz de primeiro grau declara lei inconstitucional: não exige reserva, porque não é tribunal. Turma recursal de juizado especial: também não, segundo o Supremo.
+FRANCISCA: Não. Só a questão constitucional.
+THALITA: Vamos à tabela de situações. Juiz de primeiro grau declara lei inconstitucional: não exige reserva, porque não é tribunal. Turma recursal de juizado especial: também não, segundo o Supremo.
 FRANCISCA: Turma de Tribunal Regional do Trabalho que afasta a aplicação de lei por incompatibilidade com a Constituição, sem dizer inconstitucional: exige, pela Súmula Vinculante dez. Turma que declara a lei constitucional: não exige. Já existindo decisão do pleno ou do Supremo: não exige.
-BRUNO: Turma que reconhece a não recepção de lei anterior a oitenta e oito: não exige, porque é juízo de revogação, não de inconstitucionalidade. E turma do Supremo no julgamento de recurso extraordinário: também não, pelo entendimento do próprio Supremo.
-THALITA: Eu tinha anotado que não recepção também exigia. Era erro meu.
-BRUNO: Era, e a FCC adora essa. Não recepção é revogação, então não tem reserva.
+THALITA: Turma que reconhece a não recepção de lei anterior a oitenta e oito: não exige, porque é juízo de revogação, não de inconstitucionalidade. E turma do Supremo no julgamento de recurso extraordinário: também não, pelo entendimento do próprio Supremo.
+FRANCISCA: Eu tinha anotado que não recepção também exigia. Era erro meu.
+THALITA: Era, e a FCC adora essa. Não recepção é revogação, então não tem reserva.
 FRANCISCA: Um caso concreto. A turma do Tribunal da Oitava Região deixa de aplicar dispositivo da CLT inserido pela Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, por ofensa ao artigo sétimo da Constituição, sem declarar a inconstitucionalidade e sem precedente do pleno ou do Supremo. A decisão afronta a Súmula Vinculante dez, e cabe reclamação ao Supremo, no artigo cento e três A, parágrafo terceiro.
 THALITA: Fechou. Afastou a lei por ofensa à Constituição, sem pleno e sem precedente, é reclamação.
 == SLIDE: O papel do Senado e a abstrativização
@@ -40,33 +40,33 @@ THALITA: Fechou. Afastou a lei por ofensa à Constituição, sem pleno e sem pre
 * Ato discricionário, por resolução, de decisões em controle difuso
 * Alcança leis federais, estaduais e municipais
 * ADIs 3406 e 3470: mutação constitucional, resolução só dá publicidade
-ANTONIO: Agora o papel do Senado. O artigo cinquenta e dois, inciso dez, diz que compete privativamente ao Senado suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal.
+FRANCISCA: Agora o papel do Senado. O artigo cinquenta e dois, inciso dez, diz que compete privativamente ao Senado suspender a execução, no todo ou em parte, de lei declarada inconstitucional por decisão definitiva do Supremo Tribunal Federal.
 THALITA: Como é que isso funciona na prática?
-FRANCISCA: A decisão do Supremo no controle difuso vale entre as partes. Para estender a todos, o Senado pode editar uma resolução suspendendo a execução da lei. A apostila lista seis características. Primeira: é ato discricionário, o Senado não é obrigado a suspender. Segunda: é veiculado por resolução.
-BRUNO: Terceira: alcança leis federais, estaduais e municipais. Quarta: só vale para decisões do Supremo em controle difuso. Quinta: no todo ou em parte, nos limites da decisão do Supremo, e o Senado não pode ampliá-la.
+FRANCISCA: A decisão do Supremo no controle difuso vale entre as partes. Para estender a todos, o Senado pode editar uma resolução suspendendo a execução da lei. A apostila lista seis características. Primeira: é ato discricionário, o Senado não é obrigada a suspender. Segunda: é veiculado por resolução.
+THALITA: Terceira: alcança leis federais, estaduais e municipais. Quarta: só vale para decisões do Supremo em controle difuso. Quinta: no todo ou em parte, nos limites da decisão do Supremo, e o Senado não pode ampliá-la.
 FRANCISCA: Sexta: os efeitos são para todos e, para a doutrina majoritária, sem retroatividade, ou seja, ex nunc.
 THALITA: Se o Senado não pode ampliar, e o Supremo declarou só um artigo inconstitucional, ele não pode suspender a lei inteira.
-BRUNO: Isso mesmo, boa dedução.
-ANTONIO: Mas há a abstrativização. Nas ADIs três mil quatrocentos e seis e três mil quatrocentos e setenta, em dois mil e dezessete, o caso do amianto, o Supremo declarou incidentalmente a inconstitucionalidade do artigo segundo da Lei nove mil e cinquenta e cinco, de mil novecentos e noventa e cinco, com efeitos para todos e vinculantes.
+FRANCISCA: Isso mesmo, boa dedução.
+THALITA: Mas há a abstrativização. Nas ADIs três mil quatrocentos e seis e três mil quatrocentos e setenta, em dois mil e dezessete, o caso do amianto, o Supremo declarou incidentalmente a inconstitucionalidade do artigo segundo da Lei nove mil e cinquenta e cinco, de mil novecentos e noventa e cinco, com efeitos para todos e vinculantes.
 FRANCISCA: E reconheceu mutação constitucional do artigo cinquenta e dois, inciso dez: a resolução do Senado passaria a apenas dar publicidade à decisão.
-BRUNO: Dica de prova: olhe o comando. Se disser nos termos da Constituição, vale a literalidade, o Senado suspende a execução. Se disser segundo a jurisprudência recente do Supremo, entra a abstrativização.
-THALITA: Resumindo: pela letra da Constituição, o Senado suspende; pela jurisprudência recente, o Senado só publica.
-FRANCISCA: Perfeito. Com isso fechamos o controle difuso e partimos para o concentrado.
+THALITA: Dica de prova: olhe o comando. Se disser nos termos da Constituição, vale a literalidade, o Senado suspende a execução. Se disser segundo a jurisprudência recente do Supremo, entra a abstrativização.
+FRANCISCA: Resumindo: pela letra da Constituição, o Senado suspende; pela jurisprudência recente, o Senado só publica.
+THALITA: Perfeito. Com isso fechamos o controle difuso e partimos para o concentrado.
 == SLIDE: Controle concentrado federal: visão geral e efeitos
 * ADI, ADC e ADO: Lei 9.868/1999; ADPF: Lei 9.882/1999
 * Números-chave: instalação com 8, decisão por 6, modulação por 8
 * ADI: lei federal ou estadual; ADC: só federal
 * Efeito vinculante: Judiciário e administração; não o Legislativo
-ANTONIO: As ações do controle concentrado federal tramitam no Supremo e têm os mesmos nove legitimados do artigo cento e três. A ADI, a ADC e a ADO são regidas pela Lei nove mil oitocentos e sessenta e oito, de mil novecentos e noventa e nove, e a ADPF pela Lei nove mil oitocentos e oitenta e dois, do mesmo ano.
+FRANCISCA: As ações do controle concentrado federal tramitam no Supremo e têm os mesmos nove legitimados do artigo cento e três. A ADI, a ADC e a ADO são regidas pela Lei nove mil oitocentos e sessenta e oito, de mil novecentos e noventa e nove, e a ADPF pela Lei nove mil oitocentos e oitenta e dois, do mesmo ano.
 THALITA: Quais números eu preciso decorar?
-BRUNO: Quatro. Instalação com oito ministros. Decisão por seis. Cautelar por maioria absoluta. Modulação por dois terços, que dá oito. A decisão de mérito tem eficácia contra todos, efeito vinculante, é irrecorrível, salvo embargos de declaração, e não cabe ação rescisória.
-FRANCISCA: O artigo cento e dois, inciso primeiro, alínea a, diz que o Supremo julga a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual, e a ação declaratória de constitucionalidade de lei ou ato normativo federal. Então a ADI tem objeto federal ou estadual; a ADC, só federal.
-ANTONIO: O parágrafo segundo do mesmo artigo diz que as decisões definitivas de mérito produzem eficácia contra todos e efeito vinculante relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal.
+FRANCISCA: Quatro. Instalação com oito ministros. Decisão por seis. Cautelar por maioria absoluta. Modulação por dois terços, que dá oito. A decisão de mérito tem eficácia contra todos, efeito vinculante, é irrecorrível, salvo embargos de declaração, e não cabe ação rescisória.
+THALITA: O artigo cento e dois, inciso primeiro, alínea a, diz que o Supremo julga a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual, e a ação declaratória de constitucionalidade de lei ou ato normativo federal. Então a ADI tem objeto federal ou estadual; a ADC, só federal.
+FRANCISCA: O parágrafo segundo do mesmo artigo diz que as decisões definitivas de mérito produzem eficácia contra todos e efeito vinculante relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal.
 THALITA: E o Legislativo? Também fica vinculado?
 FRANCISCA: Não, na função de legislar. Ele pode editar nova lei de igual teor. E também não se vincula o próprio plenário do Supremo.
-BRUNO: A FCC pergunta isso: o efeito vinculante alcança o Legislativo? Resposta: não, na função típica de legislar.
-THALITA: Entendi. E o Supremo adota a transcendência dos motivos determinantes?
-BRUNO: Não adota. O efeito vinculante alcança o dispositivo, não os fundamentos da decisão. Boa pergunta, essa também cai.
+THALITA: A FCC pergunta isso: o efeito vinculante alcança o Legislativo? Resposta: não, na função típica de legislar.
+FRANCISCA: Entendi. E o Supremo adota a transcendência dos motivos determinantes?
+THALITA: Não adota. O efeito vinculante alcança o dispositivo, não os fundamentos da decisão. Boa pergunta, essa também cai.
 == SLIDE: Legitimados do artigo 103: quem pode propor
 * Nove legitimados, os mesmos para ADI, ADC, ADO e ADPF
 * Universais: Presidente, Mesas do Senado e da Câmara, PGR, CFOAB, partido
@@ -74,76 +74,76 @@ BRUNO: Não adota. O efeito vinculante alcança o dispositivo, não os fundament
 * Sem capacidade postulatória própria: partido, confederação, entidade
 FRANCISCA: Agora o tema de altíssima incidência: os legitimados do artigo cento e três. São nove: o Presidente da República; a Mesa do Senado; a Mesa da Câmara dos Deputados; a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal; o Governador de Estado ou do Distrito Federal; o Procurador-Geral da República; o Conselho Federal da OAB; partido político com representação no Congresso; e confederação sindical ou entidade de classe de âmbito nacional.
 THALITA: Desde quando a ADC tem os mesmos legitimados da ADI?
-ANTONIO: Desde a Emenda Constitucional quarenta e cinco, de dois mil e quatro. E o rol se estende à ADO, pelo artigo doze A da lei, e à ADPF, pelo artigo segundo, inciso primeiro, da Lei nove mil oitocentos e oitenta e dois.
-BRUNO: A primeira divisão é entre universais e especiais. Os especiais precisam demonstrar pertinência temática. Macete: MeGoCo. Mesa de Assembleia ou da Câmara Legislativa, Governador e Confederação sindical e entidade de classe. O resto é universal.
-THALITA: Então o Presidente, as Mesas do Senado e da Câmara, o Procurador-Geral, o Conselho Federal da OAB e o partido político são universais.
-BRUNO: Isso.
+FRANCISCA: Desde a Emenda Constitucional quarenta e cinco, de dois mil e quatro. E o rol se estende à ADO, pelo artigo doze A da lei, e à ADPF, pelo artigo segundo, inciso primeiro, da Lei nove mil oitocentos e oitenta e dois.
+THALITA: A primeira divisão é entre universais e especiais. Os especiais precisam demonstrar pertinência temática. Macete: MeGoCo. Mesa de Assembleia ou da Câmara Legislativa, Governador e Confederação sindical e entidade de classe. O resto é universal.
+FRANCISCA: Então o Presidente, as Mesas do Senado e da Câmara, o Procurador-Geral, o Conselho Federal da OAB e o partido político são universais.
+THALITA: Isso.
 FRANCISCA: A segunda divisão é capacidade postulatória. Partido político e confederação ou entidade de classe precisam de advogado. Macete: PaCo, Partido e Confederação. Os demais têm capacidade própria.
 THALITA: Esse PaCo me ajuda muito, porque eu esquecia.
-ANTONIO: Detalhes. A Mesa do Senado e a da Câmara são legitimadas, não o senador ou o deputado isoladamente. Na Assembleia, é a Mesa, não o deputado estadual. O governador pode impugnar lei de outro Estado que prejudique o seu.
-FRANCISCA: Do partido, basta um parlamentar para haver representação, e ela é aferida no momento da propositura. Ele atua pelo diretório nacional. Já a entidade de classe de âmbito nacional precisa, segundo o Supremo, estar presente em ao menos nove Estados.
-ANTONIO: E o Conselho Federal da OAB é universal; o Conselho Seccional não é legitimado.
+FRANCISCA: Detalhes. A Mesa do Senado e a da Câmara são legitimadas, não o senador ou o deputado isoladamente. Na Assembleia, é a Mesa, não o deputado estadual. O governador pode impugnar lei de outro Estado que prejudique o seu.
+THALITA: Do partido, basta um parlamentar para haver representação, e ela é aferida no momento da propositura. Ele atua pelo diretório nacional. Já a entidade de classe de âmbito nacional precisa, segundo o Supremo, estar presente em ao menos nove Estados.
+FRANCISCA: E o Conselho Federal da OAB é universal; o Conselho Seccional não é legitimado.
 == SLIDE: Pegadinhas dos legitimados e o papel do Advogado-Geral da União
 * Não legitimados: Mesa do Congresso, Prefeito, Câmara Municipal
 * Não: Conselho Seccional, federação, sindicato, central sindical
 * AGU não propõe: defende o ato (art. 103, §3º)
 * Na ADC não há citação do AGU
-BRUNO: Agora as pegadinhas da FCC. Quem não é legitimado: a Mesa do Congresso Nacional, o Prefeito, a Mesa de Câmara Municipal, o Conselho Seccional da OAB, a central sindical, a federação e o sindicato, e o senador ou deputado isolado.
-THALITA: E o Advogado-Geral da União? Ele não é da União, então não propõe?
-BRUNO: Boa pergunta, mas a resposta é outra: ele não propõe, ele defende. O parágrafo terceiro do artigo cento e três diz que, quando o Supremo apreciar a inconstitucionalidade em tese de norma legal ou ato normativo, citará previamente o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
+THALITA: Agora as pegadinhas da FCC. Quem não é legitimado: a Mesa do Congresso Nacional, o Prefeito, a Mesa de Câmara Municipal, o Conselho Seccional da OAB, a central sindical, a federação e o sindicato, e o senador ou deputado isolado.
+FRANCISCA: E o Advogado-Geral da União? Ele não é da União, então não propõe?
+THALITA: Boa pergunta, mas a resposta é outra: ele não propõe, ele defende. O parágrafo terceiro do artigo cento e três diz que, quando o Supremo apreciar a inconstitucionalidade em tese de norma legal ou ato normativo, citará previamente o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
 FRANCISCA: O AGU é o curador da presunção de constitucionalidade, inclusive de norma estadual. Mas o Supremo flexibilizou: ele não precisa defender norma já declarada inconstitucional pelo próprio Supremo, na ADI mil seiscentos e dezesseis, e tem autonomia para se manifestar, na ADI três mil novecentos e dezesseis.
 THALITA: E na ADC? Também cita o AGU?
 FRANCISCA: Não. Na ADC não há ato atacado, então não há o que defender.
-ANTONIO: E o Procurador-Geral da República é ouvido previamente em todas as ações, pelo parágrafo primeiro. Ele opina livremente, inclusive contra a ação que ele mesmo ajuizou.
-THALITA: Então o PGR pode propor a ação e depois opinar pela improcedência.
-ANTONIO: Pode. Não há contradição, porque ele atua em defesa da ordem jurídica.
-BRUNO: Resumo para a prova: legitimado errado na alternativa quase sempre é Mesa do Congresso, Prefeito, Conselho Seccional, federação, sindicato ou central.
+THALITA: E o Procurador-Geral da República é ouvido previamente em todas as ações, pelo parágrafo primeiro. Ele opina livremente, inclusive contra a ação que ele mesmo ajuizou.
+FRANCISCA: Então o PGR pode propor a ação e depois opinar pela improcedência.
+THALITA: Pode. Não há contradição, porque ele atua em defesa da ordem jurídica.
+FRANCISCA: Resumo para a prova: legitimado errado na alternativa quase sempre é Mesa do Congresso, Prefeito, Conselho Seccional, federação, sindicato ou central.
 == SLIDE: Quadro comparativo: ADI, ADC, ADO e ADPF
 * ADI: lei ou ato normativo federal ou estadual, posterior à CF
 * ADC: só federal, com controvérsia judicial relevante
 * ADO: omissão total ou parcial; ADPF: subsidiariedade
 * Instalação: 8 ministros; ADPF, dois terços
-FRANCISCA: Vamos comparar as quatro ações. O objeto da ADI é lei ou ato normativo federal ou estadual, incluindo o distrital de natureza estadual, posterior à Constituição. O da ADC é lei ou ato normativo federal. O da ADO é a omissão total ou parcial de medida para tornar efetiva norma constitucional. O da ADPF é ato do Poder Público, inclusive lei municipal e norma anterior à Constituição.
-THALITA: E os requisitos específicos?
-BRUNO: A ADC exige controvérsia judicial relevante, no artigo catorze, inciso três. A ADO exige dever constitucional de legislar descumprido. A ADPF exige subsidiariedade, no artigo quarto, parágrafo primeiro.
-ANTONIO: Quanto à cautelar, todas por maioria absoluta. Na ADI a regra é ex nunc. Na ADC, a cautelar suspende processos, e o mérito deve ser julgado em cento e oitenta dias, sob pena de perda da eficácia. Na ADPF, o relator pode conceder a liminar ad referendum em urgência ou recesso.
-FRANCISCA: A instalação é com oito ministros na ADI, na ADC e na ADO, e com dois terços dos ministros na ADPF.
-THALITA: E o Súmula seiscentos e quarenta e dois?
-BRUNO: A Súmula seiscentos e quarenta e dois do Supremo diz que não cabe ação direta de inconstitucionalidade de lei do Distrito Federal derivada da sua competência legislativa municipal.
+THALITA: Vamos comparar as quatro ações. O objeto da ADI é lei ou ato normativo federal ou estadual, incluindo o distrital de natureza estadual, posterior à Constituição. O da ADC é lei ou ato normativo federal. O da ADO é a omissão total ou parcial de medida para tornar efetiva norma constitucional. O da ADPF é ato do Poder Público, inclusive lei municipal e norma anterior à Constituição.
+FRANCISCA: E os requisitos específicos?
+THALITA: A ADC exige controvérsia judicial relevante, no artigo catorze, inciso três. A ADO exige dever constitucional de legislar descumprido. A ADPF exige subsidiariedade, no artigo quarto, parágrafo primeiro.
+FRANCISCA: Quanto à cautelar, todas por maioria absoluta. Na ADI a regra é ex nunc. Na ADC, a cautelar suspende processos, e o mérito deve ser julgado em cento e oitenta dias, sob pena de perda da eficácia. Na ADPF, o relator pode conceder a liminar ad referendum em urgência ou recesso.
+THALITA: A instalação é com oito ministros na ADI, na ADC e na ADO, e com dois terços dos ministros na ADPF.
+FRANCISCA: E o Súmula seiscentos e quarenta e dois?
+THALITA: A Súmula seiscentos e quarenta e dois do Supremo diz que não cabe ação direta de inconstitucionalidade de lei do Distrito Federal derivada da sua competência legislativa municipal.
 FRANCISCA: Agora, o que não cabe em ADI. Lei municipal em face da Constituição Federal: cabe ADPF ou controle difuso. Norma anterior à Constituição de oitenta e oito: cabe ADPF, pelo juízo de recepção.
-ANTONIO: Norma constitucional originária: não cabe, porque não há hierarquia entre normas originárias, ADI oitocentos e quinze. Emenda constitucional pode ser objeto. Decreto regulamentar que extrapola a lei: ofensa reflexa. Lei já revogada: perda de objeto, salvo fraude processual.
-THALITA: Anotei: originária não, emenda sim; revogada, perde o objeto.
+THALITA: Norma constitucional originária: não cabe, porque não há hierarquia entre normas originárias, ADI oitocentos e quinze. Emenda constitucional pode ser objeto. Decreto regulamentar que extrapola a lei: ofensa reflexa. Lei já revogada: perda de objeto, salvo fraude processual.
+FRANCISCA: Anotei: originária não, emenda sim; revogada, perde o objeto.
 == SLIDE: Procedimento na Lei 9.868: quórum, modulação e cautelar
 * Não cabe desistência nem intervenção de terceiros
 * Amicus curiae: relator admite por despacho irrecorrível
 * Decisão com 6 ministros; modulação com 8 (dois terços)
 * Mérito em regra ex tunc; cautelar em regra ex nunc
-ANTONIO: Vamos ao procedimento. Não se admite desistência, nos artigos quinto e dezesseis, nem intervenção de terceiros, nos artigos sétimo e dezoito.
-THALITA: Mas e o amicus curiae?
-FRANCISCA: É exceção prevista no artigo sétimo, parágrafo segundo. O relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá admitir, por despacho irrecorrível, a manifestação de outros órgãos ou entidades.
-BRUNO: A cautelar é por maioria absoluta, depois de ouvir em cinco dias os órgãos que editaram a norma, o que é dispensável em excepcional urgência. A instalação exige pelo menos oito ministros presentes. A decisão exige pelo menos seis ministros num ou noutro sentido.
+THALITA: Vamos ao procedimento. Não se admite desistência, nos artigos quinto e dezesseis, nem intervenção de terceiros, nos artigos sétimo e dezoito.
+FRANCISCA: Mas e o amicus curiae?
+THALITA: É exceção prevista no artigo sétimo, parágrafo segundo. O relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá admitir, por despacho irrecorrível, a manifestação de outros órgãos ou entidades.
+FRANCISCA: A cautelar é por maioria absoluta, depois de ouvir em cinco dias os órgãos que editaram a norma, o que é dispensável em excepcional urgência. A instalação exige pelo menos oito ministros presentes. A decisão exige pelo menos seis ministros num ou noutro sentido.
 THALITA: E se for o contrário? Se a ADI é improcedente, a lei é constitucional?
 FRANCISCA: Isso é a natureza dúplice, do artigo vinte e quatro. Proclamada a constitucionalidade, a ADI é improcedente e a ADC é procedente. Proclamada a inconstitucionalidade, a ADI é procedente e a ADC é improcedente.
-ANTONIO: O artigo vinte e sete é a modulação. Tendo em vista razões de segurança jurídica ou de excepcional interesse social, o Supremo, por maioria de dois terços de seus membros, pode restringir os efeitos da declaração, ou decidir que ela só tenha eficácia a partir do trânsito em julgado ou de outro momento fixado.
-BRUNO: Três pegadinhas. Primeira: dois terços dos membros, oito, e não maioria absoluta nem dois terços dos presentes. Segunda: os fundamentos são segurança jurídica ou excepcional interesse social. Terceira: as opções são restringir, eficácia a partir do trânsito, ou outro momento, pro futuro.
+THALITA: O artigo vinte e sete é a modulação. Tendo em vista razões de segurança jurídica ou de excepcional interesse social, o Supremo, por maioria de dois terços de seus membros, pode restringir os efeitos da declaração, ou decidir que ela só tenha eficácia a partir do trânsito em julgado ou de outro momento fixado.
+FRANCISCA: Três pegadinhas. Primeira: dois terços dos membros, oito, e não maioria absoluta nem dois terços dos presentes. Segunda: os fundamentos são segurança jurídica ou excepcional interesse social. Terceira: as opções são restringir, eficácia a partir do trânsito, ou outro momento, pro futuro.
 THALITA: Antes eu achava que a cautelar também era retroativa.
 FRANCISCA: É o contrário do mérito. O artigo onze, parágrafo primeiro, diz que a cautelar tem efeito ex nunc, salvo se o Tribunal entender que deva conceder eficácia retroativa. O mérito é, em regra, ex tunc.
-ANTONIO: Exemplo. Nove ministros presentes, e o placar fica cinco a quatro pela inconstitucionalidade. Há quórum de instalação, porque nove é maior que oito, mas não há quórum de decisão, porque cinco é menor que seis. Suspende-se o julgamento até o comparecimento dos ausentes.
-BRUNO: E se depois seis votarem pela inconstitucionalidade, a modulação ainda depende de oito votos.
+THALITA: Exemplo. Nove ministros presentes, e o placar fica cinco a quatro pela inconstitucionalidade. Há quórum de instalação, porque nove é maior que oito, mas não há quórum de decisão, porque cinco é menor que seis. Suspende-se o julgamento até o comparecimento dos ausentes.
+FRANCISCA: E se depois seis votarem pela inconstitucionalidade, a modulação ainda depende de oito votos.
 == SLIDE: Particularidades da ADO e da ADPF
 * ADO: ciência ao Poder; órgão administrativo, 30 dias
 * ADPF autônoma e incidental; única via para lei municipal e pré-constitucional
 * Subsidiariedade: outro meio eficaz de igual amplitude
 * Instalação com dois terços; modulação com dois terços; irrecorrível
-FRANCISCA: Dois pontos de detalhe, ADO e ADPF. Na ADO, o artigo cento e três, parágrafo segundo, diz que, declarada a inconstitucionalidade por omissão, será dada ciência ao Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em trinta dias.
-THALITA: Então o Legislativo não tem prazo?
-FRANCISCA: Na letra da Constituição, só ciência. Para o órgão administrativo, trinta dias, ou prazo razoável fixado excepcionalmente pelo Supremo, conforme a lei, artigo doze H, parágrafo primeiro.
-ANTONIO: A ADPF tem dois formatos. A autônoma, do artigo primeiro, caput, da Lei nove mil oitocentos e oitenta e dois, que visa evitar ou reparar lesão a preceito fundamental resultante de ato do Poder Público. E a incidental, do parágrafo único, inciso primeiro, quando for relevante o fundamento da controvérsia constitucional sobre lei ou ato normativo federal, estadual ou municipal, incluídos os anteriores à Constituição.
-BRUNO: É a única via concentrada para lei municipal em face da Constituição e para normas pré-constitucionais. Preceitos fundamentais, para o Supremo, são os princípios fundamentais dos artigos primeiro a quarto, os direitos e garantias fundamentais, as cláusulas pétreas e os princípios sensíveis.
-THALITA: E a subsidiariedade, como é?
-FRANCISCA: Artigo quarto, parágrafo primeiro: não será admitida ADPF quando houver qualquer outro meio eficaz de sanar a lesividade. Para o Supremo, meio eficaz é outro processo objetivo de igual amplitude.
-ANTONIO: Os demais números. Liminar por maioria absoluta, e em extrema urgência o relator concede ad referendum. Instalação com pelo menos dois terços dos ministros presentes. Eficácia contra todos e efeito vinculante. Modulação por dois terços. Irrecorrível, sem rescisória.
-BRUNO: Atenção: a lei não fixa o quórum de decisão da ADPF, aplica-se a maioria absoluta, seis, por analogia. E o inciso que dava legitimidade a qualquer pessoa lesada foi vetado.
-THALITA: Fechando: ADPF é subsidiária, instala com dois terços, e a pessoa lesada isolada não pode propor.
-FRANCISCA: Isso. Temos agora o controle concentrado federal completo. E os Estados também podem fazer controle concentrado, perante os Tribunais de Justiça.
-ANTONIO: Esse é o próximo tema: o controle concentrado estadual, e depois os princípios fundamentais dos artigos primeiro a quarto.
+THALITA: Dois pontos de detalhe, ADO e ADPF. Na ADO, o artigo cento e três, parágrafo segundo, diz que, declarada a inconstitucionalidade por omissão, será dada ciência ao Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em trinta dias.
+FRANCISCA: Então o Legislativo não tem prazo?
+THALITA: Na letra da Constituição, só ciência. Para o órgão administrativo, trinta dias, ou prazo razoável fixado excepcionalmente pelo Supremo, conforme a lei, artigo doze H, parágrafo primeiro.
+FRANCISCA: A ADPF tem dois formatos. A autônoma, do artigo primeiro, caput, da Lei nove mil oitocentos e oitenta e dois, que visa evitar ou reparar lesão a preceito fundamental resultante de ato do Poder Público. E a incidental, do parágrafo único, inciso primeiro, quando for relevante o fundamento da controvérsia constitucional sobre lei ou ato normativo federal, estadual ou municipal, incluídos os anteriores à Constituição.
+THALITA: É a única via concentrada para lei municipal em face da Constituição e para normas pré-constitucionais. Preceitos fundamentais, para o Supremo, são os princípios fundamentais dos artigos primeiro a quarto, os direitos e garantias fundamentais, as cláusulas pétreas e os princípios sensíveis.
+FRANCISCA: E a subsidiariedade, como é?
+THALITA: Artigo quarto, parágrafo primeiro: não será admitida ADPF quando houver qualquer outro meio eficaz de sanar a lesividade. Para o Supremo, meio eficaz é outro processo objetivo de igual amplitude.
+FRANCISCA: Os demais números. Liminar por maioria absoluta, e em extrema urgência o relator concede ad referendum. Instalação com pelo menos dois terços dos ministros presentes. Eficácia contra todos e efeito vinculante. Modulação por dois terços. Irrecorrível, sem rescisória.
+THALITA: Atenção: a lei não fixa o quórum de decisão da ADPF, aplica-se a maioria absoluta, seis, por analogia. E o inciso que dava legitimidade a qualquer pessoa lesada foi vetado.
+FRANCISCA: Fechando: ADPF é subsidiária, instala com dois terços, e a pessoa lesada isolada não pode propor.
+THALITA: Isso. Temos agora o controle concentrado federal completo. E os Estados também podem fazer controle concentrado, perante os Tribunais de Justiça.
+FRANCISCA: Esse é o próximo tema: o controle concentrado estadual, e depois os princípios fundamentais dos artigos primeiro a quarto.

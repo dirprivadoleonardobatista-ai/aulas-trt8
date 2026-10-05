@@ -4,37 +4,35 @@ SEGMENTO s111
 * Titularidade fica com o Estado; delegação transfere a execução
 * Licitação: sempre, não preferencialmente
 * Próprios x impróprios; uti universi x uti singuli; essenciais
-ANTONIO: Vimos como o Estado se une ao terceiro setor por convênios e termos de parceria. Agora olhamos para o núcleo da atividade administrativa: o serviço público. É a utilidade material que o Estado assume como sua, e presta direta ou indiretamente, sob regime de direito público.
+FRANCISCA: Vimos como o Estado se une ao terceiro setor por convênios e termos de parceria. Agora olhamos para o núcleo da atividade administrativa: o serviço público. É a utilidade material que o Estado assume como sua, e presta direta ou indiretamente, sob regime de direito público.
 THALITA: E onde a Constituição fala disso?
 FRANCISCA: No artigo cento e setenta e cinco. Incumbe ao Poder Público, na forma da lei, prestar os serviços públicos, diretamente ou sob regime de concessão ou permissão, sempre através de licitação.
-BRUNO: Duas pegadinhas. Primeira: o Estado mantém a titularidade, e a delegação transfere só a execução. Segunda: a licitação é sempre exigida. A FCC troca por preferencialmente.
-THALITA: Então titularidade nunca vai para o particular. Só a execução.
-ANTONIO: Exato. Agora as classificações. Serviços próprios são os assumidos pelo Estado como seus, prestados direta ou indiretamente, como transporte coletivo e energia. Impróprios são atividades privadas de interesse geral, só autorizadas e fiscalizadas pelo Estado, como táxi, bancos e ensino privado.
+THALITA: Duas pegadinhas. Primeira: o Estado mantém a titularidade, e a delegação transfere só a execução. Segunda: a licitação é sempre exigida. A FCC troca por preferencialmente.
+FRANCISCA: Então titularidade nunca vai para o particular. Só a execução.
+THALITA: Exato. Agora as classificações. Serviços próprios são os assumidos pelo Estado como seus, prestados direta ou indiretamente, como transporte coletivo e energia. Impróprios são atividades privadas de interesse geral, só autorizadas e fiscalizadas pelo Estado, como táxi, bancos e ensino privado.
 FRANCISCA: Cuidado: o autor Hely Lopes Meirelles usa os termos de modo diferente. Para ele, próprios são os que só o Estado presta, indelegáveis, e impróprios os delegáveis. Observe qual corrente o enunciado adota.
 THALITA: Então se a banca não diz, eu sigo a primeira?
-BRUNO: Siga a lógica do enunciado. Se ele falar em autorização e fiscalização, é a primeira corrente.
-ANTONIO: Outra divisão: uti universi e uti singuli. Os uti universi são gerais, indivisíveis, custeados por impostos, como segurança pública e defesa. Os uti singuli são individuais, divisíveis e mensuráveis, custeados por taxa ou tarifa, como água, energia e telefonia.
-THALITA: Macete: universi, todos juntos, imposto. Singuli, cada um, taxa ou tarifa.
-FRANCISCA: E os serviços essenciais são aqueles cuja falta ameaça a vida, a saúde ou a segurança. Limitam o direito de greve, pela Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove. Exemplos: água, saúde, transporte coletivo.
-
+FRANCISCA: Siga a lógica do enunciado. Se ele falar em autorização e fiscalização, é a primeira corrente.
+THALITA: Outra divisão: uti universi e uti singuli. Os uti universi são gerais, indivisíveis, custeados por impostos, como segurança pública e defesa. Os uti singuli são individuais, divisíveis e mensuráveis, custeados por taxa ou tarifa, como água, energia e telefonia.
+FRANCISCA: Macete: universi, todos juntos, imposto. Singuli, cada um, taxa ou tarifa.
+THALITA: E os serviços essenciais são aqueles cuja falta ameaça a vida, a saúde ou a segurança. Limitam o direito de greve, pela Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove. Exemplos: água, saúde, transporte coletivo.
 == SLIDE: Formas de prestação e serviço adequado
 * Direta, outorga legal e delegação negocial
 * Outorga: lei transfere titularidade e execução à Administração Indireta
 * Delegação: contrato ou ato transfere só a execução (art. 21, XII, CF)
 * Serviço adequado (art. 6º, § 1º): oito condições
-BRUNO: Falando em formas de prestação, são três. Direta, pelos órgãos do próprio ente. Outorga legal, quando a lei cria uma entidade da Administração Indireta e lhe transfere titularidade e execução. E delegação negocial, quando contrato ou ato transfere só a execução a um particular: concessão, permissão ou autorização, do artigo vinte e um, inciso doze, da Constituição.
+FRANCISCA: Falando em formas de prestação, são três. Direta, pelos órgãos do próprio ente. Outorga legal, quando a lei cria uma entidade da Administração Indireta e lhe transfere titularidade e execução. E delegação negocial, quando contrato ou ato transfere só a execução a um particular: concessão, permissão ou autorização, do artigo vinte e um, inciso doze, da Constituição.
 THALITA: Outorga transfere titularidade e delegação não. Posso guardar assim?
-ANTONIO: Pode. A outorga é por lei, e a delegação é por contrato ou ato. Agora o serviço adequado, no artigo sexto, parágrafo primeiro, da Lei oito mil novecentos e oitenta e sete, de mil novecentos e noventa e cinco: é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na prestação e modicidade das tarifas.
+FRANCISCA: Pode. A outorga é por lei, e a delegação é por contrato ou ato. Agora o serviço adequado, no artigo sexto, parágrafo primeiro, da Lei oito mil novecentos e oitenta e sete, de mil novecentos e noventa e cinco: é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na prestação e modicidade das tarifas.
 THALITA: Tem oito mesmo? Vou tentar repetir: regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia e modicidade. Acertei?
 FRANCISCA: Acertou todas. E repare que gratuidade e lucratividade não estão na lista.
-BRUNO: Essa é a troca clássica da FCC: ela insere condições falsas, como gratuidade ou lucratividade. Se aparecer algo fora das oito, está errado.
-ANTONIO: Vamos aprofundar a atualidade, no parágrafo segundo: é a modernidade das técnicas, dos equipamentos e das instalações, e a sua conservação, bem como a melhoria e a expansão do serviço.
+THALITA: Essa é a troca clássica da FCC: ela insere condições falsas, como gratuidade ou lucratividade. Se aparecer algo fora das oito, está errado.
+FRANCISCA: Vamos aprofundar a atualidade, no parágrafo segundo: é a modernidade das técnicas, dos equipamentos e das instalações, e a sua conservação, bem como a melhoria e a expansão do serviço.
 THALITA: E a modicidade, é tarifa baixa?
 FRANCISCA: É a tarifa acessível, e pode ser favorecida por receitas alternativas, previstas no artigo onze da lei. Não significa gratuidade.
-BRUNO: Já a generalidade significa atender a todos sem discriminação, mas tarifas diferenciadas por segmento de usuários são válidas, conforme o artigo treze.
-THALITA: Então tratar igual não impede tarifa diferente para estudante, por exemplo.
-ANTONIO: Exatamente, desde que prevista e justificada.
-
+THALITA: Já a generalidade significa atender a todos sem discriminação, mas tarifas diferenciadas por segmento de usuários são válidas, conforme o artigo treze.
+FRANCISCA: Então tratar igual não impede tarifa diferente para estudante, por exemplo.
+THALITA: Exatamente, desde que prevista e justificada.
 == SLIDE: Continuidade e interrupção legítima
 * Continuidade: serviço não pode parar; limita greve
 * Interrupção por emergência ou após aviso prévio
@@ -44,64 +42,61 @@ ANTONIO: Exatamente, desde que prevista e justificada.
 FRANCISCA: A continuidade significa que o serviço não pode parar. Ela limita a greve e também limita a exceção do contrato não cumprido, mas comporta exceção.
 THALITA: Qual exceção? Pode cortar a luz de quem não paga?
 FRANCISCA: Pode, em certas condições. O parágrafo terceiro do artigo sexto diz que não se caracteriza descontinuidade a interrupção em situação de emergência ou após prévio aviso, quando motivada por razões de ordem técnica ou de segurança das instalações, ou por inadimplemento do usuário, considerado o interesse da coletividade.
-BRUNO: Emergência dispensa aviso. Nos demais casos, aviso prévio. E uma lei de dois mil e vinte, a quatorze mil e quinze, incluiu o parágrafo quarto: o corte por inadimplemento não pode começar na sexta-feira, no sábado, no domingo, em feriado ou na véspera de feriado.
-THALITA: Corte na sexta não pode. Já anotei com letra grande!
-ANTONIO: O Superior Tribunal de Justiça admite o corte por débito atual, e não por débitos pretéritos consolidados. Ou seja, quem deve uma conta antiga, já cobrada de outra forma, não pode ter o serviço cortado por isso.
+THALITA: Emergência dispensa aviso. Nos demais casos, aviso prévio. E uma lei de dois mil e vinte, a quatorze mil e quinze, incluiu o parágrafo quarto: o corte por inadimplemento não pode começar na sexta-feira, no sábado, no domingo, em feriado ou na véspera de feriado.
+FRANCISCA: Corte na sexta não pode. Já anotei com letra grande!
+THALITA: O Superior Tribunal de Justiça admite o corte por débito atual, e não por débitos pretéritos consolidados. Ou seja, quem deve uma conta antiga, já cobrada de outra forma, não pode ter o serviço cortado por isso.
 FRANCISCA: Na contratação administrativa, essa lógica aparece de outra forma. Pela Lei de licitações, o contratado só pode suspender a execução do contrato depois de atraso de pagamento superior a dois meses.
-BRUNO: Então a FCC pode perguntar: o particular pode suspender a execução por atraso de um mês? Errado. Só após mais de dois meses.
-THALITA: Dois meses de atraso para suspender, e o corte de serviço não vale em fim de semana.
-ANTONIO: E vale lembrar o princípio da continuidade em relação à concessionária: ela não pode interromper por conta própria, mesmo quando o poder concedente descumpre o contrato. Voltaremos a isso na rescisão.
-
+THALITA: Então a FCC pode perguntar: o particular pode suspender a execução por atraso de um mês? Errado. Só após mais de dois meses.
+FRANCISCA: Dois meses de atraso para suspender, e o corte de serviço não vale em fim de semana.
+THALITA: E vale lembrar o princípio da continuidade em relação à concessionária: ela não pode interromper por conta própria, mesmo quando o poder concedente descumpre o contrato. Voltaremos a isso na rescisão.
 == SLIDE: Direitos dos usuários: Lei 13.460/2017
 * Código de Defesa do Usuário do Serviço Público
 * Aplica-se à Administração direta e indireta; subsidiária aos particulares
 * Boa-fé presumida; sem firma reconhecida; sem prova repetida
 * Ouvidoria: decisão em 30 dias; pedido a agentes em 20 dias
 * Conselhos consultivos; pesquisa de satisfação anual
-BRUNO: A Lei treze mil quatrocentos e sessenta, de dois mil e dezessete, é o Código de Defesa do Usuário do Serviço Público. Alcança a Administração direta e indireta de todos os entes, e se aplica subsidiariamente aos serviços prestados por particular. Não afasta o Código de Defesa do Consumidor quando houver relação de consumo.
+FRANCISCA: A Lei treze mil quatrocentos e sessenta, de dois mil e dezessete, é o Código de Defesa do Usuário do Serviço Público. Alcança a Administração direta e indireta de todos os entes, e se aplica subsidiariamente aos serviços prestados por particular. Não afasta o Código de Defesa do Consumidor quando houver relação de consumo.
 THALITA: Então não é o mesmo que o código do consumidor.
-ANTONIO: Não. E tem diretrizes próprias, no artigo quinto: presunção de boa-fé do usuário, vedação de exigir reconhecimento de firma, salvo dúvida de autenticidade, vedação de exigir nova prova de fato já comprovado, e uso de linguagem simples.
-FRANCISCA: A Carta de Serviços ao Usuário informa os serviços prestados, as formas de acesso, os compromissos e os padrões de qualidade, e deve ser publicada na internet.
-THALITA: E se eu quiser reclamar? Tenho de dizer o motivo?
-BRUNO: Boa pergunta. As manifestações são reclamações, denúncias, sugestões e elogios. Exigem identificação do usuário, mas são vedadas exigências sobre os motivos, e o recebimento nunca pode ser recusado.
-ANTONIO: A ouvidoria tem prazo de trinta dias, prorrogável uma vez por igual período, para a decisão administrativa final. Para pedidos de informação a agentes, vinte dias, também prorrogáveis uma vez.
+FRANCISCA: Não. E tem diretrizes próprias, no artigo quinto: presunção de boa-fé do usuário, vedação de exigir reconhecimento de firma, salvo dúvida de autenticidade, vedação de exigir nova prova de fato já comprovado, e uso de linguagem simples.
+THALITA: A Carta de Serviços ao Usuário informa os serviços prestados, as formas de acesso, os compromissos e os padrões de qualidade, e deve ser publicada na internet.
+FRANCISCA: E se eu quiser reclamar? Tenho de dizer o motivo?
+THALITA: Boa pergunta. As manifestações são reclamações, denúncias, sugestões e elogios. Exigem identificação do usuário, mas são vedadas exigências sobre os motivos, e o recebimento nunca pode ser recusado.
+FRANCISCA: A ouvidoria tem prazo de trinta dias, prorrogável uma vez por igual período, para a decisão administrativa final. Para pedidos de informação a agentes, vinte dias, também prorrogáveis uma vez.
 THALITA: Trinta e vinte, ambos prorrogáveis uma vez.
 FRANCISCA: Os conselhos de usuários são órgãos consultivos, e a participação é serviço relevante e não remunerado. E a avaliação é feita por pesquisa de satisfação, no mínimo anual.
-BRUNO: A FCC troca consultivo por deliberativo e diz que o conselheiro recebe remuneração. Os dois erros estão fáceis de pegar agora.
-
+THALITA: A FCC troca consultivo por deliberativo e diz que o conselheiro recebe remuneração. Os dois erros estão fáceis de pegar agora.
 == SLIDE: Concessão e permissão: conceitos e tarifa
 * Concessão: concorrência ou diálogo competitivo; pessoa jurídica ou consórcio; prazo determinado
 * Permissão: precária; pessoa física ou jurídica; contrato de adesão
 * Ambas por conta e risco do delegatário
 * Poder concedente responde queixas em 30 dias
 * Concessionária responde por todos os prejuízos (art. 25)
-ANTONIO: Na Lei oito mil novecentos e oitenta e sete, concessão de serviço público é a delegação da prestação, feita pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade, por sua conta e risco e por prazo determinado.
+FRANCISCA: Na Lei oito mil novecentos e oitenta e sete, concessão de serviço público é a delegação da prestação, feita pelo poder concedente, mediante licitação, na modalidade concorrência ou diálogo competitivo, a pessoa jurídica ou consórcio de empresas que demonstre capacidade, por sua conta e risco e por prazo determinado.
 THALITA: E permissão?
 FRANCISCA: É a delegação a título precário, mediante licitação, a pessoa física ou jurídica que demonstre capacidade, por sua conta e risco.
-BRUNO: O diálogo competitivo veio com a nova lei de licitações. E repare nas diferenças: concessão não admite pessoa física, e é por prazo determinado. A permissão admite pessoa física, é precária, e não menciona consórcio, prazo nem modalidade.
-THALITA: Macete: concessão é contrato, empresa e prazo. Permissão é adesão, pode ser pessoa física, e é precária.
-ANTONIO: Perfeito. A concessão é contrato administrativo. A permissão é contrato de adesão, nos termos do artigo quarenta, e pode ser revogada unilateralmente. Na retomada antecipada, a concessão tem encampação com indenização prévia, e a permissão tem revogação, em regra sem indenização.
-BRUNO: A FCC troca a precariedade entre os institutos e diz que a concessão se faz com pessoa física. Lembre: ambas são por conta e risco do delegatário e ambas exigem licitação.
-FRANCISCA: Quanto à tarifa, ela é fixada pelo preço da proposta vencedora, preservada por revisão e reajuste. A existência de serviço alternativo gratuito só condiciona a cobrança se a lei expressamente previr. E tributos supervenientes geram revisão, se comprovado o impacto, exceto os impostos sobre a renda.
-THALITA: E o poder concedente, o que faz?
-FRANCISCA: Regulamenta, fiscaliza, aplica penalidades, intervém, extingue, homologa reajustes, responde a queixas em até trinta dias e declara utilidade pública para desapropriação.
-BRUNO: Já a concessionária responde por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, e a fiscalização não exclui nem atenua essa responsabilidade. Seus empregados têm contrato de direito privado, sem vínculo com o poder concedente. E a transferência da concessão ou do controle societário sem anuência gera caducidade.
-
+THALITA: O diálogo competitivo veio com a nova lei de licitações. E repare nas diferenças: concessão não admite pessoa física, e é por prazo determinado. A permissão admite pessoa física, é precária, e não menciona consórcio, prazo nem modalidade.
+FRANCISCA: Macete: concessão é contrato, empresa e prazo. Permissão é adesão, pode ser pessoa física, e é precária.
+THALITA: Perfeito. A concessão é contrato administrativo. A permissão é contrato de adesão, nos termos do artigo quarenta, e pode ser revogada unilateralmente. Na retomada antecipada, a concessão tem encampação com indenização prévia, e a permissão tem revogação, em regra sem indenização.
+FRANCISCA: A FCC troca a precariedade entre os institutos e diz que a concessão se faz com pessoa física. Lembre: ambas são por conta e risco do delegatário e ambas exigem licitação.
+THALITA: Quanto à tarifa, ela é fixada pelo preço da proposta vencedora, preservada por revisão e reajuste. A existência de serviço alternativo gratuito só condiciona a cobrança se a lei expressamente previr. E tributos supervenientes geram revisão, se comprovado o impacto, exceto os impostos sobre a renda.
+FRANCISCA: E o poder concedente, o que faz?
+THALITA: Regulamenta, fiscaliza, aplica penalidades, intervém, extingue, homologa reajustes, responde a queixas em até trinta dias e declara utilidade pública para desapropriação.
+FRANCISCA: Já a concessionária responde por todos os prejuízos causados ao poder concedente, aos usuários ou a terceiros, e a fiscalização não exclui nem atenua essa responsabilidade. Seus empregados têm contrato de direito privado, sem vínculo com o poder concedente. E a transferência da concessão ou do controle societário sem anuência gera caducidade.
 == SLIDE: Intervenção e formas de extinção da concessão
 * Intervenção: decreto; processo em 30 dias; conclusão em 180 dias
 * Encampação: interesse público, lei específica, indenização prévia
 * Caducidade: inadimplência da concessionária, processo e decreto
 * Rescisão: pela concessionária, só por ação judicial
 * Também: termo, anulação e falência; bens reversíveis
-ANTONIO: Falemos da intervenção, nos artigos trinta e dois a trinta e quatro. É medida temporária, não extinção. É decretada por decreto, com interventor, prazo, objetivos e limites. Em trinta dias, o poder concedente deve instaurar processo para comprovar as causas e apurar responsabilidades, com ampla defesa, e concluí-lo em até cento e oitenta dias, sob pena de invalidade.
-THALITA: Quer dizer que o contraditório vem depois do decreto?
-FRANCISCA: Isso. O contraditório é posterior. Se a intervenção for ilegal, há nulidade, devolução imediata do serviço e indenização.
-BRUNO: Trinta para instaurar, cento e oitenta para concluir. Decore bem.
-ANTONIO: Agora a extinção, do artigo trinta e cinco. Primeira: advento do termo, o fim do prazo. A concessionária tem direito a indenização pelos investimentos em bens reversíveis ainda não amortizados.
+THALITA: Falemos da intervenção, nos artigos trinta e dois a trinta e quatro. É medida temporária, não extinção. É decretada por decreto, com interventor, prazo, objetivos e limites. Em trinta dias, o poder concedente deve instaurar processo para comprovar as causas e apurar responsabilidades, com ampla defesa, e concluí-lo em até cento e oitenta dias, sob pena de invalidade.
+FRANCISCA: Quer dizer que o contraditório vem depois do decreto?
+THALITA: Isso. O contraditório é posterior. Se a intervenção for ilegal, há nulidade, devolução imediata do serviço e indenização.
+FRANCISCA: Trinta para instaurar, cento e oitenta para concluir. Decore bem.
+THALITA: Agora a extinção, do artigo trinta e cinco. Primeira: advento do termo, o fim do prazo. A concessionária tem direito a indenização pelos investimentos em bens reversíveis ainda não amortizados.
 FRANCISCA: Segunda: encampação. É a retomada do serviço durante o prazo, por motivo de interesse público, mediante lei autorizativa específica e após prévio pagamento da indenização. Os requisitos são cumulativos, e não há culpa da concessionária.
 THALITA: Terceira, caducidade?
-BRUNO: A caducidade é por inadimplência da concessionária: serviço inadequado, descumprimento contratual, paralisação sem caso fortuito, perda de condições técnicas, não cumprimento de penalidades, não atender a intimação ou não apresentar regularidade fiscal em cento e oitenta dias. Antes, a concessionária é comunicada detalhadamente e recebe prazo para corrigir. Depois, processo com ampla defesa e decreto. A indenização não é prévia, e descontam-se multas e danos. O poder concedente não assume encargos com terceiros ou empregados.
-FRANCISCA: Quarta: rescisão. É a pedida pela concessionária, quando o poder concedente descumpre o contrato, e só por ação judicial. Os serviços não podem ser interrompidos até o trânsito em julgado.
-THALITA: Então a concessionária não pode parar por conta própria. Macete: encampação, Estado quer. Caducidade, culpa da concessionária. Rescisão, reclamação judicial.
-ANTONIO: Ótimo macete. Há ainda anulação e falência. Extinta a concessão, os bens reversíveis voltam ao poder concedente, com assunção imediata do serviço. Exemplo: o município quer retomar o transporte da empresa Beta, que cumpre o contrato, para criar uma empresa pública: é encampação, com lei específica e pagamento prévio.
-BRUNO: Se a Beta paralisasse as linhas sem justificativa, seria caducidade, por decreto, sem indenização prévia. Próximo tema: parcerias público-privadas e responsabilidade do Estado.
+FRANCISCA: A caducidade é por inadimplência da concessionária: serviço inadequado, descumprimento contratual, paralisação sem caso fortuito, perda de condições técnicas, não cumprimento de penalidades, não atender a intimação ou não apresentar regularidade fiscal em cento e oitenta dias. Antes, a concessionária é comunicada detalhadamente e recebe prazo para corrigir. Depois, processo com ampla defesa e decreto. A indenização não é prévia, e descontam-se multas e danos. O poder concedente não assume encargos com terceiros ou empregados.
+THALITA: Quarta: rescisão. É a pedida pela concessionária, quando o poder concedente descumpre o contrato, e só por ação judicial. Os serviços não podem ser interrompidos até o trânsito em julgado.
+FRANCISCA: Então a concessionária não pode parar por conta própria. Macete: encampação, Estado quer. Caducidade, culpa da concessionária. Rescisão, reclamação judicial.
+THALITA: Ótimo macete. Há ainda anulação e falência. Extinta a concessão, os bens reversíveis voltam ao poder concedente, com assunção imediata do serviço. Exemplo: o município quer retomar o transporte da empresa Beta, que cumpre o contrato, para criar uma empresa pública: é encampação, com lei específica e pagamento prévio.
+FRANCISCA: Se a Beta paralisasse as linhas sem justificativa, seria caducidade, por decreto, sem indenização prévia. Próximo tema: parcerias público-privadas e responsabilidade do Estado.

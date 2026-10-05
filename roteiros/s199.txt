@@ -4,13 +4,13 @@ SEGMENTO s199
 * Greve em atividade essencial: MPT pode ajuizar (art. 114, §3º)
 * Sentença normativa: até 4 anos; revisão após mais de 1 ano
 * Extensão: 3/4 dos empregadores e 3/4 dos empregados
-ANTONIO: Vimos nove questões. Vamos às últimas cinco. Décima questão, sobre dissídios coletivos. Letra A: o dissídio econômico pode ser ajuizado unilateralmente, sem negociação prévia. Letra B: em greve, só o sindicato patronal ajuíza, vedado o Ministério Público do Trabalho. Letra C: a sentença normativa vigora no máximo dois anos, revista a qualquer tempo. Letra D: extensão a toda a categoria depende de metade dos empregadores e metade dos empregados. Letra E: recusando-se as partes à negociação ou à arbitragem, podem, de comum acordo, ajuizar o dissídio econômico, com vigência de até quatro anos, revisão após mais de um ano.
-FRANCISCA: Pausa para pensar. Lembre do artigo cento e catorze da Constituição, parágrafos segundo e terceiro.
-THALITA: Eu iria na A. Dissídio é uma ação como outra qualquer, qualquer um propõe.
-BRUNO: Não, Thalita. O dissídio coletivo econômico exige comum acordo, parágrafo segundo do artigo cento e catorze, exigência declarada constitucional pelo Supremo, e pressupõe negociação frustrada, artigo seiscentos e dezesseis, parágrafo quarto, da CLT. Letra A errada.
+FRANCISCA: Vimos nove questões. Vamos às últimas cinco. Décima questão, sobre dissídios coletivos. Letra A: o dissídio econômico pode ser ajuizado unilateralmente, sem negociação prévia. Letra B: em greve, só o sindicato patronal ajuíza, vedado o Ministério Público do Trabalho. Letra C: a sentença normativa vigora no máximo dois anos, revista a qualquer tempo. Letra D: extensão a toda a categoria depende de metade dos empregadores e metade dos empregados. Letra E: recusando-se as partes à negociação ou à arbitragem, podem, de comum acordo, ajuizar o dissídio econômico, com vigência de até quatro anos, revisão após mais de um ano.
+THALITA: Pausa para pensar. Lembre do artigo cento e catorze da Constituição, parágrafos segundo e terceiro.
+FRANCISCA: Eu iria na A. Dissídio é uma ação como outra qualquer, qualquer um propõe.
+THALITA: Não, Francisca. O dissídio coletivo econômico exige comum acordo, parágrafo segundo do artigo cento e catorze, exigência declarada constitucional pelo Supremo, e pressupõe negociação frustrada, artigo seiscentos e dezesseis, parágrafo quarto, da CLT. Letra A errada.
 FRANCISCA: A letra B também. Em greve em atividade essencial, com possibilidade de lesão ao interesse público, o Ministério Público do Trabalho pode ajuizar o dissídio, parágrafo terceiro do artigo cento e catorze.
-ANTONIO: Na letra C, o teto de dois anos é o da convenção e do acordo coletivo. O da sentença normativa é de quatro anos, parágrafo único do artigo oitocentos e sessenta e oito, e a revisão exige mais de um ano de vigência, pelo artigo oitocentos e setenta e três.
-BRUNO: E a letra D troca os números: a extensão exige três quartos dos empregadores e três quartos dos empregados, artigo oitocentos e setenta. A letra E é o gabarito.
+THALITA: Na letra C, o teto de dois anos é o da convenção e do acordo coletivo. O da sentença normativa é de quatro anos, parágrafo único do artigo oitocentos e sessenta e oito, e a revisão exige mais de um ano de vigência, pelo artigo oitocentos e setenta e três.
+FRANCISCA: E a letra D troca os números: a extensão exige três quartos dos empregadores e três quartos dos empregados, artigo oitocentos e setenta. A letra E é o gabarito.
 THALITA: Macete: coletivo, comum acordo, quatro anos, revisão depois de um, extensão três quartos.
 == SLIDE: Questão 11: reclamação verbal
 * Reclamação verbal é distribuída antes de reduzida a termo (art. 786)
@@ -18,25 +18,25 @@ THALITA: Macete: coletivo, comum acordo, quatro anos, revisão depois de um, ext
 * Art. 841: segunda via em 48 horas; audiência depois de 5 dias
 * Jus postulandi: art. 791
 FRANCISCA: Décima primeira questão. Ana apresentou reclamação verbal no setor de distribuição contra o ex-empregador. A letra A diz que a reclamação deve ser reduzida a termo antes de distribuída. A B diz que, distribuída, Ana tem cinco dias para reduzi-la a termo, sob pena de perder o direito de reclamar por seis meses, salvo força maior. A C fala em dez dias e perda definitiva do direito. A D inverte os prazos da notificação. A E diz que a reclamação verbal não é admitida sem advogado.
-BRUNO: Pense: qual vem primeiro, a distribuição ou a redução a termo?
-THALITA: A redução a termo, para o escrivão registrar o que a Ana disse. Letra A.
-ANTONIO: É o contrário, Thalita. Pelo artigo setecentos e oitenta e seis, a reclamação verbal é distribuída antes de ser reduzida a termo. Depois a reclamante tem cinco dias para se apresentar à secretaria, conforme o parágrafo único, sob pena de perder, por seis meses, o direito de reclamar, pelo artigo setecentos e trinta e um. A letra B é o gabarito.
+THALITA: Pense: qual vem primeiro, a distribuição ou a redução a termo?
+FRANCISCA: A redução a termo, para o escrivão registrar o que a Ana disse. Letra A.
+THALITA: É o contrário, Francisca. Pelo artigo setecentos e oitenta e seis, a reclamação verbal é distribuída antes de ser reduzida a termo. Depois a reclamante tem cinco dias para se apresentar à secretaria, conforme o parágrafo único, sob pena de perder, por seis meses, o direito de reclamar, pelo artigo setecentos e trinta e um. A letra B é o gabarito.
 FRANCISCA: A letra C erra o prazo e a sanção: são cinco dias, e a perda é temporária, de seis meses, e não definitiva. A letra D inverte o artigo oitocentos e quarenta e um: a remessa da segunda via é em quarenta e oito horas, e a audiência é a primeira desimpedida depois de cinco dias.
-BRUNO: E a letra E é falsa. A CLT admite o jus postulandi, artigo setecentos e noventa e um, e a reclamação verbal, artigo oitocentos e quarenta.
-THALITA: Macete: distribui primeiro, depois cinco dias para reduzir a termo. Se não for, seis meses de castigo.
-ANTONIO: Esse "seis meses" aparece em várias questões, então não confunda com o dos dois arquivamentos seguidos.
+THALITA: E a letra E é falsa. A CLT admite o jus postulandi, artigo setecentos e noventa e um, e a reclamação verbal, artigo oitocentos e quarenta.
+FRANCISCA: Macete: distribui primeiro, depois cinco dias para reduzir a termo. Se não for, seis meses de castigo.
+THALITA: Esse "seis meses" aparece em várias questões, então não confunda com o dos dois arquivamentos seguidos.
 == SLIDE: Questão 12: audiências
 * Atraso do juiz: 15 minutos, depois os presentes podem sair (art. 815, §1º)
 * Não há tolerância legal para a parte (OJ 245 da SDI-1)
 * Razões finais: até 10 minutos; juiz renova a conciliação (arts. 846 e 850)
 * Defesa oral: 20 minutos; defesa escrita no PJe é permitida (art. 847)
 FRANCISCA: Décima segunda questão, sobre audiências. Considere quatro itens. Item um: se, até quinze minutos após a hora marcada, o juiz não comparece, os presentes podem se retirar, constando do livro de registro. Item dois: por analogia, a parte com até quinze minutos de atraso não pode ser declarada revel. Item três: aberta a audiência, o juiz propõe a conciliação, e terminada a instrução as partes podem aduzir razões finais em até dez minutos cada, depois o juiz renova a proposta. Item quatro: sem acordo, o reclamado tem trinta minutos para defesa oral, vedada a defesa escrita no PJe.
-ANTONIO: Hora de pensar. Item por item.
-THALITA: O item dois me parece justo. Se o juiz pode atrasar quinze minutos, a parte também.
-BRUNO: Justo, mas falso. Não há previsão legal que tolere o atraso da parte. A Orientação Jurisprudencial duzentos e quarenta e cinco da SDI um diz que não há tolerância. A analogia que parece boa é a pegadinha preferida da banca.
+THALITA: Hora de pensar. Item por item.
+FRANCISCA: O item dois me parece justo. Se o juiz pode atrasar quinze minutos, a parte também.
+THALITA: Justo, mas falso. Não há previsão legal que tolere o atraso da parte. A Orientação Jurisprudencial duzentos e quarenta e cinco da SDI um diz que não há tolerância. A analogia que parece boa é a pegadinha preferida da banca.
 FRANCISCA: O item um é verdadeiro, parágrafo primeiro do artigo oitocentos e quinze. O item três também: os artigos oitocentos e quarenta e seis e oitocentos e cinquenta tratam da proposta de conciliação, das razões finais em até dez minutos e da renovação.
-ANTONIO: E o item quatro é falso. A defesa oral é de vinte minutos, não trinta, e a defesa escrita pelo PJe é permitida até a audiência, artigo oitocentos e quarenta e sete, parágrafo único. Então um e três, letra A.
-BRUNO: A letra B inclui o item dois. A C tem dois e quatro, ambos falsos. A D inclui o quatro. A E também inclui o dois.
+THALITA: E o item quatro é falso. A defesa oral é de vinte minutos, não trinta, e a defesa escrita pelo PJe é permitida até a audiência, artigo oitocentos e quarenta e sete, parágrafo único. Então um e três, letra A.
+FRANCISCA: A letra B inclui o item dois. A C tem dois e quatro, ambos falsos. A D inclui o quatro. A E também inclui o dois.
 THALITA: Macete: juiz atrasa quinze, parte não tem tolerância. Defesa oral, vinte minutos, e PJe pode escrita.
 == SLIDE: Questão 13: ônus da prova
 * Súmula 461: FGTS, ônus do empregador
@@ -44,27 +44,27 @@ THALITA: Macete: juiz atrasa quinze, parte não tem tolerância. Defesa oral, vi
 * Súmula 212: término do contrato, ônus do empregador
 * Súmula 338, III: cartões britânicos são inválidos
 * Súmula 460: vale-transporte, ônus do empregador
-BRUNO: Décima terceira questão, ônus da prova. Letra A: é do empregado provar a irregularidade dos depósitos do FGTS. Letra B: o juiz pode distribuir diversamente o ônus na sentença, desde que fundamente. Letra C: o ônus de provar o término do contrato, negados a prestação de serviço e o despedimento, é do empregador, pelo princípio da continuidade. Letra D: cartões com horários uniformes são válidos, cabendo ao empregado provar a jornada. Letra E: é do empregado provar que satisfaz os requisitos do vale-transporte.
-ANTONIO: Pausa para pensar. Essa questão cobra exatamente a aula anterior.
-THALITA: Eu arriscaria a A. Se o empregado alega a irregularidade, ele prova.
-FRANCISCA: O pagamento do FGTS é fato extintivo, então a regularidade dos depósitos é ônus do empregador, Súmula quatrocentos e sessenta e um. A letra A está errada.
-ANTONIO: A letra B erra o momento. A distribuição diversa precisa de decisão anterior à abertura da instrução, com chance de desincumbência, artigo oitocentos e dezoito, parágrafos primeiro e segundo. Na sentença surpreenderia a parte.
-BRUNO: A letra C é o gabarito, literalidade da Súmula duzentos e doze do TST. Na letra D, cartões britânicos são inválidos como prova, invertendo-se o ônus para o empregador, Súmula trezentos e trinta e oito, inciso três. E a letra E contraria a Súmula quatrocentos e sessenta: é do empregador provar que o empregado não satisfaz os requisitos ou não pretende usar o benefício.
-THALITA: Macete: quase tudo é do empregador. A FCC troca o sujeito e espera que a gente caia.
-FRANCISCA: A leitura rápida custa caro. Confirme sempre quem é o sujeito da frase.
+FRANCISCA: Décima terceira questão, ônus da prova. Letra A: é do empregado provar a irregularidade dos depósitos do FGTS. Letra B: o juiz pode distribuir diversamente o ônus na sentença, desde que fundamente. Letra C: o ônus de provar o término do contrato, negados a prestação de serviço e o despedimento, é do empregador, pelo princípio da continuidade. Letra D: cartões com horários uniformes são válidos, cabendo ao empregado provar a jornada. Letra E: é do empregado provar que satisfaz os requisitos do vale-transporte.
+THALITA: Pausa para pensar. Essa questão cobra exatamente a aula anterior.
+FRANCISCA: Eu arriscaria a A. Se o empregado alega a irregularidade, ele prova.
+THALITA: O pagamento do FGTS é fato extintivo, então a regularidade dos depósitos é ônus do empregador, Súmula quatrocentos e sessenta e um. A letra A está errada.
+FRANCISCA: A letra B erra o momento. A distribuição diversa precisa de decisão anterior à abertura da instrução, com chance de desincumbência, artigo oitocentos e dezoito, parágrafos primeiro e segundo. Na sentença surpreenderia a parte.
+THALITA: A letra C é o gabarito, literalidade da Súmula duzentos e doze do TST. Na letra D, cartões britânicos são inválidos como prova, invertendo-se o ônus para o empregador, Súmula trezentos e trinta e oito, inciso três. E a letra E contraria a Súmula quatrocentos e sessenta: é do empregador provar que o empregado não satisfaz os requisitos ou não pretende usar o benefício.
+FRANCISCA: Macete: quase tudo é do empregador. A FCC troca o sujeito e espera que a gente caia.
+THALITA: A leitura rápida custa caro. Confirme sempre quem é o sujeito da frase.
 == SLIDE: Questão 14: juntada da ata e ação de cumprimento
 * Ata não juntada em 48 horas: prazo recursal conta da intimação (Súmula 30)
 * Juntada tardia não gera nulidade
 * Ação de cumprimento: independe do trânsito em julgado (Súmula 246)
 * Competência da Vara do Trabalho; vedado rediscutir a decisão normativa
-ANTONIO: Décima quarta e última questão. Tereza obteve sentença de procedência parcial, e a ata com a decisão foi juntada cinco dias depois da audiência. Depois saiu sentença normativa favorável à categoria, ainda pendente de recurso. A letra A diz que o prazo recursal conta da audiência, sendo irrelevante a juntada tardia. A B diz que a juntada após quarenta e oito horas gera nulidade absoluta. A C diz que a ação de cumprimento só pode ser ajuizada após o trânsito em julgado da normativa, por exigência do artigo oitocentos e setenta e dois. A D diz que o prazo corre da intimação, e que a ação de cumprimento pode ser proposta independentemente do trânsito. A E diz que a ação de cumprimento vai direto ao tribunal e pode rediscutir a matéria de fato.
-BRUNO: Pense antes de ouvir.
-THALITA: Eu iria na C. O artigo oitocentos e setenta e dois fala em trânsito em julgado, não fala?
-FRANCISCA: Fala, mas a Súmula duzentos e quarenta e seis do TST dispensa o trânsito em julgado para a ação de cumprimento. A banca coloca o texto da lei contra a súmula, e a súmula prevalece. A letra C é falsa.
-ANTONIO: A letra D é o gabarito, pelas Súmulas trinta e duzentos e quarenta e seis. Não juntada a ata em quarenta e oito horas, nos termos do artigo oitocentos e cinquenta e um, parágrafo segundo, o prazo recursal conta-se da intimação da sentença.
-BRUNO: A letra A erra por isso. A letra B exagera: a juntada tardia não gera nulidade, apenas desloca o início do prazo recursal. E a letra E está errada porque a ação de cumprimento é ajuizada na Vara do Trabalho e é vedado questionar matéria já apreciada na decisão normativa, parágrafo único do artigo oitocentos e setenta e dois.
+FRANCISCA: Décima quarta e última questão. Tereza obteve sentença de procedência parcial, e a ata com a decisão foi juntada cinco dias depois da audiência. Depois saiu sentença normativa favorável à categoria, ainda pendente de recurso. A letra A diz que o prazo recursal conta da audiência, sendo irrelevante a juntada tardia. A B diz que a juntada após quarenta e oito horas gera nulidade absoluta. A C diz que a ação de cumprimento só pode ser ajuizada após o trânsito em julgado da normativa, por exigência do artigo oitocentos e setenta e dois. A D diz que o prazo corre da intimação, e que a ação de cumprimento pode ser proposta independentemente do trânsito. A E diz que a ação de cumprimento vai direto ao tribunal e pode rediscutir a matéria de fato.
+THALITA: Pense antes de ouvir.
+FRANCISCA: Eu iria na C. O artigo oitocentos e setenta e dois fala em trânsito em julgado, não fala?
+THALITA: Fala, mas a Súmula duzentos e quarenta e seis do TST dispensa o trânsito em julgado para a ação de cumprimento. A banca coloca o texto da lei contra a súmula, e a súmula prevalece. A letra C é falsa.
+FRANCISCA: A letra D é o gabarito, pelas Súmulas trinta e duzentos e quarenta e seis. Não juntada a ata em quarenta e oito horas, nos termos do artigo oitocentos e cinquenta e um, parágrafo segundo, o prazo recursal conta-se da intimação da sentença.
+THALITA: A letra A erra por isso. A letra B exagera: a juntada tardia não gera nulidade, apenas desloca o início do prazo recursal. E a letra E está errada porque a ação de cumprimento é ajuizada na Vara do Trabalho e é vedado questionar matéria já apreciada na decisão normativa, parágrafo único do artigo oitocentos e setenta e dois.
 FRANCISCA: Ou seja, não rediscute o mérito da normativa; só cobra o cumprimento.
-ANTONIO: Pronto, terminamos as questões. Fechando, Thalita, o resumo.
-THALITA: Resumo relâmpago do que mais cai na FCC. Primeiro: reclamante ausente, arquivamento e custas, mesmo com gratuidade, e revelia é do reclamado. Segundo: o rol do parágrafo quarto do artigo oitocentos e quarenta e quatro afasta a confissão quando um réu contesta, direito indisponível ou prova contrária. Terceiro: sumaríssimo é quarenta salários mínimos, quinze dias, duas testemunhas, cinco dias para o laudo, sem edital, sem relatório. Quarto: testemunhas, três, dois e seis. Quinto: inquérito, trinta dias da suspensão, decadencial. Sexto: acordo homologado só por rescisória. Sétimo: embargos de declaração, cinco dias, interrompem o prazo. Oitavo: liquidação, oito dias para partes e dez para a União. Nono: dissídio econômico, comum acordo, quatro anos. Décimo: ônus da prova, quase tudo do empregador, e a ata tardia desloca o prazo.
-BRUNO: Perfeito, Thalita. Só não deixe a pressa trocar o sujeito da frase.
-ANTONIO: Chegamos ao fim da aula. Bons estudos e até a próxima!
+THALITA: Pronto, terminamos as questões. Fechando, Francisca, o resumo.
+FRANCISCA: Resumo relâmpago do que mais cai na FCC. Primeiro: reclamante ausente, arquivamento e custas, mesmo com gratuidade, e revelia é do reclamado. Segundo: o rol do parágrafo quarto do artigo oitocentos e quarenta e quatro afasta a confissão quando um réu contesta, direito indisponível ou prova contrária. Terceiro: sumaríssimo é quarenta salários mínimos, quinze dias, duas testemunhas, cinco dias para o laudo, sem edital, sem relatório. Quarto: testemunhas, três, dois e seis. Quinto: inquérito, trinta dias da suspensão, decadencial. Sexto: acordo homologado só por rescisória. Sétimo: embargos de declaração, cinco dias, interrompem o prazo. Oitavo: liquidação, oito dias para partes e dez para a União. Nono: dissídio econômico, comum acordo, quatro anos. Décimo: ônus da prova, quase tudo do empregador, e a ata tardia desloca o prazo.
+THALITA: Perfeito, Francisca. Só não deixe a pressa trocar o sujeito da frase.
+FRANCISCA: Chegamos ao fim da aula. Bons estudos e até a próxima!

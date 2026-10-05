@@ -5,35 +5,35 @@ SEGMENTO s229
 * Prazos: dias úteis; suspensão de 20 de dezembro a 20 de janeiro
 * Juiz: despacho 5, interlocutória 10, sentença 30 dias
 * Citação eletrônica preferencial; hora certa após duas procuras
-ANTONIO: Terminamos partes, intervenção e competência. Agora os atos processuais, a formação e a extinção do processo, e depois as questões.
+FRANCISCA: Terminamos partes, intervenção e competência. Agora os atos processuais, a formação e a extinção do processo, e depois as questões.
 THALITA: Começo perguntando: partes podem mudar o procedimento por acordo?
 FRANCISCA: Podem, é o negócio processual do artigo cento e noventa. Direitos que admitam autocomposição e partes plenamente capazes, antes ou durante o processo. O juiz só recusa por nulidade, abuso em contrato de adesão ou vulnerabilidade manifesta.
-BRUNO: E o calendário processual, artigo cento e noventa e um, vincula partes e juiz, e dispensa intimações dos atos nele fixados.
-ANTONIO: Pronunciamentos do juiz: a sentença põe fim à fase cognitiva ou extingue a execução. Decisão interlocutória é toda outra decisão. Despacho não decide. E atos ordinatórios dispensam despacho.
+THALITA: E o calendário processual, artigo cento e noventa e um, vincula partes e juiz, e dispensa intimações dos atos nele fixados.
+FRANCISCA: Pronunciamentos do juiz: a sentença põe fim à fase cognitiva ou extingue a execução. Decisão interlocutória é toda outra decisão. Despacho não decide. E atos ordinatórios dispensam despacho.
 THALITA: E o horário? Posso peticionar de madrugada?
-BRUNO: Atos processuais, dias úteis, das seis às vinte horas. Citação, intimação e penhora podem ocorrer em férias, feriados e fora do horário. O peticionamento eletrônico vai até as vinte e quatro horas do último dia.
-FRANCISCA: Prazos: só dias úteis, e só os processuais, artigo duzentos e dezenove. Suspensão de vinte de dezembro a vinte de janeiro, inclusive, sem audiências nem sessões. Prazo não fixado, cinco dias. Comparecimento após intimação, quarenta e oito horas.
-THALITA: Contagem exclui o dia do começo e inclui o do vencimento, certo?
-ANTONIO: Certíssimo, artigo duzentos e vinte e quatro. E no Diário de Justiça eletrônico, considera-se publicado no dia útil seguinte à disponibilização.
-BRUNO: Litisconsortes com advogados de escritórios distintos têm prazo em dobro, sem requerimento, mas não vale em autos eletrônicos. E cessa se só um dos dois réus se defende.
-FRANCISCA: Prazos do juiz: despacho em cinco dias, interlocutória em dez, sentença em trinta. Serventuário: conclusão em um dia e atos em cinco. A preclusão pode ser temporal, lógica ou consumativa.
-THALITA: Despacho cinco, interlocutória dez, sentença trinta. Fácil.
+FRANCISCA: Atos processuais, dias úteis, das seis às vinte horas. Citação, intimação e penhora podem ocorrer em férias, feriados e fora do horário. O peticionamento eletrônico vai até as vinte e quatro horas do último dia.
+THALITA: Prazos: só dias úteis, e só os processuais, artigo duzentos e dezenove. Suspensão de vinte de dezembro a vinte de janeiro, inclusive, sem audiências nem sessões. Prazo não fixado, cinco dias. Comparecimento após intimação, quarenta e oito horas.
+FRANCISCA: Contagem exclui o dia do começo e inclui o do vencimento, certo?
+THALITA: Certíssimo, artigo duzentos e vinte e quatro. E no Diário de Justiça eletrônico, considera-se publicado no dia útil seguinte à disponibilização.
+FRANCISCA: Litisconsortes com advogados de escritórios distintos têm prazo em dobro, sem requerimento, mas não vale em autos eletrônicos. E cessa se só um dos dois réus se defende.
+THALITA: Prazos do juiz: despacho em cinco dias, interlocutória em dez, sentença em trinta. Serventuário: conclusão em um dia e atos em cinco. A preclusão pode ser temporal, lógica ou consumativa.
+FRANCISCA: Despacho cinco, interlocutória dez, sentença trinta. Fácil.
 == SLIDE: Citação: modalidades e efeitos
 * Eletrônica preferencial, em até 2 dias úteis
 * Sem confirmação em 3 dias úteis: correio, oficial ou edital
 * Efeitos: litispendência, coisa litigiosa e mora
 * Edital: 20 a 60 dias
-ANTONIO: Citação, artigo duzentos e quarenta e seis. A forma preferencial é a eletrônica, em até dois dias úteis da decisão. Se não houver confirmação em três dias úteis, parte-se para o correio, o oficial, o escrivão ou o edital.
-BRUNO: Quem não confirma a citação eletrônica, sem justa causa, comete ato atentatório, com multa de até cinco por cento do valor da causa.
+THALITA: Citação, artigo duzentos e quarenta e seis. A forma preferencial é a eletrônica, em até dois dias úteis da decisão. Se não houver confirmação em três dias úteis, parte-se para o correio, o oficial, o escrivão ou o edital.
+FRANCISCA: Quem não confirma a citação eletrônica, sem justa causa, comete ato atentatório, com multa de até cinco por cento do valor da causa.
 THALITA: E a citação pelo correio, sempre vale?
 FRANCISCA: Não. É vedada nas ações de estado, para incapaz, para pessoa de direito público, em local sem entrega domiciliar e por requerimento justificado do autor.
-BRUNO: E há quem não se cita: quem está em culto, o parente do morto no dia do falecimento e nos sete dias seguintes, os noivos nos três dias após o casamento e o doente grave.
-ANTONIO: Efeitos da citação, artigo duzentos e quarenta: litispendência, coisa litigiosa e mora, ainda que ordenada por juízo incompetente. O despacho que ordena a citação interrompe a prescrição, com efeito retroativo à propositura. O autor tem dez dias para viabilizá-la.
+THALITA: E há quem não se cita: quem está em culto, o parente do morto no dia do falecimento e nos sete dias seguintes, os noivos nos três dias após o casamento e o doente grave.
+FRANCISCA: Efeitos da citação, artigo duzentos e quarenta: litispendência, coisa litigiosa e mora, ainda que ordenada por juízo incompetente. O despacho que ordena a citação interrompe a prescrição, com efeito retroativo à propositura. O autor tem dez dias para viabilizá-la.
 THALITA: E se o réu aparece sem ser citado?
 FRANCISCA: O comparecimento espontâneo supre a falta ou a nulidade da citação.
-BRUNO: Por edital, o prazo varia de vinte a sessenta dias. E quem requer edital com dolo, afirmando falsamente ignorar o endereço, paga multa de cinco salários mínimos.
-THALITA: Eletrônica, três dias de silêncio, outros meios. Anotado.
-ANTONIO: Agora a hora certa, que cai muito.
+THALITA: Por edital, o prazo varia de vinte a sessenta dias. E quem requer edital com dolo, afirmando falsamente ignorar o endereço, paga multa de cinco salários mínimos.
+FRANCISCA: Eletrônica, três dias de silêncio, outros meios. Anotado.
+THALITA: Agora a hora certa, que cai muito.
 == SLIDE: Citação com hora certa e nulidades
 * Pressuposto: duas procuras frustradas e suspeita de ocultação
 * Intimação a familiar ou vizinho; retorno sem novo despacho
@@ -41,47 +41,47 @@ ANTONIO: Agora a hora certa, que cai muito.
 * Nulidades: finalidade e prejuízo
 FRANCISCA: Hora certa, artigos duzentos e cinquenta e dois a duzentos e cinquenta e quatro. O oficial procura o citando duas vezes, no domicílio, sem encontrá-lo, e suspeita de ocultação. O Código anterior exigia três procuras, o atual exige duas.
 THALITA: E depois das duas procuras?
-BRUNO: Intima pessoa da família ou, na falta, vizinho, de que voltará no dia útil seguinte, em hora designada. O retorno independe de novo despacho. Se o citando estiver ausente, a citação se dá por feita, ainda que ele esteja oculto em outra comarca.
-ANTONIO: A contrafé é deixada com o familiar ou o vizinho. Vale mesmo que ele recuse receber o mandado. Na carta, adverte-se sobre a nomeação de curador especial em caso de revelia.
-THALITA: Eu chutaria que o escrivão manda uma carta depois.
-FRANCISCA: Acertou. O escrivão envia carta, telegrama ou correspondência eletrônica em dez dias da juntada do mandado. Intimação frustrada por meio eletrônico ou correio é feita por oficial.
-BRUNO: As cartas são de quatro tipos: de ordem, do tribunal para juízo vinculado; precatória, entre juízos; rogatória, para o exterior; e arbitral.
-ANTONIO: Sobre nulidades, artigos duzentos e setenta e seis a duzentos e oitenta e três. Quem deu causa não pode alegar. O ato que atingiu a finalidade vale. A alegação se faz na primeira oportunidade, salvo as de ofício. Sem prejuízo, não se repete o ato.
+FRANCISCA: Intima pessoa da família ou, na falta, vizinho, de que voltará no dia útil seguinte, em hora designada. O retorno independe de novo despacho. Se o citando estiver ausente, a citação se dá por feita, ainda que ele esteja oculto em outra comarca.
+THALITA: A contrafé é deixada com o familiar ou o vizinho. Vale mesmo que ele recuse receber o mandado. Na carta, adverte-se sobre a nomeação de curador especial em caso de revelia.
+FRANCISCA: Eu chutaria que o escrivão manda uma carta depois.
+THALITA: Acertou. O escrivão envia carta, telegrama ou correspondência eletrônica em dez dias da juntada do mandado. Intimação frustrada por meio eletrônico ou correio é feita por oficial.
+FRANCISCA: As cartas são de quatro tipos: de ordem, do tribunal para juízo vinculado; precatória, entre juízos; rogatória, para o exterior; e arbitral.
+THALITA: Sobre nulidades, artigos duzentos e setenta e seis a duzentos e oitenta e três. Quem deu causa não pode alegar. O ato que atingiu a finalidade vale. A alegação se faz na primeira oportunidade, salvo as de ofício. Sem prejuízo, não se repete o ato.
 FRANCISCA: Se o mérito favorecer a parte, a nulidade não se pronuncia. E só se anulam os atos dependentes.
 THALITA: Finalidade e prejuízo: o resumo de qualquer nulidade.
-BRUNO: Agora a formação, a suspensão e a extinção do processo.
+FRANCISCA: Agora a formação, a suspensão e a extinção do processo.
 == SLIDE: Suspensão e extinção do processo
 * Suspensão: morte, convenção até 6 meses, prejudicialidade até 1 ano
 * Sem mérito: art. 485; com mérito: art. 487
 * Desistência: consentimento do réu após contestação
 * Renúncia à pretensão: resolução de mérito
-ANTONIO: Proposta a ação, o processo se forma no protocolo. Para o réu, os efeitos do artigo duzentos e quarenta só vêm após a citação válida.
+THALITA: Proposta a ação, o processo se forma no protocolo. Para o réu, os efeitos do artigo duzentos e quarenta só vêm após a citação válida.
 FRANCISCA: Suspensão, artigo trezentos e treze: morte ou incapacidade de parte, representante ou procurador, com quinze dias para novo advogado na morte do patrono; convenção das partes, até seis meses; arguição de impedimento ou suspeição; incidente de resolução de demandas repetitivas admitido.
 THALITA: Tem limite máximo?
-BRUNO: A prejudicialidade externa suspende até um ano. Parto ou adoção da advogada única patrona, trinta dias, e paternidade do advogado único, oito dias.
-ANTONIO: Agora o contraste mais cobrado: o artigo quatrocentos e oitenta e cinco, sem resolução de mérito. Indeferimento da inicial; processo parado por mais de um ano por negligência; abandono pelo autor por mais de trinta dias; falta de pressupostos; perempção, litispendência e coisa julgada.
+FRANCISCA: A prejudicialidade externa suspende até um ano. Parto ou adoção da advogada única patrona, trinta dias, e paternidade do advogado único, oito dias.
+THALITA: Agora o contraste mais cobrado: o artigo quatrocentos e oitenta e cinco, sem resolução de mérito. Indeferimento da inicial; processo parado por mais de um ano por negligência; abandono pelo autor por mais de trinta dias; falta de pressupostos; perempção, litispendência e coisa julgada.
 FRANCISCA: Também falta de legitimidade ou interesse, convenção de arbitragem, desistência e morte, quando a ação é intransmissível.
-BRUNO: O artigo quatrocentos e oitenta e sete traz o mérito: acolher ou rejeitar o pedido, reconhecer prescrição ou decadência, homologar reconhecimento do pedido, transação e renúncia à pretensão.
-THALITA: Macete: desistência da ação não é mérito; renúncia ao direito é mérito.
-ANTONIO: Exato. Na desistência após a contestação, é preciso o consentimento do réu, até a sentença. No abandono, há intimação pessoal para suprir em cinco dias, e após a contestação, depende de requerimento do réu.
+THALITA: O artigo quatrocentos e oitenta e sete traz o mérito: acolher ou rejeitar o pedido, reconhecer prescrição ou decadência, homologar reconhecimento do pedido, transação e renúncia à pretensão.
+FRANCISCA: Macete: desistência da ação não é mérito; renúncia ao direito é mérito.
+THALITA: Exato. Na desistência após a contestação, é preciso o consentimento do réu, até a sentença. No abandono, há intimação pessoal para suprir em cinco dias, e após a contestação, depende de requerimento do réu.
 FRANCISCA: Falta de pressupostos, coisa julgada, condições da ação e intransmissibilidade são conhecidas de ofício, enquanto não houver trânsito em julgado.
-BRUNO: Na apelação contra sentença sem mérito, o juiz tem cinco dias para se retratar. Três abandonos geram perempção. E prescrição e decadência exigem oitiva prévia, salvo improcedência liminar.
-THALITA: Então vamos treinar! Questões, mãos à obra.
+THALITA: Na apelação contra sentença sem mérito, o juiz tem cinco dias para se retratar. Três abandonos geram perempção. E prescrição e decadência exigem oitiva prévia, salvo improcedência liminar.
+FRANCISCA: Então vamos treinar! Questões, mãos à obra.
 == SLIDE: Questões um a quatro
 * Q1: atuação em outro grau é impedimento
 * Q2: o oficial certifica proposta de autocomposição
 * Q3: hora certa exige duas procuras
 * Q4: fiador usa chamamento ao processo
-ANTONIO: Questão um. É hipótese de impedimento do juiz: A, ser amigo íntimo do advogado do autor. B, ser credor de uma das partes. C, ter decidido a causa em outro grau de jurisdição. D, ter aconselhado uma das partes. E, ser interessado no julgamento em favor de uma das partes. Pausa para pensar.
-THALITA: Eu marcaria a A. Amigo íntimo parece grave.
-FRANCISCA: É grave, mas é suspeição. Gabarito C: decidir a causa em outro grau é impedimento, artigo cento e quarenta e quatro, inciso dois. As demais, B, D e E, são hipóteses de suspeição.
-BRUNO: Questão dois. Ao citar Bruno, o oficial recebe proposta de acordo. O oficial A, certifica a proposta no mandado, e a parte contrária é intimada em cinco dias, com o silêncio valendo como recusa. B, devolve o mandado sem cumprir. C, certifica e o processo fica suspenso. D, o silêncio em quinze dias vale como aceitação. E, designa audiência.
+THALITA: Questão um. É hipótese de impedimento do juiz: A, ser amigo íntimo do advogado do autor. B, ser credor de uma das partes. C, ter decidido a causa em outro grau de jurisdição. D, ter aconselhado uma das partes. E, ser interessado no julgamento em favor de uma das partes. Pausa para pensar.
+FRANCISCA: Eu marcaria a A. Amigo íntimo parece grave.
+THALITA: É grave, mas é suspeição. Gabarito C: decidir a causa em outro grau é impedimento, artigo cento e quarenta e quatro, inciso dois. As demais, B, D e E, são hipóteses de suspeição.
+FRANCISCA: Questão dois. Ao citar Bruno, o oficial recebe proposta de acordo. O oficial A, certifica a proposta no mandado, e a parte contrária é intimada em cinco dias, com o silêncio valendo como recusa. B, devolve o mandado sem cumprir. C, certifica e o processo fica suspenso. D, o silêncio em quinze dias vale como aceitação. E, designa audiência.
 THALITA: A letra A, porque lembro do silêncio como recusa.
-ANTONIO: Correta, artigo cento e cinquenta e quatro, inciso seis. B erra, certificar é atribuição. C erra, não há suspensão. D troca recusa por aceitação. E erra, oficial não designa audiência.
-FRANCISCA: Questão três, hora certa. A, exige três procuras. B, depende de novo despacho. C, nula se o vizinho recusar a contrafé. D, dispensa advertência sobre curador especial. E, completa-se com carta, telegrama ou correspondência eletrônica do escrivão em dez dias.
-THALITA: Eu iria na A, de três procuras, do Código antigo.
-BRUNO: Era a pegadinha. Gabarito E, artigo duzentos e cinquenta e quatro. A erra, bastam duas. B erra, não precisa novo despacho. C erra, a recusa não impede. D erra, a advertência é obrigatória.
-ANTONIO: Questão quatro. Carla, fiadora, é demandada sozinha. Para trazer o devedor afiançado: A, denunciação na contestação. B, chamamento ao processo na contestação. C, assistência litisconsorcial. D, desconsideração da personalidade. E, chamamento promovido por autor ou réu.
+FRANCISCA: Correta, artigo cento e cinquenta e quatro, inciso seis. B erra, certificar é atribuição. C erra, não há suspensão. D troca recusa por aceitação. E erra, oficial não designa audiência.
+THALITA: Questão três, hora certa. A, exige três procuras. B, depende de novo despacho. C, nula se o vizinho recusar a contrafé. D, dispensa advertência sobre curador especial. E, completa-se com carta, telegrama ou correspondência eletrônica do escrivão em dez dias.
+FRANCISCA: Eu iria na A, de três procuras, do Código antigo.
+THALITA: Era a pegadinha. Gabarito E, artigo duzentos e cinquenta e quatro. A erra, bastam duas. B erra, não precisa novo despacho. C erra, a recusa não impede. D erra, a advertência é obrigatória.
+FRANCISCA: Questão quatro. Carla, fiadora, é demandada sozinha. Para trazer o devedor afiançado: A, denunciação na contestação. B, chamamento ao processo na contestação. C, assistência litisconsorcial. D, desconsideração da personalidade. E, chamamento promovido por autor ou réu.
 THALITA: Chamamento, na contestação, B.
 FRANCISCA: Isso. A erra, denunciação é para evicção e regresso. C erra, assistência é do terceiro. D atinge sócios. E erra, o chamamento é só do réu.
 == SLIDE: Questões cinco a oito
@@ -89,28 +89,28 @@ FRANCISCA: Isso. A erra, denunciação é para evicção e regresso. C erra, ass
 * Q6: má-fé, mais de 1% e menos de 10%
 * Q7: autos físicos, prazo em dobro
 * Q8: renúncia é resolução de mérito
-BRUNO: Questão cinco. Pelo artigo sessenta e três, na redação da lei catorze mil oitocentos e setenta e nove, a cláusula de eleição de foro: A, dispensa forma escrita. B, pode eleger qualquer foro. C, não obriga herdeiros. D, se abusiva, pode ser declarada ineficaz de ofício antes da citação, com remessa ao foro do réu. E, modifica competência em razão da matéria.
-THALITA: Eu escolheria a D.
-ANTONIO: Correta. A erra, exige forma escrita. B erra, exige pertinência. C erra, obriga herdeiros e sucessores. E erra, só valor e território são derrogáveis.
+THALITA: Questão cinco. Pelo artigo sessenta e três, na redação da lei catorze mil oitocentos e setenta e nove, a cláusula de eleição de foro: A, dispensa forma escrita. B, pode eleger qualquer foro. C, não obriga herdeiros. D, se abusiva, pode ser declarada ineficaz de ofício antes da citação, com remessa ao foro do réu. E, modifica competência em razão da matéria.
+FRANCISCA: Eu escolheria a D.
+THALITA: Correta. A erra, exige forma escrita. B erra, exige pertinência. C erra, obriga herdeiros e sucessores. E erra, só valor e território são derrogáveis.
 FRANCISCA: Questão seis. Márcio interpôs recurso manifestamente protelatório. A multa: A, superior a um por cento e inferior a dez, em favor da parte contrária. B, até vinte por cento, para a União. C, depende de requerimento. D, não cumula com indenização. E, até cinco salários mínimos se irrisório.
 THALITA: A letra A, porque má-fé é para a parte.
-BRUNO: Certo. B é o regime do ato atentatório. C erra, cabe de ofício. D erra, soma-se indenização. E erra: até dez salários mínimos.
-ANTONIO: Questão sete, prazos. A, dias corridos. B, suspendem de vinte de dezembro a trinta e um de janeiro. C, litisconsortes com advogados distintos têm prazo em dobro em autos físicos, sem requerimento. D, sentença em dez dias. E, sem prazo, quinze dias.
-THALITA: Dobro automático, C.
-FRANCISCA: Correta. A erra, só dias úteis. B erra, até vinte de janeiro. D erra, sentença em trinta dias. E erra, são cinco dias.
-BRUNO: Questão oito. Haverá resolução de mérito quando o juiz: A, homologar desistência. B, reconhecer litispendência. C, acolher convenção de arbitragem. D, constatar abandono por mais de trinta dias. E, homologar renúncia à pretensão.
+FRANCISCA: Certo. B é o regime do ato atentatório. C erra, cabe de ofício. D erra, soma-se indenização. E erra: até dez salários mínimos.
+THALITA: Questão sete, prazos. A, dias corridos. B, suspendem de vinte de dezembro a trinta e um de janeiro. C, litisconsortes com advogados distintos têm prazo em dobro em autos físicos, sem requerimento. D, sentença em dez dias. E, sem prazo, quinze dias.
+FRANCISCA: Dobro automático, C.
+THALITA: Correta. A erra, só dias úteis. B erra, até vinte de janeiro. D erra, sentença em trinta dias. E erra, são cinco dias.
+FRANCISCA: Questão oito. Haverá resolução de mérito quando o juiz: A, homologar desistência. B, reconhecer litispendência. C, acolher convenção de arbitragem. D, constatar abandono por mais de trinta dias. E, homologar renúncia à pretensão.
 THALITA: Renúncia é mérito, então E.
-ANTONIO: Exato, artigo quatrocentos e oitenta e sete, inciso três. As demais estão no artigo quatrocentos e oitenta e cinco: desistência, litispendência, arbitragem e abandono.
+FRANCISCA: Exato, artigo quatrocentos e oitenta e sete, inciso três. As demais estão no artigo quatrocentos e oitenta e cinco: desistência, litispendência, arbitragem e abandono.
 == SLIDE: Questões nove e dez e revisão final
 * Q9: Fazenda acima de 200 até 2.000 salários: 8% a 10%
 * Q10: MP não intervém só porque há Fazenda
 * Revisão: impedimento x suspeição, citação, competência, mérito
-FRANCISCA: Questão nove. Em condenação da Fazenda Pública acima de duzentos até dois mil salários mínimos, os honorários ficam entre: A, dez e vinte por cento. B, oito e dez. C, cinco e oito. D, três e cinco. E, um e três.
-THALITA: B, de oito a dez por cento.
-BRUNO: Correta, artigo oitenta e cinco, parágrafo terceiro, inciso dois. A A é a faixa até duzentos; C, D e E são as faixas seguintes.
-ANTONIO: Questão dez. Considere: um, a participação da Fazenda Pública, por si só, exige intervenção do Ministério Público. Dois, a Defensoria tem prazo em dobro e intimação pessoal. Três, o juiz não decide com fundamento não debatido, ainda que conhecível de ofício. Está correto o que se afirma em: A, só um. B, um e dois. C, um e três. D, dois e três. E, todos.
+THALITA: Questão nove. Em condenação da Fazenda Pública acima de duzentos até dois mil salários mínimos, os honorários ficam entre: A, dez e vinte por cento. B, oito e dez. C, cinco e oito. D, três e cinco. E, um e três.
+FRANCISCA: B, de oito a dez por cento.
+THALITA: Correta, artigo oitenta e cinco, parágrafo terceiro, inciso dois. A A é a faixa até duzentos; C, D e E são as faixas seguintes.
+FRANCISCA: Questão dez. Considere: um, a participação da Fazenda Pública, por si só, exige intervenção do Ministério Público. Dois, a Defensoria tem prazo em dobro e intimação pessoal. Três, o juiz não decide com fundamento não debatido, ainda que conhecível de ofício. Está correto o que se afirma em: A, só um. B, um e dois. C, um e três. D, dois e três. E, todos.
 THALITA: Eu marcaria E.
 FRANCISCA: O item um é falso: a Fazenda, por si só, não exige intervenção, artigo cento e setenta e oito, parágrafo único. Dois e três são verdadeiros, artigos cento e oitenta e seis e dez. Gabarito D.
 THALITA: Agora meu resumo relâmpago. Normas fundamentais: contraditório prévio e proibição de decisão surpresa. Impedimento é objetivo e cabe rescisória; suspeição é subjetiva e preclui. Má-fé, de um a dez por cento; ato atentatório, até vinte. Absoluta, de ofício; relativa, só se alegada. Hora certa, duas procuras. E renúncia é mérito, desistência não.
-BRUNO: Perfeito. E lembre dos prazos: dias úteis, sentença em trinta dias.
-ANTONIO: Terminamos a parte geral do Processo Civil. Bons estudos e até a próxima aula!
+FRANCISCA: Perfeito. E lembre dos prazos: dias úteis, sentença em trinta dias.
+THALITA: Terminamos a parte geral do Processo Civil. Bons estudos e até a próxima aula!

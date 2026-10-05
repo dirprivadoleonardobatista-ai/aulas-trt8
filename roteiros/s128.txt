@@ -4,82 +4,82 @@ SEGMENTO s128
 * Suspensão até 90 dias; advertência sempre por escrito
 * Art. 128: gravidade, danos, agravantes e atenuantes, antecedentes
 * Ato com fundamento legal e causa da sanção; art. 132 sem dosimetria para baixo
-ANTONIO: Falamos das esferas de responsabilidade; agora vamos à esfera administrativa e às penalidades que ela pode aplicar. O artigo cento e vinte e sete traz seis: advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão e destituição de função comissionada.
+FRANCISCA: Falamos das esferas de responsabilidade; agora vamos à esfera administrativa e às penalidades que ela pode aplicar. O artigo cento e vinte e sete traz seis: advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão e destituição de função comissionada.
 THALITA: Parece uma escada, da mais leve para a mais pesada.
 FRANCISCA: É isso. Advertência, sempre por escrito. Suspensão, até noventa dias, que pode ser convertida em multa. Demissão, que rompe o vínculo por falta grave. Cassação, que alcança o inativo que, na ativa, cometeu falta punível com demissão. E as destituições, de cargo em comissão e de função de confiança.
-BRUNO: Na aplicação, a autoridade segue a dosimetria do artigo cento e vinte e oito: natureza e gravidade da infração, danos para o serviço público, agravantes e atenuantes e antecedentes funcionais.
-THALITA: E o ato tem que explicar por que aplicou a pena, certo?
-BRUNO: O parágrafo único exige que o ato mencione sempre o fundamento legal e a causa da sanção. Sem motivação, o ato é nulo. Mas atenção: nas hipóteses do artigo cento e trinta e dois, a Súmula seiscentos e cinquenta do Superior Tribunal de Justiça veda a dosimetria para baixo. Se é caso de demissão, não cabe pena menor.
+THALITA: Na aplicação, a autoridade segue a dosimetria do artigo cento e vinte e oito: natureza e gravidade da infração, danos para o serviço público, agravantes e atenuantes e antecedentes funcionais.
+FRANCISCA: E o ato tem que explicar por que aplicou a pena, certo?
+THALITA: O parágrafo único exige que o ato mencione sempre o fundamento legal e a causa da sanção. Sem motivação, o ato é nulo. Mas atenção: nas hipóteses do artigo cento e trinta e dois, a Súmula seiscentos e cinquenta do Superior Tribunal de Justiça veda a dosimetria para baixo. Se é caso de demissão, não cabe pena menor.
 FRANCISCA: A cassação está no artigo cento e trinta e quatro. A destituição de cargo em comissão, no cento e trinta e cinco, vale para quem não é efetivo, quando a falta merecer suspensão ou demissão.
 == SLIDE: As treze hipóteses de demissão
 * Art. 132: treze hipóteses
 * I crime contra a Administração; II abandono; III inassiduidade; IV improbidade
 * V a IX: conduta escandalosa, insubordinação, ofensa física, dinheiro público, segredo
 * X corrupção e lesão ao erário; XII acumulação; XIII proibições do art. 117
-ANTONIO: O artigo cento e trinta e dois lista treze hipóteses de demissão. Primeira: crime contra a Administração Pública. Segunda: abandono de cargo. Terceira: inassiduidade habitual. Quarta: improbidade administrativa.
+THALITA: O artigo cento e trinta e dois lista treze hipóteses de demissão. Primeira: crime contra a Administração Pública. Segunda: abandono de cargo. Terceira: inassiduidade habitual. Quarta: improbidade administrativa.
 FRANCISCA: Quinta: incontinência pública e conduta escandalosa na repartição. Sexta: insubordinação grave em serviço. Sétima: ofensa física em serviço a servidor ou a particular, salvo legítima defesa própria ou alheia. Oitava: aplicação irregular de dinheiros públicos.
-BRUNO: Nona: revelação de segredo apropriado em razão do cargo. Décima: lesão aos cofres públicos e dilapidação do patrimônio nacional. Décima primeira: corrupção. Décima segunda: acumulação ilegal de cargos, empregos ou funções públicas, em que a boa-fé afasta a demissão. Décima terceira: transgressão das proibições do artigo cento e dezessete, incisos nono a dezesseis.
-THALITA: Treze é muita coisa. Tem macete para decorar?
-BRUNO: O macete é saber quais têm efeitos extras. O artigo cento e trinta e seis trata de indisponibilidade de bens e ressarcimento ao erário nos incisos quarto, oitavo, décimo e décimo primeiro. Já a vedação de retorno ao serviço federal vale para os incisos primeiro, quarto, oitavo, décimo e décimo primeiro.
-THALITA: Ou seja, o inciso primeiro aparece na vedação de retorno, mas não na indisponibilidade de bens.
-FRANCISCA: Exatamente. E o Superior Tribunal de Justiça, na Súmula seiscentos e cinquenta e um, diz que a autoridade administrativa pode aplicar a demissão por improbidade sem exigir prévia condenação judicial à perda da função. A ação de improbidade e o processo disciplinar são independentes.
-BRUNO: Os incisos segundo e terceiro, abandono e inassiduidade, seguem rito sumário, e já vamos ver as diferenças.
+THALITA: Nona: revelação de segredo apropriado em razão do cargo. Décima: lesão aos cofres públicos e dilapidação do patrimônio nacional. Décima primeira: corrupção. Décima segunda: acumulação ilegal de cargos, empregos ou funções públicas, em que a boa-fé afasta a demissão. Décima terceira: transgressão das proibições do artigo cento e dezessete, incisos nono a dezesseis.
+FRANCISCA: Treze é muita coisa. Tem macete para decorar?
+THALITA: O macete é saber quais têm efeitos extras. O artigo cento e trinta e seis trata de indisponibilidade de bens e ressarcimento ao erário nos incisos quarto, oitavo, décimo e décimo primeiro. Já a vedação de retorno ao serviço federal vale para os incisos primeiro, quarto, oitavo, décimo e décimo primeiro.
+FRANCISCA: Ou seja, o inciso primeiro aparece na vedação de retorno, mas não na indisponibilidade de bens.
+THALITA: Exatamente. E o Superior Tribunal de Justiça, na Súmula seiscentos e cinquenta e um, diz que a autoridade administrativa pode aplicar a demissão por improbidade sem exigir prévia condenação judicial à perda da função. A ação de improbidade e o processo disciplinar são independentes.
+FRANCISCA: Os incisos segundo e terceiro, abandono e inassiduidade, seguem rito sumário, e já vamos ver as diferenças.
 == SLIDE: Efeitos acessórios e cancelamento de registros
 * Indisponibilidade de bens: art. 132, IV, VIII, X e XI (art. 136)
 * Incompatibilização de 5 anos: art. 117, IX e XI (art. 137)
 * Vedação definitiva: art. 132, I, IV, VIII, X e XI
 * Cancelamento: advertência 3 anos; suspensão 5 anos (art. 131)
-ANTONIO: Os efeitos acessórios. Primeiro, a indisponibilidade dos bens e o ressarcimento ao erário, artigo cento e trinta e seis, para demissão ou destituição pelos incisos quarto, oitavo, décimo e décimo primeiro do artigo cento e trinta e dois, sem prejuízo da ação penal.
-THALITA: E a incompatibilização para voltar ao serviço?
-FRANCISCA: Dois regimes. No caput do artigo cento e trinta e sete, a incompatibilização para nova investidura federal dura cinco anos, para demissão ou destituição por infração ao artigo cento e dezessete, incisos nono e décimo primeiro. No parágrafo único, a vedação é definitiva, para os incisos primeiro, quarto, oitavo, décimo e décimo primeiro do artigo cento e trinta e dois.
-BRUNO: Pegadinha clássica: o caput fala em cinco anos só para os incisos nono e décimo primeiro do artigo cento e dezessete. Quem confunde as duas listas erra. Outra regra: a exoneração de comissionado, quando se constata infração que merecia suspensão ou demissão, é convertida em destituição.
+THALITA: Os efeitos acessórios. Primeiro, a indisponibilidade dos bens e o ressarcimento ao erário, artigo cento e trinta e seis, para demissão ou destituição pelos incisos quarto, oitavo, décimo e décimo primeiro do artigo cento e trinta e dois, sem prejuízo da ação penal.
+FRANCISCA: E a incompatibilização para voltar ao serviço?
+THALITA: Dois regimes. No caput do artigo cento e trinta e sete, a incompatibilização para nova investidura federal dura cinco anos, para demissão ou destituição por infração ao artigo cento e dezessete, incisos nono e décimo primeiro. No parágrafo único, a vedação é definitiva, para os incisos primeiro, quarto, oitavo, décimo e décimo primeiro do artigo cento e trinta e dois.
+FRANCISCA: Pegadinha clássica: o caput fala em cinco anos só para os incisos nono e décimo primeiro do artigo cento e dezessete. Quem confunde as duas listas erra. Outra regra: a exoneração de comissionado, quando se constata infração que merecia suspensão ou demissão, é convertida em destituição.
 THALITA: E o registro na ficha do servidor? Some com o tempo?
-ANTONIO: Para a advertência, o cancelamento do registro vem após três anos de efetivo exercício sem nova infração. Para a suspensão, após cinco anos. Artigo cento e trinta e um.
-FRANCISCA: O cancelamento não retroage e não apaga os efeitos já produzidos. E para demissão e destituição não há cancelamento previsto.
-THALITA: Macete: advertência, três; suspensão, cinco.
+FRANCISCA: Para a advertência, o cancelamento do registro vem após três anos de efetivo exercício sem nova infração. Para a suspensão, após cinco anos. Artigo cento e trinta e um.
+THALITA: O cancelamento não retroage e não apaga os efeitos já produzidos. E para demissão e destituição não há cancelamento previsto.
+FRANCISCA: Macete: advertência, três; suspensão, cinco.
 == SLIDE: Abandono de cargo e inassiduidade habitual
 * Abandono (art. 138): mais de 30 dias consecutivos, com intenção
 * Inassiduidade (art. 139): 60 dias, interpoladamente, em 12 meses
 * Ambos: rito sumário (art. 140)
 * Pegadinha: não existe número redondo de 30 dias
-BRUNO: Duas hipóteses parecidas, que a FCC adora trocar. Abandono de cargo, artigo cento e trinta e oito: ausência intencional do serviço por mais de trinta dias consecutivos. Inassiduidade habitual, artigo cento e trinta e nove: faltas sem causa justificada, por sessenta dias, interpoladamente, durante doze meses.
-THALITA: Então no abandono tem que ser mais de trinta, e seguidos. Na inassiduidade, são sessenta, e podem ser espalhados.
-ANTONIO: Isso. No abandono há elemento subjetivo, a intenção de abandonar. Na inassiduidade, bastam as faltas sem justificativa.
+THALITA: Duas hipóteses parecidas, que a FCC adora trocar. Abandono de cargo, artigo cento e trinta e oito: ausência intencional do serviço por mais de trinta dias consecutivos. Inassiduidade habitual, artigo cento e trinta e nove: faltas sem causa justificada, por sessenta dias, interpoladamente, durante doze meses.
+FRANCISCA: Então no abandono tem que ser mais de trinta, e seguidos. Na inassiduidade, são sessenta, e podem ser espalhados.
+THALITA: Isso. No abandono há elemento subjetivo, a intenção de abandonar. Na inassiduidade, bastam as faltas sem justificativa.
 FRANCISCA: Um exemplo. Tereza falta trinta e um dias seguidos, com intenção de não voltar: abandono. Márcio falta vinte dias em março, vinte e cinco em junho e quinze em novembro, tudo sem justificativa: sessenta dias em doze meses, inassiduidade. Em ambos os casos, o rito é sumário.
-BRUNO: E a troca: a banca escreve trinta dias, ou escreve interpolados no abandono. Abandono exige mais de trinta consecutivos. Inassiduidade exige sessenta interpolados em doze meses.
+THALITA: E a troca: a banca escreve trinta dias, ou escreve interpolados no abandono. Abandono exige mais de trinta consecutivos. Inassiduidade exige sessenta interpolados em doze meses.
 == SLIDE: Questão-treino: cruzando pena e prazo
 * Falta punível com advertência: prescreve em 180 dias
 * Falta punível com suspensão: prescreve em 2 anos
 * Demissão: 5 anos; cancelamento de registro não alcança demissão
 * Cuidado com as listas do art. 136 e do art. 137
-ANTONIO: Pausa para você pensar. Um servidor cometeu uma falta punível com suspensão. A autoridade soube do fato e nada fez por dois anos. A alternativa diz que a prescrição se deu em cento e oitenta dias. Está certa?
+FRANCISCA: Pausa para você pensar. Um servidor cometeu uma falta punível com suspensão. A autoridade soube do fato e nada fez por dois anos. A alternativa diz que a prescrição se deu em cento e oitenta dias. Está certa?
 THALITA: Errada. Cento e oitenta dias é da advertência. A suspensão prescreve em dois anos.
 FRANCISCA: Correta. E se fosse caso de demissão, o prazo seria de cinco anos, o mesmo para cassação de aposentadoria e destituição de cargo em comissão.
-BRUNO: Segunda alternativa da banca: o servidor demitido por improbidade pode ser readmitido depois de cinco anos. Errado. A improbidade, inciso quarto do artigo cento e trinta e dois, gera vedação definitiva de retorno ao serviço federal. Os cinco anos do caput do artigo cento e trinta e sete são só para o artigo cento e dezessete, incisos nono e décimo primeiro.
-ANTONIO: Terceira: a demissão por improbidade depende de prévia condenação judicial. Errado, pela Súmula seiscentos e cinquenta e um do Superior Tribunal de Justiça.
-FRANCISCA: Quarta: o registro da demissão é cancelado após cinco anos. Errado. Só se cancelam os registros de advertência e suspensão.
-THALITA: Então: advertência, cento e oitenta dias e três anos de registro. Suspensão, dois anos e cinco anos de registro. Demissão, cinco anos, sem cancelamento.
+THALITA: Segunda alternativa da banca: o servidor demitido por improbidade pode ser readmitido depois de cinco anos. Errado. A improbidade, inciso quarto do artigo cento e trinta e dois, gera vedação definitiva de retorno ao serviço federal. Os cinco anos do caput do artigo cento e trinta e sete são só para o artigo cento e dezessete, incisos nono e décimo primeiro.
+FRANCISCA: Terceira: a demissão por improbidade depende de prévia condenação judicial. Errado, pela Súmula seiscentos e cinquenta e um do Superior Tribunal de Justiça.
+THALITA: Quarta: o registro da demissão é cancelado após cinco anos. Errado. Só se cancelam os registros de advertência e suspensão.
+FRANCISCA: Então: advertência, cento e oitenta dias e três anos de registro. Suspensão, dois anos e cinco anos de registro. Demissão, cinco anos, sem cancelamento.
 == SLIDE: Quem aplica a pena: competência
 * Demissão e cassação: Presidente da República, presidentes dos Poderes, PGR
 * Suspensão acima de 30 dias: hierarquia imediatamente inferior
 * Advertência e suspensão até 30 dias: chefe da repartição
 * Destituição de comissionado: autoridade que nomeou
-ANTONIO: Quem pune? O artigo cento e quarenta e um divide por pena. Demissão e cassação de aposentadoria ou disponibilidade: Presidente da República, presidentes das Casas Legislativas e dos Tribunais Federais e Procurador-Geral da República, conforme o Poder ou órgão do servidor.
-THALITA: Suspensão fica com quem?
-FRANCISCA: Suspensão superior a trinta dias: autoridades de hierarquia imediatamente inferior às do primeiro grupo. Advertência e suspensão de até trinta dias: chefe da repartição e demais autoridades, conforme os regimentos. E a destituição de cargo em comissão: a autoridade que fez a nomeação.
-BRUNO: Para o servidor do TRT, a demissão é, em regra, competência do Presidente do Tribunal, mas as delegações internas variam. Confira a norma interna antes de generalizar.
+THALITA: Quem pune? O artigo cento e quarenta e um divide por pena. Demissão e cassação de aposentadoria ou disponibilidade: Presidente da República, presidentes das Casas Legislativas e dos Tribunais Federais e Procurador-Geral da República, conforme o Poder ou órgão do servidor.
+FRANCISCA: Suspensão fica com quem?
+THALITA: Suspensão superior a trinta dias: autoridades de hierarquia imediatamente inferior às do primeiro grupo. Advertência e suspensão de até trinta dias: chefe da repartição e demais autoridades, conforme os regimentos. E a destituição de cargo em comissão: a autoridade que fez a nomeação.
+FRANCISCA: Para o servidor do TRT, a demissão é, em regra, competência do Presidente do Tribunal, mas as delegações internas variam. Confira a norma interna antes de generalizar.
 THALITA: Então a regra da prova é pela gravidade: quanto maior a pena, mais alta a autoridade.
 == SLIDE: Prescrição da pretensão punitiva
 * Art. 142: 5 anos, 2 anos e 180 dias
 * Início: ciência do fato; crime: prazo da lei penal
 * Interrompe: sindicância punitiva ou PAD
 * Súmula 635 do STJ: volta por inteiro após 140 dias
-ANTONIO: A prescrição, artigo cento e quarenta e dois. Cinco anos para demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão. Dois anos para a suspensão. Cento e oitenta dias para a advertência.
+FRANCISCA: A prescrição, artigo cento e quarenta e dois. Cinco anos para demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão. Dois anos para a suspensão. Cento e oitenta dias para a advertência.
 THALITA: Cuidado: cento e oitenta dias é da advertência, não da suspensão.
-BRUNO: Essa é uma pegadinha frequente. A outra: a sindicância investigativa, que apenas colhe elementos e não tem acusado, não interrompe a prescrição. A sindicância punitiva interrompe, e o processo disciplinar também.
-FRANCISCA: O prazo começa na data em que o fato se tornou conhecido, e, segundo o Superior Tribunal de Justiça, na ciência da autoridade competente para abrir o procedimento. Se a infração também é crime, aplica-se o prazo da lei penal.
-ANTONIO: Interrompida a prescrição, ela fica suspensa até a decisão final. Pela Súmula seiscentos e trinta e cinco do Superior Tribunal de Justiça, o prazo volta a correr por inteiro depois de cento e quarenta dias da instauração do processo disciplinar.
+FRANCISCA: Essa é uma pegadinha frequente. A outra: a sindicância investigativa, que apenas colhe elementos e não tem acusado, não interrompe a prescrição. A sindicância punitiva interrompe, e o processo disciplinar também.
+THALITA: O prazo começa na data em que o fato se tornou conhecido, e, segundo o Superior Tribunal de Justiça, na ciência da autoridade competente para abrir o procedimento. Se a infração também é crime, aplica-se o prazo da lei penal.
+FRANCISCA: Interrompida a prescrição, ela fica suspensa até a decisão final. Pela Súmula seiscentos e trinta e cinco do Superior Tribunal de Justiça, o prazo volta a correr por inteiro depois de cento e quarenta dias da instauração do processo disciplinar.
 THALITA: Quanto dá isso? Sessenta da comissão, sessenta de prorrogação e vinte de julgamento?
 FRANCISCA: Isso, cento e quarenta. Exemplo: a autoridade conhece uma falta punível com suspensão em primeiro de fevereiro de dois mil e vinte e três. O processo é instaurado em primeiro de setembro. Se não for julgado em cento e quarenta dias, o prazo de dois anos recomeça por inteiro, e passa a contar em janeiro de dois mil e vinte e quatro.
-BRUNO: E quem der causa à prescrição responde por isso, artigo cento e sessenta e nove. Extinta a punibilidade, o fato é registrado nos assentamentos, artigo cento e setenta.
-ANTONIO: Pois bem. Para apurar tudo isso, existe o caminho formal: sindicância e processo administrativo disciplinar, artigos cento e quarenta e três a cento e setenta e três. É o próximo tema.
+THALITA: E quem der causa à prescrição responde por isso, artigo cento e sessenta e nove. Extinta a punibilidade, o fato é registrado nos assentamentos, artigo cento e setenta.
+FRANCISCA: Pois bem. Para apurar tudo isso, existe o caminho formal: sindicância e processo administrativo disciplinar, artigos cento e quarenta e três a cento e setenta e três. É o próximo tema.

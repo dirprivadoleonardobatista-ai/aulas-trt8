@@ -4,71 +4,69 @@ SEGMENTO s126
 * Hoje: deveres (art. 116) e proibições (art. 117)
 * Deveres: doze incisos; descumprimento comum rende advertência
 * Ordem manifestamente ilegal não se cumpre (art. 116, IV)
-ANTONIO: Boa tarde, pessoal! Bem-vindos à aula trinta e sete, de Direito Administrativo: regime disciplinar, processo administrativo disciplinar e responsabilidades do servidor. Hoje começamos pelos deveres e proibições, artigos cento e dezesseis e cento e dezessete da Lei oito mil cento e doze. Depois vêm acumulação de cargos, penalidades e o processo disciplinar. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, também professora. Vou trazer a lei em paráfrase e a jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC. Vou mostrar como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira. Vou perguntar o que vocês estão pensando, e dar uns macetes.
-ANTONIO: O regime federal parte de dois catálogos. Os deveres, no artigo cento e dezesseis, com doze incisos. E as proibições, no artigo cento e dezessete, com dezenove incisos. Quebrar um dever, sem tipo mais grave, rende advertência. As proibições seguem a escala das penalidades.
+FRANCISCA: Boa tarde, pessoal! Bem-vindos à aula trinta e sete, de Direito Administrativo: regime disciplinar, processo administrativo disciplinar e responsabilidades do servidor. Hoje começamos pelos deveres e proibições, artigos cento e dezesseis e cento e dezessete da Lei oito mil cento e doze. Depois vêm acumulação de cargos, penalidades e o processo disciplinar. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: O regime federal parte de dois catálogos. Os deveres, no artigo cento e dezesseis, com doze incisos. E as proibições, no artigo cento e dezessete, com dezenove incisos. Quebrar um dever, sem tipo mais grave, rende advertência. As proibições seguem a escala das penalidades.
 THALITA: Começo pelos deveres, então. O que o servidor deve?
 FRANCISCA: Zelo e dedicação nas atribuições. Fidelidade às instituições. Cumprir as normas legais e regulamentares. Obedecer às ordens superiores. Atender com presteza o público, fornecer certidões para defesa de direitos e prestar informações. Comunicar irregularidades de que souber. Cuidar da economia do material e do patrimônio. Manter sigilo sobre assunto da repartição.
-BRUNO: Continuando: conduta compatível com a moralidade administrativa, assiduidade e pontualidade, urbanidade e representar contra ilegalidade, omissão ou abuso de poder. A fidelidade, atenção, é às instituições, não ao chefe.
-THALITA: E obedecer às ordens superiores? Sempre?
-BRUNO: Pegadinha clássica. A alternativa diz que o servidor deve cumprir todas as ordens. Errado: ordem manifestamente ilegal não se cumpre. Já a ordem apenas inconveniente ou de legalidade duvidosa, em regra, deve ser cumprida.
+THALITA: Continuando: conduta compatível com a moralidade administrativa, assiduidade e pontualidade, urbanidade e representar contra ilegalidade, omissão ou abuso de poder. A fidelidade, atenção, é às instituições, não ao chefe.
+FRANCISCA: E obedecer às ordens superiores? Sempre?
+THALITA: Pegadinha clássica. A alternativa diz que o servidor deve cumprir todas as ordens. Errado: ordem manifestamente ilegal não se cumpre. Já a ordem apenas inconveniente ou de legalidade duvidosa, em regra, deve ser cumprida.
 FRANCISCA: Sobre a comunicação de irregularidades: o dever é levar o fato ao conhecimento da autoridade, não apurar sozinho. E a representação segue pela via hierárquica, apreciada pela autoridade superior àquela contra a qual foi formulada, com ampla defesa ao representado.
 THALITA: Superior à denunciada, e com ampla defesa. Troca típica seria a própria autoridade denunciada julgar.
-BRUNO: Ou omitir a ampla defesa. As duas trocas caem.
+FRANCISCA: Ou omitir a ampla defesa. As duas trocas caem.
 == SLIDE: Proibições: as três faixas do art. 117
 * Advertência: incisos I a VIII e XIX (art. 129)
 * Demissão: incisos IX a XVI (art. 132, XIII)
 * Suspensão: incisos XVII e XVIII (art. 130)
 * Primeiras proibições: sair sem autorização, levar documento, negar valor
-ANTONIO: Agora as proibições, artigo cento e dezessete. A prova quase sempre pede o cruzamento entre inciso e penalidade. Por isso, decore as faixas: advertência do inciso primeiro ao oitavo, e o décimo nono. Demissão do nono ao décimo sexto. Suspensão do décimo sétimo e do décimo oitavo.
-THALITA: Então o décimo nono é o penetra da advertência.
-BRUNO: Isso. É o único fora de ordem. Vamos pelos incisos da advertência, no artigo cento e vinte e nove.
+THALITA: Agora as proibições, artigo cento e dezessete. A prova quase sempre pede o cruzamento entre inciso e penalidade. Por isso, decore as faixas: advertência do inciso primeiro ao oitavo, e o décimo nono. Demissão do nono ao décimo sexto. Suspensão do décimo sétimo e do décimo oitavo.
+FRANCISCA: Então o décimo nono é o penetra da advertência.
+THALITA: Isso. É o único fora de ordem. Vamos pelos incisos da advertência, no artigo cento e vinte e nove.
 FRANCISCA: Primeiro: ausentar-se da repartição durante o expediente sem autorização do chefe imediato. Segundo: retirar da repartição, sem anuência da autoridade competente, documento ou objeto. Terceiro: recusar fé a documento público. Quarto: opor resistência injustificada ao andamento de documento, processo ou execução de serviço.
 THALITA: Parece tudo coisa pequena, mesmo.
 FRANCISCA: Quinto: promover manifestação de apreço ou desapreço no recinto da repartição. Sexto: cometer a pessoa estranha ao órgão, fora dos casos previstos em lei, encargo que seja de sua responsabilidade ou de seu subordinado.
-ANTONIO: Sétimo: coagir ou aliciar subordinados no sentido de filiarem-se a associação profissional ou sindical, ou a partido político. Oitavo: manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o segundo grau civil.
-BRUNO: E o décimo nono: recusar-se a atualizar seus dados cadastrais quando solicitado. Também é advertência.
+THALITA: Sétimo: coagir ou aliciar subordinados no sentido de filiarem-se a associação profissional ou sindical, ou a partido político. Oitavo: manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o segundo grau civil.
+FRANCISCA: E o décimo nono: recusar-se a atualizar seus dados cadastrais quando solicitado. Também é advertência.
 THALITA: Macete: início da lista é tudo advertência, mais o décimo nono.
-BRUNO: E cuidado com o grau do inciso oitavo: segundo grau civil. A Súmula Vinculante treze, sobre nepotismo, vai até o terceiro grau. Não confunda as duas fontes.
-FRANCISCA: Lembrando: a Súmula Vinculante vale para a nomeação de parentes da autoridade nomeante ou de servidor de direção, chefia ou assessoramento, em qualquer Poder, em linha reta, colateral ou por afinidade, inclusive ajustes de designações recíprocas.
+FRANCISCA: E cuidado com o grau do inciso oitavo: segundo grau civil. A Súmula Vinculante treze, sobre nepotismo, vai até o terceiro grau. Não confunda as duas fontes.
+THALITA: Lembrando: a Súmula Vinculante vale para a nomeação de parentes da autoridade nomeante ou de servidor de direção, chefia ou assessoramento, em qualquer Poder, em linha reta, colateral ou por afinidade, inclusive ajustes de designações recíprocas.
 == SLIDE: Demissão e suspensão: incisos IX a XVIII
 * Demissão (IX a XVI): proveito do cargo, sociedade privada, procuradoria
 * Propina, Estado estrangeiro, usura, desídia, uso de pessoal ou material
 * Suspensão (XVII e XVIII): desvio de função e atividade incompatível
 * Súmula 650 do STJ: sem discricionariedade
-ANTONIO: Agora a faixa pesada, demissão, pelo artigo cento e trinta e dois, inciso treze. Nono: valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública. Décimo: participar de gerência ou administração de sociedade privada ou exercer comércio. Décimo primeiro: atuar como procurador ou intermediário junto a repartições públicas.
+FRANCISCA: Agora a faixa pesada, demissão, pelo artigo cento e trinta e dois, inciso treze. Nono: valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública. Décimo: participar de gerência ou administração de sociedade privada ou exercer comércio. Décimo primeiro: atuar como procurador ou intermediário junto a repartições públicas.
 THALITA: Mas nem sempre dá para ser acionista ou ajudar a família, certo?
 FRANCISCA: Pode, sim. No inciso décimo, o servidor pode ser acionista, cotista ou comanditário, sem gerir. No inciso décimo primeiro, pode atuar em benefício previdenciário ou assistencial de parentes até o segundo grau, cônjuge ou companheiro.
-BRUNO: Continuando a lista da demissão. Décimo segundo: receber propina, comissão, presente ou vantagem por causa das atribuições. Décimo terceiro: aceitar comissão, emprego ou pensão de Estado estrangeiro. Décimo quarto: praticar usura. Décimo quinto: proceder de forma desidiosa. Décimo sexto: utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares.
-THALITA: Desídia é demissão? Achei que fosse coisa leve.
-BRUNO: Na prática, desídia leve é comum, mas pelo artigo cento e dezessete ela está na faixa da demissão. E o Superior Tribunal de Justiça, na Súmula seiscentos e cinquenta, diz que a autoridade não tem discricionariedade para aplicar pena mais branda quando a conduta se enquadra no artigo cento e trinta e dois.
-ANTONIO: Por fim, a suspensão, artigo cento e trinta. Décimo sétimo: cometer a outro servidor atribuições estranhas ao cargo que ocupa, exceto em situações de emergência e transitórias. Décimo oitavo: exercer quaisquer atividades incompatíveis com o exercício do cargo ou com o horário de trabalho.
+THALITA: Continuando a lista da demissão. Décimo segundo: receber propina, comissão, presente ou vantagem por causa das atribuições. Décimo terceiro: aceitar comissão, emprego ou pensão de Estado estrangeiro. Décimo quarto: praticar usura. Décimo quinto: proceder de forma desidiosa. Décimo sexto: utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares.
+FRANCISCA: Desídia é demissão? Achei que fosse coisa leve.
+THALITA: Na prática, desídia leve é comum, mas pelo artigo cento e dezessete ela está na faixa da demissão. E o Superior Tribunal de Justiça, na Súmula seiscentos e cinquenta, diz que a autoridade não tem discricionariedade para aplicar pena mais branda quando a conduta se enquadra no artigo cento e trinta e dois.
+FRANCISCA: Por fim, a suspensão, artigo cento e trinta. Décimo sétimo: cometer a outro servidor atribuições estranhas ao cargo que ocupa, exceto em situações de emergência e transitórias. Décimo oitavo: exercer quaisquer atividades incompatíveis com o exercício do cargo ou com o horário de trabalho.
 THALITA: Resumindo: advertência até o oitavo e o décimo nono, demissão do nono ao décimo sexto, suspensão nos dois últimos.
 == SLIDE: Como nascem as penalidades: arts. 129 e 130
 * Advertência: por escrito; incisos I a VIII e XIX e dever sem pena mais grave
 * Suspensão: máximo 90 dias; cabe na reincidência
 * Recusa de inspeção médica: até 15 dias
 * Multa: 50% por dia de vencimento ou remuneração
-ANTONIO: Vamos ver como cada penalidade nasce. A advertência, artigo cento e vinte e nove, é sempre por escrito. Cabe nas proibições dos incisos primeiro ao oitavo e décimo nono e na quebra de dever funcional que não mereça pena mais grave.
+FRANCISCA: Vamos ver como cada penalidade nasce. A advertência, artigo cento e vinte e nove, é sempre por escrito. Cabe nas proibições dos incisos primeiro ao oitavo e décimo nono e na quebra de dever funcional que não mereça pena mais grave.
 THALITA: Dever funcional de onde? Da lei?
 FRANCISCA: Da lei, do regulamento ou de norma interna. A suspensão, artigo cento e trinta, cabe nas demais proibições que não levem à demissão e na reincidência de falta já punida com advertência. O máximo é noventa dias.
-BRUNO: Há uma suspensão especial: até quinze dias para quem se recusa, sem justificativa, a se submeter a inspeção médica determinada pela autoridade. Cessa o efeito quando o servidor cumpre a determinação.
-THALITA: E a multa? Ouvi dizer que o servidor continua trabalhando.
-FRANCISCA: Isso. Havendo conveniência para o serviço, a suspensão pode ser convertida em multa de cinquenta por cento por dia de vencimento ou remuneração. O servidor permanece em atividade.
-ANTONIO: Exemplo: a Carla ganha doze mil reais por mês e recebe suspensão de trinta dias, convertida em multa. A base por dia é quatrocentos reais. A multa é metade, duzentos reais por dia. Em trinta dias, seis mil reais, descontados, e ela continua trabalhando.
+THALITA: Há uma suspensão especial: até quinze dias para quem se recusa, sem justificativa, a se submeter a inspeção médica determinada pela autoridade. Cessa o efeito quando o servidor cumpre a determinação.
+FRANCISCA: E a multa? Ouvi dizer que o servidor continua trabalhando.
+THALITA: Isso. Havendo conveniência para o serviço, a suspensão pode ser convertida em multa de cinquenta por cento por dia de vencimento ou remuneração. O servidor permanece em atividade.
+FRANCISCA: Exemplo: a Carla ganha doze mil reais por mês e recebe suspensão de trinta dias, convertida em multa. A base por dia é quatrocentos reais. A multa é metade, duzentos reais por dia. Em trinta dias, seis mil reais, descontados, e ela continua trabalhando.
 THALITA: Eu errei na conta da primeira vez! Tinha esquecido de dividir por trinta.
-BRUNO: A FCC cobra isso. Fique atento ao cálculo e ao percentual.
+FRANCISCA: A FCC cobra isso. Fique atento ao cálculo e ao percentual.
 == SLIDE: Ressalvas e exceções que a FCC adora
 * Art. 117, X: pode ser acionista, cotista ou comanditário
 * Parágrafo único: conselhos de empresas com capital da União, cooperativa, licença do art. 91
 * XI: parentes até o 2º grau, cônjuge ou companheiro
 * XVII: emergência transitória; art. 116, IV: ilegalidade manifesta
-ANTONIO: Para fechar, as ressalvas, que são o coração das questões. No inciso décimo, proíbe-se gerência ou administração de sociedade privada e o comércio. A exceção: acionista, cotista ou comanditário, sem gerir.
+THALITA: Para fechar, as ressalvas, que são o coração das questões. No inciso décimo, proíbe-se gerência ou administração de sociedade privada e o comércio. A exceção: acionista, cotista ou comanditário, sem gerir.
 FRANCISCA: O parágrafo único do artigo cento e dezessete amplia: a vedação do inciso décimo não se aplica à participação em conselhos de administração e fiscal de empresas ou entidades em que a União detenha participação no capital, nem à cooperativa para serviços a seus membros. Também não alcança o servidor em licença para tratar de interesses particulares, do artigo noventa e um.
 THALITA: Então se o servidor está em licença para interesses particulares, pode abrir empresa?
 FRANCISCA: Pode, porque a ressalva expressa alcança essa licença.
-BRUNO: No inciso décimo primeiro, a ressalva é o benefício de parentes até o segundo grau, cônjuge ou companheiro. No décimo sétimo, a emergência e a situação transitória. No inciso sexto, a exceção são as hipóteses previstas em lei. E no dever de obediência, a ilegalidade manifesta.
-THALITA: Macete: toda a regra tem a sua exceção. Gerência: não, mas acionista pode. Procurador: não, mas parente previdenciário pode. Ordem: sim, mas ilegal manifesta não.
-ANTONIO: Muito bem. E o que fazer quando o servidor acumula cargos, ou quando um mesmo fato gera responsabilidade civil, penal e administrativa? É o nosso próximo tema: acumulação de cargos e responsabilidades, artigos cento e dezoito a cento e vinte e seis traço A.
+THALITA: No inciso décimo primeiro, a ressalva é o benefício de parentes até o segundo grau, cônjuge ou companheiro. No décimo sétimo, a emergência e a situação transitória. No inciso sexto, a exceção são as hipóteses previstas em lei. E no dever de obediência, a ilegalidade manifesta.
+FRANCISCA: Macete: toda a regra tem a sua exceção. Gerência: não, mas acionista pode. Procurador: não, mas parente previdenciário pode. Ordem: sim, mas ilegal manifesta não.
+THALITA: Muito bem. E o que fazer quando o servidor acumula cargos, ou quando um mesmo fato gera responsabilidade civil, penal e administrativa? É o nosso próximo tema: acumulação de cargos e responsabilidades, artigos cento e dezoito a cento e vinte e seis traço A.

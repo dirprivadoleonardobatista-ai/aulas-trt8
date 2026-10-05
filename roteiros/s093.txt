@@ -4,34 +4,32 @@ SEGMENTO s093
 * Instrução de ofício, sem prejuízo das provas dos interessados
 * Provas ilícitas inadmissíveis (art. 30); ônus da prova (art. 36)
 * Recusa de provas só por decisão fundamentada (art. 38, § 2º)
-ANTONIO: Olá, boas-vindas à aula vinte e sete de Direito Administrativo, a segunda parte do bloco sobre ato administrativo e processo administrativo, na Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove. Hoje vamos ver a instrução, o dever de decidir, a decisão coordenada, a motivação, a desistência e a extinção. Depois, recurso, revisão, prazos e o quadro mestre, e fechamos com questões comentadas. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora, e trago a lei e a jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC.
-THALITA: E eu sou a Thalita, concurseira, com as dúvidas de quem vai fazer a prova.
-ANTONIO: Instrução, artigos vinte e nove a quarenta e sete. A regra de ouro: a instrução é feita de ofício, ou por impulso do órgão responsável, sem prejuízo do direito dos interessados de propor provas. É a verdade material.
+FRANCISCA: Olá, boas-vindas à aula vinte e sete de Direito Administrativo, a segunda parte do bloco sobre ato administrativo e processo administrativo, na Lei nove mil setecentos e oitenta e quatro, de mil novecentos e noventa e nove. Hoje vamos ver a instrução, o dever de decidir, a decisão coordenada, a motivação, a desistência e a extinção. Depois, recurso, revisão, prazos e o quadro mestre, e fechamos com questões comentadas. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Instrução, artigos vinte e nove a quarenta e sete. A regra de ouro: a instrução é feita de ofício, ou por impulso do órgão responsável, sem prejuízo do direito dos interessados de propor provas. É a verdade material.
 THALITA: Então o órgão não fica esperando o interessado?
 FRANCISCA: Não. E quando a instrução exigir atuação do interessado, deve ser feita do modo menos oneroso para ele, artigo vinte e nove, parágrafo segundo.
-BRUNO: Provas ilícitas são inadmissíveis, artigo trinta. E o ônus da prova: cabe ao interessado provar o que alegou, sem prejuízo do dever de instrução do órgão, artigo trinta e seis.
-THALITA: E se o documento já está na própria Administração?
-ANTONIO: O órgão o obtém de ofício, quando o interessado declarar que o documento está em seus registros, artigo trinta e sete.
+THALITA: Provas ilícitas são inadmissíveis, artigo trinta. E o ônus da prova: cabe ao interessado provar o que alegou, sem prejuízo do dever de instrução do órgão, artigo trinta e seis.
+FRANCISCA: E se o documento já está na própria Administração?
+THALITA: O órgão o obtém de ofício, quando o interessado declarar que o documento está em seus registros, artigo trinta e sete.
 FRANCISCA: O interessado pode juntar documentos e pareceres, requerer diligências e perícias e aduzir alegações antes da decisão, artigo trinta e oito. A recusa de provas só vale por decisão fundamentada, quando forem ilícitas, impertinentes, desnecessárias ou protelatórias.
-BRUNO: Pegadinha: recusar prova sem fundamentar. Não pode.
-THALITA: Macete: instrução de ofício, ilícita não entra, recusa só fundamentada.
+THALITA: Pegadinha: recusar prova sem fundamentar. Não pode.
+FRANCISCA: Macete: instrução de ofício, ilícita não entra, recusa só fundamentada.
 == SLIDE: Instrução: omissão, intimação, laudo e vista (arts. 39 a 47)
 * Dados necessários ao próprio pedido não apresentados: arquivamento (art. 40)
 * Intimação para prova: 3 dias úteis (art. 41)
 * Alegações finais: até 10 dias (art. 44)
 * Cautelar em risco iminente, sem prévia manifestação (art. 45)
 * Vista, certidões e cópias; relatório do órgão instrutor
-ANTONIO: Omissão do interessado ou de terceiro: o órgão pode suprir de ofício, se a matéria for relevante, e não se exime de decidir, artigo trinta e nove, parágrafo único.
+THALITA: Omissão do interessado ou de terceiro: o órgão pode suprir de ofício, se a matéria for relevante, e não se exime de decidir, artigo trinta e nove, parágrafo único.
 FRANCISCA: Já os dados necessários ao próprio pedido, se não apresentados no prazo, levam ao arquivamento do processo, artigo quarenta.
 THALITA: Então depende de quem a omissão prejudica.
-BRUNO: Exatamente. Dado do próprio pedido, arquivamento; matéria relevante, o órgão supre e decide.
-ANTONIO: Intimação para prova ou diligência: antecedência mínima de três dias úteis, com data, hora e local, artigo quarenta e um.
+FRANCISCA: Exatamente. Dado do próprio pedido, arquivamento; matéria relevante, o órgão supre e decide.
+THALITA: Intimação para prova ou diligência: antecedência mínima de três dias úteis, com data, hora e local, artigo quarenta e um.
 FRANCISCA: Se o laudo técnico não for entregue no prazo, o órgão instrutor deve solicitar laudo a outro órgão de capacidade técnica equivalente, artigo quarenta e três.
 THALITA: Depois da instrução, o que o interessado ainda pode fazer?
-ANTONIO: Manifestar-se em até dez dias, salvo outro prazo legal, artigo quarenta e quatro.
-BRUNO: Medidas cautelares: em risco iminente, a Administração pode adotar providências acauteladoras motivadas, sem prévia manifestação do interessado, artigo quarenta e cinco.
+FRANCISCA: Manifestar-se em até dez dias, salvo outro prazo legal, artigo quarenta e quatro.
+THALITA: Medidas cautelares: em risco iminente, a Administração pode adotar providências acauteladoras motivadas, sem prévia manifestação do interessado, artigo quarenta e cinco.
 FRANCISCA: O interessado tem direito a vista, certidões e cópias, ressalvados dados de terceiros protegidos por sigilo, privacidade, honra e imagem, artigo quarenta e seis. E o órgão instrutor que não decide elabora relatório com proposta de decisão justificada, artigo quarenta e sete.
 THALITA: Macete: intimação, três dias úteis; alegações, dez dias; cautelar, sem ouvir antes.
 == SLIDE: Consulta pública, audiência pública e parecer obrigatório
@@ -40,55 +38,55 @@ THALITA: Macete: intimação, três dias úteis; alegações, dez dias; cautelar
 * Participante não vira interessado, mas tem resposta fundamentada
 * Parecer: 15 dias; vinculante atrasado, processo para
 * Parecer não vinculante atrasado: processo pode seguir
-ANTONIO: Participação de terceiros. Consulta pública, artigo trinta e um: cabe quando a matéria é de interesse geral, por despacho motivado do órgão competente, se não houver prejuízo à parte interessada. A manifestação é escrita, em prazo fixado em divulgação oficial.
+FRANCISCA: Participação de terceiros. Consulta pública, artigo trinta e um: cabe quando a matéria é de interesse geral, por despacho motivado do órgão competente, se não houver prejuízo à parte interessada. A manifestação é escrita, em prazo fixado em divulgação oficial.
 THALITA: E quem participa vira parte do processo?
 FRANCISCA: Não. Não adquire a condição de interessado, mas tem direito a resposta fundamentada, que pode ser comum a alegações substancialmente iguais.
-BRUNO: Audiência pública, artigo trinta e dois: pressupõe a relevância da questão, e há debates orais sobre a matéria.
-THALITA: As duas são obrigatórias?
-ANTONIO: Facultativas, a lei diz poderá. Os resultados são apresentados com indicação do procedimento adotado, artigo trinta e quatro.
+THALITA: Audiência pública, artigo trinta e dois: pressupõe a relevância da questão, e há debates orais sobre a matéria.
+FRANCISCA: As duas são obrigatórias?
+THALITA: Facultativas, a lei diz poderá. Os resultados são apresentados com indicação do procedimento adotado, artigo trinta e quatro.
 FRANCISCA: Além disso, o artigo trinta e três admite outros meios de participação, criados diretamente ou por organizações e associações legalmente reconhecidas. E o artigo trinta e cinco: a oitiva de outros órgãos pode ocorrer em reunião conjunta, com lavratura de ata.
-BRUNO: Comparando: consulta, interesse geral e forma escrita; audiência, relevância e debate oral.
-THALITA: Macete: consulta, escrever; audiência, falar.
-ANTONIO: Agora o parecer obrigatório, artigo quarenta e dois: prazo máximo de quinze dias, salvo norma especial ou comprovada necessidade de prazo maior.
+THALITA: Comparando: consulta, interesse geral e forma escrita; audiência, relevância e debate oral.
+FRANCISCA: Macete: consulta, escrever; audiência, falar.
+THALITA: Agora o parecer obrigatório, artigo quarenta e dois: prazo máximo de quinze dias, salvo norma especial ou comprovada necessidade de prazo maior.
 FRANCISCA: Se o parecer é obrigatório e vinculante e não sai no prazo, o processo não tem seguimento até a apresentação, e responde quem deu causa ao atraso.
 THALITA: E se for obrigatório, mas não vinculante?
-BRUNO: O processo pode prosseguir e ser decidido com dispensa do parecer, sem prejuízo da responsabilidade de quem se omitiu.
-ANTONIO: Cobrança certa de prova: quinze dias do parecer, dez das alegações finais, três dias úteis da intimação.
-THALITA: Macete: vinculante atrasado, processo para; não vinculante, segue.
+FRANCISCA: O processo pode prosseguir e ser decidido com dispensa do parecer, sem prejuízo da responsabilidade de quem se omitiu.
+THALITA: Cobrança certa de prova: quinze dias do parecer, dez das alegações finais, três dias úteis da intimação.
+FRANCISCA: Macete: vinculante atrasado, processo para; não vinculante, segue.
 == SLIDE: Dever de decidir e decisão coordenada
 * Dever de decidir: até 30 dias após a instrução, mais 30 motivados
 * Termo inicial: conclusão da instrução, não o protocolo
 * Decisão coordenada: 3 ou mais órgãos, âmbito federal
 * Vedada em licitação, poder sancionador e Poderes distintos
 * Conclusão em ata, publicada por extrato
-ANTONIO: Dever de decidir, artigo quarenta e oito: a Administração tem o dever de decidir explicitamente. Concluída a instrução, o prazo é de até trinta dias para decidir, prorrogáveis por igual período, com motivação expressa, artigo quarenta e nove.
-THALITA: Trinta dias contados do protocolo?
-BRUNO: Pegadinha: não. O termo inicial é a conclusão da instrução. O prazo máximo total é de trinta mais trinta, sessenta dias.
+THALITA: Dever de decidir, artigo quarenta e oito: a Administração tem o dever de decidir explicitamente. Concluída a instrução, o prazo é de até trinta dias para decidir, prorrogáveis por igual período, com motivação expressa, artigo quarenta e nove.
+FRANCISCA: Trinta dias contados do protocolo?
+THALITA: Pegadinha: não. O termo inicial é a conclusão da instrução. O prazo máximo total é de trinta mais trinta, sessenta dias.
 FRANCISCA: Não confunda com o prazo para julgar o recurso, que também é de trinta dias, mas contado do recebimento dos autos, artigo cinquenta e nove, parágrafo primeiro.
-ANTONIO: Agora a decisão coordenada, artigos quarenta e nove-A a quarenta e nove-G, incluídos pela Lei catorze mil duzentos e dez, de dois mil e vinte e um. Cabe para decisões que exijam participação de três ou mais setores, órgãos ou entidades, no âmbito da Administração federal.
+THALITA: Agora a decisão coordenada, artigos quarenta e nove-A a quarenta e nove-G, incluídos pela Lei catorze mil duzentos e dez, de dois mil e vinte e um. Cabe para decisões que exijam participação de três ou mais setores, órgãos ou entidades, no âmbito da Administração federal.
 FRANCISCA: Quando for justificável pela relevância da matéria e houver discordância que prejudique a celeridade. É uma instância interinstitucional ou intersetorial, que atua de forma compartilhada para simplificar o processo, com participação concomitante das autoridades decisórias e dos responsáveis pela instrução técnico-jurídica.
 THALITA: E a responsabilidade de cada órgão some?
-BRUNO: Não. Não exclui a responsabilidade originária de cada órgão ou autoridade envolvida.
-ANTONIO: Vedações: não se aplica a processos de licitação, aos relacionados ao poder sancionador e aos que envolvam autoridades de Poderes distintos.
+FRANCISCA: Não. Não exclui a responsabilidade originária de cada órgão ou autoridade envolvida.
+THALITA: Vedações: não se aplica a processos de licitação, aos relacionados ao poder sancionador e aos que envolvam autoridades de Poderes distintos.
 FRANCISCA: Os legitimados do artigo nono podem habilitar-se como ouvintes; a participação, que pode incluir voz, é deferida por decisão irrecorrível de quem convocou. O dissenso deve ser manifestado nas reuniões, fundamentado e com proposta de solução. A conclusão é registrada em ata, com as decisões de cada órgão e a fundamentação, publicada por extrato.
-BRUNO: Atenção: esses artigos são recentes e menos testados. Os pontos mais seguros são três ou mais órgãos, âmbito federal e as três vedações.
-THALITA: Macete: três ou mais, federal, e nada de licitação, sancionador ou Poderes distintos.
+THALITA: Atenção: esses artigos são recentes e menos testados. Os pontos mais seguros são três ou mais órgãos, âmbito federal e as três vedações.
+FRANCISCA: Macete: três ou mais, federal, e nada de licitação, sancionador ou Poderes distintos.
 == SLIDE: Motivação obrigatória (art. 50)
 * Oito hipóteses: direitos, deveres, concurso, licitação, recurso, reexame, divergência, desfazimento
 * Motivação explícita, clara e congruente
 * Motivação aliunde: concordância com parecer integra o ato
 * Meio mecânico admitido; decisão oral vai para a ata
-ANTONIO: Motivação, artigo cinquenta. Devem ser motivados, com indicação dos fatos e fundamentos jurídicos, os atos que: primeiro, neguem, limitem ou afetem direitos ou interesses; segundo, imponham ou agravem deveres, encargos ou sanções; terceiro, decidam processos de concurso ou seleção pública.
+THALITA: Motivação, artigo cinquenta. Devem ser motivados, com indicação dos fatos e fundamentos jurídicos, os atos que: primeiro, neguem, limitem ou afetem direitos ou interesses; segundo, imponham ou agravem deveres, encargos ou sanções; terceiro, decidam processos de concurso ou seleção pública.
 FRANCISCA: Quarto, dispensem ou declarem a inexigibilidade de licitação; quinto, decidam recursos administrativos; sexto, decorram de reexame de ofício.
-BRUNO: Sétimo, deixem de aplicar jurisprudência firmada ou discrepem de pareceres, laudos, propostas e relatórios oficiais; oitavo, importem anulação, revogação, suspensão ou convalidação de ato administrativo.
-THALITA: Oito hipóteses. Alguma dica para guardar?
-ANTONIO: Pense em direitos, deveres, concurso, licitação, recurso, reexame, divergência e desfazimento do ato.
+THALITA: Sétimo, deixem de aplicar jurisprudência firmada ou discrepem de pareceres, laudos, propostas e relatórios oficiais; oitavo, importem anulação, revogação, suspensão ou convalidação de ato administrativo.
+FRANCISCA: Oito hipóteses. Alguma dica para guardar?
+THALITA: Pense em direitos, deveres, concurso, licitação, recurso, reexame, divergência e desfazimento do ato.
 FRANCISCA: Parágrafo primeiro: a motivação deve ser explícita, clara e congruente. Pode consistir em declaração de concordância com pareceres, informações, decisões ou propostas anteriores, que passam a integrar o ato. É a motivação aliunde.
 THALITA: Então se o chefe concorda com o parecer, não precisa motivar?
-BRUNO: Pegadinha clássica: precisa, e a concordância é a própria forma de motivação. E se discrepar do parecer, o inciso sete exige motivação.
-ANTONIO: Parágrafo segundo: em vários assuntos da mesma natureza, admite-se meio mecânico que reproduza os fundamentos, sem prejuízo de direitos dos interessados. Parágrafo terceiro: em decisões de órgãos colegiados, comissões ou decisões orais, a motivação consta da ata ou de termo escrito.
-THALITA: Macete: aliunde pode, mecânico pode, oral vai para a ata.
-BRUNO: E a FCC diz que motivação aliunde é vedada. Errado, o parágrafo primeiro autoriza.
+FRANCISCA: Pegadinha clássica: precisa, e a concordância é a própria forma de motivação. E se discrepar do parecer, o inciso sete exige motivação.
+THALITA: Parágrafo segundo: em vários assuntos da mesma natureza, admite-se meio mecânico que reproduza os fundamentos, sem prejuízo de direitos dos interessados. Parágrafo terceiro: em decisões de órgãos colegiados, comissões ou decisões orais, a motivação consta da ata ou de termo escrito.
+FRANCISCA: Macete: aliunde pode, mecânico pode, oral vai para a ata.
+THALITA: E a FCC diz que motivação aliunde é vedada. Errado, o parágrafo primeiro autoriza.
 == SLIDE: Desistência, extinção, anulação e convalidação
 * Desistência: escrita; atinge só quem a formulou (art. 51)
 * Interesse público pode manter o processo
@@ -97,9 +95,9 @@ BRUNO: E a FCC diz que motivação aliunde é vedada. Errado, o parágrafo prime
 * Decadência de 5 anos (art. 54); convalidação (art. 55)
 FRANCISCA: Desistência e extinção, artigos cinquenta e um e cinquenta e dois. Os interessados podem desistir total ou parcialmente do pedido, por manifestação escrita, ou renunciar a direitos disponíveis.
 THALITA: Se são vários interessados e um desiste?
-ANTONIO: Atinge somente quem a formulou, parágrafo primeiro. E a desistência ou renúncia não prejudica o prosseguimento do processo se a Administração entender que o interesse público o exige, parágrafo segundo.
-BRUNO: Extinção: declarada pelo órgão competente quando exaurida a finalidade ou quando o objeto se tornar impossível, inútil ou prejudicado por fato superveniente.
+FRANCISCA: Atinge somente quem a formulou, parágrafo primeiro. E a desistência ou renúncia não prejudica o prosseguimento do processo se a Administração entender que o interesse público o exige, parágrafo segundo.
+THALITA: Extinção: declarada pelo órgão competente quando exaurida a finalidade ou quando o objeto se tornar impossível, inútil ou prejudicado por fato superveniente.
 FRANCISCA: Anular e revogar, artigo cinquenta e três: a Administração deve anular os atos ilegais e pode revogar os inconvenientes ou inoportunos, respeitados os direitos adquiridos.
-BRUNO: Decadência, artigo cinquenta e quatro: cinco anos para anular atos favoráveis, salvo má-fé. Convalidação, artigo cinquenta e cinco: defeitos sanáveis, sem lesão ao interesse público nem prejuízo a terceiros.
-THALITA: Macete: ilegal, deve anular; inconveniente, pode revogar; sanável, convalida.
-ANTONIO: Muito bem. Cumprimos a instrução, a decisão e o desfazimento no processo. A seguir, os recursos administrativos, a revisão e os prazos da lei.
+THALITA: Decadência, artigo cinquenta e quatro: cinco anos para anular atos favoráveis, salvo má-fé. Convalidação, artigo cinquenta e cinco: defeitos sanáveis, sem lesão ao interesse público nem prejuízo a terceiros.
+FRANCISCA: Macete: ilegal, deve anular; inconveniente, pode revogar; sanável, convalida.
+THALITA: Muito bem. Cumprimos a instrução, a decisão e o desfazimento no processo. A seguir, os recursos administrativos, a revisão e os prazos da lei.

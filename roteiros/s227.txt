@@ -5,42 +5,40 @@ SEGMENTO s227
 * Inércia, consenso, duração razoável, boa-fé e cooperação
 * Contraditório prévio e vedação de decisão surpresa (arts. 9º e 10)
 * Ordem cronológica preferencial (art. 12)
-ANTONIO: Olá, pessoal, bem-vindos à aula sessenta e sete: Direito Processual Civil, parte geral. Hoje vemos as normas fundamentais, jurisdição e ação, o juiz, os auxiliares da justiça e o Ministério Público, a Advocacia Pública e a Defensoria. Eu sou o Antônio.
-FRANCISCA: Eu sou a Francisca, e trago a lei e os julgados.
-BRUNO: Eu sou o Bruno, e mostro como a FCC cobra.
-THALITA: E eu sou a Thalita, a concurseira da turma.
-ANTONIO: Começamos pelo artigo primeiro do Código: o processo é ordenado e disciplinado pelos valores e normas da Constituição. Daí vêm as normas fundamentais, artigos primeiro a doze.
-FRANCISCA: Pelo princípio da inércia, o processo começa por iniciativa da parte e se desenvolve por impulso oficial. O consenso: a arbitragem é permitida, e a solução consensual deve ser estimulada por todos, inclusive durante o processo.
-THALITA: E duração razoável?
-BRUNO: Atenção: ela abrange a atividade satisfativa, ou seja, a execução. A banca esquece disso. Boa-fé e cooperação são deveres de todos os sujeitos do processo, inclusive do juiz.
-ANTONIO: O artigo nono traz o contraditório prévio: ninguém é decidido sem ser ouvido antes. As exceções são a tutela de urgência, as hipóteses de evidência dos incisos segundo e terceiro do artigo trezentos e onze, e o mandado monitório.
+FRANCISCA: Olá, pessoal, bem-vindos à aula sessenta e sete: Direito Processual Civil, parte geral. Hoje vemos as normas fundamentais, jurisdição e ação, o juiz, os auxiliares da justiça e o Ministério Público, a Advocacia Pública e a Defensoria. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começamos pelo artigo primeiro do Código: o processo é ordenado e disciplinado pelos valores e normas da Constituição. Daí vêm as normas fundamentais, artigos primeiro a doze.
+THALITA: Pelo princípio da inércia, o processo começa por iniciativa da parte e se desenvolve por impulso oficial. O consenso: a arbitragem é permitida, e a solução consensual deve ser estimulada por todos, inclusive durante o processo.
+FRANCISCA: E duração razoável?
+THALITA: Atenção: ela abrange a atividade satisfativa, ou seja, a execução. A banca esquece disso. Boa-fé e cooperação são deveres de todos os sujeitos do processo, inclusive do juiz.
+FRANCISCA: O artigo nono traz o contraditório prévio: ninguém é decidido sem ser ouvido antes. As exceções são a tutela de urgência, as hipóteses de evidência dos incisos segundo e terceiro do artigo trezentos e onze, e o mandado monitório.
 THALITA: E o artigo dez?
 FRANCISCA: Veda a decisão surpresa. Nenhum grau de jurisdição decide com base em fundamento não debatido, ainda que seja matéria conhecível de ofício.
-BRUNO: Publicidade e fundamentação, artigo onze, sob pena de nulidade. E a ordem cronológica, artigo doze, hoje é preferencial, depois da lei treze mil duzentos e cinquenta e seis, com lista pública.
-THALITA: Mas há julgamentos fora da ordem?
-ANTONIO: Há, por exemplo as sentenças em audiência, homologatórias de acordo, o julgamento de recursos repetitivos e do incidente de resolução de demandas repetitivas, os embargos de declaração, o agravo interno e as causas urgentes, com decisão fundamentada.
-THALITA: Ordem cronológica é preferencial, não absoluta. Anotado!
+THALITA: Publicidade e fundamentação, artigo onze, sob pena de nulidade. E a ordem cronológica, artigo doze, hoje é preferencial, depois da lei treze mil duzentos e cinquenta e seis, com lista pública.
+FRANCISCA: Mas há julgamentos fora da ordem?
+THALITA: Há, por exemplo as sentenças em audiência, homologatórias de acordo, o julgamento de recursos repetitivos e do incidente de resolução de demandas repetitivas, os embargos de declaração, o agravo interno e as causas urgentes, com decisão fundamentada.
+FRANCISCA: Ordem cronológica é preferencial, não absoluta. Anotado!
 == SLIDE: Jurisdição, ação e poderes do juiz
 * Jurisdição: substitutiva, inerte, definitiva, indelegável
 * Ação: interesse e legitimidade (art. 17)
 * Possibilidade jurídica do pedido virou mérito
 * Teoria da asserção: o que o autor afirma na inicial
 * Poderes-deveres do juiz: art. 139
-FRANCISCA: Passamos à jurisdição, função estatal substitutiva, inerte, que produz decisão definitiva, com coisa julgada, é indelegável e territorial. Já a ação é direito abstrato, e o artigo dezessete exige interesse e legitimidade.
-BRUNO: O Código de dois mil e quinze fala em só duas condições. A possibilidade jurídica do pedido deixou de ser condição autônoma e virou mérito. Se faltar interesse ou legitimidade, extingue-se sem mérito, e o juiz pode conhecer de ofício.
+THALITA: Passamos à jurisdição, função estatal substitutiva, inerte, que produz decisão definitiva, com coisa julgada, é indelegável e territorial. Já a ação é direito abstrato, e o artigo dezessete exige interesse e legitimidade.
+FRANCISCA: O Código de dois mil e quinze fala em só duas condições. A possibilidade jurídica do pedido deixou de ser condição autônoma e virou mérito. Se faltar interesse ou legitimidade, extingue-se sem mérito, e o juiz pode conhecer de ofício.
 THALITA: Interesse é o quê?
-ANTONIO: Necessidade e adequação da via escolhida. A legitimidade é a pertinência subjetiva. A extraordinária, em nome próprio por direito alheio, só se o ordenamento autorizar, artigo dezoito.
-FRANCISCA: E o STJ adota a teoria da asserção: as condições são aferidas pelo que o autor afirma na petição inicial. Se exigirem prova, a decisão é de mérito e faz coisa julgada material.
-THALITA: Então se precisa provar, é mérito.
-BRUNO: Exato.
-THALITA: Então vou gravar assim: jurisdição é do Estado, ação é interesse mais legitimidade, e possibilidade jurídica já não é condição, é mérito. Se eu disser que o Código ainda exige três condições, estou errada, certo?
-ANTONIO: Certíssimo. Agora o juiz. O artigo cento e trinta e nove traz os poderes-deveres de direção. Assegurar a igualdade, velar pela duração razoável, reprimir atos atentatórios e indeferir postulações protelatórias.
+FRANCISCA: Necessidade e adequação da via escolhida. A legitimidade é a pertinência subjetiva. A extraordinária, em nome próprio por direito alheio, só se o ordenamento autorizar, artigo dezoito.
+THALITA: E o STJ adota a teoria da asserção: as condições são aferidas pelo que o autor afirma na petição inicial. Se exigirem prova, a decisão é de mérito e faz coisa julgada material.
+FRANCISCA: Então se precisa provar, é mérito.
+THALITA: Exato.
+FRANCISCA: Então vou gravar assim: jurisdição é do Estado, ação é interesse mais legitimidade, e possibilidade jurídica já não é condição, é mérito. Se eu disser que o Código ainda exige três condições, estou errada, certo?
+THALITA: Certíssimo. Agora o juiz. O artigo cento e trinta e nove traz os poderes-deveres de direção. Assegurar a igualdade, velar pela duração razoável, reprimir atos atentatórios e indeferir postulações protelatórias.
 FRANCISCA: O inciso quarto permite medidas indutivas, coercitivas, mandamentais ou sub-rogatórias, inclusive nas obrigações de pagar. O STF, na ADI cinco mil novecentos e quarenta e um, entendeu que são válidas se proporcionais.
-BRUNO: O juiz promove a autocomposição a qualquer tempo, dilata prazos, mas só antes de vencidos, e altera a ordem das provas. Exerce poder de polícia e pode ouvir as partes pessoalmente, sem pena de confesso.
-THALITA: E pode deixar de julgar se não achar lei?
-BRUNO: Não. Não existe non liquet. E a equidade só vale se a lei permitir, artigo cento e quarenta. O juiz responde regressivamente por dolo, fraude ou retardamento injustificado, artigo cento e quarenta e três.
-THALITA: Sem lei, julga pelas normas gerais. Entendi.
-ANTONIO: Agora a imparcialidade, com dois regimes.
+THALITA: O juiz promove a autocomposição a qualquer tempo, dilata prazos, mas só antes de vencidos, e altera a ordem das provas. Exerce poder de polícia e pode ouvir as partes pessoalmente, sem pena de confesso.
+FRANCISCA: E pode deixar de julgar se não achar lei?
+THALITA: Não. Não existe non liquet. E a equidade só vale se a lei permitir, artigo cento e quarenta. O juiz responde regressivamente por dolo, fraude ou retardamento injustificado, artigo cento e quarenta e três.
+FRANCISCA: Sem lei, julga pelas normas gerais. Entendi.
+THALITA: Agora a imparcialidade, com dois regimes.
 == SLIDE: Impedimento x suspeição
 * Impedimento: objetivo (art. 144); rescisória
 * Suspeição: subjetiva (art. 145); preclui
@@ -49,31 +47,31 @@ ANTONIO: Agora a imparcialidade, com dois regimes.
 * Juiz que não reconhece autua em apartado e remete ao tribunal
 FRANCISCA: Impedimento é objetivo, artigo cento e quarenta e quatro. Suspeição é subjetiva, artigo cento e quarenta e cinco. Essa distinção cai sempre.
 THALITA: Quando o juiz está impedido?
-BRUNO: Quando atuou no feito como mandatário, perito, Ministério Público ou testemunha; quando decidiu a causa em outro grau; quando ele, o cônjuge ou parente até terceiro grau são parte ou postulam no feito; quando é sócio de pessoa jurídica parte; herdeiro presuntivo, donatário ou empregador de parte.
-ANTONIO: Também quando a parte é instituição de ensino com que tem vínculo, ou quando litiga contra a parte ou seu advogado. E o STF, na ADI cinco mil novecentos e cinquenta e três, declarou inconstitucional o inciso oitavo, o de cliente do escritório de parente.
+FRANCISCA: Quando atuou no feito como mandatário, perito, Ministério Público ou testemunha; quando decidiu a causa em outro grau; quando ele, o cônjuge ou parente até terceiro grau são parte ou postulam no feito; quando é sócio de pessoa jurídica parte; herdeiro presuntivo, donatário ou empregador de parte.
+THALITA: Também quando a parte é instituição de ensino com que tem vínculo, ou quando litiga contra a parte ou seu advogado. E o STF, na ADI cinco mil novecentos e cinquenta e três, declarou inconstitucional o inciso oitavo, o de cliente do escritório de parente.
 FRANCISCA: A suspeição envolve amigo íntimo ou inimigo da parte ou do advogado, quem recebe presentes de interessados, aconselha a parte ou custeia o litígio, quem é credor ou devedor da parte, ou é interessado no resultado do processo.
 THALITA: E foro íntimo?
-BRUNO: Só na suspeição: o juiz pode declarar-se sem expor as razões. No impedimento, não. O prazo para arguir é de quinze dias do conhecimento do fato, e depois do trânsito em julgado só o impedimento autoriza ação rescisória.
-ANTONIO: Se o juiz não reconhece, autua em apartado, responde em quinze dias e remete ao tribunal. Se for manifesto e acolhido, o juiz paga as custas.
-THALITA: Impedimento: rescisória. Suspeição: preclui.
-FRANCISCA: Parente advogado só gera impedimento se já atuava antes de o juiz assumir. E suspeição provocada por quem a alega é ilegítima. As regras estendem-se ao Ministério Público e aos auxiliares, sem suspender o processo.
-THALITA: Resumo da suspeição: amizade, inimizade, presentes e dívida. Impedimento é mais objetivo, quando o juiz já atuou no processo ou tem parente envolvido. Foro íntimo, só na suspeição.
-BRUNO: Passemos aos auxiliares da justiça.
+FRANCISCA: Só na suspeição: o juiz pode declarar-se sem expor as razões. No impedimento, não. O prazo para arguir é de quinze dias do conhecimento do fato, e depois do trânsito em julgado só o impedimento autoriza ação rescisória.
+THALITA: Se o juiz não reconhece, autua em apartado, responde em quinze dias e remete ao tribunal. Se for manifesto e acolhido, o juiz paga as custas.
+FRANCISCA: Impedimento: rescisória. Suspeição: preclui.
+THALITA: Parente advogado só gera impedimento se já atuava antes de o juiz assumir. E suspeição provocada por quem a alega é ilegítima. As regras estendem-se ao Ministério Público e aos auxiliares, sem suspender o processo.
+FRANCISCA: Resumo da suspeição: amizade, inimizade, presentes e dívida. Impedimento é mais objetivo, quando o juiz já atuou no processo ou tem parente envolvido. Foro íntimo, só na suspeição.
+THALITA: Passemos aos auxiliares da justiça.
 == SLIDE: Auxiliares, Ministério Público, Advocacia Pública e Defensoria
 * Auxiliares: escrivão, oficial de justiça, perito, depositário, mediador, conciliador
 * Oficial: certifica proposta de autocomposição; silêncio é recusa
 * MP: fiscal da ordem jurídica em 30 dias
 * Prazo em dobro e intimação pessoal
-ANTONIO: O artigo cento e quarenta e nove lista os auxiliares: escrivão ou chefe de secretaria, oficial de justiça, perito, depositário, administrador, intérprete, tradutor, mediador, conciliador, partidor, distribuidor, contabilista e regulador de avarias.
+FRANCISCA: O artigo cento e quarenta e nove lista os auxiliares: escrivão ou chefe de secretaria, oficial de justiça, perito, depositário, administrador, intérprete, tradutor, mediador, conciliador, partidor, distribuidor, contabilista e regulador de avarias.
 THALITA: E o que faz o perito?
 FRANCISCA: É escolhido do cadastro do tribunal, pode se escusar em quinze dias, e se prestar laudo falso responde e fica inabilitado de dois a cinco anos. O depositário responde por dolo ou culpa, e a prisão civil é vedada pela Súmula Vinculante vinte e cinco.
-BRUNO: Conciliador não tem vínculo anterior com as partes e sugere soluções. Mediador tem vínculo anterior. E há quarentena de um ano, artigo cento e setenta e dois.
-THALITA: E o oficial de justiça?
-ANTONIO: Artigo cento e cinquenta e quatro: faz citações, prisões, penhoras e arrestos pessoalmente, se possível com duas testemunhas, certificando lugar, dia e hora. Executa as ordens do juiz, devolve o mandado, auxilia na ordem e faz avaliações.
-BRUNO: E o inciso sexto: certifica proposta de autocomposição feita por qualquer parte no ato de comunicação. A outra parte é intimada para responder em cinco dias, sem paralisar o processo. Silêncio é recusa.
+THALITA: Conciliador não tem vínculo anterior com as partes e sugere soluções. Mediador tem vínculo anterior. E há quarentena de um ano, artigo cento e setenta e dois.
+FRANCISCA: E o oficial de justiça?
+THALITA: Artigo cento e cinquenta e quatro: faz citações, prisões, penhoras e arrestos pessoalmente, se possível com duas testemunhas, certificando lugar, dia e hora. Executa as ordens do juiz, devolve o mandado, auxilia na ordem e faz avaliações.
+FRANCISCA: E o inciso sexto: certifica proposta de autocomposição feita por qualquer parte no ato de comunicação. A outra parte é intimada para responder em cinco dias, sem paralisar o processo. Silêncio é recusa.
 THALITA: Silêncio recusa, e o oficial responde se recusar ato sem justo motivo?
 FRANCISCA: Isso, civil e regressivamente, artigo cento e cinquenta e cinco. Agora as instituições. O Ministério Público é fiscal da ordem jurídica, em trinta dias, se houver interesse público ou social, de incapaz ou litígio coletivo pela posse de terra. A Fazenda Pública, por si, não exige intervenção.
-ANTONIO: Advocacia Pública e Ministério Público têm prazo em dobro e intimação pessoal, e a Defensoria também. A responsabilidade regressiva é só por dolo ou fraude.
-BRUNO: E a nulidade por falta de intimação do Ministério Público só se declara depois de ele opinar sobre o prejuízo.
+THALITA: Advocacia Pública e Ministério Público têm prazo em dobro e intimação pessoal, e a Defensoria também. A responsabilidade regressiva é só por dolo ou fraude.
+FRANCISCA: E a nulidade por falta de intimação do Ministério Público só se declara depois de ele opinar sobre o prejuízo.
 THALITA: Já anotei. E agora, qual é o próximo tema?
-ANTONIO: Partes, procuradores, litisconsórcio, intervenção de terceiros e competência.
+FRANCISCA: Partes, procuradores, litisconsórcio, intervenção de terceiros e competência.

@@ -4,76 +4,76 @@ SEGMENTO s177
 * Legitimados: juízes, tribunais, MPT e a parte (art. 805)
 * Quem já opôs exceção de incompetência NÃO suscita (art. 806)
 * Prova do conflito no ato (art. 807)
-ANTONIO: Vimos o que a Justiça do Trabalho julga. E se dois órgãos divergirem sobre quem deve julgar? É o conflito de competência, nos artigos oitocentos e três a oitocentos e onze da CLT.
-BRUNO: A CLT usa a expressão antiga conflitos de jurisdição, mas a Constituição e o CPC falam em conflito de competência. Fique tranquilo se a banca usar qualquer das duas.
-THALITA: E quando existe conflito?
-FRANCISCA: Em duas situações, no artigo oitocentos e quatro. O conflito positivo, quando as duas autoridades se consideram competentes. E o negativo, quando ambas se consideram incompetentes.
-THALITA: Positivo, os dois querem; negativo, nenhum quer. Fácil!
-ANTONIO: Quem pode suscitar o conflito, segundo o artigo oitocentos e cinco? Os juízes e tribunais do trabalho, os procuradores do trabalho, que são o Procurador-Geral e os procuradores regionais, e a parte interessada ou seu representante.
-BRUNO: Agora a vedação do artigo oitocentos e seis: a parte que já opôs exceção de incompetência na causa não pode suscitar o conflito. A lógica é impedir que a parte use dois instrumentos para o mesmo fim.
-FRANCISCA: E, pelo artigo oitocentos e sete, quem suscita deve produzir, no ato, prova da existência do conflito.
-BRUNO: Troca típica da FCC: dizer que é facultado à parte suscitar o conflito ainda que já tenha oposto exceção de incompetência. Errado, artigo oitocentos e seis.
+FRANCISCA: Vimos o que a Justiça do Trabalho julga. E se dois órgãos divergirem sobre quem deve julgar? É o conflito de competência, nos artigos oitocentos e três a oitocentos e onze da CLT.
+THALITA: A CLT usa a expressão antiga conflitos de jurisdição, mas a Constituição e o CPC falam em conflito de competência. Fique tranquilo se a banca usar qualquer das duas.
+FRANCISCA: E quando existe conflito?
+THALITA: Em duas situações, no artigo oitocentos e quatro. O conflito positivo, quando as duas autoridades se consideram competentes. E o negativo, quando ambas se consideram incompetentes.
+FRANCISCA: Positivo, os dois querem; negativo, nenhum quer. Fácil!
+THALITA: Quem pode suscitar o conflito, segundo o artigo oitocentos e cinco? Os juízes e tribunais do trabalho, os procuradores do trabalho, que são o Procurador-Geral e os procuradores regionais, e a parte interessada ou seu representante.
+FRANCISCA: Agora a vedação do artigo oitocentos e seis: a parte que já opôs exceção de incompetência na causa não pode suscitar o conflito. A lógica é impedir que a parte use dois instrumentos para o mesmo fim.
+THALITA: E, pelo artigo oitocentos e sete, quem suscita deve produzir, no ato, prova da existência do conflito.
+FRANCISCA: Troca típica da FCC: dizer que é facultado à parte suscitar o conflito ainda que já tenha oposto exceção de incompetência. Errado, artigo oitocentos e seis.
 THALITA: Quem já fez a exceção não pode suscitar conflito. Anotei no caderno.
-ANTONIO: E há uma súmula importante do STJ, a cinquenta e nove: não se instaura conflito se já houver sentença transitada em julgado proferida por um dos juízos conflitantes.
-FRANCISCA: Faz sentido, porque, com o trânsito em julgado, a questão da competência já foi resolvida naquele processo.
+FRANCISCA: E há uma súmula importante do STJ, a cinquenta e nove: não se instaura conflito se já houver sentença transitada em julgado proferida por um dos juízos conflitantes.
+THALITA: Faz sentido, porque, com o trânsito em julgado, a questão da competência já foi resolvida naquele processo.
 == SLIDE: Quem julga o conflito de competência
 * Varas da mesma região: TRT
 * TRTs ou Varas de regiões diferentes: TST
 * JT x Justiça Comum ou Federal: STJ
 * Tribunal superior envolvido: STF
 * TRT x Vara vinculada: não há conflito (Súmula 420 TST)
-ANTONIO: Vamos ao quadro de quem julga, que é o que mais cai. Duas Varas do Trabalho da mesma região: quem julga é o TRT, artigo oitocentos e oito, alínea a. A mesma regra vale para conflito entre Vara e juiz de direito investido de jurisdição trabalhista na mesma região, e a Súmula cento e oitenta do STJ confirma.
+FRANCISCA: Vamos ao quadro de quem julga, que é o que mais cai. Duas Varas do Trabalho da mesma região: quem julga é o TRT, artigo oitocentos e oito, alínea a. A mesma regra vale para conflito entre Vara e juiz de direito investido de jurisdição trabalhista na mesma região, e a Súmula cento e oitenta do STJ confirma.
 THALITA: E se forem duas Varas de regiões diferentes?
-BRUNO: Aí sobe para o TST, artigo oitocentos e oito, alínea b. É o mesmo órgão que julga conflito entre dois TRTs.
-FRANCISCA: Quando o conflito é entre juiz do trabalho e juiz estadual comum ou juiz federal, ou entre TRT e Tribunal de Justiça ou TRF, a competência é do STJ, artigo cento e cinco, inciso um, alínea d, da Constituição.
-THALITA: E se for tribunal superior?
-ANTONIO: Se envolver o TST e o STJ, ou o TST e qualquer outro tribunal, é do STF, artigo cento e dois, inciso um, alínea o.
-BRUNO: E há uma exceção importante: entre um TRT e uma Vara a ele vinculada não há conflito, prevalece a decisão do tribunal. É a Súmula quatrocentos e vinte do TST.
-FRANCISCA: Exemplo. A Vara do Trabalho de Abaetetuba, do TRT da Oitava Região, e a Vara do Trabalho de São Luís, do TRT da Décima Sexta, declaram-se incompetentes para a mesma reclamação. Conflito negativo entre Varas de regiões diferentes: o TST julga.
-THALITA: E se fosse entre a Vara de Abaetetuba e a Vara Cível de Abaetetuba?
-FRANCISCA: Aí o juiz estadual não tem jurisdição trabalhista, e a competência seria do STJ.
-ANTONIO: Uma dica geral: sobe-se até o primeiro órgão comum aos dois que divergem. Se não houver tribunal comum dentro da Justiça do Trabalho, o conflito sai dela e vai ao STJ. Se envolver tribunal superior, vai ao STF.
+FRANCISCA: Aí sobe para o TST, artigo oitocentos e oito, alínea b. É o mesmo órgão que julga conflito entre dois TRTs.
+THALITA: Quando o conflito é entre juiz do trabalho e juiz estadual comum ou juiz federal, ou entre TRT e Tribunal de Justiça ou TRF, a competência é do STJ, artigo cento e cinco, inciso um, alínea d, da Constituição.
+FRANCISCA: E se for tribunal superior?
+THALITA: Se envolver o TST e o STJ, ou o TST e qualquer outro tribunal, é do STF, artigo cento e dois, inciso um, alínea o.
+FRANCISCA: E há uma exceção importante: entre um TRT e uma Vara a ele vinculada não há conflito, prevalece a decisão do tribunal. É a Súmula quatrocentos e vinte do TST.
+THALITA: Exemplo. A Vara do Trabalho de Abaetetuba, do TRT da Oitava Região, e a Vara do Trabalho de São Luís, do TRT da Décima Sexta, declaram-se incompetentes para a mesma reclamação. Conflito negativo entre Varas de regiões diferentes: o TST julga.
+FRANCISCA: E se fosse entre a Vara de Abaetetuba e a Vara Cível de Abaetetuba?
+THALITA: Aí o juiz estadual não tem jurisdição trabalhista, e a competência seria do STJ.
+FRANCISCA: Uma dica geral: sobe-se até o primeiro órgão comum aos dois que divergem. Se não houver tribunal comum dentro da Justiça do Trabalho, o conflito sai dela e vai ao STJ. Se envolver tribunal superior, vai ao STF.
 THALITA: Macete: sobe até o primeiro chefe comum. Gostei!
 == SLIDE: Processamento e a pegadinha do artigo 808, d
 * Suscitação: ofício (juiz ou tribunal) ou requerimento (parte ou MPT)
 * Relator ouve as autoridades em conflito
 * Pode haver sobrestamento e juízo para medidas urgentes
 * Decisão declara o competente e a validade dos atos
-BRUNO: O processamento está nos artigos oitocentos e nove a oitocentos e onze. A suscitação é por ofício, quando vem de juiz ou tribunal, ou por requerimento, quando vem da parte ou do Ministério Público do Trabalho, instruída com a prova do conflito.
-FRANCISCA: O relator ouve as autoridades em conflito, que prestam informações. Pode haver sobrestamento do feito e designação de um juízo para as medidas urgentes, em aplicação supletiva dos artigos novecentos e cinquenta e um a novecentos e cinquenta e nove do CPC.
-THALITA: E no final?
-ANTONIO: A decisão declara qual é o juízo competente e também se pronuncia sobre a validade dos atos praticados pelo juízo incompetente.
-BRUNO: Atenção a um alerta da apostila: o artigo oitocentos e oito, alínea d, da CLT atribui ao STF os conflitos entre a Justiça do Trabalho e a Justiça Ordinária. Esse dispositivo foi superado pela Constituição de mil novecentos e oitenta e oito, que deslocou essa competência para o STJ.
+FRANCISCA: O processamento está nos artigos oitocentos e nove a oitocentos e onze. A suscitação é por ofício, quando vem de juiz ou tribunal, ou por requerimento, quando vem da parte ou do Ministério Público do Trabalho, instruída com a prova do conflito.
+THALITA: O relator ouve as autoridades em conflito, que prestam informações. Pode haver sobrestamento do feito e designação de um juízo para as medidas urgentes, em aplicação supletiva dos artigos novecentos e cinquenta e um a novecentos e cinquenta e nove do CPC.
+FRANCISCA: E no final?
+THALITA: A decisão declara qual é o juízo competente e também se pronuncia sobre a validade dos atos praticados pelo juízo incompetente.
+FRANCISCA: Atenção a um alerta da apostila: o artigo oitocentos e oito, alínea d, da CLT atribui ao STF os conflitos entre a Justiça do Trabalho e a Justiça Ordinária. Esse dispositivo foi superado pela Constituição de mil novecentos e oitenta e oito, que deslocou essa competência para o STJ.
 THALITA: Então a CLT está desatualizada, mas a FCC pode cobrar o texto antigo. Como eu respondo?
 FRANCISCA: Depende do enunciado. Se a questão pedir a letra da CLT, a banca pode reproduzir o texto antigo. Se pedir o ordenamento vigente, a resposta é STJ.
 THALITA: Entendi: leia o comando da questão antes de responder.
-ANTONIO: Fechamos os conflitos. Agora vamos aos serviços auxiliares da Justiça do Trabalho, que são três na CLT: a secretaria da Vara, o distribuidor e o oficial de justiça avaliador.
+FRANCISCA: Fechamos os conflitos. Agora vamos aos serviços auxiliares da Justiça do Trabalho, que são três na CLT: a secretaria da Vara, o distribuidor e o oficial de justiça avaliador.
 == SLIDE: Secretaria da Vara: artigos 710 a 712
 * Dirigida por servidor designado pelo juiz (diretor de secretaria)
 * Art. 711: receber, autuar, registrar, informar, contar custas, penhorar
 * Art. 712: superintender, secretariar audiências, tomar reclamações verbais
 * Parágrafo único do art. 712: desconto por atraso
-FRANCISCA: Cada Vara tem uma secretaria dirigida por servidor designado pelo juiz, hoje o diretor de secretaria, que recebe gratificação de função.
-THALITA: E o que a secretaria faz?
-ANTONIO: O artigo setecentos e onze lista. Receber, autuar, movimentar, guardar e conservar processos e papéis. Manter o protocolo de entrada e saída. Registrar as decisões. Informar às partes e procuradores o andamento dos processos. Abrir vista dos processos às partes, na própria secretaria.
-BRUNO: Continua: contar as custas, fornecer certidões do que constar dos livros e arquivos, e realizar penhoras e demais diligências processuais.
-FRANCISCA: Já o artigo setecentos e doze traz atribuições especiais do diretor. Superintender os trabalhos e zelar pela ordem do serviço. Cumprir e fazer cumprir as ordens do juiz e das autoridades superiores. Submeter ao juiz o expediente que dependa de despacho e assinatura. Abrir a correspondência oficial dirigida à Vara.
-ANTONIO: Também compete a ele tomar por termo as reclamações verbais em dissídios individuais, promover o rápido andamento dos processos, sobretudo na execução, secretariar as audiências lavrando as atas, e subscrever certidões e termos, assinando as notificações às partes.
+THALITA: Cada Vara tem uma secretaria dirigida por servidor designado pelo juiz, hoje o diretor de secretaria, que recebe gratificação de função.
+FRANCISCA: E o que a secretaria faz?
+THALITA: O artigo setecentos e onze lista. Receber, autuar, movimentar, guardar e conservar processos e papéis. Manter o protocolo de entrada e saída. Registrar as decisões. Informar às partes e procuradores o andamento dos processos. Abrir vista dos processos às partes, na própria secretaria.
+FRANCISCA: Continua: contar as custas, fornecer certidões do que constar dos livros e arquivos, e realizar penhoras e demais diligências processuais.
+THALITA: Já o artigo setecentos e doze traz atribuições especiais do diretor. Superintender os trabalhos e zelar pela ordem do serviço. Cumprir e fazer cumprir as ordens do juiz e das autoridades superiores. Submeter ao juiz o expediente que dependa de despacho e assinatura. Abrir a correspondência oficial dirigida à Vara.
+FRANCISCA: Também compete a ele tomar por termo as reclamações verbais em dissídios individuais, promover o rápido andamento dos processos, sobretudo na execução, secretariar as audiências lavrando as atas, e subscrever certidões e termos, assinando as notificações às partes.
 THALITA: Macete: o diretor de secretaria toma a reclamação verbal por termo e secretaria a audiência.
-BRUNO: Perfeito. E cuidado com o parágrafo único do artigo setecentos e doze: prevê desconto nos vencimentos do servidor que, sem motivo justificado, não cumprir os atos no prazo, em tantos dias quantos forem os de excesso. A FCC pode cobrar essa sanção literal.
+FRANCISCA: Perfeito. E cuidado com o parágrafo único do artigo setecentos e doze: prevê desconto nos vencimentos do servidor que, sem motivo justificado, não cumprir os atos no prazo, em tantos dias quantos forem os de excesso. A FCC pode cobrar essa sanção literal.
 THALITA: Desconto proporcional aos dias de atraso. Ficou claro.
 == SLIDE: Distribuidor: artigos 713 a 715
 * Existe onde há mais de uma Vara (art. 713)
 * Distribuição por ordem rigorosa de entrada
 * Dois fichários: reclamantes e reclamados
 * Designado pelo Presidente do TRT (art. 715)
-ANTONIO: O distribuidor existe nas localidades com mais de uma Vara, artigo setecentos e treze. Se só há uma Vara, não há o que distribuir.
+FRANCISCA: O distribuidor existe nas localidades com mais de uma Vara, artigo setecentos e treze. Se só há uma Vara, não há o que distribuir.
 THALITA: E como ele distribui?
 FRANCISCA: Por ordem rigorosa de entrada, sucessivamente a cada Vara, artigo setecentos e catorze, alínea a, e artigo setecentos e oitenta e três. Fornece recibo ao interessado para cada feito distribuído.
-BRUNO: Mantém dois fichários, em ordem alfabética: um pelo nome dos reclamantes e outro pelo dos reclamados. Presta informações a qualquer pessoa, verbalmente ou por certidão.
-ANTONIO: Quando o juiz determina a baixa, os dados baixados podem ser consultados, mas não constam das certidões. É a alínea e do artigo setecentos e catorze.
+THALITA: Mantém dois fichários, em ordem alfabética: um pelo nome dos reclamantes e outro pelo dos reclamados. Presta informações a qualquer pessoa, verbalmente ou por certidão.
+FRANCISCA: Quando o juiz determina a baixa, os dados baixados podem ser consultados, mas não constam das certidões. É a alínea e do artigo setecentos e catorze.
 THALITA: E quem designa o distribuidor? O juiz da Vara mais antiga?
-BRUNO: Pegadinha! Não. É o Presidente do TRT, entre servidores das Varas e do TRT da mesma localidade, a ele diretamente subordinados. Artigo setecentos e quinze.
+FRANCISCA: Pegadinha! Não. É o Presidente do TRT, entre servidores das Varas e do TRT da mesma localidade, a ele diretamente subordinados. Artigo setecentos e quinze.
 THALITA: Então não é o juiz da Vara mais antiga. É o Presidente do TRT, anotado.
 FRANCISCA: Agora o auxiliar mais cobrado para o cargo de oficial de justiça: o oficial de justiça avaliador.
 == SLIDE: Oficial de justiça avaliador: artigo 721
@@ -81,30 +81,30 @@ FRANCISCA: Agora o auxiliar mais cobrado para o cargo de oficial de justiça: o 
 * Prazo de 9 dias para cumprir; 10 dias para avaliar (art. 888)
 * Oficial ad hoc: qualquer serventuário; OJ 164 SDI-1, sem vínculo
 * Presidente do TRT pode atribuir a qualquer oficial
-ANTONIO: O oficial de justiça avaliador leva a ordem judicial ao mundo dos fatos: comunica atos, constringe bens, avalia e certifica, com fé pública, o que presenciou.
-BRUNO: O caput do artigo setecentos e vinte e um diz que cabe a eles realizar os atos decorrentes da execução dos julgados das Varas e dos TRTs que lhes forem cometidos pelos presidentes. Atribuição ligada à execução. Na fase de conhecimento, a notificação é, em regra, postal, artigo oitocentos e quarenta e um.
-FRANCISCA: Parágrafo primeiro: cada oficial funciona perante uma Vara, salvo se o TRT tiver órgão específico de distribuição de mandados, a central de mandados. Parágrafo segundo: onde houver mais de uma Vara, o ato não cumprido em nove dias, sem justificativa, é transferido a outro oficial, e o faltoso se sujeita às penalidades legais.
-THALITA: Nove dias. Mas a avaliação não é dez?
-ANTONIO: Exato. Parágrafo terceiro: para a avaliação, o prazo é o do artigo oitocentos e oitenta e oito, dez dias. Não confunda nove, para o cumprimento, com dez, para a avaliação.
-BRUNO: Parágrafo quarto: o Presidente do TRT pode atribuir a qualquer oficial a execução das decisões do Tribunal. É faculdade. Parágrafo quinto: na falta ou impedimento do oficial, o juiz pode atribuir o ato a qualquer serventuário, o oficial ad hoc.
-FRANCISCA: E a Orientação Jurisprudencial cento e sessenta e quatro da SDI-um diz que a nomeação como oficial ad hoc, ainda que reiterada, não gera vínculo de emprego, porque cada designação se esgota no cumprimento do mandado.
-THALITA: Então, se o serventuário foi chamado várias vezes, mesmo assim não vira empregado. Certo?
-ANTONIO: Certo. Cada designação é pontual.
+THALITA: O oficial de justiça avaliador leva a ordem judicial ao mundo dos fatos: comunica atos, constringe bens, avalia e certifica, com fé pública, o que presenciou.
+FRANCISCA: O caput do artigo setecentos e vinte e um diz que cabe a eles realizar os atos decorrentes da execução dos julgados das Varas e dos TRTs que lhes forem cometidos pelos presidentes. Atribuição ligada à execução. Na fase de conhecimento, a notificação é, em regra, postal, artigo oitocentos e quarenta e um.
+THALITA: Parágrafo primeiro: cada oficial funciona perante uma Vara, salvo se o TRT tiver órgão específico de distribuição de mandados, a central de mandados. Parágrafo segundo: onde houver mais de uma Vara, o ato não cumprido em nove dias, sem justificativa, é transferido a outro oficial, e o faltoso se sujeita às penalidades legais.
+FRANCISCA: Nove dias. Mas a avaliação não é dez?
+THALITA: Exato. Parágrafo terceiro: para a avaliação, o prazo é o do artigo oitocentos e oitenta e oito, dez dias. Não confunda nove, para o cumprimento, com dez, para a avaliação.
+FRANCISCA: Parágrafo quarto: o Presidente do TRT pode atribuir a qualquer oficial a execução das decisões do Tribunal. É faculdade. Parágrafo quinto: na falta ou impedimento do oficial, o juiz pode atribuir o ato a qualquer serventuário, o oficial ad hoc.
+THALITA: E a Orientação Jurisprudencial cento e sessenta e quatro da SDI-um diz que a nomeação como oficial ad hoc, ainda que reiterada, não gera vínculo de emprego, porque cada designação se esgota no cumprimento do mandado.
+FRANCISCA: Então, se o serventuário foi chamado várias vezes, mesmo assim não vira empregado. Certo?
+THALITA: Certo. Cada designação é pontual.
 == SLIDE: Atribuições do oficial e atos da execução
 * Art. 154 CPC: diligências com 2 testemunhas; certificar proposta de acordo
 * Execução: citar para pagar em 48 horas (art. 880)
 * Edital após 2 procuras em 48 horas, publicado por 5 dias
 * Avaliação em 10 dias; art. 836, § 1º CPC: descrever bens
 FRANCISCA: Supletivamente, o artigo cento e cinquenta e quatro do CPC lista as atribuições. Fazer pessoalmente citações, prisões, penhoras, arrestos e demais diligências, sempre que possível na presença de duas testemunhas, certificando lugar, dia e hora.
-BRUNO: Executar as ordens do juiz, devolver o mandado à secretaria após cumpri-lo, auxiliar o juiz na manutenção da ordem e efetuar avaliações, quando for o caso.
+THALITA: Executar as ordens do juiz, devolver o mandado à secretaria após cumpri-lo, auxiliar o juiz na manutenção da ordem e efetuar avaliações, quando for o caso.
 FRANCISCA: E certificar no mandado proposta de autocomposição apresentada por qualquer das partes no ato de comunicação. Certificada a proposta, o juiz intima a parte contrária para se manifestar em cinco dias. O silêncio vale como recusa e o processo segue normalmente.
 THALITA: E a certidão do oficial vale mesmo?
-BRUNO: Tem fé pública, com presunção relativa de veracidade. Só é afastada por prova robusta em contrário. E, pelo artigo cento e cinquenta e cinco, o oficial responde civil e regressivamente se, sem justo motivo, recusar-se a cumprir o ato no prazo ou praticar ato nulo com dolo ou culpa.
-ANTONIO: Agora a execução trabalhista. A citação é feita pelo oficial, para pagar em quarenta e oito horas ou garantir a execução, sob pena de penhora, artigo oitocentos e oitenta da CLT.
+FRANCISCA: Tem fé pública, com presunção relativa de veracidade. Só é afastada por prova robusta em contrário. E, pelo artigo cento e cinquenta e cinco, o oficial responde civil e regressivamente se, sem justo motivo, recusar-se a cumprir o ato no prazo ou praticar ato nulo com dolo ou culpa.
+THALITA: Agora a execução trabalhista. A citação é feita pelo oficial, para pagar em quarenta e oito horas ou garantir a execução, sob pena de penhora, artigo oitocentos e oitenta da CLT.
 FRANCISCA: Se o executado não for encontrado, procurado duas vezes em quarenta e oito horas sem êxito, a citação é por edital, publicado no órgão oficial ou afixado na sede da Vara por cinco dias.
-BRUNO: Não havendo pagamento nem garantia, penhoram-se bens suficientes para o principal, juros, correção e custas, artigo oitocentos e oitenta e três. A garantia por depósito, seguro-garantia judicial ou nomeação de bens observa a ordem do artigo oitocentos e trinta e cinco do CPC.
-THALITA: Quem avalia?
-ANTONIO: O próprio oficial avaliador, em dez dias, com laudo que descreve os bens, o estado e o valor. E se o produto da venda for absorvido pelas custas, não se penhora, e o oficial descreve na certidão os bens que guarnecem a residência ou o estabelecimento.
+THALITA: Não havendo pagamento nem garantia, penhoram-se bens suficientes para o principal, juros, correção e custas, artigo oitocentos e oitenta e três. A garantia por depósito, seguro-garantia judicial ou nomeação de bens observa a ordem do artigo oitocentos e trinta e cinco do CPC.
+FRANCISCA: Quem avalia?
+THALITA: O próprio oficial avaliador, em dez dias, com laudo que descreve os bens, o estado e o valor. E se o produto da venda for absorvido pelas custas, não se penhora, e o oficial descreve na certidão os bens que guarnecem a residência ou o estabelecimento.
 FRANCISCA: Exemplo: o oficial Paulo recebe mandado de citação, penhora e avaliação contra a Delta Comércio em dois de março. Se, sem justificativa, não cumprir até onze de março, o mandado pode ser redistribuído. Feita a penhora, a avaliação deve ser concluída em dez dias.
 THALITA: Nove dias para cumprir, dez para avaliar, de novo.
 == SLIDE: Horário, hora certa e força policial
@@ -112,13 +112,13 @@ THALITA: Nove dias para cumprir, dez para avaliar, de novo.
 * Penhora em domingo ou feriado: autorização expressa do juiz
 * Hora certa: 2 tentativas, volta no dia útil seguinte (arts. 252 a 254 CPC)
 * Arrombamento: 2 oficiais, 2 testemunhas (art. 846 CPC)
-BRUNO: O artigo setecentos e setenta da CLT fixa os atos em dias úteis, das seis às vinte horas. O CPC, no artigo duzentos e doze, repete o horário e permite concluir depois das vinte horas atos já iniciados, se o adiamento prejudicar a diligência.
+FRANCISCA: O artigo setecentos e setenta da CLT fixa os atos em dias úteis, das seis às vinte horas. O CPC, no artigo duzentos e doze, repete o horário e permite concluir depois das vinte horas atos já iniciados, se o adiamento prejudicar a diligência.
 THALITA: E penhora em domingo ou feriado?
 FRANCISCA: Aqui está a diferença que a FCC adora. Na CLT, exige-se autorização expressa do juiz, parágrafo único do artigo setecentos e setenta. No CPC, citações, intimações e penhoras podem ocorrer em férias forenses, feriados ou fora do horário, independentemente de autorização, respeitada a inviolabilidade do domicílio.
-BRUNO: No processo do trabalho, prevalece a regra própria da CLT, e o CPC só se aplica na omissão, pelo artigo setecentos e sessenta e nove.
-THALITA: Então no domingo, só com autorização expressa do juiz.
-ANTONIO: Isso. A citação por hora certa não tem previsão na CLT, mas se aplica supletivamente, sobretudo na execução. Pelos artigos duzentos e cinquenta e dois a duzentos e cinquenta e quatro do CPC, após duas tentativas no domicílio, com suspeita de ocultação, o oficial intima familiar ou vizinho, ou o porteiro em condomínio com controle de acesso, de que voltará no dia útil imediato em hora designada.
+THALITA: No processo do trabalho, prevalece a regra própria da CLT, e o CPC só se aplica na omissão, pelo artigo setecentos e sessenta e nove.
+FRANCISCA: Então no domingo, só com autorização expressa do juiz.
+THALITA: Isso. A citação por hora certa não tem previsão na CLT, mas se aplica supletivamente, sobretudo na execução. Pelos artigos duzentos e cinquenta e dois a duzentos e cinquenta e quatro do CPC, após duas tentativas no domicílio, com suspeita de ocultação, o oficial intima familiar ou vizinho, ou o porteiro em condomínio com controle de acesso, de que voltará no dia útil imediato em hora designada.
 FRANCISCA: Não encontrado o citando, dá a citação por feita e deixa a contrafé. A secretaria envia carta ao réu em dez dias.
-BRUNO: E na resistência à penhora, pelo artigo oitocentos e quarenta e seis do CPC, com as portas fechadas, o oficial comunica ao juiz e pede ordem de arrombamento. Deferida, dois oficiais cumprem o mandado e lavram auto circunstanciado, assinado por duas testemunhas. O juiz requisita força policial quando necessário, e o auto é em duplicata, com uma via à autoridade policial.
-THALITA: Macete dos números do oficial: duas testemunhas, duas tentativas na hora certa, dois oficiais no arrombamento, duas vezes em quarenta e oito horas para o edital, nove dias para cumprir, dez para avaliar, e seis às vinte horas.
-ANTONIO: Muito bem, Thalita. Com os auxiliares vistos, vamos ao último tema da aula: peritos, honorários periciais e gratuidade de justiça.
+THALITA: E na resistência à penhora, pelo artigo oitocentos e quarenta e seis do CPC, com as portas fechadas, o oficial comunica ao juiz e pede ordem de arrombamento. Deferida, dois oficiais cumprem o mandado e lavram auto circunstanciado, assinado por duas testemunhas. O juiz requisita força policial quando necessário, e o auto é em duplicata, com uma via à autoridade policial.
+FRANCISCA: Macete dos números do oficial: duas testemunhas, duas tentativas na hora certa, dois oficiais no arrombamento, duas vezes em quarenta e oito horas para o edital, nove dias para cumprir, dez para avaliar, e seis às vinte horas.
+THALITA: Muito bem, Francisca. Com os auxiliares vistos, vamos ao último tema da aula: peritos, honorários periciais e gratuidade de justiça.

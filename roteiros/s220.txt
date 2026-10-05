@@ -4,20 +4,20 @@ SEGMENTO s220
 * Intelectual não é empresa, salvo elemento de empresa
 * Registro na Junta antes de iniciar: efeito declaratório (art. 967)
 * Rural: inscrição facultativa; feita, equipara-se ao empresário (art. 971)
-ANTONIO: Fechamos contratos e responsabilidade civil. Agora o último bloco da aula, o direito de empresa, que a FCC adora cobrar com pegadinha de conceito. Começamos pelo artigo novecentos e sessenta e seis: empresário é quem exerce profissionalmente atividade econômica organizada para a produção ou a circulação de bens ou de serviços.
+FRANCISCA: Fechamos contratos e responsabilidade civil. Agora o último bloco da aula, o direito de empresa, que a FCC adora cobrar com pegadinha de conceito. Começamos pelo artigo novecentos e sessenta e seis: empresário é quem exerce profissionalmente atividade econômica organizada para a produção ou a circulação de bens ou de serviços.
 THALITA: Então são palavras-chave: profissional, econômica, organizada, e produção ou circulação. É isso?
-ANTONIO: Isso. Faltou uma delas, não há empresário. Quem vende um bem de vez em quando, sem habitualidade, não exerce a atividade profissionalmente.
-FRANCISCA: E tem a exclusão do parágrafo único. Quem exerce profissão intelectual, de natureza científica, literária ou artística, não é empresário, mesmo com auxiliares ou colaboradores. A exceção é quando o exercício da profissão constitui elemento de empresa.
-THALITA: Dá um exemplo concreto?
-FRANCISCA: O médico que atende sozinho no consultório é profissional intelectual. Se o consultório cresce e vira hospital, com estrutura, equipe e organização dos fatores de produção, o médico passa a ser elemento de empresa. Aí sim temos empresário.
-BRUNO: A banca arma assim: diz que o médico de consultório é empresário porque exerce atividade econômica habitual. Errado. Atividade intelectual, em regra, não é empresa. A expressão elemento de empresa é que muda o gabarito.
-ANTONIO: Passando ao registro. Pelo artigo novecentos e sessenta e sete, o empresário deve se inscrever no registro público de empresas mercantis, a Junta Comercial, antes de iniciar a atividade.
-THALITA: E se começar sem registro, deixa de ser empresário?
-BRUNO: Não. A inscrição tem efeito declaratório. Ele já é empresário pelo exercício da atividade, só fica irregular. Macete: o registro declara, não cria.
+FRANCISCA: Isso. Faltou uma delas, não há empresário. Quem vende um bem de vez em quando, sem habitualidade, não exerce a atividade profissionalmente.
+THALITA: E tem a exclusão do parágrafo único. Quem exerce profissão intelectual, de natureza científica, literária ou artística, não é empresário, mesmo com auxiliares ou colaboradores. A exceção é quando o exercício da profissão constitui elemento de empresa.
+FRANCISCA: Dá um exemplo concreto?
+THALITA: O médico que atende sozinho no consultório é profissional intelectual. Se o consultório cresce e vira hospital, com estrutura, equipe e organização dos fatores de produção, o médico passa a ser elemento de empresa. Aí sim temos empresário.
+FRANCISCA: A banca arma assim: diz que o médico de consultório é empresário porque exerce atividade econômica habitual. Errado. Atividade intelectual, em regra, não é empresa. A expressão elemento de empresa é que muda o gabarito.
+THALITA: Passando ao registro. Pelo artigo novecentos e sessenta e sete, o empresário deve se inscrever no registro público de empresas mercantis, a Junta Comercial, antes de iniciar a atividade.
+FRANCISCA: E se começar sem registro, deixa de ser empresário?
+THALITA: Não. A inscrição tem efeito declaratório. Ele já é empresário pelo exercício da atividade, só fica irregular. Macete: o registro declara, não cria.
 FRANCISCA: Para o empresário rural, o artigo novecentos e setenta e um muda a regra. A inscrição é facultativa. Mas, se ele se inscrever, fica equiparado, para todos os efeitos, ao empresário sujeito a registro.
 THALITA: Então rural escolhe: sem registro é produtor rural, com registro é empresário.
-ANTONIO: Perfeito. E a FCC costuma dizer que o registro do rural é obrigatório. Está errado, é facultativo.
-BRUNO: Guarde dois pares: intelectual, salvo elemento de empresa; rural, registro facultativo. Esses dois rendem muitas questões.
+FRANCISCA: Perfeito. E a FCC costuma dizer que o registro do rural é obrigatório. Está errado, é facultativo.
+THALITA: Guarde dois pares: intelectual, salvo elemento de empresa; rural, registro facultativo. Esses dois rendem muitas questões.
 == SLIDE: Capacidade, incapaz, impedidos e SLU
 * Capacidade plena e ausência de impedimento (arts. 972-973)
 * Incapaz só continua empresa anterior, com autorização judicial (art. 974)
@@ -25,18 +25,18 @@ BRUNO: Guarde dois pares: intelectual, salvo elemento de empresa; rural, registr
 * Servidor pode ser cotista, não administrador
 * Cônjuges sócios: vedado em comunhão universal e separação obrigatória (art. 977)
 * SLU: limitada com um ou mais sócios (art. 1.052, § 1º)
-ANTONIO: Quem pode ser empresário? Os artigos novecentos e setenta e dois e novecentos e setenta e três pedem capacidade plena e ausência de impedimento. E o impedido que atua mesmo assim responde pelas obrigações que contrair.
+FRANCISCA: Quem pode ser empresário? Os artigos novecentos e setenta e dois e novecentos e setenta e três pedem capacidade plena e ausência de impedimento. E o impedido que atua mesmo assim responde pelas obrigações que contrair.
 THALITA: Mas e o incapaz? Uma criança herdeira de uma padaria não pode ser empresária?
 FRANCISCA: Pode, mas só continuar. O artigo novecentos e setenta e quatro permite que o incapaz continue a empresa que já existia, seja a sua própria de antes, seja a dos pais, seja a do autor da herança. Ele atua representado ou assistido e precisa de autorização judicial.
-BRUNO: Pegadinha clássica: a questão diz que o incapaz pode iniciar empresa, desde que representado ou assistido. Errado. Iniciar, nunca. Só continuar.
-THALITA: Entendi. Incapaz continua, não começa. E quem são os impedidos?
-FRANCISCA: Vêm de leis especiais. Magistrado, membro do Ministério Público, militar da ativa e falido não reabilitado. O servidor público também, mas com um detalhe.
-BRUNO: O servidor pode ser cotista ou acionista, só não pode administrar. É um detalhe que a banca gosta de testar.
-ANTONIO: Outra restrição, do artigo novecentos e setenta e sete: os cônjuges não podem ser sócios entre si quando casados na comunhão universal de bens ou na separação obrigatória.
-THALITA: Arrisco um macete: na comunhão universal o patrimônio já é um só, então sociedade entre eles não faria sentido. E na separação obrigatória a lei quer evitar fraude. Pode ser?
-ANTONIO: Pode, é uma boa forma de lembrar. E em qualquer outro regime, eles podem ser sócios.
+THALITA: Pegadinha clássica: a questão diz que o incapaz pode iniciar empresa, desde que representado ou assistido. Errado. Iniciar, nunca. Só continuar.
+FRANCISCA: Entendi. Incapaz continua, não começa. E quem são os impedidos?
+THALITA: Vêm de leis especiais. Magistrado, membro do Ministério Público, militar da ativa e falido não reabilitado. O servidor público também, mas com um detalhe.
+FRANCISCA: O servidor pode ser cotista ou acionista, só não pode administrar. É um detalhe que a banca gosta de testar.
+THALITA: Outra restrição, do artigo novecentos e setenta e sete: os cônjuges não podem ser sócios entre si quando casados na comunhão universal de bens ou na separação obrigatória.
+FRANCISCA: Arrisco um macete: na comunhão universal o patrimônio já é um só, então sociedade entre eles não faria sentido. E na separação obrigatória a lei quer evitar fraude. Pode ser?
+THALITA: Pode, é uma boa forma de lembrar. E em qualquer outro regime, eles podem ser sócios.
 FRANCISCA: Por fim, a sociedade limitada unipessoal. Pelo artigo mil e cinquenta e dois, parágrafo primeiro, a limitada pode ter um ou mais sócios. A empresa individual de responsabilidade limitada, a EIRELI, foi convertida em sociedade limitada unipessoal pela Lei quatorze mil cento e noventa e cinco, de dois mil e vinte e um.
-BRUNO: Então, na prova, limitada pode ser constituída por uma ou mais pessoas. Está certo.
+THALITA: Então, na prova, limitada pode ser constituída por uma ou mais pessoas. Está certo.
 == SLIDE: Tipos societários e responsabilidade
 * Nome coletivo: só pessoas físicas, ilimitada e solidária; firma
 * Comandita simples: comanditados ilimitada, comanditários limitada
@@ -44,38 +44,38 @@ BRUNO: Então, na prova, limitada pode ser constituída por uma ou mais pessoas.
 * Sociedade anônima: preço de emissão; sempre empresária; denominação
 * Cooperativa: sempre simples
 * Conta de participação: só o sócio ostensivo se obriga; sem nome empresarial
-ANTONIO: Vamos aos tipos de sociedade e como cada um responde pelas dívidas. Começo pelo nome coletivo: só pessoas físicas podem ser sócias, a responsabilidade é ilimitada e solidária, e o nome é uma firma.
+FRANCISCA: Vamos aos tipos de sociedade e como cada um responde pelas dívidas. Começo pelo nome coletivo: só pessoas físicas podem ser sócias, a responsabilidade é ilimitada e solidária, e o nome é uma firma.
 THALITA: Ilimitada e solidária: o sócio responde com o patrimônio pessoal, e qualquer um pode ser cobrado pelo total, certo?
 FRANCISCA: Isso. Já a comandita simples tem dois tipos de sócios. Os comanditados respondem de forma ilimitada, e os comanditários, de forma limitada ao que investiram. Também usa firma.
-BRUNO: Cuidado com a confusão que a banca faz entre os dois. Ilimitada é do comanditado, limitada é do comanditário. Macete: comanditado com ADO, ilimitado.
-THALITA: Eu ia errar essa! Mas gostei do macete, o final dá a pista.
-ANTONIO: Na sociedade limitada, a responsabilidade de cada sócio é restrita ao valor das suas quotas, mas todos respondem solidariamente pela integralização do capital social. O nome pode ser firma ou denominação, sempre com a palavra limitada no final.
+THALITA: Cuidado com a confusão que a banca faz entre os dois. Ilimitada é do comanditado, limitada é do comanditário. Macete: comanditado com ADO, ilimitado.
+FRANCISCA: Eu ia errar essa! Mas gostei do macete, o final dá a pista.
+THALITA: Na sociedade limitada, a responsabilidade de cada sócio é restrita ao valor das suas quotas, mas todos respondem solidariamente pela integralização do capital social. O nome pode ser firma ou denominação, sempre com a palavra limitada no final.
 FRANCISCA: Na sociedade anônima, o acionista responde pelo preço de emissão das ações que subscreveu. E ela é sempre empresária, qualquer que seja o seu objeto. O nome é uma denominação.
-BRUNO: Contraponto importante: a cooperativa é sempre sociedade simples, mesmo que exerça atividade própria de empresário. Uma questão do nosso caderno cobra exatamente isso. Então anônima, sempre empresária; cooperativa, sempre simples.
-THALITA: Anônima sempre empresária, cooperativa sempre simples. Anotado.
-ANTONIO: E por último a conta de participação. Aqui só o sócio ostensivo se obriga perante terceiros. O sócio oculto, o participante, responde apenas perante o ostensivo.
+THALITA: Contraponto importante: a cooperativa é sempre sociedade simples, mesmo que exerça atividade própria de empresário. Uma questão do nosso caderno cobra exatamente isso. Então anônima, sempre empresária; cooperativa, sempre simples.
+FRANCISCA: Anônima sempre empresária, cooperativa sempre simples. Anotado.
+THALITA: E por último a conta de participação. Aqui só o sócio ostensivo se obriga perante terceiros. O sócio oculto, o participante, responde apenas perante o ostensivo.
 FRANCISCA: E ela não tem nome empresarial. Não usa firma nem denominação, porque nem aparece perante terceiros como pessoa própria.
 THALITA: Resumo: nome coletivo e comandita, firma; anônima e cooperativa, denominação; conta de participação, nada.
-BRUNO: Quase. Limitada aceita firma ou denominação. Fora isso, perfeito.
+FRANCISCA: Quase. Limitada aceita firma ou denominação. Fora isso, perfeito.
 == SLIDE: Trespasse: venda do estabelecimento
 * Eficácia perante terceiros: averbação na Junta e publicação (art. 1.144)
 * Sem bens suficientes ao alienante: pagamento ou consentimento dos credores (art. 1.145)
 * Consentimento tácito em 30 dias da notificação
 * Adquirente responde pelos débitos contabilizados; alienante solidário por 1 ano (art. 1.146)
 * Não concorrência: 5 anos, salvo autorização expressa (art. 1.147)
-ANTONIO: Agora o trespasse, que é a venda do estabelecimento empresarial. Primeira regra, do artigo mil cento e quarenta e quatro: para valer perante terceiros, o contrato precisa ser averbado na Junta Comercial e publicado na imprensa oficial.
-THALITA: Entre o comprador e o vendedor, vale desde a assinatura. Mas contra terceiros, só depois da averbação e da publicação. Certo?
-ANTONIO: Certo. Segunda regra, artigo mil cento e quarenta e cinco: se o alienante não ficar com bens suficientes para pagar as dívidas, a venda só é eficaz se ele pagar os credores ou se eles consentirem.
+THALITA: Agora o trespasse, que é a venda do estabelecimento empresarial. Primeira regra, do artigo mil cento e quarenta e quatro: para valer perante terceiros, o contrato precisa ser averbado na Junta Comercial e publicado na imprensa oficial.
+FRANCISCA: Entre o comprador e o vendedor, vale desde a assinatura. Mas contra terceiros, só depois da averbação e da publicação. Certo?
+THALITA: Certo. Segunda regra, artigo mil cento e quarenta e cinco: se o alienante não ficar com bens suficientes para pagar as dívidas, a venda só é eficaz se ele pagar os credores ou se eles consentirem.
 FRANCISCA: E esse consentimento pode ser tácito. Os credores são notificados, e o silêncio por trinta dias, contados da notificação, significa que concordaram.
-BRUNO: Aqui a banca costuma trocar o prazo. Trinta dias, e da notificação. Não é da publicação.
-ANTONIO: Terceira regra, o artigo mil cento e quarenta e seis, a mais cobrada. O adquirente responde pelos débitos anteriores à transferência, desde que regularmente contabilizados.
+THALITA: Aqui a banca costuma trocar o prazo. Trinta dias, e da notificação. Não é da publicação.
+FRANCISCA: Terceira regra, o artigo mil cento e quarenta e seis, a mais cobrada. O adquirente responde pelos débitos anteriores à transferência, desde que regularmente contabilizados.
 THALITA: E o vendedor fica livre?
 FRANCISCA: Não. O alienante continua solidariamente responsável por um ano. Para os débitos já vencidos, o prazo conta da publicação da transferência. Para os vincendos, conta do vencimento de cada um.
 THALITA: Então vencidos, da publicação; vincendos, do vencimento. Parece bom para a prova!
-BRUNO: Mais um cuidado: o adquirente só responde pelos débitos regularmente contabilizados. Dívida fora da contabilidade não passa automaticamente para ele.
-ANTONIO: Por fim, o artigo mil cento e quarenta e sete: não havendo autorização expressa, o alienante não pode fazer concorrência ao adquirente nos cinco anos seguintes à transferência.
-THALITA: Cinco anos sem concorrer, salvo se o contrato permitir de forma expressa.
-BRUNO: Isso. A FCC pode trocar cinco por dois ou por dez. Fixe: um ano de solidariedade, cinco de não concorrência.
+FRANCISCA: Mais um cuidado: o adquirente só responde pelos débitos regularmente contabilizados. Dívida fora da contabilidade não passa automaticamente para ele.
+THALITA: Por fim, o artigo mil cento e quarenta e sete: não havendo autorização expressa, o alienante não pode fazer concorrência ao adquirente nos cinco anos seguintes à transferência.
+FRANCISCA: Cinco anos sem concorrer, salvo se o contrato permitir de forma expressa.
+THALITA: Isso. A FCC pode trocar cinco por dois ou por dez. Fixe: um ano de solidariedade, cinco de não concorrência.
 == SLIDE: Nome empresarial
 * Firma: nome civil, serve de assinatura; denominação admite fantasia (arts. 1.156-1.158)
 * Veracidade: nome de sócio falecido, excluído ou retirante sai da firma (art. 1.165)
@@ -83,53 +83,53 @@ BRUNO: Isso. A FCC pode trocar cinco por dois ou por dez. Fixe: um ano de solida
 * Inalienável; adquirente pode usar com "sucessor" se o contrato permitir (art. 1.164)
 * Proteção nos limites do Estado, salvo lei especial (art. 1.166)
 * Omissão de "limitada": administradores respondem ilimitadamente (art. 1.158, § 3º)
-ANTONIO: Chegamos ao nome empresarial. Primeiro, firma ou denominação. A firma usa o nome civil do empresário ou dos sócios e serve de assinatura. É usada pelo empresário individual e pelas sociedades em que há sócio de responsabilidade ilimitada. A denominação admite expressão de fantasia.
+FRANCISCA: Chegamos ao nome empresarial. Primeiro, firma ou denominação. A firma usa o nome civil do empresário ou dos sócios e serve de assinatura. É usada pelo empresário individual e pelas sociedades em que há sócio de responsabilidade ilimitada. A denominação admite expressão de fantasia.
 THALITA: Fantasia tipo nome de marca? Pode usar numa denominação?
 FRANCISCA: Pode. A denominação designa o objeto da empresa e pode ter nome de fantasia, e o nome civil de sócio também. A firma, não, ela tem de ser nome civil.
-BRUNO: Atenção à veracidade, do artigo mil cento e sessenta e cinco. O nome de sócio falecido, excluído ou que se retirou não pode ser mantido na firma, senão o nome diria algo que não é verdade.
-ANTONIO: E há a novidade, do artigo mil cento e sessenta e três. O nome empresarial deve se distinguir de qualquer outro já inscrito no mesmo registro.
+THALITA: Atenção à veracidade, do artigo mil cento e sessenta e cinco. O nome de sócio falecido, excluído ou que se retirou não pode ser mantido na firma, senão o nome diria algo que não é verdade.
+FRANCISCA: E há a novidade, do artigo mil cento e sessenta e três. O nome empresarial deve se distinguir de qualquer outro já inscrito no mesmo registro.
 THALITA: Então se alguém quiser registrar um nome igual ao de outra empresa na mesma Junta, não consegue?
-ANTONIO: Exato, a Junta recusa. Agora a inalienabilidade, artigo mil cento e sessenta e quatro. O nome empresarial não pode ser alienado.
-FRANCISCA: Mas o adquirente do estabelecimento pode usar o nome do alienante, se o contrato permitir, precedido do seu próprio nome e com a qualificação de sucessor.
-BRUNO: É a pegadinha do nosso caderno: dizer que o nome pode ser alienado junto com o estabelecimento. Errado. Pode ser usado como sucessor, se o contrato permitir, mas não vendido.
+FRANCISCA: Exato, a Junta recusa. Agora a inalienabilidade, artigo mil cento e sessenta e quatro. O nome empresarial não pode ser alienado.
+THALITA: Mas o adquirente do estabelecimento pode usar o nome do alienante, se o contrato permitir, precedido do seu próprio nome e com a qualificação de sucessor.
+FRANCISCA: É a pegadinha do nosso caderno: dizer que o nome pode ser alienado junto com o estabelecimento. Errado. Pode ser usado como sucessor, se o contrato permitir, mas não vendido.
 THALITA: Quanto à proteção, é no país inteiro?
 FRANCISCA: Não. Pelo artigo mil cento e sessenta e seis, a inscrição assegura o uso exclusivo nos limites do respectivo Estado. Só tem proteção nacional se registrado na forma de lei especial.
-ANTONIO: E o artigo mil cento e cinquenta e oito, parágrafo terceiro: se faltar a palavra limitada no nome, os administradores que o usarem respondem solidária e ilimitadamente.
-BRUNO: Alerta de atualização: a Lei quatorze mil cento e noventa e cinco, de dois mil e vinte e um, admitiu o CNPJ como nome empresarial e tornou facultativa a indicação do objeto na denominação da sociedade anônima. Confira a redação vigente do artigo mil cento e cinquenta e oito, parágrafo segundo.
+THALITA: E o artigo mil cento e cinquenta e oito, parágrafo terceiro: se faltar a palavra limitada no nome, os administradores que o usarem respondem solidária e ilimitadamente.
+FRANCISCA: Alerta de atualização: a Lei quatorze mil cento e noventa e cinco, de dois mil e vinte e um, admitiu o CNPJ como nome empresarial e tornou facultativa a indicação do objeto na denominação da sociedade anônima. Confira a redação vigente do artigo mil cento e cinquenta e oito, parágrafo segundo.
 == SLIDE: Questões 1 a 3: obrigações e vícios
 * Q1: quota do insolvente se divide entre todos, inclusive o exonerado (art. 284)
 * Q2: evicção na dação em pagamento restabelece a obrigação (art. 359)
 * Q3: vício oculto de móvel: 180 dias da ciência (art. 445, § 1º)
-ANTONIO: Vamos às questões comentadas, uma a uma. Pensem junto. Questão um: Ana, Bruno e Carla devem trinta mil reais, solidariamente, a Márcio. Ele renuncia à solidariedade em favor de Bruno. Ana paga tudo e Carla é insolvente. Pausa para você pensar.
-THALITA: Eu chuto a letra B: Ana cobra só de Bruno, e a quota de Carla se perde.
-BRUNO: Errada, Thalita. Pelo artigo duzentos e oitenta e três, a quota do insolvente é dividida igualmente entre os demais. A letra A também erra: a renúncia beneficia só Bruno, e os outros seguem solidários, artigo duzentos e oitenta e dois. A D erra porque contraria o artigo duzentos e oitenta e quatro, e a E, porque as partes se presumem iguais. O gabarito é C: participam do rateio inclusive os exonerados.
+THALITA: Vamos às questões comentadas, uma a uma. Pensem junto. Questão um: Ana, Bruno e Carla devem trinta mil reais, solidariamente, a Márcio. Ele renuncia à solidariedade em favor de Bruno. Ana paga tudo e Carla é insolvente. Pausa para você pensar.
+FRANCISCA: Eu chuto a letra B: Ana cobra só de Bruno, e a quota de Carla se perde.
+THALITA: Errada, Francisca. Pelo artigo duzentos e oitenta e três, a quota do insolvente é dividida igualmente entre os demais. A letra A também erra: a renúncia beneficia só Bruno, e os outros seguem solidários, artigo duzentos e oitenta e dois. A D erra porque contraria o artigo duzentos e oitenta e quatro, e a E, porque as partes se presumem iguais. O gabarito é C: participam do rateio inclusive os exonerados.
 FRANCISCA: Questão dois, extinção das obrigações. Pausa para pensar. A letra A traz evicção na dação em pagamento, a B traz compensação de comodato com mútuo, a C traz pagamento por terceiro não interessado, a D fala em confusão, e a E, em novação sem o fiador.
-BRUNO: Gabarito A. Evicto o credor da coisa dada em pagamento, restabelece-se a obrigação primitiva, ressalvados direitos de terceiros, artigo trezentos e cinquenta e nove. A B erra, porque dívida de comodato não se compensa, artigo trezentos e setenta e três. A C erra: o terceiro não interessado tem reembolso, mas não sub-roga, artigo trezentos e cinco. A D erra: cessando a confusão, a obrigação se restabelece, artigo trezentos e oitenta e quatro. E a E erra: o fiador que não consentiu na novação fica exonerado, artigo trezentos e sessenta e seis.
-THALITA: Questão três: Tereza compra um carro que já usava como locatária e descobre, meses depois, defeito oculto que só aparece com o tempo. Qual o prazo? Acho que é a letra C, quinze dias da entrega, por já estar na posse.
-ANTONIO: Quase! A redução à metade pela posse prévia existe, mas cede diante do vício que só se manifesta mais tarde. O gabarito é E: o prazo conta-se da ciência do vício, até cento e oitenta dias para móveis, artigo quatrocentos e quarenta e cinco, parágrafo primeiro.
+THALITA: Gabarito A. Evicto o credor da coisa dada em pagamento, restabelece-se a obrigação primitiva, ressalvados direitos de terceiros, artigo trezentos e cinquenta e nove. A B erra, porque dívida de comodato não se compensa, artigo trezentos e setenta e três. A C erra: o terceiro não interessado tem reembolso, mas não sub-roga, artigo trezentos e cinco. A D erra: cessando a confusão, a obrigação se restabelece, artigo trezentos e oitenta e quatro. E a E erra: o fiador que não consentiu na novação fica exonerado, artigo trezentos e sessenta e seis.
+FRANCISCA: Questão três: Tereza compra um carro que já usava como locatária e descobre, meses depois, defeito oculto que só aparece com o tempo. Qual o prazo? Acho que é a letra C, quinze dias da entrega, por já estar na posse.
+THALITA: Quase! A redução à metade pela posse prévia existe, mas cede diante do vício que só se manifesta mais tarde. O gabarito é E: o prazo conta-se da ciência do vício, até cento e oitenta dias para móveis, artigo quatrocentos e quarenta e cinco, parágrafo primeiro.
 FRANCISCA: A A erra por aplicar a regra geral. A B erra: um ano é o teto para imóveis. E a D erra, porque a suspensão só ocorre na constância de garantia contratual, artigo quatrocentos e quarenta e seis.
 == SLIDE: Questões 4 a 6: evicção, cláusulas e doação
 * Q4: evicção; subsiste em hasta pública; partes podem reforçar, reduzir ou excluir
 * Q5: preempção: 180 dias para móveis, 2 anos para imóveis (art. 513)
 * Q6: revogação por ingratidão: decadência de 1 ano; direito não se transmite
 THALITA: Questão quatro, evicção, com quatro afirmativas. Pausa para você pensar. A primeira: subsiste a garantia mesmo na hasta pública. A segunda: com cláusula excludente, o evicto nada recebe. A terceira: não demanda quem sabia que a coisa era alheia. A quarta: as partes não podem reforçar a responsabilidade.
-BRUNO: Gabarito B, primeira e terceira. A primeira é verdadeira, artigo quatrocentos e quarenta e sete, e a terceira também, artigo quatrocentos e cinquenta e sete. A segunda é falsa: se o evicto não soube do risco ou não o assumiu, recebe o preço, artigo quatrocentos e quarenta e nove. A quarta é falsa: as partes podem reforçar, diminuir ou excluir a responsabilidade, artigo quatrocentos e quarenta e oito. Por isso A, C, D e E erram.
-ANTONIO: Questão cinco, cláusulas especiais da compra e venda. Pausa para pensar. A retrovenda em móveis por dois anos, a preferência cedível a herdeiros, os riscos na reserva de domínio, o prazo da preempção, a venda a contento.
+FRANCISCA: Gabarito B, primeira e terceira. A primeira é verdadeira, artigo quatrocentos e quarenta e sete, e a terceira também, artigo quatrocentos e cinquenta e sete. A segunda é falsa: se o evicto não soube do risco ou não o assumiu, recebe o preço, artigo quatrocentos e quarenta e nove. A quarta é falsa: as partes podem reforçar, diminuir ou excluir a responsabilidade, artigo quatrocentos e quarenta e oito. Por isso A, C, D e E erram.
+THALITA: Questão cinco, cláusulas especiais da compra e venda. Pausa para pensar. A retrovenda em móveis por dois anos, a preferência cedível a herdeiros, os riscos na reserva de domínio, o prazo da preempção, a venda a contento.
 FRANCISCA: Gabarito D. O prazo da preempção não pode exceder cento e oitenta dias para móveis e dois anos para imóveis, artigo quinhentos e treze, parágrafo único. A A erra: retrovenda é só de imóvel, no máximo três anos, artigo quinhentos e cinco. A B erra: a preferência não se cede nem passa a herdeiros, artigo quinhentos e vinte. A C erra: na reserva de domínio os riscos passam desde a entrega, artigo quinhentos e vinte e quatro. E a E erra: a venda a contento é sob condição suspensiva, mesmo entregue a coisa, artigo quinhentos e nove.
 THALITA: Questão seis: Bruno doou um imóvel a Carla, que injuriou gravemente a mãe dele. Ele soube em março. Eu marco A: um ano da ciência do fato e da autoria.
-BRUNO: Acertou! Artigos quinhentos e cinquenta e sete, inciso três, quinhentos e cinquenta e oito e quinhentos e cinquenta e nove. A B erra, porque a ofensa a cônjuge, ascendente, descendente ou irmão do doador também vale. A C erra: o prazo é decadencial de um ano. A D erra: a renúncia antecipada é vedada, artigo quinhentos e cinquenta e seis.
-ANTONIO: E a E erra: o direito não se transmite, os herdeiros só prosseguem na ação já iniciada, salvo se o doador foi morto dolosamente, artigos quinhentos e sessenta e quinhentos e sessenta e um.
+FRANCISCA: Acertou! Artigos quinhentos e cinquenta e sete, inciso três, quinhentos e cinquenta e oito e quinhentos e cinquenta e nove. A B erra, porque a ofensa a cônjuge, ascendente, descendente ou irmão do doador também vale. A C erra: o prazo é decadencial de um ano. A D erra: a renúncia antecipada é vedada, artigo quinhentos e cinquenta e seis.
+THALITA: E a E erra: o direito não se transmite, os herdeiros só prosseguem na ação já iniciada, salvo se o doador foi morto dolosamente, artigos quinhentos e sessenta e quinhentos e sessenta e um.
 == SLIDE: Questões 7 a 10 e revisão final
 * Q7: responsabilidade do empregador é objetiva, solidária, com regresso (arts. 932-934)
 * Q8: limitada pode ter um ou mais sócios (art. 1.052, § 1º)
 * Q9: nome empresarial: proteção nos limites do Estado (art. 1.166)
 * Q10: cláusula penal: redução equitativa, dever do juiz (art. 413)
 FRANCISCA: Questão sete: Márcio, motorista da Alfa, atropela um pedestre em serviço. Pausa para pensar. O gabarito é C: a empresa responde sem culpa própria, solidariamente com o motorista, e pode cobrar dele o que pagar. Artigos novecentos e trinta e dois, inciso três, novecentos e trinta e três, novecentos e trinta e quatro e novecentos e quarenta e dois, parágrafo único.
-BRUNO: A A erra, porque a responsabilidade é objetiva. A B erra, porque é solidária e não subsidiária. A D fala em culpa presumida, entendimento da Súmula trezentos e quarenta e um do STF, hoje superado. E a E erra: o artigo novecentos e trinta e quatro garante o regresso, salvo contra descendente incapaz.
-ANTONIO: Questão oito, sobre o empresário. O gabarito é E: a limitada pode ser constituída por uma ou mais pessoas. A A erra: médico sozinho é intelectual. A B erra: rural tem inscrição facultativa. A C erra: incapaz só continua. E a D erra: cooperativa é sempre simples.
+THALITA: A A erra, porque a responsabilidade é objetiva. A B erra, porque é solidária e não subsidiária. A D fala em culpa presumida, entendimento da Súmula trezentos e quarenta e um do STF, hoje superado. E a E erra: o artigo novecentos e trinta e quatro garante o regresso, salvo contra descendente incapaz.
+FRANCISCA: Questão oito, sobre o empresário. O gabarito é E: a limitada pode ser constituída por uma ou mais pessoas. A A erra: médico sozinho é intelectual. A B erra: rural tem inscrição facultativa. A C erra: incapaz só continua. E a D erra: cooperativa é sempre simples.
 THALITA: Mas eu tinha marcado a D. Parecia óbvio que a cooperativa é empresária se faz atividade de empresário.
-ANTONIO: Boa tentativa, mas é justamente a armadilha. O parágrafo único do artigo novecentos e oitenta e dois diz que a cooperativa é sempre simples.
-BRUNO: Questão nove, nome empresarial. Gabarito B: a inscrição assegura o uso exclusivo nos limites do Estado, artigo mil cento e sessenta e seis. A A erra, nome é inalienável. A C erra, porque o nome de quem se retira não se conserva. A D erra, porque a conta de participação não tem firma nem denominação. A E erra: respondem os administradores que usarem o nome sem a palavra limitada, não todos os sócios.
+FRANCISCA: Boa tentativa, mas é justamente a armadilha. O parágrafo único do artigo novecentos e oitenta e dois diz que a cooperativa é sempre simples.
+THALITA: Questão nove, nome empresarial. Gabarito B: a inscrição assegura o uso exclusivo nos limites do Estado, artigo mil cento e sessenta e seis. A A erra, nome é inalienável. A C erra, porque o nome de quem se retira não se conserva. A D erra, porque a conta de participação não tem firma nem denominação. A E erra: respondem os administradores que usarem o nome sem a palavra limitada, não todos os sócios.
 FRANCISCA: Questão dez, cláusula penal compensatória de cinquenta mil reais, com cumprimento parcial. Gabarito D: o juiz deve reduzir a pena equitativamente, artigo quatrocentos e treze, e é dever dele. A A erra: a pena não excede a obrigação principal, artigo quatrocentos e doze. A B erra: o credor não precisa provar o prejuízo, artigo quatrocentos e dezesseis. A C erra, porque a compensatória é alternativa ao credor, artigo quatrocentos e dez. E a E erra: indenização suplementar só se convencionada.
 THALITA: Resumo relâmpago do que mais cai na FCC nesta aula. Solidariedade: a renúncia beneficia só um e a quota do insolvente se divide entre todos. Vício redibitório em móvel: cento e oitenta dias da ciência, quando o vício só aparece depois. Evicção: as partes podem reforçar, reduzir ou excluir. Doação: ingratidão revoga em um ano, e a renúncia antecipada é proibida. Responsabilidade do empregador: objetiva e solidária, com regresso. Empresa: intelectual só é empresa se for elemento de empresa, rural tem registro facultativo, incapaz só continua, cooperativa é sempre simples, limitada pode ter um sócio, e o nome empresarial vale no Estado e não se vende.
-ANTONIO: Até a próxima aula, bons estudos a todos.
+FRANCISCA: Até a próxima aula, bons estudos a todos.

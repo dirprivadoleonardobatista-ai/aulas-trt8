@@ -6,67 +6,62 @@ SEGMENTO s214
 * Gabarito C
 FRANCISCA: Continuamos as questões comentadas. Questão oito. Nos termos do artigo oitocentos e noventa e seis da CLT, em relação às decisões dos TRTs em execução de sentença: A: cabe revista por divergência e violação de lei federal, mas não por ofensa à Constituição. B: não cabe revista em nenhuma hipótese, inclusive em embargos de terceiro. C: inclusive em embargos de terceiro, cabe revista apenas por ofensa direta e literal à Constituição, ressalvadas as execuções fiscais e as controvérsias sobre a certidão negativa de débitos trabalhistas, nas quais também cabe por violação de lei federal e divergência. D: cabe por contrariedade a orientação jurisprudencial, por analogia ao sumaríssimo. E: cabe independentemente de prequestionamento. Pausa para pensar.
 THALITA: Eu marcaria a B, achando que na execução nunca cabe revista.
-BRUNO: Quase! Cabe, sim, por ofensa direta e literal à Constituição, inclusive em embargos de terceiro, artigo oitocentos e noventa e seis, parágrafo segundo, e Súmula duzentos e sessenta e seis. O gabarito é a C, que combina o parágrafo segundo com o décimo.
-ANTONIO: A A está errada porque a regra na execução é inversa: só a Constituição. A D inventa uma analogia que não existe, e nem no sumaríssimo a orientação autoriza revista, Súmula quatrocentos e quarenta e dois. A E está errada: o prequestionamento é exigido, Súmula duzentos e noventa e sete, inclusive para matérias de ordem pública, Orientação sessenta e dois da SDI-1.
-THALITA: Então: execução só Constituição, exceto execução fiscal e certidão negativa.
-
+FRANCISCA: Quase! Cabe, sim, por ofensa direta e literal à Constituição, inclusive em embargos de terceiro, artigo oitocentos e noventa e seis, parágrafo segundo, e Súmula duzentos e sessenta e seis. O gabarito é a C, que combina o parágrafo segundo com o décimo.
+THALITA: A A está errada porque a regra na execução é inversa: só a Constituição. A D inventa uma analogia que não existe, e nem no sumaríssimo a orientação autoriza revista, Súmula quatrocentos e quarenta e dois. A E está errada: o prequestionamento é exigido, Súmula duzentos e noventa e sete, inclusive para matérias de ordem pública, Orientação sessenta e dois da SDI-1.
+FRANCISCA: Então: execução só Constituição, exceto execução fiscal e certidão negativa.
 == SLIDE: Questão 9: recurso adesivo
 * Sucumbência recíproca; recorrente é a empresa
 * Súmula 283: RO, AP, RR e embargos; 8 dias
 * Sem exigência de correlação temática
 * Gabarito B
-BRUNO: Questão nove. Márcio obteve sentença de parcial procedência contra a Alfa Limitada. Só a empresa interpôs recurso ordinário. Intimado para contra-arrazoar, Márcio quer reformar a sentença quanto aos pedidos negados, matéria sem relação com o recurso da empresa. De acordo com o TST: A: Márcio não poderá mais recorrer. B: poderá interpor recurso adesivo em oito dias, sem necessidade de relação com a matéria do recurso da empresa. C: adesivo em quinze dias, pelo CPC. D: adesivo restrito às matérias do recurso da empresa. E: adesivo incompatível com o processo do trabalho. Pausa para pensar.
-THALITA: Parece a D, que o adesivo precisa ter a ver com o principal.
-FRANCISCA: Era assim no passado. Pela Súmula duzentos e oitenta e três do TST, o recurso adesivo é compatível com o processo do trabalho, cabe em recurso ordinário, agravo de petição, revista e embargos, e dispensa a correlação entre as matérias. O prazo é de oito dias. Gabarito B.
-ANTONIO: A A está errada porque a sucumbência recíproca permite aderir ao recurso da parte contrária. A C está errada: o prazo é o trabalhista, de oito dias. A D está errada porque a Súmula duzentos e oitenta e três dispensa a relação temática. A E está errada porque a súmula afirma a compatibilidade.
+THALITA: Questão nove. Márcio obteve sentença de parcial procedência contra a Alfa Limitada. Só a empresa interpôs recurso ordinário. Intimado para contra-arrazoar, Márcio quer reformar a sentença quanto aos pedidos negados, matéria sem relação com o recurso da empresa. De acordo com o TST: A: Márcio não poderá mais recorrer. B: poderá interpor recurso adesivo em oito dias, sem necessidade de relação com a matéria do recurso da empresa. C: adesivo em quinze dias, pelo CPC. D: adesivo restrito às matérias do recurso da empresa. E: adesivo incompatível com o processo do trabalho. Pausa para pensar.
+FRANCISCA: Parece a D, que o adesivo precisa ter a ver com o principal.
+THALITA: Era assim no passado. Pela Súmula duzentos e oitenta e três do TST, o recurso adesivo é compatível com o processo do trabalho, cabe em recurso ordinário, agravo de petição, revista e embargos, e dispensa a correlação entre as matérias. O prazo é de oito dias. Gabarito B.
+FRANCISCA: A A está errada porque a sucumbência recíproca permite aderir ao recurso da parte contrária. A C está errada: o prazo é o trabalhista, de oito dias. A D está errada porque a Súmula duzentos e oitenta e três dispensa a relação temática. A E está errada porque a súmula afirma a compatibilidade.
 THALITA: Macete: adesivo, sucumbência recíproca, oito dias, sem exigir mesma matéria.
-
 == SLIDE: Questão 10: reexame necessário
 * Condenação de 80 salários mínimos contra Município não capital
 * Súmula 303, I, c: limite de 100 salários mínimos
 * 1.000 salários mínimos: União e autarquias
 * Gabarito D
-ANTONIO: Questão dez. Município paraense que não é capital de Estado foi condenado, em dissídio individual, ao pagamento de oitenta salários mínimos. A sentença não se fundou em súmula ou orientação do TST nem em precedente vinculante. Considerando a jurisprudência do TST: A: sujeita ao reexame necessário, pois toda decisão contrária à Fazenda deve ser confirmada. B: sujeita, pois o limite para Municípios é mil salários mínimos. C: sujeita, pois o limite para Municípios do interior é sessenta. D: não sujeita, pois a condenação não ultrapassa cem salários mínimos, limite dos Municípios que não são capitais. E: não sujeita, pois Municípios não têm essa prerrogativa. Pausa para pensar.
+FRANCISCA: Questão dez. Município paraense que não é capital de Estado foi condenado, em dissídio individual, ao pagamento de oitenta salários mínimos. A sentença não se fundou em súmula ou orientação do TST nem em precedente vinculante. Considerando a jurisprudência do TST: A: sujeita ao reexame necessário, pois toda decisão contrária à Fazenda deve ser confirmada. B: sujeita, pois o limite para Municípios é mil salários mínimos. C: sujeita, pois o limite para Municípios do interior é sessenta. D: não sujeita, pois a condenação não ultrapassa cem salários mínimos, limite dos Municípios que não são capitais. E: não sujeita, pois Municípios não têm essa prerrogativa. Pausa para pensar.
 THALITA: Eu marco a A, a Fazenda sempre tem reexame.
 FRANCISCA: Cuidado, há limites de valor que afastam o reexame, Súmula trezentos e três, item primeiro. Para os demais Municípios e suas autarquias e fundações, o limite é de cem salários mínimos, alínea c. Como a condenação é de oitenta, não há reexame. Gabarito D.
-BRUNO: A B está errada: mil salários mínimos é o limite da União e de suas autarquias e fundações. A C está errada: não existe limite de sessenta no reexame trabalhista, o sessenta é do teto da RPV da União. A E está errada: os Municípios têm a prerrogativa, Decreto-Lei setecentos e setenta e nove, artigo primeiro, inciso quinto, observados os limites.
-THALITA: Então decoro: União mil, Município não capital cem.
-
+THALITA: A B está errada: mil salários mínimos é o limite da União e de suas autarquias e fundações. A C está errada: não existe limite de sessenta no reexame trabalhista, o sessenta é do teto da RPV da União. A E está errada: os Municípios têm a prerrogativa, Decreto-Lei setecentos e setenta e nove, artigo primeiro, inciso quinto, observados os limites.
+FRANCISCA: Então decoro: União mil, Município não capital cem.
 == SLIDE: Questão 11: embargos de declaração
 * Interrompem, não suspendem (§3º)
 * Intempestivos, representação irregular ou sem assinatura: não interrompem
 * 5 dias; efeito modificativo com vista de 5 dias
 * Gabarito E
-BRUNO: Questão onze. De acordo com a CLT, os embargos de declaração: A: suspendem o prazo para outros recursos, que volta a correr pelo saldo. B: interrompem o prazo, ainda que intempestivos, desde que assinados. C: devem ser opostos em oito dias. D: podem ter efeito modificativo em caso de omissão, dispensada a oitiva da parte contrária. E: admitem efeito modificativo nos casos de omissão, contradição e manifesto equívoco no exame dos pressupostos extrínsecos, desde que ouvida a parte contrária em cinco dias. Pausa para pensar.
-THALITA: Essa eu sei: a E! Porque a gente acabou de ver.
-FRANCISCA: Muito bem, Thalita, é a E, síntese do caput e do parágrafo segundo do artigo oitocentos e noventa e sete-A.
-ANTONIO: A A está errada porque o efeito é interruptivo, não suspensivo, parágrafo terceiro: o prazo recomeça inteiro. A B está errada porque os intempestivos, com representação irregular ou sem assinatura, não interrompem o prazo.
-BRUNO: A C está errada: o prazo dos embargos é de cinco dias, não oito. A D está errada: o efeito modificativo exige vista prévia à parte contrária, Orientação Jurisprudencial cento e quarenta e dois da SDI-1.
-THALITA: Macete: interrompe, cinco dias, vista de cinco dias.
-
+THALITA: Questão onze. De acordo com a CLT, os embargos de declaração: A: suspendem o prazo para outros recursos, que volta a correr pelo saldo. B: interrompem o prazo, ainda que intempestivos, desde que assinados. C: devem ser opostos em oito dias. D: podem ter efeito modificativo em caso de omissão, dispensada a oitiva da parte contrária. E: admitem efeito modificativo nos casos de omissão, contradição e manifesto equívoco no exame dos pressupostos extrínsecos, desde que ouvida a parte contrária em cinco dias. Pausa para pensar.
+FRANCISCA: Essa eu sei: a E! Porque a gente acabou de ver.
+THALITA: Muito bem, Francisca, é a E, síntese do caput e do parágrafo segundo do artigo oitocentos e noventa e sete-A.
+FRANCISCA: A A está errada porque o efeito é interruptivo, não suspensivo, parágrafo terceiro: o prazo recomeça inteiro. A B está errada porque os intempestivos, com representação irregular ou sem assinatura, não interrompem o prazo.
+THALITA: A C está errada: o prazo dos embargos é de cinco dias, não oito. A D está errada: o efeito modificativo exige vista prévia à parte contrária, Orientação Jurisprudencial cento e quarenta e dois da SDI-1.
+FRANCISCA: Macete: interrompe, cinco dias, vista de cinco dias.
 == SLIDE: Questões 12 e 13: recurso ordinário e despacho de admissibilidade
 * Q12, Súmula 393: causa madura e profundidade
 * Súmula 422, III e Súmula 414, I
 * Q13, IN 40/2016: AI para o tema negado e ED para o omitido
 * Súmula 285 cancelada
-FRANCISCA: Questão doze, sobre o recurso ordinário. A alternativa A diz que, se o processo está em condições de julgamento imediato, o TRT decide desde logo o mérito, sem devolver à Vara, inclusive quando a sentença foi omissa sobre um pedido. A B diz que não se conhece do recurso sempre que as razões deixarem de impugnar todos os fundamentos. A C diz que o TRT não pode apreciar fundamento da defesa não renovado em contrarrazões. A D diz que a tutela da sentença é atacada por mandado de segurança. A E diz que o recurso ordinário tem efeito suspensivo automático. Pausa para pensar.
-THALITA: Eu marcaria a A, a causa madura.
-BRUNO: Acertou! Gabarito A, Súmula trezentos e noventa e três, item segundo. A B está errada: no RO para o TRT, a dialeticidade só incide se as razões forem inteiramente dissociadas, Súmula quatrocentos e vinte e dois, item terceiro. A C está errada: a profundidade dispensa renovação em contrarrazões. A D está errada: cabe recurso ordinário com requerimento de efeito suspensivo, Súmula quatrocentos e catorze. A E está errada: o efeito é meramente devolutivo.
-ANTONIO: Questão treze. A Presidência do TRT admitiu a revista da Gama apenas quanto a horas extras, negou seguimento quanto a insalubridade e silenciou sobre multa normativa. Segundo a Instrução Normativa quarenta do TST, qual a conduta? A: o recurso sobe integralmente. B: mandado de segurança. C: agravo de instrumento quanto ao tema não admitido e embargos de declaração quanto ao omitido, sob pena de preclusão. D: embargos incabíveis. E: agravo só em denegação total. Pausa para pensar.
+THALITA: Questão doze, sobre o recurso ordinário. A alternativa A diz que, se o processo está em condições de julgamento imediato, o TRT decide desde logo o mérito, sem devolver à Vara, inclusive quando a sentença foi omissa sobre um pedido. A B diz que não se conhece do recurso sempre que as razões deixarem de impugnar todos os fundamentos. A C diz que o TRT não pode apreciar fundamento da defesa não renovado em contrarrazões. A D diz que a tutela da sentença é atacada por mandado de segurança. A E diz que o recurso ordinário tem efeito suspensivo automático. Pausa para pensar.
+FRANCISCA: Eu marcaria a A, a causa madura.
+THALITA: Acertou! Gabarito A, Súmula trezentos e noventa e três, item segundo. A B está errada: no RO para o TRT, a dialeticidade só incide se as razões forem inteiramente dissociadas, Súmula quatrocentos e vinte e dois, item terceiro. A C está errada: a profundidade dispensa renovação em contrarrazões. A D está errada: cabe recurso ordinário com requerimento de efeito suspensivo, Súmula quatrocentos e catorze. A E está errada: o efeito é meramente devolutivo.
+FRANCISCA: Questão treze. A Presidência do TRT admitiu a revista da Gama apenas quanto a horas extras, negou seguimento quanto a insalubridade e silenciou sobre multa normativa. Segundo a Instrução Normativa quarenta do TST, qual a conduta? A: o recurso sobe integralmente. B: mandado de segurança. C: agravo de instrumento quanto ao tema não admitido e embargos de declaração quanto ao omitido, sob pena de preclusão. D: embargos incabíveis. E: agravo só em denegação total. Pausa para pensar.
 THALITA: Eu iria na A, subindo tudo para o TST, como antigamente.
 FRANCISCA: Era a antiga Súmula duzentos e oitenta e cinco, cancelada pela Instrução Normativa quarenta. O gabarito é a C.
-BRUNO: A B está errada: o recurso próprio é o agravo. A D está errada: a IN exige embargos para suprir a omissão. E a E está errada: a admissão parcial também exige agravo quanto aos temas não admitidos.
-THALITA: Admitido parcialmente: agravo para o negado, embargos para o omitido.
-
+THALITA: A B está errada: o recurso próprio é o agravo. A D está errada: a IN exige embargos para suprir a omissão. E a E está errada: a admissão parcial também exige agravo quanto aos temas não admitidos.
+FRANCISCA: Admitido parcialmente: agravo para o negado, embargos para o omitido.
 == SLIDE: Questão 14: PJe e Lei 11.419 e resumo
 * Item I: petição até 24 horas do último dia
 * Item II falso: consulta em 10 dias corridos
 * Item III: consulta em dia não útil, intimação no primeiro dia útil
 * Item IV: intimação eletrônica é pessoal; gabarito D
-ANTONIO: Questão catorze, para Técnico Judiciário, sobre a Lei onze mil quatrocentos e dezenove, de dois mil e seis. Considere. Item um: petição eletrônica para atender prazo é tempestiva até as vinte e quatro horas do último dia. Item dois: a consulta ao teor da intimação deve ser feita em até dez dias úteis do envio, sob pena de considerar-se realizada. Item três: se a consulta ocorrer em dia não útil, a intimação considera-se realizada no primeiro dia útil seguinte. Item quatro: as intimações eletrônicas, inclusive da Fazenda Pública, são pessoais para todos os efeitos. Pausa para pensar.
-THALITA: Eu marco um, dois e três.
-BRUNO: O item dois é falso: o prazo é de dez dias corridos, artigo quinto, parágrafo terceiro. Os itens um, três e quatro são verdadeiros: artigo terceiro, parágrafo único; artigo quinto, parágrafo segundo; e artigo quinto, parágrafo sexto. Gabarito D, itens um, três e quatro.
+THALITA: Questão catorze, para Técnico Judiciário, sobre a Lei onze mil quatrocentos e dezenove, de dois mil e seis. Considere. Item um: petição eletrônica para atender prazo é tempestiva até as vinte e quatro horas do último dia. Item dois: a consulta ao teor da intimação deve ser feita em até dez dias úteis do envio, sob pena de considerar-se realizada. Item três: se a consulta ocorrer em dia não útil, a intimação considera-se realizada no primeiro dia útil seguinte. Item quatro: as intimações eletrônicas, inclusive da Fazenda Pública, são pessoais para todos os efeitos. Pausa para pensar.
+FRANCISCA: Eu marco um, dois e três.
+THALITA: O item dois é falso: o prazo é de dez dias corridos, artigo quinto, parágrafo terceiro. Os itens um, três e quatro são verdadeiros: artigo terceiro, parágrafo único; artigo quinto, parágrafo segundo; e artigo quinto, parágrafo sexto. Gabarito D, itens um, três e quatro.
 FRANCISCA: A A inclui o dois, falso. A B inclui o dois e exclui os itens um e quatro. A C inclui o dois. A E inclui o dois e omite o um.
 THALITA: Hora do resumo relâmpago do que mais cai na FCC nesta aula. Prazos: cinco, oito, quinze e quarenta e oito horas, e litisconsortes sem dobra. Depósito: metade para pequenas, isenção para recuperação judicial, insuficiência com cinco dias para completar. Agravo de instrumento: cinquenta por cento do depósito do recurso trancado. Exceção de incompetência: recurso imediato só para outro TRT. Revista: sumaríssimo só súmula, súmula vinculante e Constituição; execução só Constituição. Transcendência: econômica, política, social e jurídica, avaliada só pelo TST. Embargos de declaração interrompem, com vista de cinco dias. Reexame necessário: Município não capital, cem salários mínimos. E o PJe: consulta em dez dias corridos.
-BRUNO: Acrescento: recurso adesivo cabe em oito dias, sem correlação de matéria, Súmula duzentos e oitenta e três.
-ANTONIO: Foi um ótimo treino! Bons estudos, e até a próxima aula.
+FRANCISCA: Acrescento: recurso adesivo cabe em oito dias, sem correlação de matéria, Súmula duzentos e oitenta e três.
+THALITA: Foi um ótimo treino! Bons estudos, e até a próxima aula.

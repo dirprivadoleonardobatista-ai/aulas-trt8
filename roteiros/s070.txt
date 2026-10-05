@@ -6,97 +6,97 @@ SEGMENTO s070
 * §2º: escolas de governo
 FRANCISCA: Terminado o artigo trinta e sete, passamos aos servidores públicos, nos artigos trinta e nove a quarenta e um. O artigo trinta e nove trata do regime jurídico e da remuneração. A redação original exigia regime jurídico único. A Emenda dezenove, de mil novecentos e noventa e oito, suprimiu essa exigência, mas o Supremo suspendeu a mudança em dois mil e sete, na ADI dois mil cento e trinta e cinco.
 THALITA: E o que decidiu no mérito?
-ANTONIO: Em dois mil e vinte e quatro, o Supremo validou a Emenda dezenove, com efeitos prospectivos. Cada ente pode adotar o regime celetista para novas admissões, sem transformar os vínculos existentes.
-BRUNO: A posição segura para a prova: a exigência de regime jurídico único deixou de ser obrigatória a partir da decisão, sem efeito retroativo, e sem possibilidade de converter servidores estatutários atuais em celetistas. Confira os termos exatos da decisão e de eventuais embargos.
-THALITA: Então o estatutário de hoje continua estatutário.
-FRANCISCA: Isso. O parágrafo primeiro diz que a fixação dos padrões de vencimento considera a natureza, o grau de responsabilidade e a complexidade do cargo, os requisitos de investidura e as peculiaridades dos cargos.
-ANTONIO: O parágrafo segundo manda a União, os Estados e o Distrito Federal manterem escolas de governo para a formação e o aperfeiçoamento dos servidores. A participação nos cursos pode ser requisito para promoção na carreira.
+FRANCISCA: Em dois mil e vinte e quatro, o Supremo validou a Emenda dezenove, com efeitos prospectivos. Cada ente pode adotar o regime celetista para novas admissões, sem transformar os vínculos existentes.
+THALITA: A posição segura para a prova: a exigência de regime jurídico único deixou de ser obrigatória a partir da decisão, sem efeito retroativo, e sem possibilidade de converter servidores estatutários atuais em celetistas. Confira os termos exatos da decisão e de eventuais embargos.
+FRANCISCA: Então o estatutário de hoje continua estatutário.
+THALITA: Isso. O parágrafo primeiro diz que a fixação dos padrões de vencimento considera a natureza, o grau de responsabilidade e a complexidade do cargo, os requisitos de investidura e as peculiaridades dos cargos.
+FRANCISCA: O parágrafo segundo manda a União, os Estados e o Distrito Federal manterem escolas de governo para a formação e o aperfeiçoamento dos servidores. A participação nos cursos pode ser requisito para promoção na carreira.
 THALITA: Escola de governo é obrigação só da União, dos Estados e do Distrito Federal. Município não está na lista.
-BRUNO: Essa observação é boa. A banca pode incluir Municípios na alternativa, e aí a alternativa está errada.
+FRANCISCA: Essa observação é boa. A banca pode incluir Municípios na alternativa, e aí a alternativa está errada.
 == SLIDE: Subsídio, publicidade e vedação de incorporação
 * §4º: subsídio em parcela única para agentes políticos
 * Também por subsídio: MP, AGU, Defensoria, Tribunais de Contas, policiais
 * §8º: subsídio para carreiras é facultativo
 * §9º: vedada a incorporação de vantagens de função ou comissão
-ANTONIO: O parágrafo quarto manda pagar por subsídio, em parcela única, sem gratificação, adicional, abono, prêmio ou verba de representação, os membros de Poder, os detentores de mandato eletivo, os Ministros de Estado e os Secretários estaduais e municipais.
-THALITA: Mais alguém recebe por subsídio?
-FRANCISCA: Sim, por outros dispositivos: membros do Ministério Público, a Advocacia-Geral da União, a Defensoria, os Tribunais de Contas e os policiais, no artigo cento e quarenta e quatro, parágrafo nono.
-BRUNO: O parágrafo oitavo diz que os servidores organizados em carreira podem ser remunerados por subsídio. É facultativo. Se a banca escrever deverão, está errado.
+THALITA: O parágrafo quarto manda pagar por subsídio, em parcela única, sem gratificação, adicional, abono, prêmio ou verba de representação, os membros de Poder, os detentores de mandato eletivo, os Ministros de Estado e os Secretários estaduais e municipais.
+FRANCISCA: Mais alguém recebe por subsídio?
+THALITA: Sim, por outros dispositivos: membros do Ministério Público, a Advocacia-Geral da União, a Defensoria, os Tribunais de Contas e os policiais, no artigo cento e quarenta e quatro, parágrafo nono.
+FRANCISCA: O parágrafo oitavo diz que os servidores organizados em carreira podem ser remunerados por subsídio. É facultativo. Se a banca escrever deverão, está errado.
 THALITA: Tem uma regra de publicidade, não tem?
-ANTONIO: Parágrafo sexto: os Poderes publicam anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos.
-FRANCISCA: O parágrafo nono, incluído pela Emenda cento e três, de dois mil e dezenove, veda a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou cargo em comissão à remuneração do cargo efetivo. Foi o fim dos quintos e décimos incorporáveis.
-THALITA: Então agora quem exerce função de confiança não leva a vantagem para o cargo efetivo.
-BRUNO: Exato. Pegadinha: afirmar que a vantagem da função é incorporável ao cargo efetivo está errado, depois da emenda.
+FRANCISCA: Parágrafo sexto: os Poderes publicam anualmente os valores do subsídio e da remuneração dos cargos e empregos públicos.
+THALITA: O parágrafo nono, incluído pela Emenda cento e três, de dois mil e dezenove, veda a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou cargo em comissão à remuneração do cargo efetivo. Foi o fim dos quintos e décimos incorporáveis.
+FRANCISCA: Então agora quem exerce função de confiança não leva a vantagem para o cargo efetivo.
+THALITA: Exato. Pegadinha: afirmar que a vantagem da função é incorporável ao cargo efetivo está errado, depois da emenda.
 == SLIDE: Direitos sociais do artigo sétimo estendidos ao servidor
 * §3º: lista fechada de incisos do art. 7º
 * Salário mínimo, décimo terceiro, adicional noturno, férias com um terço
 * Licença à gestante de 120 dias e licença-paternidade
 * Não estendidos: FGTS, seguro-desemprego, aviso prévio, convenção coletiva
 FRANCISCA: O parágrafo terceiro estende ao servidor ocupante de cargo alguns direitos do artigo sétimo, e a lista é fechada. São eles: salário mínimo, garantia de mínimo para quem recebe remuneração variável, décimo terceiro com base na remuneração integral e remuneração do trabalho noturno superior à do diurno.
-ANTONIO: Salário-família. Jornada de até oito horas diárias e quarenta e quatro semanais, facultada a compensação. Repouso semanal remunerado. Hora extra com adicional mínimo de cinquenta por cento. Férias anuais com um terço a mais.
-THALITA: Licença-maternidade também?
-FRANCISCA: Sim. Licença à gestante de cento e vinte dias e licença-paternidade. Proteção do mercado de trabalho da mulher. Redução dos riscos do trabalho. E proibição de diferença de salário ou de critério de admissão por sexo, idade, cor ou estado civil.
-BRUNO: Agora o que não foi estendido: FGTS, seguro-desemprego, aviso prévio, adicionais de insalubridade e periculosidade constitucionais, reconhecimento de convenções e acordos coletivos, e participação nos lucros.
+THALITA: Salário-família. Jornada de até oito horas diárias e quarenta e quatro semanais, facultada a compensação. Repouso semanal remunerado. Hora extra com adicional mínimo de cinquenta por cento. Férias anuais com um terço a mais.
+FRANCISCA: Licença-maternidade também?
+THALITA: Sim. Licença à gestante de cento e vinte dias e licença-paternidade. Proteção do mercado de trabalho da mulher. Redução dos riscos do trabalho. E proibição de diferença de salário ou de critério de admissão por sexo, idade, cor ou estado civil.
+FRANCISCA: Agora o que não foi estendido: FGTS, seguro-desemprego, aviso prévio, adicionais de insalubridade e periculosidade constitucionais, reconhecimento de convenções e acordos coletivos, e participação nos lucros.
 THALITA: Então não tem FGTS nem aviso prévio para o estatutário.
-BRUNO: Correto, pela Constituição. A Súmula seiscentos e setenta e nove do Supremo diz que os vencimentos dos servidores não podem ser fixados por convenção coletiva.
-ANTONIO: E a Súmula Vinculante dezesseis diz que a garantia do salário mínimo refere-se à remuneração total do servidor, não ao vencimento básico.
-THALITA: Macete: décimo terceiro, férias com um terço, hora extra e licenças entram. FGTS, aviso prévio e seguro-desemprego, não.
-FRANCISCA: Boa síntese.
+FRANCISCA: Correto, pela Constituição. A Súmula seiscentos e setenta e nove do Supremo diz que os vencimentos dos servidores não podem ser fixados por convenção coletiva.
+THALITA: E a Súmula Vinculante dezesseis diz que a garantia do salário mínimo refere-se à remuneração total do servidor, não ao vencimento básico.
+FRANCISCA: Macete: décimo terceiro, férias com um terço, hora extra e licenças entram. FGTS, aviso prévio e seguro-desemprego, não.
+THALITA: Boa síntese.
 == SLIDE: Previdência do servidor após a EC 103 (art. 40)
 * RPPS contributivo e solidário, com equilíbrio financeiro e atuarial
 * Só titular de cargo efetivo; demais vão para o RGPS
 * Compulsória aos 75 anos; voluntária da União: 62 mulher, 65 homem
 * Vedados tempo fictício e mais de um RPPS por ente
-ANTONIO: O artigo quarenta trata do regime próprio de previdência, profundamente alterado pela Emenda Constitucional cento e três, de dois mil e dezenove. O caráter é contributivo e solidário: contribuem o ente, os ativos, os aposentados e os pensionistas, com exigência de equilíbrio financeiro e atuarial.
+FRANCISCA: O artigo quarenta trata do regime próprio de previdência, profundamente alterado pela Emenda Constitucional cento e três, de dois mil e dezenove. O caráter é contributivo e solidário: contribuem o ente, os ativos, os aposentados e os pensionistas, com exigência de equilíbrio financeiro e atuarial.
 THALITA: Quem fica no regime próprio?
-BRUNO: Somente os titulares de cargo efetivo. Comissionados puros, temporários e empregados públicos vão para o Regime Geral de Previdência Social, pelo parágrafo treze.
-FRANCISCA: A aposentadoria por incapacidade permanente ocorre quando a incapacidade for insuscetível de readaptação, com avaliações periódicas para verificar se persiste. A compulsória é aos setenta e cinco anos, com proventos proporcionais ao tempo de contribuição, conforme a Lei Complementar cento e cinquenta e dois, de dois mil e quinze.
-THALITA: E a voluntária?
-ANTONIO: Na União, idade mínima de sessenta e dois anos para a mulher e sessenta e cinco para o homem, com tempo de contribuição e demais requisitos. Pela regra da emenda: vinte e cinco anos de contribuição, dez de serviço público e cinco no cargo. Nos demais entes, a idade mínima é fixada por emenda à Constituição estadual ou à Lei Orgânica.
-BRUNO: Os benefícios ficam limitados ao teto do Regime Geral para quem ingressou depois da instituição da previdência complementar, que o ente deve instituir, parágrafos catorze e quinze. É vedado contar tempo fictício, parágrafo dez, e ter mais de um regime próprio e mais de um gestor por ente, parágrafo vinte.
-FRANCISCA: O abono de permanência pode ser pago a quem cumpre os requisitos da voluntária e continua em atividade, na forma da lei do ente.
-THALITA: A banca tende a cobrar esse panorama, e não as regras de transição, certo?
-BRUNO: Para este cargo, sim, mas confira as transições se o edital as destacar.
+FRANCISCA: Somente os titulares de cargo efetivo. Comissionados puros, temporários e empregados públicos vão para o Regime Geral de Previdência Social, pelo parágrafo treze.
+THALITA: A aposentadoria por incapacidade permanente ocorre quando a incapacidade for insuscetível de readaptação, com avaliações periódicas para verificar se persiste. A compulsória é aos setenta e cinco anos, com proventos proporcionais ao tempo de contribuição, conforme a Lei Complementar cento e cinquenta e dois, de dois mil e quinze.
+FRANCISCA: E a voluntária?
+THALITA: Na União, idade mínima de sessenta e dois anos para a mulher e sessenta e cinco para o homem, com tempo de contribuição e demais requisitos. Pela regra da emenda: vinte e cinco anos de contribuição, dez de serviço público e cinco no cargo. Nos demais entes, a idade mínima é fixada por emenda à Constituição estadual ou à Lei Orgânica.
+FRANCISCA: Os benefícios ficam limitados ao teto do Regime Geral para quem ingressou depois da instituição da previdência complementar, que o ente deve instituir, parágrafos catorze e quinze. É vedado contar tempo fictício, parágrafo dez, e ter mais de um regime próprio e mais de um gestor por ente, parágrafo vinte.
+THALITA: O abono de permanência pode ser pago a quem cumpre os requisitos da voluntária e continua em atividade, na forma da lei do ente.
+FRANCISCA: A banca tende a cobrar esse panorama, e não as regras de transição, certo?
+THALITA: Para este cargo, sim, mas confira as transições se o edital as destacar.
 == SLIDE: Estabilidade do servidor (art. 41)
 * Três anos de efetivo exercício, cargo efetivo, concurso
 * Avaliação especial de desempenho obrigatória (§4º)
 * Súmula 390 do TST: estatais não têm estabilidade
 * Tema 1.022: dispensa em estatal exige motivação
-ANTONIO: O artigo quarenta e um diz que são estáveis, após três anos de efetivo exercício, os servidores nomeados para cargo de provimento efetivo em virtude de concurso público. São três requisitos cumulativos: cargo efetivo, nomeação por concurso e três anos de efetivo exercício.
+FRANCISCA: O artigo quarenta e um diz que são estáveis, após três anos de efetivo exercício, os servidores nomeados para cargo de provimento efetivo em virtude de concurso público. São três requisitos cumulativos: cargo efetivo, nomeação por concurso e três anos de efetivo exercício.
 THALITA: E o quarto, a avaliação?
 FRANCISCA: O parágrafo quarto acrescenta a avaliação especial de desempenho por comissão instituída para essa finalidade, como condição obrigatória. A estabilidade é no serviço público, não no cargo. Por isso o cargo pode ser extinto, com disponibilidade.
-BRUNO: Comissionado e temporário nunca adquirem estabilidade. Exceção histórica: a estabilidade extraordinária do artigo dezenove do ADCT, para quem tinha cinco anos continuados de serviço na data da promulgação, que não gera efetividade. O prazo de três anos veio da Emenda dezenove; antes eram dois anos.
-THALITA: Então se a banca falar dois anos, está errado.
-BRUNO: Está errado, redação revogada.
+THALITA: Comissionado e temporário nunca adquirem estabilidade. Exceção histórica: a estabilidade extraordinária do artigo dezenove do ADCT, para quem tinha cinco anos continuados de serviço na data da promulgação, que não gera efetividade. O prazo de três anos veio da Emenda dezenove; antes eram dois anos.
+FRANCISCA: Então se a banca falar dois anos, está errado.
+THALITA: Está errado, redação revogada.
 FRANCISCA: Para o Tribunal do Trabalho, a Súmula trezentos e noventa do Tribunal Superior do Trabalho é essencial. O servidor celetista da Administração direta, autárquica ou fundacional tem a estabilidade do artigo quarenta e um. Já o empregado de empresa pública ou sociedade de economia mista, ainda que concursado, não tem.
-ANTONIO: O Tema mil e vinte e dois do Supremo acrescenta: a dispensa de empregado concursado de estatal exige motivação em ato formal, mas não exige processo administrativo nem enquadramento em justa causa.
-THALITA: Motivar sim, estabilidade não.
-BRUNO: E a Súmula vinte e um do Supremo: servidor em estágio probatório não pode ser exonerado ou demitido sem as formalidades legais de apuração de sua capacidade.
+THALITA: O Tema mil e vinte e dois do Supremo acrescenta: a dispensa de empregado concursado de estatal exige motivação em ato formal, mas não exige processo administrativo nem enquadramento em justa causa.
+FRANCISCA: Motivar sim, estabilidade não.
+THALITA: E a Súmula vinte e um do Supremo: servidor em estágio probatório não pode ser exonerado ou demitido sem as formalidades legais de apuração de sua capacidade.
 == SLIDE: Perda do cargo pelo estável: as quatro hipóteses
 * Sentença transitada em julgado
 * Processo administrativo com ampla defesa
 * Avaliação periódica de desempenho, por lei complementar
 * Excesso de despesa com pessoal (art. 169, §4º)
 FRANCISCA: Quatro hipóteses de perda do cargo do estável. Primeira: sentença judicial transitada em julgado, o que inclui a perda como efeito de condenação criminal ou por improbidade. Segunda: processo administrativo com ampla defesa, para demissão por infração disciplinar.
-BRUNO: Terceira: avaliação periódica de desempenho, na forma de lei complementar, ainda não editada em âmbito nacional, assegurada a ampla defesa. Quarta: excesso de despesa com pessoal, artigo cento e sessenta e nove, parágrafo quarto.
-THALITA: Tem macete?
-BRUNO: SPA mais Excesso: Sentença, Processo administrativo, Avaliação periódica, Excesso de despesa.
-ANTONIO: No excesso de despesa, há ordem obrigatória. Primeiro, cortar ao menos vinte por cento das despesas com comissões e funções de confiança. Segundo, exonerar os não estáveis. Só então, exonerar estáveis, por ato normativo motivado de cada Poder.
+THALITA: Terceira: avaliação periódica de desempenho, na forma de lei complementar, ainda não editada em âmbito nacional, assegurada a ampla defesa. Quarta: excesso de despesa com pessoal, artigo cento e sessenta e nove, parágrafo quarto.
+FRANCISCA: Tem macete?
+THALITA: SPA mais Excesso: Sentença, Processo administrativo, Avaliação periódica, Excesso de despesa.
+FRANCISCA: No excesso de despesa, há ordem obrigatória. Primeiro, cortar ao menos vinte por cento das despesas com comissões e funções de confiança. Segundo, exonerar os não estáveis. Só então, exonerar estáveis, por ato normativo motivado de cada Poder.
 THALITA: E o estável exonerado nesse caso recebe algo?
 FRANCISCA: Indenização de uma remuneração por ano de serviço. O cargo é extinto, vedada a recriação de cargo semelhante por quatro anos. E atenção: a exoneração por excesso de despesa não é penalidade e gera indenização, enquanto a demissão por processo disciplinar é penalidade e não gera.
 THALITA: Então só pode demitir estável por excesso de despesa depois de exonerar os não estáveis.
-BRUNO: Exato. E o artigo duzentos e quarenta e sete exige garantias especiais para servidores de atividades exclusivas de Estado.
+FRANCISCA: Exato. E o artigo duzentos e quarenta e sete exige garantias especiais para servidores de atividades exclusivas de Estado.
 == SLIDE: Reintegração, recondução, disponibilidade e aproveitamento
 * Reintegração: demissão invalidada, com ressarcimento das vantagens
 * Recondução: sem indenização
 * Disponibilidade: remuneração proporcional ao tempo de serviço
 * Aproveitamento em cargo compatível
-ANTONIO: Os parágrafos segundo e terceiro do artigo quarenta e um tratam de quatro institutos. A reintegração ocorre quando a demissão do estável é invalidada por sentença judicial, e o servidor retorna ao cargo de origem com ressarcimento de todas as vantagens. Na Lei oito mil cento e doze, também por decisão administrativa.
-THALITA: E quem ocupava a vaga do reintegrado?
-FRANCISCA: Se for estável, é reconduzido ao cargo de origem, sem direito a indenização. É a recondução. Se não houver cargo de origem vago, é aproveitado em outro. Se não for possível reconduzir nem aproveitar, fica em disponibilidade, com remuneração proporcional ao tempo de serviço.
-BRUNO: E a disponibilidade por extinção ou desnecessidade do cargo, do parágrafo terceiro, também é com remuneração proporcional ao tempo de serviço, até o adequado aproveitamento em outro cargo.
+THALITA: Os parágrafos segundo e terceiro do artigo quarenta e um tratam de quatro institutos. A reintegração ocorre quando a demissão do estável é invalidada por sentença judicial, e o servidor retorna ao cargo de origem com ressarcimento de todas as vantagens. Na Lei oito mil cento e doze, também por decisão administrativa.
+FRANCISCA: E quem ocupava a vaga do reintegrado?
+THALITA: Se for estável, é reconduzido ao cargo de origem, sem direito a indenização. É a recondução. Se não houver cargo de origem vago, é aproveitado em outro. Se não for possível reconduzir nem aproveitar, fica em disponibilidade, com remuneração proporcional ao tempo de serviço.
+FRANCISCA: E a disponibilidade por extinção ou desnecessidade do cargo, do parágrafo terceiro, também é com remuneração proporcional ao tempo de serviço, até o adequado aproveitamento em outro cargo.
 THALITA: Um exemplo pode ajudar.
-ANTONIO: Bruno, estável, é demitido. Tereza, também estável, é nomeada para a vaga dele. Bruno consegue sentença anulando a demissão e é reintegrado. Tereza é reconduzida ao cargo que ocupava antes, sem indenização. Se esse cargo já estiver provido, será aproveitada em outro ou posta em disponibilidade, com remuneração proporcional.
+FRANCISCA: Bruno, estável, é demitido. Tereza, também estável, é nomeada para a vaga dele. Bruno consegue sentença anulando a demissão e é reintegrado. Tereza é reconduzida ao cargo que ocupava antes, sem indenização. Se esse cargo já estiver provido, será aproveitada em outro ou posta em disponibilidade, com remuneração proporcional.
 THALITA: Então reintegração é para quem foi demitido, recondução é para quem ocupava a vaga.
-BRUNO: Pegadinhas do artigo quarenta e um: estabilidade após dois anos, errado; disponibilidade com remuneração integral, errado, é proporcional; recondução com indenização, errado; empregado concursado de sociedade de economia mista estável, errado; avaliação especial facultativa, errado, é obrigatória.
-FRANCISCA: Com isso fechamos os servidores. Hora de treinar com as questões comentadas.
+FRANCISCA: Pegadinhas do artigo quarenta e um: estabilidade após dois anos, errado; disponibilidade com remuneração integral, errado, é proporcional; recondução com indenização, errado; empregado concursado de sociedade de economia mista estável, errado; avaliação especial facultativa, errado, é obrigatória.
+THALITA: Com isso fechamos os servidores. Hora de treinar com as questões comentadas.

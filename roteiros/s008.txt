@@ -4,83 +4,83 @@ SEGMENTO s008
 * Proibida entre verbo e objeto, e entre nome e complemento
 * Principal e substantiva: sem vírgula
 * Par de vírgulas na intercalação é legítimo
-ANTONIO: Terminamos a crase, e agora vamos a dois temas que a FCC cobra o tempo todo: pontuação e pronomes. Comecemos pela vírgula. A ideia central é que a vírgula marca o que sai da ordem direta: sujeito, verbo, complementos e adjuntos.
+FRANCISCA: Terminamos a crase, e agora vamos a dois temas que a FCC cobra o tempo todo: pontuação e pronomes. Comecemos pela vírgula. A ideia central é que a vírgula marca o que sai da ordem direta: sujeito, verbo, complementos e adjuntos.
 THALITA: Então a vírgula é para quando a frase foge da ordem?
 FRANCISCA: Isso. E, por outro lado, existem proibições absolutas. A primeira: nunca se separa o sujeito do verbo com uma vírgula só, mesmo que o sujeito seja enorme. Os servidores lotados nas varas do interior do Pará, aprovaram a proposta. Errado. Sem vírgula depois de Pará.
-BRUNO: A banca explora o sujeito longo justamente porque o aluno ouve uma pausa e põe a vírgula. Pausa de leitura não é vírgula.
-ANTONIO: Segunda proibição: verbo e sujeito posposto. Foram aprovadas, as contas. Errado. Terceira: verbo e objeto. O juiz deferiu, o pedido. Errado. Quarta: nome e complemento nominal. A análise, dos autos foi concluída. Errado.
+THALITA: A banca explora o sujeito longo justamente porque o aluno ouve uma pausa e põe a vírgula. Pausa de leitura não é vírgula.
+FRANCISCA: Segunda proibição: verbo e sujeito posposto. Foram aprovadas, as contas. Errado. Terceira: verbo e objeto. O juiz deferiu, o pedido. Errado. Quarta: nome e complemento nominal. A análise, dos autos foi concluída. Errado.
 THALITA: E a quinta, a oração principal e a substantiva?
 FRANCISCA: Também proibida, exceto a apositiva. É necessário, que todos compareçam, errado. Informou, que viria, errado. A substantiva funciona como sujeito ou objeto da principal, então não se separa.
-BRUNO: Atenção a uma pegadinha. Proibida é a vírgula única. O par de vírgulas numa intercalação é legítimo. O juiz, após ouvir as partes, deferiu o pedido. Está certo. Mas abrir a intercalação e não fechar é erro: o juiz, após ouvir as partes deferiu o pedido.
-THALITA: Então a regra é: vírgula sozinha entre os termos essenciais, não. Par para intercalar, pode.
-ANTONIO: Exato. E guarde: intercalação é sempre em par. Pode ser par de vírgulas, par de travessões ou parênteses.
+THALITA: Atenção a uma pegadinha. Proibida é a vírgula única. O par de vírgulas numa intercalação é legítimo. O juiz, após ouvir as partes, deferiu o pedido. Está certo. Mas abrir a intercalação e não fechar é erro: o juiz, após ouvir as partes deferiu o pedido.
+FRANCISCA: Então a regra é: vírgula sozinha entre os termos essenciais, não. Par para intercalar, pode.
+THALITA: Exato. E guarde: intercalação é sempre em par. Pode ser par de vírgulas, par de travessões ou parênteses.
 == SLIDE: Vírgula entre termos e entre orações
 * Aposto explicativo, vocativo, expressões explicativas
 * Adjunto anteposto: longo, recomendada; curto, facultativa
 * Zeugma e conjunção deslocada
 * Orações: adversativas, conclusivas, explicativas, reduzidas
-THALITA: Beleza, então já sei o que não pode. Agora me diz o que a vírgula exige, porque eu sempre erro essa parte e acabo pondo vírgula demais ou de menos.
-ANTONIO: Agora quando a vírgula é exigida. Primeiro, aposto explicativo, sempre em par: Belém, sede do TRT-8, recebeu o evento. Aposto especificativo não leva: a cidade de Belém. E o vocativo: Senhor Presidente, requeiro a palavra.
+FRANCISCA: Beleza, então já sei o que não pode. Agora me diz o que a vírgula exige, porque eu sempre erro essa parte e acabo pondo vírgula demais ou de menos.
+THALITA: Agora quando a vírgula é exigida. Primeiro, aposto explicativo, sempre em par: Belém, sede do TRT-8, recebeu o evento. Aposto especificativo não leva: a cidade de Belém. E o vocativo: Senhor Presidente, requeiro a palavra.
 FRANCISCA: Adjunto adverbial anteposto: na sessão de ontem, o Pleno aprovou. Se for longo, a vírgula é recomendada; se for curto, como em ontem o Pleno aprovou, é facultativa. Se estiver intercalado, o par é obrigatório: o Pleno, na sessão de ontem, aprovou.
 THALITA: E aquela vírgula no lugar do verbo que sumiu?
 FRANCISCA: É a elipse do verbo, o zeugma. Ana prefere Direito; Bruno, Letras. A vírgula marca o verbo omitido.
-BRUNO: Mais três. Expressões explicativas como isto é, ou seja, por exemplo, aliás e ou melhor ficam entre vírgulas. Enumeração leva vírgula, mas não antes do e final: juízes, servidores e advogados compareceram. E conjunção deslocada: a proposta, porém, foi rejeitada. Vale para porém, contudo, todavia, portanto, logo e pois conclusivo.
-ANTONIO: Passando às orações. Coordenadas assindéticas levam vírgula: chegou, analisou os autos, despachou. Adversativas, conclusivas e explicativas, vírgula antes da conjunção: estudou, mas não passou; aguarde, pois o juiz está em audiência.
+THALITA: Mais três. Expressões explicativas como isto é, ou seja, por exemplo, aliás e ou melhor ficam entre vírgulas. Enumeração leva vírgula, mas não antes do e final: juízes, servidores e advogados compareceram. E conjunção deslocada: a proposta, porém, foi rejeitada. Vale para porém, contudo, todavia, portanto, logo e pois conclusivo.
+FRANCISCA: Passando às orações. Coordenadas assindéticas levam vírgula: chegou, analisou os autos, despachou. Adversativas, conclusivas e explicativas, vírgula antes da conjunção: estudou, mas não passou; aguarde, pois o juiz está em audiência.
 THALITA: E a aditiva com e? Eu pensei que sempre vinha com vírgula.
-BRUNO: Esse é o chute errado clássico. A regra é sem vírgula. Admite-se com sujeitos diferentes, polissíndeto ou valor adversativo: o juiz despachou, e a secretaria cumpriu.
-FRANCISCA: Adverbial anteposta, vírgula recomendada: quando a sessão terminou, os juízes saíram. Intercalada, par obrigatório. Posposta, em regra dispensável: os juízes saíram quando a sessão terminou. Reduzida anteposta, vírgula: encerrada a audiência, as partes saíram. E a substantiva apositiva leva dois-pontos ou vírgula: só exigiu uma coisa: que os prazos fossem cumpridos.
+FRANCISCA: Esse é o chute errado clássico. A regra é sem vírgula. Admite-se com sujeitos diferentes, polissíndeto ou valor adversativo: o juiz despachou, e a secretaria cumpriu.
+THALITA: Adverbial anteposta, vírgula recomendada: quando a sessão terminou, os juízes saíram. Intercalada, par obrigatório. Posposta, em regra dispensável: os juízes saíram quando a sessão terminou. Reduzida anteposta, vírgula: encerrada a audiência, as partes saíram. E a substantiva apositiva leva dois-pontos ou vírgula: só exigiu uma coisa: que os prazos fossem cumpridos.
 == SLIDE: Restritiva x explicativa e outros sinais
 * Restritiva: sem vírgulas; delimita o antecedente
 * Explicativa: entre vírgulas; vale para o conjunto todo
 * Inserir ou retirar muda o sentido, não a correção
 * Ponto e vírgula, dois-pontos e travessão
-ANTONIO: Esse é o tema favorito da banca: a oração adjetiva restritiva e a explicativa. A restritiva não tem vírgula e delimita o antecedente. A explicativa vem entre vírgulas, travessões ou parênteses e acrescenta informação sobre o conjunto todo.
+FRANCISCA: Esse é o tema favorito da banca: a oração adjetiva restritiva e a explicativa. A restritiva não tem vírgula e delimita o antecedente. A explicativa vem entre vírgulas, travessões ou parênteses e acrescenta informação sobre o conjunto todo.
 THALITA: Dá o exemplo, por favor.
 FRANCISCA: Os servidores que aderiram à greve tiveram o ponto cortado. Sem vírgulas: só os que aderiram. Agora: os servidores, que aderiram à greve, tiveram o ponto cortado. Com vírgulas: todos aderiram e todos tiveram o ponto cortado.
-BRUNO: A resposta-padrão da FCC. Inserir o par de vírgulas numa restritiva continua correto, mas o sentido muda: generaliza. Retirar as vírgulas de uma explicativa continua correto, mas o sentido muda: restringe. Inserir só uma das vírgulas é incorreto. O mesmo vale para aposto: o ministro, Carlos, votou, contra o ministro Carlos votou.
-THALITA: Então eu devo marcar como correta a troca que só muda o sentido, se o enunciado não pedir para manter o sentido?
-BRUNO: Depende do que o enunciado pede. Se pede correção, está correta; se pede manter o sentido, está errada. Leia o comando.
-ANTONIO: Agora outros sinais. Ponto e vírgula: coordenadas extensas ou que já têm vírgulas, itens de enumeração e antes de conjunção deslocada. O réu foi citado; não compareceu, contudo, à audiência. Dois-pontos: enumeração, citação, explicação, síntese ou consequência. Uma só exigência foi feita: pontualidade.
-FRANCISCA: E o travessão duplo, que faz a intercalação enfática, equivalente ao par de vírgulas: o relator, após longa exposição, votou. Equivalências aceitas: par de vírgulas, par de travessões ou parênteses; e vírgula antes de explicação ou consequência pode virar dois-pontos: não houve recurso: o prazo expirou.
-BRUNO: Não são equivalências: travessão único no meio da frase, sem fechamento, e dois-pontos entre sujeito e verbo.
+THALITA: A resposta-padrão da FCC. Inserir o par de vírgulas numa restritiva continua correto, mas o sentido muda: generaliza. Retirar as vírgulas de uma explicativa continua correto, mas o sentido muda: restringe. Inserir só uma das vírgulas é incorreto. O mesmo vale para aposto: o ministro, Carlos, votou, contra o ministro Carlos votou.
+FRANCISCA: Então eu devo marcar como correta a troca que só muda o sentido, se o enunciado não pedir para manter o sentido?
+THALITA: Depende do que o enunciado pede. Se pede correção, está correta; se pede manter o sentido, está errada. Leia o comando.
+FRANCISCA: Agora outros sinais. Ponto e vírgula: coordenadas extensas ou que já têm vírgulas, itens de enumeração e antes de conjunção deslocada. O réu foi citado; não compareceu, contudo, à audiência. Dois-pontos: enumeração, citação, explicação, síntese ou consequência. Uma só exigência foi feita: pontualidade.
+THALITA: E o travessão duplo, que faz a intercalação enfática, equivalente ao par de vírgulas: o relator, após longa exposição, votou. Equivalências aceitas: par de vírgulas, par de travessões ou parênteses; e vírgula antes de explicação ou consequência pode virar dois-pontos: não houve recurso: o prazo expirou.
+FRANCISCA: Não são equivalências: travessão único no meio da frase, sem fechamento, e dois-pontos entre sujeito e verbo.
 == SLIDE: Pronomes pessoais e substituição de complementos
 * Reto como sujeito; oblíquo tônico após preposição
 * Objeto direto: o, a, os, as; indireto de pessoa: lhe
 * Lhe nunca é objeto direto
 * Terminação do verbo muda a forma: lo, la, no, na
-ANTONIO: Pronomes. Três frentes: pessoais, relativos e colocação. Nos pessoais, o reto serve de sujeito, mesmo de infinitivo: trouxe o processo para eu analisar, e não para mim analisar. Depois de preposição, oblíquo tônico: entre mim e ti, sem mim.
-THALITA: Então "entre eu e você" está errado.
-FRANCISCA: Errado, tem de ser entre mim e você. E com pronomes de tratamento, verbo e possessivo vão para a terceira pessoa: Vossa Excelência decidirá sobre seu voto, nunca vosso voto. E "ele" não serve de objeto: em vez de vi ele, diga eu o vi.
-BRUNO: Os oblíquos átonos. Objeto direto: o, a, os, as: analisou o recurso vira analisou-o. Objeto indireto de pessoa: lhe e lhes: entregou o ofício ao juiz vira entregou-lhe o ofício. Me, te, se, nos e vos servem para os dois.
-ANTONIO: Com verbos que repelem lhe, como aspirar, assistir no sentido de ver, aludir, referir-se, recorrer e visar no sentido de objetivar, usa-se a ele ou a ela: assistiu ao debate vira assistiu a ele.
-THALITA: E a forma do pronome muda conforme o verbo?
-FRANCISCA: Muda. Verbo terminado em vogal ou ditongo oral, o e a sem alteração: analisou-o. Terminado em r, s ou z, cai a consoante e o pronome vira lo ou la: fazê-lo, analisá-la, pô-lo. Terminado em som nasal, vira no ou na: fazem-no, dão-na, põe-no. Futuro: mesóclise, fá-lo-á.
-BRUNO: Substituições clássicas da FCC. Atribuir responsabilidade ao servidor: atribuir-lhe responsabilidade, ou atribuí-la ao servidor. Errado: atribuí-lo responsabilidade. Fazer a análise: fazê-la, e nunca fazer-lhe. Conferiram aos cidadãos novos direitos: conferiram-lhes novos direitos. Informar o réu da decisão: informá-lo da decisão. Pôr as cópias nos autos: pô-las.
+THALITA: Pronomes. Três frentes: pessoais, relativos e colocação. Nos pessoais, o reto serve de sujeito, mesmo de infinitivo: trouxe o processo para eu analisar, e não para mim analisar. Depois de preposição, oblíquo tônico: entre mim e ti, sem mim.
+FRANCISCA: Então "entre eu e você" está errado.
+THALITA: Errado, tem de ser entre mim e você. E com pronomes de tratamento, verbo e possessivo vão para a terceira pessoa: Vossa Excelência decidirá sobre seu voto, nunca vosso voto. E "ele" não serve de objeto: em vez de vi ele, diga eu o vi.
+FRANCISCA: Os oblíquos átonos. Objeto direto: o, a, os, as: analisou o recurso vira analisou-o. Objeto indireto de pessoa: lhe e lhes: entregou o ofício ao juiz vira entregou-lhe o ofício. Me, te, se, nos e vos servem para os dois.
+THALITA: Com verbos que repelem lhe, como aspirar, assistir no sentido de ver, aludir, referir-se, recorrer e visar no sentido de objetivar, usa-se a ele ou a ela: assistiu ao debate vira assistiu a ele.
+FRANCISCA: E a forma do pronome muda conforme o verbo?
+THALITA: Muda. Verbo terminado em vogal ou ditongo oral, o e a sem alteração: analisou-o. Terminado em r, s ou z, cai a consoante e o pronome vira lo ou la: fazê-lo, analisá-la, pô-lo. Terminado em som nasal, vira no ou na: fazem-no, dão-na, põe-no. Futuro: mesóclise, fá-lo-á.
+FRANCISCA: Substituições clássicas da FCC. Atribuir responsabilidade ao servidor: atribuir-lhe responsabilidade, ou atribuí-la ao servidor. Errado: atribuí-lo responsabilidade. Fazer a análise: fazê-la, e nunca fazer-lhe. Conferiram aos cidadãos novos direitos: conferiram-lhes novos direitos. Informar o réu da decisão: informá-lo da decisão. Pôr as cópias nos autos: pô-las.
 THALITA: E o lhe nunca é objeto direto, não é?
-BRUNO: Nunca. Eu lhe vi, vou lhe convidar, a decisão lhe prejudicou, tudo errado. Ver, convidar, prejudicar, ajudar, conhecer e estimar pedem o ou a. Já verbos transitivos indiretos de pessoa pedem lhe: obedecer-lhe, responder-lhe, agradar-lhe, pagar-lhe, perdoar-lhe.
+FRANCISCA: Nunca. Eu lhe vi, vou lhe convidar, a decisão lhe prejudicou, tudo errado. Ver, convidar, prejudicar, ajudar, conhecer e estimar pedem o ou a. Já verbos transitivos indiretos de pessoa pedem lhe: obedecer-lhe, responder-lhe, agradar-lhe, pagar-lhe, perdoar-lhe.
 == SLIDE: Pronomes relativos
 * Que: universal; quem: só pessoa e preposicionado
 * O qual: após preposição longa ou locução
 * Cujo: posse, concorda com o possuído, sem artigo
 * Onde: lugar físico; aonde com movimento
-ANTONIO: Os relativos. O "que" é universal, usual depois de preposição monossilábica: o processo de que trata o despacho. Errado: o processo que trata o despacho.
-THALITA: Ah, aquele em que falta a preposição.
-FRANCISCA: Isso. O "quem" só para pessoa e, com antecedente, sempre com preposição: o juiz a quem me referi. Errado: o juiz quem me referi. O "o qual" varia em gênero e número, é preferido depois de preposição de duas ou mais sílabas ou locução, e desfaz ambiguidade: a decisão sobre a qual divergimos, a tese segundo a qual. Errado: segundo que.
-BRUNO: O cujo é a pegadinha das pegadinhas. Indica posse, fica entre possuidor e possuído, concorda com o possuído e não admite artigo depois. O servidor cujo filho nasceu. A preposição exigida vem antes: o autor de cuja tese discordo. Erros típicos: cujo o filho, e o processo, cujo foi arquivado.
+THALITA: Os relativos. O "que" é universal, usual depois de preposição monossilábica: o processo de que trata o despacho. Errado: o processo que trata o despacho.
+FRANCISCA: Ah, aquele em que falta a preposição.
+THALITA: Isso. O "quem" só para pessoa e, com antecedente, sempre com preposição: o juiz a quem me referi. Errado: o juiz quem me referi. O "o qual" varia em gênero e número, é preferido depois de preposição de duas ou mais sílabas ou locução, e desfaz ambiguidade: a decisão sobre a qual divergimos, a tese segundo a qual. Errado: segundo que.
+FRANCISCA: O cujo é a pegadinha das pegadinhas. Indica posse, fica entre possuidor e possuído, concorda com o possuído e não admite artigo depois. O servidor cujo filho nasceu. A preposição exigida vem antes: o autor de cuja tese discordo. Erros típicos: cujo o filho, e o processo, cujo foi arquivado.
 THALITA: Então o cujo nunca vem sozinho, sempre tem um substantivo logo depois.
-ANTONIO: Perfeito. Agora o onde. Só para lugar físico, equivalente a em que: a cidade onde moro. Com verbo de movimento que pede a, é aonde: a cidade aonde vou. Erro típico: a reunião onde se decidiu, porque reunião não é lugar físico. Use em que, ou na qual.
-FRANCISCA: Resumo da banca: onde só para lugar, quem só para pessoa, cujo sem artigo, e que depois de preposição curta.
-THALITA: Vou fazer meu macete: onde é lugar, quem é gente, cujo é dono, que é o coringa. Se o relativo errar de função, a frase cai. E se eu esquecer, lembro do cujo sem artigo.
+FRANCISCA: Perfeito. Agora o onde. Só para lugar físico, equivalente a em que: a cidade onde moro. Com verbo de movimento que pede a, é aonde: a cidade aonde vou. Erro típico: a reunião onde se decidiu, porque reunião não é lugar físico. Use em que, ou na qual.
+THALITA: Resumo da banca: onde só para lugar, quem só para pessoa, cujo sem artigo, e que depois de preposição curta.
+FRANCISCA: Vou fazer meu macete: onde é lugar, quem é gente, cujo é dono, que é o coringa. Se o relativo errar de função, a frase cai. E se eu esquecer, lembro do cujo sem artigo.
 == SLIDE: Colocação pronominal
 * Próclise com palavra atrativa
 * Mesóclise: futuro sem atrator
 * Ênclise: início de período, imperativo afirmativo, gerúndio
 * Proibido ênclise com particípio ou futuro
-ANTONIO: Por fim, a colocação. A regra é um roteiro de três perguntas. Há palavra atrativa antes do verbo? Se sim, próclise. Senão, o verbo está no futuro do presente ou do pretérito? Se sim, mesóclise. Senão, ênclise: início de período, imperativo afirmativo, gerúndio, infinitivo e após pausa.
-THALITA: E quais são os atrativos?
-FRANCISCA: Palavras negativas: não se admite recurso. Advérbios sem pausa: aqui se decide; com vírgula, ontem, disseram-me. Relativos e conjunções subordinativas: o recurso que se interpôs; quando o intimaram. Indefinidos e demonstrativos: tudo se resolveu; isso me preocupa. Interrogativas, exclamativas e optativas: quem lhe contou? Deus o ajude. E em mais gerúndio: em se tratando de prazo.
-BRUNO: Mesóclise: realizar-se-á a sessão, entregar-lhe-iam o ofício. Com atrator, vira próclise: não se realizará a sessão. Erros típicos: realizará-se, e não realizar-se-á. Ênclise: trata-se de matéria nova, encaminhe-se o feito. Errado: me parece que, no início de período. E proibido ênclise com particípio ou futuro: tinha-lhe entregado, nunca tinha entregado-lhe; farei-o, errado.
+THALITA: Por fim, a colocação. A regra é um roteiro de três perguntas. Há palavra atrativa antes do verbo? Se sim, próclise. Senão, o verbo está no futuro do presente ou do pretérito? Se sim, mesóclise. Senão, ênclise: início de período, imperativo afirmativo, gerúndio, infinitivo e após pausa.
+FRANCISCA: E quais são os atrativos?
+THALITA: Palavras negativas: não se admite recurso. Advérbios sem pausa: aqui se decide; com vírgula, ontem, disseram-me. Relativos e conjunções subordinativas: o recurso que se interpôs; quando o intimaram. Indefinidos e demonstrativos: tudo se resolveu; isso me preocupa. Interrogativas, exclamativas e optativas: quem lhe contou? Deus o ajude. E em mais gerúndio: em se tratando de prazo.
+FRANCISCA: Mesóclise: realizar-se-á a sessão, entregar-lhe-iam o ofício. Com atrator, vira próclise: não se realizará a sessão. Erros típicos: realizará-se, e não realizar-se-á. Ênclise: trata-se de matéria nova, encaminhe-se o feito. Errado: me parece que, no início de período. E proibido ênclise com particípio ou futuro: tinha-lhe entregado, nunca tinha entregado-lhe; farei-o, errado.
 THALITA: E nas locuções verbais, auxiliar mais infinitivo?
-ANTONIO: Sem atrator: devo-lhe entregar ou devo entregar-lhe. Com atrator: não lhe devo entregar ou não devo entregar-lhe. Auxiliar mais particípio: tinha-lhe entregado; com atrator, não lhe tinha entregado.
-BRUNO: Atenção: devo lhe entregar, com o pronome solto entre os verbos, é aceito por boa parte da gramática brasileira, mas questões conservadoras preferem as formas do quadro. Com infinitivo precedido de negação ou preposição, ambas valem: para não o prejudicar ou para não prejudicá-lo.
-ANTONIO: Pronto, pontuação e pronomes dominados. No próximo tema, concordância verbal e nominal, onde a FCC faz o sujeito se esconder.
+FRANCISCA: Sem atrator: devo-lhe entregar ou devo entregar-lhe. Com atrator: não lhe devo entregar ou não devo entregar-lhe. Auxiliar mais particípio: tinha-lhe entregado; com atrator, não lhe tinha entregado.
+THALITA: Atenção: devo lhe entregar, com o pronome solto entre os verbos, é aceito por boa parte da gramática brasileira, mas questões conservadoras preferem as formas do quadro. Com infinitivo precedido de negação ou preposição, ambas valem: para não o prejudicar ou para não prejudicá-lo.
+FRANCISCA: Pronto, pontuação e pronomes dominados. No próximo tema, concordância verbal e nominal, onde a FCC faz o sujeito se esconder.

@@ -4,58 +4,57 @@ SEGMENTO s038
 * Instituição permanente, sede em Haia, julga pessoas físicas
 * Não é órgão da ONU; reservas não admitidas
 * Denúncia: efeito 1 ano após a notificação ao Secretário-Geral
-ANTONIO: Olá, pessoal, bem-vindos à aula doze. Hoje o tema é Tribunal Penal Internacional e Carta das Nações Unidas. Vamos estudar o Estatuto de Roma, depois a Carta da ONU e a Corte Internacional de Justiça, com um quadro comparativo entre as duas cortes, e fechamos com questões comentadas no estilo da FCC.
-THALITA: Eu sou a Thalita, concurseira como você, e vou perguntar o que você perguntaria.
-FRANCISCA: Eu sou a Francisca, professora. Trago a norma em paráfrase e os exemplos.
-BRUNO: E eu sou o Bruno, especialista em FCC, e mostro onde a banca arma a pegadinha.
-ANTONIO: O Estatuto de Roma foi adotado em dezessete de julho de mil novecentos e noventa e oito, entrou em vigor internacional em primeiro de julho de dois mil e dois e foi promulgado no Brasil pelo Decreto quatro mil trezentos e oitenta e oito, de dois mil e dois. O artigo primeiro cria o tribunal como instituição permanente, com jurisdição sobre as pessoas responsáveis pelos crimes mais graves de alcance internacional, e complementar às jurisdições penais nacionais.
-THALITA: Guardei três palavras: permanente, pessoas e complementar. É isso?
-FRANCISCA: Exatamente. Permanente, porque nasce de tratado e não depende de conflito específico, diferente dos tribunais ad hoc da ex-Iugoslávia e de Ruanda, criados por resoluções do Conselho de Segurança. Pessoas, porque julga indivíduos e nunca Estados. E complementar, porque não tem primazia sobre a justiça nacional.
-BRUNO: A FCC troca esses atributos o tempo todo. Se a alternativa disser que o TPI julga Estados, está errada. Se disser que tem primazia, errada também.
+FRANCISCA: Olá, pessoal, bem-vindos à aula doze. Hoje o tema é Tribunal Penal Internacional e Carta das Nações Unidas. Vamos estudar o Estatuto de Roma, depois a Carta da ONU e a Corte Internacional de Justiça, com um quadro comparativo entre as duas cortes, e fechamos com questões comentadas no estilo da FCC.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: O Estatuto de Roma foi adotado em dezessete de julho de mil novecentos e noventa e oito, entrou em vigor internacional em primeiro de julho de dois mil e dois e foi promulgado no Brasil pelo Decreto quatro mil trezentos e oitenta e oito, de dois mil e dois. O artigo primeiro cria o tribunal como instituição permanente, com jurisdição sobre as pessoas responsáveis pelos crimes mais graves de alcance internacional, e complementar às jurisdições penais nacionais.
+FRANCISCA: Guardei três palavras: permanente, pessoas e complementar. É isso?
+THALITA: Exatamente. Permanente, porque nasce de tratado e não depende de conflito específico, diferente dos tribunais ad hoc da ex-Iugoslávia e de Ruanda, criados por resoluções do Conselho de Segurança. Pessoas, porque julga indivíduos e nunca Estados. E complementar, porque não tem primazia sobre a justiça nacional.
+FRANCISCA: A FCC troca esses atributos o tempo todo. Se a alternativa disser que o TPI julga Estados, está errada. Se disser que tem primazia, errada também.
 THALITA: E onde fica a sede?
 FRANCISCA: Em Haia, nos Países Baixos, que é o Estado anfitrião, mas ele pode se reunir em outro local quando achar conveniente. O artigo quarto dá ao tribunal personalidade jurídica internacional. Reservas ao Estatuto não são admitidas. E a denúncia produz efeito um ano depois da notificação ao Secretário-Geral da ONU.
-BRUNO: Atenção, a isca preferida das bancas: o TPI não integra a ONU. Vincula-se a ela por acordo. Quem é órgão da ONU é a Corte Internacional de Justiça. E ambos têm sede em Haia, justamente para confundir.
-THALITA: Tribunal Penal, autônomo. Corte Internacional de Justiça, órgão da ONU. Anotado. Posso arriscar um exemplo de questão? "O TPI é órgão judiciário principal das Nações Unidas." Errada?
-BRUNO: Errada. Essa frase descreve a Corte Internacional de Justiça. O Tribunal Penal Internacional é instituição permanente, com personalidade jurídica internacional própria, ligada à ONU só por acordo.
-ANTONIO: E repare como o artigo segundo do Estatuto trata disso: a relação com a ONU é por acordo, não por integração na estrutura.
+THALITA: Atenção, a isca preferida das bancas: o TPI não integra a ONU. Vincula-se a ela por acordo. Quem é órgão da ONU é a Corte Internacional de Justiça. E ambos têm sede em Haia, justamente para confundir.
+FRANCISCA: Tribunal Penal, autônomo. Corte Internacional de Justiça, órgão da ONU. Anotado. Posso arriscar um exemplo de questão? "O TPI é órgão judiciário principal das Nações Unidas." Errada?
+THALITA: Errada. Essa frase descreve a Corte Internacional de Justiça. O Tribunal Penal Internacional é instituição permanente, com personalidade jurídica internacional própria, ligada à ONU só por acordo.
+FRANCISCA: E repare como o artigo segundo do Estatuto trata disso: a relação com a ONU é por acordo, não por integração na estrutura.
 THALITA: Fechou. Autônomo, relacionado por acordo.
 == SLIDE: Complementaridade e ne bis in idem
 * Responsabilidade primária de punir é do Estado
 * Art. 17: caso inadmissível se há investigação ou processo genuíno
 * Estado sem vontade ou incapaz reabre o TPI
 * Julgado por outro tribunal: nova ação só se processo foi de fachada
-ANTONIO: Vamos aprofundar a complementaridade. A responsabilidade primária de punir é do Estado. O tribunal é jurisdição subsidiária, ativada quando a justiça nacional falha. O teste está no artigo dezessete, que lista as hipóteses de inadmissibilidade.
+FRANCISCA: Vamos aprofundar a complementaridade. A responsabilidade primária de punir é do Estado. O tribunal é jurisdição subsidiária, ativada quando a justiça nacional falha. O teste está no artigo dezessete, que lista as hipóteses de inadmissibilidade.
 THALITA: Quais são?
 FRANCISCA: Quatro. Primeira: o caso está sendo investigado ou julgado por Estado com jurisdição. Segunda: o Estado investigou e decidiu não processar. Terceira: a pessoa já foi julgada pela conduta. Quarta: o caso não tem gravidade suficiente para justificar a atuação do tribunal.
-BRUNO: E as exceções. Nas duas primeiras, o tribunal reabre o caso se o Estado não tinha vontade, ou não tinha capacidade, de agir genuinamente. Na terceira, se o julgamento foi de fachada. A quarta não tem exceção.
-THALITA: O que é falta de vontade e o que é incapacidade?
-FRANCISCA: Falta de vontade é processo de fachada, demora injustificada e parcialidade. Incapacidade é colapso da justiça nacional.
-BRUNO: Pegadinha: afirmar que o TPI tem primazia sobre os tribunais nacionais. Errado. A atuação é complementar.
-ANTONIO: Agora o princípio do ne bis in idem, artigo vinte. Quem foi julgado pelo tribunal não pode ser processado de novo pela mesma conduta, nem no próprio tribunal, nem em outro. E quem foi julgado por outro tribunal não pode ser processado no TPI, salvo se o processo anterior visou subtrair o acusado à responsabilidade, ou não foi independente e imparcial.
-THALITA: Então só dá para julgar de novo se o primeiro processo foi de mentirinha.
-FRANCISCA: Isso mesmo, o famoso julgamento de fachada. Imagine um general julgado no país dele por um tribunal controlado pelo governo, que o absolve para protegê-lo. Esse processo não foi independente nem imparcial, então o TPI pode atuar.
-THALITA: E se o julgamento foi sério e ele foi absolvido de verdade?
-FRANCISCA: Aí vale a coisa julgada, e o caso é inadmissível no TPI.
-BRUNO: Resumo para a prova: Estado que age de verdade, TPI fica de fora. Estado que finge, ou não consegue, TPI entra.
+THALITA: E as exceções. Nas duas primeiras, o tribunal reabre o caso se o Estado não tinha vontade, ou não tinha capacidade, de agir genuinamente. Na terceira, se o julgamento foi de fachada. A quarta não tem exceção.
+FRANCISCA: O que é falta de vontade e o que é incapacidade?
+THALITA: Falta de vontade é processo de fachada, demora injustificada e parcialidade. Incapacidade é colapso da justiça nacional.
+FRANCISCA: Pegadinha: afirmar que o TPI tem primazia sobre os tribunais nacionais. Errado. A atuação é complementar.
+THALITA: Agora o princípio do ne bis in idem, artigo vinte. Quem foi julgado pelo tribunal não pode ser processado de novo pela mesma conduta, nem no próprio tribunal, nem em outro. E quem foi julgado por outro tribunal não pode ser processado no TPI, salvo se o processo anterior visou subtrair o acusado à responsabilidade, ou não foi independente e imparcial.
+FRANCISCA: Então só dá para julgar de novo se o primeiro processo foi de mentirinha.
+THALITA: Isso mesmo, o famoso julgamento de fachada. Imagine um general julgado no país dele por um tribunal controlado pelo governo, que o absolve para protegê-lo. Esse processo não foi independente nem imparcial, então o TPI pode atuar.
+FRANCISCA: E se o julgamento foi sério e ele foi absolvido de verdade?
+THALITA: Aí vale a coisa julgada, e o caso é inadmissível no TPI.
+FRANCISCA: Resumo para a prova: Estado que age de verdade, TPI fica de fora. Estado que finge, ou não consegue, TPI entra.
 == SLIDE: Crimes de competência do TPI
 * Rol taxativo (art. 5º): genocídio, contra a humanidade, de guerra, agressão
 * Genocídio: dolo específico; grupo nacional, étnico, racial ou religioso
 * Contra a humanidade: ataque generalizado ou sistemático contra civis
 * Guerra: vínculo com conflito armado
 * Agressão: crime de liderança
-ANTONIO: O artigo quinto lista os crimes mais graves que afetam a comunidade internacional: genocídio, crimes contra a humanidade, crimes de guerra e crime de agressão. O rol é taxativo.
-BRUNO: Terrorismo, tráfico internacional de drogas, pirataria e lavagem de dinheiro não estão na competência do TPI. São distratores clássicos.
+THALITA: O artigo quinto lista os crimes mais graves que afetam a comunidade internacional: genocídio, crimes contra a humanidade, crimes de guerra e crime de agressão. O rol é taxativo.
+FRANCISCA: Terrorismo, tráfico internacional de drogas, pirataria e lavagem de dinheiro não estão na competência do TPI. São distratores clássicos.
 THALITA: Genocídio é matar muita gente, né?
 FRANCISCA: Não é só isso. O que caracteriza o genocídio é o dolo específico: a intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso. As condutas incluem homicídio de membros do grupo, ofensas graves, condições de vida destrutivas, impedir nascimentos e transferência forçada de crianças.
-BRUNO: E repare: grupo político não é protegido no genocídio. Perseguição política é crime contra a humanidade.
-THALITA: Então, na dúvida, grupo político, é contra a humanidade. E se a questão disser que crime contra a humanidade só existe durante uma guerra?
-BRUNO: Errado. Ele dispensa conflito armado. Quem exige vínculo com conflito armado é o crime de guerra.
-THALITA: Entendi: guerra, precisa de conflito; humanidade, ataque a civis; genocídio, intenção de destruir grupo.
-ANTONIO: Crime contra a humanidade, artigo sétimo, exige ataque generalizado ou sistemático contra população civil, com conhecimento desse ataque. Não exige conflito armado. Entre as condutas: homicídio, extermínio, escravidão, deportação, tortura, violência sexual, perseguição, desaparecimento forçado e apartheid.
-BRUNO: Os requisitos são alternativos: generalizado ou sistemático. A FCC troca por generalizado e sistemático. Errado.
-FRANCISCA: Crimes de guerra, artigo oitavo, têm vínculo com conflito armado, internacional ou interno, e abrangem violações graves às Convenções de Genebra de mil novecentos e quarenta e nove. Já a agressão é crime de liderança: quem dirige a ação política ou militar de um Estado e planeja, prepara, inicia ou executa ato que viole manifestamente a Carta da ONU.
-THALITA: E o texto do Decreto fala da agressão?
-BRUNO: O Decreto condicionava o exercício da competência a uma futura definição, que veio com as Emendas de Kampala, de dois mil e dez, com jurisdição ativada em dois mil e dezoito. Confira se o Brasil promulgou as emendas. Em prova baseada no Decreto, basta saber que a agressão integra o artigo quinto.
+THALITA: E repare: grupo político não é protegido no genocídio. Perseguição política é crime contra a humanidade.
+FRANCISCA: Então, na dúvida, grupo político, é contra a humanidade. E se a questão disser que crime contra a humanidade só existe durante uma guerra?
+THALITA: Errado. Ele dispensa conflito armado. Quem exige vínculo com conflito armado é o crime de guerra.
+FRANCISCA: Entendi: guerra, precisa de conflito; humanidade, ataque a civis; genocídio, intenção de destruir grupo.
+THALITA: Crime contra a humanidade, artigo sétimo, exige ataque generalizado ou sistemático contra população civil, com conhecimento desse ataque. Não exige conflito armado. Entre as condutas: homicídio, extermínio, escravidão, deportação, tortura, violência sexual, perseguição, desaparecimento forçado e apartheid.
+FRANCISCA: Os requisitos são alternativos: generalizado ou sistemático. A FCC troca por generalizado e sistemático. Errado.
+THALITA: Crimes de guerra, artigo oitavo, têm vínculo com conflito armado, internacional ou interno, e abrangem violações graves às Convenções de Genebra de mil novecentos e quarenta e nove. Já a agressão é crime de liderança: quem dirige a ação política ou militar de um Estado e planeja, prepara, inicia ou executa ato que viole manifestamente a Carta da ONU.
+FRANCISCA: E o texto do Decreto fala da agressão?
+THALITA: O Decreto condicionava o exercício da competência a uma futura definição, que veio com as Emendas de Kampala, de dois mil e dez, com jurisdição ativada em dois mil e dezoito. Confira se o Brasil promulgou as emendas. Em prova baseada no Decreto, basta saber que a agressão integra o artigo quinto.
 == SLIDE: Competência temporal, pessoal e territorial; quem aciona
 * Só crimes após 1º/7/2002 (art. 11)
 * Pessoas físicas maiores de 18 anos
@@ -65,41 +64,41 @@ BRUNO: O Decreto condicionava o exercício da competência a uma futura definiç
 FRANCISCA: Vamos aos limites da jurisdição. No tempo, só crimes cometidos depois da entrada em vigor, primeiro de julho de dois mil e dois, ou, para quem aderir depois, depois da vigência para esse Estado. Em relação às pessoas, só pessoas físicas maiores de dezoito anos. No território, o de Estado-Parte, inclusive navio ou aeronave nele matriculados.
 THALITA: E se o Estado não for parte?
 FRANCISCA: Pode aceitar a jurisdição por declaração, caso a caso.
-ANTONIO: Quem aciona o tribunal, artigo treze: o Estado-Parte, por denúncia ou remessa, desde que haja vínculo territorial ou de nacionalidade. O Conselho de Segurança, com base no Capítulo Sete da Carta, o que alcança Estados não-partes, como Darfur em dois mil e cinco e Líbia em dois mil e onze. E o Procurador, de ofício, com autorização do Juízo de Instrução.
-BRUNO: O Conselho de Segurança também pode suspender o inquérito ou o processo por doze meses, renováveis, por resolução do Capítulo Sete. É o artigo dezesseis. As trocas típicas são seis meses, não renováveis, ou decisão da Assembleia Geral.
+THALITA: Quem aciona o tribunal, artigo treze: o Estado-Parte, por denúncia ou remessa, desde que haja vínculo territorial ou de nacionalidade. O Conselho de Segurança, com base no Capítulo Sete da Carta, o que alcança Estados não-partes, como Darfur em dois mil e cinco e Líbia em dois mil e onze. E o Procurador, de ofício, com autorização do Juízo de Instrução.
+FRANCISCA: O Conselho de Segurança também pode suspender o inquérito ou o processo por doze meses, renováveis, por resolução do Capítulo Sete. É o artigo dezesseis. As trocas típicas são seis meses, não renováveis, ou decisão da Assembleia Geral.
 THALITA: Doze meses, renováveis, pelo Conselho de Segurança. Gravei. Então, se um Estado que não assinou o Estatuto cometer crime, o TPI pode julgar?
 FRANCISCA: Pode, por três caminhos. Se o Conselho de Segurança remeter a situação, como em Darfur. Se o Estado aceitar a jurisdição por declaração. Ou, em geral, se o crime ocorrer no território de um Estado-Parte, o que alcança até o nacional de um Estado não-parte.
 THALITA: Então a regra é território ou nacionalidade, e o Conselho abre exceção.
-BRUNO: É isso. E para o Procurador agir de ofício, ele precisa de autorização do Juízo de Instrução.
+FRANCISCA: É isso. E para o Procurador agir de ofício, ele precisa de autorização do Juízo de Instrução.
 == SLIDE: Princípios penais, órgãos e juízes
 * Legalidade (art. 22), irretroatividade (art. 24), imprescritibilidade (art. 29)
 * Qualidade oficial não exime nem reduz a pena (art. 27)
 * Ordem superior: em regra não exime (art. 33)
 * Quatro órgãos; 18 juízes, mandato de 9 anos, sem reeleição
 * Procurador: 9 anos, sem reeleição
-ANTONIO: Os princípios gerais. Não há crime sem lei, artigo vinte e dois, vedada a analogia, e na dúvida decide-se a favor do acusado. Não há pena sem lei. O Estatuto não retroage, mas a norma mais favorável retroage. A responsabilidade é individual, sem afastar a responsabilidade do Estado. Não há jurisdição sobre menores de dezoito anos. Os crimes não prescrevem.
-BRUNO: O artigo vinte e sete é muito cobrado. A qualidade oficial de Chefe de Estado, parlamentar ou servidor não exime de responsabilidade, nem reduz a pena. As imunidades também não impedem a jurisdição.
+THALITA: Os princípios gerais. Não há crime sem lei, artigo vinte e dois, vedada a analogia, e na dúvida decide-se a favor do acusado. Não há pena sem lei. O Estatuto não retroage, mas a norma mais favorável retroage. A responsabilidade é individual, sem afastar a responsabilidade do Estado. Não há jurisdição sobre menores de dezoito anos. Os crimes não prescrevem.
+FRANCISCA: O artigo vinte e sete é muito cobrado. A qualidade oficial de Chefe de Estado, parlamentar ou servidor não exime de responsabilidade, nem reduz a pena. As imunidades também não impedem a jurisdição.
 THALITA: E se o soldado só cumpriu ordem do chefe?
 FRANCISCA: Em regra, a ordem superior não exime. Só exime se havia o dever legal de obedecer, se o agente ignorava a ilicitude e se a ordem não era manifestamente ilícita. Ordem de genocídio ou de crime contra a humanidade é sempre manifestamente ilícita.
 THALITA: Macete: dezoito, dezoito, nove, trinta. Dezoito anos de idade, dezoito juízes, nove anos de mandato, pena de até trinta anos. E o Presidente do tribunal, quanto tempo fica?
 FRANCISCA: Três anos, com uma reeleição. Não confunda com o Procurador, que fica nove anos sem reeleição.
 THALITA: Presidência, três anos; Procurador, nove sem volta.
-ANTONIO: Os órgãos, artigo trinta e quatro, são quatro: a Presidência, as Seções, o Gabinete do Procurador e a Secretaria. A Assembleia dos Estados-Partes elege juízes e Procurador, mas não é órgão do tribunal.
-FRANCISCA: A Presidência tem Presidente e dois Vice-Presidentes, eleitos pelos juízes, por três anos. As Seções são de Recursos, de Primeira Instância e de Instrução. O Procurador é eleito pela Assembleia, para nove anos, sem reeleição. O Secretário é eleito pelos juízes, para cinco anos, com uma reeleição.
-BRUNO: Os juízes são dezoito, eleitos por dois terços dos presentes e votantes, com mandato de nove anos sem reeleição, e vedados dois do mesmo Estado. Compare com a CIJ: quinze juízes, nove anos, com reeleição.
+FRANCISCA: Os órgãos, artigo trinta e quatro, são quatro: a Presidência, as Seções, o Gabinete do Procurador e a Secretaria. A Assembleia dos Estados-Partes elege juízes e Procurador, mas não é órgão do tribunal.
+THALITA: A Presidência tem Presidente e dois Vice-Presidentes, eleitos pelos juízes, por três anos. As Seções são de Recursos, de Primeira Instância e de Instrução. O Procurador é eleito pela Assembleia, para nove anos, sem reeleição. O Secretário é eleito pelos juízes, para cinco anos, com uma reeleição.
+FRANCISCA: Os juízes são dezoito, eleitos por dois terços dos presentes e votantes, com mandato de nove anos sem reeleição, e vedados dois do mesmo Estado. Compare com a CIJ: quinze juízes, nove anos, com reeleição.
 == SLIDE: Penas, entrega e a Constituição
 * Prisão até 30 anos; perpétua, excepcional; sem pena de morte
 * Multa e perda de bens são acessórias
 * Entrega ao TPI x extradição para outro Estado
 * Art. 5º, § 4º, CF: submissão ao TPI (EC 45/2004)
-ANTONIO: Sobre as penas, artigo setenta e sete: prisão por número determinado de anos, até trinta, ou prisão perpétua, se o elevado grau de ilicitude e as condições pessoais do condenado justificarem. Além da prisão, multa e perda de produtos, bens e haveres do crime, sem prejuízo de terceiros de boa-fé.
-THALITA: E pena de morte?
-FRANCISCA: Não existe. Multa e perda de bens são acessórias, porque aplicadas além da pena de prisão. Um exemplo: Ricardo foi condenado a vinte e quatro anos. O tribunal pode reexaminar a pena para reduzi-la depois de dezesseis anos, que são dois terços. Se fosse perpétua, depois de vinte e cinco anos.
-BRUNO: Agora uma distinção que cai: entrega e extradição. Entrega é a de uma pessoa por um Estado ao Tribunal Penal Internacional. Extradição é a entrega de uma pessoa por um Estado a outro Estado. O que muda é o destinatário.
+THALITA: Sobre as penas, artigo setenta e sete: prisão por número determinado de anos, até trinta, ou prisão perpétua, se o elevado grau de ilicitude e as condições pessoais do condenado justificarem. Além da prisão, multa e perda de produtos, bens e haveres do crime, sem prejuízo de terceiros de boa-fé.
+FRANCISCA: E pena de morte?
+THALITA: Não existe. Multa e perda de bens são acessórias, porque aplicadas além da pena de prisão. Um exemplo: Ricardo foi condenado a vinte e quatro anos. O tribunal pode reexaminar a pena para reduzi-la depois de dezesseis anos, que são dois terços. Se fosse perpétua, depois de vinte e cinco anos.
+FRANCISCA: Agora uma distinção que cai: entrega e extradição. Entrega é a de uma pessoa por um Estado ao Tribunal Penal Internacional. Extradição é a entrega de uma pessoa por um Estado a outro Estado. O que muda é o destinatário.
 THALITA: E brasileiro nato pode ser entregue?
 FRANCISCA: A extradição é vedada pelo artigo quinto, inciso cinquenta e um, da Constituição. A entrega ao TPI é admitida pela doutrina majoritária. E o parágrafo quarto do artigo quinto diz que o Brasil se submete à jurisdição de tribunal penal internacional a cuja criação tenha manifestado adesão. Veio com a Emenda Constitucional quarenta e cinco, de dois mil e quatro.
-BRUNO: Cuidado: o STF não pacificou a compatibilidade da prisão perpétua e da entrega de nacionais com a Constituição. Prevalece que a vedação constitucional da prisão perpétua se dirige ao Estado brasileiro, não a tribunal internacional. Confira eventual julgamento posterior.
-THALITA: Antes de seguir, deixa eu resumir o Estatuto: permanente, complementar, pessoas físicas maiores de dezoito anos, quatro crimes, dezoito juízes, pena de até trinta anos ou perpétua excepcional, sem pena de morte. Faltou algo?
-FRANCISCA: Faltou só lembrar que os crimes são imprescritíveis e que reservas não são admitidas. Com isso, você cobre quase tudo o que a banca pergunta sobre o Estatuto.
-THALITA: Já passamos pelo Estatuto de Roma. E agora?
-ANTONIO: Agora a Carta das Nações Unidas e a Corte Internacional de Justiça.
+THALITA: Cuidado: o STF não pacificou a compatibilidade da prisão perpétua e da entrega de nacionais com a Constituição. Prevalece que a vedação constitucional da prisão perpétua se dirige ao Estado brasileiro, não a tribunal internacional. Confira eventual julgamento posterior.
+FRANCISCA: Antes de seguir, deixa eu resumir o Estatuto: permanente, complementar, pessoas físicas maiores de dezoito anos, quatro crimes, dezoito juízes, pena de até trinta anos ou perpétua excepcional, sem pena de morte. Faltou algo?
+THALITA: Faltou só lembrar que os crimes são imprescritíveis e que reservas não são admitidas. Com isso, você cobre quase tudo o que a banca pergunta sobre o Estatuto.
+FRANCISCA: Já passamos pelo Estatuto de Roma. E agora?
+THALITA: Agora a Carta das Nações Unidas e a Corte Internacional de Justiça.

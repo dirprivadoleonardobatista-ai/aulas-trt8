@@ -5,88 +5,84 @@ SEGMENTO s147
 * Art. 487, I (8 dias) não foi recepcionado
 * Lei 12.506/2011: +3 dias por ano completo, teto de 90 dias
 * Proporcionalidade só beneficia o empregado
-ANTONIO: Na parte anterior fechamos as modalidades de extinção. Agora o aviso prévio, que aparece em quase todas elas. É a comunicação antecipada da intenção de romper um contrato por prazo indeterminado.
+FRANCISCA: Na parte anterior fechamos as modalidades de extinção. Agora o aviso prévio, que aparece em quase todas elas. É a comunicação antecipada da intenção de romper um contrato por prazo indeterminado.
 THALITA: E esse aviso vale para os dois lados?
 FRANCISCA: Sim. O aviso é bilateral: o empregador avisa o empregado, e o empregado também deve avisar ao pedir demissão. O artigo quatrocentos e oitenta e sete da CLT trata do prazo, mas o texto antigo ficou desatualizado.
-BRUNO: Cuidado, porque a FCC gosta de cobrar o texto da CLT desatualizado. O inciso primeiro fala em oito dias para quem recebe por semana. Esse inciso não foi recepcionado. O artigo sétimo, inciso vinte e um, da Constituição, fixa aviso mínimo de trinta dias para qualquer empregado.
-THALITA: Então o mínimo é sempre trinta dias.
-ANTONIO: Isso. E a Lei doze mil quinhentos e seis, de dois mil e onze, criou a proporcionalidade. O aviso é de trinta dias para quem tem até um ano de serviço na mesma empresa, e a esse prazo se acrescentam três dias por ano de serviço, até o máximo de sessenta dias, totalizando noventa.
+THALITA: Cuidado, porque a FCC gosta de cobrar o texto da CLT desatualizado. O inciso primeiro fala em oito dias para quem recebe por semana. Esse inciso não foi recepcionado. O artigo sétimo, inciso vinte e um, da Constituição, fixa aviso mínimo de trinta dias para qualquer empregado.
+FRANCISCA: Então o mínimo é sempre trinta dias.
+THALITA: Isso. E a Lei doze mil quinhentos e seis, de dois mil e onze, criou a proporcionalidade. O aviso é de trinta dias para quem tem até um ano de serviço na mesma empresa, e a esse prazo se acrescentam três dias por ano de serviço, até o máximo de sessenta dias, totalizando noventa.
 FRANCISCA: O acréscimo é de três dias por ano completo. Fração não conta. E o teto do acréscimo, sessenta dias, é atingido com vinte anos de serviço. Por isso o aviso máximo é de noventa dias.
 THALITA: Vou tentar a tabela. Menos de um ano, trinta dias. Um ano, trinta e três. Cinco anos, quarenta e cinco. Dez anos, sessenta. Vinte anos, noventa.
-BRUNO: Certo, e a FCC adora o caso de quatro anos e onze meses. A fração não conta, então são quatro anos completos: trinta mais doze, quarenta e dois dias. Não se arredonda para cinco anos.
-FRANCISCA: Outro ponto: a lei regulamenta direito dos trabalhadores, previsto no artigo sétimo, inciso vinte e um. Por isso o TST entende que a proporcionalidade não se aplica ao aviso que o empregado deve ao empregador. Esse continua de trinta dias.
-BRUNO: A apostila dá o exemplo de um empregado chamado Bruno, com sete anos e oito meses. Dispensado sem justa causa: trinta mais sete vezes três, cinquenta e um dias. Se fosse ele quem pedisse demissão, daria apenas trinta dias.
+FRANCISCA: Certo, e a FCC adora o caso de quatro anos e onze meses. A fração não conta, então são quatro anos completos: trinta mais doze, quarenta e dois dias. Não se arredonda para cinco anos.
+THALITA: Outro ponto: a lei regulamenta direito dos trabalhadores, previsto no artigo sétimo, inciso vinte e um. Por isso o TST entende que a proporcionalidade não se aplica ao aviso que o empregado deve ao empregador. Esse continua de trinta dias.
+FRANCISCA: A apostila dá o exemplo de um empregado chamado Bruno, com sete anos e oito meses. Dispensado sem justa causa: trinta mais sete vezes três, cinquenta e um dias. Se fosse ele quem pedisse demissão, daria apenas trinta dias.
 THALITA: Isso vale para todos os contratos?
-ANTONIO: Pela Súmula quatrocentos e quarenta e um do TST, só para rescisões a partir de treze de outubro de dois mil e onze. A lei não retroage.
-
+FRANCISCA: Pela Súmula quatrocentos e quarenta e um do TST, só para rescisões a partir de treze de outubro de dois mil e onze. A lei não retroage.
 == SLIDE: Artigo 487: o que acontece sem aviso
 * §1º: falta de aviso do empregador = salários do prazo + integração ao tempo de serviço
 * §2º: falta de aviso do empregado = desconto dos salários
 * §3º: salário por tarefa: média dos últimos 12 meses
 * §4º: aviso devido na despedida indireta
 * §5º e §6º: horas extras habituais integram; reajuste coletivo beneficia
-BRUNO: Vamos percorrer os parágrafos do artigo quatrocentos e oitenta e sete, que a prova adora. O parágrafo primeiro trata da falta de aviso pelo empregador.
+THALITA: Vamos percorrer os parágrafos do artigo quatrocentos e oitenta e sete, que a prova adora. O parágrafo primeiro trata da falta de aviso pelo empregador.
 FRANCISCA: Nesse caso, o empregado tem direito aos salários correspondentes ao prazo do aviso, e esse período integra o tempo de serviço. É o aviso indenizado, com projeção do contrato.
 THALITA: E se for o empregado que não avisa?
-BRUNO: Parágrafo segundo: o empregador pode descontar os salários correspondentes ao prazo. Foi o caso da Ana, no exemplo anterior. Mas lembre: o desconto é de no máximo trinta dias, porque a proporcionalidade não vale contra o empregado.
-FRANCISCA: Parágrafo terceiro: no salário por tarefa, calcula-se a média dos últimos doze meses de serviço. O parágrafo quarto diz que o aviso prévio é devido também na despedida indireta.
-THALITA: Despedida indireta é aquela em que o empregado é quem acusa o patrão de falta grave, certo?
-FRANCISCA: Exatamente. E mesmo ali o aviso é devido, porque a culpa é do empregador.
-ANTONIO: O parágrafo quinto determina que horas extras habituais integram o aviso indenizado. E o sexto: um reajuste coletivo concedido no curso do aviso beneficia o empregado pré-avisado, mesmo que ele tenha recebido antecipadamente os salários do período.
-BRUNO: Dica de prova: se aparecer reajuste coletivo no curso do aviso, a resposta é que o empregado é beneficiado. Não importa se o patrão já pagou tudo adiantado.
-THALITA: Resumindo os parágrafos: primeiro é falta do patrão, paga; segundo é falta do empregado, desconta; terceiro, tarefa e média; quarto, indireta tem aviso; quinto, horas extras; sexto, reajuste vale.
-ANTONIO: Excelente resumo. Guarde esse roteiro de parágrafos.
-
+FRANCISCA: Parágrafo segundo: o empregador pode descontar os salários correspondentes ao prazo. Foi o caso da Ana, no exemplo anterior. Mas lembre: o desconto é de no máximo trinta dias, porque a proporcionalidade não vale contra o empregado.
+THALITA: Parágrafo terceiro: no salário por tarefa, calcula-se a média dos últimos doze meses de serviço. O parágrafo quarto diz que o aviso prévio é devido também na despedida indireta.
+FRANCISCA: Despedida indireta é aquela em que o empregado é quem acusa o patrão de falta grave, certo?
+THALITA: Exatamente. E mesmo ali o aviso é devido, porque a culpa é do empregador.
+FRANCISCA: O parágrafo quinto determina que horas extras habituais integram o aviso indenizado. E o sexto: um reajuste coletivo concedido no curso do aviso beneficia o empregado pré-avisado, mesmo que ele tenha recebido antecipadamente os salários do período.
+THALITA: Dica de prova: se aparecer reajuste coletivo no curso do aviso, a resposta é que o empregado é beneficiado. Não importa se o patrão já pagou tudo adiantado.
+FRANCISCA: Resumindo os parágrafos: primeiro é falta do patrão, paga; segundo é falta do empregado, desconta; terceiro, tarefa e média; quarto, indireta tem aviso; quinto, horas extras; sexto, reajuste vale.
+THALITA: Excelente resumo. Guarde esse roteiro de parágrafos.
 == SLIDE: Redução da jornada no aviso: duas horas ou sete dias
 * Art. 488: aviso dado pelo empregador reduz a jornada em 2 horas diárias
 * Sem prejuízo do salário integral
 * Alternativa do empregado: faltar 7 dias corridos
 * Escolha é do empregado; no pedido de demissão não há redução
 * Trabalho rural: 1 dia por semana (Lei 5.889/1973, art. 15)
-BRUNO: O artigo quatrocentos e oitenta e oito trata da redução de jornada durante o aviso. Se a rescisão foi promovida pelo empregador, o horário normal é reduzido de duas horas diárias, sem prejuízo do salário integral.
-FRANCISCA: A finalidade é permitir que o empregado procure um novo emprego. Por isso a redução só existe quando o empregador dá o aviso. No pedido de demissão, o empregado não tem direito a ela.
-THALITA: E se o empregado preferir trabalhar o dia todo?
-FRANCISCA: O parágrafo único permite que o empregado trabalhe sem a redução das duas horas diárias e, em troca, falte ao serviço por sete dias corridos, sem prejuízo do salário integral. Na redação original havia também um dia para quem recebe por semana, hipótese do inciso primeiro do artigo quatrocentos e oitenta e sete.
-BRUNO: E quem escolhe? O empregado! A pegadinha é dizer que o empregador decide se vai ser duas horas ou sete dias. Errado. A escolha é do empregado.
+FRANCISCA: O artigo quatrocentos e oitenta e oito trata da redução de jornada durante o aviso. Se a rescisão foi promovida pelo empregador, o horário normal é reduzido de duas horas diárias, sem prejuízo do salário integral.
+THALITA: A finalidade é permitir que o empregado procure um novo emprego. Por isso a redução só existe quando o empregador dá o aviso. No pedido de demissão, o empregado não tem direito a ela.
+FRANCISCA: E se o empregado preferir trabalhar o dia todo?
+THALITA: O parágrafo único permite que o empregado trabalhe sem a redução das duas horas diárias e, em troca, falte ao serviço por sete dias corridos, sem prejuízo do salário integral. Na redação original havia também um dia para quem recebe por semana, hipótese do inciso primeiro do artigo quatrocentos e oitenta e sete.
+FRANCISCA: E quem escolhe? O empregado! A pegadinha é dizer que o empregador decide se vai ser duas horas ou sete dias. Errado. A escolha é do empregado.
 THALITA: E no campo?
 FRANCISCA: No trabalho rural, a regra é de um dia por semana, conforme o artigo quinze da Lei cinco mil oitocentos e oitenta e nove, de mil novecentos e setenta e três.
-ANTONIO: Agora a reconsideração, artigo quatrocentos e oitenta e nove. Dado o aviso, a rescisão se efetiva depois de expirado o prazo. Mas, se quem deu o aviso reconsiderar antes do termo, a outra parte pode aceitar ou não.
-THALITA: Se o patrão se arrepender, o empregado pode dizer que não aceita?
-BRUNO: Pode! A reconsideração é ato bilateral. Depende de aceitação da outra parte, que pode ser expressa ou tácita. Se a reconsideração é aceita, ou se a prestação continua depois de expirado o prazo, o contrato continua como se o aviso nunca tivesse sido dado.
+THALITA: Agora a reconsideração, artigo quatrocentos e oitenta e nove. Dado o aviso, a rescisão se efetiva depois de expirado o prazo. Mas, se quem deu o aviso reconsiderar antes do termo, a outra parte pode aceitar ou não.
+FRANCISCA: Se o patrão se arrepender, o empregado pode dizer que não aceita?
+THALITA: Pode! A reconsideração é ato bilateral. Depende de aceitação da outra parte, que pode ser expressa ou tácita. Se a reconsideração é aceita, ou se a prestação continua depois de expirado o prazo, o contrato continua como se o aviso nunca tivesse sido dado.
 FRANCISCA: Isso mesmo: continuar trabalhando depois do prazo é aceitação tácita.
 THALITA: Macete: reconsiderar é uma mão que precisa de duas: quem desiste e quem aceita.
-
 == SLIDE: Justa causa no curso do aviso e a jurisprudência
 * Art. 490: falta do empregador = paga o restante do aviso + indenizações
 * Art. 491: falta do empregado = perde o restante do aviso
 * Súmula 73: perde as verbas indenizatórias, salvo abandono de emprego
 * Súmula 230: substituir a redução da jornada por pagamento é ilegal
 * Súmula 276: irrenunciável, salvo novo emprego
-ANTONIO: Os artigos quatrocentos e noventa e quatrocentos e noventa e um tratam da justa causa no curso do aviso. Se o empregador pratica ato que justifique a rescisão imediata, deve pagar a remuneração correspondente ao prazo do aviso, sem prejuízo da indenização devida.
-FRANCISCA: E se o empregado comete falta grave durante o aviso, perde o direito ao restante do prazo. A justa causa no curso do aviso transforma a natureza da extinção.
-BRUNO: Atenção à Súmula setenta e três do TST. Justa causa no curso do aviso dado pelo empregador retira do empregado o direito às verbas rescisórias de natureza indenizatória, salvo abandono de emprego. A pegadinha é a exceção: o abandono.
+FRANCISCA: Os artigos quatrocentos e noventa e quatrocentos e noventa e um tratam da justa causa no curso do aviso. Se o empregador pratica ato que justifique a rescisão imediata, deve pagar a remuneração correspondente ao prazo do aviso, sem prejuízo da indenização devida.
+THALITA: E se o empregado comete falta grave durante o aviso, perde o direito ao restante do prazo. A justa causa no curso do aviso transforma a natureza da extinção.
+FRANCISCA: Atenção à Súmula setenta e três do TST. Justa causa no curso do aviso dado pelo empregador retira do empregado o direito às verbas rescisórias de natureza indenizatória, salvo abandono de emprego. A pegadinha é a exceção: o abandono.
 THALITA: Mas por que abandono é exceção, se é uma falta grave também?
 FRANCISCA: Porque não faz sentido abandonar um emprego que já está acabando; o raciocínio da súmula é que, nessa hipótese, as verbas indenizatórias são mantidas. O que importa para a prova é decorar a exceção.
-ANTONIO: A Súmula duzentos e trinta diz que é ilegal substituir o período de redução da jornada pelo pagamento das horas correspondentes.
-BRUNO: A apostila traz o exemplo da Carla. Aviso trabalhado dado em dois de março. A contagem começa em três de março, pela Súmula trezentos e oitenta. Ela opta por sair duas horas mais cedo, mas a empresa paga duas horas extras e mantém a jornada cheia. O aviso é nulo, e a empresa deve conceder novo aviso ou pagá-lo.
+THALITA: A Súmula duzentos e trinta diz que é ilegal substituir o período de redução da jornada pelo pagamento das horas correspondentes.
+FRANCISCA: A apostila traz o exemplo da Carla. Aviso trabalhado dado em dois de março. A contagem começa em três de março, pela Súmula trezentos e oitenta. Ela opta por sair duas horas mais cedo, mas a empresa paga duas horas extras e mantém a jornada cheia. O aviso é nulo, e a empresa deve conceder novo aviso ou pagá-lo.
 THALITA: Pagar como hora extra não supre?
-BRUNO: Não supre. A redução tem que ser concedida de fato.
-ANTONIO: Súmula duzentos e setenta e seis: o aviso prévio é irrenunciável pelo empregado. O pedido de dispensa do cumprimento não exime o empregador de pagar, salvo prova de que o empregado obteve novo emprego.
-THALITA: Guardei: irrenunciável, mas a exceção é novo emprego.
-FRANCISCA: E a Súmula trezentos e quarenta e oito diz que é inválida a concessão do aviso prévio na fluência da garantia de emprego. Aviso e estabilidade são incompatíveis.
-
+FRANCISCA: Não supre. A redução tem que ser concedida de fato.
+THALITA: Súmula duzentos e setenta e seis: o aviso prévio é irrenunciável pelo empregado. O pedido de dispensa do cumprimento não exime o empregador de pagar, salvo prova de que o empregado obteve novo emprego.
+FRANCISCA: Guardei: irrenunciável, mas a exceção é novo emprego.
+THALITA: E a Súmula trezentos e quarenta e oito diz que é inválida a concessão do aviso prévio na fluência da garantia de emprego. Aviso e estabilidade são incompatíveis.
 == SLIDE: Projeção do aviso, comparações da FCC e resumo da aula
 * Súmula 371: projeção do aviso indenizado; auxílio-doença adia efeitos
 * OJ 82 e 83: data de saída na CTPS e prescrição após o aviso
 * Súmulas 380, 305, 369 V e 441
 * Gestante tem estabilidade; candidato sindical no aviso, não
 * Resumo: acordo, culpa recíproca, quadro mestre, aviso
-ANTONIO: Vamos fechar com a projeção do aviso. Pela Súmula trezentos e setenta e um, a projeção do aviso indenizado limita-se às vantagens econômicas: salários, reflexos e verbas rescisórias. Se houver auxílio-doença no curso do aviso, os efeitos da dispensa só ocorrem após o fim do benefício. Não gera estabilidade.
-FRANCISCA: A Orientação Jurisprudencial oitenta e dois da SDI-um diz que a data de saída na carteira deve corresponder ao término do aviso, ainda que indenizado. A de número oitenta e três diz que a prescrição começa a fluir no final da data do término do aviso. É a projeção.
-BRUNO: Outras súmulas: a trezentos e oitenta diz que a contagem exclui o dia do começo e inclui o do vencimento, ou seja, o dia da notificação não conta. A trezentos e cinco diz que o FGTS incide sobre o aviso, trabalhado ou indenizado. A Orientação catorze, sobre o prazo do aviso em casa, ficou superada: após a Reforma o prazo é sempre de dez dias.
+FRANCISCA: Vamos fechar com a projeção do aviso. Pela Súmula trezentos e setenta e um, a projeção do aviso indenizado limita-se às vantagens econômicas: salários, reflexos e verbas rescisórias. Se houver auxílio-doença no curso do aviso, os efeitos da dispensa só ocorrem após o fim do benefício. Não gera estabilidade.
+THALITA: A Orientação Jurisprudencial oitenta e dois da SDI-um diz que a data de saída na carteira deve corresponder ao término do aviso, ainda que indenizado. A de número oitenta e três diz que a prescrição começa a fluir no final da data do término do aviso. É a projeção.
+FRANCISCA: Outras súmulas: a trezentos e oitenta diz que a contagem exclui o dia do começo e inclui o do vencimento, ou seja, o dia da notificação não conta. A trezentos e cinco diz que o FGTS incide sobre o aviso, trabalhado ou indenizado. A Orientação catorze, sobre o prazo do aviso em casa, ficou superada: após a Reforma o prazo é sempre de dez dias.
 THALITA: Qual é a comparação que a FCC adora?
-BRUNO: A gestante, o dirigente sindical, o auxílio-doença e o acidente. A gestante que engravida no curso do aviso, trabalhado ou indenizado, tem estabilidade, pelo artigo trezentos e noventa e um A. O dirigente sindical que registra candidatura no curso do aviso, ainda que indenizado, não tem, Súmula trezentos e sessenta e nove, item cinco.
-FRANCISCA: E o acidente com afastamento superior a quinze dias e auxílio acidentário no curso do aviso gera a garantia do artigo cento e dezoito da Lei oito mil duzentos e treze. O auxílio-doença comum apenas adia os efeitos da dispensa.
-THALITA: Hora do resumo relâmpago do que mais cai na FCC. Primeiro, acordo: metade do aviso indenizado, multa de vinte por cento, saque de até oitenta, sem seguro-desemprego. Segundo, dispensa em massa pede intervenção sindical, mas não autorização, Tema seiscentos e trinta e oito. Terceiro, culpa recíproca: metade das proporcionais e do aviso, Súmula catorze. Quarto, prazo de dez dias para pagar, multa de um salário; e a multa de cinquenta por cento do artigo quatrocentos e sessenta e sete vale para a audiência. Quinto, aviso: trinta dias mais três por ano, teto de noventa, só para o empregado, e a escolha entre duas horas e sete dias é do empregado.
-BRUNO: Só um reforço: férias vencidas são devidas em todas as modalidades, até na justa causa.
-ANTONIO: É isso, pessoal. Bons estudos e até a próxima aula.
+FRANCISCA: A gestante, o dirigente sindical, o auxílio-doença e o acidente. A gestante que engravida no curso do aviso, trabalhado ou indenizado, tem estabilidade, pelo artigo trezentos e noventa e um A. O dirigente sindical que registra candidatura no curso do aviso, ainda que indenizado, não tem, Súmula trezentos e sessenta e nove, item cinco.
+THALITA: E o acidente com afastamento superior a quinze dias e auxílio acidentário no curso do aviso gera a garantia do artigo cento e dezoito da Lei oito mil duzentos e treze. O auxílio-doença comum apenas adia os efeitos da dispensa.
+FRANCISCA: Hora do resumo relâmpago do que mais cai na FCC. Primeiro, acordo: metade do aviso indenizado, multa de vinte por cento, saque de até oitenta, sem seguro-desemprego. Segundo, dispensa em massa pede intervenção sindical, mas não autorização, Tema seiscentos e trinta e oito. Terceiro, culpa recíproca: metade das proporcionais e do aviso, Súmula catorze. Quarto, prazo de dez dias para pagar, multa de um salário; e a multa de cinquenta por cento do artigo quatrocentos e sessenta e sete vale para a audiência. Quinto, aviso: trinta dias mais três por ano, teto de noventa, só para o empregado, e a escolha entre duas horas e sete dias é do empregado.
+THALITA: Só um reforço: férias vencidas são devidas em todas as modalidades, até na justa causa.
+FRANCISCA: É isso, pessoal. Bons estudos e até a próxima aula.

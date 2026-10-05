@@ -5,16 +5,14 @@ SEGMENTO s194
 * Reclamação escrita, no prazo decadencial de 30 dias da suspensão (art. 853; Súm. 403 STF)
 * Até 6 testemunhas por parte (art. 821); procedimento comum (art. 854)
 * Suspensão do empregado é facultativa (art. 494)
-ANTONIO: Olá, pessoal, bem-vindos à aula cinquenta e seis de Direito Processual do Trabalho, a segunda de três partes sobre audiência, provas, procedimentos e sentença. Hoje vamos ver o inquérito para apuração de falta grave, a ação rescisória, o mandado de segurança, a ação civil pública, a sentença com embargos de declaração e coisa julgada, e por fim liquidação e dissídios coletivos. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora, e trago a lei e a jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC, e aponto as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira, que pergunta e resume.
-ANTONIO: Começamos pelo inquérito para apuração de falta grave. É a ação proposta pelo empregador para obter autorização judicial de dispensa por justa causa de empregado com estabilidade que exige apuração judicial.
+FRANCISCA: Olá, pessoal, bem-vindos à aula cinquenta e seis de Direito Processual do Trabalho, a segunda de três partes sobre audiência, provas, procedimentos e sentença. Hoje vamos ver o inquérito para apuração de falta grave, a ação rescisória, o mandado de segurança, a ação civil pública, a sentença com embargos de declaração e coisa julgada, e por fim liquidação e dissídios coletivos. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começamos pelo inquérito para apuração de falta grave. É a ação proposta pelo empregador para obter autorização judicial de dispensa por justa causa de empregado com estabilidade que exige apuração judicial.
 THALITA: Então o autor é o empregador? Parece o mundo ao contrário.
 FRANCISCA: Isso mesmo, o inquérito inverte os polos: o empregador é o autor. E a reclamação deve ser escrita, obrigatoriamente, não cabe forma verbal. É o artigo oitocentos e cinquenta e três.
-BRUNO: O prazo é a pegadinha número um. São trinta dias, contados da suspensão do empregado, e é prazo decadencial. A Súmula quatrocentos e três do Supremo diz isso expressamente. Se a banca falar em prescrição ou em prazo de cento e vinte dias, que é o do mandado de segurança, está errado.
-THALITA: E a suspensão é obrigatória?
-ANTONIO: Não, é faculdade do empregador, artigo quatrocentos e noventa e quatro: o empregado poderá ser suspenso. Mas, se houver a suspensão, ela inicia o prazo de trinta dias e perdura até a decisão final. O procedimento é o comum dos dissídios individuais, artigo oitocentos e cinquenta e quatro, e cada parte pode ouvir até seis testemunhas, artigo oitocentos e vinte e um.
+THALITA: O prazo é a pegadinha número um. São trinta dias, contados da suspensão do empregado, e é prazo decadencial. A Súmula quatrocentos e três do Supremo diz isso expressamente. Se a banca falar em prescrição ou em prazo de cento e vinte dias, que é o do mandado de segurança, está errado.
+FRANCISCA: E a suspensão é obrigatória?
+THALITA: Não, é faculdade do empregador, artigo quatrocentos e noventa e quatro: o empregado poderá ser suspenso. Mas, se houver a suspensão, ela inicia o prazo de trinta dias e perdura até a decisão final. O procedimento é o comum dos dissídios individuais, artigo oitocentos e cinquenta e quatro, e cada parte pode ouvir até seis testemunhas, artigo oitocentos e vinte e um.
 FRANCISCA: Vale lembrar a Súmula sessenta e dois do TST: no abandono de emprego, o prazo decadencial conta-se do momento em que o empregado pretendeu retornar ao serviço.
 THALITA: Então fica assim: empregador é o autor, petição escrita, trinta dias da suspensão com prazo decadencial, até seis testemunhas, e a suspensão é uma faculdade. Se o prazo passar, o empregador perde o direito de pedir a justa causa naquela falta.
 == SLIDE: Inquérito: efeitos, estabilidades e exemplo
@@ -23,27 +21,27 @@ THALITA: Então fica assim: empregador é o autor, petição escrita, trinta dia
 * Exigem inquérito: estável decenal (art. 492), dirigente sindical (Súm. 379), representante no CNPS
 * Não exigem: gestante, cipeiro e acidentado
 * Exemplo: suspensão em 2 de março, prazo até 1º de abril
-BRUNO: Os efeitos. Se o inquérito for procedente, o contrato se rescinde por justa causa, desde a suspensão, artigos quatrocentos e noventa e quatro e oitocentos e cinquenta e três. Se for improcedente, o empregado é readmitido e recebe os salários do período de suspensão, artigo quatrocentos e noventa e cinco.
+FRANCISCA: Os efeitos. Se o inquérito for procedente, o contrato se rescinde por justa causa, desde a suspensão, artigos quatrocentos e noventa e quatro e oitocentos e cinquenta e três. Se for improcedente, o empregado é readmitido e recebe os salários do período de suspensão, artigo quatrocentos e noventa e cinco.
 THALITA: E se a volta for impossível por causa do clima na empresa?
-ANTONIO: O juiz pode converter a reintegração em indenização, em dobro no caso do estável decenal, artigo quatrocentos e noventa e seis, quando a reintegração for desaconselhável por incompatibilidade.
-FRANCISCA: Quem precisa de inquérito? O estável decenal, do artigo quatrocentos e noventa e dois, situação residual anterior à Constituição de mil novecentos e oitenta e oito. O dirigente sindical, Súmula trezentos e setenta e nove, artigo quinhentos e quarenta e três, parágrafo terceiro, e artigo oitavo, inciso oitavo, da Constituição. E o representante dos trabalhadores no CNPS, porque a lei exige processo judicial.
-BRUNO: E quem não precisa: gestante, cipeiro e acidentado. A justa causa pode ser aplicada diretamente e discutida depois em reclamação do empregado. A apostila alerta que há debate sobre dirigentes de cooperativa de empregados, então confira o rol se a questão pedir. Para prova objetiva, os casos clássicos são o decenal e o dirigente sindical.
+FRANCISCA: O juiz pode converter a reintegração em indenização, em dobro no caso do estável decenal, artigo quatrocentos e noventa e seis, quando a reintegração for desaconselhável por incompatibilidade.
+THALITA: Quem precisa de inquérito? O estável decenal, do artigo quatrocentos e noventa e dois, situação residual anterior à Constituição de mil novecentos e oitenta e oito. O dirigente sindical, Súmula trezentos e setenta e nove, artigo quinhentos e quarenta e três, parágrafo terceiro, e artigo oitavo, inciso oitavo, da Constituição. E o representante dos trabalhadores no CNPS, porque a lei exige processo judicial.
+FRANCISCA: E quem não precisa: gestante, cipeiro e acidentado. A justa causa pode ser aplicada diretamente e discutida depois em reclamação do empregado. A apostila alerta que há debate sobre dirigentes de cooperativa de empregados, então confira o rol se a questão pedir. Para prova objetiva, os casos clássicos são o decenal e o dirigente sindical.
 THALITA: Dá um exemplo?
-ANTONIO: O Márcio, dirigente sindical da Alfa Ltda., foi suspenso em dois de março por suposta agressão a um colega. A empresa deve ajuizar o inquérito por escrito até primeiro de abril. Se ajuizar depois, há decadência: perde o direito de obter a resolução por aquela falta, e o Márcio deve ser reintegrado com os salários do período.
-FRANCISCA: As custas, na falta de regra específica, seguem a regra geral de dois por cento, mas a apostila manda conferir.
+FRANCISCA: O Márcio, dirigente sindical da Alfa Ltda., foi suspenso em dois de março por suposta agressão a um colega. A empresa deve ajuizar o inquérito por escrito até primeiro de abril. Se ajuizar depois, há decadência: perde o direito de obter a resolução por aquela falta, e o Márcio deve ser reintegrado com os salários do período.
+THALITA: As custas, na falta de regra específica, seguem a regra geral de dois por cento, mas a apostila manda conferir.
 == SLIDE: Ação rescisória: depósito, prazo e competência
 * Ação autônoma contra decisão de mérito transitada em julgado (art. 836 CLT; arts. 966 a 975 CPC)
 * Depósito prévio de 20% do valor da causa, salvo miserabilidade; reverte ao réu se improcedente
 * Prazo decadencial de 2 anos do trânsito em julgado da última decisão (Súm. 100, I)
 * Competência: TRT ou TST, conforme quem examinou o mérito por último (Súm. 192)
 * Exige advogado (Súm. 425); recurso ordinário ao TST (art. 895, II)
-BRUNO: Passamos à ação rescisória. É ação autônoma para desconstituir decisão de mérito transitada em julgado, nas hipóteses do artigo novecentos e sessenta e seis do CPC, aplicado por remissão do artigo oitocentos e trinta e seis da CLT.
+FRANCISCA: Passamos à ação rescisória. É ação autônoma para desconstituir decisão de mérito transitada em julgado, nas hipóteses do artigo novecentos e sessenta e seis do CPC, aplicado por remissão do artigo oitocentos e trinta e seis da CLT.
 THALITA: E o que mais cai nela?
-ANTONIO: O trio da FCC: depósito de vinte por cento, prazo de dois anos e termo de conciliação. O depósito prévio é de vinte por cento do valor da causa, quatro vezes o do CPC, que é de cinco por cento. Está dispensado em caso de miserabilidade jurídica, e também para entes públicos, Ministério Público e beneficiários da gratuidade.
-FRANCISCA: O valor depositado reverte ao réu, como multa, se a ação for julgada, por unanimidade, inadmissível ou improcedente, artigo novecentos e setenta e quatro, parágrafo único, do CPC. A remissão ao CPC de mil novecentos e setenta e três deve ser lida como feita aos artigos novecentos e sessenta e seis a novecentos e setenta e cinco do atual.
-BRUNO: O prazo é decadencial de dois anos, contado do trânsito em julgado da última decisão, Súmula cem, inciso primeiro. Se vencer em dia sem expediente, prorroga-se para o primeiro dia útil, inciso nono. Cuidado para não confundir com os cento e vinte dias do mandado de segurança.
+FRANCISCA: O trio da FCC: depósito de vinte por cento, prazo de dois anos e termo de conciliação. O depósito prévio é de vinte por cento do valor da causa, quatro vezes o do CPC, que é de cinco por cento. Está dispensado em caso de miserabilidade jurídica, e também para entes públicos, Ministério Público e beneficiários da gratuidade.
+THALITA: O valor depositado reverte ao réu, como multa, se a ação for julgada, por unanimidade, inadmissível ou improcedente, artigo novecentos e setenta e quatro, parágrafo único, do CPC. A remissão ao CPC de mil novecentos e setenta e três deve ser lida como feita aos artigos novecentos e sessenta e seis a novecentos e setenta e cinco do atual.
+FRANCISCA: O prazo é decadencial de dois anos, contado do trânsito em julgado da última decisão, Súmula cem, inciso primeiro. Se vencer em dia sem expediente, prorroga-se para o primeiro dia útil, inciso nono. Cuidado para não confundir com os cento e vinte dias do mandado de segurança.
 THALITA: E quem julga?
-ANTONIO: Os TRTs ou o TST, conforme a decisão que examinou o mérito por último, Súmula cento e noventa e dois. Não há jus postulandi: exige advogado, Súmula quatrocentos e vinte e cinco. Da decisão do TRT cabe recurso ordinário ao TST, artigo oitocentos e noventa e cinco, inciso segundo.
+FRANCISCA: Os TRTs ou o TST, conforme a decisão que examinou o mérito por último, Súmula cento e noventa e dois. Não há jus postulandi: exige advogado, Súmula quatrocentos e vinte e cinco. Da decisão do TRT cabe recurso ordinário ao TST, artigo oitocentos e noventa e cinco, inciso segundo.
 THALITA: Vou resumir assim: depósito de vinte por cento, quatro vezes o do CPC; prazo de dois anos, e não de cento e vinte dias; e sempre com advogado. Se o depósito for dispensado, é por miserabilidade, ente público, Ministério Público ou gratuidade. Se a ação for julgada improcedente por unanimidade, o valor vai para o réu. Anotado.
 == SLIDE: Hipóteses de rescindibilidade (art. 966 CPC)
 * Prevaricação, concussão ou corrupção do juiz; juiz impedido ou juízo absolutamente incompetente
@@ -51,38 +49,38 @@ THALITA: Vou resumir assim: depósito de vinte por cento, quatro vezes o do CPC;
 * Violação manifesta de norma jurídica; prova falsa; prova nova; erro de fato
 * Suspeição e incompetência relativa não autorizam rescisão
 FRANCISCA: Quais as hipóteses de rescindibilidade? Primeira: prevaricação, concussão ou corrupção do juiz. Segunda: juiz impedido ou juízo absolutamente incompetente.
-BRUNO: A segunda tem pegadinha clássica: suspeição e incompetência relativa não autorizam a rescisória. Só o impedimento e a incompetência absoluta.
-THALITA: Entendi. Terceira?
-ANTONIO: Dolo ou coação da parte vencedora, ou simulação ou colusão entre as partes para fraudar a lei. A quarta é a ofensa à coisa julgada. A quinta, violação manifesta de norma jurídica.
+THALITA: A segunda tem pegadinha clássica: suspeição e incompetência relativa não autorizam a rescisória. Só o impedimento e a incompetência absoluta.
+FRANCISCA: Entendi. Terceira?
+THALITA: Dolo ou coação da parte vencedora, ou simulação ou colusão entre as partes para fraudar a lei. A quarta é a ofensa à coisa julgada. A quinta, violação manifesta de norma jurídica.
 FRANCISCA: A sexta, prova falsa, apurada em processo criminal ou na própria rescisória. A sétima, prova nova, obtida depois do trânsito, cuja existência o autor ignorava ou de que não pôde fazer uso, e que seja capaz, por si só, de assegurar resultado favorável.
-BRUNO: A oitava, erro de fato verificável do exame dos autos.
-THALITA: Eu faço uma lista curta: juiz corrupto ou impedido, fraude da parte, coisa julgada ofendida, lei violada de forma manifesta, prova falsa ou nova, e erro de fato.
-ANTONIO: Boa. Só lembrando que a violação à norma tem de ser manifesta.
+THALITA: A oitava, erro de fato verificável do exame dos autos.
+FRANCISCA: Eu faço uma lista curta: juiz corrupto ou impedido, fraude da parte, coisa julgada ofendida, lei violada de forma manifesta, prova falsa ou nova, e erro de fato.
+THALITA: Boa. Só lembrando que a violação à norma tem de ser manifesta.
 == SLIDE: Súmulas do TST sobre ação rescisória (I)
 * Súm. 83: não cabe se a decisão se apoiou em texto de interpretação controvertida
 * Súm. 100: prazo da última decisão; acordo transita na homologação; colusão: ciência da fraude
 * Súm. 192: TST não conheceu da revista: TRT; examinou o mérito: TST
 * Súm. 259: termo de conciliação só por rescisória
 * Súm. 298: exige pronunciamento explícito sobre a matéria
-BRUNO: Vamos às súmulas do TST sobre rescisória, as mais cobradas. A oitenta e três: não procede rescisória por violação de lei se a decisão se baseou em texto infraconstitucional de interpretação controvertida nos tribunais. O marco é a data de inclusão da matéria em orientação jurisprudencial do TST.
+FRANCISCA: Vamos às súmulas do TST sobre rescisória, as mais cobradas. A oitenta e três: não procede rescisória por violação de lei se a decisão se baseou em texto infraconstitucional de interpretação controvertida nos tribunais. O marco é a data de inclusão da matéria em orientação jurisprudencial do TST.
 THALITA: E a cem, que parece grande.
-ANTONIO: É grande. O prazo conta-se do dia seguinte ao trânsito em julgado da última decisão, de mérito ou não. Recurso intempestivo ou incabível não adia o termo inicial, salvo dúvida razoável. O acordo homologado transita em julgado na data da homologação. E, na colusão, o prazo para o Ministério Público do Trabalho que não interveio corre da ciência da fraude.
-FRANCISCA: A cento e noventa e dois: se o TST não conheceu da revista ou dos embargos, a rescisória é do TRT, salvo se, ao não conhecer, o TST examinou o mérito. Aí é do TST. E a duzentos e cinquenta e nove: só por ação rescisória é impugnável o termo de conciliação.
-BRUNO: Pegadinha: ninguém ataca o termo de acordo com recurso ordinário, mandado de segurança ou ação anulatória. É rescisória. A única exceção é a Previdência, que pode recorrer quanto às contribuições, artigo oitocentos e trinta e um, parágrafo único.
+FRANCISCA: É grande. O prazo conta-se do dia seguinte ao trânsito em julgado da última decisão, de mérito ou não. Recurso intempestivo ou incabível não adia o termo inicial, salvo dúvida razoável. O acordo homologado transita em julgado na data da homologação. E, na colusão, o prazo para o Ministério Público do Trabalho que não interveio corre da ciência da fraude.
+THALITA: A cento e noventa e dois: se o TST não conheceu da revista ou dos embargos, a rescisória é do TRT, salvo se, ao não conhecer, o TST examinou o mérito. Aí é do TST. E a duzentos e cinquenta e nove: só por ação rescisória é impugnável o termo de conciliação.
+FRANCISCA: Pegadinha: ninguém ataca o termo de acordo com recurso ordinário, mandado de segurança ou ação anulatória. É rescisória. A única exceção é a Previdência, que pode recorrer quanto às contribuições, artigo oitocentos e trinta e um, parágrafo único.
 THALITA: E a duzentos e noventa e oito?
-ANTONIO: A rescisória por violação de norma exige pronunciamento explícito da decisão rescindenda sobre a matéria, o prequestionamento, dispensado quando o vício nasce no próprio julgamento.
+FRANCISCA: A rescisória por violação de norma exige pronunciamento explícito da decisão rescindenda sobre a matéria, o prequestionamento, dispensado quando o vício nasce no próprio julgamento.
 == SLIDE: Súmulas do TST sobre ação rescisória (II) e exemplo
 * Súm. 299: prova do trânsito em julgado; 15 dias para suprir; sem rescisória preventiva
 * Súm. 397, 399, 400, 411 e 412
 * Combinação da FCC: depósito de 20%, prazo de 2 anos, termo de conciliação por rescisória
 * Exemplo: acordo homologado em 10/03/2024; prazo até 10/03/2026; depósito de R$ 16.000,00
-FRANCISCA: A duzentos e noventa e nove: é indispensável a prova do trânsito em julgado da decisão rescindenda. Se não for juntada, o relator concede quinze dias para suprir. E não se admite rescisória preventiva.
-BRUNO: A trezentos e noventa e sete: não cabe rescisória por ofensa à coisa julgada de decisão em ação de cumprimento cuja sentença normativa foi depois modificada, porque o dissídio coletivo faz coisa julgada formal. O meio é exceção de pré-executividade ou mandado de segurança.
+THALITA: A duzentos e noventa e nove: é indispensável a prova do trânsito em julgado da decisão rescindenda. Se não for juntada, o relator concede quinze dias para suprir. E não se admite rescisória preventiva.
+FRANCISCA: A trezentos e noventa e sete: não cabe rescisória por ofensa à coisa julgada de decisão em ação de cumprimento cuja sentença normativa foi depois modificada, porque o dissídio coletivo faz coisa julgada formal. O meio é exceção de pré-executividade ou mandado de segurança.
 THALITA: A trezentos e noventa e nove?
-ANTONIO: Não cabe rescisória contra homologação de adjudicação ou arrematação. A homologação de cálculos só é rescindível se enfrentar as questões da conta. A quatrocentos: em rescisória de rescisória, o vício deve nascer na decisão rescindenda, e não se rediscute o acerto da rescisória anterior.
-FRANCISCA: A quatrocentos e onze: decisão de TRT que, em agravo, confirma o indeferimento monocrático da inicial com base na Súmula oitenta e três aprecia o mérito da rescisória. Redação parafraseada na apostila, então confira o texto oficial se a questão for literal. E a quatrocentos e doze: questão processual pode ser objeto de rescisão desde que seja pressuposto de validade de uma sentença de mérito.
-BRUNO: Resumindo a combinação preferida da FCC: depósito de vinte por cento e não cinco, dois anos e não cento e vinte dias, termo de conciliação resolve por rescisória.
+FRANCISCA: Não cabe rescisória contra homologação de adjudicação ou arrematação. A homologação de cálculos só é rescindível se enfrentar as questões da conta. A quatrocentos: em rescisória de rescisória, o vício deve nascer na decisão rescindenda, e não se rediscute o acerto da rescisória anterior.
+THALITA: A quatrocentos e onze: decisão de TRT que, em agravo, confirma o indeferimento monocrático da inicial com base na Súmula oitenta e três aprecia o mérito da rescisória. Redação parafraseada na apostila, então confira o texto oficial se a questão for literal. E a quatrocentos e doze: questão processual pode ser objeto de rescisão desde que seja pressuposto de validade de uma sentença de mérito.
+FRANCISCA: Resumindo a combinação preferida da FCC: depósito de vinte por cento e não cinco, dois anos e não cento e vinte dias, termo de conciliação resolve por rescisória.
 THALITA: Dá um exemplo de prazo?
-ANTONIO: A Tereza celebrou acordo homologado em dez de março de dois mil e vinte e quatro. Pela Súmula cem, inciso quinto, o trânsito é na homologação, e os dois anos vão até dez de março de dois mil e vinte e seis. Se a causa vale oitenta mil reais, o depósito é de dezesseis mil, salvo miserabilidade.
+FRANCISCA: A Tereza celebrou acordo homologado em dez de março de dois mil e vinte e quatro. Pela Súmula cem, inciso quinto, o trânsito é na homologação, e os dois anos vão até dez de março de dois mil e vinte e seis. Se a causa vale oitenta mil reais, o depósito é de dezesseis mil, salvo miserabilidade.
 THALITA: Vinte por cento de oitenta mil é dezesseis mil. Entendi.
 FRANCISCA: Na sequência, vamos ver o mandado de segurança e a ação civil pública na Justiça do Trabalho.

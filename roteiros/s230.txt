@@ -4,65 +4,63 @@ SEGMENTO s230
 * Emenda em 15 dias (art. 321)
 * Valor da causa: cumulados somam; alternativos, o maior; subsidiários, o principal
 * Indeferimento (art. 330): vício formal; improcedência liminar (art. 332): mérito
-ANTONIO: Boa tarde, bem-vindos à aula sessenta e oito do curso, de Direito Processual Civil, parte dois: conhecimento, cumprimento e execução. Hoje veremos petição inicial e resposta do réu, julgamento conforme o estado do processo e tutela provisória, depois provas, sentença e coisa julgada, liquidação e cumprimento, execução, e questões comentadas. Eu sou o Antônio, professor.
-FRANCISCA: Sou a Francisca, professora, e trago a lei, a jurisprudência e os exemplos.
-BRUNO: Sou o Bruno, especialista em FCC, e aponto as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira, e pergunto o que você perguntaria.
-ANTONIO: Começando pela petição inicial. Pelo artigo trezentos e dezenove, ela indica o juízo, a qualificação das partes, com CPF ou CNPJ e e-mail, os fatos e fundamentos, o pedido, o valor da causa, as provas e a opção pela audiência de conciliação. Documentos indispensáveis acompanham a inicial, artigo trezentos e vinte.
+FRANCISCA: Boa tarde, bem-vindos à aula sessenta e oito do curso, de Direito Processual Civil, parte dois: conhecimento, cumprimento e execução. Hoje veremos petição inicial e resposta do réu, julgamento conforme o estado do processo e tutela provisória, depois provas, sentença e coisa julgada, liquidação e cumprimento, execução, e questões comentadas. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começando pela petição inicial. Pelo artigo trezentos e dezenove, ela indica o juízo, a qualificação das partes, com CPF ou CNPJ e e-mail, os fatos e fundamentos, o pedido, o valor da causa, as provas e a opção pela audiência de conciliação. Documentos indispensáveis acompanham a inicial, artigo trezentos e vinte.
 THALITA: E se faltar algo? O juiz já indefere?
 FRANCISCA: Não. Antes ele manda emendar em quinze dias, indicando com precisão o vício, artigo trezentos e vinte e um. Só depois, se não houver emenda, indefere.
-BRUNO: Valor da causa também cai. Cobrança é principal mais acessórios vencidos; alimentos, doze prestações; dano moral, o valor pretendido; pedidos cumulados, a soma; alternativos, o maior; subsidiários, o principal. E o juiz corrige de ofício.
-THALITA: Soma, maior, principal: cumulados, alternativos, subsidiários. Ficou fácil.
-ANTONIO: Agora a diferença que a FCC adora: indeferimento e improcedência liminar. O indeferimento, artigo trezentos e trinta, é por vício formal: inépcia, ilegitimidade manifesta, falta de interesse. É sem resolução de mérito.
+THALITA: Valor da causa também cai. Cobrança é principal mais acessórios vencidos; alimentos, doze prestações; dano moral, o valor pretendido; pedidos cumulados, a soma; alternativos, o maior; subsidiários, o principal. E o juiz corrige de ofício.
+FRANCISCA: Soma, maior, principal: cumulados, alternativos, subsidiários. Ficou fácil.
+THALITA: Agora a diferença que a FCC adora: indeferimento e improcedência liminar. O indeferimento, artigo trezentos e trinta, é por vício formal: inépcia, ilegitimidade manifesta, falta de interesse. É sem resolução de mérito.
 FRANCISCA: Inépcia: falta de pedido ou de causa de pedir, pedido indeterminado, conclusão ilógica, pedidos incompatíveis.
-BRUNO: Já a improcedência liminar, artigo trezentos e trinta e dois, é de mérito: dispensa instrução e contraria súmula do STF ou do STJ, repetitivo, IRDR, IAC ou súmula de tribunal de justiça sobre direito local. Também cabe se a prescrição ou a decadência for reconhecida de plano. Ambas ocorrem antes da citação, e a apelação permite retratação em cinco dias.
-THALITA: Então: indeferimento é forma, sem mérito; improcedência liminar é mérito. Certo?
+THALITA: Já a improcedência liminar, artigo trezentos e trinta e dois, é de mérito: dispensa instrução e contraria súmula do STF ou do STJ, repetitivo, IRDR, IAC ou súmula de tribunal de justiça sobre direito local. Também cabe se a prescrição ou a decadência for reconhecida de plano. Ambas ocorrem antes da citação, e a apelação permite retratação em cinco dias.
+FRANCISCA: Então: indeferimento é forma, sem mérito; improcedência liminar é mérito. Certo?
 == SLIDE: Audiência, contestação e preliminares
 * Audiência do art. 334: 30 dias de antecedência; réu citado com 20 dias
 * Dispensa só se ambas as partes desistirem
 * Contestação: 15 dias da audiência sem acordo, não da citação
 * Eventualidade (art. 342); preliminares do art. 337
 * Impugnação específica: fato não impugnado presume-se verdadeiro (art. 341)
-ANTONIO: Admitida a inicial, vem a audiência de conciliação ou mediação, artigo trezentos e trinta e quatro. É designada com antecedência mínima de trinta dias, e o réu é citado com pelo menos vinte dias.
-THALITA: E se ninguém quiser conciliar?
-FRANCISCA: Só se dispensa se ambas as partes manifestarem desinteresse, o réu com dez dias de antecedência, ou se o direito não admitir autocomposição. Pode haver mais de uma sessão, no prazo de dois meses. A ausência injustificada é ato atentatório à dignidade da justiça, com multa de até dois por cento da vantagem pretendida ou do valor da causa.
-BRUNO: A pegadinha é o prazo da contestação, artigo trezentos e trinta e cinco: quinze dias, mas contados da audiência sem acordo, ou do protocolo do pedido de cancelamento, e não da citação.
+THALITA: Admitida a inicial, vem a audiência de conciliação ou mediação, artigo trezentos e trinta e quatro. É designada com antecedência mínima de trinta dias, e o réu é citado com pelo menos vinte dias.
+FRANCISCA: E se ninguém quiser conciliar?
+THALITA: Só se dispensa se ambas as partes manifestarem desinteresse, o réu com dez dias de antecedência, ou se o direito não admitir autocomposição. Pode haver mais de uma sessão, no prazo de dois meses. A ausência injustificada é ato atentatório à dignidade da justiça, com multa de até dois por cento da vantagem pretendida ou do valor da causa.
+FRANCISCA: A pegadinha é o prazo da contestação, artigo trezentos e trinta e cinco: quinze dias, mas contados da audiência sem acordo, ou do protocolo do pedido de cancelamento, e não da citação.
 THALITA: Quinze dias da audiência. Entendi. E o que entra na contestação?
-ANTONIO: Toda a matéria de defesa, pelo princípio da eventualidade, artigo trezentos e quarenta e dois. Depois, só direito superveniente, matéria que o juiz conhece de ofício ou autorizada por lei.
-FRANCISCA: Antes do mérito vêm as preliminares: inexistência ou nulidade de citação, incompetência absoluta e relativa, incorreção do valor da causa, inépcia, perempção, litispendência, coisa julgada, conexão, incapacidade ou defeito de representação, convenção de arbitragem, ilegitimidade, falta de interesse, caução e gratuidade.
-BRUNO: O juiz não conhece de ofício só duas: convenção de arbitragem e incompetência relativa, artigo trezentos e trinta e sete, parágrafo quinto.
+FRANCISCA: Toda a matéria de defesa, pelo princípio da eventualidade, artigo trezentos e quarenta e dois. Depois, só direito superveniente, matéria que o juiz conhece de ofício ou autorizada por lei.
+THALITA: Antes do mérito vêm as preliminares: inexistência ou nulidade de citação, incompetência absoluta e relativa, incorreção do valor da causa, inépcia, perempção, litispendência, coisa julgada, conexão, incapacidade ou defeito de representação, convenção de arbitragem, ilegitimidade, falta de interesse, caução e gratuidade.
+FRANCISCA: O juiz não conhece de ofício só duas: convenção de arbitragem e incompetência relativa, artigo trezentos e trinta e sete, parágrafo quinto.
 THALITA: Então só duas ele não vê sozinho: arbitragem e incompetência relativa.
-ANTONIO: E a impugnação específica, artigo trezentos e quarenta e um: fato não impugnado presume-se verdadeiro. Exceções: quando não se admite confissão, quando falta instrumento exigido por lei, ou quando o fato contraria a defesa em seu conjunto.
-FRANCISCA: E o ônus não alcança defensor público, advogado dativo e curador especial.
-THALITA: Faz sentido, porque esses defensores muitas vezes nem conhecem os fatos. Então a defesa genérica só é permitida para eles. Guardei: defensor, dativo e curador especial.
+FRANCISCA: E a impugnação específica, artigo trezentos e quarenta e um: fato não impugnado presume-se verdadeiro. Exceções: quando não se admite confissão, quando falta instrumento exigido por lei, ou quando o fato contraria a defesa em seu conjunto.
+THALITA: E o ônus não alcança defensor público, advogado dativo e curador especial.
+FRANCISCA: Faz sentido, porque esses defensores muitas vezes nem conhecem os fatos. Então a defesa genérica só é permitida para eles. Guardei: defensor, dativo e curador especial.
 == SLIDE: Reconvenção, revelia e julgamento conforme o estado
 * Reconvenção na contestação; sobrevive à desistência; cabe sem contestar
 * Revelia: presunção só de fato, com quatro exceções (arts. 344-346)
 * Revel preso ou citado por edital: curador especial
 * Julgamento antecipado total (art. 355) ou parcial (art. 356)
 * Saneamento: até 10 testemunhas, 3 por fato
-ANTONIO: Reconvenção, artigo trezentos e quarenta e três: é o pedido do réu contra o autor, na própria contestação, conexo com a ação ou com a defesa. O autor responde em quinze dias. Ela sobrevive à desistência da ação e pode ser proposta sem contestar.
-THALITA: Então posso reconvir sem ter contestado. Que estranho, pensei que precisasse contestar.
-BRUNO: Pois é, essa é a pegadinha. Cabe reconvenção sem contestação.
+THALITA: Reconvenção, artigo trezentos e quarenta e três: é o pedido do réu contra o autor, na própria contestação, conexo com a ação ou com a defesa. O autor responde em quinze dias. Ela sobrevive à desistência da ação e pode ser proposta sem contestar.
+FRANCISCA: Então posso reconvir sem ter contestado. Que estranho, pensei que precisasse contestar.
+THALITA: Pois é, essa é a pegadinha. Cabe reconvenção sem contestação.
 FRANCISCA: Agora a revelia, artigos trezentos e quarenta e quatro a trezentos e quarenta e seis. Sem contestação, presumem-se verdadeiras as alegações de fato. Mas não há presunção se um litisconsorte contestar, se o direito for indisponível, se faltar à inicial instrumento indispensável à prova do ato, ou se as alegações forem inverossímeis ou contrariarem a prova dos autos.
-BRUNO: Revelia não gera procedência automática nem alcança matéria de direito. O revel preso ou citado por edital ou hora certa recebe curador especial, artigo setenta e dois. E o revel sem advogado tem prazos contados da publicação, podendo intervir em qualquer fase, no estado em que o processo estiver.
-THALITA: Então revelia é presunção só de fato, e relativa. Ficou claro.
-ANTONIO: Encerrada a fase postulatória, o juiz tem quatro caminhos: extinguir, artigo trezentos e cinquenta e quatro; julgar antecipadamente o mérito, no todo, artigo trezentos e cinquenta e cinco, ou em parte, artigo trezentos e cinquenta e seis; ou sanear, artigo trezentos e cinquenta e sete.
+THALITA: Revelia não gera procedência automática nem alcança matéria de direito. O revel preso ou citado por edital ou hora certa recebe curador especial, artigo setenta e dois. E o revel sem advogado tem prazos contados da publicação, podendo intervir em qualquer fase, no estado em que o processo estiver.
+FRANCISCA: Então revelia é presunção só de fato, e relativa. Ficou claro.
+THALITA: Encerrada a fase postulatória, o juiz tem quatro caminhos: extinguir, artigo trezentos e cinquenta e quatro; julgar antecipadamente o mérito, no todo, artigo trezentos e cinquenta e cinco, ou em parte, artigo trezentos e cinquenta e seis; ou sanear, artigo trezentos e cinquenta e sete.
 FRANCISCA: O julgamento antecipado total ocorre se não há outras provas a produzir, ou na revelia com efeito material e sem pedido de prova. O parcial vale para pedido incontroverso ou maduro; é atacável por agravo de instrumento, pode ser ilíquido e permite execução imediata sem caução.
-BRUNO: No saneamento, o juiz fixa fatos, provas e ônus. Cabem esclarecimentos em cinco dias, e depois a decisão se estabiliza. Até dez testemunhas, no máximo três por fato.
-THALITA: Então, resumindo o bloco: reconvenção cabe mesmo sem contestação, revelia é presunção só de fato e tem exceções, e o julgamento antecipado pode ser total ou parcial. O parcial é o que permite executar logo o pedido incontroverso, sem caução, certo? Então vou marcar esse ponto como muito cobrado.
+THALITA: No saneamento, o juiz fixa fatos, provas e ônus. Cabem esclarecimentos em cinco dias, e depois a decisão se estabiliza. Até dez testemunhas, no máximo três por fato.
+FRANCISCA: Então, resumindo o bloco: reconvenção cabe mesmo sem contestação, revelia é presunção só de fato e tem exceções, e o julgamento antecipado pode ser total ou parcial. O parcial é o que permite executar logo o pedido incontroverso, sem caução, certo? Então vou marcar esse ponto como muito cobrado.
 == SLIDE: Tutela provisória: urgência, evidência e estabilização
 * Urgência (art. 300): probabilidade do direito + perigo; vedada se irreversível
 * Evidência (art. 311): liminar só nas hipóteses 2 e 3
 * Antecedente: aditar em 15 dias; estabiliza sem recurso
 * Estabilização: ação em 2 anos; não faz coisa julgada
-ANTONIO: Tutela provisória é de urgência, antecipada ou cautelar, antecedente ou incidental, ou de evidência, que dispensa perigo. Na urgência, artigo trezentos, exigem-se probabilidade do direito e perigo de dano ou risco ao resultado útil.
-THALITA: Dá para dar a antecipada sempre que houver urgência?
-FRANCISCA: Não: ela é vedada se houver perigo de irreversibilidade dos efeitos. A caução pode ser dispensada ao hipossuficiente. A cautelar assegura o direito, com arresto, sequestro e arrolamento, e há fungibilidade com a antecipada.
-BRUNO: Evidência, artigo trezentos e onze: abuso do direito de defesa; fatos provados por documento com tese de repetitivo ou súmula vinculante; pedido reipersecutório com prova de contrato de depósito; e inicial com prova suficiente sem contraprova. A liminar só cabe na segunda e na terceira hipóteses.
+THALITA: Tutela provisória é de urgência, antecipada ou cautelar, antecedente ou incidental, ou de evidência, que dispensa perigo. Na urgência, artigo trezentos, exigem-se probabilidade do direito e perigo de dano ou risco ao resultado útil.
+FRANCISCA: Dá para dar a antecipada sempre que houver urgência?
+THALITA: Não: ela é vedada se houver perigo de irreversibilidade dos efeitos. A caução pode ser dispensada ao hipossuficiente. A cautelar assegura o direito, com arresto, sequestro e arrolamento, e há fungibilidade com a antecipada.
+FRANCISCA: Evidência, artigo trezentos e onze: abuso do direito de defesa; fatos provados por documento com tese de repetitivo ou súmula vinculante; pedido reipersecutório com prova de contrato de depósito; e inicial com prova suficiente sem contraprova. A liminar só cabe na segunda e na terceira hipóteses.
 THALITA: Então segunda e terceira permitem liminar. Macete: dois e três, já.
-ANTONIO: Na antecipada antecedente, concedida a tutela, o autor adita em quinze dias; se negada, emenda em cinco. Se o réu não recorrer, ela se estabiliza e o processo é extinto. Na cautelar antecedente, o réu contesta em cinco dias e o pedido principal vem em trinta dias da efetivação.
-FRANCISCA: A estabilização é exclusiva da antecipada antecedente. Qualquer parte pode ajuizar ação para rever, reformar ou invalidar em dois anos da ciência da extinção. E a decisão estabilizada não faz coisa julgada. O requerente responde objetivamente pelos danos da efetivação.
-BRUNO: Cuidado: a estabilização exige falta de recurso, não falta de contestação.
+FRANCISCA: Na antecipada antecedente, concedida a tutela, o autor adita em quinze dias; se negada, emenda em cinco. Se o réu não recorrer, ela se estabiliza e o processo é extinto. Na cautelar antecedente, o réu contesta em cinco dias e o pedido principal vem em trinta dias da efetivação.
+THALITA: A estabilização é exclusiva da antecipada antecedente. Qualquer parte pode ajuizar ação para rever, reformar ou invalidar em dois anos da ciência da extinção. E a decisão estabilizada não faz coisa julgada. O requerente responde objetivamente pelos danos da efetivação.
+FRANCISCA: Cuidado: a estabilização exige falta de recurso, não falta de contestação.
 THALITA: Anotei. E o que vem na sequência?
-ANTONIO: Agora, provas, audiência, sentença e coisa julgada, e depois liquidação e cumprimento de sentença.
+FRANCISCA: Agora, provas, audiência, sentença e coisa julgada, e depois liquidação e cumprimento de sentença.

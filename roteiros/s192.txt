@@ -4,41 +4,41 @@ SEGMENTO s192
 * Distribuição dinâmica: decisão fundamentada (§1º)
 * Decisão antes da abertura da instrução; adiamento só a requerimento (§2º)
 * Vedada a prova diabólica reversa (§3º)
-ANTONIO: Vimos o que acontece quando a parte falta à audiência. Agora a pergunta que vem depois: quando todo mundo compareceu e o fato é controvertido, quem precisa provar o quê? É o ônus da prova, no artigo oitocentos e dezoito da CLT.
+FRANCISCA: Vimos o que acontece quando a parte falta à audiência. Agora a pergunta que vem depois: quando todo mundo compareceu e o fato é controvertido, quem precisa provar o quê? É o ônus da prova, no artigo oitocentos e dezoito da CLT.
 THALITA: Eu sempre confundo. Quem alega prova, é isso?
-ANTONIO: Quase. O reclamante prova o fato constitutivo do seu direito, aquilo que dá nascimento ao direito. O reclamado prova o fato impeditivo, modificativo ou extintivo desse direito.
-FRANCISCA: Um exemplo ajuda. O empregado pede horas extras: ele precisa provar que trabalhou além da jornada. Já se ele pede verbas e a empresa diz que pagou, o pagamento é fato extintivo, e quem prova é a empresa.
-THALITA: Então constitutivo é o que cria, e extintivo é o que acaba com o direito. Impeditivo impede que ele nasça e modificativo muda o direito.
-BRUNO: Exatamente. E a FCC adora trocar as colunas: coloca o fato extintivo na conta do autor. Pegadinha clássica. Autor, constitutivo. Réu, os outros três.
-ANTONIO: Agora a novidade da Reforma Trabalhista. Os parágrafos do artigo oitocentos e dezoito trazem a distribuição dinâmica do ônus da prova, alinhando a CLT ao artigo trezentos e setenta e três do Código de Processo Civil.
-FRANCISCA: Em paráfrase: quando a lei prevê, ou quando a causa tem peculiaridades, como impossibilidade ou excessiva dificuldade de a parte cumprir o encargo, ou maior facilidade de a outra parte obter a prova, o juiz pode atribuir o ônus de modo diverso. Mas precisa fazer isso por decisão fundamentada, e dar à parte a chance de se desincumbir.
-THALITA: E quando o juiz faz isso? Pode ser na sentença, surpreendendo todo mundo?
-BRUNO: Não pode, e esse é um ponto de prova. A decisão tem de vir antes da abertura da instrução. A distribuição dinâmica é regra de procedimento, não só de julgamento. A parte não pode ser surpreendida.
-ANTONIO: E, se a parte pedir, essa decisão implica o adiamento da audiência, para que ela possa provar os fatos por qualquer meio admitido em direito. Repare: o adiamento depende de requerimento.
+FRANCISCA: Quase. O reclamante prova o fato constitutivo do seu direito, aquilo que dá nascimento ao direito. O reclamado prova o fato impeditivo, modificativo ou extintivo desse direito.
+THALITA: Um exemplo ajuda. O empregado pede horas extras: ele precisa provar que trabalhou além da jornada. Já se ele pede verbas e a empresa diz que pagou, o pagamento é fato extintivo, e quem prova é a empresa.
+FRANCISCA: Então constitutivo é o que cria, e extintivo é o que acaba com o direito. Impeditivo impede que ele nasça e modificativo muda o direito.
+THALITA: Exatamente. E a FCC adora trocar as colunas: coloca o fato extintivo na conta do autor. Pegadinha clássica. Autor, constitutivo. Réu, os outros três.
+FRANCISCA: Agora a novidade da Reforma Trabalhista. Os parágrafos do artigo oitocentos e dezoito trazem a distribuição dinâmica do ônus da prova, alinhando a CLT ao artigo trezentos e setenta e três do Código de Processo Civil.
+THALITA: Em paráfrase: quando a lei prevê, ou quando a causa tem peculiaridades, como impossibilidade ou excessiva dificuldade de a parte cumprir o encargo, ou maior facilidade de a outra parte obter a prova, o juiz pode atribuir o ônus de modo diverso. Mas precisa fazer isso por decisão fundamentada, e dar à parte a chance de se desincumbir.
+FRANCISCA: E quando o juiz faz isso? Pode ser na sentença, surpreendendo todo mundo?
+THALITA: Não pode, e esse é um ponto de prova. A decisão tem de vir antes da abertura da instrução. A distribuição dinâmica é regra de procedimento, não só de julgamento. A parte não pode ser surpreendida.
+FRANCISCA: E, se a parte pedir, essa decisão implica o adiamento da audiência, para que ela possa provar os fatos por qualquer meio admitido em direito. Repare: o adiamento depende de requerimento.
 THALITA: Então o adiamento não é automático. Anotei.
 FRANCISCA: Por fim, o terceiro parágrafo. A inversão não pode criar uma situação em que a parte fique impossibilitada, ou com excessiva dificuldade, de cumprir o encargo. É a chamada prova diabólica reversa. Não adianta tirar o peso de um lado e colocar um peso impossível no outro.
-BRUNO: Se aparecer na questão que o juiz pode inverter o ônus a qualquer momento, sem fundamentar, está errado. Fundamentação e momento certo são as palavras-chave.
-THALITA: Resumindo: autor prova o constitutivo, réu prova os outros três, e a inversão exige decisão fundamentada antes da instrução.
+THALITA: Se aparecer na questão que o juiz pode inverter o ônus a qualquer momento, sem fundamentar, está errado. Fundamentação e momento certo são as palavras-chave.
+FRANCISCA: Resumindo: autor prova o constitutivo, réu prova os outros três, e a inversão exige decisão fundamentada antes da instrução.
 == SLIDE: Súmulas do TST sobre ônus da prova
 * Súmula 6, VIII: equiparação salarial, fatos impeditivos, modificativos e extintivos: empregador
 * Súmula 212: negados serviço e despedimento, o término do contrato cabe ao empregador
 * Súmula 338: controles de jornada, presunção relativa; cartões britânicos invalidam
 * Súmulas 460 e 461: vale-transporte e FGTS, ônus do empregador
 * Súmula 16: não recebimento da notificação, ônus do destinatário
-ANTONIO: Agora vamos às súmulas do TST que distribuem o ônus em situações específicas. A banca ama esse tema, porque é decoreba com lógica.
-BRUNO: Vamos em ordem. A Súmula seis, inciso oito, trata de equiparação salarial. Quem tem o ônus quanto ao fato impeditivo, modificativo ou extintivo do direito à equiparação é o empregador. O empregado prova a identidade de função; a empresa prova, por exemplo, diferença de produtividade.
+THALITA: Agora vamos às súmulas do TST que distribuem o ônus em situações específicas. A banca ama esse tema, porque é decoreba com lógica.
+FRANCISCA: Vamos em ordem. A Súmula seis, inciso oito, trata de equiparação salarial. Quem tem o ônus quanto ao fato impeditivo, modificativo ou extintivo do direito à equiparação é o empregador. O empregado prova a identidade de função; a empresa prova, por exemplo, diferença de produtividade.
 THALITA: Então a lógica é a mesma do artigo oitocentos e dezoito. O fato constitutivo fica com o autor, o resto com o réu.
 FRANCISCA: Isso. Já a Súmula dezesseis cuida da notificação postal. Presume-se recebida em quarenta e oito horas depois da postagem. Se o destinatário alega que não recebeu, ou que chegou atrasada, o ônus da prova é dele.
-ANTONIO: A Súmula duzentos e doze é muito cobrada. Quando o empregado nega que prestou serviço e a empresa alega o contrato, ou quando se nega o despedimento, o ônus de provar o término do contrato é do empregador. O fundamento é o princípio da continuidade da relação de emprego.
-THALITA: Peraí. Se a empresa nega o despedimento, ela é que tem de provar que o empregado pediu demissão, por exemplo?
-FRANCISCA: Isso mesmo. O contrato de trabalho tem presunção de continuidade. Quem alega o fim prova o fim.
-BRUNO: Passamos para a jornada. Súmula trezentos e trinta e oito, inciso um: se o empregador obrigado ao registro não apresenta os controles sem justificativa, gera presunção relativa de veracidade da jornada da petição inicial. Relativa, porque admite prova em contrário.
+THALITA: A Súmula duzentos e doze é muito cobrada. Quando o empregado nega que prestou serviço e a empresa alega o contrato, ou quando se nega o despedimento, o ônus de provar o término do contrato é do empregador. O fundamento é o princípio da continuidade da relação de emprego.
+FRANCISCA: Peraí. Se a empresa nega o despedimento, ela é que tem de provar que o empregado pediu demissão, por exemplo?
+THALITA: Isso mesmo. O contrato de trabalho tem presunção de continuidade. Quem alega o fim prova o fim.
+FRANCISCA: Passamos para a jornada. Súmula trezentos e trinta e oito, inciso um: se o empregador obrigada ao registro não apresenta os controles sem justificativa, gera presunção relativa de veracidade da jornada da petição inicial. Relativa, porque admite prova em contrário.
 THALITA: E o inciso três, dos cartões britânicos?
-BRUNO: São os cartões com horários uniformes, tipo entrada às oito, saída às dezessete, todo dia, sem variação. São inválidos como meio de prova, e o ônus das horas extras passa ao empregador.
-ANTONIO: Atenção a um alerta que a apostila faz. A súmula fala em empregador com mais de dez empregados, mas o artigo setenta e quatro, parágrafo segundo, da CLT, alterado pela Lei treze mil oitocentos e setenta e quatro, de dois mil e dezenove, passou a exigir ponto para estabelecimentos com mais de vinte trabalhadores. Antes de marcar questão literal, confira a redação vigente.
-THALITA: Entendi. E as outras duas?
-FRANCISCA: A Súmula quatrocentos e sessenta diz que, no vale-transporte, o empregador prova que o empregado não preenche os requisitos ou não quer o benefício. E a Súmula quatrocentos e sessenta e um trata do FGTS: a regularidade dos depósitos é do empregador, porque pagamento é fato extintivo.
-THALITA: Macete: quase tudo é do empregador. Equiparação, continuidade, ponto, vale-transporte e FGTS. Só a notificação postal é do destinatário.
+FRANCISCA: São os cartões com horários uniformes, tipo entrada às oito, saída às dezessete, todo dia, sem variação. São inválidos como meio de prova, e o ônus das horas extras passa ao empregador.
+THALITA: Atenção a um alerta que a apostila faz. A súmula fala em empregador com mais de dez empregados, mas o artigo setenta e quatro, parágrafo segundo, da CLT, alterado pela Lei treze mil oitocentos e setenta e quatro, de dois mil e dezenove, passou a exigir ponto para estabelecimentos com mais de vinte trabalhadores. Antes de marcar questão literal, confira a redação vigente.
+FRANCISCA: Entendi. E as outras duas?
+THALITA: A Súmula quatrocentos e sessenta diz que, no vale-transporte, o empregador prova que o empregado não preenche os requisitos ou não quer o benefício. E a Súmula quatrocentos e sessenta e um trata do FGTS: a regularidade dos depósitos é do empregador, porque pagamento é fato extintivo.
+FRANCISCA: Macete: quase tudo é do empregador. Equiparação, continuidade, ponto, vale-transporte e FGTS. Só a notificação postal é do destinatário.
 == SLIDE: Depoimento pessoal, interrogatório e testemunhas
 * Art. 848: interrogatório pelo juiz; ordem: partes, testemunhas, peritos
 * Depoimento pessoal a requerimento, com pena de confissão (CPC, art. 385)
@@ -46,39 +46,39 @@ THALITA: Macete: quase tudo é do empregador. Equiparação, continuidade, ponto
 * Comparecem sem intimação (art. 825); ausente é intimada
 * Parente até 3º grau, amigo íntimo ou inimigo: informante (art. 829)
 * Súmula 357: litigar contra o mesmo empregador não gera suspeição
-ANTONIO: Vamos à instrução propriamente dita. O artigo oitocentos e quarenta e oito diz que, terminada a defesa, segue-se a instrução, e o juiz, de ofício, pode interrogar os litigantes. Depois do interrogatório, qualquer deles pode se retirar, e a instrução prossegue com o seu representante.
+THALITA: Vamos à instrução propriamente dita. O artigo oitocentos e quarenta e oito diz que, terminada a defesa, segue-se a instrução, e o juiz, de ofício, pode interrogar os litigantes. Depois do interrogatório, qualquer deles pode se retirar, e a instrução prossegue com o seu representante.
 FRANCISCA: A ordem legal é: primeiro as partes, depois as testemunhas, depois peritos e técnicos. Detalhe importante: o artigo oitocentos e quarenta e oito trata o interrogatório como faculdade do juiz. Mas, pelo Código de Processo Civil, a parte também pode requerer o depoimento pessoal da outra, com pena de confissão.
 THALITA: Então interrogatório é o juiz que faz por iniciativa própria, e depoimento pessoal é a parte que pede?
-BRUNO: Boa distinção. E na prova, se aparecer que o juiz é obrigado a interrogar as partes, desconfie. É faculdade.
-ANTONIO: Agora as testemunhas. O artigo oitocentos e vinte e um permite até três por parte. No inquérito para apuração de falta grave, esse número sobe a seis.
-THALITA: E no sumaríssimo?
-FRANCISCA: Duas por parte, no artigo oitocentos e cinquenta e dois, letra H. O limite, atenção, é por parte, e não por pedido.
-BRUNO: Macete três, dois, seis. Três no ordinário, duas no sumaríssimo, seis no inquérito. E o sumário, de alçada, segue o ordinário: três.
+FRANCISCA: Boa distinção. E na prova, se aparecer que o juiz é obrigada a interrogar as partes, desconfie. É faculdade.
+THALITA: Agora as testemunhas. O artigo oitocentos e vinte e um permite até três por parte. No inquérito para apuração de falta grave, esse número sobe a seis.
+FRANCISCA: E no sumaríssimo?
+THALITA: Duas por parte, no artigo oitocentos e cinquenta e dois, letra H. O limite, atenção, é por parte, e não por pedido.
+FRANCISCA: Macete três, dois, seis. Três no ordinário, duas no sumaríssimo, seis no inquérito. E o sumário, de alçada, segue o ordinário: três.
 THALITA: Elas precisam ser intimadas?
 FRANCISCA: Não. Pelo artigo oitocentos e vinte e cinco, as testemunhas comparecem à audiência independentemente de intimação. As que não comparecerem serão intimadas, de ofício ou a requerimento, e ficam sujeitas à condução coercitiva e às penalidades do artigo setecentos e trinta.
-ANTONIO: No sumaríssimo é diferente: a intimação só é deferida se a parte comprovar que convidou a testemunha. E as testemunhas não sofrem desconto salarial pelas faltas para depor, artigo oitocentos e vinte e dois.
-BRUNO: Agora o artigo oitocentos e vinte e nove. Quem for parente até o terceiro grau civil, amigo íntimo ou inimigo de qualquer das partes não presta compromisso, e o depoimento vale como simples informação.
+THALITA: No sumaríssimo é diferente: a intimação só é deferida se a parte comprovar que convidou a testemunha. E as testemunhas não sofrem desconto salarial pelas faltas para depor, artigo oitocentos e vinte e dois.
+FRANCISCA: Agora o artigo oitocentos e vinte e nove. Quem for parente até o terceiro grau civil, amigo íntimo ou inimigo de qualquer das partes não presta compromisso, e o depoimento vale como simples informação.
 THALITA: Então essa pessoa não pode depor?
 FRANCISCA: Pode, mas como informante. A CLT não proíbe a oitiva. E o terceiro grau civil alcança tios e sobrinhos.
 THALITA: Eu chutaria que quem processa a mesma empresa não pode ser testemunha. Acertei?
-BRUNO: Errou, e a FCC cobra isso. A Súmula trezentos e cinquenta e sete do TST diz que não torna suspeita a testemunha o simples fato de litigar ou ter litigado contra o mesmo empregador. Diferente é a troca de favores, testemunhas recíprocas com o mesmo objeto, que pode caracterizar suspeição conforme o caso.
+FRANCISCA: Errou, e a FCC cobra isso. A Súmula trezentos e cinquenta e sete do TST diz que não torna suspeita a testemunha o simples fato de litigar ou ter litigado contra o mesmo empregador. Diferente é a troca de favores, testemunhas recíprocas com o mesmo objeto, que pode caracterizar suspeição conforme o caso.
 == SLIDE: Prova documental, pericial e inspeção judicial
 * Cópia de documento: advogado pode declará-la autêntica (art. 830)
 * Perícia de insalubridade e periculosidade (art. 195, §2º)
 * Honorários periciais: sucumbente na pretensão; sem adiantamento (art. 790-B)
 * Súmulas 341, 453 e OJ 278; OJ 98 da SDI-2
 * Inspeção judicial: de ofício ou a requerimento (art. 765)
-ANTONIO: Fechamos com documentos, perícia e inspeção judicial. Pelo artigo oitocentos e trinta, o documento em cópia pode ser declarado autêntico pelo próprio advogado, sob sua responsabilidade pessoal.
-THALITA: Então não precisa ir ao cartório autenticar?
-FRANCISCA: Não. Se a outra parte impugna a autenticidade, a parte que produziu o documento é intimada para apresentar cópias autenticadas ou o original, e o serventuário confere e certifica.
-ANTONIO: Perícia. Arguida a insalubridade ou periculosidade, o juiz designa perito. Onde não houver, requisita ao órgão do Ministério do Trabalho. Está no artigo cento e noventa e cinco, parágrafo segundo.
-BRUNO: Os honorários periciais vão para o sucumbente na pretensão objeto da perícia, no artigo setecentos e noventa-B. O juízo não pode exigir adiantamento, e pode haver parcelamento.
-THALITA: E se quem perde tem gratuidade de justiça?
-FRANCISCA: O beneficiário da gratuidade não paga honorários periciais com créditos obtidos no processo, conforme a ADI cinco mil setecentos e sessenta e seis. A União responde, nos termos da regulamentação do CSJT. A Súmula quatrocentos e cinquenta e sete trata disso.
-BRUNO: Mais três pegadinhas. Súmula trezentos e quarenta e um: honorários do assistente técnico são pagos pela parte que o indicou, ainda que vencedora. Súmula quatrocentos e cinquenta e três: o pagamento espontâneo do adicional de periculosidade torna desnecessária a perícia. E a Orientação Jurisprudencial duzentos e setenta e oito da SDI um: se o local foi desativado e a perícia ficou impossível, o juiz pode usar outros meios de prova.
+THALITA: Fechamos com documentos, perícia e inspeção judicial. Pelo artigo oitocentos e trinta, o documento em cópia pode ser declarado autêntico pelo próprio advogado, sob sua responsabilidade pessoal.
+FRANCISCA: Então não precisa ir ao cartório autenticar?
+THALITA: Não. Se a outra parte impugna a autenticidade, a parte que produziu o documento é intimada para apresentar cópias autenticadas ou o original, e o serventuário confere e certifica.
+FRANCISCA: Perícia. Arguida a insalubridade ou periculosidade, o juiz designa perito. Onde não houver, requisita ao órgão do Ministério do Trabalho. Está no artigo cento e noventa e cinco, parágrafo segundo.
+THALITA: Os honorários periciais vão para o sucumbente na pretensão objeto da perícia, no artigo setecentos e noventa-B. O juízo não pode exigir adiantamento, e pode haver parcelamento.
+FRANCISCA: E se quem perde tem gratuidade de justiça?
+THALITA: O beneficiário da gratuidade não paga honorários periciais com créditos obtidos no processo, conforme a ADI cinco mil setecentos e sessenta e seis. A União responde, nos termos da regulamentação do CSJT. A Súmula quatrocentos e cinquenta e sete trata disso.
+FRANCISCA: Mais três pegadinhas. Súmula trezentos e quarenta e um: honorários do assistente técnico são pagos pela parte que o indicou, ainda que vencedora. Súmula quatrocentos e cinquenta e três: o pagamento espontâneo do adicional de periculosidade torna desnecessária a perícia. E a Orientação Jurisprudencial duzentos e setenta e oito da SDI um: se o local foi desativado e a perícia ficou impossível, o juiz pode usar outros meios de prova.
 THALITA: Esse do assistente técnico eu errava. Pensava que o vencedor era reembolsado.
-BRUNO: Não é. Cada parte paga o seu assistente.
-FRANCISCA: E a Orientação Jurisprudencial noventa e oito da SDI dois: é ilegal exigir depósito prévio para custear honorários periciais, e cabe mandado de segurança para realizar a perícia sem o depósito.
-ANTONIO: Por último, a inspeção judicial. O juiz, de ofício ou a requerimento, inspeciona pessoas ou coisas, com base nos artigos quatrocentos e oitenta e um a quatrocentos e oitenta e quatro do CPC e no artigo setecentos e sessenta e cinco da CLT.
+FRANCISCA: Não é. Cada parte paga o seu assistente.
+THALITA: E a Orientação Jurisprudencial noventa e oito da SDI dois: é ilegal exigir depósito prévio para custear honorários periciais, e cabe mandado de segurança para realizar a perícia sem o depósito.
+FRANCISCA: Por último, a inspeção judicial. O juiz, de ofício ou a requerimento, inspeciona pessoas ou coisas, com base nos artigos quatrocentos e oitenta e um a quatrocentos e oitenta e quatro do CPC e no artigo setecentos e sessenta e cinco da CLT.
 THALITA: Resumo: documento, o advogado autentica; perícia, sem adiantamento; inspeção, o juiz decide.
-ANTONIO: Pronto. Com as provas encerradas, vamos conhecer os três ritos do processo do trabalho: ordinário, sumaríssimo e sumário.
+FRANCISCA: Pronto. Com as provas encerradas, vamos conhecer os três ritos do processo do trabalho: ordinário, sumaríssimo e sumário.

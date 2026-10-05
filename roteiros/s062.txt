@@ -4,16 +4,16 @@ SEGMENTO s062
 * Art. 5º, XI: consentimento, flagrante, desastre, socorro ou ordem judicial
 * A: ordem judicial não vale à noite
 * E: não há homologação judicial posterior
-BRUNO: Com a teoria dos direitos políticos e partidos pronta, vamos às questões comentadas estilo FCC. Questão um, de oficial de justiça. Às vinte e duas horas, a oficiala Ana recebe mandado de busca e apreensão para cumprir na casa de Bruno. Na mesma noite, policiais ouvem gritos de socorro de outra casa e entram sem consentimento. O que é correto?
+FRANCISCA: Com a teoria dos direitos políticos e partidos pronta, vamos às questões comentadas estilo FCC. Questão um, de oficial de justiça. Às vinte e duas horas, a oficiala Ana recebe mandado de busca e apreensão para cumprir na casa de Bruno. Na mesma noite, policiais ouvem gritos de socorro de outra casa e entram sem consentimento. O que é correto?
 THALITA: Pausa para você pensar. Eu diria que a ordem judicial vale a qualquer hora, então a letra A.
 FRANCISCA: Essa é a pegadinha. A determinação judicial é a única hipótese restrita ao período diurno, no artigo quinto, inciso onze. Já o consentimento, o flagrante, o desastre e o socorro autorizam a entrada a qualquer hora. Letra A errada.
-ANTONIO: A letra B diz que o ingresso dos policiais foi ilícito porque socorro só vale de dia. Errado. Socorro, desastre e flagrante autorizam o ingresso a qualquer hora.
-BRUNO: A letra C: Ana deve aguardar o período diurno, e o ingresso para socorro é lícito mesmo à noite. Correta. Ordem judicial só de dia; socorro dia ou noite, sem ordem judicial.
+THALITA: A letra B diz que o ingresso dos policiais foi ilícito porque socorro só vale de dia. Errado. Socorro, desastre e flagrante autorizam o ingresso a qualquer hora.
+FRANCISCA: A letra C: Ana deve aguardar o período diurno, e o ingresso para socorro é lícito mesmo à noite. Correta. Ordem judicial só de dia; socorro dia ou noite, sem ordem judicial.
 THALITA: E a D, que exige autorização do morador, salvo flagrante?
 FRANCISCA: As hipóteses constitucionais dispensam o consentimento do morador, justamente porque o morador pode não querer ou não poder consentir. Errada.
-ANTONIO: A letra E diz que o ingresso para socorro exige homologação judicial posterior. Não há tal exigência no texto constitucional. Errada.
-THALITA: Macete: ordem judicial só de dia, o resto a qualquer hora.
-BRUNO: E dia, segundo a doutrina majoritária, é o período entre seis e dezoito horas, mas a Constituição não define. Não precisa entrar nesse detalhe na prova.
+THALITA: A letra E diz que o ingresso para socorro exige homologação judicial posterior. Não há tal exigência no texto constitucional. Errada.
+FRANCISCA: Macete: ordem judicial só de dia, o resto a qualquer hora.
+THALITA: E dia, segundo a doutrina majoritária, é o período entre seis e dezoito horas, mas a Constituição não define. Não precisa entrar nesse detalhe na prova.
 == SLIDE: Questão 2: dissolução e suspensão de associações
 * Gabarito A: dissolução exige trânsito em julgado; suspensão, decisão judicial
 * Art. 5º, XIX
@@ -21,29 +21,29 @@ BRUNO: E dia, segundo a doutrina majoritária, é o período entre seis e dezoit
 * Ato administrativo e lei não dissolvem associação
 FRANCISCA: Questão dois, de analista. A Associação Beta, constituída para fins lícitos, passou a sofrer questionamentos do poder público. Nos termos da Constituição, o que se pode dizer?
 THALITA: Pausa para pensar. A letra B diz que pode ter atividades suspensas por ato administrativo, assegurado o contraditório. Parece justo.
-BRUNO: Justo, mas errado. A suspensão é reservada ao Judiciário. Não cabe ato administrativo. O artigo quinto, inciso dezenove, diz que as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado.
-ANTONIO: Por isso a letra A é a correta: só pode ser dissolvida por decisão judicial transitada em julgado, e pode ter atividades suspensas por decisão judicial.
+FRANCISCA: Justo, mas errado. A suspensão é reservada ao Judiciário. Não cabe ato administrativo. O artigo quinto, inciso dezenove, diz que as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado.
+THALITA: Por isso a letra A é a correta: só pode ser dissolvida por decisão judicial transitada em julgado, e pode ter atividades suspensas por decisão judicial.
 FRANCISCA: A letra C inverte os requisitos. Diz que a suspensão exige trânsito em julgado e a dissolução admite liminar. É exatamente o contrário.
 THALITA: Eu inverteria essas duas sozinha, confesso.
-BRUNO: A letra D diz que depende de autorização estatal para funcionar. A criação de associações independe de autorização, inciso dezoito. Errada.
-ANTONIO: A letra E diz que pode ser dissolvida por lei específica. Nem lei nem ato administrativo dissolvem associação. Só decisão judicial transitada.
-THALITA: Macete: dissolver, trânsito em julgado; suspender, só decisão judicial.
-FRANCISCA: Isso. Dissolver é mais grave, exige mais.
+FRANCISCA: A letra D diz que depende de autorização estatal para funcionar. A criação de associações independe de autorização, inciso dezoito. Errada.
+THALITA: A letra E diz que pode ser dissolvida por lei específica. Nem lei nem ato administrativo dissolvem associação. Só decisão judicial transitada.
+FRANCISCA: Macete: dissolver, trânsito em julgado; suspender, só decisão judicial.
+THALITA: Isso. Dissolver é mais grave, exige mais.
 == SLIDE: Questão 3: crimes inafiançáveis e imprescritíveis
 * Gabarito E: racismo e ação de grupos armados
 * Tortura e terrorismo: inafiançáveis, mas prescrevem
 * Art. 5º, XLII, XLIII e XLIV
 * Macete RAÇÃO
-BRUNO: Questão três, de técnico. Quatro crimes: racismo, tortura, ação de grupos armados contra a ordem constitucional e terrorismo. Quais são inafiançáveis e imprescritíveis?
+FRANCISCA: Questão três, de técnico. Quatro crimes: racismo, tortura, ação de grupos armados contra a ordem constitucional e terrorismo. Quais são inafiançáveis e imprescritíveis?
 THALITA: Pausa para pensar. Eu diria todos, letra A.
 FRANCISCA: Boa tentativa. Tortura e terrorismo são inafiançáveis e insuscetíveis de graça ou anistia, no artigo quinto, inciso quarenta e três, mas prescrevem. Letra A errada.
-ANTONIO: Quando a questão pede inafiançáveis e imprescritíveis, só cabem dois: o racismo, inciso quarenta e dois, e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático, inciso quarenta e quatro. Letra E correta.
-BRUNO: O macete é RAÇÃO: RA de racismo, ÇÃO de ação de grupos armados. As letras B e D indicam crimes prescritíveis.
+THALITA: Quando a questão pede inafiançáveis e imprescritíveis, só cabem dois: o racismo, inciso quarenta e dois, e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático, inciso quarenta e quatro. Letra E correta.
+FRANCISCA: O macete é RAÇÃO: RA de racismo, ÇÃO de ação de grupos armados. As letras B e D indicam crimes prescritíveis.
 THALITA: A letra B indica tortura e terrorismo, que são justamente os prescritíveis.
 FRANCISCA: Isso. E a letra C inclui a tortura, que também é prescritível.
-ANTONIO: A letra D indica racismo e terrorismo, mas terrorismo não é imprescritível.
-THALITA: Então as duas imprescritíveis são o racismo e a ação de grupos armados. Fechei.
-BRUNO: E lembre que tortura e terrorismo, além de inafiançáveis, são insuscetíveis de graça ou anistia, e entram na lista dos crimes hediondos e equiparados.
+THALITA: A letra D indica racismo e terrorismo, mas terrorismo não é imprescritível.
+FRANCISCA: Então as duas imprescritíveis são o racismo e a ação de grupos armados. Fechei.
+THALITA: E lembre que tortura e terrorismo, além de inafiançáveis, são insuscetíveis de graça ou anistia, e entram na lista dos crimes hediondos e equiparados.
 == SLIDE: Questão 4: mandado de segurança coletivo
 * Gabarito B: associação com 1 ano, sem autorização dos associados
 * A: partido com representação no Congresso Nacional
@@ -51,41 +51,41 @@ BRUNO: E lembre que tortura e terrorismo, além de inafiançáveis, são insusce
 * E: MP e Defensoria legitimam o mandado de injunção coletivo
 FRANCISCA: Questão quatro, de analista. Sobre o mandado de segurança coletivo, qual afirmação é correta?
 THALITA: Pausa para pensar. A letra A diz que partido com representação em qualquer Casa Legislativa pode impetrar. Eu marcaria essa.
-BRUNO: Pegadinha. A Constituição exige partido com representação no Congresso Nacional, artigo quinto, inciso setenta, alínea a. Representação só na Assembleia não basta. Letra A errada.
-ANTONIO: A letra B é a correta: associação legalmente constituída e em funcionamento há pelo menos um ano, independentemente de autorização dos associados. Súmula seiscentos e vinte e nove do Supremo e Lei doze mil e dezesseis, artigo vinte e um.
+FRANCISCA: Pegadinha. A Constituição exige partido com representação no Congresso Nacional, artigo quinto, inciso setenta, alínea a. Representação só na Assembleia não basta. Letra A errada.
+THALITA: A letra B é a correta: associação legalmente constituída e em funcionamento há pelo menos um ano, independentemente de autorização dos associados. Súmula seiscentos e vinte e nove do Supremo e Lei doze mil e dezesseis, artigo vinte e um.
 FRANCISCA: A letra C diz que a entidade de classe só tem legitimidade se a pretensão interessar à totalidade da categoria. A Súmula seiscentos e trinta do Supremo admite a impetração ainda que o interesse seja de parte da categoria.
 THALITA: E a D, sobre a organização sindical?
-BRUNO: A organização sindical e a entidade de classe não precisam do prazo de um ano. Esse prazo é só da associação. E a autorização dos associados é dispensada. Errada.
-ANTONIO: A letra E diz que o Ministério Público e a Defensoria são legitimados do mandado de segurança coletivo. Na verdade, são legitimados do mandado de injunção coletivo, na Lei treze mil trezentos, artigo doze. Errada.
-THALITA: Resumo: partido no Congresso, associação com um ano, sem autorização.
-FRANCISCA: Isso. E o prazo de um ano só vale para a associação.
+FRANCISCA: A organização sindical e a entidade de classe não precisam do prazo de um ano. Esse prazo é só da associação. E a autorização dos associados é dispensada. Errada.
+THALITA: A letra E diz que o Ministério Público e a Defensoria são legitimados do mandado de segurança coletivo. Na verdade, são legitimados do mandado de injunção coletivo, na Lei treze mil trezentos, artigo doze. Errada.
+FRANCISCA: Resumo: partido no Congresso, associação com um ano, sem autorização.
+THALITA: Isso. E o prazo de um ano só vale para a associação.
 == SLIDE: Questão 5: habeas data e ação popular
 * Gabarito D: habeas data gratuito; ação popular exige cidadania
 * Autor da ação popular isento de custas, salvo má-fé
 * B: pessoa jurídica não propõe ação popular (Súmula 365)
 * E: 120 dias é do MS; ação popular prescreve em 5 anos
-BRUNO: Questão cinco, de analista. Carla pediu a órgão federal informações sobre si constantes de banco de dados governamental e teve o pedido negado. Márcio quer anular contrato lesivo ao patrimônio de autarquia municipal. Quais os instrumentos adequados?
+FRANCISCA: Questão cinco, de analista. Carla pediu a órgão federal informações sobre si constantes de banco de dados governamental e teve o pedido negado. Márcio quer anular contrato lesivo ao patrimônio de autarquia municipal. Quais os instrumentos adequados?
 THALITA: Pausa para pensar. O de Carla é habeas data, claro. O de Márcio é ação popular, mas eu não sei qual alternativa certa.
 FRANCISCA: A letra A indica mandado de segurança e ação civil pública, ambos isentos de custas. Informação pessoal em banco governamental se obtém por habeas data, e o mandado de segurança não é gratuito por natureza. Errada.
-ANTONIO: A letra B diz que a ação popular pode ser proposta por qualquer pessoa física ou jurídica, e que o habeas data dispensa advogado. Errada: só o habeas corpus dispensa advogado, e pessoa jurídica não propõe ação popular, Súmula trezentos e sessenta e cinco do Supremo.
-BRUNO: A letra C indica mandado de injunção, mas não há falta de norma regulamentadora. Além disso, a ação popular não é julgada pelo tribunal competente para a autoridade, e sim em primeiro grau. Errada.
-FRANCISCA: A letra D está correta. O habeas data é gratuito, artigo quinto, inciso setenta e sete. E a ação popular exige cidadania e isenta o autor de custas e ônus da sucumbência, salvo comprovada má-fé, inciso setenta e três.
-THALITA: E a E, com os cento e vinte dias?
-BRUNO: O prazo de cento e vinte dias é do mandado de segurança. A ação popular prescreve em cinco anos, não é imprescritível.
-THALITA: Macete: cidadão eleitor propõe ação popular, e habeas data é de graça.
-BRUNO: Boa síntese.
+THALITA: A letra B diz que a ação popular pode ser proposta por qualquer pessoa física ou jurídica, e que o habeas data dispensa advogado. Errada: só o habeas corpus dispensa advogado, e pessoa jurídica não propõe ação popular, Súmula trezentos e sessenta e cinco do Supremo.
+FRANCISCA: A letra C indica mandado de injunção, mas não há falta de norma regulamentadora. Além disso, a ação popular não é julgada pelo tribunal competente para a autoridade, e sim em primeiro grau. Errada.
+THALITA: A letra D está correta. O habeas data é gratuito, artigo quinto, inciso setenta e sete. E a ação popular exige cidadania e isenta o autor de custas e ônus da sucumbência, salvo comprovada má-fé, inciso setenta e três.
+FRANCISCA: E a E, com os cento e vinte dias?
+THALITA: O prazo de cento e vinte dias é do mandado de segurança. A ação popular prescreve em cinco anos, não é imprescritível.
+FRANCISCA: Macete: cidadão eleitor propõe ação popular, e habeas data é de graça.
+THALITA: Boa síntese.
 == SLIDE: Questão 6: direito de reunião
 * Gabarito A: independe de autorização, exige prévio aviso
 * Não pode frustrar reunião anteriormente convocada para o mesmo local
 * B: não há autorização; C: aviso é exigido em local aberto
 * E: o remédio é o mandado de segurança
-ANTONIO: Questão seis, de técnico. Servidores organizam manifestação pacífica, sem armas, em praça pública, e avisam a autoridade municipal com antecedência. Segundo a Constituição, a reunião como é tratada?
+FRANCISCA: Questão seis, de técnico. Servidores organizam manifestação pacífica, sem armas, em praça pública, e avisam a autoridade municipal com antecedência. Segundo a Constituição, a reunião como é tratada?
 THALITA: Pausa para pensar. Eu lembro que precisa de autorização. A letra B diz isso, com negativa por ordem pública.
-BRUNO: Essa é a confusão. Não há autorização, basta aviso. O artigo quinto, inciso dezesseis, diz que todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo exigido prévio aviso à autoridade competente.
-FRANCISCA: Por isso a letra A é a correta. A letra C diz que independe de aviso prévio em local aberto ao público. É o contrário: o aviso é exigido justamente nos locais abertos.
-THALITA: E a D, que diz que pode ser proibida se houver outra reunião convocada depois?
-BRUNO: Protege-se a reunião convocada anteriormente. A posterior é que não pode frustrá-la. Errada.
-ANTONIO: A letra E diz que é protegida por habeas corpus. O remédio próprio é o mandado de segurança. O habeas corpus só serviria se a ofensa atingisse a liberdade de locomoção.
+FRANCISCA: Essa é a confusão. Não há autorização, basta aviso. O artigo quinto, inciso dezesseis, diz que todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo exigido prévio aviso à autoridade competente.
+THALITA: Por isso a letra A é a correta. A letra C diz que independe de aviso prévio em local aberto ao público. É o contrário: o aviso é exigido justamente nos locais abertos.
+FRANCISCA: E a D, que diz que pode ser proibida se houver outra reunião convocada depois?
+THALITA: Protege-se a reunião convocada anteriormente. A posterior é que não pode frustrá-la. Errada.
+FRANCISCA: A letra E diz que é protegida por habeas corpus. O remédio próprio é o mandado de segurança. O habeas corpus só serviria se a ofensa atingisse a liberdade de locomoção.
 THALITA: Macete: aviso sim, autorização não.
 FRANCISCA: E reunião anterior prevalece sobre a posterior.
 == SLIDE: Questão 7: brasileiros natos e resumo relâmpago
@@ -93,13 +93,13 @@ FRANCISCA: E reunião anterior prevalece sobre a posterior.
 * I: pai a serviço do próprio país afasta o ius soli
 * IV: mãe a serviço de terceiro país não afasta
 * Alínea b: serviço da República, inclusive Município
-BRUNO: Questão sete, de analista. Quatro situações. Um: filho de casal de franceses nascido em Belém, com o pai a serviço da França. Dois: filha de brasileira nascida na Alemanha, com a mãe a serviço de Município brasileiro. Três: filho de brasileiro nascido no Chile e registrado em repartição brasileira. Quatro: filho de casal de italianos nascido em Macapá, com a mãe a serviço da Argentina. Quais são natos?
-THALITA: Pausa para pensar. O um é francês, o dois é nato pela alínea b, o três é nato pela alínea c. O quatro, eu diria que não, porque a mãe serve a um país estrangeiro.
-FRANCISCA: Cuidado. No item um, o pai a serviço do próprio país, a França, afasta o ius soli. Não é brasileiro. No item quatro, a mãe é italiana, mas serve à Argentina, um terceiro país. Como não serve ao seu próprio país, prevalece o ius soli. É brasileiro nato.
-ANTONIO: O item dois é nato porque a alínea b alcança o serviço da República, inclusive de entes federados como um Município. O item três é nato pela primeira parte da alínea c, registro consular.
-BRUNO: Então são natos os itens dois, três e quatro. Letra C correta.
-THALITA: A letra A inclui o um, e o um está errado. A B exclui dois e três. A D omite o quatro. A E inclui o um.
-BRUNO: Perfeita análise.
+THALITA: Questão sete, de analista. Quatro situações. Um: filho de casal de franceses nascido em Belém, com o pai a serviço da França. Dois: filha de brasileira nascida na Alemanha, com a mãe a serviço de Município brasileiro. Três: filho de brasileiro nascido no Chile e registrado em repartição brasileira. Quatro: filho de casal de italianos nascido em Macapá, com a mãe a serviço da Argentina. Quais são natos?
+FRANCISCA: Pausa para pensar. O um é francês, o dois é nato pela alínea b, o três é nato pela alínea c. O quatro, eu diria que não, porque a mãe serve a um país estrangeiro.
+THALITA: Cuidado. No item um, o pai a serviço do próprio país, a França, afasta o ius soli. Não é brasileiro. No item quatro, a mãe é italiana, mas serve à Argentina, um terceiro país. Como não serve ao seu próprio país, prevalece o ius soli. É brasileiro nato.
+FRANCISCA: O item dois é nato porque a alínea b alcança o serviço da República, inclusive de entes federados como um Município. O item três é nato pela primeira parte da alínea c, registro consular.
+THALITA: Então são natos os itens dois, três e quatro. Letra C correta.
+FRANCISCA: A letra A inclui o um, e o um está errado. A B exclui dois e três. A D omite o quatro. A E inclui o um.
+THALITA: Perfeita análise.
 FRANCISCA: Agora, o resumo da parte constitucional desta aula, para você anotar. Natos: território, ressalva do serviço estrangeiro do próprio país; sangue com serviço, registro ou opção depois da maioridade. Naturalizados: um ano para lusófonos, quinze anos para a extraordinária, com requerimento.
 THALITA: E direitos políticos: trinta e cinco para Senador, trinta para Governador, vinte e um para Prefeito, dezoito para Vereador. Cassação é vedada, e a reeleição vale só para o Executivo.
-ANTONIO: Com isso fechamos as questões. Na sequência, entramos em uma nova disciplina com a introdução.
+FRANCISCA: Com isso fechamos as questões. Na sequência, entramos em uma nova disciplina com a introdução.

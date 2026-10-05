@@ -5,63 +5,60 @@ SEGMENTO s165
 * Noturno vedado ao menor (art. 404); jornada: sem prorrogação (art. 413)
 * Mais de um emprego: horas somadas (art. 414)
 * Prescrição não corre contra menor de 18 (art. 440)
-ANTONIO: Da proteção à mulher passamos à proteção ao menor trabalhador, que a CLT trata a partir do artigo quatrocentos e dois, para quem tem de quatorze a dezoito anos. A base é a Constituição, artigo sétimo, inciso trinta e três.
-FRANCISCA: Ele proíbe o trabalho noturno, perigoso ou insalubre a menores de dezoito anos e qualquer trabalho a menores de dezesseis, salvo na condição de aprendiz, a partir de quatorze.
-THALITA: Dá para montar uma escada de idades?
-BRUNO: Dá. Abaixo de quatorze anos, nenhum trabalho, salvo o artístico autorizado judicialmente. De quatorze a quinze, só como aprendiz. De dezesseis a dezessete, qualquer trabalho, menos noturno, perigoso ou insalubre. Aos dezoito, plena capacidade.
-THALITA: E o aprendiz de dezessete anos pode trabalhar à noite?
-BRUNO: Não. O aprendiz menor de dezoito também não pode trabalhar à noite nem em local insalubre ou perigoso.
-ANTONIO: Outras regras. O trabalho noturno do menor é vedado, das vinte e duas às cinco horas, artigo quatrocentos e quatro. É vedado também em locais prejudiciais à formação e ao desenvolvimento físico, psíquico, moral e social, e em horários que impeçam a frequência à escola.
-FRANCISCA: A lista das piores formas de trabalho infantil, a chamada lista TIP, está no Decreto seis mil quatrocentos e oitenta e um, de dois mil e oito, decorrente da Convenção cento e oitenta e dois da OIT.
-BRUNO: A prorrogação da jornada é vedada, salvo compensação, de até duas horas, por norma coletiva, ou força maior, de até doze horas, se imprescindível. Se o menor tem mais de um emprego, as horas são somadas.
+FRANCISCA: Da proteção à mulher passamos à proteção ao menor trabalhador, que a CLT trata a partir do artigo quatrocentos e dois, para quem tem de quatorze a dezoito anos. A base é a Constituição, artigo sétimo, inciso trinta e três.
+THALITA: Ele proíbe o trabalho noturno, perigoso ou insalubre a menores de dezoito anos e qualquer trabalho a menores de dezesseis, salvo na condição de aprendiz, a partir de quatorze.
+FRANCISCA: Dá para montar uma escada de idades?
+THALITA: Dá. Abaixo de quatorze anos, nenhum trabalho, salvo o artístico autorizado judicialmente. De quatorze a quinze, só como aprendiz. De dezesseis a dezessete, qualquer trabalho, menos noturno, perigoso ou insalubre. Aos dezoito, plena capacidade.
+FRANCISCA: E o aprendiz de dezessete anos pode trabalhar à noite?
+THALITA: Não. O aprendiz menor de dezoito também não pode trabalhar à noite nem em local insalubre ou perigoso.
+FRANCISCA: Outras regras. O trabalho noturno do menor é vedado, das vinte e duas às cinco horas, artigo quatrocentos e quatro. É vedado também em locais prejudiciais à formação e ao desenvolvimento físico, psíquico, moral e social, e em horários que impeçam a frequência à escola.
+THALITA: A lista das piores formas de trabalho infantil, a chamada lista TIP, está no Decreto seis mil quatrocentos e oitenta e um, de dois mil e oito, decorrente da Convenção cento e oitenta e dois da OIT.
+FRANCISCA: A prorrogação da jornada é vedada, salvo compensação, de até duas horas, por norma coletiva, ou força maior, de até doze horas, se imprescindível. Se o menor tem mais de um emprego, as horas são somadas.
 THALITA: E sobre férias e rescisão?
 FRANCISCA: O menor estudante tem direito de fazer coincidir as férias com as escolares. Pode firmar recibo de salário, mas a quitação rescisória exige assistência dos responsáveis legais, artigo quatrocentos e trinta e nove. E o responsável legal pode pleitear a extinção do contrato quando o trabalho prejudicar o menor, artigo quatrocentos e oito.
-ANTONIO: Por fim, o artigo quatrocentos e quarenta: não corre prescrição contra menor de dezoito anos.
-
+THALITA: Por fim, o artigo quatrocentos e quarenta: não corre prescrição contra menor de dezoito anos.
 == SLIDE: Contrato de aprendizagem: regras e números
 * Art. 428: contrato especial, escrito e a prazo determinado
 * Idade: maior de 14 e menor de 24; sem limite para pessoa com deficiência
 * Prazo máximo 3 anos; salário mínimo-hora; FGTS de 2%
 * Cota: mínimo 5%, máximo 15% das funções que exigem formação
 * Jornada: 6 horas; até 8 se concluiu o fundamental; sem prorrogação nem compensação
-BRUNO: O contrato de aprendizagem, artigo quatrocentos e vinte e oito, é um contrato de trabalho especial, ajustado por escrito e por prazo determinado. O empregador assegura ao maior de quatorze e menor de vinte e quatro anos, inscrito em programa de aprendizagem, formação técnico-profissional metódica.
+FRANCISCA: O contrato de aprendizagem, artigo quatrocentos e vinte e oito, é um contrato de trabalho especial, ajustado por escrito e por prazo determinado. O empregador assegura ao maior de quatorze e menor de vinte e quatro anos, inscrito em programa de aprendizagem, formação técnico-profissional metódica.
 THALITA: Quais são as condições de validade?
 FRANCISCA: Anotação na carteira de trabalho, matrícula e frequência à escola, se não concluiu o ensino médio, e inscrição em programa de aprendizagem. O limite de vinte e quatro anos não se aplica ao aprendiz com deficiência.
-ANTONIO: O salário é o mínimo-hora, salvo condição mais favorável. O prazo é de até três anos, salvo aprendiz com deficiência. O FGTS é de dois por cento, Lei oito mil e trinta e seis, artigo quinze, parágrafo sétimo.
-BRUNO: A cota está no artigo quatrocentos e vinte e nove: no mínimo cinco por cento e no máximo quinze por cento dos empregados do estabelecimento cujas funções demandem formação profissional. Microempresas e empresas de pequeno porte são dispensadas, e entidades sem fins lucrativos de educação profissional não se sujeitam ao teto.
+THALITA: O salário é o mínimo-hora, salvo condição mais favorável. O prazo é de até três anos, salvo aprendiz com deficiência. O FGTS é de dois por cento, Lei oito mil e trinta e seis, artigo quinze, parágrafo sétimo.
+FRANCISCA: A cota está no artigo quatrocentos e vinte e nove: no mínimo cinco por cento e no máximo quinze por cento dos empregados do estabelecimento cujas funções demandem formação profissional. Microempresas e empresas de pequeno porte são dispensadas, e entidades sem fins lucrativos de educação profissional não se sujeitam ao teto.
 THALITA: Um exemplo para eu fixar?
 FRANCISCA: A Beta tem duzentos empregados em funções que demandam formação. Cota mínima: cinco por cento de duzentos, dez aprendizes. Máxima: quinze por cento, trinta aprendizes.
-ANTONIO: A jornada, artigo quatrocentos e trinta e dois, é de até seis horas diárias, vedadas prorrogação e compensação. Pode chegar a oito horas para quem completou o ensino fundamental, se computadas as horas de aprendizagem teórica. O Paulo, aprendiz de dezessete anos com fundamental completo, pode ter oito horas incluindo as aulas, mas nunca horas extras.
-THALITA: Meu resumo: catorze a vinte e quatro, até três anos, seis horas, cota de cinco a quinze, FGTS de dois.
-
+THALITA: A jornada, artigo quatrocentos e trinta e dois, é de até seis horas diárias, vedadas prorrogação e compensação. Pode chegar a oito horas para quem completou o ensino fundamental, se computadas as horas de aprendizagem teórica. O Paulo, aprendiz de dezessete anos com fundamental completo, pode ter oito horas incluindo as aulas, mas nunca horas extras.
+FRANCISCA: Meu resumo: catorze a vinte e quatro, até três anos, seis horas, cota de cinco a quinze, FGTS de dois.
 == SLIDE: Extinção do contrato de aprendizagem e pegadinhas
 * Art. 433: termo, 24 anos ou antecipada
 * Desempenho insuficiente, falta disciplinar grave, ausência escolar com perda do ano, pedido
 * Arts. 479 e 480 não se aplicam
 * Ausência à escola só extingue se perde o ano letivo
 * Pegadinhas: 24, 3 anos, 15%, fundamental
-FRANCISCA: A extinção do contrato de aprendizagem, artigo quatrocentos e trinta e três. Extingue-se no termo, ou quando o aprendiz completa vinte e quatro anos, ressalvado o aprendiz com deficiência, ou antecipadamente em quatro hipóteses.
-BRUNO: Primeira, desempenho insuficiente ou inadaptação, salvo para o aprendiz com deficiência quando desprovido de recursos de acessibilidade, tecnologias assistivas e apoio necessário. Segunda, falta disciplinar grave. Terceira, ausência injustificada à escola que implique perda do ano letivo. Quarta, a pedido do aprendiz.
+THALITA: A extinção do contrato de aprendizagem, artigo quatrocentos e trinta e três. Extingue-se no termo, ou quando o aprendiz completa vinte e quatro anos, ressalvado o aprendiz com deficiência, ou antecipadamente em quatro hipóteses.
+FRANCISCA: Primeira, desempenho insuficiente ou inadaptação, salvo para o aprendiz com deficiência quando desprovido de recursos de acessibilidade, tecnologias assistivas e apoio necessário. Segunda, falta disciplinar grave. Terceira, ausência injustificada à escola que implique perda do ano letivo. Quarta, a pedido do aprendiz.
 THALITA: Se ele faltou à escola uma vez, já pode extinguir?
-BRUNO: Não! A ausência só extingue se causar perda do ano letivo. Essa é a pegadinha.
-ANTONIO: Outro ponto: nas hipóteses do artigo quatrocentos e trinta e três, não se aplicam as indenizações dos artigos quatrocentos e setenta e nove e quatrocentos e oitenta, parágrafo segundo.
+FRANCISCA: Não! A ausência só extingue se causar perda do ano letivo. Essa é a pegadinha.
+THALITA: Outro ponto: nas hipóteses do artigo quatrocentos e trinta e três, não se aplicam as indenizações dos artigos quatrocentos e setenta e nove e quatrocentos e oitenta, parágrafo segundo.
 FRANCISCA: A apostila lista as trocas típicas da banca. "Aprendiz de catorze a vinte e um anos": errado, é até vinte e quatro. "Prazo de até dois anos": errado, são três. "Jornada de seis horas, admitida compensação": errado, a compensação é vedada. "Cota de cinco a dez por cento": errado, o teto é quinze. "Oito horas para quem concluiu o ensino médio": a lei fala em ensino fundamental.
 THALITA: Macete: vinte e quatro, três, seis, quinze e fundamental.
-BRUNO: E lembre que o menor de dezoito, mesmo aprendiz, não faz trabalho noturno, perigoso ou insalubre.
+FRANCISCA: E lembre que o menor de dezoito, mesmo aprendiz, não faz trabalho noturno, perigoso ou insalubre.
 THALITA: Anotado! Então, se a banca disser que o aprendiz pode ser dispensado por qualquer falta na escola, eu já sei que está errado: só a perda do ano letivo justifica. E que a indenização por término antecipado não vale nessas hipóteses.
-
 == SLIDE: Trabalho escravo contemporâneo
 * Art. 149 do CP: forçado, jornada exaustiva, degradante, servidão por dívida
 * Basta uma das condutas; não exige cerceamento físico
 * Expropriação sem indenização (art. 243 CF, EC 81/2014)
 * "Lista suja": constitucional (ADPF 509)
 * Resgatado: 3 parcelas de seguro-desemprego
-ANTONIO: Fechamos o conteúdo da aula com o trabalho escravo contemporâneo, artigo cento e quarenta e nove do Código Penal. Reduzir alguém a condição análoga à de escravo, submetendo-o a trabalhos forçados ou jornada exaustiva, sujeitando-o a condições degradantes, ou restringindo a locomoção em razão de dívida contraída com o empregador. A pena é de reclusão de dois a oito anos e multa, além da pena correspondente à violência.
+FRANCISCA: Fechamos o conteúdo da aula com o trabalho escravo contemporâneo, artigo cento e quarenta e nove do Código Penal. Reduzir alguém a condição análoga à de escravo, submetendo-o a trabalhos forçados ou jornada exaustiva, sujeitando-o a condições degradantes, ou restringindo a locomoção em razão de dívida contraída com o empregador. A pena é de reclusão de dois a oito anos e multa, além da pena correspondente à violência.
 THALITA: Precisa ter todas essas condutas?
 FRANCISCA: Não. É tipo de ação múltipla, basta uma delas. E não exige cerceamento físico da liberdade. A pena aumenta de metade se o crime é cometido contra criança ou adolescente, ou por preconceito de raça, cor, etnia, religião ou origem.
-BRUNO: Cada modo tem um conceito. Trabalho forçado é o exigido sob ameaça de sanção, sem oferecimento espontâneo. Jornada exaustiva é o esforço excessivo que leva ao esgotamento e coloca em risco saúde e vida. Condições degradantes são a negação da dignidade mínima: alojamento, água, alimentação, higiene, segurança. Servidão por dívida é a restrição da locomoção em razão de dívida com o empregador, o truck system.
-ANTONIO: As consequências. Expropriação de propriedades com exploração de trabalho escravo, sem indenização, destinadas à reforma agrária e habitação popular, artigo duzentos e quarenta e três da Constituição, Emenda oitenta e um de dois mil e catorze.
-FRANCISCA: O cadastro de empregadores, a lista suja, divulga os autuados após decisão administrativa irrecorrível, e o STF afirmou sua constitucionalidade na ADPF quinhentos e nove. O trabalhador resgatado recebe três parcelas de seguro-desemprego de um salário mínimo. A competência penal é da Justiça Federal, RE trezentos e noventa e oito mil e quarenta e um. E as Convenções vinte e nove e cento e cinco da OIT tratam do trabalho forçado e de sua abolição.
-THALITA: Macete: quatro modos, uma basta, três parcelas de seguro, Justiça Federal.
-BRUNO: Na esfera trabalhista, a responsabilização gera dano moral individual e coletivo, sem prejuízo da penal. Agora vamos praticar com as questões comentadas no estilo FCC.
-THALITA: Boa! Então vamos resolver as questões, e depois conferir quantas eu acerto. Prometo não chutar sem pensar nas pegadinhas que vimos hoje.
+THALITA: Cada modo tem um conceito. Trabalho forçado é o exigido sob ameaça de sanção, sem oferecimento espontâneo. Jornada exaustiva é o esforço excessivo que leva ao esgotamento e coloca em risco saúde e vida. Condições degradantes são a negação da dignidade mínima: alojamento, água, alimentação, higiene, segurança. Servidão por dívida é a restrição da locomoção em razão de dívida com o empregador, o truck system.
+FRANCISCA: As consequências. Expropriação de propriedades com exploração de trabalho escravo, sem indenização, destinadas à reforma agrária e habitação popular, artigo duzentos e quarenta e três da Constituição, Emenda oitenta e um de dois mil e catorze.
+THALITA: O cadastro de empregadores, a lista suja, divulga os autuados após decisão administrativa irrecorrível, e o STF afirmou sua constitucionalidade na ADPF quinhentos e nove. O trabalhador resgatado recebe três parcelas de seguro-desemprego de um salário mínimo. A competência penal é da Justiça Federal, RE trezentos e noventa e oito mil e quarenta e um. E as Convenções vinte e nove e cento e cinco da OIT tratam do trabalho forçado e de sua abolição.
+FRANCISCA: Macete: quatro modos, uma basta, três parcelas de seguro, Justiça Federal.
+THALITA: Na esfera trabalhista, a responsabilização gera dano moral individual e coletivo, sem prejuízo da penal. Agora vamos praticar com as questões comentadas no estilo FCC.
+FRANCISCA: Boa! Então vamos resolver as questões, e depois conferir quantas eu acerto. Prometo não chutar sem pensar nas pegadinhas que vimos hoje.

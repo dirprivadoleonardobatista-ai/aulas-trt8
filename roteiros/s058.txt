@@ -5,58 +5,58 @@ SEGMENTO s058
 * MS é residual: não cabendo HC nem HD
 * Só HC dispensa advogado; HC e HD são gratuitos
 * MS: prazo decadencial de cento e vinte dias
-ANTONIO: Fechamos o artigo quinto, agora vamos aos remédios constitucionais. São cinco ações: habeas corpus, habeas data, mandado de segurança individual e coletivo, mandado de injunção e ação popular. O raciocínio de prova é identificar o bem lesado e excluir.
+FRANCISCA: Fechamos o artigo quinto, agora vamos aos remédios constitucionais. São cinco ações: habeas corpus, habeas data, mandado de segurança individual e coletivo, mandado de injunção e ação popular. O raciocínio de prova é identificar o bem lesado e excluir.
 THALITA: Tem um jeito rápido de comparar?
 FRANCISCA: Tem. O habeas corpus protege a locomoção ameaçada ou violada por ilegalidade ou abuso. O habeas data permite conhecer ou retificar informações do próprio impetrante em bancos governamentais ou de caráter público. O mandado de segurança protege direito líquido e certo não amparado por habeas corpus nem habeas data, por isso é residual.
-BRUNO: O mandado de injunção atua quando falta norma que inviabiliza direitos e liberdades constitucionais ou prerrogativas de nacionalidade, soberania e cidadania. E a ação popular anula ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.
-THALITA: E quem pode propor cada uma, e precisa de advogado?
-ANTONIO: Habeas corpus: qualquer pessoa, em favor próprio ou alheio, inclusive pessoa jurídica em favor de pessoa física, e dispensa advogado. Habeas data: o titular dos dados, com advogado. Mandado de segurança: pessoa física, jurídica, órgãos com capacidade processual e universalidades, com advogado. Mandado de injunção: o titular do direito inviabilizado. Ação popular: somente o cidadão.
-BRUNO: Custas: habeas corpus e habeas data são gratuitos. Mandado de segurança e injunção têm custas. Na ação popular, o autor é isento, salvo má-fé comprovada.
+THALITA: O mandado de injunção atua quando falta norma que inviabiliza direitos e liberdades constitucionais ou prerrogativas de nacionalidade, soberania e cidadania. E a ação popular anula ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.
+FRANCISCA: E quem pode propor cada uma, e precisa de advogado?
+THALITA: Habeas corpus: qualquer pessoa, em favor próprio ou alheio, inclusive pessoa jurídica em favor de pessoa física, e dispensa advogado. Habeas data: o titular dos dados, com advogado. Mandado de segurança: pessoa física, jurídica, órgãos com capacidade processual e universalidades, com advogado. Mandado de injunção: o titular do direito inviabilizado. Ação popular: somente o cidadão.
+FRANCISCA: Custas: habeas corpus e habeas data são gratuitos. Mandado de segurança e injunção têm custas. Na ação popular, o autor é isento, salvo má-fé comprovada.
 THALITA: E prazo?
 FRANCISCA: Habeas corpus, habeas data e injunção não têm prazo. O mandado de segurança tem cento e vinte dias, decadencial. A ação popular prescreve em cinco anos.
-BRUNO: Feição coletiva: o STF admite habeas corpus coletivo, não há habeas data coletivo, o mandado de segurança coletivo está no inciso setenta, o injunção coletivo está na Lei treze mil trezentos, e a ação popular já é coletiva por natureza.
-THALITA: Macete: só o habeas corpus dispensa advogado, e só HC e HD são gratuitos.
+THALITA: Feição coletiva: o STF admite habeas corpus coletivo, não há habeas data coletivo, o mandado de segurança coletivo está no inciso setenta, o injunção coletivo está na Lei treze mil trezentos, e a ação popular já é coletiva por natureza.
+FRANCISCA: Macete: só o habeas corpus dispensa advogado, e só HC e HD são gratuitos.
 == SLIDE: Habeas corpus e habeas data
 * HC preventivo (salvo-conduto) e liberatório
 * Paciente: só pessoa física
 * Súmulas 693, 694 e 695: não cabe HC
 * HD: recusa administrativa prévia (Súmula 2 STJ)
 * HD é personalíssimo; dispensa de advogado é só do HC
-ANTONIO: Habeas corpus. Há duas espécies: o preventivo, que gera o salvo-conduto, quando há ameaça; e o liberatório ou repressivo, quando a coação já se consumou.
+THALITA: Habeas corpus. Há duas espécies: o preventivo, que gera o salvo-conduto, quando há ameaça; e o liberatório ou repressivo, quando a coação já se consumou.
 FRANCISCA: O paciente só pode ser pessoa física. A pessoa jurídica pode ser impetrante, não paciente. O juiz ou tribunal pode conceder habeas corpus de ofício. Contra punição disciplinar militar, não cabe quanto ao mérito, pelo artigo cento e quarenta e dois, parágrafo segundo; o STF admite exame da legalidade: competência, forma e pena prevista.
-BRUNO: Três súmulas do STF que vedam habeas corpus: a seiscentos e noventa e três, contra condenação exclusivamente a multa; a seiscentos e noventa e quatro, contra pena de exclusão de militar ou perda de patente ou função pública; e a seiscentos e noventa e cinco, quando a pena privativa de liberdade já está extinta. Nas três, falta risco à locomoção.
-THALITA: Entendi: se não há risco para a liberdade de locomoção, não há habeas corpus, seja multa, perda de cargo ou pena já extinta. Passando ao habeas data?
-FRANCISCA: Sim. As hipóteses: conhecer informações pessoais; retificar dados quando não se prefira fazê-lo por processo sigiloso; e anotar contestação ou explicação sobre dado verdadeiro sob discussão. O interesse de agir exige prova da recusa ou da demora da autoridade administrativa, na Súmula dois do STJ.
-ANTONIO: O banco de dados é governamental ou de caráter público, o que inclui SPC e Serasa, porque as informações são transmissíveis a terceiros. Informação de terceiro ou de interesse coletivo não cabe: o caminho é mandado de segurança.
-BRUNO: A FCC adora: habeas data para obter certidão sobre processo administrativo de terceiro. Errado: o habeas data é personalíssimo, e a certidão negada se ataca por mandado de segurança. E "habeas data dispensa advogado": errado, só o habeas corpus dispensa.
-THALITA: Então para dado meu, habeas data; para certidão de outro, mandado de segurança.
+THALITA: Três súmulas do STF que vedam habeas corpus: a seiscentos e noventa e três, contra condenação exclusivamente a multa; a seiscentos e noventa e quatro, contra pena de exclusão de militar ou perda de patente ou função pública; e a seiscentos e noventa e cinco, quando a pena privativa de liberdade já está extinta. Nas três, falta risco à locomoção.
+FRANCISCA: Entendi: se não há risco para a liberdade de locomoção, não há habeas corpus, seja multa, perda de cargo ou pena já extinta. Passando ao habeas data?
+THALITA: Sim. As hipóteses: conhecer informações pessoais; retificar dados quando não se prefira fazê-lo por processo sigiloso; e anotar contestação ou explicação sobre dado verdadeiro sob discussão. O interesse de agir exige prova da recusa ou da demora da autoridade administrativa, na Súmula dois do STJ.
+FRANCISCA: O banco de dados é governamental ou de caráter público, o que inclui SPC e Serasa, porque as informações são transmissíveis a terceiros. Informação de terceiro ou de interesse coletivo não cabe: o caminho é mandado de segurança.
+THALITA: A FCC adora: habeas data para obter certidão sobre processo administrativo de terceiro. Errado: o habeas data é personalíssimo, e a certidão negada se ataca por mandado de segurança. E "habeas data dispensa advogado": errado, só o habeas corpus dispensa.
+FRANCISCA: Então para dado meu, habeas data; para certidão de outro, mandado de segurança.
 == SLIDE: Mandado de segurança individual
 * Direito líquido e certo: prova documental pré-constituída
 * Prazo: cento e vinte dias da ciência (Súmula 632)
 * Não cabe contra lei em tese (Súmula 266) nem coisa julgada (Súmula 268)
 * Não substitui ação de cobrança (Súmula 269)
-ANTONIO: Mandado de segurança individual. O direito líquido e certo é o comprovado de plano por prova documental pré-constituída, sem dilação probatória. A controvérsia apenas jurídica não impede a concessão, pela Súmula seiscentos e vinte e cinco.
+THALITA: Mandado de segurança individual. O direito líquido e certo é o comprovado de plano por prova documental pré-constituída, sem dilação probatória. A controvérsia apenas jurídica não impede a concessão, pela Súmula seiscentos e vinte e cinco.
 FRANCISCA: A autoridade coatora é o agente público ou o particular no exercício de atribuição do Poder Público, o delegatário. Atos de gestão comercial de estatais não cabem, pela Lei doze mil e dezesseis, artigo primeiro, parágrafo segundo.
 THALITA: E o prazo, como conta?
-BRUNO: Cento e vinte dias da ciência do ato, prazo decadencial considerado constitucional pela Súmula seiscentos e trinta e dois. Passou do prazo, perdeu o mandado de segurança, mas ainda pode ir pelas vias ordinárias.
-ANTONIO: Não cabe contra lei em tese, Súmula duzentos e sessenta e seis. Não cabe contra decisão transitada em julgado, Súmula duzentos e sessenta e oito. Não cabe contra decisão judicial recorrível com efeito suspensivo, nem contra ato administrativo de que caiba recurso com efeito suspensivo, independente de caução.
+FRANCISCA: Cento e vinte dias da ciência do ato, prazo decadencial considerado constitucional pela Súmula seiscentos e trinta e dois. Passou do prazo, perdeu o mandado de segurança, mas ainda pode ir pelas vias ordinárias.
+THALITA: Não cabe contra lei em tese, Súmula duzentos e sessenta e seis. Não cabe contra decisão transitada em julgado, Súmula duzentos e sessenta e oito. Não cabe contra decisão judicial recorrível com efeito suspensivo, nem contra ato administrativo de que caiba recurso com efeito suspensivo, independente de caução.
 FRANCISCA: E os efeitos patrimoniais: o mandado de segurança não substitui ação de cobrança, Súmula duzentos e sessenta e nove, e não produz efeitos patrimoniais pretéritos, Súmula duzentos e setenta e um.
 THALITA: Então vou resumir assim: lei em tese, coisa julgada e cobrança de valores passados, tudo isso o mandado de segurança não alcança. E o que ele alcança é o direito líquido e certo, provado de plano, dentro dos cento e vinte dias. Resumi certo?
-BRUNO: Resumiu. Falta só acrescentar a lei com efeitos concretos, que pode ser atacada, mas fica o foco no que cai mais.
+FRANCISCA: Resumiu. Falta só acrescentar a lei com efeitos concretos, que pode ser atacada, mas fica o foco no que cai mais.
 == SLIDE: Mandado de segurança coletivo: altíssima incidência
 * Partido: representação no Congresso Nacional
 * Sindicato e entidade de classe: legalmente constituídos
 * Associação: um ano de funcionamento
 * Sem autorização dos associados (Súmula 629)
 * Individual: desistir em trinta dias para se beneficiar
-ANTONIO: Mandado de segurança coletivo é altíssima incidência. Os legitimados do inciso setenta: partido político com representação no Congresso Nacional; organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.
-THALITA: Esse um ano vale para todos?
-BRUNO: Não! O um ano é exigido apenas da associação, não de sindicato nem de entidade de classe, no entendimento do STF. E basta um parlamentar em qualquer das Casas para o partido ter representação.
+THALITA: Mandado de segurança coletivo é altíssima incidência. Os legitimados do inciso setenta: partido político com representação no Congresso Nacional; organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.
+FRANCISCA: Esse um ano vale para todos?
+THALITA: Não! O um ano é exigido apenas da associação, não de sindicato nem de entidade de classe, no entendimento do STF. E basta um parlamentar em qualquer das Casas para o partido ter representação.
 FRANCISCA: A autorização dos associados é dispensada, Súmula seiscentos e vinte e nove, porque há substituição processual. A entidade de classe pode impetrar mesmo que o interesse seja só de parte da categoria, Súmula seiscentos e trinta.
-BRUNO: A FCC troca "representação no Congresso" por "representação em qualquer Casa Legislativa", ou acrescenta "autorização expressa dos associados".
-ANTONIO: Pelas regras da Lei doze mil e dezesseis: tutela direitos coletivos e individuais homogêneos, não menciona difusos. A coisa julgada limita-se aos membros substituídos. Não há litispendência com mandados individuais, mas o impetrante individual só se beneficia da decisão coletiva se desistir do seu em trinta dias da ciência comprovada.
-FRANCISCA: Sobre liminar, a lei previa oitiva prévia do representante da pessoa jurídica de direito público em setenta e duas horas. O STF, na ADI quatro mil duzentos e noventa e seis, julgada em dois mil e vinte e um, declarou inconstitucional essa exigência e a vedação genérica de liminares do artigo sétimo, parágrafo segundo.
-BRUNO: Cuidado: se a questão disser "nos termos da Lei doze mil e dezesseis", responda pela letra da lei, mesmo que a decisão do STF tenha mudado esse ponto.
+THALITA: A FCC troca "representação no Congresso" por "representação em qualquer Casa Legislativa", ou acrescenta "autorização expressa dos associados".
+FRANCISCA: Pelas regras da Lei doze mil e dezesseis: tutela direitos coletivos e individuais homogêneos, não menciona difusos. A coisa julgada limita-se aos membros substituídos. Não há litispendência com mandados individuais, mas o impetrante individual só se beneficia da decisão coletiva se desistir do seu em trinta dias da ciência comprovada.
+THALITA: Sobre liminar, a lei previa oitiva prévia do representante da pessoa jurídica de direito público em setenta e duas horas. O STF, na ADI quatro mil duzentos e noventa e seis, julgada em dois mil e vinte e um, declarou inconstitucional essa exigência e a vedação genérica de liminares do artigo sétimo, parágrafo segundo.
+FRANCISCA: Cuidado: se a questão disser "nos termos da Lei doze mil e dezesseis", responda pela letra da lei, mesmo que a decisão do STF tenha mudado esse ponto.
 THALITA: Vou fechar com um macete: partido, sindicato, entidade de classe e associação. Só a associação precisa de um ano de funcionamento, e nenhum deles precisa de autorização dos associados, porque é substituição processual. Se a prova trocar isso, eu já marco errado.
 == SLIDE: Mandado de injunção e ação popular
 * MI: norma de eficácia limitada e omissão
@@ -64,14 +64,14 @@ THALITA: Vou fechar com um macete: partido, sindicato, entidade de classe e asso
 * MI coletivo: MP, partido, sindicato, associação e Defensoria
 * Ação popular: só cidadão (Súmula 365)
 * Isenta de custas, salvo má-fé
-ANTONIO: Mandado de injunção, Lei treze mil trezentos, de dois mil e dezesseis. Pressupostos: norma constitucional de eficácia limitada mais omissão total ou parcial do legislador que inviabiliza o direito.
-FRANCISCA: Reconhecida a mora, fixa-se prazo razoável para editar a norma e estabelecem-se as condições para o exercício do direito, caso a mora persista. O alcance, em regra, é só entre as partes; excepcionalmente ultra partes ou erga omnes, quando indispensável. Norma superveniente produz efeitos para frente, salvo se mais favorável.
-THALITA: E quem pode impetrar o coletivo?
-BRUNO: Quatro legitimados, e a pegadinha: o Ministério Público, o partido com representação no Congresso, sindicato, entidade de classe ou associação com um ano, e a Defensoria Pública. MP e Defensoria entram no injunção coletivo, mas não no mandado de segurança coletivo.
+FRANCISCA: Mandado de injunção, Lei treze mil trezentos, de dois mil e dezesseis. Pressupostos: norma constitucional de eficácia limitada mais omissão total ou parcial do legislador que inviabiliza o direito.
+THALITA: Reconhecida a mora, fixa-se prazo razoável para editar a norma e estabelecem-se as condições para o exercício do direito, caso a mora persista. O alcance, em regra, é só entre as partes; excepcionalmente ultra partes ou erga omnes, quando indispensável. Norma superveniente produz efeitos para frente, salvo se mais favorável.
+FRANCISCA: E quem pode impetrar o coletivo?
+THALITA: Quatro legitimados, e a pegadinha: o Ministério Público, o partido com representação no Congresso, sindicato, entidade de classe ou associação com um ano, e a Defensoria Pública. MP e Defensoria entram no injunção coletivo, mas não no mandado de segurança coletivo.
 FRANCISCA: Na jurisprudência, nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze, o STF adotou a teoria concretista geral e mandou aplicar aos servidores públicos a Lei de Greve do setor privado, até que venha lei específica.
-ANTONIO: Ação popular. O autor é o cidadão, comprovado pelo título de eleitor. Pessoa jurídica não pode propor, Súmula trezentos e sessenta e cinco, e estrangeiro também não. O objeto é ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.
-THALITA: E o Ministério Público?
-BRUNO: Não é autor; atua como fiscal e pode assumir a ação se o autor desistir. A competência é do juízo de primeiro grau, mesmo contra autoridade com foro especial em outras ações. O autor é isento de custas e sucumbência, salvo má-fé. E mandado de segurança não substitui ação popular, Súmula cento e um.
+THALITA: Ação popular. O autor é o cidadão, comprovado pelo título de eleitor. Pessoa jurídica não pode propor, Súmula trezentos e sessenta e cinco, e estrangeiro também não. O objeto é ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural.
+FRANCISCA: E o Ministério Público?
+THALITA: Não é autor; atua como fiscal e pode assumir a ação se o autor desistir. A competência é do juízo de primeiro grau, mesmo contra autoridade com foro especial em outras ações. O autor é isento de custas e sucumbência, salvo má-fé. E mandado de segurança não substitui ação popular, Súmula cento e um.
 FRANCISCA: Exemplo: Carla, dezessete anos, eleitora, ajuíza ação popular contra contrato superfaturado do Município. É legítima, pois o alistamento aos dezesseis lhe confere cidadania ativa. Se perder sem má-fé, não paga custas nem honorários.
 THALITA: Pronto, agora falta só um bloco: os direitos sociais.
-ANTONIO: Exato. No próximo tema, vamos aos direitos sociais, dos artigos seis a onze.
+FRANCISCA: Exato. No próximo tema, vamos aos direitos sociais, dos artigos seis a onze.

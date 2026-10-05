@@ -6,40 +6,40 @@ SEGMENTO s185
 * Súmula 425 TST: só Varas e TRTs
 FRANCISCA: Terminamos as custas, que dependem de saber quem é o vencido. Agora, quem são as partes e quem as representa. Distinguem-se três capacidades. A capacidade de ser parte, que têm pessoas físicas, jurídicas e entes despersonalizados, como massa falida e espólio. A processual, de estar em juízo pessoalmente, que é do maior de dezoito anos. E a postulatória, de dirigir petições ao juízo, do advogado ou, excepcionalmente, da própria parte.
 THALITA: E o menor de dezoito anos, como reclama?
-BRUNO: Pelo artigo setecentos e noventa e três, por seus representantes legais. Na falta deles, pela Procuradoria da Justiça do Trabalho, pelo sindicato, pelo Ministério Público estadual ou por curador nomeado em juízo. A atuação desses é subsidiária, só na falta dos representantes legais.
-ANTONIO: Agora o jus postulandi, do artigo setecentos e noventa e um. Empregados e empregadores podem reclamar pessoalmente e acompanhar suas reclamações até o final. É uma faculdade. Nos dissídios individuais, podem se fazer representar por sindicato ou advogado, e nos coletivos a assistência por advogado é facultada.
-THALITA: Então, posso fazer tudo sozinho até o fim?
-FRANCISCA: Não. A Súmula quatrocentos e vinte e cinco do TST limita o jus postulandi às Varas e aos TRTs. Não alcança ação rescisória, ação cautelar, mandado de segurança e recursos de competência do TST.
-BRUNO: Admite: reclamação na Vara, embargos à execução, recurso ordinário e agravo de petição ao TRT. Não admite: rescisória, mesmo no TRT, cautelar, mandado de segurança, recurso de revista, embargos e agravo de instrumento no TST. Na homologação de acordo extrajudicial, também exige advogados distintos, e o trabalhador pode usar o do sindicato, artigo oitocentos e cinquenta e cinco-B.
+FRANCISCA: Pelo artigo setecentos e noventa e três, por seus representantes legais. Na falta deles, pela Procuradoria da Justiça do Trabalho, pelo sindicato, pelo Ministério Público estadual ou por curador nomeado em juízo. A atuação desses é subsidiária, só na falta dos representantes legais.
+THALITA: Agora o jus postulandi, do artigo setecentos e noventa e um. Empregados e empregadores podem reclamar pessoalmente e acompanhar suas reclamações até o final. É uma faculdade. Nos dissídios individuais, podem se fazer representar por sindicato ou advogado, e nos coletivos a assistência por advogado é facultada.
+FRANCISCA: Então, posso fazer tudo sozinho até o fim?
+THALITA: Não. A Súmula quatrocentos e vinte e cinco do TST limita o jus postulandi às Varas e aos TRTs. Não alcança ação rescisória, ação cautelar, mandado de segurança e recursos de competência do TST.
+FRANCISCA: Admite: reclamação na Vara, embargos à execução, recurso ordinário e agravo de petição ao TRT. Não admite: rescisória, mesmo no TRT, cautelar, mandado de segurança, recurso de revista, embargos e agravo de instrumento no TST. Na homologação de acordo extrajudicial, também exige advogados distintos, e o trabalhador pode usar o do sindicato, artigo oitocentos e cinquenta e cinco-B.
 THALITA: Macete: jus postulandi só até o TRT, e rescisória, cautelar e segurança, nunca.
-ANTONIO: Perfeito. Vamos agora à representação em audiência.
+FRANCISCA: Perfeito. Vamos agora à representação em audiência.
 == SLIDE: Preposto, representante do empregado e sindicato
 * Art. 843, § 1º: preposto conhece os fatos e obriga o empregador
 * § 3º: preposto não precisa ser empregado
 * Súmula 377 TST: exigia empregado antes de 11/11/2017
 * Sindicato: substituto processual amplo (Tema 823 STF)
-FRANCISCA: O artigo oitocentos e quarenta e três, parágrafo primeiro, facultou ao empregador fazer-se substituir pelo gerente ou qualquer outro preposto que tenha conhecimento do fato, cujas declarações obrigam o proponente. O parágrafo terceiro acrescenta que o preposto não precisa ser empregado da parte reclamada.
-THALITA: Então preposto tem de ter presenciado os fatos?
-BRUNO: Não precisa ter presenciado, mas precisa conhecê-los. O desconhecimento pode gerar confissão ficta. E as declarações dele obrigam o empregador.
-ANTONIO: A Súmula trezentos e setenta e sete do TST exigia que o preposto fosse empregado, salvo doméstico e micro ou pequeno empresário. Valia para audiências anteriores a onze de novembro de dois mil e dezessete. Depois, vale a dispensa do parágrafo terceiro. Confira se a súmula foi cancelada ou apenas superada.
-FRANCISCA: O representante do empregado, no parágrafo segundo, é outro empregado da mesma profissão ou o sindicato, quando há doença ou motivo poderoso, comprovado. Serve só para evitar o arquivamento e obter adiamento. Não depõe nem confessa pelo reclamante.
-BRUNO: Lembre também que o Código de Ética da OAB, artigo vinte e cinco, veda atuar ao mesmo tempo como advogado e preposto no processo. E, pelo artigo oitocentos e quarenta e quatro, parágrafo quinto, ausente o reclamado mas presente seu advogado, aceitam-se contestação e documentos, mitigando a Súmula cento e vinte e dois.
+THALITA: O artigo oitocentos e quarenta e três, parágrafo primeiro, facultou ao empregador fazer-se substituir pelo gerente ou qualquer outro preposto que tenha conhecimento do fato, cujas declarações obrigam o proponente. O parágrafo terceiro acrescenta que o preposto não precisa ser empregado da parte reclamada.
+FRANCISCA: Então preposto tem de ter presenciado os fatos?
+THALITA: Não precisa ter presenciado, mas precisa conhecê-los. O desconhecimento pode gerar confissão ficta. E as declarações dele obrigam o empregador.
+FRANCISCA: A Súmula trezentos e setenta e sete do TST exigia que o preposto fosse empregado, salvo doméstico e micro ou pequeno empresário. Valia para audiências anteriores a onze de novembro de dois mil e dezessete. Depois, vale a dispensa do parágrafo terceiro. Confira se a súmula foi cancelada ou apenas superada.
+THALITA: O representante do empregado, no parágrafo segundo, é outro empregado da mesma profissão ou o sindicato, quando há doença ou motivo poderoso, comprovado. Serve só para evitar o arquivamento e obter adiamento. Não depõe nem confessa pelo reclamante.
+FRANCISCA: Lembre também que o Código de Ética da OAB, artigo vinte e cinco, veda atuar ao mesmo tempo como advogado e preposto no processo. E, pelo artigo oitocentos e quarenta e quatro, parágrafo quinto, ausente o reclamado mas presente seu advogado, aceitam-se contestação e documentos, mitigando a Súmula cento e vinte e dois.
 THALITA: E o sindicato? Representa ou substitui?
-ANTONIO: Na representação atua em nome alheio. Na substituição processual, atua em nome próprio, defendendo direito alheio, com legitimação extraordinária. O STF, nos Recursos Extraordinários duzentos e dez mil e vinte e nove e cento e noventa e três mil quinhentos e três, e no Tema oitocentos e vinte e três, reconheceu ampla legitimidade do sindicato para defender direitos coletivos ou individuais da categoria, inclusive em liquidações e execuções, independentemente de autorização. A Súmula trezentos e dez, restritiva, foi cancelada em dois mil e três.
+FRANCISCA: Na representação atua em nome alheio. Na substituição processual, atua em nome próprio, defendendo direito alheio, com legitimação extraordinária. O STF, nos Recursos Extraordinários duzentos e dez mil e vinte e nove e cento e noventa e três mil quinhentos e três, e no Tema oitocentos e vinte e três, reconheceu ampla legitimidade do sindicato para defender direitos coletivos ou individuais da categoria, inclusive em liquidações e execuções, independentemente de autorização. A Súmula trezentos e dez, restritiva, foi cancelada em dois mil e três.
 THALITA: Sindicato substitui de modo amplo, e a Súmula trezentos e dez morreu.
 == SLIDE: Mandatos e irregularidade de representação
 * Expresso, apud acta e tácito
 * Apud acta: art. 791, § 3º; tácito: OJ 286 SBDI-1, sem substabelecer (OJ 200)
 * Súmulas 383, 395, 436 e 456
 * Irregularidade: 5 dias para sanar
-BRUNO: Três mandatos. O expresso surge pela procuração juntada e vale pelos poderes outorgados. O apud acta surge do registro em ata, a pedido verbal do advogado, com anuência da parte, artigo setecentos e noventa e um, parágrafo terceiro, só para o foro em geral. O tácito surge da presença do advogado em audiência, consignada em ata, sem procuração, pela Orientação Jurisprudencial duzentos e oitenta e seis da SBDI-um.
+FRANCISCA: Três mandatos. O expresso surge pela procuração juntada e vale pelos poderes outorgados. O apud acta surge do registro em ata, a pedido verbal do advogado, com anuência da parte, artigo setecentos e noventa e um, parágrafo terceiro, só para o foro em geral. O tácito surge da presença do advogado em audiência, consignada em ata, sem procuração, pela Orientação Jurisprudencial duzentos e oitenta e seis da SBDI-um.
 THALITA: E o mandato tácito pode substabelecer?
 FRANCISCA: Não. A Orientação Jurisprudencial duzentos da SBDI-um veda.
-ANTONIO: Súmula trezentos e oitenta e três: recurso de advogado sem procuração até a interposição é inadmissível, salvo mandato tácito. Excepcionalmente, a procuração pode ser exibida em cinco dias, prorrogáveis por igual período.
-BRUNO: Súmula trezentos e noventa e cinco: são válidos os atos do substabelecido mesmo sem poderes expressos para substabelecer, e é irregular o substabelecimento anterior à outorga. Súmula quatrocentos e trinta e seis: procuradores de entes públicos dispensam procuração e prova de nomeação, bastando declarar-se procurador. Não basta o número da OAB.
-FRANCISCA: Súmula quatrocentos e cinquenta e seis: é inválida a procuração de pessoa jurídica sem nome do outorgante e do signatário. Vício na instância originária: cinco dias, sob pena de extinção para o reclamante ou revelia para o reclamado. Em fase recursal: não conhecimento do recurso ou desentranhamento das contrarrazões. E a Orientação Jurisprudencial duzentos e cinquenta e cinco: desnecessário juntar contrato social, salvo impugnação.
-THALITA: Macete: irregularidade, cinco dias. Reclamante, extinção; reclamado, revelia; recorrente, não conhecimento; recorrido, desentranha as contrarrazões.
-ANTONIO: Perfeito, é o resumo ideal.
+THALITA: Súmula trezentos e oitenta e três: recurso de advogado sem procuração até a interposição é inadmissível, salvo mandato tácito. Excepcionalmente, a procuração pode ser exibida em cinco dias, prorrogáveis por igual período.
+FRANCISCA: Súmula trezentos e noventa e cinco: são válidos os atos do substabelecido mesmo sem poderes expressos para substabelecer, e é irregular o substabelecimento anterior à outorga. Súmula quatrocentos e trinta e seis: procuradores de entes públicos dispensam procuração e prova de nomeação, bastando declarar-se procurador. Não basta o número da OAB.
+THALITA: Súmula quatrocentos e cinquenta e seis: é inválida a procuração de pessoa jurídica sem nome do outorgante e do signatário. Vício na instância originária: cinco dias, sob pena de extinção para o reclamante ou revelia para o reclamado. Em fase recursal: não conhecimento do recurso ou desentranhamento das contrarrazões. E a Orientação Jurisprudencial duzentos e cinquenta e cinco: desnecessário juntar contrato social, salvo impugnação.
+FRANCISCA: Macete: irregularidade, cinco dias. Reclamante, extinção; reclamado, revelia; recorrente, não conhecimento; recorrido, desentranha as contrarrazões.
+THALITA: Perfeito, é o resumo ideal.
 == SLIDE: Massa falida e recuperação judicial
 * Falência: administrador judicial; JT apura, juízo universal paga
 * Recuperação: devedor segue representado; custas sim, depósito não
@@ -47,33 +47,33 @@ ANTONIO: Perfeito, é o resumo ideal.
 * OJ 143: liquidação extrajudicial executa na JT
 FRANCISCA: Na falência, a massa é representada pelo administrador judicial. Na recuperação judicial, o próprio devedor continua representado por seus administradores, e o administrador judicial fiscaliza. Em ambos, a ação trabalhista prossegue na Justiça do Trabalho até a apuração do crédito, que depois é habilitado no juízo universal, artigo sexto, parágrafo segundo, da Lei onze mil e cento e um, de dois mil e cinco.
 THALITA: Então a falência desloca a reclamação em curso para o juízo falimentar?
-BRUNO: Falso! A Justiça do Trabalho apura o crédito, e o juízo universal o satisfaz.
-ANTONIO: Na execução, na falência, ela fica suspensa, e o crédito vai para o quadro-geral de credores. Na recuperação, fica suspensa durante o período de suspensão, cento e oitenta dias, prorrogável uma vez, artigo sexto, parágrafo quarto.
+FRANCISCA: Falso! A Justiça do Trabalho apura o crédito, e o juízo universal o satisfaz.
+THALITA: Na execução, na falência, ela fica suspensa, e o crédito vai para o quadro-geral de credores. Na recuperação, fica suspensa durante o período de suspensão, cento e oitenta dias, prorrogável uma vez, artigo sexto, parágrafo quarto.
 FRANCISCA: Custas e depósito: a massa falida não sofre deserção, Súmula oitenta e seis. A empresa em recuperação paga custas, mas é isenta do depósito. As multas dos artigos quatrocentos e sessenta e sete e quatrocentos e setenta e sete, parágrafo oitavo, não incidem na massa falida, Súmula trezentos e oitenta e oito, mas incidem na recuperação.
-BRUNO: E na liquidação extrajudicial, regida pela Lei seis mil e vinte e quatro, de mil novecentos e setenta e quatro, a execução trabalhista prossegue diretamente na Justiça do Trabalho. É a Orientação Jurisprudencial cento e quarenta e três da SBDI-um, coerente com a parte final da Súmula oitenta e seis.
-THALITA: Falência, juízo universal paga; recuperação, paga custas sem depósito; liquidação extrajudicial, executa na Justiça do Trabalho.
+THALITA: E na liquidação extrajudicial, regida pela Lei seis mil e vinte e quatro, de mil novecentos e setenta e quatro, a execução trabalhista prossegue diretamente na Justiça do Trabalho. É a Orientação Jurisprudencial cento e quarenta e três da SBDI-um, coerente com a parte final da Súmula oitenta e seis.
+FRANCISCA: Falência, juízo universal paga; recuperação, paga custas sem depósito; liquidação extrajudicial, executa na Justiça do Trabalho.
 == SLIDE: Litisconsórcio, assistência e justiça gratuita
 * Art. 842: reclamação plúrima, mesma matéria e mesma empresa
 * Assistência judiciária: sindicato (Lei 5.584/1970)
 * Justiça gratuita: 40% do teto do RGPS (art. 790, § 3º)
 * Súmula 463: natural, declaração; jurídica, prova cabal
-ANTONIO: Litisconsórcio é a pluralidade de partes no mesmo polo. Na CLT, é a reclamação plúrima do artigo oitocentos e quarenta e dois: várias reclamações com identidade de matéria podem ser acumuladas se forem de empregados da mesma empresa ou estabelecimento.
-THALITA: É obrigatório juntar?
-FRANCISCA: Não, o verbo é poderão: é facultativo. As custas incidem sobre o valor global, Súmula trinta e seis. O litisconsórcio pode ser ativo, passivo, como prestadora e tomadora na Súmula trezentos e trinta e um, item quatro, ou misto. E pode ser facultativo ou necessário. Não há prazo em dobro, Orientação Jurisprudencial trezentos e dez.
-BRUNO: Agora três institutos que a FCC mistura. Assistência jurídica integral e gratuita é o gênero, artigo quinto, inciso setenta e quatro, da Constituição. Assistência judiciária é o patrocínio gratuito da causa, que na Justiça do Trabalho é prestado pelo sindicato da categoria, mesmo ao não associado, Lei cinco mil quinhentos e oitenta e quatro, artigos quatorze e dezoito. Justiça gratuita é a isenção de custas e despesas.
-ANTONIO: A justiça gratuita está no artigo setecentos e noventa. Parágrafo terceiro: faculdade do juiz, a requerimento ou de ofício, para quem recebe salário igual ou inferior a quarenta por cento do limite máximo dos benefícios do regime geral. Parágrafo quarto: concedida a quem comprovar insuficiência de recursos.
+THALITA: Litisconsórcio é a pluralidade de partes no mesmo polo. Na CLT, é a reclamação plúrima do artigo oitocentos e quarenta e dois: várias reclamações com identidade de matéria podem ser acumuladas se forem de empregados da mesma empresa ou estabelecimento.
+FRANCISCA: É obrigatório juntar?
+THALITA: Não, o verbo é poderão: é facultativo. As custas incidem sobre o valor global, Súmula trinta e seis. O litisconsórcio pode ser ativo, passivo, como prestadora e tomadora na Súmula trezentos e trinta e um, item quatro, ou misto. E pode ser facultativo ou necessário. Não há prazo em dobro, Orientação Jurisprudencial trezentos e dez.
+FRANCISCA: Agora três institutos que a FCC mistura. Assistência jurídica integral e gratuita é o gênero, artigo quinto, inciso setenta e quatro, da Constituição. Assistência judiciária é o patrocínio gratuito da causa, que na Justiça do Trabalho é prestado pelo sindicato da categoria, mesmo ao não associado, Lei cinco mil quinhentos e oitenta e quatro, artigos quatorze e dezoito. Justiça gratuita é a isenção de custas e despesas.
+THALITA: A justiça gratuita está no artigo setecentos e noventa. Parágrafo terceiro: faculdade do juiz, a requerimento ou de ofício, para quem recebe salário igual ou inferior a quarenta por cento do limite máximo dos benefícios do regime geral. Parágrafo quarto: concedida a quem comprovar insuficiência de recursos.
 FRANCISCA: Para pessoa natural, pela Súmula quatrocentos e sessenta e três, item um, e pelo Tema vinte e um do incidente de recursos repetitivos do TST, de dois mil e vinte e quatro, basta a declaração de hipossuficiência, presumida verdadeira, salvo prova em contrário da parte adversa. Para pessoa jurídica, item dois, exige-se demonstração cabal.
-BRUNO: Pegadinha: a Lei cinco mil quinhentos e oitenta e quatro fala em salário igual ou inferior ao dobro do mínimo para a assistência judiciária sindical. A CLT fala em quarenta por cento do teto do regime geral para a justiça gratuita. A FCC cruza os parâmetros.
-THALITA: Dobro do mínimo, assistência do sindicato. Quarenta por cento do teto, justiça gratuita. Entendi.
+THALITA: Pegadinha: a Lei cinco mil quinhentos e oitenta e quatro fala em salário igual ou inferior ao dobro do mínimo para a assistência judiciária sindical. A CLT fala em quarenta por cento do teto do regime geral para a justiça gratuita. A FCC cruza os parâmetros.
+FRANCISCA: Dobro do mínimo, assistência do sindicato. Quarenta por cento do teto, justiça gratuita. Entendi.
 == SLIDE: Resumo relâmpago da aula
 * Prazos em dias úteis; suspensão de 20/12 a 20/1
 * Custas: 2%; execução ao final; recuperação sem depósito
 * Jus postulandi até o TRT; preposto não precisa ser empregado
 * Gratuidade: 40% do teto; pessoa jurídica prova cabal
-ANTONIO: Chegou a hora do resumo relâmpago da aula.
-THALITA: Vamos lá! Prazos processuais em dias úteis, excluindo o dia do começo e incluindo o do vencimento. Suspensão de vinte de dezembro a vinte de janeiro, sem audiências nem sessões. Fazenda e Ministério Público do Trabalho com prazo em dobro, mistas e litisconsortes, não.
-BRUNO: Acrescente: reclamação verbal, cinco dias para reduzir a termo, ou perde seis meses. Valor do pedido estimado, e sumaríssimo até quarenta salários mínimos.
-THALITA: Custas de dois por cento, com mínimo e teto de quatro vezes o regime geral. Paga o vencido no prazo recursal, e no acordo cada um paga metade. Execução, executado ao final. Conselho profissional paga, recuperação judicial só é isenta do depósito, e massa falida não tem deserção.
-FRANCISCA: Jus postulandi só até o TRT, Súmula quatrocentos e vinte e cinco. Preposto conhece os fatos e não precisa ser empregado. Sindicato substitui de modo amplo. Mandato tácito não substabelece.
-THALITA: Gratuidade: quarenta por cento do teto, e pessoa jurídica precisa provar de forma cabal. Irregularidade de representação: cinco dias.
-ANTONIO: Chegamos ao fim desta aula. Bons estudos e até a próxima!
+THALITA: Chegou a hora do resumo relâmpago da aula.
+FRANCISCA: Vamos lá! Prazos processuais em dias úteis, excluindo o dia do começo e incluindo o do vencimento. Suspensão de vinte de dezembro a vinte de janeiro, sem audiências nem sessões. Fazenda e Ministério Público do Trabalho com prazo em dobro, mistas e litisconsortes, não.
+THALITA: Acrescente: reclamação verbal, cinco dias para reduzir a termo, ou perde seis meses. Valor do pedido estimado, e sumaríssimo até quarenta salários mínimos.
+FRANCISCA: Custas de dois por cento, com mínimo e teto de quatro vezes o regime geral. Paga o vencido no prazo recursal, e no acordo cada um paga metade. Execução, executado ao final. Conselho profissional paga, recuperação judicial só é isenta do depósito, e massa falida não tem deserção.
+THALITA: Jus postulandi só até o TRT, Súmula quatrocentos e vinte e cinco. Preposto conhece os fatos e não precisa ser empregado. Sindicato substitui de modo amplo. Mandato tácito não substabelece.
+FRANCISCA: Gratuidade: quarenta por cento do teto, e pessoa jurídica precisa provar de forma cabal. Irregularidade de representação: cinco dias.
+THALITA: Chegamos ao fim desta aula. Bons estudos e até a próxima!

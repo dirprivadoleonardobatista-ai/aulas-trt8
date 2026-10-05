@@ -6,26 +6,26 @@ SEGMENTO s136
 * Autônomo: riscos dele; empregado: riscos do empregador
 FRANCISCA: Vimos o que é relação de emprego. Agora, as figuras vizinhas, que se identificam pelo requisito que lhes falta ou por regra legal que afasta o vínculo. Autônomo: falta subordinação. Eventual: falta não eventualidade. Voluntário: falta onerosidade.
 THALITA: E estagiário e cooperado?
-BRUNO: A lei afasta o vínculo, se cumpridos os requisitos formais. O temporário tem vínculo com a empresa de trabalho temporária, não com a tomadora. E o avulso tem intermediação obrigatória e igualdade constitucional de direitos.
-ANTONIO: Começando pelo autônomo. O artigo quatrocentos e quarenta e dois traço B, criado pela Reforma, diz que a contratação do autônomo, cumpridas por ele todas as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a qualidade de empregado.
-THALITA: Então o autônomo pode trabalhar sempre para o mesmo cliente?
-FRANCISCA: Pode. Exclusividade e continuidade, isoladamente, não geram emprego. Mas o dispositivo não derroga a primazia da realidade. Se houver subordinação jurídica de fato, a formalidade é fraude, artigo nono, e o vínculo é reconhecido.
-BRUNO: Comparando: no autônomo, quem dirige o trabalho é o próprio trabalhador e os riscos são dele. No eventual, o tomador dirige de forma episódica e os riscos são do tomador. No empregado, o empregador dirige e assume os riscos, a chamada alteridade. A exclusividade pode existir no autônomo e não é exigida no empregado.
+FRANCISCA: A lei afasta o vínculo, se cumpridos os requisitos formais. O temporário tem vínculo com a empresa de trabalho temporária, não com a tomadora. E o avulso tem intermediação obrigatória e igualdade constitucional de direitos.
+THALITA: Começando pelo autônomo. O artigo quatrocentos e quarenta e dois traço B, criado pela Reforma, diz que a contratação do autônomo, cumpridas por ele todas as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a qualidade de empregado.
+FRANCISCA: Então o autônomo pode trabalhar sempre para o mesmo cliente?
+THALITA: Pode. Exclusividade e continuidade, isoladamente, não geram emprego. Mas o dispositivo não derroga a primazia da realidade. Se houver subordinação jurídica de fato, a formalidade é fraude, artigo nono, e o vínculo é reconhecido.
+FRANCISCA: Comparando: no autônomo, quem dirige o trabalho é o próprio trabalhador e os riscos são dele. No eventual, o tomador dirige de forma episódica e os riscos são do tomador. No empregado, o empregador dirige e assume os riscos, a chamada alteridade. A exclusividade pode existir no autônomo e não é exigida no empregado.
 THALITA: Macete: autônomo se dirige sozinho, eventual é bico, empregado é dirigido.
 == SLIDE: Trabalho temporário: hipóteses e prazos
 * Relação triangular: ETT, tomadora e trabalhador
 * Hipóteses: substituição transitória ou demanda complementar
 * Prazo: 180 dias, mais 90 de prorrogação
 * Quarentena de 90 dias; descumprir gera vínculo com a tomadora
-ANTONIO: O trabalho temporário, Lei seis mil e dezenove, de mil novecentos e setenta e quatro, alterada pela Lei treze mil quatrocentos e vinte e nove, de dois mil e dezessete. A relação é triangular: a empresa de trabalho temporário contrata o trabalhador e o coloca à disposição de uma tomadora.
+FRANCISCA: O trabalho temporário, Lei seis mil e dezenove, de mil novecentos e setenta e quatro, alterada pela Lei treze mil quatrocentos e vinte e nove, de dois mil e dezessete. A relação é triangular: a empresa de trabalho temporário contrata o trabalhador e o coloca à disposição de uma tomadora.
 THALITA: E com quem é o vínculo?
 FRANCISCA: Com a empresa de trabalho temporário. Com a tomadora não há vínculo, qualquer que seja o ramo de atividade. As hipóteses são duas: substituição transitória de pessoal permanente e demanda complementar de serviços, decorrente de fatores imprevisíveis ou, se previsíveis, de natureza intermitente, periódica ou sazonal. É proibido para substituir grevistas, salvo hipóteses legais.
-BRUNO: Pode abranger atividades-meio e atividades-fim. O prazo máximo é de cento e oitenta dias, consecutivos ou não, prorrogáveis por até noventa dias, se mantidas as condições que justificaram a contratação. Soma duzentos e setenta dias.
-THALITA: E se quiser voltar logo?
-BRUNO: Quarentena de noventa dias para nova colocação na mesma tomadora. Descumprida, forma vínculo de emprego com a tomadora. O contrato de experiência não se aplica ao temporário contratado depois pela tomadora.
+THALITA: Pode abranger atividades-meio e atividades-fim. O prazo máximo é de cento e oitenta dias, consecutivos ou não, prorrogáveis por até noventa dias, se mantidas as condições que justificaram a contratação. Soma duzentos e setenta dias.
+FRANCISCA: E se quiser voltar logo?
+THALITA: Quarentena de noventa dias para nova colocação na mesma tomadora. Descumprida, forma vínculo de emprego com a tomadora. O contrato de experiência não se aplica ao temporário contratado depois pela tomadora.
 FRANCISCA: Exemplo: a Tereza é colocada em primeiro de outubro, para pico de vendas de fim de ano. Pode durar cento e oitenta dias, prorrogáveis por mais noventa. Se encerrar em vinte e oito de março, só volta à loja noventa dias depois, como temporária. Se voltar antes, forma vínculo direto.
 THALITA: Deixa eu ver se entendi a conta do exemplo. Entrou em primeiro de outubro, trabalhou até o fim de março, são os seis meses, os cento e oitenta dias. Depois tem que esperar noventa dias para voltar. Se voltar antes, vira empregada da loja. Gravei: seis meses, três meses de espera.
-ANTONIO: A empresa de trabalho temporário é pessoa jurídica registrada no Ministério do Trabalho, com capital social mínimo de cem mil reais. O contrato com a tomadora é escrito, com motivo justificador, prazo, valor e regras de saúde e segurança.
+FRANCISCA: A empresa de trabalho temporário é pessoa jurídica registrada no Ministério do Trabalho, com capital social mínimo de cem mil reais. O contrato com a tomadora é escrito, com motivo justificador, prazo, valor e regras de saúde e segurança.
 == SLIDE: Direitos do temporário e pegadinhas
 * Responsabilidade da tomadora: subsidiária; solidária na falência
 * Remuneração equivalente à dos empregados da tomadora
@@ -33,24 +33,24 @@ ANTONIO: A empresa de trabalho temporário é pessoa jurídica registrada no Min
 * Quarentena: temporário 90 dias; terceirizado 18 meses
 THALITA: E quem paga se a empresa de trabalho temporário não pagar?
 FRANCISCA: A tomadora responde subsidiariamente pelas obrigações do período. E responde solidariamente na falência da empresa de trabalho temporário. A tomadora tem o dever de garantir saúde e segurança quando o trabalho é nas suas dependências, e pode estender ao temporário o refeitório e o atendimento médico.
-BRUNO: Os direitos do temporário, artigo doze: remuneração equivalente à dos empregados da mesma categoria da tomadora; jornada de oito horas, com horas extras e adicional mínimo de cinquenta por cento; férias proporcionais; repouso semanal remunerado; adicional noturno; seguro contra acidente do trabalho; proteção previdenciária; FGTS e décimo terceiro.
-ANTONIO: Aqui vai uma pegadinha clássica: no temporário, a isonomia salarial é obrigatória. No terceirizado, é facultativa, artigo quarto traço C, parágrafo primeiro.
+THALITA: Os direitos do temporário, artigo doze: remuneração equivalente à dos empregados da mesma categoria da tomadora; jornada de oito horas, com horas extras e adicional mínimo de cinquenta por cento; férias proporcionais; repouso semanal remunerado; adicional noturno; seguro contra acidente do trabalho; proteção previdenciária; FGTS e décimo terceiro.
+FRANCISCA: Aqui vai uma pegadinha clássica: no temporário, a isonomia salarial é obrigatória. No terceirizado, é facultativa, artigo quarto traço C, parágrafo primeiro.
 THALITA: E a quarentena do terceirizado?
-BRUNO: A FCC troca os números. Temporário: noventa dias. Terceirizado: dezoito meses. Cento e oitenta mais noventa, até duzentos e setenta dias no total. Se lembrar dessas combinações, você não cai.
-FRANCISCA: A tomadora também não pode contratar o temporário para substituir grevistas.
-THALITA: Resumindo: temporário, cento e oitenta mais noventa, quarentena de noventa, isonomia obrigatória, responsabilidade subsidiária.
+FRANCISCA: A FCC troca os números. Temporário: noventa dias. Terceirizado: dezoito meses. Cento e oitenta mais noventa, até duzentos e setenta dias no total. Se lembrar dessas combinações, você não cai.
+THALITA: A tomadora também não pode contratar o temporário para substituir grevistas.
+FRANCISCA: Resumindo: temporário, cento e oitenta mais noventa, quarentena de noventa, isonomia obrigatória, responsabilidade subsidiária.
 == SLIDE: Avulso, estagiário, voluntário e cooperado
 * Avulso portuário: OGMO; não portuário: sindicato; sem vínculo
 * Estagiário: 4 ou 6 horas; máximo 2 anos; recesso 30 dias
 * Voluntário: Lei 9.608/1998, termo de adesão
 * Cooperado: sem vínculo (art. 442); presunção relativa
-ANTONIO: O trabalhador avulso. O portuário, Lei doze mil oitocentos e quinze, de dois mil e treze, é intermediado pelo OGMO, o Órgão Gestor de Mão de Obra. O não portuário, Lei doze mil e vinte e três, de dois mil e nove, é intermediado pelo sindicato da categoria. Em ambos, não há vínculo com o intermediador nem com o tomador.
-BRUNO: O OGMO responde solidariamente com os operadores portuários pela remuneração. No avulso não portuário, os tomadores respondem solidariamente pela remuneração e pelo recolhimento dos encargos. E o avulso não é empregado, mas a Constituição, no artigo sétimo, inciso trigésimo quarto, lhe garante igualdade de direitos.
+THALITA: O trabalhador avulso. O portuário, Lei doze mil oitocentos e quinze, de dois mil e treze, é intermediado pelo OGMO, o Órgão Gestor de Mão de Obra. O não portuário, Lei doze mil e vinte e três, de dois mil e nove, é intermediado pelo sindicato da categoria. Em ambos, não há vínculo com o intermediador nem com o tomador.
+FRANCISCA: O OGMO responde solidariamente com os operadores portuários pela remuneração. No avulso não portuário, os tomadores respondem solidariamente pela remuneração e pelo recolhimento dos encargos. E o avulso não é empregado, mas a Constituição, no artigo sétimo, inciso trigésimo quarto, lhe garante igualdade de direitos.
 THALITA: E o estagiário? Tem carteira assinada?
 FRANCISCA: Não gera vínculo se cumpridos os requisitos: matrícula e frequência regular, termo de compromisso entre educando, concedente e instituição de ensino, e compatibilidade com o curso. Jornada de quatro horas diárias e vinte semanais para educação especial e anos finais do fundamental; seis diárias e trinta semanais para ensino superior, médio e profissional. Duração máxima de dois anos na mesma concedente, salvo estagiário com deficiência.
-BRUNO: No estágio não obrigatório, bolsa e auxílio-transporte são compulsórios. O recesso é de trinta dias para estágio de um ano ou mais, proporcional se menor, remunerado quando houver bolsa. O seguro contra acidentes pessoais é obrigatório, e cada supervisor orienta até dez estagiários. O desvirtuamento gera vínculo, e a reincidência impede a concedente de receber estagiários por dois anos.
-THALITA: Macete do estágio: quatro ou seis horas, dois anos no máximo, trinta dias de recesso, dez estagiários por supervisor. Estágio de verdade é escola, não é emprego disfarçado. Se virar emprego disfarçado, o vínculo nasce e a empresa ainda fica dois anos sem poder receber estagiário.
-ANTONIO: O voluntário, Lei nove mil seiscentos e oito, de mil novecentos e noventa e oito, presta atividade não remunerada a entidade pública ou instituição privada sem fins lucrativos, com termo de adesão. Despesas podem ser ressarcidas sem gerar vínculo.
+THALITA: No estágio não obrigatório, bolsa e auxílio-transporte são compulsórios. O recesso é de trinta dias para estágio de um ano ou mais, proporcional se menor, remunerado quando houver bolsa. O seguro contra acidentes pessoais é obrigatório, e cada supervisor orienta até dez estagiários. O desvirtuamento gera vínculo, e a reincidência impede a concedente de receber estagiários por dois anos.
+FRANCISCA: Macete do estágio: quatro ou seis horas, dois anos no máximo, trinta dias de recesso, dez estagiários por supervisor. Estágio de verdade é escola, não é emprego disfarçado. Se virar emprego disfarçado, o vínculo nasce e a empresa ainda fica dois anos sem poder receber estagiário.
+THALITA: O voluntário, Lei nove mil seiscentos e oito, de mil novecentos e noventa e oito, presta atividade não remunerada a entidade pública ou instituição privada sem fins lucrativos, com termo de adesão. Despesas podem ser ressarcidas sem gerar vínculo.
 FRANCISCA: Quanto ao cooperado, o artigo quatrocentos e quarenta e dois, parágrafo único, diz que não há vínculo entre a cooperativa e seus associados, nem entre estes e os tomadores. Mas a presunção é relativa: provada a subordinação ao tomador, a cooperativa é fraudulenta e o vínculo se forma com o tomador. A Lei doze mil seiscentos e noventa proíbe cooperativa de trabalho para intermediar mão de obra subordinada.
 THALITA: E o próximo tema, qual é?
-ANTONIO: Duas figuras importantes: o trabalho intermitente e as espécies de empregado.
+FRANCISCA: Duas figuras importantes: o trabalho intermitente e as espécies de empregado.

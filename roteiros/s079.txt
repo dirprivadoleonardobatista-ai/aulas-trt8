@@ -5,19 +5,17 @@ SEGMENTO s079
 * Princípios: unidade, indivisibilidade e independência funcional
 * Unidade existe dentro de cada MP, não entre MPU e MPs estaduais
 * Promotor natural: implícito, veda designações casuísticas
-ANTONIO: Olá, boas-vindas à aula vinte e três de Direito Constitucional. Nosso tema é as funções essenciais à Justiça, artigos cento e vinte e sete a cento e trinta e cinco. Vamos ver o Ministério Público, a Advocacia Pública, a Advocacia e a Defensoria Pública, e depois fazemos questões comentadas no estilo FCC. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, professora, e trago a lei e a jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC, e mostro como a banca cobra.
-THALITA: E eu sou a Thalita, concurseira, e pergunto o que você perguntaria.
-ANTONIO: Começamos pelo artigo cento e vinte e sete. O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, e cuida da defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
+FRANCISCA: Olá, boas-vindas à aula vinte e três de Direito Constitucional. Nosso tema é as funções essenciais à Justiça, artigos cento e vinte e sete a cento e trinta e cinco. Vamos ver o Ministério Público, a Advocacia Pública, a Advocacia e a Defensoria Pública, e depois fazemos questões comentadas no estilo FCC. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começamos pelo artigo cento e vinte e sete. O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, e cuida da defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
 THALITA: Permanente quer dizer o quê na prática?
 FRANCISCA: Que ele não pode ser suprimido, nem por emenda constitucional, segundo a doutrina majoritária. É um limite implícito. E a missão é tríplice: ordem jurídica, regime democrático e interesses indisponíveis.
-BRUNO: Cuidado com a palavra indisponíveis. Se a questão disser interesses individuais em geral, está errado.
-ANTONIO: Agora os princípios institucionais do parágrafo primeiro: unidade, indivisibilidade e independência funcional. Unidade: os membros integram um só órgão, sob uma chefia, dentro de cada ramo.
+THALITA: Cuidado com a palavra indisponíveis. Se a questão disser interesses individuais em geral, está errado.
+FRANCISCA: Agora os princípios institucionais do parágrafo primeiro: unidade, indivisibilidade e independência funcional. Unidade: os membros integram um só órgão, sob uma chefia, dentro de cada ramo.
 THALITA: Dentro de cada ramo? Então não há unidade entre o Ministério Público da União e o do Estado?
 FRANCISCA: Exato. A unidade existe dentro de cada Ministério Público, não entre o da União e os estaduais.
-ANTONIO: Indivisibilidade: um membro pode substituir outro no mesmo processo sem alterar a relação processual, porque atua em nome da instituição, observadas as regras legais de substituição.
-BRUNO: E independência funcional: na atividade-fim, o membro só se vincula à Constituição, à lei e à sua consciência. Não existe hierarquia funcional, só administrativa.
+THALITA: Indivisibilidade: um membro pode substituir outro no mesmo processo sem alterar a relação processual, porque atua em nome da instituição, observadas as regras legais de substituição.
+FRANCISCA: E independência funcional: na atividade-fim, o membro só se vincula à Constituição, à lei e à sua consciência. Não existe hierarquia funcional, só administrativa.
 THALITA: Macete: hierarquia só administrativa, nunca funcional.
 FRANCISCA: Há ainda o princípio implícito do promotor natural, que veda designações casuísticas pelo chefe da instituição. O STF o reconhece.
 == SLIDE: Autonomia e estrutura do Ministério Público
@@ -26,56 +24,56 @@ FRANCISCA: Há ainda o princípio implícito do promotor natural, que veda desig
 * MPs dos Estados: chefe é o PGJ
 * MP Eleitoral e MP junto ao TC não são ramos do art. 128
 * PGR: Senado aprova, recondução sem limite; PGJ: lista tríplice
-ANTONIO: O Ministério Público tem autonomia funcional e administrativa. Pode propor ao Legislativo a criação e extinção de cargos e serviços auxiliares, providos por concurso, e a política remuneratória.
+THALITA: O Ministério Público tem autonomia funcional e administrativa. Pode propor ao Legislativo a criação e extinção de cargos e serviços auxiliares, providos por concurso, e a política remuneratória.
 FRANCISCA: Tem também autonomia orçamentária: elabora a proposta nos limites da lei de diretrizes orçamentárias. Se não enviar no prazo, o Executivo considera os valores da lei vigente.
 THALITA: Então o prazo importa: se atrasar, vale o orçamento da lei em vigor.
-ANTONIO: Vamos à estrutura, artigo cento e vinte e oito. De um lado, o Ministério Público da União, chefiado pelo Procurador-Geral da República. De outro, os Ministérios Públicos dos Estados, chefiados pelos Procuradores-Gerais de Justiça.
-FRANCISCA: A União tem quatro ramos: Ministério Público Federal, do Trabalho, Militar e do Distrito Federal e Territórios.
-BRUNO: Duas pegadinhas. O Ministério Público Eleitoral não é ramo: a função é exercida pelo Federal com membros estaduais. E o Ministério Público junto ao Tribunal de Contas está no artigo cento e trinta, fora do cento e vinte e oito.
+FRANCISCA: Vamos à estrutura, artigo cento e vinte e oito. De um lado, o Ministério Público da União, chefiado pelo Procurador-Geral da República. De outro, os Ministérios Públicos dos Estados, chefiados pelos Procuradores-Gerais de Justiça.
+THALITA: A União tem quatro ramos: Ministério Público Federal, do Trabalho, Militar e do Distrito Federal e Territórios.
+FRANCISCA: Duas pegadinhas. O Ministério Público Eleitoral não é ramo: a função é exercida pelo Federal com membros estaduais. E o Ministério Público junto ao Tribunal de Contas está no artigo cento e trinta, fora do cento e vinte e oito.
 THALITA: Então Ministério Público Eleitoral e Ministério Público de Contas não são ramos do Ministério Público da União.
-ANTONIO: Agora compare os chefes. O Procurador-Geral da República é escolhido pelo Presidente da República entre integrantes da carreira maiores de trinta e cinco anos, com aprovação por maioria absoluta do Senado. Mandato de dois anos, com recondução sem limite.
-FRANCISCA: Destituição do Procurador-Geral da República: iniciativa do Presidente, precedida de autorização da maioria absoluta do Senado. E a Constituição não exige lista tríplice para ele.
-BRUNO: Já o Procurador-Geral de Justiça é escolhido pelo chefe do Executivo a partir de lista tríplice formada pela carreira. Não há sabatina constitucional. Mandato de dois anos, permitida uma recondução. A destituição se dá por maioria absoluta do Legislativo, na forma da lei complementar.
+FRANCISCA: Agora compare os chefes. O Procurador-Geral da República é escolhido pelo Presidente da República entre integrantes da carreira maiores de trinta e cinco anos, com aprovação por maioria absoluta do Senado. Mandato de dois anos, com recondução sem limite.
+THALITA: Destituição do Procurador-Geral da República: iniciativa do Presidente, precedida de autorização da maioria absoluta do Senado. E a Constituição não exige lista tríplice para ele.
+FRANCISCA: Já o Procurador-Geral de Justiça é escolhido pelo chefe do Executivo a partir de lista tríplice formada pela carreira. Não há sabatina constitucional. Mandato de dois anos, permitida uma recondução. A destituição se dá por maioria absoluta do Legislativo, na forma da lei complementar.
 THALITA: Deixa eu ver. Procurador-Geral da República: Senado aprova, recondução sem limite. Procurador-Geral de Justiça: lista tríplice, uma recondução.
-ANTONIO: Perfeito. A FCC adora trocar esses dois.
+FRANCISCA: Perfeito. A FCC adora trocar esses dois.
 == SLIDE: Ministério Público do Trabalho, garantias e vedações
 * MPT: Procurador-Geral do Trabalho, mandato de 2 anos, uma recondução
 * Vitaliciedade após 2 anos; inamovibilidade por maioria absoluta do colegiado
 * Vedado: honorários, advocacia, sociedade comercial, política partidária
 * Uma função de magistério é a única exceção
 * Quarentena de 3 anos (art. 128, § 6º)
-FRANCISCA: Um aprofundamento sobre o Ministério Público do Trabalho, regido pela Lei Complementar setenta e cinco, de mil novecentos e noventa e três. É chefiado pelo Procurador-Geral do Trabalho, nomeado pelo Procurador-Geral da República entre integrantes com mais de trinta e cinco anos de idade e cinco de carreira, a partir de lista tríplice do Colégio de Procuradores. Mandato de dois anos, uma recondução.
-BRUNO: Ele atua perante a Justiça do Trabalho como parte, na ação civil pública, na ação anulatória de cláusula convencional e no dissídio coletivo em greve de atividade essencial, artigo cento e catorze, parágrafo terceiro. E também como fiscal da ordem jurídica.
+THALITA: Um aprofundamento sobre o Ministério Público do Trabalho, regido pela Lei Complementar setenta e cinco, de mil novecentos e noventa e três. É chefiado pelo Procurador-Geral do Trabalho, nomeado pelo Procurador-Geral da República entre integrantes com mais de trinta e cinco anos de idade e cinco de carreira, a partir de lista tríplice do Colégio de Procuradores. Mandato de dois anos, uma recondução.
+FRANCISCA: Ele atua perante a Justiça do Trabalho como parte, na ação civil pública, na ação anulatória de cláusula convencional e no dissídio coletivo em greve de atividade essencial, artigo cento e catorze, parágrafo terceiro. E também como fiscal da ordem jurídica.
 THALITA: E instaura inquérito civil, e pode ser árbitro e mediador em conflitos trabalhistas. Isso interessa muito para o nosso concurso de TRT.
-ANTONIO: Passando às garantias, artigo cento e vinte e oito, parágrafo quinto, inciso primeiro. Vitaliciedade, após dois anos de exercício, e a perda do cargo só por sentença judicial transitada em julgado.
+FRANCISCA: Passando às garantias, artigo cento e vinte e oito, parágrafo quinto, inciso primeiro. Vitaliciedade, após dois anos de exercício, e a perda do cargo só por sentença judicial transitada em julgado.
 THALITA: Antes de dois anos, então, não é vitalício.
 FRANCISCA: Isso. Segunda garantia, inamovibilidade: salvo interesse público, por decisão do órgão colegiado competente, pela maioria absoluta dos membros, com ampla defesa. Terceira, irredutibilidade de subsídio, com as mesmas ressalvas dos magistrados.
-BRUNO: Pegadinha: dizer que a remoção por interesse público depende de decisão do chefe da instituição. Não: é do colegiado, por maioria absoluta.
-ANTONIO: As vedações vêm no inciso segundo e no parágrafo sexto. O membro não pode receber honorários, percentagens ou custas processuais, nem exercer a advocacia, nem participar de sociedade comercial, na forma da lei.
-FRANCISCA: Também não pode exercer outra função pública, ainda que em disponibilidade, salvo uma de magistério. E não pode receber auxílios ou contribuições de pessoas ou entidades, ressalvadas as exceções legais.
-BRUNO: E atividade político-partidária: sem exceções depois da Emenda Constitucional quarenta e cinco, de dois mil e quatro.
+THALITA: Pegadinha: dizer que a remoção por interesse público depende de decisão do chefe da instituição. Não: é do colegiado, por maioria absoluta.
+FRANCISCA: As vedações vêm no inciso segundo e no parágrafo sexto. O membro não pode receber honorários, percentagens ou custas processuais, nem exercer a advocacia, nem participar de sociedade comercial, na forma da lei.
+THALITA: Também não pode exercer outra função pública, ainda que em disponibilidade, salvo uma de magistério. E não pode receber auxílios ou contribuições de pessoas ou entidades, ressalvadas as exceções legais.
+FRANCISCA: E atividade político-partidária: sem exceções depois da Emenda Constitucional quarenta e cinco, de dois mil e quatro.
 THALITA: Tem também a quarentena de três anos para advogar no juízo ou tribunal de onde se afastou, né?
-ANTONIO: Sim, o parágrafo sexto remete ao artigo noventa e cinco, parágrafo único, inciso cinco.
-BRUNO: É a mesma lógica da magistratura, por isso a remissão.
+FRANCISCA: Sim, o parágrafo sexto remete ao artigo noventa e cinco, parágrafo único, inciso cinco.
+THALITA: É a mesma lógica da magistratura, por isso a remissão.
 == SLIDE: Funções institucionais do Ministério Público (art. 129)
 * Ação penal pública: privativa; exceção é a ação privada subsidiária
 * Inquérito civil e ação civil pública; legitimação de terceiros permanece
 * ADI, intervenção, populações indígenas, controle externo da polícia
 * Vedada a representação judicial e a consultoria de entes públicos
 * Ingresso: 3 anos de atividade jurídica; residência na comarca
-ANTONIO: Funções institucionais, artigo cento e vinte e nove. A primeira e mais cobrada: promover, privativamente, a ação penal pública.
+FRANCISCA: Funções institucionais, artigo cento e vinte e nove. A primeira e mais cobrada: promover, privativamente, a ação penal pública.
 THALITA: Privativamente... mas e a ação penal privada subsidiária?
 FRANCISCA: É a exceção do artigo quinto, inciso cinquenta e nove. A regra é a privatividade do Ministério Público.
-BRUNO: A FCC pergunta se a ação penal pública é exclusiva, e a resposta é privativa, com essa exceção.
-ANTONIO: Ele também zela pelo respeito dos Poderes e dos serviços de relevância pública aos direitos constitucionais, e promove inquérito civil e ação civil pública para proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos.
-FRANCISCA: E a legitimação do Ministério Público para ações civis não impede a de terceiros, parágrafo primeiro.
-THALITA: Então outros também podem propor ação civil pública.
-ANTONIO: Mais funções: promover ação direta de inconstitucionalidade e representação para intervenção; defender judicialmente direitos e interesses das populações indígenas; expedir notificações e requisitar informações e documentos.
+THALITA: A FCC pergunta se a ação penal pública é exclusiva, e a resposta é privativa, com essa exceção.
+FRANCISCA: Ele também zela pelo respeito dos Poderes e dos serviços de relevância pública aos direitos constitucionais, e promove inquérito civil e ação civil pública para proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos.
+THALITA: E a legitimação do Ministério Público para ações civis não impede a de terceiros, parágrafo primeiro.
+FRANCISCA: Então outros também podem propor ação civil pública.
+THALITA: Mais funções: promover ação direta de inconstitucionalidade e representação para intervenção; defender judicialmente direitos e interesses das populações indígenas; expedir notificações e requisitar informações e documentos.
 FRANCISCA: Exercer o controle externo da atividade policial, e requisitar diligências investigatórias e a instauração de inquérito policial.
-BRUNO: A última é a cláusula aberta: outras funções compatíveis com a finalidade. Mas são vedadas a representação judicial e a consultoria jurídica de entidades públicas. Isso é da Advocacia Pública.
-THALITA: Ou seja, o Ministério Público não é advogado do Estado.
-FRANCISCA: Sobre o ingresso, parágrafo segundo: concurso de provas e títulos, com participação da OAB, exigindo-se do bacharel em Direito três anos de atividade jurídica, com nomeação pela ordem de classificação.
-ANTONIO: E, no parágrafo terceiro, a residência é na comarca da lotação, salvo autorização do chefe da instituição.
+THALITA: A última é a cláusula aberta: outras funções compatíveis com a finalidade. Mas são vedadas a representação judicial e a consultoria jurídica de entidades públicas. Isso é da Advocacia Pública.
+FRANCISCA: Ou seja, o Ministério Público não é advogado do Estado.
+THALITA: Sobre o ingresso, parágrafo segundo: concurso de provas e títulos, com participação da OAB, exigindo-se do bacharel em Direito três anos de atividade jurídica, com nomeação pela ordem de classificação.
+FRANCISCA: E, no parágrafo terceiro, a residência é na comarca da lotação, salvo autorização do chefe da instituição.
 THALITA: Macete: três anos de atividade jurídica, residência na comarca.
 == SLIDE: Conselho Nacional do Ministério Público
 * 14 membros; preside o PGR
@@ -83,35 +81,35 @@ THALITA: Macete: três anos de atividade jurídica, residência na comarca.
 * Nomeação pelo Presidente, após maioria absoluta do Senado
 * Mandato de 2 anos, uma recondução; corregedor sem recondução
 * CNJ: 15 membros, presidido pelo Presidente do STF
-ANTONIO: Conselho Nacional do Ministério Público, artigo cento e trinta-A. São catorze membros. Preside o Procurador-Geral da República.
+FRANCISCA: Conselho Nacional do Ministério Público, artigo cento e trinta-A. São catorze membros. Preside o Procurador-Geral da República.
 THALITA: E os outros treze, quem são?
 FRANCISCA: Quatro do Ministério Público da União, assegurada a representação de cada carreira; três dos Ministérios Públicos dos Estados; dois juízes, um indicado pelo STF e outro pelo STJ; dois advogados, indicados pelo Conselho Federal da OAB; e dois cidadãos de notável saber jurídico e reputação ilibada, um indicado pela Câmara e outro pelo Senado.
 THALITA: Quatro, três, dois, dois, dois, mais o Procurador-Geral: catorze. A conta fecha!
-BRUNO: Nomeação pelo Presidente da República, depois de aprovação por maioria absoluta do Senado. Mandato de dois anos, com uma recondução.
-ANTONIO: O corregedor nacional é escolhido pelo Conselho entre os membros do Ministério Público que o integram, vedada a recondução. Junto ao Conselho oficia o Presidente do Conselho Federal da OAB.
+FRANCISCA: Nomeação pelo Presidente da República, depois de aprovação por maioria absoluta do Senado. Mandato de dois anos, com uma recondução.
+THALITA: O corregedor nacional é escolhido pelo Conselho entre os membros do Ministério Público que o integram, vedada a recondução. Junto ao Conselho oficia o Presidente do Conselho Federal da OAB.
 FRANCISCA: A competência é controlar a atuação administrativa e financeira do Ministério Público e o cumprimento dos deveres funcionais de seus membros.
-BRUNO: Agora o comparativo com o CNJ, que a FCC adora. O CNJ tem quinze membros; o CNMP, catorze. O CNJ é presidido pelo Presidente do STF; o CNMP, pelo Procurador-Geral da República.
-THALITA: E o corregedor?
-FRANCISCA: No CNJ, é Ministro do STJ. No CNMP, é membro do Ministério Público eleito, vedada a recondução.
-ANTONIO: Oficiam junto ao CNJ o Procurador-Geral da República e o Presidente do Conselho Federal da OAB; junto ao CNMP, só o Presidente da OAB.
+THALITA: Agora o comparativo com o CNJ, que a FCC adora. O CNJ tem quinze membros; o CNMP, catorze. O CNJ é presidido pelo Presidente do STF; o CNMP, pelo Procurador-Geral da República.
+FRANCISCA: E o corregedor?
+THALITA: No CNJ, é Ministro do STJ. No CNMP, é membro do Ministério Público eleito, vedada a recondução.
+FRANCISCA: Oficiam junto ao CNJ o Procurador-Geral da República e o Presidente do Conselho Federal da OAB; junto ao CNMP, só o Presidente da OAB.
 THALITA: E as ações contra atos dos dois conselhos vão para o STF, artigo cento e dois, inciso um, alínea erre.
-BRUNO: Certíssimo. E lembre que os membros do CNJ e do CNMP respondem por crime de responsabilidade perante o Senado.
+FRANCISCA: Certíssimo. E lembre que os membros do CNJ e do CNMP respondem por crime de responsabilidade perante o Senado.
 == SLIDE: Advocacia Pública: AGU e Procuradorias
 * AGU: representa a União; consultoria só do Poder Executivo
 * AGU: livre nomeação, maior de 35 anos, sem sabatina
 * Crime de responsabilidade do AGU: Senado (art. 52, II)
 * Dívida ativa tributária da União: PGFN (art. 131, § 3º)
 * Procuradores estaduais: estabilidade após 3 anos (art. 132)
-ANTONIO: Advocacia Pública, artigos cento e trinta e um e cento e trinta e dois. A Advocacia-Geral da União representa a União judicial e extrajudicialmente e faz a consultoria e o assessoramento jurídico do Poder Executivo.
-THALITA: Só do Executivo?
-FRANCISCA: A consultoria, sim. Mas a representação é da União como pessoa jurídica, inclusive quando o ato questionado vem de órgão do Legislativo ou do Judiciário.
-BRUNO: O Advogado-Geral da União é de livre nomeação do Presidente, entre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada. Não precisa ser da carreira e não há sabatina no Senado.
+THALITA: Advocacia Pública, artigos cento e trinta e um e cento e trinta e dois. A Advocacia-Geral da União representa a União judicial e extrajudicialmente e faz a consultoria e o assessoramento jurídico do Poder Executivo.
+FRANCISCA: Só do Executivo?
+THALITA: A consultoria, sim. Mas a representação é da União como pessoa jurídica, inclusive quando o ato questionado vem de órgão do Legislativo ou do Judiciário.
+FRANCISCA: O Advogado-Geral da União é de livre nomeação do Presidente, entre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada. Não precisa ser da carreira e não há sabatina no Senado.
 THALITA: Eu apostaria que o Advogado-Geral passa por aprovação do Senado, como o Procurador-Geral da República.
-BRUNO: Pegou o erro mais comum! Livre nomeação, sem sabatina. Diferente do Procurador-Geral da República.
-FRANCISCA: Nos crimes de responsabilidade, o Advogado-Geral da União é julgado pelo Senado, artigo cinquenta e dois, inciso dois, assim como os Ministros do STF, os membros do CNJ e do CNMP e o Procurador-Geral da República.
-ANTONIO: O ingresso na AGU é por concurso de provas e títulos nas classes iniciais. A estabilidade segue a regra geral do artigo quarenta e um. E a dívida ativa tributária da União é executada pela Procuradoria-Geral da Fazenda Nacional, artigo cento e trinta e um, parágrafo terceiro.
-FRANCISCA: Nos Estados e no Distrito Federal, as Procuradorias fazem a representação judicial e a consultoria jurídica das unidades federadas, chefiadas por Procurador-Geral conforme a Constituição estadual. O ingresso é por concurso com participação da OAB em todas as fases.
-BRUNO: E a estabilidade vem após três anos, mediante avaliação de desempenho e relatório circunstanciado das corregedorias, parágrafo único do artigo cento e trinta e dois.
+FRANCISCA: Pegou o erro mais comum! Livre nomeação, sem sabatina. Diferente do Procurador-Geral da República.
+THALITA: Nos crimes de responsabilidade, o Advogado-Geral da União é julgado pelo Senado, artigo cinquenta e dois, inciso dois, assim como os Ministros do STF, os membros do CNJ e do CNMP e o Procurador-Geral da República.
+FRANCISCA: O ingresso na AGU é por concurso de provas e títulos nas classes iniciais. A estabilidade segue a regra geral do artigo quarenta e um. E a dívida ativa tributária da União é executada pela Procuradoria-Geral da Fazenda Nacional, artigo cento e trinta e um, parágrafo terceiro.
+THALITA: Nos Estados e no Distrito Federal, as Procuradorias fazem a representação judicial e a consultoria jurídica das unidades federadas, chefiadas por Procurador-Geral conforme a Constituição estadual. O ingresso é por concurso com participação da OAB em todas as fases.
+FRANCISCA: E a estabilidade vem após três anos, mediante avaliação de desempenho e relatório circunstanciado das corregedorias, parágrafo único do artigo cento e trinta e dois.
 THALITA: Macete: AGU, estabilidade geral; procurador estadual, três anos com avaliação.
 == SLIDE: Advocacia, Defensoria Pública e pegadinhas finais
 * Advogado: indispensável e inviolável, nos limites da lei (art. 133)
@@ -119,17 +117,17 @@ THALITA: Macete: AGU, estabilidade geral; procurador estadual, três anos com av
 * Defensoria: inamovibilidade, não vitaliciedade; autonomia (EC 80/2014)
 * Defensoria tem legitimidade para ação civil pública (ADI 3.943)
 * Pegadinhas: AGU sem sabatina; PGR sem limite de recondução
-ANTONIO: Artigo cento e trinta e três: o advogado é indispensável à administração da justiça e inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei.
-FRANCISCA: A indispensabilidade não é absoluta. Há jus postulandi na Justiça do Trabalho, pelo artigo setecentos e noventa e um da CLT, nos Juizados Especiais em causas de até vinte salários mínimos no estadual, e no habeas corpus.
-BRUNO: E a Súmula quatrocentos e vinte e cinco do TST: o jus postulandi limita-se às Varas e aos TRTs. Não alcança ação rescisória, ação cautelar, mandado de segurança e recursos de competência do TST. Isso cai muito em prova de TRT.
+FRANCISCA: Artigo cento e trinta e três: o advogado é indispensável à administração da justiça e inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei.
+THALITA: A indispensabilidade não é absoluta. Há jus postulandi na Justiça do Trabalho, pelo artigo setecentos e noventa e um da CLT, nos Juizados Especiais em causas de até vinte salários mínimos no estadual, e no habeas corpus.
+FRANCISCA: E a Súmula quatrocentos e vinte e cinco do TST: o jus postulandi limita-se às Varas e aos TRTs. Não alcança ação rescisória, ação cautelar, mandado de segurança e recursos de competência do TST. Isso cai muito em prova de TRT.
 THALITA: Sem advogado, só na primeira e na segunda instância trabalhista.
-ANTONIO: Defensoria Pública, artigos cento e trinta e quatro e cento e trinta e cinco, na redação da Emenda Constitucional oitenta, de dois mil e catorze. É instituição permanente, essencial à função jurisdicional, expressão e instrumento do regime democrático.
-FRANCISCA: Sua missão: orientação jurídica, promoção dos direitos humanos e defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados.
-THALITA: E garantia e vedação?
-BRUNO: Inamovibilidade, e vedada a advocacia fora das atribuições institucionais. Não tem vitaliciedade!
+FRANCISCA: Defensoria Pública, artigos cento e trinta e quatro e cento e trinta e cinco, na redação da Emenda Constitucional oitenta, de dois mil e catorze. É instituição permanente, essencial à função jurisdicional, expressão e instrumento do regime democrático.
+THALITA: Sua missão: orientação jurídica, promoção dos direitos humanos e defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados.
+FRANCISCA: E garantia e vedação?
+THALITA: Inamovibilidade, e vedada a advocacia fora das atribuições institucionais. Não tem vitaliciedade!
 FRANCISCA: Os princípios são unidade, indivisibilidade e independência funcional. Tem autonomia funcional, administrativa e de iniciativa de proposta orçamentária: as estaduais pela Emenda quarenta e cinco, a da União e a do Distrito Federal pela Emenda setenta e quatro, de dois mil e treze. A remuneração é por subsídio.
-ANTONIO: O Ato das Disposições Constitucionais Transitórias, artigo noventa e oito, prevê número de defensores proporcional à demanda e à população, com prazo de oito anos para haver defensores em todas as unidades jurisdicionais.
+THALITA: O Ato das Disposições Constitucionais Transitórias, artigo noventa e oito, prevê número de defensores proporcional à demanda e à população, com prazo de oito anos para haver defensores em todas as unidades jurisdicionais.
 FRANCISCA: Na jurisprudência, o STF reconheceu a legitimidade da Defensoria para ação civil pública em defesa de interesses difusos, coletivos e individuais homogêneos, na ADI três mil novecentos e quarenta e três. E declarou inconstitucional vincular a Defensoria estadual a Secretaria de Estado.
-BRUNO: Pegadinhas finais. Defensoria tem vitaliciedade: não, é inamovibilidade. Advogado-Geral da União nomeado após aprovação do Senado: não, livre nomeação. Procurador-Geral da República reconduzido uma única vez: não, sem limite. Ministério Público Eleitoral como ramo do Ministério Público da União: não está no artigo cento e vinte e oito. Ministério Público junto ao Tribunal de Contas integra o Ministério Público da União: não, artigo cento e trinta.
-THALITA: Ufa. Guardei. Agora vamos ver tudo isso aplicado.
-ANTONIO: Na sequência, questões comentadas no estilo FCC. Pegue papel e caneta e vamos praticar!
+THALITA: Pegadinhas finais. Defensoria tem vitaliciedade: não, é inamovibilidade. Advogado-Geral da União nomeado após aprovação do Senado: não, livre nomeação. Procurador-Geral da República reconduzido uma única vez: não, sem limite. Ministério Público Eleitoral como ramo do Ministério Público da União: não está no artigo cento e vinte e oito. Ministério Público junto ao Tribunal de Contas integra o Ministério Público da União: não, artigo cento e trinta.
+FRANCISCA: Ufa. Guardei. Agora vamos ver tudo isso aplicado.
+THALITA: Na sequência, questões comentadas no estilo FCC. Pegue papel e caneta e vamos praticar!

@@ -4,38 +4,36 @@ SEGMENTO s234
 * Relator decide sozinho; contra ele, agravo interno (art. 932)
 * Ampliação do colegiado (art. 942) não é recurso
 * Sustentação oral: 15 minutos (art. 937)
-ANTONIO: Olá, pessoal, bem-vindos à aula sessenta e nove: tribunais, recursos, precedentes e procedimentos especiais do Código de Processo Civil. Depois, mandado de segurança, ação civil pública, juizados, mediação e processo eletrônico, e fechamos com questões. Eu sou o Antônio.
-FRANCISCA: Eu sou a Francisca, e trago a lei e a jurisprudência.
-BRUNO: Eu sou o Bruno, e mostro como a FCC cobra.
-THALITA: E eu sou a Thalita, concurseira, e vou perguntar o que você perguntaria.
-ANTONIO: Começamos pelo relator, artigo novecentos e trinta e dois. Ele dirige o processo, homologa autocomposição, aprecia tutela provisória e não conhece de recurso inadmissível, prejudicado ou sem impugnação específica.
-FRANCISCA: Também nega provimento a recurso contrário a súmula do STF, do STJ ou do próprio tribunal, ou a tese de repetitivos, de incidente de resolução de demandas repetitivas ou de assunção de competência. Nos mesmos casos, pode dar provimento, mas só depois das contrarrazões.
-BRUNO: Pegadinha: antes de inadmitir um recurso, o relator concede cinco dias para sanar o vício. E contra a decisão dele cabe agravo interno.
+FRANCISCA: Olá, pessoal, bem-vindos à aula sessenta e nove: tribunais, recursos, precedentes e procedimentos especiais do Código de Processo Civil. Depois, mandado de segurança, ação civil pública, juizados, mediação e processo eletrônico, e fechamos com questões. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Começamos pelo relator, artigo novecentos e trinta e dois. Ele dirige o processo, homologa autocomposição, aprecia tutela provisória e não conhece de recurso inadmissível, prejudicado ou sem impugnação específica.
+THALITA: Também nega provimento a recurso contrário a súmula do STF, do STJ ou do próprio tribunal, ou a tese de repetitivos, de incidente de resolução de demandas repetitivas ou de assunção de competência. Nos mesmos casos, pode dar provimento, mas só depois das contrarrazões.
+FRANCISCA: Pegadinha: antes de inadmitir um recurso, o relator concede cinco dias para sanar o vício. E contra a decisão dele cabe agravo interno.
 THALITA: E quando a apelação não é unânime?
 FRANCISCA: Aplica-se o artigo novecentos e quarenta e dois: o julgamento prossegue com novos julgadores, em número suficiente para inverter o resultado, com nova sustentação oral. Isso não é recurso, é técnica de julgamento.
-BRUNO: Também vale para a rescisória que rescinde a sentença e para o agravo de instrumento que reforma decisão de mérito parcial. Não vale para o incidente de assunção de competência, o de demandas repetitivas, a remessa necessária, nem para o plenário ou o órgão especial.
-THALITA: Então se a rescisória for julgada improcedente por maioria, não amplia?
-ANTONIO: Exato. Só amplia quando a maioria rescinde a sentença.
-THALITA: Então vou resumir para fixar: a ampliação do artigo novecentos e quarenta e dois vale para apelação não unânime, rescisória que rescinde e agravo que reforma mérito parcial. Não é recurso, e não vale em incidentes, remessa necessária, plenário nem órgão especial. Se a banca disser que cabe recurso de ampliação, está errado.
-FRANCISCA: Sustentação oral, artigo novecentos e trinta e sete: quinze minutos por parte, na apelação, no recurso ordinário, no especial, no extraordinário, nos embargos de divergência, na rescisória, no mandado de segurança, na reclamação e no agravo de instrumento sobre tutela provisória.
-BRUNO: No agravo interno, só cabe contra extinção de rescisória, mandado de segurança ou reclamação originários. E convém conferir o Estatuto da OAB, que ganhou novidades em dois mil e vinte e dois.
+THALITA: Também vale para a rescisória que rescinde a sentença e para o agravo de instrumento que reforma decisão de mérito parcial. Não vale para o incidente de assunção de competência, o de demandas repetitivas, a remessa necessária, nem para o plenário ou o órgão especial.
+FRANCISCA: Então se a rescisória for julgada improcedente por maioria, não amplia?
+THALITA: Exato. Só amplia quando a maioria rescinde a sentença.
+FRANCISCA: Então vou resumir para fixar: a ampliação do artigo novecentos e quarenta e dois vale para apelação não unânime, rescisória que rescinde e agravo que reforma mérito parcial. Não é recurso, e não vale em incidentes, remessa necessária, plenário nem órgão especial. Se a banca disser que cabe recurso de ampliação, está errado.
+THALITA: Sustentação oral, artigo novecentos e trinta e sete: quinze minutos por parte, na apelação, no recurso ordinário, no especial, no extraordinário, nos embargos de divergência, na rescisória, no mandado de segurança, na reclamação e no agravo de instrumento sobre tutela provisória.
+FRANCISCA: No agravo interno, só cabe contra extinção de rescisória, mandado de segurança ou reclamação originários. E convém conferir o Estatuto da OAB, que ganhou novidades em dois mil e vinte e dois.
 THALITA: Quinze minutos, mas no agravo interno quase nunca. Anotado!
 == SLIDE: Assunção de competência, inconstitucionalidade, conflito e decisão estrangeira
 * IAC: relevante questão de direito, sem repetição em múltiplos processos
 * Arguição de inconstitucionalidade: reserva de plenário
 * Conflito de competência: STF, STJ, TST ou tribunais locais
 * Homologação de decisão estrangeira: STJ
-ANTONIO: O incidente de assunção de competência, artigo novecentos e quarenta e sete, serve a questão de direito relevante, com grande repercussão social, sem repetição em múltiplos processos. O acórdão vincula juízes e órgãos fracionários.
+FRANCISCA: O incidente de assunção de competência, artigo novecentos e quarenta e sete, serve a questão de direito relevante, com grande repercussão social, sem repetição em múltiplos processos. O acórdão vincula juízes e órgãos fracionários.
 THALITA: Qual a diferença entre ele e o incidente de demandas repetitivas?
-BRUNO: O de demandas repetitivas exige repetição efetiva. O de assunção de competência dispensa essa repetição. É a pegadinha preferida da banca.
-FRANCISCA: Na arguição de inconstitucionalidade, artigos novecentos e quarenta e oito a novecentos e cinquenta: se a turma rejeita, o julgamento segue; se acolhe, o caso vai ao plenário ou ao órgão especial, pela reserva de plenário e pela Súmula Vinculante dez. É dispensada se já houver pronunciamento do plenário ou do STF.
-ANTONIO: O conflito de competência pode ser suscitado pela parte, pelo Ministério Público ou pelo juiz. Não pode suscitar a parte que arguiu incompetência relativa. O Ministério Público só é ouvido nas causas do artigo cento e setenta e oito.
+FRANCISCA: O de demandas repetitivas exige repetição efetiva. O de assunção de competência dispensa essa repetição. É a pegadinha preferida da banca.
+THALITA: Na arguição de inconstitucionalidade, artigos novecentos e quarenta e oito a novecentos e cinquenta: se a turma rejeita, o julgamento segue; se acolhe, o caso vai ao plenário ou ao órgão especial, pela reserva de plenário e pela Súmula Vinculante dez. É dispensada se já houver pronunciamento do plenário ou do STF.
+FRANCISCA: O conflito de competência pode ser suscitado pela parte, pelo Ministério Público ou pelo juiz. Não pode suscitar a parte que arguiu incompetência relativa. O Ministério Público só é ouvido nas causas do artigo cento e setenta e oito.
 THALITA: E quem julga o conflito?
-BRUNO: Conflito entre STJ e qualquer tribunal, ou entre tribunais superiores, é do STF. Entre tribunais diversos, ou entre tribunal e juiz a ele não vinculado, é do STJ. Entre tribunais regionais do trabalho, é do TST. Entre varas do trabalho da mesma região, é do próprio TRT.
-FRANCISCA: A homologação de decisão estrangeira é do STJ. Exige autoridade competente, citação regular, mesmo que o réu seja revel, eficácia no país de origem, respeito à coisa julgada brasileira, tradução oficial e ausência de ofensa à ordem pública.
-THALITA: E decisão interlocutória estrangeira?
-ANTONIO: Vem por carta rogatória, com exequatur. O divórcio consensual simples dispensa homologação. A execução é na Justiça Federal.
-BRUNO: Juiz do trabalho contra juiz de direito: STJ. Dois TRTs: TST.
+FRANCISCA: Conflito entre STJ e qualquer tribunal, ou entre tribunais superiores, é do STF. Entre tribunais diversos, ou entre tribunal e juiz a ele não vinculado, é do STJ. Entre tribunais regionais do trabalho, é do TST. Entre varas do trabalho da mesma região, é do próprio TRT.
+THALITA: A homologação de decisão estrangeira é do STJ. Exige autoridade competente, citação regular, mesmo que o réu seja revel, eficácia no país de origem, respeito à coisa julgada brasileira, tradução oficial e ausência de ofensa à ordem pública.
+FRANCISCA: E decisão interlocutória estrangeira?
+THALITA: Vem por carta rogatória, com exequatur. O divórcio consensual simples dispensa homologação. A execução é na Justiça Federal.
+FRANCISCA: Juiz do trabalho contra juiz de direito: STJ. Dois TRTs: TST.
 THALITA: STJ para tribunais diferentes, TST para TRTs. Gravei.
 == SLIDE: Ação rescisória
 * Hipóteses do art. 966: prevaricação, impedimento, dolo, coisa julgada, violação de norma
@@ -43,14 +41,14 @@ THALITA: STJ para tribunais diferentes, TST para TRTs. Gravei.
 * Depósito de 5% do valor da causa, limite de 1.000 salários
 * Não suspende o cumprimento sem tutela provisória
 FRANCISCA: A ação rescisória atinge decisão de mérito transitada em julgado. Também cabe contra decisão terminativa que impeça nova ação ou a admissibilidade de recurso.
-BRUNO: As hipóteses estão no artigo novecentos e sessenta e seis: prevaricação, concussão ou corrupção do juiz; juiz impedido ou absolutamente incompetente; dolo ou coação do vencedor, simulação ou colusão; ofensa à coisa julgada; violação manifesta de norma jurídica; prova falsa; prova nova; e erro de fato.
-THALITA: Juiz suspeito não é hipótese?
-ANTONIO: Boa pergunta: só o impedido. A suspeição preclui. E a incompetência precisa ser absoluta.
+THALITA: As hipóteses estão no artigo novecentos e sessenta e seis: prevaricação, concussão ou corrupção do juiz; juiz impedido ou absolutamente incompetente; dolo ou coação do vencedor, simulação ou colusão; ofensa à coisa julgada; violação manifesta de norma jurídica; prova falsa; prova nova; e erro de fato.
+FRANCISCA: Juiz suspeito não é hipótese?
+THALITA: Boa pergunta: só o impedido. A suspeição preclui. E a incompetência precisa ser absoluta.
 FRANCISCA: Prazo, artigo novecentos e setenta e cinco: dois anos do trânsito em julgado da última decisão. Se vencer em dia sem expediente, prorroga. Prova nova: dois anos contados da descoberta, com limite de cinco. Simulação ou colusão: terceiro e Ministério Público contam da ciência.
-BRUNO: O depósito é de cinco por cento do valor da causa, com teto de mil salários mínimos. Se a ação for declarada inadmissível ou improcedente por unanimidade, o valor se converte em multa. Entes públicos, autarquias, fundações, Ministério Público, Defensoria e beneficiários da gratuidade são isentos.
-THALITA: Cinco anos de prazo e dez por cento de depósito, está certo?
-BRUNO: Errado nos dois. É dois anos, com cinco só na prova nova, e o depósito é cinco por cento. As bancas trocam os números.
-ANTONIO: A rescisória não suspende o cumprimento da decisão, salvo tutela provisória, artigo novecentos e sessenta e nove. A contestação tem prazo de quinze a trinta dias.
+THALITA: O depósito é de cinco por cento do valor da causa, com teto de mil salários mínimos. Se a ação for declarada inadmissível ou improcedente por unanimidade, o valor se converte em multa. Entes públicos, autarquias, fundações, Ministério Público, Defensoria e beneficiários da gratuidade são isentos.
+FRANCISCA: Cinco anos de prazo e dez por cento de depósito, está certo?
+THALITA: Errado nos dois. É dois anos, com cinco só na prova nova, e o depósito é cinco por cento. As bancas trocam os números.
+FRANCISCA: A rescisória não suspende o cumprimento da decisão, salvo tutela provisória, artigo novecentos e sessenta e nove. A contestação tem prazo de quinze a trinta dias.
 THALITA: Então, se a questão disser que a rescisória suspende automaticamente a execução, eu marco errado direto. Sem tutela provisória, a execução segue.
 FRANCISCA: Na Justiça do Trabalho, o depósito é de vinte por cento, pela CLT. E a Súmula trezentos e quarenta e três do STF afasta rescisória por violação de lei quando a interpretação era controvertida à época.
 THALITA: Dois anos, cinco por cento, e não suspende. Fechado.
@@ -59,15 +57,15 @@ THALITA: Dois anos, cinco por cento, e não suspende. Fechado.
 * Prazo de 1 ano; suspende processos
 * Tese vale inclusive nos juizados
 * Reclamação: nunca após o trânsito (Súmula 734 STF)
-ANTONIO: O incidente de resolução de demandas repetitivas, artigos novecentos e setenta e seis a novecentos e oitenta e sete. Exige, ao mesmo tempo, repetição efetiva de processos sobre questão unicamente de direito e risco à isonomia e à segurança jurídica.
+FRANCISCA: O incidente de resolução de demandas repetitivas, artigos novecentos e setenta e seis a novecentos e oitenta e sete. Exige, ao mesmo tempo, repetição efetiva de processos sobre questão unicamente de direito e risco à isonomia e à segurança jurídica.
 THALITA: E se o STJ já afetou um repetitivo sobre o tema?
 FRANCISCA: Aí não cabe o incidente. Quem pede é o juiz ou o relator, de ofício, ou as partes, o Ministério Público e a Defensoria, por petição ao presidente do tribunal. A desistência não impede o julgamento, e o Ministério Público assume.
-BRUNO: Admitido o incidente, suspendem-se os processos individuais e coletivos no Estado ou na região. A suspensão nacional é pedida ao STF ou ao STJ. Não há custas. O prazo para julgar é de um ano, com preferência, salvo réu preso e habeas corpus. Superado o prazo, cessa a suspensão.
-ANTONIO: A tese vale para casos atuais e futuros, inclusive nos juizados. O desrespeito dá ensejo à reclamação. E o recurso extraordinário ou especial contra o julgamento tem efeito suspensivo, com repercussão geral presumida.
+THALITA: Admitido o incidente, suspendem-se os processos individuais e coletivos no Estado ou na região. A suspensão nacional é pedida ao STF ou ao STJ. Não há custas. O prazo para julgar é de um ano, com preferência, salvo réu preso e habeas corpus. Superado o prazo, cessa a suspensão.
+FRANCISCA: A tese vale para casos atuais e futuros, inclusive nos juizados. O desrespeito dá ensejo à reclamação. E o recurso extraordinário ou especial contra o julgamento tem efeito suspensivo, com repercussão geral presumida.
 THALITA: Passando para a reclamação, quando cabe?
-BRUNO: Para preservar a competência, garantir a autoridade das decisões do tribunal, e fazer cumprir súmula vinculante, decisão de controle concentrado, incidente de demandas repetitivas e de assunção de competência.
-FRANCISCA: Não cabe depois do trânsito em julgado da decisão reclamada, Súmula setecentos e trinta e quatro do STF. E não cabe para recurso extraordinário com repercussão geral ou repetitivo sem esgotar as instâncias ordinárias.
-ANTONIO: O rito: prova documental, informações em dez dias, Ministério Público em cinco, e o relator pode suspender o ato.
+FRANCISCA: Para preservar a competência, garantir a autoridade das decisões do tribunal, e fazer cumprir súmula vinculante, decisão de controle concentrado, incidente de demandas repetitivas e de assunção de competência.
+THALITA: Não cabe depois do trânsito em julgado da decisão reclamada, Súmula setecentos e trinta e quatro do STF. E não cabe para recurso extraordinário com repercussão geral ou repetitivo sem esgotar as instâncias ordinárias.
+FRANCISCA: O rito: prova documental, informações em dez dias, Ministério Público em cinco, e o relator pode suspender o ato.
 THALITA: Reclamação não substitui recurso nem rescisória. Entendi!
 == SLIDE: Recursos: regras gerais e apelação
 * Rol taxativo (art. 994); prazo de 15 dias úteis, embargos de declaração 5
@@ -75,58 +73,58 @@ THALITA: Reclamação não substitui recurso nem rescisória. Entendi!
 * Preparo insuficiente: 5 dias; ausente: em dobro
 * Causa madura: tribunal julga o mérito (art. 1.013, §3º)
 FRANCISCA: Recursos, artigo novecentos e noventa e quatro: apelação, agravo de instrumento, agravo interno, embargos de declaração, recurso ordinário, especial, extraordinário, agravo em especial e extraordinário, e embargos de divergência.
-BRUNO: O prazo é de quinze dias úteis, salvo embargos de declaração, que têm cinco. Fazenda, Ministério Público e Defensoria têm prazo em dobro.
-THALITA: Todo recurso tem efeito suspensivo?
-ANTONIO: Regra geral, não. Só por lei ou decisão judicial. A apelação é a exceção legal. O recurso adesivo cabe na sucumbência recíproca, em apelação, especial e extraordinário, no prazo das contrarrazões, e cai se o principal for desistido ou inadmitido.
-BRUNO: Desistência e renúncia independem de anuência, mas não impedem o julgamento de tese com repercussão geral ou repetitiva. O preparo é comprovado na interposição. Insuficiente: complementa-se em cinco dias. Ausente: recolhe-se em dobro, sem nova chance. Erro na guia não gera deserção.
-FRANCISCA: Recurso que repete a inicial viola a dialeticidade e não é conhecido. Apelação é interposta no primeiro grau, que intima para contrarrazões em quinze dias e remete sem juízo de admissibilidade.
-THALITA: E sem efeito suspensivo quais são?
-ANTONIO: Artigo mil e doze, parágrafo primeiro: divisão ou demarcação, alimentos, extinção sem mérito ou improcedência dos embargos do executado, instituição de arbitragem, tutela provisória e interdição.
-BRUNO: Causa madura, artigo mil e treze: o tribunal julga o mérito ao reformar sentença terminativa, anular sentença incongruente, suprir pedido omitido, ou afastar prescrição ou decadência.
+THALITA: O prazo é de quinze dias úteis, salvo embargos de declaração, que têm cinco. Fazenda, Ministério Público e Defensoria têm prazo em dobro.
+FRANCISCA: Todo recurso tem efeito suspensivo?
+THALITA: Regra geral, não. Só por lei ou decisão judicial. A apelação é a exceção legal. O recurso adesivo cabe na sucumbência recíproca, em apelação, especial e extraordinário, no prazo das contrarrazões, e cai se o principal for desistido ou inadmitido.
+FRANCISCA: Desistência e renúncia independem de anuência, mas não impedem o julgamento de tese com repercussão geral ou repetitiva. O preparo é comprovado na interposição. Insuficiente: complementa-se em cinco dias. Ausente: recolhe-se em dobro, sem nova chance. Erro na guia não gera deserção.
+THALITA: Recurso que repete a inicial viola a dialeticidade e não é conhecido. Apelação é interposta no primeiro grau, que intima para contrarrazões em quinze dias e remete sem juízo de admissibilidade.
+FRANCISCA: E sem efeito suspensivo quais são?
+THALITA: Artigo mil e doze, parágrafo primeiro: divisão ou demarcação, alimentos, extinção sem mérito ou improcedência dos embargos do executado, instituição de arbitragem, tutela provisória e interdição.
+FRANCISCA: Causa madura, artigo mil e treze: o tribunal julga o mérito ao reformar sentença terminativa, anular sentença incongruente, suprir pedido omitido, ou afastar prescrição ou decadência.
 THALITA: Sentença terminativa reformada e causa madura: tribunal já julga o mérito. Boa.
 == SLIDE: Agravo de instrumento, agravo interno e embargos de declaração
 * Agravo de instrumento: rol do art. 1.015; taxatividade mitigada (Tema 988)
 * Agravo interno: 15 dias; multa de 1% a 5%
 * Embargos de declaração: 5 dias; interrompem o prazo
-ANTONIO: Agravo de instrumento, artigo mil e quinze. Cabe contra decisões sobre tutela provisória, mérito, convenção de arbitragem, desconsideração da personalidade, gratuidade, exibição de documento, exclusão de litisconsorte, intervenção de terceiros, efeito suspensivo de embargos à execução e distribuição do ônus da prova.
-FRANCISCA: E, no parágrafo único, toda interlocutória em liquidação, cumprimento, execução e inventário. O STJ, no Tema novecentos e oitenta e oito, fixou taxatividade mitigada: cabe fora do rol se a urgência tornar inútil o exame na apelação.
-THALITA: E o que não cabe agravo fica sem recurso?
-BRUNO: Não preclui: vai em preliminar de apelação ou de contrarrazões. No processo do trabalho, a interlocutória é irrecorrível de imediato. Não leve o artigo mil e quinze para a CLT.
+FRANCISCA: Agravo de instrumento, artigo mil e quinze. Cabe contra decisões sobre tutela provisória, mérito, convenção de arbitragem, desconsideração da personalidade, gratuidade, exibição de documento, exclusão de litisconsorte, intervenção de terceiros, efeito suspensivo de embargos à execução e distribuição do ônus da prova.
+THALITA: E, no parágrafo único, toda interlocutória em liquidação, cumprimento, execução e inventário. O STJ, no Tema novecentos e oitenta e oito, fixou taxatividade mitigada: cabe fora do rol se a urgência tornar inútil o exame na apelação.
+FRANCISCA: E o que não cabe agravo fica sem recurso?
+THALITA: Não preclui: vai em preliminar de apelação ou de contrarrazões. No processo do trabalho, a interlocutória é irrecorrível de imediato. Não leve o artigo mil e quinze para a CLT.
 FRANCISCA: Agravo de instrumento: quinze dias, direto no tribunal. Em autos físicos, copia-se no primeiro grau em três dias. O relator julga em até um mês.
-ANTONIO: Agravo interno, artigo mil e vinte e um: contra decisão do relator, para o colegiado, em quinze dias. Se for manifestamente inadmissível ou improcedente por unanimidade, multa de um a cinco por cento do valor atualizado da causa.
-THALITA: E os embargos de declaração?
-BRUNO: Cabem em qualquer decisão, por obscuridade, contradição, omissão ou erro material. Cinco dias, sem preparo. Podem ser recebidos como agravo interno.
+THALITA: Agravo interno, artigo mil e vinte e um: contra decisão do relator, para o colegiado, em quinze dias. Se for manifestamente inadmissível ou improcedente por unanimidade, multa de um a cinco por cento do valor atualizado da causa.
+FRANCISCA: E os embargos de declaração?
+THALITA: Cabem em qualquer decisão, por obscuridade, contradição, omissão ou erro material. Cinco dias, sem preparo. Podem ser recebidos como agravo interno.
 FRANCISCA: Interrompem o prazo para outro recurso, e devolvem o prazo inteiro. Se forem protelatórios, multa de até dois por cento; reiterados, até dez, com depósito prévio. Após dois protelatórios, não se admitem novos embargos.
-ANTONIO: Prequestionamento ficto, artigo mil e vinte e cinco: o que foi suscitado nos embargos integra o acórdão, ainda que rejeitados.
-THALITA: Cinco dias, interrompe, e multa de dois por cento. Anotado.
+THALITA: Prequestionamento ficto, artigo mil e vinte e cinco: o que foi suscitado nos embargos integra o acórdão, ainda que rejeitados.
+FRANCISCA: Cinco dias, interrompe, e multa de dois por cento. Anotado.
 == SLIDE: Recursos para o STF e o STJ
 * Recurso ordinário: mandado de segurança denegatório
 * Extraordinário: Constituição; repercussão geral
 * Especial: lei federal; divergência
 * Agravo do art. 1.042: 15 dias, sem custas
-ANTONIO: Recurso ordinário constitucional. Para o STF, mandado de segurança, habeas data e mandado de injunção de única instância de tribunal superior, se denegatória a decisão. Para o STJ, mandado de segurança de única instância de TRF ou de tribunal de justiça, se denegatório.
-THALITA: E o extraordinário e o especial, como diferencio?
-FRANCISCA: Extraordinário, ofensa à Constituição, com repercussão geral, recusável por dois terços. Especial, ofensa a lei federal, validade de ato local contestado em face de lei federal, e divergência entre tribunais.
-BRUNO: A Emenda cento e vinte e cinco criou a relevância para o especial, que depende de lei regulamentadora. É presumida em ações penais, improbidade, causas de valor muito alto, inelegibilidade e acórdão contrário à jurisprudência dominante do STJ.
-ANTONIO: Os repetitivos, artigos mil e trinta e seis a mil e quarenta e um: a origem envia dois ou mais recursos representativos, os demais ficam suspensos, o julgamento é em um ano, e a parte pode demonstrar distinção.
-THALITA: E se o recurso é inadmitido na origem?
-BRUNO: Cabe agravo do artigo mil e quarenta e dois: quinze dias, sem custas. Exceção: se a inadmissão se fundou em repercussão geral ou repetitivo, o recurso é o agravo interno.
+THALITA: Recurso ordinário constitucional. Para o STF, mandado de segurança, habeas data e mandado de injunção de única instância de tribunal superior, se denegatória a decisão. Para o STJ, mandado de segurança de única instância de TRF ou de tribunal de justiça, se denegatório.
+FRANCISCA: E o extraordinário e o especial, como diferencio?
+THALITA: Extraordinário, ofensa à Constituição, com repercussão geral, recusável por dois terços. Especial, ofensa a lei federal, validade de ato local contestado em face de lei federal, e divergência entre tribunais.
+FRANCISCA: A Emenda cento e vinte e cinco criou a relevância para o especial, que depende de lei regulamentadora. É presumida em ações penais, improbidade, causas de valor muito alto, inelegibilidade e acórdão contrário à jurisprudência dominante do STJ.
+THALITA: Os repetitivos, artigos mil e trinta e seis a mil e quarenta e um: a origem envia dois ou mais recursos representativos, os demais ficam suspensos, o julgamento é em um ano, e a parte pode demonstrar distinção.
+FRANCISCA: E se o recurso é inadmitido na origem?
+THALITA: Cabe agravo do artigo mil e quarenta e dois: quinze dias, sem custas. Exceção: se a inadmissão se fundou em repercussão geral ou repetitivo, o recurso é o agravo interno.
 FRANCISCA: Embargos de divergência: acórdão de órgão fracionário em extraordinário ou especial, divergente de outro órgão do mesmo tribunal. No STJ, interrompem o prazo do extraordinário.
-BRUNO: Turma recursal de juizado: cabe extraordinário, Súmula seiscentos e quarenta do STF, mas não especial, Súmula duzentos e três do STJ.
-THALITA: Turma recursal: extraordinário sim, especial não. Fácil de lembrar!
+THALITA: Turma recursal de juizado: cabe extraordinário, Súmula seiscentos e quarenta do STF, mas não especial, Súmula duzentos e três do STJ.
+FRANCISCA: Turma recursal: extraordinário sim, especial não. Fácil de lembrar!
 == SLIDE: Precedentes
 * Art. 926: jurisprudência estável, íntegra e coerente
 * Art. 927: precedentes que juízes e tribunais observarão
 * Ratio decidendi x obiter dictum
 * Distinguishing e overruling; modulação de efeitos
-FRANCISCA: O artigo novecentos e vinte e seis manda os tribunais uniformizarem a jurisprudência e mantê-la estável, íntegra e coerente. E o artigo novecentos e vinte e sete lista o que juízes e tribunais observarão.
-ANTONIO: Inciso um: decisões do STF em controle concentrado. Dois: súmulas vinculantes. Três: acórdãos em assunção de competência, demandas repetitivas e recursos repetitivos. Quatro: súmulas do STF em matéria constitucional e do STJ em matéria infraconstitucional. Cinco: orientação do plenário ou do órgão especial.
+THALITA: O artigo novecentos e vinte e seis manda os tribunais uniformizarem a jurisprudência e mantê-la estável, íntegra e coerente. E o artigo novecentos e vinte e sete lista o que juízes e tribunais observarão.
+FRANCISCA: Inciso um: decisões do STF em controle concentrado. Dois: súmulas vinculantes. Três: acórdãos em assunção de competência, demandas repetitivas e recursos repetitivos. Quatro: súmulas do STF em matéria constitucional e do STJ em matéria infraconstitucional. Cinco: orientação do plenário ou do órgão especial.
 THALITA: Casos repetitivos são todos esses?
-BRUNO: Não. Casos repetitivos, artigo novecentos e vinte e oito, são o incidente de demandas repetitivas e os recursos extraordinário e especial repetitivos. A assunção de competência não é caso repetitivo.
-FRANCISCA: Dois conceitos: ratio decidendi, o fundamento determinante, que vincula; e obiter dictum, o argumento de passagem, que não vincula.
-THALITA: Se o meu caso é diferente do precedente, o juiz não segue?
-ANTONIO: Isso é o distinguishing: demonstra-se que o caso difere do precedente, artigo quatrocentos e oitenta e nove, parágrafo primeiro, inciso seis. A superação do precedente é o overruling, com fundamentação específica e possível audiência pública.
-BRUNO: Os efeitos podem ser modulados, por interesse social e segurança jurídica, artigo novecentos e vinte e sete, parágrafos segundo a quarto.
+FRANCISCA: Não. Casos repetitivos, artigo novecentos e vinte e oito, são o incidente de demandas repetitivas e os recursos extraordinário e especial repetitivos. A assunção de competência não é caso repetitivo.
+THALITA: Dois conceitos: ratio decidendi, o fundamento determinante, que vincula; e obiter dictum, o argumento de passagem, que não vincula.
+FRANCISCA: Se o meu caso é diferente do precedente, o juiz não segue?
+THALITA: Isso é o distinguishing: demonstra-se que o caso difere do precedente, artigo quatrocentos e oitenta e nove, parágrafo primeiro, inciso seis. A superação do precedente é o overruling, com fundamentação específica e possível audiência pública.
+FRANCISCA: Os efeitos podem ser modulados, por interesse social e segurança jurídica, artigo novecentos e vinte e sete, parágrafos segundo a quarto.
 THALITA: Distinguishing é distinguir o caso; overruling é superar o precedente. Gravei.
 == SLIDE: Procedimentos especiais do CPC
 * Consignação extrajudicial: 10 dias para recusa; ação em 1 mês
@@ -134,13 +132,13 @@ THALITA: Distinguishing é distinguir o caso; overruling é superar o precedente
 * Monitória: 15 dias e honorários de 5%
 * Possessórias: força nova, ano e dia
 FRANCISCA: Consignação extrajudicial, artigo quinhentos e trinta e nove, para dívida em dinheiro: depósito em banco oficial do lugar do pagamento, e o credor é avisado por carta com aviso de recebimento. Ele tem dez dias para recusar por escrito. O silêncio libera o devedor.
-BRUNO: Se houver recusa, o devedor tem um mês para ajuizar a ação, senão o depósito perde o efeito. Na judicial, o depósito é em cinco dias do deferimento, e o depósito insuficiente pode ser completado em dez dias.
-THALITA: Embargos de terceiro, até quando?
-ANTONIO: No conhecimento, até o trânsito da sentença. Na execução, até cinco dias depois da adjudicação, da alienação particular ou da arrematação, sempre antes da assinatura da carta. Contestação em quinze dias, e a liminar suspende a constrição. O cônjuge pode defender a meação.
+THALITA: Se houver recusa, o devedor tem um mês para ajuizar a ação, senão o depósito perde o efeito. Na judicial, o depósito é em cinco dias do deferimento, e o depósito insuficiente pode ser completado em dez dias.
+FRANCISCA: Embargos de terceiro, até quando?
+THALITA: No conhecimento, até o trânsito da sentença. Na execução, até cinco dias depois da adjudicação, da alienação particular ou da arrematação, sempre antes da assinatura da carta. Contestação em quinze dias, e a liminar suspende a constrição. O cônjuge pode defender a meação.
 FRANCISCA: Monitória, artigos setecentos a setecentos e dois: prova escrita sem eficácia executiva. O réu tem quinze dias, e cumprindo fica isento de custas e paga cinco por cento de honorários. Sem pagamento nem embargos, forma-se título executivo judicial.
-BRUNO: Os embargos monitórios vêm no prazo de quinze dias, nos próprios autos, sem garantia do juízo, e suspendem o mandado. Admitem reconvenção. Má-fé gera multa de até dez por cento.
-THALITA: E as possessórias?
-ANTONIO: Fungibilidade, natureza dúplice, e proibição da exceção de domínio. Força nova, de até ano e dia, dá liminar. Força velha, procedimento comum, sem perder o caráter possessório. Contra o Poder Público, liminar só após ouvir o representante.
+THALITA: Os embargos monitórios vêm no prazo de quinze dias, nos próprios autos, sem garantia do juízo, e suspendem o mandado. Admitem reconvenção. Má-fé gera multa de até dez por cento.
+FRANCISCA: E as possessórias?
+THALITA: Fungibilidade, natureza dúplice, e proibição da exceção de domínio. Força nova, de até ano e dia, dá liminar. Força velha, procedimento comum, sem perder o caráter possessório. Contra o Poder Público, liminar só após ouvir o representante.
 FRANCISCA: A Súmula trezentos e trinta e nove do STJ admite monitória contra a Fazenda. A duzentos e noventa e nove, contra cheque prescrito.
 THALITA: Monitória: quinze dias e cinco por cento. Falta agora o mandado de segurança!
-ANTONIO: E também a ação civil pública, os juizados, a mediação e o processo eletrônico.
+FRANCISCA: E também a ação civil pública, os juizados, a mediação e o processo eletrônico.

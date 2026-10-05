@@ -4,17 +4,17 @@ SEGMENTO s244
 * Roubo: subtrair com violência ou grave ameaça (art. 157), 4 a 10
 * Extorsão: colaboração da vítima indispensável (art. 158), 4 a 10
 * Súm. 582 STJ: inversão da posse, ainda que breve; Súm. 96 STJ: extorsão é crime formal
-ANTONIO: Terminamos os crimes contra a pessoa e entramos no patrimônio. Começamos pela trinca que mais cai: furto, roubo e extorsão. São três crimes parecidos, e a prova vive misturando.
+FRANCISCA: Terminamos os crimes contra a pessoa e entramos no patrimônio. Começamos pela trinca que mais cai: furto, roubo e extorsão. São três crimes parecidos, e a prova vive misturando.
 THALITA: Eu confundo mesmo. Qual é o jeito rápido de separar os três?
 FRANCISCA: Pela conduta. No furto, artigo cento e cinquenta e cinco, o agente subtrai coisa alheia móvel, sem violência. No roubo, artigo cento e cinquenta e sete, ele subtrai com violência, grave ameaça ou reduzindo a resistência da vítima. Na extorsão, artigo cento e cinquenta e oito, ele constrange alguém a fazer, tolerar ou deixar de fazer algo, para obter vantagem econômica.
-BRUNO: A FCC adora o critério da colaboração da vítima. No furto e no roubo, ela é dispensável: o criminoso pega com ou sem ajuda. Na extorsão ela é indispensável, porque é a vítima que entrega, assina ou faz o que o criminoso exige.
-THALITA: Então, se o bandido conseguiria sozinho, é furto ou roubo. Se depende de a vítima agir, é extorsão.
-ANTONIO: Esse é o macete clássico. Agora as penas. O furto tem reclusão de um a quatro anos. Roubo e extorsão têm a mesma pena-base: reclusão de quatro a dez anos.
-THALITA: Furto, um a quatro. Roubo e extorsão, quatro a dez. Fácil de guardar.
-FRANCISCA: Falta a consumação, que também cai muito. No furto e no roubo, consuma-se com a inversão da posse. A Súmula quinhentos e oitenta e dois do STJ esclarece que basta a inversão da posse, ainda que breve.
-BRUNO: A pegadinha está na extorsão. Pela Súmula noventa e seis do STJ, ela é crime formal: consuma-se com o constrangimento, ainda que o agente não obtenha a vantagem. Se a alternativa disser que a extorsão só se consuma com o pagamento, está errada.
+THALITA: A FCC adora o critério da colaboração da vítima. No furto e no roubo, ela é dispensável: o criminoso pega com ou sem ajuda. Na extorsão ela é indispensável, porque é a vítima que entrega, assina ou faz o que o criminoso exige.
+FRANCISCA: Então, se o bandido conseguiria sozinho, é furto ou roubo. Se depende de a vítima agir, é extorsão.
+THALITA: Esse é o macete clássico. Agora as penas. O furto tem reclusão de um a quatro anos. Roubo e extorsão têm a mesma pena-base: reclusão de quatro a dez anos.
+FRANCISCA: Furto, um a quatro. Roubo e extorsão, quatro a dez. Fácil de guardar.
+THALITA: Falta a consumação, que também cai muito. No furto e no roubo, consuma-se com a inversão da posse. A Súmula quinhentos e oitenta e dois do STJ esclarece que basta a inversão da posse, ainda que breve.
+FRANCISCA: A pegadinha está na extorsão. Pela Súmula noventa e seis do STJ, ela é crime formal: consuma-se com o constrangimento, ainda que o agente não obtenha a vantagem. Se a alternativa disser que a extorsão só se consuma com o pagamento, está errada.
 THALITA: Resumindo: furto e roubo consumam com a inversão da posse. Extorsão consuma com o constrangimento, mesmo sem ganhar nada.
-ANTONIO: Perfeito. Subtração sem violência, subtração com violência, e vítima constrangida a agir.
+FRANCISCA: Perfeito. Subtração sem violência, subtração com violência, e vítima constrangida a agir.
 == SLIDE: Furto: aumento, privilégio e qualificadoras
 * Repouso noturno (§1º): aumento de 1/3
 * Privilegiado (§2º): primário + coisa de pequeno valor
@@ -24,101 +24,101 @@ ANTONIO: Perfeito. Subtração sem violência, subtração com violência, e ví
 THALITA: Vamos para dentro do furto. Ele tem aumento, privilégio, qualificadoras e formas especiais, e cada uma rende questão, não é?
 FRANCISCA: Primeiro o repouso noturno, no parágrafo primeiro. Se o furto ocorre de noite, no período de repouso, a pena aumenta de um terço.
 THALITA: E o furto privilegiado, do parágrafo segundo? Eu sempre esqueço os requisitos.
-BRUNO: São dois: réu primário e coisa de pequeno valor. Presentes os dois, o juiz pode trocar a reclusão por detenção, reduzir a pena de um a dois terços, ou aplicar somente a multa.
-ANTONIO: Agora as qualificadoras, no parágrafo quarto, com reclusão de dois a oito anos. Rompimento de obstáculo; abuso de confiança, fraude, escalada ou destreza; chave falsa; e concurso de duas ou mais pessoas.
-THALITA: Rompimento de obstáculo, abuso de confiança e parentes, chave falsa e concurso de pessoas. Dois a oito.
-FRANCISCA: Isso. E há formas novas. Furto com explosivo, parágrafo quarto-A: reclusão de quatro a dez anos. Furto por fraude eletrônica, parágrafo quarto-B, da Lei catorze mil cento e cinquenta e cinco, de dois mil e vinte e um: reclusão de quatro a oito anos, com aumento se o servidor estiver no exterior ou se a vítima for idosa ou vulnerável.
-THALITA: E o veículo levado para outro Estado?
-FRANCISCA: Parágrafo quinto: reclusão de três a oito anos, quando o veículo é transportado para outro Estado ou para o exterior.
-BRUNO: Agora a joia da prova: Súmula quinhentos e onze do STJ. Cabe o privilégio no furto qualificado, se a qualificadora for de ordem objetiva e estiverem presentes a primariedade e o pequeno valor.
+FRANCISCA: São dois: réu primário e coisa de pequeno valor. Presentes os dois, o juiz pode trocar a reclusão por detenção, reduzir a pena de um a dois terços, ou aplicar somente a multa.
+THALITA: Agora as qualificadoras, no parágrafo quarto, com reclusão de dois a oito anos. Rompimento de obstáculo; abuso de confiança, fraude, escalada ou destreza; chave falsa; e concurso de duas ou mais pessoas.
+FRANCISCA: Rompimento de obstáculo, abuso de confiança e parentes, chave falsa e concurso de pessoas. Dois a oito.
+THALITA: Isso. E há formas novas. Furto com explosivo, parágrafo quarto-A: reclusão de quatro a dez anos. Furto por fraude eletrônica, parágrafo quarto-B, da Lei catorze mil cento e cinquenta e cinco, de dois mil e vinte e um: reclusão de quatro a oito anos, com aumento se o servidor estiver no exterior ou se a vítima for idosa ou vulnerável.
+FRANCISCA: E o veículo levado para outro Estado?
+THALITA: Parágrafo quinto: reclusão de três a oito anos, quando o veículo é transportado para outro Estado ou para o exterior.
+FRANCISCA: Agora a joia da prova: Súmula quinhentos e onze do STJ. Cabe o privilégio no furto qualificado, se a qualificadora for de ordem objetiva e estiverem presentes a primariedade e o pequeno valor.
 THALITA: Então a súmula pede qualificadora objetiva, primariedade e pequeno valor. Os três juntos.
-ANTONIO: Exato. Guardem essa exigência.
+FRANCISCA: Exato. Guardem essa exigência.
 == SLIDE: Roubo próprio, impróprio e latrocínio
 * Próprio: violência antes ou durante; impróprio: logo após (§1º)
 * Aumento de 1/3 até metade (§2º): concurso, transporte de valores, arma branca
 * Arma de fogo: +2/3 (§2º-A); uso restrito ou proibido: dobro (§2º-B)
 * Lesão grave: 7 a 18; morte (latrocínio): 20 a 30, hediondo
 * Súm. 603 e 610 do STF
-BRUNO: Passamos ao roubo, que é o furto com violência. A apostila separa roubo próprio e impróprio.
-THALITA: Qual é a diferença de momento?
-FRANCISCA: No roubo próprio, do caput, a violência ou grave ameaça vem antes ou durante a subtração. No impróprio, do parágrafo primeiro, vem logo depois de subtrair, para garantir a impunidade ou a detenção da coisa.
-BRUNO: A FCC cobra com um caso: o ladrão pega o celular sem violência, é perseguido e agride quem o segue para fugir. Violência logo após, para assegurar a fuga: roubo impróprio.
+THALITA: Passamos ao roubo, que é o furto com violência. A apostila separa roubo próprio e impróprio.
+FRANCISCA: Qual é a diferença de momento?
+THALITA: No roubo próprio, do caput, a violência ou grave ameaça vem antes ou durante a subtração. No impróprio, do parágrafo primeiro, vem logo depois de subtrair, para garantir a impunidade ou a detenção da coisa.
+FRANCISCA: A FCC cobra com um caso: o ladrão pega o celular sem violência, é perseguido e agride quem o segue para fugir. Violência logo após, para assegurar a fuga: roubo impróprio.
 THALITA: Então, no próprio, a violência é meio para pegar. No impróprio, é para escapar ou ficar com a coisa.
-ANTONIO: Certo. Agora as majorantes. No parágrafo segundo, aumento de um terço até metade: concurso de duas ou mais pessoas; vítima em transporte de valores; veículo levado a outro Estado ou ao exterior; restrição da liberdade da vítima; subtração de explosivos; e arma branca.
-BRUNO: Atenção à arma. Arma branca fica no aumento de um terço até metade. Arma de fogo, no parágrafo segundo-A, aumenta dois terços, assim como a destruição de obstáculo com explosivo. E arma de fogo de uso restrito ou proibido, parágrafo segundo-B, dobra a pena.
-THALITA: Branca, um terço até metade. Fogo, dois terços. Restrita ou proibida, o dobro.
-FRANCISCA: Agora o resultado. Se a violência causa lesão grave, parágrafo terceiro, inciso um: reclusão de sete a dezoito anos. Se causa a morte, é o latrocínio: reclusão de vinte a trinta anos, crime hediondo.
-ANTONIO: E de competência do juiz singular, porque é crime contra o patrimônio, como diz a Súmula seiscentos e três do STF. Não vai ao Júri.
-BRUNO: Alerta de prova: pela Súmula seiscentos e dez do STF, há latrocínio consumado com a morte, ainda que a subtração não se realize. Já subtração consumada e morte apenas tentada é latrocínio tentado.
-THALITA: Então quem mata e foge sem levar nada responde por latrocínio consumado!
-BRUNO: Isso. Vale gravar.
+FRANCISCA: Certo. Agora as majorantes. No parágrafo segundo, aumento de um terço até metade: concurso de duas ou mais pessoas; vítima em transporte de valores; veículo levado a outro Estado ou ao exterior; restrição da liberdade da vítima; subtração de explosivos; e arma branca.
+THALITA: Atenção à arma. Arma branca fica no aumento de um terço até metade. Arma de fogo, no parágrafo segundo-A, aumenta dois terços, assim como a destruição de obstáculo com explosivo. E arma de fogo de uso restrito ou proibido, parágrafo segundo-B, dobra a pena.
+FRANCISCA: Branca, um terço até metade. Fogo, dois terços. Restrita ou proibida, o dobro.
+THALITA: Agora o resultado. Se a violência causa lesão grave, parágrafo terceiro, inciso um: reclusão de sete a dezoito anos. Se causa a morte, é o latrocínio: reclusão de vinte a trinta anos, crime hediondo.
+FRANCISCA: E de competência do juiz singular, porque é crime contra o patrimônio, como diz a Súmula seiscentos e três do STF. Não vai ao Júri.
+THALITA: Alerta de prova: pela Súmula seiscentos e dez do STF, há latrocínio consumado com a morte, ainda que a subtração não se realize. Já subtração consumada e morte apenas tentada é latrocínio tentado.
+FRANCISCA: Então quem mata e foge sem levar nada responde por latrocínio consumado!
+THALITA: Isso. Vale gravar.
 == SLIDE: Extorsões e demais crimes patrimoniais
 * Sequestro-relâmpago (art. 158, §3º): 6 a 12
 * Extorsão mediante sequestro (art. 159): 8 a 15; qualificada 12 a 20
 * Dano, apropriação indébita, estelionato e receptação
 * Estelionato: ação condicionada à representação, com exceções
-ANTONIO: Vimos o roubo. Agora as extorsões e os demais crimes patrimoniais.
-FRANCISCA: A extorsão simples tem pena de quatro a dez anos, aumentada de um terço até metade se há duas ou mais pessoas ou arma. O sequestro-relâmpago, parágrafo terceiro do artigo cento e cinquenta e oito, exige a restrição da liberdade como condição necessária para obter a vantagem: pena de seis a doze anos. Lesão grave ou morte seguem as penas do artigo cento e cinquenta e nove.
-THALITA: E a extorsão mediante sequestro?
-FRANCISCA: Sequestrar para obter vantagem como preço do resgate. Pena de oito a quinze anos. Qualifica, com doze a vinte, se passa de vinte e quatro horas, se a vítima é menor de dezoito ou maior de sessenta anos, ou se há associação criminosa. E a colaboração reduz a pena de um terço a dois terços.
-BRUNO: Vamos aos demais. Dano, artigo cento e sessenta e três: destruir, inutilizar ou deteriorar coisa alheia. É qualificado se contra o patrimônio público, inclusive estatais e concessionárias.
+FRANCISCA: Vimos o roubo. Agora as extorsões e os demais crimes patrimoniais.
+THALITA: A extorsão simples tem pena de quatro a dez anos, aumentada de um terço até metade se há duas ou mais pessoas ou arma. O sequestro-relâmpago, parágrafo terceiro do artigo cento e cinquenta e oito, exige a restrição da liberdade como condição necessária para obter a vantagem: pena de seis a doze anos. Lesão grave ou morte seguem as penas do artigo cento e cinquenta e nove.
+FRANCISCA: E a extorsão mediante sequestro?
+THALITA: Sequestrar para obter vantagem como preço do resgate. Pena de oito a quinze anos. Qualifica, com doze a vinte, se passa de vinte e quatro horas, se a vítima é menor de dezoito ou maior de sessenta anos, ou se há associação criminosa. E a colaboração reduz a pena de um terço a dois terços.
+FRANCISCA: Vamos aos demais. Dano, artigo cento e sessenta e três: destruir, inutilizar ou deteriorar coisa alheia. É qualificado se contra o patrimônio público, inclusive estatais e concessionárias.
 THALITA: Apropriação indébita eu confundo com furto.
-ANTONIO: Pense na posse. Na apropriação indébita, artigo cento e sessenta e oito, o agente já tem a posse ou a detenção lícita e se apropria. Aumenta de um terço se for em razão de ofício ou profissão.
-FRANCISCA: Estelionato, artigo cento e setenta e um: obter vantagem ilícita induzindo ou mantendo alguém em erro. Na fraude eletrônica, parágrafo segundo-A, a pena é de quatro a oito anos.
-BRUNO: Receptação, artigo cento e oitenta: adquirir, receber, transportar ou ocultar produto de crime. Qualificada, em atividade comercial, de três a oito anos. Existe a culposa, e se o bem é público, a pena é em dobro. E atenção: no estelionato, a ação é condicionada à representação, pela Lei treze mil novecentos e sessenta e quatro, de dois mil e dezenove.
+FRANCISCA: Pense na posse. Na apropriação indébita, artigo cento e sessenta e oito, o agente já tem a posse ou a detenção lícita e se apropria. Aumenta de um terço se for em razão de ofício ou profissão.
+THALITA: Estelionato, artigo cento e setenta e um: obter vantagem ilícita induzindo ou mantendo alguém em erro. Na fraude eletrônica, parágrafo segundo-A, a pena é de quatro a oito anos.
+FRANCISCA: Receptação, artigo cento e oitenta: adquirir, receber, transportar ou ocultar produto de crime. Qualificada, em atividade comercial, de três a oito anos. Existe a culposa, e se o bem é público, a pena é em dobro. E atenção: no estelionato, a ação é condicionada à representação, pela Lei treze mil novecentos e sessenta e quatro, de dois mil e dezenove.
 THALITA: Exceto se a vítima for a Administração Pública, criança ou adolescente, pessoa com deficiência mental, maior de setenta anos ou incapaz!
-BRUNO: Perfeito.
+FRANCISCA: Perfeito.
 == SLIDE: Imunidades e conceito de funcionário público
 * Absoluta (art. 181): cônjuge; ascendente ou descendente
 * Relativa (art. 182): cônjuge separado, irmão, tio ou sobrinho que coabita
 * Não se aplicam (art. 183): violência, estranho, vítima com 60 anos ou mais
 * Art. 327: funcionário é quem exerce função pública, ainda que sem remuneração
 * §2º: +1/3 para cargo em comissão; não menciona autarquia
-ANTONIO: Fechando o patrimônio, as imunidades, artigos cento e oitenta e um a cento e oitenta e três. Muito cobradas.
+THALITA: Fechando o patrimônio, as imunidades, artigos cento e oitenta e um a cento e oitenta e três. Muito cobradas.
 FRANCISCA: A absoluta, do cento e oitenta e um, isenta de pena: cônjuge na constância da sociedade conjugal, e ascendente ou descendente, qualquer que seja o parentesco.
-BRUNO: A relativa, do cento e oitenta e dois, não isenta: a ação depende de representação. Vale para cônjuge separado judicialmente, irmão, e tio ou sobrinho com quem o agente coabita.
-THALITA: Então, no irmão, mesmo sem coabitar, a ação depende de representação. A coabitação só é exigida de tio e sobrinho.
-BRUNO: Exatamente.
+THALITA: A relativa, do cento e oitenta e dois, não isenta: a ação depende de representação. Vale para cônjuge separado judicialmente, irmão, e tio ou sobrinho com quem o agente coabita.
+FRANCISCA: Então, no irmão, mesmo sem coabitar, a ação depende de representação. A coabitação só é exigida de tio e sobrinho.
+THALITA: Exatamente.
 FRANCISCA: E o artigo cento e oitenta e três lista quando nenhuma se aplica: roubo, extorsão e todo crime com violência ou grave ameaça; estranho que participa do crime; e vítima com sessenta anos ou mais.
 THALITA: Violência, estranho, idoso. Esse é o meu macete.
-ANTONIO: A apostila ainda pede para conferir se lei recente vedou as imunidades em crimes patrimoniais contra a mulher em violência doméstica. A Lei Maria da Penha já tipifica a violência patrimonial. Agora mudamos de capítulo: crimes contra a Administração Pública, e primeiro quem é funcionário público.
-FRANCISCA: Artigo trezentos e vinte e sete: para efeitos penais, é quem exerce cargo, emprego ou função pública, ainda que transitoriamente ou sem remuneração. O critério é a função, não o vínculo. Mesário, jurado e estagiário de órgão público entram.
-BRUNO: O parágrafo primeiro equipara quem trabalha em entidade paraestatal e quem trabalha em empresa prestadora de serviço contratada ou conveniada para executar atividade típica da Administração.
+FRANCISCA: A apostila ainda pede para conferir se lei recente vedou as imunidades em crimes patrimoniais contra a mulher em violência doméstica. A Lei Maria da Penha já tipifica a violência patrimonial. Agora mudamos de capítulo: crimes contra a Administração Pública, e primeiro quem é funcionário público.
+THALITA: Artigo trezentos e vinte e sete: para efeitos penais, é quem exerce cargo, emprego ou função pública, ainda que transitoriamente ou sem remuneração. O critério é a função, não o vínculo. Mesário, jurado e estagiário de órgão público entram.
+FRANCISCA: O parágrafo primeiro equipara quem trabalha em entidade paraestatal e quem trabalha em empresa prestadora de serviço contratada ou conveniada para executar atividade típica da Administração.
 THALITA: Típica! Atividade atípica não equipara.
 FRANCISCA: O parágrafo segundo aumenta de um terço a pena de quem ocupa cargo em comissão ou função de direção ou assessoramento em órgão da administração direta, sociedade de economia mista, empresa pública ou fundação instituída pelo poder público.
-BRUNO: E ele não menciona autarquia. Pegadinha recorrente.
+THALITA: E ele não menciona autarquia. Pegadinha recorrente.
 == SLIDE: Peculato, concussão e corrupção
 * Peculato: apropriação, desvio e furto; reclusão de 2 a 12 (art. 312)
 * Reparação do dano só no culposo (§3º)
 * Concussão exige; corrupção passiva solicita, recebe ou aceita
 * Excesso de exação: tributo, 3 a 8
 * Corrupção ativa (art. 333): oferecer ou prometer
-ANTONIO: Agora o peculato, artigo trezentos e doze, o crime funcional mais clássico. Há três formas dolosas, todas com reclusão de dois a doze anos e multa.
+FRANCISCA: Agora o peculato, artigo trezentos e doze, o crime funcional mais clássico. Há três formas dolosas, todas com reclusão de dois a doze anos e multa.
 THALITA: Quais são?
 FRANCISCA: Apropriação: o funcionário se apropria de bem de que tem a posse em razão do cargo. Desvio: dá ao bem destinação diversa, em proveito próprio ou alheio. E peculato-furto, no parágrafo primeiro: ele não tem a posse, mas subtrai, ou concorre para a subtração, valendo-se da facilidade do cargo.
-BRUNO: O culposo, parágrafo segundo, é concorrer culposamente para o crime de outrem: detenção de três meses a um ano. E a reparação do dano, parágrafo terceiro, só vale no culposo. Antes da sentença irrecorrível, extingue a punibilidade. Depois, reduz a pena pela metade. No doloso, só o arrependimento posterior, do artigo dezesseis.
-THALITA: Então, no culposo, reparou antes, acabou. Reparou depois, metade da pena.
-FRANCISCA: Há variações. Peculato mediante erro de outrem, artigo trezentos e treze: reclusão de um a quatro anos. Inserção de dados falsos em sistema, trezentos e treze-A, por funcionário autorizado: reclusão de dois a doze. E modificação de sistema sem autorização, trezentos e treze-B: detenção de três meses a dois anos.
-ANTONIO: Agora a comparação de três: concussão, corrupção passiva e excesso de exação. Quem decide é o verbo.
-BRUNO: Concussão, artigo trezentos e dezesseis: exigir vantagem indevida, reclusão de dois a doze, e o particular é vítima. Corrupção passiva, trezentos e dezessete: solicitar, receber ou aceitar promessa, também de dois a doze, e em regra o particular responde por corrupção ativa.
-THALITA: Exigir é concussão. Pedir, receber ou aceitar é corrupção.
-FRANCISCA: O excesso de exação, parágrafo primeiro do trezentos e dezesseis, é exigir tributo indevido, ou cobrar o devido por meio vexatório ou gravoso: reclusão de três a oito anos. Desviar o que recebeu indevidamente, no parágrafo segundo, tem dois a doze.
-BRUNO: Pontos comuns: pode ocorrer fora da função ou antes de assumi-la, desde que em razão dela, e a consumação é formal. A corrupção passiva aumenta de um terço se o funcionário retarda, deixa de praticar ou pratica ato com infração de dever. A privilegiada é ceder a pedido de outrem, sem vantagem: detenção de três meses a um ano.
-ANTONIO: E a corrupção ativa, artigo trezentos e trinta e três: o particular oferece ou promete, dois a doze, com aumento de um terço. Dar depois de uma exigência não é crime.
+THALITA: O culposo, parágrafo segundo, é concorrer culposamente para o crime de outrem: detenção de três meses a um ano. E a reparação do dano, parágrafo terceiro, só vale no culposo. Antes da sentença irrecorrível, extingue a punibilidade. Depois, reduz a pena pela metade. No doloso, só o arrependimento posterior, do artigo dezesseis.
+FRANCISCA: Então, no culposo, reparou antes, acabou. Reparou depois, metade da pena.
+THALITA: Há variações. Peculato mediante erro de outrem, artigo trezentos e treze: reclusão de um a quatro anos. Inserção de dados falsos em sistema, trezentos e treze-A, por funcionário autorizado: reclusão de dois a doze. E modificação de sistema sem autorização, trezentos e treze-B: detenção de três meses a dois anos.
+FRANCISCA: Agora a comparação de três: concussão, corrupção passiva e excesso de exação. Quem decide é o verbo.
+THALITA: Concussão, artigo trezentos e dezesseis: exigir vantagem indevida, reclusão de dois a doze, e o particular é vítima. Corrupção passiva, trezentos e dezessete: solicitar, receber ou aceitar promessa, também de dois a doze, e em regra o particular responde por corrupção ativa.
+FRANCISCA: Exigir é concussão. Pedir, receber ou aceitar é corrupção.
+THALITA: O excesso de exação, parágrafo primeiro do trezentos e dezesseis, é exigir tributo indevido, ou cobrar o devido por meio vexatório ou gravoso: reclusão de três a oito anos. Desviar o que recebeu indevidamente, no parágrafo segundo, tem dois a doze.
+FRANCISCA: Pontos comuns: pode ocorrer fora da função ou antes de assumi-la, desde que em razão dela, e a consumação é formal. A corrupção passiva aumenta de um terço se o funcionário retarda, deixa de praticar ou pratica ato com infração de dever. A privilegiada é ceder a pedido de outrem, sem vantagem: detenção de três meses a um ano.
+THALITA: E a corrupção ativa, artigo trezentos e trinta e três: o particular oferece ou promete, dois a doze, com aumento de um terço. Dar depois de uma exigência não é crime.
 == SLIDE: Prevaricação, desacato e administração da justiça
 * Prevaricação: sentimento pessoal; condescendência: indulgência; advocacia administrativa: patrocínio
 * Descaminho (mercadoria lícita) x contrabando (proibida)
 * Resistência (violência) x desobediência x desacato (ADPF 496)
 * Denunciação caluniosa, falso testemunho, favorecimento, fuga de preso
-BRUNO: Vamos às comparações finais. Prevaricação, condescendência criminosa e advocacia administrativa.
-FRANCISCA: Prevaricação, artigo trezentos e dezenove: retardar, deixar de praticar ou praticar contra a lei ato de ofício, para satisfazer interesse ou sentimento pessoal. Detenção de três meses a um ano. Condescendência, trezentos e vinte: deixar, por indulgência, de responsabilizar subordinado ou de comunicar a falta, com detenção de quinze dias a um mês ou multa.
-BRUNO: Advocacia administrativa, trezentos e vinte e um: patrocinar interesse privado perante a Administração, valendo-se da qualidade de funcionário. Detenção de um a três meses ou multa, e três meses a um ano se o interesse é ilegítimo. E a prevaricação imprópria, trezentos e dezenove-A, pune o diretor de presídio que deixa de impedir o acesso do preso a celular ou rádio.
+FRANCISCA: Vamos às comparações finais. Prevaricação, condescendência criminosa e advocacia administrativa.
+THALITA: Prevaricação, artigo trezentos e dezenove: retardar, deixar de praticar ou praticar contra a lei ato de ofício, para satisfazer interesse ou sentimento pessoal. Detenção de três meses a um ano. Condescendência, trezentos e vinte: deixar, por indulgência, de responsabilizar subordinado ou de comunicar a falta, com detenção de quinze dias a um mês ou multa.
+FRANCISCA: Advocacia administrativa, trezentos e vinte e um: patrocinar interesse privado perante a Administração, valendo-se da qualidade de funcionário. Detenção de um a três meses ou multa, e três meses a um ano se o interesse é ilegítimo. E a prevaricação imprópria, trezentos e dezenove-A, pune o diretor de presídio que deixa de impedir o acesso do preso a celular ou rádio.
 THALITA: Prevaricação é por sentimento pessoal, condescendência é por pena do subordinado, advocacia é defender interesse de terceiro usando o cargo.
-ANTONIO: Outros crimes. Violência arbitrária, abandono de função, violação de sigilo funcional. Usurpação de função, trezentos e vinte e oito, é de particular. Tráfico de influência, trezentos e trinta e dois: vantagem a pretexto de influir em ato de funcionário, com aumento de metade se diz que parte vai para ele.
-FRANCISCA: Descaminho, artigo trezentos e trinta e quatro: iludir tributo devido sobre mercadoria lícita, reclusão de um a quatro anos. Contrabando, trezentos e trinta e quatro-A: mercadoria proibida, reclusão de dois a cinco. O descaminho admite insignificância até vinte mil reais, afastada pela habitualidade. O contrabando, em regra, não.
-BRUNO: Mais uma: resistência, desobediência e desacato. Resistência, trezentos e vinte e nove: opor-se a ato legal com violência ou ameaça. Desobediência, trezentos e trinta: descumprir ordem legal sem violência. Desacato, trezentos e trinta e um: ofender o funcionário no exercício da função ou em razão dela. Na ADPF quatrocentos e noventa e seis, o STF decidiu que o desacato foi recepcionado.
+FRANCISCA: Outros crimes. Violência arbitrária, abandono de função, violação de sigilo funcional. Usurpação de função, trezentos e vinte e oito, é de particular. Tráfico de influência, trezentos e trinta e dois: vantagem a pretexto de influir em ato de funcionário, com aumento de metade se diz que parte vai para ele.
+THALITA: Descaminho, artigo trezentos e trinta e quatro: iludir tributo devido sobre mercadoria lícita, reclusão de um a quatro anos. Contrabando, trezentos e trinta e quatro-A: mercadoria proibida, reclusão de dois a cinco. O descaminho admite insignificância até vinte mil reais, afastada pela habitualidade. O contrabando, em regra, não.
+FRANCISCA: Mais uma: resistência, desobediência e desacato. Resistência, trezentos e vinte e nove: opor-se a ato legal com violência ou ameaça. Desobediência, trezentos e trinta: descumprir ordem legal sem violência. Desacato, trezentos e trinta e um: ofender o funcionário no exercício da função ou em razão dela. Na ADPF quatrocentos e noventa e seis, o STF decidiu que o desacato foi recepcionado.
 THALITA: E resistência passiva não é crime, certo?
-BRUNO: Certo.
-ANTONIO: Por fim, a administração da justiça. Denunciação caluniosa, dois a oito anos, é imputar crime a quem se sabe inocente. Comunicação falsa de crime não aponta autor. Falso testemunho: dois a quatro anos, com retratação antes da sentença extinguindo a punibilidade.
+FRANCISCA: Certo.
+THALITA: Por fim, a administração da justiça. Denunciação caluniosa, dois a oito anos, é imputar crime a quem se sabe inocente. Comunicação falsa de crime não aponta autor. Falso testemunho: dois a quatro anos, com retratação antes da sentença extinguindo a punibilidade.
 FRANCISCA: Coação no curso do processo, exercício arbitrário das próprias razões, fraude processual, favorecimento pessoal e real, e fuga de pessoa presa. No favorecimento pessoal, são isentos ascendente, descendente, cônjuge e irmão.
 THALITA: Chega de crime. Vamos para as questões e ver se grudou.

@@ -4,56 +4,56 @@ SEGMENTO s156
 * Natureza indenizatória
 * Súmula 437 superada após 11/11/2017
 * Redução para 30 minutos exige norma coletiva
-ANTONIO: Terminamos o teletrabalho. Agora a prática, com questões no estilo FCC. Pausem antes de cada gabarito. Questão um: Márcio cumpre oito horas diárias, mas usufrui só trinta minutos de intervalo, por determinação da chefia, sem norma coletiva. Ele faz jus a quê? A, uma hora integral com cinquenta por cento, salarial e com reflexos. B, trinta minutos sem acréscimo, indenizatório. C, trinta minutos com cinquenta por cento, indenizatório. D, uma hora integral com cinquenta por cento, indenizatória. E, nada, porque a redução para trinta minutos pode ser feita por acordo individual.
+FRANCISCA: Terminamos o teletrabalho. Agora a prática, com questões no estilo FCC. Pausem antes de cada gabarito. Questão um: Márcio cumpre oito horas diárias, mas usufrui só trinta minutos de intervalo, por determinação da chefia, sem norma coletiva. Ele faz jus a quê? A, uma hora integral com cinquenta por cento, salarial e com reflexos. B, trinta minutos sem acréscimo, indenizatório. C, trinta minutos com cinquenta por cento, indenizatório. D, uma hora integral com cinquenta por cento, indenizatória. E, nada, porque a redução para trinta minutos pode ser feita por acordo individual.
 THALITA: Pausa para você pensar. Eu iria na A, porque lembro que a hora inteira é paga, e que gera reflexos.
-BRUNO: Você lembrou da Súmula quatrocentos e trinta e sete, itens um e três, que era assim. Mas ela foi superada, para fatos posteriores a onze de novembro de dois mil e dezessete, pelo artigo setenta e um, parágrafo quarto.
-FRANCISCA: Hoje se paga apenas o período suprimido, com acréscimo de cinquenta por cento sobre o valor da hora normal, e a natureza é indenizatória. Márcio teve trinta minutos suprimidos. Então a C é o gabarito.
-THALITA: A B esquece o acréscimo, e a D paga a hora inteira. É isso?
-ANTONIO: Exato. E a E é pegadinha de forma: a redução do intervalo para trinta minutos, em jornada acima de seis horas, exige convenção ou acordo coletivo, artigo seiscentos e onze-A, inciso três, ou ato ministerial. Acordo individual não basta.
-BRUNO: Resumo: suprimiu, paga o que suprimiu, com cinquenta por cento, sem reflexos.
+FRANCISCA: Você lembrou da Súmula quatrocentos e trinta e sete, itens um e três, que era assim. Mas ela foi superada, para fatos posteriores a onze de novembro de dois mil e dezessete, pelo artigo setenta e um, parágrafo quarto.
+THALITA: Hoje se paga apenas o período suprimido, com acréscimo de cinquenta por cento sobre o valor da hora normal, e a natureza é indenizatória. Márcio teve trinta minutos suprimidos. Então a C é o gabarito.
+FRANCISCA: A B esquece o acréscimo, e a D paga a hora inteira. É isso?
+THALITA: Exato. E a E é pegadinha de forma: a redução do intervalo para trinta minutos, em jornada acima de seis horas, exige convenção ou acordo coletivo, artigo seiscentos e onze-A, inciso três, ou ato ministerial. Acordo individual não basta.
+FRANCISCA: Resumo: suprimiu, paga o que suprimiu, com cinquenta por cento, sem reflexos.
 == SLIDE: Questão 2: compensação de jornada e banco de horas
 * Banco de horas em até 6 meses: acordo individual escrito
 * Compensação no mesmo mês: acordo individual, inclusive tácito
 * Banco de horas em até 1 ano: norma coletiva
 * Horas extras habituais não descaracterizam (art. 59-B)
-FRANCISCA: Questão dois, com quatro afirmações. Um: o banco de horas pode ser por acordo individual escrito, com compensação em até seis meses. Dois: é lícita a compensação por acordo individual tácito, no mesmo mês. Três: o banco de horas com compensação em até um ano depende de convenção ou acordo coletivo. Quatro: horas extras habituais descaracterizam a compensação e o banco de horas.
-THALITA: Pausa para você pensar. O quatro parece verdadeiro, porque eu estudei isso na Súmula oitenta e cinco.
-BRUNO: Boa lembrança, mas está superado. O artigo cinquenta e nove-B, parágrafo único, diz exatamente o contrário: a prestação de horas extras habituais não descaracteriza o acordo de compensação nem o banco de horas. Então o item quatro está errado.
-ANTONIO: Os outros três estão certos. Item um: artigo cinquenta e nove, parágrafo quinto, acordo individual escrito para banco de horas em até seis meses. Item dois: parágrafo sexto, compensação no mesmo mês por acordo individual, tácito ou escrito. Item três: parágrafo segundo, banco de horas de até um ano, por norma coletiva.
+THALITA: Questão dois, com quatro afirmações. Um: o banco de horas pode ser por acordo individual escrito, com compensação em até seis meses. Dois: é lícita a compensação por acordo individual tácito, no mesmo mês. Três: o banco de horas com compensação em até um ano depende de convenção ou acordo coletivo. Quatro: horas extras habituais descaracterizam a compensação e o banco de horas.
+FRANCISCA: Pausa para você pensar. O quatro parece verdadeiro, porque eu estudei isso na Súmula oitenta e cinco.
+THALITA: Boa lembrança, mas está superado. O artigo cinquenta e nove-B, parágrafo único, diz exatamente o contrário: a prestação de horas extras habituais não descaracteriza o acordo de compensação nem o banco de horas. Então o item quatro está errado.
+FRANCISCA: Os outros três estão certos. Item um: artigo cinquenta e nove, parágrafo quinto, acordo individual escrito para banco de horas em até seis meses. Item dois: parágrafo sexto, compensação no mesmo mês por acordo individual, tácito ou escrito. Item três: parágrafo segundo, banco de horas de até um ano, por norma coletiva.
 THALITA: Então o gabarito é a A, itens um, dois e três.
 FRANCISCA: Isso. As demais alternativas ou incluem o quatro, ou omitem itens corretos.
-BRUNO: Macete: seis meses, individual escrito; mesmo mês, individual até tácito; um ano, coletivo.
+THALITA: Macete: seis meses, individual escrito; mesmo mês, individual até tácito; um ano, coletivo.
 == SLIDE: Questão 3: trabalho noturno urbano e rural
 * Urbano: 22h às 5h, adicional de 20%, hora de 52min30s
 * Pecuária: 20h às 4h; lavoura: 21h às 5h
 * Rural: adicional de 25%, hora de 60 minutos
 * Súmulas 265 e 60, II
-THALITA: Questão três. Sobre o trabalho noturno. A diz que o urbano é das vinte e uma às cinco, com adicional de vinte e cinco por cento. B diz que o rural da pecuária é das vinte e uma às cinco, com hora de cinquenta e dois minutos e trinta segundos. C diz que a transferência para o diurno não autoriza suprimir o adicional. D diz que prorrogada a jornada noturna, o adicional não é devido nas horas após as cinco. E diz que na lavoura o noturno vai das vinte e uma às cinco, com acréscimo de vinte e cinco por cento, sem redução da hora noturna.
-ANTONIO: O urbano é das vinte e duas às cinco, com adicional de vinte por cento, artigo setenta e três. A letra A troca os dois números.
+FRANCISCA: Questão três. Sobre o trabalho noturno. A diz que o urbano é das vinte e uma às cinco, com adicional de vinte e cinco por cento. B diz que o rural da pecuária é das vinte e uma às cinco, com hora de cinquenta e dois minutos e trinta segundos. C diz que a transferência para o diurno não autoriza suprimir o adicional. D diz que prorrogada a jornada noturna, o adicional não é devido nas horas após as cinco. E diz que na lavoura o noturno vai das vinte e uma às cinco, com acréscimo de vinte e cinco por cento, sem redução da hora noturna.
+THALITA: O urbano é das vinte e duas às cinco, com adicional de vinte por cento, artigo setenta e três. A letra A troca os dois números.
 FRANCISCA: O rural tem regras próprias, na Lei cinco mil oitocentos e oitenta e nove, de mil novecentos e setenta e três. Na lavoura, das vinte e uma às cinco; na pecuária, das vinte às quatro. O adicional é de vinte e cinco por cento e a hora é de sessenta minutos, sem redução. A letra B erra o horário da pecuária e a hora reduzida.
-BRUNO: Sobra a E, gabarito. As demais: a C erra porque a Súmula duzentos e sessenta e cinco diz que a transferência para o diurno faz perder o adicional. E a D erra porque a Súmula sessenta, item dois, e o artigo setenta e três, parágrafo quinto, mandam pagar o adicional também nas horas prorrogadas.
-THALITA: Macete: urbano vinte por cento, rural vinte e cinco por cento; urbano reduz a hora, rural não.
+THALITA: Sobra a E, gabarito. As demais: a C erra porque a Súmula duzentos e sessenta e cinco diz que a transferência para o diurno faz perder o adicional. E a D erra porque a Súmula sessenta, item dois, e o artigo setenta e três, parágrafo quinto, mandam pagar o adicional também nas horas prorrogadas.
+FRANCISCA: Macete: urbano vinte por cento, rural vinte e cinco por cento; urbano reduz a hora, rural não.
 == SLIDE: Questão 4: faltas e duração das férias
 * Até 5 faltas: 30 dias
 * 6 a 14 faltas: 24 dias
 * 15 a 23 faltas: 18 dias
 * 24 a 32 faltas: 12 dias
-BRUNO: Questão quatro, Técnico Judiciário. Carla teve quinze faltas injustificadas no período aquisitivo. Quantos dias de férias? A, vinte e quatro. B, dezoito. C, trinta dias menos as quinze faltas, quinze dias. D, doze. E, vinte.
-THALITA: Pausa para você pensar. Eu lembro da tabela: até cinco faltas, trinta dias; seis a catorze, vinte e quatro; quinze a vinte e três, dezoito; vinte e quatro a trinta e dois, doze.
-ANTONIO: Perfeita, Thalita. Quinze faltas cai na terceira faixa: dezoito dias corridos. Gabarito B, artigo cento e trinta, inciso três.
+THALITA: Questão quatro, Técnico Judiciário. Carla teve quinze faltas injustificadas no período aquisitivo. Quantos dias de férias? A, vinte e quatro. B, dezoito. C, trinta dias menos as quinze faltas, quinze dias. D, doze. E, vinte.
+FRANCISCA: Pausa para você pensar. Eu lembro da tabela: até cinco faltas, trinta dias; seis a catorze, vinte e quatro; quinze a vinte e três, dezoito; vinte e quatro a trinta e dois, doze.
+THALITA: Perfeita, Francisca. Quinze faltas cai na terceira faixa: dezoito dias corridos. Gabarito B, artigo cento e trinta, inciso três.
 FRANCISCA: A letra A, vinte e quatro, seria para seis a catorze faltas. A D, doze dias, seria para vinte e quatro a trinta e dois. E a E, vinte dias, nem existe na tabela.
-BRUNO: A letra C é a pegadinha de raciocínio. Muita gente acha que as faltas são descontadas dos dias de férias. O parágrafo primeiro do artigo cento e trinta proíbe descontar o período de férias das faltas. A falta só determina a faixa.
-THALITA: Macete: trinta, vinte e quatro, dezoito, doze, e acima de trinta e dois faltas, perde as férias.
+THALITA: A letra C é a pegadinha de raciocínio. Muita gente acha que as faltas são descontadas dos dias de férias. O parágrafo primeiro do artigo cento e trinta proíbe descontar o período de férias das faltas. A falta só determina a faixa.
+FRANCISCA: Macete: trinta, vinte e quatro, dezoito, doze, e acima de trinta e dois faltas, perde as férias.
 == SLIDE: Questão 5: perda do direito a férias
 * Art. 133, I: deixar o emprego e não ser readmitido em 60 dias
 * Art. 133, II: licença com salários por mais de 30 dias
 * Art. 133, III: paralisação da empresa por mais de 30 dias
 * Art. 133, IV: auxílio-doença por mais de 6 meses, ainda que descontínuos
-ANTONIO: Questão cinco. Nos termos do artigo cento e trinta e três da CLT, não terá direito a férias o empregado que, no período aquisitivo: A, deixar o emprego e for readmitido dentro de sessenta dias. B, ficar em licença não remunerada por mais de trinta dias. C, receber auxílio-doença por mais de seis meses contínuos. D, deixar de trabalhar com salário por mais de trinta dias, por paralisação da empresa. E, ficar em licença remunerada por mais de quinze dias.
-THALITA: Pausa para você pensar. A primeira eu cairia, mas lembro de ouvir sessenta dias...
-FRANCISCA: O inciso primeiro fala em quem deixa o emprego e não é readmitido em sessenta dias. A letra A inverte: se for readmitido, não perde. Está errada.
-BRUNO: A B erra um detalhe. O inciso segundo fala em licença com percepção de salários por mais de trinta dias. A alternativa colocou "não remunerada" e a E trocou o prazo para quinze dias. As duas erram.
-ANTONIO: A C erra a continuidade. O inciso quarto diz auxílio-doença por mais de seis meses, embora descontínuos. A questão disse "desde que contínuos", e isso restringe o texto.
+THALITA: Questão cinco. Nos termos do artigo cento e trinta e três da CLT, não terá direito a férias o empregado que, no período aquisitivo: A, deixar o emprego e for readmitido dentro de sessenta dias. B, ficar em licença não remunerada por mais de trinta dias. C, receber auxílio-doença por mais de seis meses contínuos. D, deixar de trabalhar com salário por mais de trinta dias, por paralisação da empresa. E, ficar em licença remunerada por mais de quinze dias.
+FRANCISCA: Pausa para você pensar. A primeira eu cairia, mas lembro de ouvir sessenta dias...
+THALITA: O inciso primeiro fala em quem deixa o emprego e não é readmitido em sessenta dias. A letra A inverte: se for readmitido, não perde. Está errada.
+FRANCISCA: A B erra um detalhe. O inciso segundo fala em licença com percepção de salários por mais de trinta dias. A alternativa colocou "não remunerada" e a E trocou o prazo para quinze dias. As duas erram.
+THALITA: A C erra a continuidade. O inciso quarto diz auxílio-doença por mais de seis meses, embora descontínuos. A questão disse "desde que contínuos", e isso restringe o texto.
 FRANCISCA: Sobra a D, que é a literalidade do inciso três: deixar de trabalhar, com percepção do salário, por mais de trinta dias, em virtude de paralisação parcial ou total dos serviços da empresa.
 THALITA: Macete: sessenta dias de readmissão; trinta dias com salário, em licença ou paralisação; seis meses de auxílio-doença, mesmo descontínuo.
 == SLIDE: Questão 6: fracionamento das férias
@@ -61,11 +61,11 @@ THALITA: Macete: sessenta dias de readmissão; trinta dias com salário, em lice
 * Um período com pelo menos 14 dias
 * Os demais com pelo menos 5 dias cada
 * Sem início nos 2 dias antes de feriado ou repouso (art. 134, § 3º)
-BRUNO: Questão seis. Ana tem trinta dias de férias e concordou com o fracionamento. O repouso semanal é aos domingos. Qual programação respeita a CLT? A, catorze dias começando numa segunda, dez dias e seis dias, iniciados em dias úteis que não antecedem em até dois dias feriado ou repouso. B, dez, dez e dez, todos às segundas. C, quinze dias começando num sábado e quinze dias numa segunda. D, catorze, doze e quatro. E, catorze, seis, cinco e cinco.
+FRANCISCA: Questão seis. Ana tem trinta dias de férias e concordou com o fracionamento. O repouso semanal é aos domingos. Qual programação respeita a CLT? A, catorze dias começando numa segunda, dez dias e seis dias, iniciados em dias úteis que não antecedem em até dois dias feriado ou repouso. B, dez, dez e dez, todos às segundas. C, quinze dias começando num sábado e quinze dias numa segunda. D, catorze, doze e quatro. E, catorze, seis, cinco e cinco.
 THALITA: Pausa para você pensar. O que eu lembro é que pode dividir em até três períodos.
-ANTONIO: Isso. O artigo cento e trinta e quatro, parágrafo primeiro: até três períodos, um deles com no mínimo catorze dias e os demais com no mínimo cinco dias cada. A letra E tem quatro períodos, então cai. A letra D tem um período de quatro dias, menor que cinco. A letra B tem três períodos de dez, nenhum com catorze dias.
-FRANCISCA: A letra C é a mais sutil. Início num sábado, sendo o repouso aos domingos, cai nos dois dias que antecedem o repouso. O parágrafo terceiro veda o início das férias nos dois dias que antecedem feriado ou dia de repouso semanal remunerado.
-BRUNO: Gabarito A: três períodos, um de catorze, outros de dez e seis, todos fora da janela proibida.
+FRANCISCA: Isso. O artigo cento e trinta e quatro, parágrafo primeiro: até três períodos, um deles com no mínimo catorze dias e os demais com no mínimo cinco dias cada. A letra E tem quatro períodos, então cai. A letra D tem um período de quatro dias, menor que cinco. A letra B tem três períodos de dez, nenhum com catorze dias.
+THALITA: A letra C é a mais sutil. Início num sábado, sendo o repouso aos domingos, cai nos dois dias que antecedem o repouso. O parágrafo terceiro veda o início das férias nos dois dias que antecedem feriado ou dia de repouso semanal remunerado.
+FRANCISCA: Gabarito A: três períodos, um de catorze, outros de dez e seis, todos fora da janela proibida.
 THALITA: Macete: três períodos, catorze mais cinco mais cinco no mínimo, e nada de começar sexta ou sábado quando o repouso é domingo.
 == SLIDE: Questão 7: trabalho em regime de tempo parcial
 * Até 30 horas semanais, sem horas suplementares
@@ -74,8 +74,8 @@ THALITA: Macete: três períodos, catorze mais cinco mais cinco no mínimo, e na
 * Férias seguem o art. 130
 FRANCISCA: Questão sete. Considera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a quanto? A, vinte e cinco horas semanais, sem horas suplementares. B, trinta horas, com até seis horas suplementares. C, trinta horas sem suplementares, ou vinte e seis horas com até seis horas suplementares. D, vinte e seis horas, com até quatro suplementares, vedado o abono. E, trinta e duas horas, com férias de no máximo dezoito dias.
 THALITA: Pausa para você pensar. Eu lembro de duas modalidades, trinta e vinte e seis.
-BRUNO: Boa. Artigo cinquenta e oito-A, caput: trinta horas semanais sem horas suplementares, ou vinte e seis horas semanais com até seis horas suplementares semanais. A letra C é a literalidade. A letra A traz o limite de vinte e cinco horas, que era o da redação anterior à Reforma.
-ANTONIO: A letra B mistura: quem contrata trinta horas não faz extras. A letra D erra nas quatro suplementares e na vedação ao abono, porque o parágrafo sexto permite a conversão de um terço das férias em abono.
+FRANCISCA: Boa. Artigo cinquenta e oito-A, caput: trinta horas semanais sem horas suplementares, ou vinte e seis horas semanais com até seis horas suplementares semanais. A letra C é a literalidade. A letra A traz o limite de vinte e cinco horas, que era o da redação anterior à Reforma.
+THALITA: A letra B mistura: quem contrata trinta horas não faz extras. A letra D erra nas quatro suplementares e na vedação ao abono, porque o parágrafo sexto permite a conversão de um terço das férias em abono.
 FRANCISCA: A letra E inventa uma modalidade de trinta e duas horas. E as férias do regime parcial seguem o artigo cento e trinta, parágrafo sétimo do artigo cinquenta e oito-A, não há limite de dezoito dias.
 THALITA: Macete: trinta sem extra, vinte e seis com seis extras.
 == SLIDE: Questão 8: artigo 62, quem está fora da jornada
@@ -83,45 +83,45 @@ THALITA: Macete: trinta sem extra, vinte e seis com seis extras.
 * Gerente: gratificação de pelo menos 40% sobre o salário efetivo
 * Teletrabalho por produção ou tarefa (art. 62, III)
 * Um terço é critério do bancário, não do artigo 62
-ANTONIO: Questão oito. Pelo artigo sessenta e dois da CLT, não são abrangidos pelo regime de duração do trabalho: A, todos que exercem atividade externa, mesmo sem anotação na CTPS. B, gerentes, ainda que o salário com gratificação seja inferior ao efetivo acrescido de um terço. C, todos em teletrabalho. D, chefes de departamento com gratificação de pelo menos um terço. E, empregados em teletrabalho por produção ou tarefa.
+FRANCISCA: Questão oito. Pelo artigo sessenta e dois da CLT, não são abrangidos pelo regime de duração do trabalho: A, todos que exercem atividade externa, mesmo sem anotação na CTPS. B, gerentes, ainda que o salário com gratificação seja inferior ao efetivo acrescido de um terço. C, todos em teletrabalho. D, chefes de departamento com gratificação de pelo menos um terço. E, empregados em teletrabalho por produção ou tarefa.
 THALITA: Pausa para você pensar. Eu cairia na C: se é teletrabalho, não tem controle de jornada.
 FRANCISCA: Essa é a pegadinha. O teletrabalhador por jornada tem controle, artigo setenta e cinco-B, parágrafo segundo. Só o que trabalha por produção ou tarefa está fora, artigo sessenta e dois, inciso três, na redação da Lei catorze mil quatrocentos e quarenta e dois.
-BRUNO: A letra A erra porque só se exclui a atividade externa incompatível com a fixação de horário, anotada na CTPS e no registro de empregados. A B e a D erram o parâmetro: no artigo sessenta e dois o salário do cargo de confiança precisa ser superior ao salário efetivo em pelo menos quarenta por cento. Um terço é o critério do bancário, artigo duzentos e vinte e quatro, parágrafo segundo.
-ANTONIO: O gabarito é a E. E nunca esqueça: se o gerente não alcança os quarenta por cento, volta ao regime de jornada, com direito a horas extras.
+THALITA: A letra A erra porque só se exclui a atividade externa incompatível com a fixação de horário, anotada na CTPS e no registro de empregados. A B e a D erram o parâmetro: no artigo sessenta e dois o salário do cargo de confiança precisa ser superior ao salário efetivo em pelo menos quarenta por cento. Um terço é o critério do bancário, artigo duzentos e vinte e quatro, parágrafo segundo.
+FRANCISCA: O gabarito é a E. E nunca esqueça: se o gerente não alcança os quarenta por cento, volta ao regime de jornada, com direito a horas extras.
 THALITA: Macete: gerente quarenta, bancário um terço.
 == SLIDE: Questão 9: teletrabalho e pegadinhas
 * Presencial para tele: mútuo acordo (art. 75-C, § 1º)
 * Comparecimento habitual não descaracteriza (art. 75-B, § 1º)
 * Ferramentas fora da jornada: não é sobreaviso, salvo norma
 * Norma coletiva do estabelecimento de lotação
-BRUNO: Questão nove. Bruno trabalha em teletrabalho. Qual é a correta? A, o empregador pode determinar unilateralmente a passagem do presencial ao teletrabalho com quinze dias. B, o comparecimento habitual a atividades específicas não descaracteriza. C, o uso de ferramentas digitais fora da jornada é sobreaviso em qualquer caso. D, as utilidades fornecidas integram a remuneração. E, aplicam-se as convenções do domicílio do empregado.
+FRANCISCA: Questão nove. Bruno trabalha em teletrabalho. Qual é a correta? A, o empregador pode determinar unilateralmente a passagem do presencial ao teletrabalho com quinze dias. B, o comparecimento habitual a atividades específicas não descaracteriza. C, o uso de ferramentas digitais fora da jornada é sobreaviso em qualquer caso. D, as utilidades fornecidas integram a remuneração. E, aplicam-se as convenções do domicílio do empregado.
 THALITA: Pausa para você pensar. Eu juro que isso a gente acabou de ver. A B soa familiar.
 FRANCISCA: Acertou. O parágrafo primeiro do artigo setenta e cinco-B: o comparecimento, ainda que habitual, às dependências para atividades específicas que exijam presença não descaracteriza o regime. Gabarito B.
-ANTONIO: A letra A troca as regras: do presencial para o teletrabalho exige mútuo acordo; o prazo de quinze dias é do retorno ao presencial, por determinação do empregador.
-BRUNO: A C erra no "em qualquer caso". O parágrafo quinto do artigo setenta e cinco-B diz que o uso das ferramentas fora da jornada não é tempo à disposição, prontidão ou sobreaviso, salvo previsão em acordo individual ou norma coletiva.
-FRANCISCA: A D contraria o artigo setenta e cinco-D, que diz que as utilidades não integram a remuneração. E a E erra a base: é a do estabelecimento de lotação, e não a do domicílio.
-THALITA: Macete do teletrabalho: ida acordo, volta ordem, habitual não descaracteriza, lotação manda.
+THALITA: A letra A troca as regras: do presencial para o teletrabalho exige mútuo acordo; o prazo de quinze dias é do retorno ao presencial, por determinação do empregador.
+FRANCISCA: A C erra no "em qualquer caso". O parágrafo quinto do artigo setenta e cinco-B diz que o uso das ferramentas fora da jornada não é tempo à disposição, prontidão ou sobreaviso, salvo previsão em acordo individual ou norma coletiva.
+THALITA: A D contraria o artigo setenta e cinco-D, que diz que as utilidades não integram a remuneração. E a E erra a base: é a do estabelecimento de lotação, e não a do domicílio.
+FRANCISCA: Macete do teletrabalho: ida acordo, volta ordem, habitual não descaracteriza, lotação manda.
 == SLIDE: Questão 10: jornada doze por trinta e seis
 * Artigo 59-A: acordo individual escrito, ou norma coletiva
 * Intervalos observados ou indenizados
 * Feriados considerados compensados
 * Dispensa a licença prévia em atividade insalubre (art. 60)
-ANTONIO: Questão dez. A Delta Ltda. quer adotar jornada de doze horas de trabalho por trinta e seis de descanso para seus vigilantes. Essa jornada: A, só pode ser por norma coletiva. B, obriga o pagamento em dobro dos feriados. C, depende, em atividade insalubre, de licença prévia das autoridades. D, pode ser por acordo individual escrito, observados ou indenizados os intervalos. E, exige concessão integral do intervalo, vedada sua indenização.
-THALITA: Pausa para você pensar. A reforma permitiu acordo individual, certo?
-FRANCISCA: Certo. O artigo cinquenta e nove-A permite a jornada de doze por trinta e seis por acordo individual escrito, convenção ou acordo coletivo, com os intervalos observados ou indenizados. A letra D é a literalidade, e a A, que veda o individual, está errada.
-BRUNO: A letra B pega quem estudou a Súmula quatrocentos e quarenta e quatro. Pelo parágrafo único do artigo cinquenta e nove-A, a remuneração mensal já abrange descanso semanal e feriados, que se consideram compensados. Não há pagamento em dobro.
-ANTONIO: A letra C erra porque o parágrafo único do artigo sessenta dispensa a licença prévia das autoridades de higiene do trabalho na jornada de doze por trinta e seis. E a E erra porque os intervalos podem ser observados ou indenizados.
-THALITA: Macete: doze por trinta e seis, individual escrito pode; feriado já está pago; intervalo, dá ou paga.
+THALITA: Questão dez. A Delta Ltda. quer adotar jornada de doze horas de trabalho por trinta e seis de descanso para seus vigilantes. Essa jornada: A, só pode ser por norma coletiva. B, obriga o pagamento em dobro dos feriados. C, depende, em atividade insalubre, de licença prévia das autoridades. D, pode ser por acordo individual escrito, observados ou indenizados os intervalos. E, exige concessão integral do intervalo, vedada sua indenização.
+FRANCISCA: Pausa para você pensar. A reforma permitiu acordo individual, certo?
+THALITA: Certo. O artigo cinquenta e nove-A permite a jornada de doze por trinta e seis por acordo individual escrito, convenção ou acordo coletivo, com os intervalos observados ou indenizados. A letra D é a literalidade, e a A, que veda o individual, está errada.
+FRANCISCA: A letra B pega quem estudou a Súmula quatrocentos e quarenta e quatro. Pelo parágrafo único do artigo cinquenta e nove-A, a remuneração mensal já abrange descanso semanal e feriados, que se consideram compensados. Não há pagamento em dobro.
+THALITA: A letra C erra porque o parágrafo único do artigo sessenta dispensa a licença prévia das autoridades de higiene do trabalho na jornada de doze por trinta e seis. E a E erra porque os intervalos podem ser observados ou indenizados.
+FRANCISCA: Macete: doze por trinta e seis, individual escrito pode; feriado já está pago; intervalo, dá ou paga.
 == SLIDE: Questão 11: abono pecuniário e férias coletivas
 * Abono: um terço das férias, requerido 15 dias antes do fim do período aquisitivo
 * Férias coletivas: abono por acordo coletivo
 * Férias coletivas: até 2 períodos, nenhum menor que 10 dias
 * Comunicação ao Ministério do Trabalho: 15 dias
-FRANCISCA: Questão onze, a última deste bloco. Em abono pecuniário e férias coletivas, segundo a CLT: A, o abono é requerido até quinze dias antes do fim do período aquisitivo e, nas férias coletivas, a conversão é objeto de acordo coletivo, sem requerimento individual. B, o abono é metade das férias e depende do empregador. C, as férias coletivas podem ser em até três períodos, nenhum inferior a cinco dias. D, a comunicação das férias coletivas ao Ministério do Trabalho é com trinta dias. E, o abono é requerido até quinze dias antes do período concessivo.
-BRUNO: Pausa para você pensar. Cuidado com os prazos.
+THALITA: Questão onze, a última deste bloco. Em abono pecuniário e férias coletivas, segundo a CLT: A, o abono é requerido até quinze dias antes do fim do período aquisitivo e, nas férias coletivas, a conversão é objeto de acordo coletivo, sem requerimento individual. B, o abono é metade das férias e depende do empregador. C, as férias coletivas podem ser em até três períodos, nenhum inferior a cinco dias. D, a comunicação das férias coletivas ao Ministério do Trabalho é com trinta dias. E, o abono é requerido até quinze dias antes do período concessivo.
+FRANCISCA: Pausa para você pensar. Cuidado com os prazos.
 THALITA: Já sei que a B está errada. O abono é um terço, e é direito do empregado.
-ANTONIO: Exato. Artigo cento e quarenta e três, caput: é facultado ao empregado converter um terço das férias em abono, e o empregador não pode recusar.
-FRANCISCA: A letra A é o gabarito. O parágrafo primeiro do artigo cento e quarenta e três manda requerer até quinze dias antes do término do período aquisitivo, e o parágrafo segundo diz que nas férias coletivas a conversão deve ser objeto de acordo coletivo, independendo de requerimento individual.
-BRUNO: A E troca aquisitivo por concessivo. A C erra: as férias coletivas são em no máximo dois períodos anuais, nenhum inferior a dez dias, artigo cento e trinta e nove, parágrafo primeiro. E a D erra o prazo: a comunicação ao órgão do Ministério do Trabalho é com antecedência mínima de quinze dias, parágrafo segundo.
+FRANCISCA: Exato. Artigo cento e quarenta e três, caput: é facultado ao empregado converter um terço das férias em abono, e o empregador não pode recusar.
+THALITA: A letra A é o gabarito. O parágrafo primeiro do artigo cento e quarenta e três manda requerer até quinze dias antes do término do período aquisitivo, e o parágrafo segundo diz que nas férias coletivas a conversão deve ser objeto de acordo coletivo, independendo de requerimento individual.
+FRANCISCA: A E troca aquisitivo por concessivo. A C erra: as férias coletivas são em no máximo dois períodos anuais, nenhum inferior a dez dias, artigo cento e trinta e nove, parágrafo primeiro. E a D erra o prazo: a comunicação ao órgão do Ministério do Trabalho é com antecedência mínima de quinze dias, parágrafo segundo.
 THALITA: Macete: abono, um terço, pedido quinze dias antes do fim do aquisitivo; coletivas, dois períodos de dez dias no mínimo.
-ANTONIO: Terminamos a primeira parte das questões. Vamos agora para a segunda.
+FRANCISCA: Terminamos a primeira parte das questões. Vamos agora para a segunda.

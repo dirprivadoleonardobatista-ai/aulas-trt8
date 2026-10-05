@@ -6,13 +6,13 @@ SEGMENTO s140
 * Contrato pode ser verbal ou tácito; CTPS é prova
 * Doméstico: LC 150/2015, âmbito residencial
 * Gabarito: cê
-BRUNO: Vamos treinar o que vimos na aula e nas aulas anteriores. Questão um, Analista Judiciário. Paulo presta serviços de manutenção de computadores à Alfa Limitada às segundas e quartas, há quatro anos, com valor mensal fixo, horários definidos pelo gerente de TI, sem poder enviar outra pessoa. Atende outras duas empresas e não tem CTPS anotada. Qual é a relação com a Alfa?
-FRANCISCA: A letra A: trabalho autônomo, pois a ausência de exclusividade afasta a subordinação. A letra bê: trabalho eventual, porque ocorre só em dois dias por semana. A letra cê: emprego, pois estão presentes pessoalidade, não eventualidade, onerosidade e subordinação jurídica, sendo irrelevantes a falta de exclusividade e de anotação. A letra dê: só seria emprego com anotação na CTPS. A letra E: emprego doméstico.
-ANTONIO: Pausa para você pensar.
+FRANCISCA: Vamos treinar o que vimos na aula e nas aulas anteriores. Questão um, Analista Judiciário. Paulo presta serviços de manutenção de computadores à Alfa Limitada às segundas e quartas, há quatro anos, com valor mensal fixo, horários definidos pelo gerente de TI, sem poder enviar outra pessoa. Atende outras duas empresas e não tem CTPS anotada. Qual é a relação com a Alfa?
+THALITA: A letra A: trabalho autônomo, pois a ausência de exclusividade afasta a subordinação. A letra bê: trabalho eventual, porque ocorre só em dois dias por semana. A letra cê: emprego, pois estão presentes pessoalidade, não eventualidade, onerosidade e subordinação jurídica, sendo irrelevantes a falta de exclusividade e de anotação. A letra dê: só seria emprego com anotação na CTPS. A letra E: emprego doméstico.
+FRANCISCA: Pausa para você pensar.
 THALITA: Eu marco a bê, porque dois dias por semana parece pouco.
 FRANCISCA: A CLT não adota a teoria da descontinuidade. A manutenção de computadores é necessidade permanente da empresa, e o trabalho se repete há anos. A bê está errada.
-BRUNO: A letra A erra porque exclusividade não é requisito do emprego: o artigo quatrocentos e quarenta e dois B admite até autônomo exclusivo. O que importa é a subordinação, presente no caso. A dê erra porque o contrato pode ser verbal ou tácito, e a CTPS é prova, não requisito. A E erra porque doméstico pressupõe serviço à pessoa ou família, sem finalidade lucrativa, no âmbito residencial.
-ANTONIO: A cê reúne os requisitos dos artigos segundo e terceiro, com a forma livre do artigo quatrocentos e quarenta e dois e a primazia da realidade. Gabarito: cê.
+THALITA: A letra A erra porque exclusividade não é requisito do emprego: o artigo quatrocentos e quarenta e dois B admite até autônomo exclusivo. O que importa é a subordinação, presente no caso. A dê erra porque o contrato pode ser verbal ou tácito, e a CTPS é prova, não requisito. A E erra porque doméstico pressupõe serviço à pessoa ou família, sem finalidade lucrativa, no âmbito residencial.
+FRANCISCA: A cê reúne os requisitos dos artigos segundo e terceiro, com a forma livre do artigo quatrocentos e quarenta e dois e a primazia da realidade. Gabarito: cê.
 THALITA: Macete: realidade vale mais que papel.
 == SLIDE: Questão 2: Súmulas 51 e 212 do TST
 * Súmula 51, I: revogação de vantagem só alcança os admitidos depois
@@ -20,12 +20,12 @@ THALITA: Macete: realidade vale mais que papel.
 * Súmula 212: ônus de provar o término do contrato é do empregador
 * Gabarito: A
 FRANCISCA: Questão dois. Três afirmações. Afirmação um: revogada por regulamento interno uma vantagem, a revogação alcança apenas os empregados admitidos depois da alteração. Afirmação dois: coexistindo dois regulamentos, a opção do empregado por um importa renúncia às regras do outro. Afirmação três: negada a prestação de serviços e o despedimento, cabe ao empregado provar o término do contrato.
-ANTONIO: As alternativas: A, um e dois; bê, só a um; cê, dois e três; dê, só a três; E, as três. Pause e pense.
-THALITA: Eu acho que as três são verdadeiras. Estou confiante!
-BRUNO: A afirmação três está invertida. Pela Súmula duzentos e doze do TST, quando o empregador nega a prestação de serviços e o despedimento, o ônus de provar o término do contrato é dele, porque a continuidade gera presunção favorável ao empregado.
+THALITA: As alternativas: A, um e dois; bê, só a um; cê, dois e três; dê, só a três; E, as três. Pause e pense.
+FRANCISCA: Eu acho que as três são verdadeiras. Estou confiante!
+THALITA: A afirmação três está invertida. Pela Súmula duzentos e doze do TST, quando o empregador nega a prestação de serviços e o despedimento, o ônus de provar o término do contrato é dele, porque a continuidade gera presunção favorável ao empregado.
 FRANCISCA: As afirmações um e dois reproduzem, em essência, os itens um e dois da Súmula cinquenta e um, que trata da condição mais benéfica.
-ANTONIO: Logo, a letra A é a correta. A bê omite a dois, a cê e a E incluem a três, e a dê traz só a três, que é falsa. Gabarito: A.
-THALITA: Entendi: a Súmula cinquenta e um protege quem já estava, e a Súmula duzentos e doze joga a prova para o patrão.
+THALITA: Logo, a letra A é a correta. A bê omite a dois, a cê e a E incluem a três, e a dê traz só a três, que é falsa. Gabarito: A.
+FRANCISCA: Entendi: a Súmula cinquenta e um protege quem já estava, e a Súmula duzentos e doze joga a prova para o patrão.
 == SLIDE: Questão 3: trabalho temporário
 * Contrato: até 180 dias, consecutivos ou não
 * Prorrogação: até 90 dias, mantidas as condições (art. 10)
@@ -33,14 +33,14 @@ THALITA: Entendi: a Súmula cinquenta e um protege quem já estava, e a Súmula 
 * Tomadora responde subsidiariamente; solidária na falência da ETT
 * Quarentena: 90 dias; descumprida, forma vínculo
 * Gabarito: E
-BRUNO: Questão três, Oficial de Justiça. A empresa de trabalho temporário Gama colocou Bruno à disposição da tomadora Delta para atender demanda complementar. Pela Lei seis mil e dezenove, com a Lei treze mil quatrocentos e vinte e nove, qual alternativa está certa?
-ANTONIO: A letra A: contrato de até noventa dias, prorrogável uma vez por igual período. A letra bê: vedado trabalhador temporário em atividade-fim. A letra cê: a tomadora responde solidariamente em qualquer hipótese. A letra dê: nova contratação após trinta dias do término. A letra E: contrato de até cento e oitenta dias, consecutivos ou não, com prorrogação de até noventa dias, mantidas as condições que o justificaram.
+THALITA: Questão três, Oficial de Justiça. A empresa de trabalho temporário Gama colocou Bruno à disposição da tomadora Delta para atender demanda complementar. Pela Lei seis mil e dezenove, com a Lei treze mil quatrocentos e vinte e nove, qual alternativa está certa?
+FRANCISCA: A letra A: contrato de até noventa dias, prorrogável uma vez por igual período. A letra bê: vedado trabalhador temporário em atividade-fim. A letra cê: a tomadora responde solidariamente em qualquer hipótese. A letra dê: nova contratação após trinta dias do término. A letra E: contrato de até cento e oitenta dias, consecutivos ou não, com prorrogação de até noventa dias, mantidas as condições que o justificaram.
 THALITA: Pausa para pensar! Eu aposto na A, porque noventa dias é o prazo que eu decorei.
 FRANCISCA: Esse era o prazo antes da mudança. Hoje o prazo inicial é de cento e oitenta dias, com prorrogação de até noventa, no artigo dez, parágrafos primeiro e segundo.
-BRUNO: A letra bê erra porque o artigo nono, parágrafo terceiro, autoriza o temporário em atividades-meio e atividades-fim. A letra cê erra porque a responsabilidade é subsidiária, artigo dez, parágrafo sétimo, e só vira solidária na falência da empresa de trabalho temporário, artigo dezesseis.
+THALITA: A letra bê erra porque o artigo nono, parágrafo terceiro, autoriza o temporário em atividades-meio e atividades-fim. A letra cê erra porque a responsabilidade é subsidiária, artigo dez, parágrafo sétimo, e só vira solidária na falência da empresa de trabalho temporário, artigo dezesseis.
 FRANCISCA: A letra dê erra porque a quarentena é de noventa dias, artigo dez, parágrafo quinto. Descumprida, forma-se vínculo com a tomadora.
-ANTONIO: A letra E reproduz o artigo dez, parágrafos primeiro e segundo. Gabarito: E.
-THALITA: Macete: cento e oitenta mais noventa, e quarentena de noventa.
+THALITA: A letra E reproduz o artigo dez, parágrafos primeiro e segundo. Gabarito: E.
+FRANCISCA: Macete: cento e oitenta mais noventa, e quarentena de noventa.
 == SLIDE: Questão 4: trabalho intermitente
 * Convocação: 3 dias corridos de antecedência
 * Resposta: 1 dia útil; silêncio presume recusa
@@ -48,14 +48,14 @@ THALITA: Macete: cento e oitenta mais noventa, e quarentena de noventa.
 * Inatividade não é tempo à disposição
 * Férias e 13º proporcionais pagos a cada período
 * Gabarito: bê
-FRANCISCA: Questão quatro. Ana foi contratada pela Beta Eventos em regime intermitente. Segundo a CLT, qual alternativa é correta?
-BRUNO: A letra A: convocação com três dias úteis de antecedência e dois dias úteis para responder. A letra bê: convocação com pelo menos três dias corridos, um dia útil para responder, presumindo-se recusa no silêncio. A letra cê: a recusa é insubordinação e autoriza advertência. A letra dê: a inatividade é tempo à disposição, mas sem remuneração. A letra E: férias e décimo terceiro proporcionais pagos só ao fim do contrato.
-ANTONIO: Pausa para você pensar.
-THALITA: Eu gosto da cê, porque se ela recusa, parece que desobedeceu.
-FRANCISCA: A recusa não descaracteriza a subordinação e não constitui falta, parágrafo terceiro do artigo quatrocentos e cinquenta e dois A. A letra cê está errada.
-BRUNO: A letra A erra porque a antecedência é em dias corridos e a resposta em um dia útil, parágrafos primeiro e segundo. A letra dê erra porque a inatividade não é tempo à disposição, e o empregado pode prestar serviços a terceiros, parágrafo quinto. A letra E erra porque essas parcelas são pagas ao final de cada período de prestação de serviço, parágrafo sexto.
-ANTONIO: A letra bê é a correta. Silêncio é recusa. Gabarito: bê.
-THALITA: Macete: três corridos para convocar, um útil para responder, silêncio é recusa.
+THALITA: Questão quatro. Ana foi contratada pela Beta Eventos em regime intermitente. Segundo a CLT, qual alternativa é correta?
+FRANCISCA: A letra A: convocação com três dias úteis de antecedência e dois dias úteis para responder. A letra bê: convocação com pelo menos três dias corridos, um dia útil para responder, presumindo-se recusa no silêncio. A letra cê: a recusa é insubordinação e autoriza advertência. A letra dê: a inatividade é tempo à disposição, mas sem remuneração. A letra E: férias e décimo terceiro proporcionais pagos só ao fim do contrato.
+THALITA: Pausa para você pensar.
+FRANCISCA: Eu gosto da cê, porque se ela recusa, parece que desobedeceu.
+THALITA: A recusa não descaracteriza a subordinação e não constitui falta, parágrafo terceiro do artigo quatrocentos e cinquenta e dois A. A letra cê está errada.
+FRANCISCA: A letra A erra porque a antecedência é em dias corridos e a resposta em um dia útil, parágrafos primeiro e segundo. A letra dê erra porque a inatividade não é tempo à disposição, e o empregado pode prestar serviços a terceiros, parágrafo quinto. A letra E erra porque essas parcelas são pagas ao final de cada período de prestação de serviço, parágrafo sexto.
+THALITA: A letra bê é a correta. Silêncio é recusa. Gabarito: bê.
+FRANCISCA: Macete: três corridos para convocar, um útil para responder, silêncio é recusa.
 == SLIDE: Questão 5: hipersuficiente e arbitragem
 * Hipersuficiente: diploma superior e salário de 2 vezes o teto (art. 444)
 * Cláusula compromissória: remuneração superior ao dobro do teto
@@ -63,13 +63,13 @@ THALITA: Macete: três corridos para convocar, um útil para responder, silênci
 * Negociação individual prevalece sobre instrumentos coletivos
 * Sem homologação sindical
 * Gabarito: dê
-BRUNO: Questão cinco. Márcio, contador com diploma superior, recebe salário exatamente igual a duas vezes o teto do Regime Geral de Previdência Social. A empresa quer ajustar com ele, por acordo individual, a redução do intervalo intrajornada e incluir cláusula compromissória de arbitragem.
+THALITA: Questão cinco. Márcio, contador com diploma superior, recebe salário exatamente igual a duas vezes o teto do Regime Geral de Previdência Social. A empresa quer ajustar com ele, por acordo individual, a redução do intervalo intrajornada e incluir cláusula compromissória de arbitragem.
 FRANCISCA: A letra A: Márcio não é hipersuficiente, pois precisaria receber mais de três vezes o teto. A letra bê: o acordo individual só prevalece sobre a lei, nunca sobre a convenção coletiva. A letra cê: ambos são válidos, pois os requisitos são idênticos. A letra dê: ele pode negociar as matérias do artigo seiscentos e onze A com prevalência sobre instrumentos coletivos, mas a cláusula compromissória não é cabível, pois exige remuneração superior ao dobro do teto. A letra E: exige homologação pelo sindicato.
-ANTONIO: Pausa para pensar.
-THALITA: Eu tendo à letra cê, porque os requisitos me parecem iguais.
-BRUNO: Não são. O artigo quatrocentos e quarenta e quatro, parágrafo único, exige diploma superior e salário igual ou superior a duas vezes o teto. O artigo quinhentos e sete A exige remuneração superior ao dobro do teto, sem exigir diploma. Os requisitos são distintos.
+THALITA: Pausa para pensar.
+FRANCISCA: Eu tendo à letra cê, porque os requisitos me parecem iguais.
+THALITA: Não são. O artigo quatrocentos e quarenta e quatro, parágrafo único, exige diploma superior e salário igual ou superior a duas vezes o teto. O artigo quinhentos e sete A exige remuneração superior ao dobro do teto, sem exigir diploma. Os requisitos são distintos.
 FRANCISCA: A letra A erra porque o limite é duas vezes, não três. A letra bê erra porque a lei confere ao ajuste a mesma eficácia e preponderância sobre os instrumentos coletivos. A letra E erra porque não há exigência de homologação sindical.
-ANTONIO: A letra dê é a correta: Márcio é hipersuficiente, mas não alcança o superior ao dobro. Gabarito: dê.
+THALITA: A letra dê é a correta: Márcio é hipersuficiente, mas não alcança o superior ao dobro. Gabarito: dê.
 == SLIDE: Questões 6 e 7: grupo econômico e sucessão
 * Identidade de sócios não caracteriza grupo (art. 2º, §3º)
 * Exige interesse integrado, comunhão de interesses e atuação conjunta
@@ -78,11 +78,11 @@ ANTONIO: A letra dê é a correta: Márcio é hipersuficiente, mas não alcança
 * Gabarito: sexta, A; sétima, cê
 FRANCISCA: Questão seis. Alfa e Beta têm os mesmos sócios, mas ramos diversos, com administração, clientela e empregados próprios, sem integração. Pelo artigo segundo da CLT, com a Reforma, o que ocorre?
 THALITA: A letra A diz que não há grupo, pois a mera identidade de sócios não o caracteriza, sendo necessários interesse integrado, comunhão de interesses e atuação conjunta. As demais dizem que há grupo, por subordinação, por coordenação, ou limitado às verbas rescisórias.
-BRUNO: Pausa para você pensar. É a letra A, literalmente o parágrafo terceiro do artigo segundo. A lei afasta, e não presume, o grupo pela só identidade de sócios. A Reforma reconheceu também o grupo por coordenação, então a letra dê erra. E a solidariedade, quando há grupo, alcança todas as obrigações, então a E erra.
-ANTONIO: Gabarito da seis: A. Questão sete: a Delta adquiriu o estabelecimento da Gama, mantendo empregados e atividade. No contrato, ficou combinado que a vendedora responderia pelos débitos anteriores. Não houve fraude.
+FRANCISCA: Pausa para você pensar. É a letra A, literalmente o parágrafo terceiro do artigo segundo. A lei afasta, e não presume, o grupo pela só identidade de sócios. A Reforma reconheceu também o grupo por coordenação, então a letra dê erra. E a solidariedade, quando há grupo, alcança todas as obrigações, então a E erra.
+THALITA: Gabarito da seis: A. Questão sete: a Delta adquiriu o estabelecimento da Gama, mantendo empregados e atividade. No contrato, ficou combinado que a vendedora responderia pelos débitos anteriores. Não houve fraude.
 FRANCISCA: A letra A: a Delta responde só pelas obrigações posteriores, prevalecendo a cláusula. A bê: solidariedade sempre. A cê: a Delta responde por tudo, inclusive as anteriores, e a cláusula só vale entre as empresas, para regresso. A dê: a Gama responde subsidiariamente. A E: os contratos se extinguem com a venda.
 THALITA: Eu marco a A, porque se as partes combinaram, vale o combinado.
-BRUNO: Não vale contra o empregado, Thalita. Pelo artigo quatrocentos e quarenta e oito A, o sucessor responde inclusive pelas obrigações da época da sucedida, e a cláusula só produz efeito entre as empresas, para regresso.
-ANTONIO: A letra bê erra porque a solidariedade da sucedida depende de fraude. A dê erra porque a lei não prevê subsidiariedade da sucedida. A E erra porque a mudança de propriedade não afeta os contratos. Gabarito: cê.
-THALITA: Macete: sucessor paga tudo; sucedido só com fraude. Resumo da minha anotação: sucessor responde por tudo, grupo exige interesse integrado, e acordo entre empresas nunca vale contra o empregado.
-BRUNO: Com isso fechamos as questões. Na próxima aula, uma introdução ao tema seguinte.
+FRANCISCA: Não vale contra o empregado, Thalita. Pelo artigo quatrocentos e quarenta e oito A, o sucessor responde inclusive pelas obrigações da época da sucedida, e a cláusula só produz efeito entre as empresas, para regresso.
+THALITA: A letra bê erra porque a solidariedade da sucedida depende de fraude. A dê erra porque a lei não prevê subsidiariedade da sucedida. A E erra porque a mudança de propriedade não afeta os contratos. Gabarito: cê.
+FRANCISCA: Macete: sucessor paga tudo; sucedido só com fraude. Resumo da minha anotação: sucessor responde por tudo, grupo exige interesse integrado, e acordo entre empresas nunca vale contra o empregado.
+THALITA: Com isso fechamos as questões. Na próxima aula, uma introdução ao tema seguinte.

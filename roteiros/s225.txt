@@ -4,31 +4,31 @@ SEGMENTO s225
 * Parcial: comuns os bens onerosos na constância; excluídos os particulares (art. 1.659)
 * Universal (pacto): presentes, futuros e dívidas; exceções do art. 1.668
 * Participação final: metade dos aquestos só na dissolução
-ANTONIO: Na parte anterior vimos casamento, filhos e poder familiar. Agora o patrimônio: regimes de bens, outorga, bem de família e união estável. Um aviso: o direito patrimonial de família é exigido só para o cargo um, Analista Judiciário, Área Judiciária. O regime supletivo é a comunhão parcial, e a separação é obrigatória nos casos do artigo mil seiscentos e quarenta e um.
+FRANCISCA: Na parte anterior vimos casamento, filhos e poder familiar. Agora o patrimônio: regimes de bens, outorga, bem de família e união estável. Um aviso: o direito patrimonial de família é exigido só para o cargo um, Analista Judiciário, Área Judiciária. O regime supletivo é a comunhão parcial, e a separação é obrigatória nos casos do artigo mil seiscentos e quarenta e um.
 THALITA: Então, se o casal não escolher nada, vale a comunhão parcial?
 FRANCISCA: Isso, artigo mil seiscentos e quarenta. Nela são comuns os bens adquiridos onerosamente na constância do casamento, ainda que em nome de um só, e os frutos dos bens particulares. Ficam de fora os bens anteriores ao casamento, os recebidos por doação ou herança e os sub-rogados, os proventos do trabalho pessoal e as obrigações anteriores, artigo mil seiscentos e cinquenta e nove. E precisa de outorga para alienar imóvel.
-BRUNO: Pegadinha: o salário. Na comunhão parcial os proventos do trabalho pessoal são excluídos. Mas o que se compra com o salário foi adquirido onerosamente, então entra na comunhão.
-THALITA: Entendi: o salário em si é particular, mas o carro comprado com ele é comum.
-ANTONIO: A comunhão universal depende de pacto. Comunicam-se os bens presentes e futuros e as dívidas passivas. Excluem-se os doados ou herdados com cláusula de incomunicabilidade, os bens de uso pessoal e os proventos do trabalho, artigo mil seiscentos e sessenta e oito. Também exige outorga para vender imóvel.
+THALITA: Pegadinha: o salário. Na comunhão parcial os proventos do trabalho pessoal são excluídos. Mas o que se compra com o salário foi adquirido onerosamente, então entra na comunhão.
+FRANCISCA: Entendi: o salário em si é particular, mas o carro comprado com ele é comum.
+THALITA: A comunhão universal depende de pacto. Comunicam-se os bens presentes e futuros e as dívidas passivas. Excluem-se os doados ou herdados com cláusula de incomunicabilidade, os bens de uso pessoal e os proventos do trabalho, artigo mil seiscentos e sessenta e oito. Também exige outorga para vender imóvel.
 FRANCISCA: Já a participação final nos aquestos também nasce de pacto. Durante o casamento, cada cônjuge tem patrimônio próprio. Na dissolução, divide-se a metade dos aquestos onerosos. Ficam fora os bens anteriores e os recebidos por sucessão ou liberalidade. A outorga para imóvel é exigida, mas o pacto pode dispensá-la quanto aos bens particulares, artigo mil seiscentos e cinquenta e seis.
-BRUNO: A FCC pergunta qual regime só divide na dissolução: é a participação final. Durante o casamento ela funciona como separação.
-THALITA: Macete: parcial é supletivo, universal é tudo junto, participação é só no fim. Resumindo o que entendi: se ninguém escolher, é parcial; se quiser universal ou participação, precisa de pacto; e o salário em si não entra, mas o que se compra com ele entra. Alguém corrige se eu errei algo?
+THALITA: A FCC pergunta qual regime só divide na dissolução: é a participação final. Durante o casamento ela funciona como separação.
+FRANCISCA: Macete: parcial é supletivo, universal é tudo junto, participação é só no fim. Resumindo o que entendi: se ninguém escolher, é parcial; se quiser universal ou participação, precisa de pacto; e o salário em si não entra, mas o que se compra com ele entra. Alguém corrige se eu errei algo?
 == SLIDE: Separação, pacto antenupcial e mudança de regime
 * Separação convencional (pacto): nada se comunica; dispensa outorga
 * Separação obrigatória (art. 1.641): Súmula 377 STF, esforço comum provado
 * Pacto: escritura pública; contra terceiros após registro no Registro de Imóveis
 * Mudança de regime: autorização judicial, pedido motivado de ambos (art. 1.639, § 2º)
 * Maior de 70 anos: Tema 1236 STF (2024)
-ANTONIO: Seguimos com a separação convencional de bens, que também exige pacto. Nenhum bem se comunica, tudo é excluído. Como é separação absoluta, não precisa de outorga para alienar imóvel.
-THALITA: E a separação obrigatória? É a mesma coisa?
-FRANCISCA: Não. É imposta por lei, artigo mil seiscentos e quarenta e um. Pela Súmula trezentos e setenta e sete do STF, conforme o STJ, comunicam-se os aquestos adquiridos com esforço comum provado. Sobre a outorga para vender imóvel, a questão é controvertida, e o STJ tende a exigi-la.
-BRUNO: Atenção: separação obrigatória não é separação absoluta. A comunhão do esforço comum existe, e a FCC gosta de testar isso.
-ANTONIO: O pacto antenupcial exige escritura pública, sob pena de nulidade. É ineficaz se não houver casamento, e só vale contra terceiros após registro no Registro de Imóveis do domicílio dos cônjuges, artigos mil seiscentos e cinquenta e três e mil seiscentos e cinquenta e sete.
-THALITA: E dá para mudar o regime depois de casados?
-FRANCISCA: Dá. Pelo artigo mil seiscentos e trinta e nove, parágrafo segundo, com autorização judicial, a pedido motivado de ambos, ressalvados os direitos de terceiros.
-BRUNO: Maior de setenta anos é pegadinha atual. O Tema mil duzentos e trinta e seis do STF, de dois mil e vinte e quatro, diz que a separação obrigatória pode ser afastada por manifestação expressa em escritura pública, no casamento e na união estável. Quem já é casado pode mudar o regime, mas com efeitos só para o futuro. Confira a redação integral da tese.
+THALITA: Seguimos com a separação convencional de bens, que também exige pacto. Nenhum bem se comunica, tudo é excluído. Como é separação absoluta, não precisa de outorga para alienar imóvel.
+FRANCISCA: E a separação obrigatória? É a mesma coisa?
+THALITA: Não. É imposta por lei, artigo mil seiscentos e quarenta e um. Pela Súmula trezentos e setenta e sete do STF, conforme o STJ, comunicam-se os aquestos adquiridos com esforço comum provado. Sobre a outorga para vender imóvel, a questão é controvertida, e o STJ tende a exigi-la.
+FRANCISCA: Atenção: separação obrigatória não é separação absoluta. A comunhão do esforço comum existe, e a FCC gosta de testar isso.
+THALITA: O pacto antenupcial exige escritura pública, sob pena de nulidade. É ineficaz se não houver casamento, e só vale contra terceiros após registro no Registro de Imóveis do domicílio dos cônjuges, artigos mil seiscentos e cinquenta e três e mil seiscentos e cinquenta e sete.
+FRANCISCA: E dá para mudar o regime depois de casados?
+THALITA: Dá. Pelo artigo mil seiscentos e trinta e nove, parágrafo segundo, com autorização judicial, a pedido motivado de ambos, ressalvados os direitos de terceiros.
+FRANCISCA: Maior de setenta anos é pegadinha atual. O Tema mil duzentos e trinta e seis do STF, de dois mil e vinte e quatro, diz que a separação obrigatória pode ser afastada por manifestação expressa em escritura pública, no casamento e na união estável. Quem já é casado pode mudar o regime, mas com efeitos só para o futuro. Confira a redação integral da tese.
 THALITA: Então maior de setenta pode escolher, desde que declare em escritura.
-ANTONIO: Um último ponto: bens dos filhos. Os pais são usufrutuários e administradores, artigo mil seiscentos e oitenta e nove. Excluem-se, entre outros, os ganhos profissionais do filho maior de dezesseis anos, artigo mil seiscentos e noventa e três.
+FRANCISCA: Um último ponto: bens dos filhos. Os pais são usufrutuários e administradores, artigo mil seiscentos e oitenta e nove. Excluem-se, entre outros, os ganhos profissionais do filho maior de dezesseis anos, artigo mil seiscentos e noventa e três.
 THALITA: Então o salário do filho de dezessete anos que trabalha não fica com os pais. Anotei.
 == SLIDE: Outorga conjugal e meação
 * Art. 1.647: imóveis, litígio sobre imóveis, fiança ou aval, doação
@@ -36,13 +36,13 @@ THALITA: Então o salário do filho de dezessete anos que trabalha não fica com
 * Recusa injusta: suprimento judicial (art. 1.648)
 * Ato anulável; 2 anos após fim da sociedade conjugal (art. 1.649)
 * Meação não é sucessão
-ANTONIO: A outorga conjugal, artigo mil seiscentos e quarenta e sete, é muito cobrada. Sem autorização do outro cônjuge, salvo na separação absoluta, nenhum dos dois pode: um, alienar ou gravar de ônus real bens imóveis, inclusive hipoteca; dois, litigar como autor ou réu sobre esses imóveis, nas ações reais imobiliárias; três, prestar fiança ou aval; quatro, doar bens comuns ou que possam integrar a futura meação.
+FRANCISCA: A outorga conjugal, artigo mil seiscentos e quarenta e sete, é muito cobrada. Sem autorização do outro cônjuge, salvo na separação absoluta, nenhum dos dois pode: um, alienar ou gravar de ônus real bens imóveis, inclusive hipoteca; dois, litigar como autor ou réu sobre esses imóveis, nas ações reais imobiliárias; três, prestar fiança ou aval; quatro, doar bens comuns ou que possam integrar a futura meação.
 THALITA: Doação nenhuma?
 FRANCISCA: Tem exceção. A doação remuneratória é permitida, e as doações nupciais aos filhos, quando casam ou estabelecem economia separada, também valem, conforme o parágrafo único.
-BRUNO: Na fiança, a Súmula trezentos e trinta e dois do STJ diz que a fiança prestada sem outorga é totalmente ineficaz. Não vale nem pela metade do fiador. A FCC cobra a palavra totalmente.
-ANTONIO: Se o outro cônjuge recusar sem justo motivo, ou não puder consentir, cabe suprimento judicial, artigo mil seiscentos e quarenta e oito.
+THALITA: Na fiança, a Súmula trezentos e trinta e dois do STJ diz que a fiança prestada sem outorga é totalmente ineficaz. Não vale nem pela metade do fiador. A FCC cobra a palavra totalmente.
+FRANCISCA: Se o outro cônjuge recusar sem justo motivo, ou não puder consentir, cabe suprimento judicial, artigo mil seiscentos e quarenta e oito.
 THALITA: E se o ato for feito sem outorga nem suprimento, é nulo?
-BRUNO: Não, é anulável. Só o cônjuge preterido ou seus herdeiros podem pedir a anulação, até dois anos depois de terminada a sociedade conjugal, artigo mil seiscentos e quarenta e nove. E a aprovação posterior convalida o ato.
+FRANCISCA: Não, é anulável. Só o cônjuge preterido ou seus herdeiros podem pedir a anulação, até dois anos depois de terminada a sociedade conjugal, artigo mil seiscentos e quarenta e nove. E a aprovação posterior convalida o ato.
 THALITA: Já erraria: marcaria nulo. Vou lembrar: anulável, só o preterido, dois anos depois do fim.
 FRANCISCA: Por fim, meação contra herança. Meação é direito próprio sobre os bens comuns, não é sucessão. Na comunhão parcial, o cônjuge é meeiro dos aquestos e herdeiro dos bens particulares do falecido.
 == SLIDE: Bem de família e união estável
@@ -52,27 +52,27 @@ FRANCISCA: Por fim, meação contra herança. Meação é direito próprio sobre
 * União estável: pública, contínua, duradoura; sem prazo mínimo (art. 1.723)
 * Concubinato: relação entre impedidos de casar (art. 1.727)
 * Tema 529 STF: monogamia
-ANTONIO: Bem de família, em dois tipos. O voluntário, artigos mil setecentos e onze a mil setecentos e vinte e dois, é instituído por escritura ou testamento, com registro, até um terço do patrimônio líquido. Só responde por tributos do prédio e despesas de condomínio.
+THALITA: Bem de família, em dois tipos. O voluntário, artigos mil setecentos e onze a mil setecentos e vinte e dois, é instituído por escritura ou testamento, com registro, até um terço do patrimônio líquido. Só responde por tributos do prédio e despesas de condomínio.
 FRANCISCA: O legal, da Lei oito mil e nove, de mil novecentos e noventa, é automático. Protege o imóvel residencial único, e o de menor valor se houver vários. Tem exceções no artigo terceiro: alimentos, IPTU, hipoteca dada pelo casal, fiança locatícia e outras.
-BRUNO: Jurisprudência: a Súmula trezentos e sessenta e quatro do STJ protege também o imóvel de pessoa solteira, separada ou viúva. A Súmula quinhentos e quarenta e nove do STJ admite a penhora do bem de família do fiador de locação, e o STF, no Tema mil cento e vinte e sete, estendeu à locação comercial. Na Justiça do Trabalho, a Lei Complementar cento e cinquenta, de dois mil e quinze, revogou a exceção do crédito do trabalhador da própria residência: o doméstico não penhora o único imóvel do empregador.
-THALITA: Passando para união estável. O que ela exige?
-ANTONIO: Convivência pública, contínua e duradoura, com objetivo de constituir família, artigo mil setecentos e vinte e três. Não há prazo mínimo nem coabitação obrigatória. Aplicam-se os impedimentos do artigo mil quinhentos e vinte e um, menos o das pessoas casadas, se estiverem separadas de fato ou judicialmente.
+THALITA: Jurisprudência: a Súmula trezentos e sessenta e quatro do STJ protege também o imóvel de pessoa solteira, separada ou viúva. A Súmula quinhentos e quarenta e nove do STJ admite a penhora do bem de família do fiador de locação, e o STF, no Tema mil cento e vinte e sete, estendeu à locação comercial. Na Justiça do Trabalho, a Lei Complementar cento e cinquenta, de dois mil e quinze, revogou a exceção do crédito do trabalhador da própria residência: o doméstico não penhora o único imóvel do empregador.
+FRANCISCA: Passando para união estável. O que ela exige?
+THALITA: Convivência pública, contínua e duradoura, com objetivo de constituir família, artigo mil setecentos e vinte e três. Não há prazo mínimo nem coabitação obrigatória. Aplicam-se os impedimentos do artigo mil quinhentos e vinte e um, menos o das pessoas casadas, se estiverem separadas de fato ou judicialmente.
 FRANCISCA: O efeito patrimonial é a comunhão parcial, salvo contrato escrito, artigo mil setecentos e vinte e cinco. Conversão em casamento: pedido ao juiz e registro, artigo mil setecentos e vinte e seis, e hoje também direto no Registro Civil, pela Lei quatorze mil trezentos e oitenta e dois, de dois mil e vinte e dois.
-BRUNO: Concubinato, artigo mil setecentos e vinte e sete, é a relação não eventual entre impedidos de casar. Não tem efeitos de família, no máximo sociedade de fato. E o Tema quinhentos e vinte e nove do STF veda reconhecer nova união no mesmo período de casamento ou união preexistente, inclusive para fins previdenciários.
-THALITA: Macete: concubinato é amante, união estável é família. E uma dúvida que sempre me pega: preciso morar junto para ter união estável? Pelo que ouvi, não, a coabitação não é obrigatória e não existe prazo mínimo. É isso mesmo?
-BRUNO: É isso mesmo, Thalita. Sem prazo mínimo e sem coabitação obrigatória.
+THALITA: Concubinato, artigo mil setecentos e vinte e sete, é a relação não eventual entre impedidos de casar. Não tem efeitos de família, no máximo sociedade de fato. E o Tema quinhentos e vinte e nove do STF veda reconhecer nova união no mesmo período de casamento ou união preexistente, inclusive para fins previdenciários.
+FRANCISCA: Macete: concubinato é amante, união estável é família. E uma dúvida que sempre me pega: preciso morar junto para ter união estável? Pelo que ouvi, não, a coabitação não é obrigatória e não existe prazo mínimo. É isso mesmo?
+THALITA: É isso mesmo, Francisca. Sem prazo mínimo e sem coabitação obrigatória.
 == SLIDE: Sucessões: saisine, cessão, aceitação e renúncia
 * Saisine (art. 1.784): transmissão no momento da morte
 * Abertura no último domicílio (art. 1.785)
 * Cessão de direitos por escritura pública; preterido haver em 180 dias
 * Aceitação: expressa, tácita ou presumida; renúncia sempre expressa
 * Renúncia irrevogável; sem representação (art. 1.811)
-ANTONIO: Em sucessões, a ideia central é a saisine, artigo mil setecentos e oitenta e quatro: a posse e a propriedade passam aos herdeiros legítimos e testamentários no momento da morte. A sucessão abre-se no último domicílio do falecido, artigo mil setecentos e oitenta e cinco.
-BRUNO: A pegadinha é o lugar do óbito ou dos bens. Está errado: é o último domicílio. E o legatário não recebe a posse de imediato; pede aos herdeiros, artigo mil novecentos e vinte e três, parágrafo primeiro.
+FRANCISCA: Em sucessões, a ideia central é a saisine, artigo mil setecentos e oitenta e quatro: a posse e a propriedade passam aos herdeiros legítimos e testamentários no momento da morte. A sucessão abre-se no último domicílio do falecido, artigo mil setecentos e oitenta e cinco.
+THALITA: A pegadinha é o lugar do óbito ou dos bens. Está errado: é o último domicílio. E o legatário não recebe a posse de imediato; pede aos herdeiros, artigo mil novecentos e vinte e três, parágrafo primeiro.
 FRANCISCA: A cessão de direitos hereditários exige escritura pública. O coerdeiro preterido pode haver o quinhão cedido em cento e oitenta dias, artigo mil setecentos e noventa e cinco. Já a cessão de bem singular antes da partilha é ineficaz. Podem herdar as pessoas nascidas ou já concebidas na abertura, artigo mil setecentos e noventa e oito. Por testamento, também a prole eventual de pessoa indicada, se concebida em dois anos.
 THALITA: Agora aceitação e renúncia. Quais as formas?
-ANTONIO: A aceitação é expressa, tácita ou presumida, quando há silêncio após prazo de até trinta dias fixado pelo juiz, artigo mil oitocentos e sete. A renúncia é sempre expressa, por instrumento público ou termo judicial, artigo mil oitocentos e seis.
-BRUNO: Nenhuma das duas pode ser parcial, sob condição ou a termo, artigo mil oitocentos e oito. E a renúncia é irrevogável, artigo mil oitocentos e doze.
+FRANCISCA: A aceitação é expressa, tácita ou presumida, quando há silêncio após prazo de até trinta dias fixado pelo juiz, artigo mil oitocentos e sete. A renúncia é sempre expressa, por instrumento público ou termo judicial, artigo mil oitocentos e seis.
+THALITA: Nenhuma das duas pode ser parcial, sob condição ou a termo, artigo mil oitocentos e oito. E a renúncia é irrevogável, artigo mil oitocentos e doze.
 FRANCISCA: O renunciante é tido como se nunca tivesse sido herdeiro, e sua parte acresce à dos demais da mesma classe. Não há representação: os filhos do renunciante só herdam por direito próprio, se ele era o único da classe ou se todos renunciaram, artigo mil oitocentos e onze. Os credores podem aceitar em nome do renunciante, até o valor do crédito, habilitando-se em trinta dias, artigo mil oitocentos e treze.
 THALITA: Então renúncia: instrumento público, total, irrevogável e sem representação.
 == SLIDE: Indignidade, deserdação e herança jacente
@@ -81,39 +81,39 @@ THALITA: Então renúncia: instrumento público, total, irrevogável e sem repre
 * Art. 1.815-A (Lei 14.661/2023): condenação penal transitada exclui
 * Jacência e vacância; incorporação em 5 anos (art. 1.822)
 * Colaterais excluídos após a vacância
-ANTONIO: Indignidade contra deserdação. A indignidade, artigos mil oitocentos e catorze a mil oitocentos e dezoito, alcança qualquer herdeiro ou legatário e exige sentença em ação própria, no prazo de quatro anos da abertura da sucessão. As causas: homicídio doloso ou tentativa contra o autor da herança, cônjuge, companheiro, ascendente ou descendente; denunciação caluniosa ou crime contra a honra; e violência ou fraude contra a liberdade de testar.
+FRANCISCA: Indignidade contra deserdação. A indignidade, artigos mil oitocentos e catorze a mil oitocentos e dezoito, alcança qualquer herdeiro ou legatário e exige sentença em ação própria, no prazo de quatro anos da abertura da sucessão. As causas: homicídio doloso ou tentativa contra o autor da herança, cônjuge, companheiro, ascendente ou descendente; denunciação caluniosa ou crime contra a honra; e violência ou fraude contra a liberdade de testar.
 THALITA: E a deserdação?
 FRANCISCA: Alcança só herdeiros necessários, artigos mil novecentos e sessenta e um a mil novecentos e sessenta e cinco. Exige testamento com causa expressa, e o interessado prova a causa em quatro anos da abertura do testamento. Além das causas da indignidade, há ofensa física, injúria grave, relações ilícitas com padrasto ou madrasta ou com o cônjuge do descendente, e desamparo em doença grave ou alienação mental.
-BRUNO: O Ministério Público pode propor a ação de indignidade no caso de homicídio, Lei treze mil quinhentos e trinta e dois, de dois mil e dezessete. O perdão do indigno é por testamento ou ato autêntico; na deserdação, basta não deserdar. Os efeitos são pessoais: os descendentes do indigno herdam como se ele estivesse morto, artigo mil oitocentos e dezesseis.
+THALITA: O Ministério Público pode propor a ação de indignidade no caso de homicídio, Lei treze mil quinhentos e trinta e dois, de dois mil e dezessete. O perdão do indigno é por testamento ou ato autêntico; na deserdação, basta não deserdar. Os efeitos são pessoais: os descendentes do indigno herdam como se ele estivesse morto, artigo mil oitocentos e dezesseis.
 FRANCISCA: Atualização: a Lei quatorze mil seiscentos e sessenta e um, de dois mil e vinte e três, incluiu o artigo mil oitocentos e quinze-A. Condenação penal transitada em julgado pelo homicídio exclui o herdeiro de imediato, sem ação civil própria. Confira a redação vigente.
-ANTONIO: Herança jacente, artigo mil oitocentos e dezenove: não há testamento nem herdeiro conhecido, e os bens são arrecadados sob curador, com editais. A vacância, artigo mil oitocentos e vinte, vem um ano após a primeira publicação do edital, sem herdeiro habilitado. Os bens passam ao Município ou ao Distrito Federal cinco anos após a abertura da sucessão, artigo mil oitocentos e vinte e dois.
-THALITA: E se todos renunciarem?
-BRUNO: A vacância é imediata, artigo mil oitocentos e vinte e três. E, declarada a vacância, os colaterais ficam excluídos; descendentes, ascendentes e cônjuge ainda reclamam até os cinco anos.
+THALITA: Herança jacente, artigo mil oitocentos e dezenove: não há testamento nem herdeiro conhecido, e os bens são arrecadados sob curador, com editais. A vacância, artigo mil oitocentos e vinte, vem um ano após a primeira publicação do edital, sem herdeiro habilitado. Os bens passam ao Município ou ao Distrito Federal cinco anos após a abertura da sucessão, artigo mil oitocentos e vinte e dois.
+FRANCISCA: E se todos renunciarem?
+THALITA: A vacância é imediata, artigo mil oitocentos e vinte e três. E, declarada a vacância, os colaterais ficam excluídos; descendentes, ascendentes e cônjuge ainda reclamam até os cinco anos.
 == SLIDE: Sucessão legítima
 * Art. 1.829: descendentes + cônjuge; ascendentes + cônjuge; cônjuge; colaterais
 * Cônjuge não concorre na universal, na separação obrigatória ou parcial sem particulares
 * Quota: mínimo de 1/4 se ascendente dos herdeiros; 1/3 ou 1/2 com ascendentes
 * Habitação vitalícia (art. 1.831); legítima é metade
 * Tema 809 STF: companheiro como cônjuge
-ANTONIO: A ordem da vocação hereditária, artigo mil oitocentos e vinte e nove. Primeiro, descendentes com o cônjuge. O cônjuge não concorre se casado na comunhão universal, na separação obrigatória ou na comunhão parcial sem bens particulares. Segundo, ascendentes com o cônjuge, em qualquer regime. Terceiro, o cônjuge sozinho, qualquer que seja o regime. Quarto, colaterais até o quarto grau, os mais próximos excluindo os remotos.
+FRANCISCA: A ordem da vocação hereditária, artigo mil oitocentos e vinte e nove. Primeiro, descendentes com o cônjuge. O cônjuge não concorre se casado na comunhão universal, na separação obrigatória ou na comunhão parcial sem bens particulares. Segundo, ascendentes com o cônjuge, em qualquer regime. Terceiro, o cônjuge sozinho, qualquer que seja o regime. Quarto, colaterais até o quarto grau, os mais próximos excluindo os remotos.
 THALITA: E irmão é tratado igual?
 FRANCISCA: Não: o irmão bilateral recebe o dobro do unilateral, artigo mil oitocentos e quarenta e um. O cônjuge só herda se não estava separado judicialmente nem de fato há mais de dois anos, salvo prova de que a convivência se tornou impossível sem culpa sua, artigo mil oitocentos e trinta.
-BRUNO: Com descendentes, a quota do cônjuge é igual à dos que herdam por cabeça, com mínimo de um quarto se ele for ascendente dos herdeiros. O STJ diz que na filiação híbrida não há reserva. Com ascendentes, um terço se concorrer com pai e mãe, e metade se for com um só deles ou com avós, artigo mil oitocentos e trinta e sete.
-THALITA: Macete: um quarto para filhos comuns, um terço com pai e mãe, metade com um só ou avós.
-FRANCISCA: O cônjuge tem direito real de habitação, em qualquer regime, sobre o imóvel residencial, se único dessa natureza, vitalício, artigo mil oitocentos e trinta e um. Os herdeiros necessários são descendentes, ascendentes e cônjuge, e a legítima é metade da herança, artigos mil oitocentos e quarenta e cinco e mil oitocentos e quarenta e seis.
-ANTONIO: Representação: na linha descendente, sempre; na ascendente, nunca; na colateral, só filhos de irmão, artigos mil oitocentos e cinquenta e dois e mil oitocentos e cinquenta e três.
-BRUNO: E o companheiro? O Tema oitocentos e nove do STF declarou inconstitucional o artigo mil setecentos e noventa, aplicando-se o mil oitocentos e vinte e nove, com modulação para processos sem trânsito e partilhas extrajudiciais sem escritura. Se o companheiro é herdeiro necessário não foi decidido expressamente nos embargos. Confira a posição atual.
+THALITA: Com descendentes, a quota do cônjuge é igual à dos que herdam por cabeça, com mínimo de um quarto se ele for ascendente dos herdeiros. O STJ diz que na filiação híbrida não há reserva. Com ascendentes, um terço se concorrer com pai e mãe, e metade se for com um só deles ou com avós, artigo mil oitocentos e trinta e sete.
+FRANCISCA: Macete: um quarto para filhos comuns, um terço com pai e mãe, metade com um só ou avós.
+THALITA: O cônjuge tem direito real de habitação, em qualquer regime, sobre o imóvel residencial, se único dessa natureza, vitalício, artigo mil oitocentos e trinta e um. Os herdeiros necessários são descendentes, ascendentes e cônjuge, e a legítima é metade da herança, artigos mil oitocentos e quarenta e cinco e mil oitocentos e quarenta e seis.
+FRANCISCA: Representação: na linha descendente, sempre; na ascendente, nunca; na colateral, só filhos de irmão, artigos mil oitocentos e cinquenta e dois e mil oitocentos e cinquenta e três.
+THALITA: E o companheiro? O Tema oitocentos e nove do STF declarou inconstitucional o artigo mil setecentos e noventa, aplicando-se o mil oitocentos e vinte e nove, com modulação para processos sem trânsito e partilhas extrajudiciais sem escritura. Se o companheiro é herdeiro necessário não foi decidido expressamente nos embargos. Confira a posição atual.
 == SLIDE: Testamentos
 * Público e cerrado: 2 testemunhas; particular: 3
 * Marítimo e aeronáutico: caducam em 90 dias do desembarque
 * Capacidade a partir de 16 anos; conjuntivo proibido
 * Codicilo: sem testemunhas, bens de pouco valor
 * Impugnação: 5 anos (art. 1.859); vício da vontade: 4 anos (art. 1.909)
-ANTONIO: Formas de testamento ordinário. O público é lavrado pelo tabelião, com duas testemunhas, e é a única forma permitida ao cego e ao analfabeto. O cerrado também tem duas testemunhas, é escrito pelo testador ou a rogo e aprovado pelo tabelião; aberto o lacre, presume-se revogado.
+FRANCISCA: Formas de testamento ordinário. O público é lavrado pelo tabelião, com duas testemunhas, e é a única forma permitida ao cego e ao analfabeto. O cerrado também tem duas testemunhas, é escrito pelo testador ou a rogo e aprovado pelo tabelião; aberto o lacre, presume-se revogado.
 THALITA: E o particular?
 FRANCISCA: Exige três testemunhas. Basta uma que o confirme em juízo, se as outras faltarem. Sem testemunhas, só em circunstância excepcional declarada na cédula.
-BRUNO: Os especiais: o marítimo e o aeronáutico têm duas testemunhas e caducam se o testador não morrer na viagem nem em noventa dias do desembarque. O militar tem duas testemunhas, três se não souber assinar, e caduca após noventa dias seguidos em lugar onde possa testar ordinariamente. O nuncupativo só vale para militar em combate ou ferido.
-ANTONIO: Capacidade a partir de dezesseis anos, artigo mil oitocentos e sessenta, parágrafo único. O testamento conjuntivo é proibido. Codicilo, artigo mil oitocentos e oitenta e um: escrito particular, datado e assinado, sem testemunhas, para enterro, esmolas e bens de pouco valor.
+THALITA: Os especiais: o marítimo e o aeronáutico têm duas testemunhas e caducam se o testador não morrer na viagem nem em noventa dias do desembarque. O militar tem duas testemunhas, três se não souber assinar, e caduca após noventa dias seguidos em lugar onde possa testar ordinariamente. O nuncupativo só vale para militar em combate ou ferido.
+FRANCISCA: Capacidade a partir de dezesseis anos, artigo mil oitocentos e sessenta, parágrafo único. O testamento conjuntivo é proibido. Codicilo, artigo mil oitocentos e oitenta e um: escrito particular, datado e assinado, sem testemunhas, para enterro, esmolas e bens de pouco valor.
 THALITA: Memorizei: público e cerrado, duas; particular, três; codicilo, nenhuma. E o cego só pode testar de forma pública, porque precisa que o tabelião leia o testamento em voz alta. Acertei o raciocínio? Se for assim, já sei que a banca vai tentar me enganar com o cerrado.
 FRANCISCA: Legados: os frutos vencem desde a morte. Caducam por alienação ou perecimento da coisa, exclusão ou pré-morte do legatário, artigo mil novecentos e trinta e nove. Impugnação da validade do testamento: cinco anos do registro, artigo mil oitocentos e cinquenta e nove. Disposição viciada por erro, dolo ou coação: quatro anos da ciência, artigo mil novecentos e nove.
 == SLIDE: Inventário, partilha e Lei 6.858
@@ -122,12 +122,12 @@ FRANCISCA: Legados: os frutos vencem desde a morte. Caducam por alienação ou p
 * Res. CNJ 571/2024 amplia o cartório; confira redação vigente
 * Colação (art. 2.002); arrolamento sumário e comum
 * Lei 6.858/1980: dependentes recebem sem inventário
-ANTONIO: Inventário. O CPC, artigo seiscentos e onze, manda instaurar em dois meses da abertura e encerrar em doze, prorrogáveis. O extrajudicial, artigo seiscentos e dez, exige herdeiros capazes e concordes, escritura pública e advogado ou defensor; a escritura é título hábil para registro e bancos. A Resolução quinhentos e setenta e um de dois mil e vinte e quatro do CNJ admite cartório com herdeiro incapaz e com testamento, mas o CPC ainda exige inventário judicial nesses casos. Confira a redação vigente.
-THALITA: E quem é o inventariante?
-FRANCISCA: Artigo seiscentos e dezessete: primeiro o cônjuge ou companheiro que convivia, depois o herdeiro na posse, qualquer herdeiro, o testamenteiro, e por último o inventariante judicial ou estranho idôneo. A colação, artigo dois mil e dois, obriga descendentes a conferir as doações recebidas em vida, salvo dispensa expressa.
-BRUNO: Arrolamento sumário, artigo seiscentos e cinquenta e nove: partilha amigável entre capazes, de qualquer valor, com homologação sem prévio ITCMD, Tema mil e setenta e quatro do STJ. O comum, artigo seiscentos e sessenta e quatro, vai até mil salários mínimos.
-ANTONIO: Agora a Lei seis mil oitocentos e cinquenta e oito, de mil novecentos e oitenta, importante na Justiça do Trabalho. Ela cobre valores devidos pelo empregador, FGTS e PIS-PASEP não recebidos em vida, restituições de tributos e pequenos saldos bancários, se não houver outros bens.
-THALITA: E quem recebe?
-FRANCISCA: Os dependentes habilitados na Previdência, em quotas iguais, sem inventário nem arrolamento. Na falta deles, os sucessores civis, por alvará. A quota de menor fica em poupança até os dezoito anos, salvo autorização judicial. Na Justiça do Trabalho, esses dependentes podem cobrar créditos do empregado falecido sem abrir inventário.
-BRUNO: Súmula cento e sessenta e um do STJ: compete à Justiça Estadual autorizar o levantamento de PIS e FGTS em razão da morte do titular.
+THALITA: Inventário. O CPC, artigo seiscentos e onze, manda instaurar em dois meses da abertura e encerrar em doze, prorrogáveis. O extrajudicial, artigo seiscentos e dez, exige herdeiros capazes e concordes, escritura pública e advogado ou defensor; a escritura é título hábil para registro e bancos. A Resolução quinhentos e setenta e um de dois mil e vinte e quatro do CNJ admite cartório com herdeiro incapaz e com testamento, mas o CPC ainda exige inventário judicial nesses casos. Confira a redação vigente.
+FRANCISCA: E quem é o inventariante?
+THALITA: Artigo seiscentos e dezessete: primeiro o cônjuge ou companheiro que convivia, depois o herdeiro na posse, qualquer herdeiro, o testamenteiro, e por último o inventariante judicial ou estranho idôneo. A colação, artigo dois mil e dois, obriga descendentes a conferir as doações recebidas em vida, salvo dispensa expressa.
+FRANCISCA: Arrolamento sumário, artigo seiscentos e cinquenta e nove: partilha amigável entre capazes, de qualquer valor, com homologação sem prévio ITCMD, Tema mil e setenta e quatro do STJ. O comum, artigo seiscentos e sessenta e quatro, vai até mil salários mínimos.
+THALITA: Agora a Lei seis mil oitocentos e cinquenta e oito, de mil novecentos e oitenta, importante na Justiça do Trabalho. Ela cobre valores devidos pelo empregador, FGTS e PIS-PASEP não recebidos em vida, restituições de tributos e pequenos saldos bancários, se não houver outros bens.
+FRANCISCA: E quem recebe?
+THALITA: Os dependentes habilitados na Previdência, em quotas iguais, sem inventário nem arrolamento. Na falta deles, os sucessores civis, por alvará. A quota de menor fica em poupança até os dezoito anos, salvo autorização judicial. Na Justiça do Trabalho, esses dependentes podem cobrar créditos do empregado falecido sem abrir inventário.
+FRANCISCA: Súmula cento e sessenta e um do STJ: compete à Justiça Estadual autorizar o levantamento de PIS e FGTS em razão da morte do titular.
 THALITA: Agora vamos testar tudo com questões comentadas, no estilo FCC.

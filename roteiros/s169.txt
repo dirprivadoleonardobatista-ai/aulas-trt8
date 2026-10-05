@@ -4,37 +4,37 @@ SEGMENTO s169
 * Pós-Reforma: sindical só com autorização PRÉVIA e EXPRESSA
 * ADI 5794: fim da compulsoriedade é constitucional
 * Desconto sem autorização é ilícito (arts. 578, 579 e 582 CLT)
-ANTONIO: Na aula anterior vimos como o sindicato se organiza e a liberdade sindical. Agora a pergunta prática: de onde vem o dinheiro dessa estrutura? A apostila separa quatro fontes de receita, e a prova adora misturar as quatro.
+FRANCISCA: Na aula anterior vimos como o sindicato se organiza e a liberdade sindical. Agora a pergunta prática: de onde vem o dinheiro dessa estrutura? A apostila separa quatro fontes de receita, e a prova adora misturar as quatro.
 THALITA: Quatro? Eu só lembrava do imposto sindical, aquele desconto de março.
 FRANCISCA: Esse é só uma delas, Thalita. Primeira: a contribuição sindical, que nasce da lei, nos artigos quinhentos e setenta e oito a seiscentos e dez da CLT. Segunda: a confederativa, que vem do artigo oitavo, inciso quatro, da Constituição, mais a assembleia da entidade. Terceira: a assistencial, que vem de norma coletiva ou de assembleia. Quarta: a mensalidade, que vem do estatuto e só alcança associados.
-BRUNO: E a FCC cobra em quadro comparativo: fonte, quem paga, natureza e jurisprudência-chave. Guarde o trio de jurisprudência: ADI cinco mil setecentos e noventa e quatro para a sindical, Súmula Vinculante quarenta para a confederativa e Tema novecentos e trinta e cinco para a assistencial.
-THALITA: Então vamos começar pela sindical. O que mudou depois da Reforma?
-ANTONIO: Antes da Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, ela era devida por todos os integrantes da categoria, filiados ou não. Tinha natureza de tributo, contribuição parafiscal, com recolhimento automático em folha. Hoje, o desconto depende de autorização prévia e expressa do empregado.
+THALITA: E a FCC cobra em quadro comparativo: fonte, quem paga, natureza e jurisprudência-chave. Guarde o trio de jurisprudência: ADI cinco mil setecentos e noventa e quatro para a sindical, Súmula Vinculante quarenta para a confederativa e Tema novecentos e trinta e cinco para a assistencial.
+FRANCISCA: Então vamos começar pela sindical. O que mudou depois da Reforma?
+THALITA: Antes da Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, ela era devida por todos os integrantes da categoria, filiados ou não. Tinha natureza de tributo, contribuição parafiscal, com recolhimento automático em folha. Hoje, o desconto depende de autorização prévia e expressa do empregado.
 FRANCISCA: E sem autorização, o desconto é ilícito. Quanto ao valor, para o empregado, é um dia de remuneração, descontado em março. Mas só de quem autorizou.
 THALITA: Mas isso não era inconstitucional? Tirar o tributo por lei ordinária?
-BRUNO: Foi exatamente o que se discutiu na ADI cinco mil setecentos e noventa e quatro, em dois mil e dezoito. O Plenário do STF declarou constitucional o fim da compulsoriedade. Os fundamentos: a Constituição não impõe cobrança compulsória, a matéria pode ser tratada por lei ordinária, e a mudança prestigia a liberdade de associação.
+FRANCISCA: Foi exatamente o que se discutiu na ADI cinco mil setecentos e noventa e quatro, em dois mil e dezoito. O Plenário do STF declarou constitucional o fim da compulsoriedade. Os fundamentos: a Constituição não impõe cobrança compulsória, a matéria pode ser tratada por lei ordinária, e a mudança prestigia a liberdade de associação.
 THALITA: Entendi. Então a assembleia do sindicato pode decidir que todo mundo paga, e pronto?
 FRANCISCA: Não. E aqui vem o alerta de pegadinha. Norma coletiva não pode substituir a autorização individual. O artigo seiscentos e onze-B, inciso vinte e seis, torna ilícita a cláusula que suprima o direito de não sofrer cobrança ou desconto salarial sem anuência prévia e expressa.
-BRUNO: Decore a trinca: individual, prévia e expressa. A FCC troca por tácita, coletiva ou posterior ao desconto. Viu uma dessas três palavras, a alternativa está errada.
-THALITA: Individual, prévia, expressa. Tácita, coletiva e posterior, nunca. Anotado!
-ANTONIO: Perfeito. Com a sindical resolvida, vamos às outras duas contribuições, que causam mais confusão.
+THALITA: Decore a trinca: individual, prévia e expressa. A FCC troca por tácita, coletiva ou posterior ao desconto. Viu uma dessas três palavras, a alternativa está errada.
+FRANCISCA: Individual, prévia, expressa. Tácita, coletiva e posterior, nunca. Anotado!
+THALITA: Perfeito. Com a sindical resolvida, vamos às outras duas contribuições, que causam mais confusão.
 == SLIDE: Confederativa e assistencial: quem paga?
 * Confederativa: art. 8º, IV, CF, fixada em assembleia, só FILIADOS (SV 40)
 * PN 119 e OJ 17 da SDC: cláusula que impõe a não associado é ofensiva
 * Assistencial, Tema 935: 2017 inconstitucional; 2023 constitucional
 * Exige acordo ou convenção + direito de OPOSIÇÃO
-BRUNO: A contribuição confederativa tem fundamento no artigo oitavo, inciso quatro, da Constituição. Quem fixa o valor é a assembleia geral da entidade, e a finalidade é custear o sistema confederativo. Na categoria profissional, o desconto é feito em folha.
+FRANCISCA: A contribuição confederativa tem fundamento no artigo oitavo, inciso quatro, da Constituição. Quem fixa o valor é a assembleia geral da entidade, e a finalidade é custear o sistema confederativo. Na categoria profissional, o desconto é feito em folha.
 THALITA: E quem paga? Todo mundo da categoria?
 FRANCISCA: Somente filiados. A Súmula Vinculante quarenta diz que a confederativa só pode ser exigida dos filiados ao sindicato respectivo. No mesmo sentido, o Precedente Normativo cento e dezenove e a Orientação Jurisprudencial dezessete da SDC do TST consideram ofensivas à liberdade de associação as cláusulas que impõem contribuições a não associados.
-BRUNO: Pegadinha clássica: a banca descreve uma confederativa cobrada de toda a categoria e pergunta se é válida. Resposta: não. Confederativa é só filiado, sem exceção.
-THALITA: Então a assistencial também é só filiado, certo?
-FRANCISCA: Calma, aí mudou a história. O Tema novecentos e trinta e cinco do STF teve duas fases. Em dois mil e dezessete, no julgamento original, a Corte entendeu inconstitucional a contribuição compulsória, por acordo ou convenção, a empregados não sindicalizados.
-ANTONIO: Em dois mil e vinte e três, nos embargos, com efeitos modificativos, houve a virada. Passou a ser constitucional a contribuição assistencial cobrada de todos os empregados da categoria, ainda que não filiados, desde que assegurado o direito de oposição.
+THALITA: Pegadinha clássica: a banca descreve uma confederativa cobrada de toda a categoria e pergunta se é válida. Resposta: não. Confederativa é só filiado, sem exceção.
+FRANCISCA: Então a assistencial também é só filiado, certo?
+THALITA: Calma, aí mudou a história. O Tema novecentos e trinta e cinco do STF teve duas fases. Em dois mil e dezessete, no julgamento original, a Corte entendeu inconstitucional a contribuição compulsória, por acordo ou convenção, a empregados não sindicalizados.
+FRANCISCA: Em dois mil e vinte e três, nos embargos, com efeitos modificativos, houve a virada. Passou a ser constitucional a contribuição assistencial cobrada de todos os empregados da categoria, ainda que não filiados, desde que assegurado o direito de oposição.
 THALITA: Por que o STF mudou de ideia?
 FRANCISCA: Porque, com o fim da contribuição sindical obrigatória, os sindicatos perderam a principal fonte de custeio. E a negociação coletiva beneficia toda a categoria, não só os associados.
-BRUNO: Em formato de prova, a tese tem dois requisitos. Um: previsão em acordo ou convenção coletivos. Dois: garantia do direito de oposição. Faltando qualquer um, a cobrança do não filiado é inválida. E não confunda com a confederativa, que continua restrita aos filiados.
-THALITA: Deixa eu resumir: confederativa, só filiado. Assistencial, categoria toda, se tiver norma coletiva e oposição. Certo?
-ANTONIO: Certíssimo. Um cuidado: a apostila manda conferir os desdobramentos posteriores, como a irretroatividade da cobrança e as condições da oposição, prazo e forma razoáveis. Em prova, use a tese de dois mil e vinte e três.
+THALITA: Em formato de prova, a tese tem dois requisitos. Um: previsão em acordo ou convenção coletivos. Dois: garantia do direito de oposição. Faltando qualquer um, a cobrança do não filiado é inválida. E não confunda com a confederativa, que continua restrita aos filiados.
+FRANCISCA: Deixa eu resumir: confederativa, só filiado. Assistencial, categoria toda, se tiver norma coletiva e oposição. Certo?
+THALITA: Certíssimo. Um cuidado: a apostila manda conferir os desdobramentos posteriores, como a irretroatividade da cobrança e as condições da oposição, prazo e forma razoáveis. Em prova, use a tese de dois mil e vinte e três.
 FRANCISCA: Um exemplo. A convenção dos comerciários de Belém fixa assistencial de um por cento do salário, com dez dias para oposição por escrito. Tereza, não sindicalizada, não se opõe no prazo: o desconto é válido. Márcio, também não filiado, se opõe no prazo: o desconto do salário dele é ilícito.
 THALITA: Então a oposição é o que salva o Márcio. Boa!
 == SLIDE: Convenção, acordo e a regra do artigo 620
@@ -42,56 +42,56 @@ THALITA: Então a oposição é o que salva o Márcio. Boa!
 * ACT: sindicato profissional + empresa(s) (art. 611, § 1º)
 * Art. 620: acordo coletivo SEMPRE prevalece sobre a convenção
 * Sentença normativa, laudo arbitral e contrato coletivo
-BRUNO: Passamos para a negociação coletiva, e já vou avisando: é a seção mais cobrada. Comecemos pelos instrumentos.
-ANTONIO: Convenção coletiva é o acordo entre o sindicato da categoria profissional e o sindicato da categoria econômica. Fundamento: artigo seiscentos e onze, caput. Vale para toda a categoria na base territorial, e exige participação sindical dos dois lados.
+FRANCISCA: Passamos para a negociação coletiva, e já vou avisando: é a seção mais cobrada. Comecemos pelos instrumentos.
+THALITA: Convenção coletiva é o acordo entre o sindicato da categoria profissional e o sindicato da categoria econômica. Fundamento: artigo seiscentos e onze, caput. Vale para toda a categoria na base territorial, e exige participação sindical dos dois lados.
 FRANCISCA: Acordo coletivo é entre o sindicato profissional e uma ou mais empresas, artigo seiscentos e onze, parágrafo primeiro. Vale só para a empresa ou as empresas acordantes. O sindicato obrigatoriamente participa só do lado profissional, porque a empresa negocia diretamente.
 THALITA: Macete: convenção é sindicato com sindicato, acordo é sindicato com empresa.
-BRUNO: Isso! Agora a regra de ouro: o artigo seiscentos e vinte diz que as condições do acordo coletivo sempre prevalecerão sobre as da convenção.
+FRANCISCA: Isso! Agora a regra de ouro: o artigo seiscentos e vinte diz que as condições do acordo coletivo sempre prevalecerão sobre as da convenção.
 THALITA: Mas sempre mesmo? Até se a convenção for melhor para o empregado?
-ANTONIO: Sempre. Antes da Reforma, o artigo mandava aplicar a convenção quando fosse mais favorável, o critério da norma mais favorável. Hoje vale o critério da especialidade: a norma da empresa afasta a norma da categoria, seja melhor ou pior para o empregado.
-BRUNO: A palavra sempre é literal. Alternativa que diga salvo se a convenção for mais favorável reproduz a regra revogada. Está errada.
+FRANCISCA: Sempre. Antes da Reforma, o artigo mandava aplicar a convenção quando fosse mais favorável, o critério da norma mais favorável. Hoje vale o critério da especialidade: a norma da empresa afasta a norma da categoria, seja melhor ou pior para o empregado.
+THALITA: A palavra sempre é literal. Alternativa que diga salvo se a convenção for mais favorável reproduz a regra revogada. Está errada.
 FRANCISCA: A apostila traz ainda três figuras vizinhas. O contrato coletivo de trabalho é construção doutrinária e de direito comparado, um instrumento em nível mais amplo, nacional ou intercategorial, com centrais e confederações. No Brasil, não tem regulamentação própria e efetiva.
-ANTONIO: A sentença normativa é a decisão do tribunal em dissídio coletivo, que cria normas para a categoria quando a negociação fracassa. Base: artigo cento e catorze, parágrafo segundo, da Constituição. E o laudo arbitral é a decisão de um árbitro escolhido pelas partes no conflito coletivo, artigo cento e catorze, parágrafo primeiro.
-THALITA: Então sentença normativa vem do juiz, laudo arbitral vem do árbitro que as partes escolhem, e contrato coletivo não existe de verdade no Brasil.
-BRUNO: Resumo perfeito. Quem confundir sentença normativa com laudo arbitral perde ponto fácil.
-ANTONIO: Agora que sabemos quem negocia, vamos ao procedimento, com seus prazos e quóruns.
+THALITA: A sentença normativa é a decisão do tribunal em dissídio coletivo, que cria normas para a categoria quando a negociação fracassa. Base: artigo cento e catorze, parágrafo segundo, da Constituição. E o laudo arbitral é a decisão de um árbitro escolhido pelas partes no conflito coletivo, artigo cento e catorze, parágrafo primeiro.
+FRANCISCA: Então sentença normativa vem do juiz, laudo arbitral vem do árbitro que as partes escolhem, e contrato coletivo não existe de verdade no Brasil.
+THALITA: Resumo perfeito. Quem confundir sentença normativa com laudo arbitral perde ponto fácil.
+FRANCISCA: Agora que sabemos quem negocia, vamos ao procedimento, com seus prazos e quóruns.
 == SLIDE: Procedimento: quóruns, prazos e depósito
 * Assembleia: dois terços na 1ª convocação, um terço na 2ª (art. 612)
 * Mais de cinco mil associados: segunda convocação com um oitavo
 * Depósito em 8 dias; vigência 3 dias após a entrega (art. 614)
 * Recusa à negociação é vedada (art. 616); prazo de 8 dias no art. 617
-FRANCISCA: O artigo seiscentos e doze exige autorização da assembleia. Na primeira convocação, dois terços dos associados, no caso de convenção, ou dos interessados, no caso de acordo. Na segunda convocação, um terço dos mesmos.
-THALITA: E se o sindicato for enorme? Nunca vai juntar um terço.
-FRANCISCA: Para isso existe o parágrafo único: entidades com mais de cinco mil associados têm o quórum de segunda convocação reduzido a um oitavo.
-BRUNO: Guarde a sequência de frações: dois terços, um terço e um oitavo. A FCC troca os números nas alternativas.
-ANTONIO: Quanto à forma, o instrumento deve ser escrito, sem emendas nem rasuras, em tantas vias quantas forem as partes, mais uma para registro. É o artigo seiscentos e treze, parágrafo único.
-THALITA: E depois de assinar, o que acontece?
-ANTONIO: O depósito para registro, até oito dias após a assinatura, no órgão do Ministério do Trabalho. É o artigo seiscentos e catorze. E a vigência começa três dias após a entrega nesse órgão, parágrafo primeiro. A duração máxima é de dois anos, sem ultratividade, parágrafo terceiro.
-THALITA: Oito dias para depositar, três dias para vigorar, dois anos de duração. Macete: oito, três, dois.
-BRUNO: Ótimo macete. Mas há um alerta da apostila: o depósito é formalidade de publicidade e registro, e não condição de validade substancial do ajuste. É tema controvertido, então, em prova objetiva, guarde os prazos e pronto.
+THALITA: O artigo seiscentos e doze exige autorização da assembleia. Na primeira convocação, dois terços dos associados, no caso de convenção, ou dos interessados, no caso de acordo. Na segunda convocação, um terço dos mesmos.
+FRANCISCA: E se o sindicato for enorme? Nunca vai juntar um terço.
+THALITA: Para isso existe o parágrafo único: entidades com mais de cinco mil associados têm o quórum de segunda convocação reduzido a um oitavo.
+FRANCISCA: Guarde a sequência de frações: dois terços, um terço e um oitavo. A FCC troca os números nas alternativas.
+THALITA: Quanto à forma, o instrumento deve ser escrito, sem emendas nem rasuras, em tantas vias quantas forem as partes, mais uma para registro. É o artigo seiscentos e treze, parágrafo único.
+FRANCISCA: E depois de assinar, o que acontece?
+THALITA: O depósito para registro, até oito dias após a assinatura, no órgão do Ministério do Trabalho. É o artigo seiscentos e catorze. E a vigência começa três dias após a entrega nesse órgão, parágrafo primeiro. A duração máxima é de dois anos, sem ultratividade, parágrafo terceiro.
+FRANCISCA: Oito dias para depositar, três dias para vigorar, dois anos de duração. Macete: oito, três, dois.
+THALITA: Ótimo macete. Mas há um alerta da apostila: o depósito é formalidade de publicidade e registro, e não condição de validade substancial do ajuste. É tema controvertido, então, em prova objetiva, guarde os prazos e pronto.
 FRANCISCA: Outras duas regras. O artigo seiscentos e dezesseis diz que sindicatos e empresas não podem se recusar à negociação coletiva. E o artigo seiscentos e dezessete trata do caso dos empregados que querem um acordo coletivo: eles comunicam o sindicato, que tem oito dias para assumir a negociação.
 THALITA: E se o sindicato não assumir?
 FRANCISCA: Passa para a federação e depois para a confederação. Esgotado o prazo sem que ninguém assuma, os próprios interessados podem negociar diretamente.
-BRUNO: Atenção: oito dias aparece duas vezes, no depósito e no prazo do sindicato. A banca gosta de trocar um pelo outro.
-THALITA: Depósito oito, sindicato oito, vigência três. Entendi.
+THALITA: Atenção: oito dias aparece duas vezes, no depósito e no prazo do sindicato. A banca gosta de trocar um pelo outro.
+FRANCISCA: Depósito oito, sindicato oito, vigência três. Entendi.
 == SLIDE: Vigência e fim da ultratividade
 * Art. 614, § 3º: máximo de 2 anos, vedada a ultratividade
 * Ultratividade: cláusulas seguem valendo até novo instrumento
 * Súmula 277 TST (2012) admitia; ADPF 323 suspendeu e declarou inconstitucional
 * Vencido o prazo, cláusulas não se incorporam aos contratos
-ANTONIO: O texto do artigo seiscentos e catorze, parágrafo terceiro, é direto: não será permitido estipular duração de convenção ou acordo coletivo superior a dois anos, sendo vedada a ultratividade.
-THALITA: Esse palavrão, ultratividade, eu nunca decorei. O que é?
-FRANCISCA: É a permanência das cláusulas normativas após o fim da vigência do instrumento, até que outro venha substituí-lo. A Reforma proibiu isso expressamente. Vencido o prazo, as cláusulas deixam de produzir efeitos, sem incorporação definitiva aos contratos individuais.
-THALITA: Então se a convenção acabou e não fizeram outra, o empregado perde as cláusulas?
-ANTONIO: Perde, porque elas não se incorporam ao contrato. E aqui há uma linha do tempo que a prova adora. Primeiro marco: a Súmula duzentos e setenta e sete do TST, na redação de dois mil e doze, admitia a ultratividade. As cláusulas integravam os contratos até nova negociação.
-BRUNO: Segundo marco: a ADPF trezentos e vinte e três. Em dois mil e dezesseis, em liminar, o ministro Gilmar Mendes suspendeu a aplicação da Súmula duzentos e setenta e sete e de decisões nela baseadas.
-FRANCISCA: Terceiro marco: a Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, que incluiu o parágrafo terceiro no artigo seiscentos e catorze e vedou a ultratividade.
-ANTONIO: E o quarto marco: o julgamento de mérito da ADPF trezentos e vinte e três, em dois mil e vinte e dois. O STF declarou inconstitucionais a Súmula duzentos e setenta e sete e as interpretações que admitam ultratividade.
+THALITA: O texto do artigo seiscentos e catorze, parágrafo terceiro, é direto: não será permitido estipular duração de convenção ou acordo coletivo superior a dois anos, sendo vedada a ultratividade.
+FRANCISCA: Esse palavrão, ultratividade, eu nunca decorei. O que é?
+THALITA: É a permanência das cláusulas normativas após o fim da vigência do instrumento, até que outro venha substituí-lo. A Reforma proibiu isso expressamente. Vencido o prazo, as cláusulas deixam de produzir efeitos, sem incorporação definitiva aos contratos individuais.
+FRANCISCA: Então se a convenção acabou e não fizeram outra, o empregado perde as cláusulas?
+THALITA: Perde, porque elas não se incorporam ao contrato. E aqui há uma linha do tempo que a prova adora. Primeiro marco: a Súmula duzentos e setenta e sete do TST, na redação de dois mil e doze, admitia a ultratividade. As cláusulas integravam os contratos até nova negociação.
+FRANCISCA: Segundo marco: a ADPF trezentos e vinte e três. Em dois mil e dezesseis, em liminar, o ministro Gilmar Mendes suspendeu a aplicação da Súmula duzentos e setenta e sete e de decisões nela baseadas.
+THALITA: Terceiro marco: a Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, que incluiu o parágrafo terceiro no artigo seiscentos e catorze e vedou a ultratividade.
+FRANCISCA: E o quarto marco: o julgamento de mérito da ADPF trezentos e vinte e três, em dois mil e vinte e dois. O STF declarou inconstitucionais a Súmula duzentos e setenta e sete e as interpretações que admitam ultratividade.
 THALITA: Deixa eu arriscar: a súmula admitia, o STF suspendeu, a lei proibiu e o STF confirmou. Foi isso?
-BRUNO: Foi isso mesmo. Só um cuidado que a apostila faz: conferir se o TST já cancelou formalmente o texto da Súmula duzentos e setenta e sete. Em prova, o que vale é que a ultratividade é vedada por lei e por decisão vinculante do STF.
-FRANCISCA: Se aparecer uma alternativa dizendo que as cláusulas se incorporam definitivamente ao contrato individual depois do término da vigência, é a regra antiga. Está errada.
-THALITA: Resumindo: dois anos no máximo, e acabou o prazo, acabou a cláusula.
-ANTONIO: Exatamente. Agora, o ponto mais polêmico da negociação coletiva: o que pode e o que não pode ser negociado.
+FRANCISCA: Foi isso mesmo. Só um cuidado que a apostila faz: conferir se o TST já cancelou formalmente o texto da Súmula duzentos e setenta e sete. Em prova, o que vale é que a ultratividade é vedada por lei e por decisão vinculante do STF.
+THALITA: Se aparecer uma alternativa dizendo que as cláusulas se incorporam definitivamente ao contrato individual depois do término da vigência, é a regra antiga. Está errada.
+FRANCISCA: Resumindo: dois anos no máximo, e acabou o prazo, acabou a cláusula.
+THALITA: Exatamente. Agora, o ponto mais polêmico da negociação coletiva: o que pode e o que não pode ser negociado.
 == SLIDE: Artigo 611-A: o que PODE ser negociado
 * Rol EXEMPLIFICATIVO ("entre outros")
 * Jornada, banco de horas anual, intervalo mínimo de 30 minutos
@@ -100,33 +100,33 @@ ANTONIO: Exatamente. Agora, o ponto mais polêmico da negociação coletiva: o q
 * § 3º redução salarial exige garantia contra dispensa
 FRANCISCA: O artigo seiscentos e onze-A dá prevalência à norma coletiva sobre a lei quando ela tratar, entre outros, de certos temas. A expressão entre outros torna o rol exemplificativo.
 THALITA: Então pode negociar qualquer coisa?
-BRUNO: Calma. O que não pode está no artigo seiscentos e onze-B, e esse é taxativo. Primeiro vamos aos temas do onze-A.
-FRANCISCA: Inciso um, pacto quanto à jornada, respeitados os limites constitucionais. Inciso dois, banco de horas anual. Inciso três, intervalo intrajornada, com mínimo de trinta minutos para jornadas superiores a seis horas. Inciso quatro, adesão ao Programa Seguro-Emprego.
-ANTONIO: Inciso cinco, plano de cargos e salários, com identificação dos cargos de confiança. Seis, regulamento empresarial. Sete, representante dos trabalhadores no local de trabalho. Oito, teletrabalho, sobreaviso e trabalho intermitente.
-FRANCISCA: Nove, remuneração por produtividade, gorjetas e desempenho individual. Dez, modalidade de registro de jornada. Onze, troca do dia de feriado. Doze, enquadramento do grau de insalubridade. Treze, prorrogação de jornada em ambiente insalubre sem licença prévia da autoridade do Ministério do Trabalho. Catorze, prêmios de incentivo em bens ou serviços. Quinze, participação nos lucros ou resultados.
-THALITA: Nossa, é lista grande. O que eu tenho que gravar de verdade?
-BRUNO: Jornada, banco de horas, intervalo de trinta minutos, teletrabalho, PLR e grau de insalubridade. Esses caem muito.
-ANTONIO: Agora os parágrafos. O parágrafo primeiro manda a Justiça do Trabalho analisar apenas os elementos essenciais do negócio jurídico, guiada pela intervenção mínima na autonomia coletiva, que vem do artigo oitavo, parágrafo terceiro, da CLT.
-FRANCISCA: O parágrafo segundo diz que a falta de contrapartidas recíprocas não gera nulidade. O terceiro: se houver redução de salário ou de jornada, a norma deve garantir proteção contra dispensa imotivada durante a vigência.
-BRUNO: O quarto: anulada a cláusula, anula-se também a compensatória correspondente, sem devolução do que foi pago. E o quinto: os sindicatos signatários são litisconsortes necessários em ação, individual ou coletiva, que vise anular cláusula.
+FRANCISCA: Calma. O que não pode está no artigo seiscentos e onze-B, e esse é taxativo. Primeiro vamos aos temas do onze-A.
+THALITA: Inciso um, pacto quanto à jornada, respeitados os limites constitucionais. Inciso dois, banco de horas anual. Inciso três, intervalo intrajornada, com mínimo de trinta minutos para jornadas superiores a seis horas. Inciso quatro, adesão ao Programa Seguro-Emprego.
+FRANCISCA: Inciso cinco, plano de cargos e salários, com identificação dos cargos de confiança. Seis, regulamento empresarial. Sete, representante dos trabalhadores no local de trabalho. Oito, teletrabalho, sobreaviso e trabalho intermitente.
+THALITA: Nove, remuneração por produtividade, gorjetas e desempenho individual. Dez, modalidade de registro de jornada. Onze, troca do dia de feriado. Doze, enquadramento do grau de insalubridade. Treze, prorrogação de jornada em ambiente insalubre sem licença prévia da autoridade do Ministério do Trabalho. Catorze, prêmios de incentivo em bens ou serviços. Quinze, participação nos lucros ou resultados.
+FRANCISCA: Nossa, é lista grande. O que eu tenho que gravar de verdade?
+THALITA: Jornada, banco de horas, intervalo de trinta minutos, teletrabalho, PLR e grau de insalubridade. Esses caem muito.
+FRANCISCA: Agora os parágrafos. O parágrafo primeiro manda a Justiça do Trabalho analisar apenas os elementos essenciais do negócio jurídico, guiada pela intervenção mínima na autonomia coletiva, que vem do artigo oitavo, parágrafo terceiro, da CLT.
+THALITA: O parágrafo segundo diz que a falta de contrapartidas recíprocas não gera nulidade. O terceiro: se houver redução de salário ou de jornada, a norma deve garantir proteção contra dispensa imotivada durante a vigência.
+FRANCISCA: O quarto: anulada a cláusula, anula-se também a compensatória correspondente, sem devolução do que foi pago. E o quinto: os sindicatos signatários são litisconsortes necessários em ação, individual ou coletiva, que vise anular cláusula.
 THALITA: Macete: segundo, sem contrapartida não anula; terceiro, reduziu salário, tem que proteger da dispensa.
-ANTONIO: Muito bom. E agora o outro lado da moeda.
+FRANCISCA: Muito bom. E agora o outro lado da moeda.
 == SLIDE: Artigo 611-B: o que NÃO PODE (rol taxativo)
 * Rol TAXATIVO ("exclusivamente"): supressão ou redução é objeto ilícito
 * FGTS, 13º, férias + 1/3, hora extra mínima de 50%, licença-maternidade 120 dias
 * Aviso-prévio proporcional, segurança e saúde, prescrição, greve
 * Parágrafo único: duração do trabalho e intervalos NÃO são saúde e segurança
-BRUNO: O artigo seiscentos e onze-B lista as matérias cuja supressão ou redução é objeto ilícito de norma coletiva. A lei usa a palavra exclusivamente, o que torna o rol taxativo.
+THALITA: O artigo seiscentos e onze-B lista as matérias cuja supressão ou redução é objeto ilícito de norma coletiva. A lei usa a palavra exclusivamente, o que torna o rol taxativo.
 FRANCISCA: Vou parafrasear por blocos. Identificação profissional, inclusive anotações na carteira. Seguro-desemprego e FGTS, com depósitos e indenização rescisória. Salário mínimo e valor nominal do décimo terceiro. Adicional noturno e adicional de horas extras de no mínimo cinquenta por cento.
-ANTONIO: Proteção do salário, sendo crime a retenção dolosa, e salário-família. Repouso semanal remunerado. Número de dias de férias e férias com acréscimo de um terço. Licença-maternidade de no mínimo cento e vinte dias e licença-paternidade.
+THALITA: Proteção do salário, sendo crime a retenção dolosa, e salário-família. Repouso semanal remunerado. Número de dias de férias e férias com acréscimo de um terço. Licença-maternidade de no mínimo cento e vinte dias e licença-paternidade.
 FRANCISCA: Proteção do mercado de trabalho da mulher. Aviso-prévio proporcional, com mínimo de trinta dias. Normas de saúde, higiene e segurança previstas em lei ou em normas regulamentadoras. Adicionais de penosidade, insalubridade e periculosidade.
-BRUNO: Atenção aqui: o grau de insalubridade pode ser negociado, pelo onze-A, inciso doze. Mas suprimir o adicional, não.
-ANTONIO: Seguem aposentadoria, seguro contra acidentes a cargo do empregador, prazo prescricional dos créditos trabalhistas, proibição de discriminação salarial e de admissão da pessoa com deficiência, proibições de trabalho do menor, igualdade entre trabalhador permanente e avulso.
-FRANCISCA: Também a liberdade de associação, inclusive o direito de não sofrer desconto sem anuência prévia e expressa; o direito de greve e a definição legal dos serviços essenciais; tributos e créditos de terceiros; e as normas de proteção à mulher indicadas na CLT.
-THALITA: Se eu pensar em Constituição, o que é direito básico do trabalhador não se negocia. Certo?
-BRUNO: Boa regra prática. E tem uma pegadinha: o parágrafo único do onze-B diz que regras sobre duração do trabalho e intervalos não são consideradas normas de saúde, higiene e segurança. Por isso jornada e intervalo de trinta minutos podem ser negociados.
-THALITA: Vou testar. Norma coletiva pode reduzir o adicional de horas extras para quarenta por cento?
-BRUNO: Errado, o mínimo de cinquenta por cento é intocável. Pode fixar o grau de insalubridade? Certo. Suprimir o adicional de insalubridade? Errado. Intervalo de vinte minutos para jornada de oito horas? Errado, mínimo de trinta. Rol do onze-A taxativo? Errado, é exemplificativo.
+THALITA: Atenção aqui: o grau de insalubridade pode ser negociado, pelo onze-A, inciso doze. Mas suprimir o adicional, não.
+FRANCISCA: Seguem aposentadoria, seguro contra acidentes a cargo do empregador, prazo prescricional dos créditos trabalhistas, proibição de discriminação salarial e de admissão da pessoa com deficiência, proibições de trabalho do menor, igualdade entre trabalhador permanente e avulso.
+THALITA: Também a liberdade de associação, inclusive o direito de não sofrer desconto sem anuência prévia e expressa; o direito de greve e a definição legal dos serviços essenciais; tributos e créditos de terceiros; e as normas de proteção à mulher indicadas na CLT.
+FRANCISCA: Se eu pensar em Constituição, o que é direito básico do trabalhador não se negocia. Certo?
+THALITA: Boa regra prática. E tem uma pegadinha: o parágrafo único do onze-B diz que regras sobre duração do trabalho e intervalos não são consideradas normas de saúde, higiene e segurança. Por isso jornada e intervalo de trinta minutos podem ser negociados.
+FRANCISCA: Vou testar. Norma coletiva pode reduzir o adicional de horas extras para quarenta por cento?
+THALITA: Errado, o mínimo de cinquenta por cento é intocável. Pode fixar o grau de insalubridade? Certo. Suprimir o adicional de insalubridade? Errado. Intervalo de vinte minutos para jornada de oito horas? Errado, mínimo de trinta. Rol do onze-A taxativo? Errado, é exemplificativo.
 == SLIDE: Tema 1046 do STF: adequação setorial negociada
 * ARE 1.121.633 (2022): limitar ou afastar direitos é válido
 * Sem necessidade de indicar contrapartidas específicas
@@ -134,12 +134,12 @@ BRUNO: Errado, o mínimo de cinquenta por cento é intocável. Pode fixar o grau
 * Caso concreto: horas in itinere suprimidas por norma coletiva
 FRANCISCA: O Tema mil e quarenta e seis nasceu do recurso extraordinário com agravo um milhão cento e vinte e um mil seiscentos e trinta e três, julgado em dois mil e vinte e dois. Em paráfrase, a tese diz que são constitucionais os acordos e convenções que, levando em conta a adequação setorial negociada, limitem ou afastem direitos trabalhistas, mesmo sem indicar de modo específico as vantagens compensatórias, desde que preservados os direitos absolutamente indisponíveis.
 THALITA: Traduzindo: pode tirar direito, mesmo sem dar nada em troca explícito, desde que não seja um direito absolutamente indisponível?
-ANTONIO: Isso. Adequação setorial negociada significa que a norma coletiva é legítima quando adapta direitos às peculiaridades do setor.
-BRUNO: Sobre contrapartidas, elas não precisam ser explicitadas. Isso conversa com o artigo seiscentos e onze-A, parágrafo segundo, que já dizia que a falta de contrapartidas recíprocas não gera nulidade.
-THALITA: E quais são os direitos absolutamente indisponíveis?
-FRANCISCA: Em regra, os assegurados pela Constituição, por normas internacionais incorporadas ao ordenamento e por normas de saúde e segurança. É o mesmo espírito do rol do onze-B.
-ANTONIO: O caso concreto era o das horas in itinere suprimidas por norma coletiva, numa situação anterior à Reforma.
-FRANCISCA: Um exemplo. O acordo coletivo da Beta S.A., anterior a dois mil e dezessete, excluía o pagamento de horas in itinere em troca de uma cesta básica, sem especificar que era compensação. Pelo Tema mil e quarenta e seis, a cláusula é válida: horas de percurso não são direito absolutamente indisponível e a contrapartida não precisava ser explicitada.
-THALITA: Então alternativa que diga que a cláusula é nula por falta de contrapartida expressa está errada.
-BRUNO: Exato. Na FCC, a tese vem em dois pedaços: pode limitar sem contrapartida explícita, mas nunca violar direito absolutamente indisponível.
-ANTONIO: Fechamos a negociação coletiva. A negociação é o caminho pacífico do conflito coletivo. Quando ela fracassa, o instrumento de pressão é a greve, o nosso próximo tema.
+FRANCISCA: Isso. Adequação setorial negociada significa que a norma coletiva é legítima quando adapta direitos às peculiaridades do setor.
+THALITA: Sobre contrapartidas, elas não precisam ser explicitadas. Isso conversa com o artigo seiscentos e onze-A, parágrafo segundo, que já dizia que a falta de contrapartidas recíprocas não gera nulidade.
+FRANCISCA: E quais são os direitos absolutamente indisponíveis?
+THALITA: Em regra, os assegurados pela Constituição, por normas internacionais incorporadas ao ordenamento e por normas de saúde e segurança. É o mesmo espírito do rol do onze-B.
+FRANCISCA: O caso concreto era o das horas in itinere suprimidas por norma coletiva, numa situação anterior à Reforma.
+THALITA: Um exemplo. O acordo coletivo da Beta S.A., anterior a dois mil e dezessete, excluía o pagamento de horas in itinere em troca de uma cesta básica, sem especificar que era compensação. Pelo Tema mil e quarenta e seis, a cláusula é válida: horas de percurso não são direito absolutamente indisponível e a contrapartida não precisava ser explicitada.
+FRANCISCA: Então alternativa que diga que a cláusula é nula por falta de contrapartida expressa está errada.
+THALITA: Exato. Na FCC, a tese vem em dois pedaços: pode limitar sem contrapartida explícita, mas nunca violar direito absolutamente indisponível.
+FRANCISCA: Fechamos a negociação coletiva. A negociação é o caminho pacífico do conflito coletivo. Quando ela fracassa, o instrumento de pressão é a greve, o nosso próximo tema.

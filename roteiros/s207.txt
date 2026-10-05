@@ -4,17 +4,14 @@ SEGMENTO s207
 * Hoje: teoria geral, pressupostos, quadro mestre de recursos
 * Recurso: meio voluntário de impugnação no mesmo processo
 * Efeito-regra: somente devolutivo (art. 899); execução provisória até a penhora
-ANTONIO: Olá, pessoal, boas-vindas! Eu sou o Antônio e esta é a aula sessenta, de Direito Processual do Trabalho, sobre recursos, PJe e precedentes. Hoje vamos ver a teoria geral dos recursos trabalhistas, depois os pressupostos de admissibilidade, e por fim o quadro mestre dos recursos em espécie, com embargos de declaração, recurso ordinário e recurso de revista.
-FRANCISCA: Oi, pessoal! Eu sou a Francisca, professora. Trago a lei em paráfrase, a jurisprudência e os exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira, e pergunto o que o aluno perguntaria. Vamos lá!
-ANTONIO: Recurso é o meio voluntário de impugnação, dentro do mesmo processo, que busca reformar, invalidar, esclarecer ou integrar uma decisão. O sistema trabalhista foi desenhado para a celeridade: poucos recursos, prazo unificado, efeito suspensivo como exceção e nenhum recurso imediato contra interlocutória.
+FRANCISCA: Olá, pessoal, boas-vindas! Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Oi, pessoal! E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Recurso é o meio voluntário de impugnação, dentro do mesmo processo, que busca reformar, invalidar, esclarecer ou integrar uma decisão. O sistema trabalhista foi desenhado para a celeridade: poucos recursos, prazo unificado, efeito suspensivo como exceção e nenhum recurso imediato contra interlocutória.
 THALITA: Quais são os recursos da CLT?
 FRANCISCA: O artigo oitocentos e noventa e três enumera embargos, recurso ordinário, recurso de revista e agravo. A eles somam-se os embargos de declaração, artigo oitocentos e noventa e sete-A, o recurso extraordinário, artigo cento e dois, inciso terceiro, da Constituição, e, por aplicação subsidiária do CPC, o agravo interno.
-BRUNO: O prazo geral é de oito dias para interpor e contra-arrazoar, Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, artigo sexto. As exceções que a FCC adora: embargos de declaração, cinco dias; recurso extraordinário, quinze dias; revisão do valor da causa, quarenta e oito horas.
-THALITA: Oito dias é a regra geral. Cinco dias para embargos de declaração, quinze para o recurso extraordinário e quarenta e oito horas para a revisão do valor da causa. Vou montar uma musiquinha com esses números, porque a gente confunde muito na hora da prova.
-ANTONIO: E o efeito-regra, artigo oitocentos e noventa e nove: os recursos têm efeito somente devolutivo, permitida a execução provisória até a penhora. O efeito suspensivo é exceção e depende de requerimento ao tribunal, Súmula quatrocentos e quatorze, item primeiro.
-
+THALITA: O prazo geral é de oito dias para interpor e contra-arrazoar, Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, artigo sexto. As exceções que a FCC adora: embargos de declaração, cinco dias; recurso extraordinário, quinze dias; revisão do valor da causa, quarenta e oito horas.
+FRANCISCA: Oito dias é a regra geral. Cinco dias para embargos de declaração, quinze para o recurso extraordinário e quarenta e oito horas para a revisão do valor da causa. Vou montar uma musiquinha com esses números, porque a gente confunde muito na hora da prova.
+THALITA: E o efeito-regra, artigo oitocentos e noventa e nove: os recursos têm efeito somente devolutivo, permitida a execução provisória até a penhora. O efeito suspensivo é exceção e depende de requerimento ao tribunal, Súmula quatrocentos e quatorze, item primeiro.
 == SLIDE: Princípios recursais
 * Duplo grau: causas de alçada, até 2 salários mínimos, sem recurso
 * Taxatividade e unirrecorribilidade
@@ -22,40 +19,38 @@ ANTONIO: E o efeito-regra, artigo oitocentos e noventa e nove: os recursos têm 
 * Voluntariedade, reformatio in pejus e dialeticidade
 FRANCISCA: Princípios recursais. Duplo grau: garante, em regra, o reexame por órgão superior, mas não é absoluto. Há causas de alçada, de até dois salários mínimos, sem recurso, salvo matéria constitucional, Lei cinco mil quinhentos e oitenta e quatro, artigo segundo, parágrafos terceiro e quarto, e Súmula trezentos e cinquenta e seis.
 THALITA: Taxatividade é o quê?
-BRUNO: Só é recurso o que a lei federal prevê. Correição parcial e pedido de revisão não são recursos em sentido estrito. Unirrecorribilidade: para cada decisão, um único recurso adequado. Mas os embargos de declaração convivem com o recurso seguinte.
-ANTONIO: Fungibilidade: o recurso errado pode ser recebido como o correto, desde que haja dúvida objetiva, ausência de erro grosseiro e respeito ao prazo do recurso cabível.
-THALITA: Então o macete é D-E-P: dúvida, erro grosseiro ausente e prazo.
-FRANCISCA: Exatamente. Exemplos do TST. Recurso ordinário contra decisão monocrática que indefere inicial de ação rescisória ou mandado de segurança no TRT pode ser recebido como agravo, OJ sessenta e nove da SDI-2. Embargos de declaração contra decisão monocrática do relator que pedem na verdade reforma convertem-se em agravo interno, com cinco dias para complementar as razões, Súmula quatrocentos e vinte e um, item segundo.
-BRUNO: Agravo contra decisão colegiada é erro grosseiro, OJ quatrocentos e doze da SDI-1. Não se aplica fungibilidade.
-ANTONIO: Outros princípios: voluntariedade, com possibilidade de desistência sem anuência do recorrido, e o reexame necessário não é recurso. Proibição da reformatio in pejus: o recorrente não pode ter a situação piorada pelo próprio recurso, salvo matéria de ordem pública. E dialeticidade: as razões devem atacar os fundamentos da decisão, com mitigação no recurso ordinário, Súmula quatrocentos e vinte e dois, item terceiro.
-
+FRANCISCA: Só é recurso o que a lei federal prevê. Correição parcial e pedido de revisão não são recursos em sentido estrito. Unirrecorribilidade: para cada decisão, um único recurso adequado. Mas os embargos de declaração convivem com o recurso seguinte.
+THALITA: Fungibilidade: o recurso errado pode ser recebido como o correto, desde que haja dúvida objetiva, ausência de erro grosseiro e respeito ao prazo do recurso cabível.
+FRANCISCA: Então o macete é D-E-P: dúvida, erro grosseiro ausente e prazo.
+THALITA: Exatamente. Exemplos do TST. Recurso ordinário contra decisão monocrática que indefere inicial de ação rescisória ou mandado de segurança no TRT pode ser recebido como agravo, OJ sessenta e nove da SDI-2. Embargos de declaração contra decisão monocrática do relator que pedem na verdade reforma convertem-se em agravo interno, com cinco dias para complementar as razões, Súmula quatrocentos e vinte e um, item segundo.
+FRANCISCA: Agravo contra decisão colegiada é erro grosseiro, OJ quatrocentos e doze da SDI-1. Não se aplica fungibilidade.
+THALITA: Outros princípios: voluntariedade, com possibilidade de desistência sem anuência do recorrido, e o reexame necessário não é recurso. Proibição da reformatio in pejus: o recorrente não pode ter a situação piorada pelo próprio recurso, salvo matéria de ordem pública. E dialeticidade: as razões devem atacar os fundamentos da decisão, com mitigação no recurso ordinário, Súmula quatrocentos e vinte e dois, item terceiro.
 == SLIDE: Súmula 214: interlocutórias
 * Regra: interlocutória não admite recurso imediato (art. 893, §1º)
 * a) TRT contrária a súmula ou OJ do TST
 * b) decisão impugnável por recurso para o mesmo tribunal
 * c) exceção de incompetência territorial acolhida, remessa a TRT distinto
 * Protesto na primeira oportunidade (art. 795)
-BRUNO: Súmula duzentos e catorze do TST: a FCC adora. Regra: a decisão interlocutória não admite recurso imediato, artigo oitocentos e noventa e três, parágrafo primeiro. Exceções, memorize as três: primeira, decisão de TRT contrária a súmula ou OJ do TST. Segunda, decisão impugnável por recurso para o mesmo tribunal, como agravo interno contra decisão monocrática do relator. Terceira, decisão que acolhe exceção de incompetência territorial e remete os autos a TRT distinto.
+FRANCISCA: Súmula duzentos e catorze do TST: a FCC adora. Regra: a decisão interlocutória não admite recurso imediato, artigo oitocentos e noventa e três, parágrafo primeiro. Exceções, memorize as três: primeira, decisão de TRT contrária a súmula ou OJ do TST. Segunda, decisão impugnável por recurso para o mesmo tribunal, como agravo interno contra decisão monocrática do relator. Terceira, decisão que acolhe exceção de incompetência territorial e remete os autos a TRT distinto.
 THALITA: Dá um exemplo da terceira?
 FRANCISCA: Juiz da Vara de Belém, do TRT da oitava região, acolhe incompetência territorial e remete os autos para Fortaleza, do TRT da sétima região. Cabe recurso ordinário imediatamente. Já se a Vara de Belém remete os autos à Vara de Ananindeua, mesmo Regional, não cabe recurso: é interlocutória comum.
-ANTONIO: Outro caso: TRT anula a sentença e determina o retorno à Vara contrariando súmula do TST. Cabe recurso de revista, hipótese a. Já se o juiz indefere oitiva de testemunha, não cabe recurso: protesto em audiência e alegação no recurso ordinário.
-BRUNO: E a tutela provisória antes da sentença não tem recurso; cabe mandado de segurança, Súmula quatrocentos e catorze, item segundo.
+THALITA: Outro caso: TRT anula a sentença e determina o retorno à Vara contrariando súmula do TST. Cabe recurso de revista, hipótese a. Já se o juiz indefere oitiva de testemunha, não cabe recurso: protesto em audiência e alegação no recurso ordinário.
+FRANCISCA: E a tutela provisória antes da sentença não tem recurso; cabe mandado de segurança, Súmula quatrocentos e catorze, item segundo.
 THALITA: Então se a parte não reclamar na hora, perde o direito de discutir depois? Importante: o protesto! Vou lembrar assim: interlocutória, só com protesto na primeira oportunidade, e depois discute no recurso da decisão final.
 FRANCISCA: Isso. A parte deve consignar protesto contra a interlocutória na primeira oportunidade, artigo setecentos e noventa e cinco, para evitar preclusão e poder discutir no recurso contra a decisão final.
-BRUNO: Pegadinha: dizer que cabe recurso imediato contra qualquer decisão sobre incompetência. Só quando acolhida a territorial e remetidos os autos a TRT distinto.
-
+THALITA: Pegadinha: dizer que cabe recurso imediato contra qualquer decisão sobre incompetência. Só quando acolhida a territorial e remetidos os autos a TRT distinto.
 == SLIDE: Efeitos dos recursos e Súmula 414
 * Devolutivo: extensão e profundidade
 * Suspensivo: excepcional, por requerimento
 * Translativo, expansivo, regressivo, substitutivo e interruptivo
 * Súmula 414: tutela na sentença, recurso ordinário
-ANTONIO: Efeitos dos recursos. Devolutivo: transfere ao tribunal a matéria impugnada, extensão, e todos os fundamentos ligados a ela, profundidade, Súmula trezentos e noventa e três, item primeiro, no recurso ordinário. Suspensivo: impede a eficácia imediata da decisão, é excepcional e depende de requerimento ao tribunal, relator ou presidente ou vice do tribunal recorrido.
+FRANCISCA: Efeitos dos recursos. Devolutivo: transfere ao tribunal a matéria impugnada, extensão, e todos os fundamentos ligados a ela, profundidade, Súmula trezentos e noventa e três, item primeiro, no recurso ordinário. Suspensivo: impede a eficácia imediata da decisão, é excepcional e depende de requerimento ao tribunal, relator ou presidente ou vice do tribunal recorrido.
 THALITA: E os outros efeitos? Tem tanto nome.
 FRANCISCA: Translativo: permite conhecer de ofício matérias de ordem públicas, relativizado nos recursos de natureza extraordinária, que exigem prequestionamento. Expansivo: atinge outros atos ou sujeitos, como o depósito de um condenado solidário que aproveita aos demais, Súmula cento e vinte e oito, item terceiro. Regressivo: permite que o próprio prolator reconsidere. Substitutivo: o acórdão substitui a decisão recorrida. Interruptivo: os embargos de declaração interrompem o prazo dos demais.
-BRUNO: Súmula quatrocentos e catorze, síntese: a tutela provisória concedida na sentença é atacada pelo recurso ordinário, não por mandado de segurança, e para obter efeito suspensivo a parte requer ao tribunal. Se a tutela foi concedida antes da sentença, cabe mandado de segurança, que perde o objeto com a sentença.
-THALITA: Dá exemplo?
-ANTONIO: A Vara condena a Alfa Limitada a reintegrar Carla, com tutela de urgência concedida na própria sentença. A Alfa interpõe recurso ordinário e, querendo suspender a reintegração, faz requerimento de efeito suspensivo ao TRT. Impetrar mandado de segurança seria via inadequada.
+THALITA: Súmula quatrocentos e catorze, síntese: a tutela provisória concedida na sentença é atacada pelo recurso ordinário, não por mandado de segurança, e para obter efeito suspensivo a parte requer ao tribunal. Se a tutela foi concedida antes da sentença, cabe mandado de segurança, que perde o objeto com a sentença.
+FRANCISCA: Dá exemplo?
+THALITA: A Vara condena a Alfa Limitada a reintegrar Carla, com tutela de urgência concedida na própria sentença. A Alfa interpõe recurso ordinário e, querendo suspender a reintegração, faz requerimento de efeito suspensivo ao TRT. Impetrar mandado de segurança seria via inadequada.
 FRANCISCA: O artigo oitocentos e noventa e nove fala em simples petição, mas a jurisprudência exige fundamentação, Súmula quatrocentos e vinte e dois.
-BRUNO: Pegadinha: dizer que o recurso trabalhista tem, como regra, efeito suspensivo. É o contrário: meramente devolutivo.
-THALITA: E o próximo passo é saber quando o recurso pode ser conhecido: os pressupostos de admissibilidade.
-ANTONIO: Exato. É o que veremos a seguir.
+THALITA: Pegadinha: dizer que o recurso trabalhista tem, como regra, efeito suspensivo. É o contrário: meramente devolutivo.
+FRANCISCA: E o próximo passo é saber quando o recurso pode ser conhecido: os pressupostos de admissibilidade.
+THALITA: Exato. É o que veremos a seguir.

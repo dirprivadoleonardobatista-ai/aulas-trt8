@@ -4,46 +4,43 @@ SEGMENTO s201
 * Prazo indeterminado: devidas até o ingresso na execução (art. 892)
 * Exemplo: acordo de 12 parcelas de R$ 1.000
 * Pensão vitalícia: até o ingresso, depois mês a mês
-ANTONIO: Terminamos os títulos e a execução provisória. Agora as execuções especiais, a começar pelas prestações sucessivas, artigos oitocentos e noventa a oitocentos e noventa e dois. Nas prestações sucessivas por tempo determinado, o não pagamento de uma prestação faz a execução compreender as que lhe sucederem, artigo oitocentos e noventa e um.
+FRANCISCA: Terminamos os títulos e a execução provisória. Agora as execuções especiais, a começar pelas prestações sucessivas, artigos oitocentos e noventa a oitocentos e noventa e dois. Nas prestações sucessivas por tempo determinado, o não pagamento de uma prestação faz a execução compreender as que lhe sucederem, artigo oitocentos e noventa e um.
 THALITA: Ou seja, vencimento antecipado das parcelas seguintes?
 FRANCISCA: Isso. Exemplo da apostila: acordo de doze parcelas de mil reais. A Beta S.A. paga três e deixa de pagar a quarta. Executam-se a quarta e as oito seguintes, nove mil reais, mais a cláusula penal prevista.
-BRUNO: E no tempo indeterminado, artigo oitocentos e noventa e dois, a execução compreende inicialmente as prestações devidas até a data do ingresso na execução. Cuidado com a pegadinha: não é até o ajuizamento da reclamação, é até o ingresso na execução.
-THALITA: E as que vencerem depois?
-ANTONIO: Executam-se à medida que vencerem. É o caso da pensão mensal vitalícia: executa-se até a data do ingresso e, depois, mês a mês.
+THALITA: E no tempo indeterminado, artigo oitocentos e noventa e dois, a execução compreende inicialmente as prestações devidas até a data do ingresso na execução. Cuidado com a pegadinha: não é até o ajuizamento da reclamação, é até o ingresso na execução.
+FRANCISCA: E as que vencerem depois?
+THALITA: Executam-se à medida que vencerem. É o caso da pensão mensal vitalícia: executa-se até a data do ingresso e, depois, mês a mês.
 FRANCISCA: Resumindo: determinado, vence tudo; indeterminado, só o que venceu até o ingresso na execução.
 THALITA: Macete: determinado, antecipado; indeterminado, vencido até o ingresso.
-BRUNO: A FCC troca as duas hipóteses. Se a alternativa disser que no prazo indeterminado todas as prestações vencem antecipadamente, está errada. Isso é para o prazo determinado.
-
+FRANCISCA: A FCC troca as duas hipóteses. Se a alternativa disser que no prazo indeterminado todas as prestações vencem antecipadamente, está errada. Isso é para o prazo determinado.
 == SLIDE: Fazenda Pública: impugnação, RPV e precatório
 * Bens públicos impenhoráveis: intimação para impugnar em 30 dias, sem garantia
 * RPV: União 60 SM; Estados e DF 40 SM; Municípios 30 SM
 * Precatório: apresentado até 2 de abril, pago até o fim do exercício seguinte
 * SELIC única (EC 113/2021); conferir EC 136/2025
-ANTONIO: Fazenda Pública. Bens públicos são impenhoráveis, então a Fazenda não é citada para pagar em quarenta e oito horas. Ela é intimada para impugnar em trinta dias, sem garantia, pelo artigo quinhentos e trinta e cinco do Código de Processo Civil e pelo artigo primeiro-B da Lei nove mil quatrocentos e noventa e quatro, de mil novecentos e noventa e sete.
-THALITA: Trinta dias contra cinco dias do executado comum?
-FRANCISCA: Isso. E a matéria extintiva, como pagamento, compensação e prescrição, só pode ser alegada se superveniente ao trânsito em julgado. A apostila ressalta que a constitucionalidade desse artigo foi discutida na ADC onze, mas na prática vale o prazo de trinta dias. Confira o desfecho atual.
-BRUNO: Agora os tetos da requisição de pequeno valor. União: até sessenta salários mínimos. Estados e Distrito Federal: até quarenta, salvo lei própria. Municípios: até trinta, salvo lei própria. Acima disso, precatório.
+THALITA: Fazenda Pública. Bens públicos são impenhoráveis, então a Fazenda não é citada para pagar em quarenta e oito horas. Ela é intimada para impugnar em trinta dias, sem garantia, pelo artigo quinhentos e trinta e cinco do Código de Processo Civil e pelo artigo primeiro-B da Lei nove mil quatrocentos e noventa e quatro, de mil novecentos e noventa e sete.
+FRANCISCA: Trinta dias contra cinco dias do executado comum?
+THALITA: Isso. E a matéria extintiva, como pagamento, compensação e prescrição, só pode ser alegada se superveniente ao trânsito em julgado. A apostila ressalta que a constitucionalidade desse artigo foi discutida na ADC onze, mas na prática vale o prazo de trinta dias. Confira o desfecho atual.
+FRANCISCA: Agora os tetos da requisição de pequeno valor. União: até sessenta salários mínimos. Estados e Distrito Federal: até quarenta, salvo lei própria. Municípios: até trinta, salvo lei própria. Acima disso, precatório.
 THALITA: Quando paga a RPV?
 FRANCISCA: Em dois meses da requisição. O precatório é apresentado até dois de abril e pago até o fim do exercício seguinte, artigo cem, parágrafo quinto, da Constituição. E é vedado fracionar o crédito para enquadrar parte como RPV, mas se admite a renúncia ao excedente.
-ANTONIO: Exemplo: município sem lei própria, salário mínimo hipotético de mil quinhentos e dezoito reais. Teto da RPV: trinta vezes isso, quarenta e cinco mil quinhentos e quarenta reais. Crédito de sessenta mil: Tereza pode renunciar a catorze mil quatrocentos e sessenta reais e receber por RPV em dois meses, ou aguardar o precatório.
-BRUNO: A Emenda Constitucional cento e treze, de dois mil e vinte e um, fixou que nas condenações da Fazenda incide uma única vez, até o pagamento, a taxa SELIC. Mas a Emenda cento e trinta e seis, de dois mil e vinte e cinco, voltou a alterar a atualização e o pagamento. Confira o artigo cem vigente.
+THALITA: Exemplo: município sem lei própria, salário mínimo hipotético de mil quinhentos e dezoito reais. Teto da RPV: trinta vezes isso, quarenta e cinco mil quinhentos e quarenta reais. Crédito de sessenta mil: Tereza pode renunciar a catorze mil quatrocentos e sessenta reais e receber por RPV em dois meses, ou aguardar o precatório.
+FRANCISCA: A Emenda Constitucional cento e treze, de dois mil e vinte e um, fixou que nas condenações da Fazenda incide uma única vez, até o pagamento, a taxa SELIC. Mas a Emenda cento e trinta e seis, de dois mil e vinte e cinco, voltou a alterar a atualização e o pagamento. Confira o artigo cem vigente.
 THALITA: Sessenta, quarenta, trinta, nessa ordem de cima para baixo: União, Estados e Distrito Federal, Municípios. E o prazo da Fazenda para impugnar é trinta dias, sem penhora. Anotei tudo, pode seguir.
-
 == SLIDE: Fazenda: jurisprudência e responsabilidade subsidiária
 * OJ 9 do Tribunal Pleno: reclamação plúrima, valor por reclamante
 * OJ 343 da SDI-1: penhora anterior à sucessão pelo ente público é válida
 * Tema 246 STF: sem transferência automática de responsabilidade
 * Tema 1118 STF (2025): ônus do autor; negligência após notificação
 * Súmula 331, V e VI, TST
-BRUNO: Duas orientações cobradas. A Orientação Jurisprudencial nove do Tribunal Pleno do TST: em reclamação plúrima, o pequeno valor é aferido pelo crédito de cada reclamante, não pelo total. E a Orientação Jurisprudencial trezentos e quarenta e três da SDI-1: é válida a penhora em bens de pessoa jurídica de direito privado feita antes da sucessão pela União ou Estado, e a execução não segue por precatório.
+FRANCISCA: Duas orientações cobradas. A Orientação Jurisprudencial nove do Tribunal Pleno do TST: em reclamação plúrima, o pequeno valor é aferido pelo crédito de cada reclamante, não pelo total. E a Orientação Jurisprudencial trezentos e quarenta e três da SDI-1: é válida a penhora em bens de pessoa jurídica de direito privado feita antes da sucessão pela União ou Estado, e a execução não segue por precatório.
 THALITA: Se cinco empregados cobram juntos, cada um é medido pelo seu crédito?
-ANTONIO: Sim. Cada reclamante, individualmente. Agora a responsabilidade subsidiária do ente público, que vem da terceirização.
-FRANCISCA: No Tema duzentos e quarenta e seis, o STF decidiu que o inadimplemento da terceirizada não transfere automaticamente a responsabilidade ao ente público. Em dois mil e vinte e cinco, o Tema mil cento e dezoito acrescentou que cabe ao autor provar a conduta negligente ou o nexo causal, e que há negligência se o ente fica inerte depois de notificação formal do descumprimento.
-THALITA: E na execução, quem paga primeiro?
-BRUNO: A devedora principal. Frustrada a execução contra ela, vai-se ao ente público, por precatório ou requisição de pequeno valor, conforme a Súmula trezentos e trinta e um, itens quinto e sexto, do TST.
-ANTONIO: Pegadinha: afirmar que o ente público responde automaticamente toda vez que a terceirizada não paga. Errado, desde o Tema duzentos e quarenta e seis.
+FRANCISCA: Sim. Cada reclamante, individualmente. Agora a responsabilidade subsidiária do ente público, que vem da terceirização.
+THALITA: No Tema duzentos e quarenta e seis, o STF decidiu que o inadimplemento da terceirizada não transfere automaticamente a responsabilidade ao ente público. Em dois mil e vinte e cinco, o Tema mil cento e dezoito acrescentou que cabe ao autor provar a conduta negligente ou o nexo causal, e que há negligência se o ente fica inerte depois de notificação formal do descumprimento.
+FRANCISCA: E na execução, quem paga primeiro?
+THALITA: A devedora principal. Frustrada a execução contra ela, vai-se ao ente público, por precatório ou requisição de pequeno valor, conforme a Súmula trezentos e trinta e um, itens quinto e sexto, do TST.
+FRANCISCA: Pegadinha: afirmar que o ente público responde automaticamente toda vez que a terceirizada não paga. Errado, desde o Tema duzentos e quarenta e seis.
 THALITA: Entendi: não é automático; o autor prova a negligência.
-
 == SLIDE: Massa falida e recuperação judicial
 * Ação trabalhista segue na JT até apurar o crédito
 * Crédito habilitado e pago no juízo universal
@@ -53,12 +50,11 @@ THALITA: Entendi: não é automático; o autor prova a negligência.
 FRANCISCA: Massa falida e recuperação judicial. Pelo artigo sexto, parágrafo segundo, da Lei onze mil e cento e um, de dois mil e cinco, a ação trabalhista prossegue na Justiça do Trabalho até a apuração do crédito. O crédito apurado é inscrito no quadro-geral de credores e pago no juízo universal.
 THALITA: Então a Justiça do Trabalho não paga direto?
 FRANCISCA: Não. Ela apura o valor. O pagamento é no juízo da falência. A execução individual fica suspensa pela falência ou pelo processamento da recuperação judicial, por cento e oitenta dias, prorrogável uma vez.
-BRUNO: Na recuperação, os atos sobre o patrimônio da recuperanda cabem ao juízo da recuperação, segundo o Tema noventa do STF. Quanto aos sócios, a apostila indica o redirecionamento via incidente de desconsideração, atingindo patrimônio fora da massa, entendimento predominante, mas confira.
-ANTONIO: Súmula oitenta e seis do TST: não há deserção de recurso da massa falida por falta de custas ou depósito. O privilégio não alcança a empresa em liquidação extrajudicial.
+THALITA: Na recuperação, os atos sobre o patrimônio da recuperanda cabem ao juízo da recuperação, segundo o Tema noventa do STF. Quanto aos sócios, a apostila indica o redirecionamento via incidente de desconsideração, atingindo patrimônio fora da massa, entendimento predominante, mas confira.
+FRANCISCA: Súmula oitenta e seis do TST: não há deserção de recurso da massa falida por falta de custas ou depósito. O privilégio não alcança a empresa em liquidação extrajudicial.
 THALITA: E a empresa em recuperação judicial?
-BRUNO: Está isenta só do depósito recursal, artigo oitocentos e noventa e nove, parágrafo décimo, e não das custas. Pegadinha de prova: dizer que a empresa em recuperação fica isenta de custas também. Errado.
-ANTONIO: Massa falida, isenta de ambos; recuperação judicial, só do depósito; liquidação extrajudicial, nem da deserção.
-
+FRANCISCA: Está isenta só do depósito recursal, artigo oitocentos e noventa e nove, parágrafo décimo, e não das custas. Pegadinha de prova: dizer que a empresa em recuperação fica isenta de custas também. Errado.
+THALITA: Massa falida, isenta de ambos; recuperação judicial, só do depósito; liquidação extrajudicial, nem da deserção.
 == SLIDE: Desconsideração da personalidade jurídica e sócio retirante
 * IDPJ: CPC arts. 133 a 137, por força do art. 855-A
 * Instauração suspende o processo, salvo tutela cautelar
@@ -68,10 +64,10 @@ ANTONIO: Massa falida, isenta de ambos; recuperação judicial, só do depósito
 FRANCISCA: Chegamos ao incidente de desconsideração da personalidade jurídica, artigo oitocentos e cinquenta e cinco-A, que aplica ao processo do trabalho os artigos cento e trinta e três a cento e trinta e sete do Código de Processo Civil. A instauração suspende o processo, sem prejuízo de tutela de urgência cautelar, como o bloqueio de bens do sócio durante o incidente.
 THALITA: Cabe recurso da decisão?
 FRANCISCA: A decisão é interlocutória. Na fase de conhecimento, não cabe recurso de imediato. Na execução, cabe agravo de petição, independentemente de garantia do juízo, que é uma exceção à lógica geral. E cabe agravo interno se a decisão for do relator em incidente instaurado originariamente no tribunal.
-BRUNO: Elementos: legitimidade da parte ou do Ministério Público, e de ofício só se a parte não tiver advogado. Cabe em todas as fases. Se o pedido vier na petição inicial, dispensa o incidente. A defesa é em quinze dias. E a desconsideração inversa segue o mesmo procedimento.
-THALITA: Qual a diferença entre a teoria maior e a menor?
-FRANCISCA: A maior, do Código Civil, exige abuso, desvio de finalidade ou confusão patrimonial. Pela menor, do Código de Defesa do Consumidor, basta que a personalidade seja obstáculo ao ressarcimento, a insolvência. A Justiça do Trabalho aplica majoritariamente a menor.
-ANTONIO: E o sócio retirante, artigo dez-A: responde subsidiariamente pelas obrigações do período em que foi sócio, somente em ações ajuizadas até dois anos depois de averbada a alteração do contrato. A ordem é: empresa devedora, sócios atuais e depois sócios retirantes. Com fraude, responde solidariamente.
-BRUNO: Pegadinhas: trocar subsidiário por solidário; contar os dois anos da saída em vez da averbação; inverter a ordem; dizer que responde por todo o passivo. Exemplo: Márcio saiu da Alfa e a averbação foi em dez de março de dois mil e vinte e três. Ação de cinco de fevereiro de dois mil e vinte e cinco o alcança. Ação de quinze de março de dois mil e vinte e cinco, não, salvo fraude.
-THALITA: Deixa eu ver se entendi o sócio retirante. Ele só responde pelo período em que foi sócio, só se a ação for ajuizada em até dois anos contados da averbação, e depois da empresa e dos sócios atuais. Se houver fraude, todos respondem juntos. Macete: período, dois anos da averbação e ordem de preferência. É isso mesmo, professores?
-ANTONIO: Pronto. Na sequência, vamos tratar da citação, do pagamento, da garantia da execução, da penhora e da avaliação, o núcleo da atividade do Oficial de Justiça.
+THALITA: Elementos: legitimidade da parte ou do Ministério Público, e de ofício só se a parte não tiver advogado. Cabe em todas as fases. Se o pedido vier na petição inicial, dispensa o incidente. A defesa é em quinze dias. E a desconsideração inversa segue o mesmo procedimento.
+FRANCISCA: Qual a diferença entre a teoria maior e a menor?
+THALITA: A maior, do Código Civil, exige abuso, desvio de finalidade ou confusão patrimonial. Pela menor, do Código de Defesa do Consumidor, basta que a personalidade seja obstáculo ao ressarcimento, a insolvência. A Justiça do Trabalho aplica majoritariamente a menor.
+FRANCISCA: E o sócio retirante, artigo dez-A: responde subsidiariamente pelas obrigações do período em que foi sócio, somente em ações ajuizadas até dois anos depois de averbada a alteração do contrato. A ordem é: empresa devedora, sócios atuais e depois sócios retirantes. Com fraude, responde solidariamente.
+THALITA: Pegadinhas: trocar subsidiário por solidário; contar os dois anos da saída em vez da averbação; inverter a ordem; dizer que responde por todo o passivo. Exemplo: Márcio saiu da Alfa e a averbação foi em dez de março de dois mil e vinte e três. Ação de cinco de fevereiro de dois mil e vinte e cinco o alcança. Ação de quinze de março de dois mil e vinte e cinco, não, salvo fraude.
+FRANCISCA: Deixa eu ver se entendi o sócio retirante. Ele só responde pelo período em que foi sócio, só se a ação for ajuizada em até dois anos contados da averbação, e depois da empresa e dos sócios atuais. Se houver fraude, todos respondem juntos. Macete: período, dois anos da averbação e ordem de preferência. É isso mesmo, professores?
+THALITA: Pronto. Na sequência, vamos tratar da citação, do pagamento, da garantia da execução, da penhora e da avaliação, o núcleo da atividade do Oficial de Justiça.

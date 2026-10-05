@@ -4,36 +4,36 @@ SEGMENTO s101
 * EC 115/2022: direito fundamental (art. 5º, LXXIX) e competência privativa da União
 * Aplica-se se o tratamento ou a coleta ocorre no Brasil
 * Art. 4º: casos de não aplicação
-ANTONIO: Vimos o acesso à informação, que garante transparência. Agora o outro lado da moeda: a proteção dos dados da pessoa. A Lei Geral de Proteção de Dados, lei treze mil setecentos e nove, de dois mil e dezoito, protege a liberdade, a privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+FRANCISCA: Vimos o acesso à informação, que garante transparência. Agora o outro lado da moeda: a proteção dos dados da pessoa. A Lei Geral de Proteção de Dados, lei treze mil setecentos e nove, de dois mil e dezoito, protege a liberdade, a privacidade e o livre desenvolvimento da personalidade da pessoa natural.
 THALITA: Pessoa natural é gente de carne e osso, certo? Empresa não entra?
 FRANCISCA: Certo. A lei vale para o tratamento feito por pessoa física ou jurídica, de direito público ou privado, em meio físico ou digital. Mas o titular protegido é sempre a pessoa natural.
-BRUNO: E tem novidade que a FCC adora. A Emenda Constitucional cento e quinze, de dois mil e vinte e dois, transformou a proteção de dados em direito fundamental, no artigo quinto, inciso setenta e nove. E deu competência privativa à União para legislar sobre o tema, artigo vinte e dois, inciso trinta.
-THALITA: Privativa da União, não concorrente. Anotado.
-ANTONIO: Os fundamentos estão no artigo segundo. Respeito à privacidade, autodeterminação informativa, liberdade de expressão, informação, comunicação e opinião, inviolabilidade da intimidade, da honra e da imagem. Também desenvolvimento econômico, tecnológico e inovação, livre iniciativa, livre concorrência e defesa do consumidor, e por fim direitos humanos, livre desenvolvimento da personalidade, dignidade e cidadania.
-THALITA: Quanta coisa. Qual guardo primeiro?
-BRUNO: Autodeterminação informativa. É o termo mais característico e o que a banca mais usa para enfeitar alternativa.
+THALITA: E tem novidade que a FCC adora. A Emenda Constitucional cento e quinze, de dois mil e vinte e dois, transformou a proteção de dados em direito fundamental, no artigo quinto, inciso setenta e nove. E deu competência privativa à União para legislar sobre o tema, artigo vinte e dois, inciso trinta.
+FRANCISCA: Privativa da União, não concorrente. Anotado.
+THALITA: Os fundamentos estão no artigo segundo. Respeito à privacidade, autodeterminação informativa, liberdade de expressão, informação, comunicação e opinião, inviolabilidade da intimidade, da honra e da imagem. Também desenvolvimento econômico, tecnológico e inovação, livre iniciativa, livre concorrência e defesa do consumidor, e por fim direitos humanos, livre desenvolvimento da personalidade, dignidade e cidadania.
+FRANCISCA: Quanta coisa. Qual guardo primeiro?
+THALITA: Autodeterminação informativa. É o termo mais característico e o que a banca mais usa para enfeitar alternativa.
 FRANCISCA: Sobre a aplicação, artigo terceiro: vale se a operação de tratamento é feita no Brasil, ou se o tratamento visa oferecer bens ou serviços a pessoas localizadas no Brasil, ou ainda se os dados foram coletados no Brasil. Pouco importa onde fica a sede do agente.
 THALITA: Então uma empresa estrangeira que vende para brasileiros também está sujeita?
 FRANCISCA: Está. Agora o artigo quarto, quando a lei não se aplica. Uso por pessoa natural para fins exclusivamente particulares e não econômicos. Fins exclusivamente jornalísticos, artísticos ou acadêmicos, estes com ressalvas. Segurança pública, defesa nacional, segurança do Estado e persecução penal, que dependem de lei específica. E dados vindos do exterior sem compartilhamento com agentes brasileiros.
-ANTONIO: Guarde assim: fora da lei ficam o uso particular, a atividade jornalística, artística e acadêmica, e os temas de segurança do Estado e persecução penal.
-THALITA: Particular, jornalismo, segurança. Beleza, e a seguir os conceitos, que são o coração da prova.
+THALITA: Guarde assim: fora da lei ficam o uso particular, a atividade jornalística, artística e acadêmica, e os temas de segurança do Estado e persecução penal.
+FRANCISCA: Particular, jornalismo, segurança. Beleza, e a seguir os conceitos, que são o coração da prova.
 == SLIDE: Conceitos do artigo quinto, parte um
 * Dado pessoal: pessoa natural identificada ou identificável
 * Dado sensível: rol próprio; financeiro e endereço não são
 * Dado anonimizado não é dado pessoal, salvo reversão
 * Titular: sempre pessoa natural
-ANTONIO: Começando pelo dado pessoal: informação relacionada a pessoa natural identificada ou identificável.
+THALITA: Começando pelo dado pessoal: informação relacionada a pessoa natural identificada ou identificável.
 FRANCISCA: O conceito é amplo, expansionista. Basta que a pessoa possa ser identificada. Serve o CPF, a placa de veículo, o endereço de IP, a matrícula funcional. E dado de pessoa jurídica não é dado pessoal para a LGPD.
 THALITA: Então o CNPJ da empresa não é protegido por essa lei?
 FRANCISCA: Não. Pelo menos não como dado pessoal.
-BRUNO: Dado sensível é onde a banca mais pega. É o dado sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização religiosa, filosófica ou política, saúde, vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural. A pegadinha: dado financeiro e endereço não são sensíveis.
-THALITA: Ah, então se a questão disser que a renda é dado sensível, está errada?
-BRUNO: Errada. Renda e endereço são dados pessoais comuns.
-ANTONIO: Dado anonimizado é o que não permite identificar o titular, considerados os meios técnicos razoáveis no momento do tratamento. Em regra, não é dado pessoal. A exceção, no artigo doze, é quando a anonimização puder ser revertida.
-FRANCISCA: Titular é a pessoa natural a quem os dados se referem. Nunca pessoa jurídica.
-THALITA: Agora a confusão do controlador com o operador.
-ANTONIO: Controlador é a pessoa natural ou jurídica, de direito público ou privado, que toma as decisões sobre o tratamento.
-BRUNO: E a FCC inverte isso com o operador. Operador é quem realiza o tratamento em nome do controlador. Quem decide é o controlador; quem executa é o operador.
+THALITA: Dado sensível é onde a banca mais pega. É o dado sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização religiosa, filosófica ou política, saúde, vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural. A pegadinha: dado financeiro e endereço não são sensíveis.
+FRANCISCA: Ah, então se a questão disser que a renda é dado sensível, está errada?
+THALITA: Errada. Renda e endereço são dados pessoais comuns.
+FRANCISCA: Dado anonimizado é o que não permite identificar o titular, considerados os meios técnicos razoáveis no momento do tratamento. Em regra, não é dado pessoal. A exceção, no artigo doze, é quando a anonimização puder ser revertida.
+THALITA: Titular é a pessoa natural a quem os dados se referem. Nunca pessoa jurídica.
+FRANCISCA: Agora a confusão do controlador com o operador.
+THALITA: Controlador é a pessoa natural ou jurídica, de direito público ou privado, que toma as decisões sobre o tratamento.
+FRANCISCA: E a FCC inverte isso com o operador. Operador é quem realiza o tratamento em nome do controlador. Quem decide é o controlador; quem executa é o operador.
 THALITA: Macete: controlador comanda, operador opera.
 FRANCISCA: Boa. E um mesmo órgão público pode ser controlador, enquanto uma empresa contratada para hospedar os dados é operadora.
 == SLIDE: Conceitos do artigo quinto, parte dois, e a ANPD
@@ -42,18 +42,18 @@ FRANCISCA: Boa. E um mesmo órgão público pode ser controlador, enquanto uma e
 * Tratamento inclui a simples consulta
 * Consentimento: livre, informado e inequívoco
 * ANPD: autarquia especial (Lei 14.460/2022)
-ANTONIO: O encarregado é a pessoa indicada pelo controlador e pelo operador como canal de comunicação com os titulares e com a ANPD, a Autoridade Nacional de Proteção de Dados.
-THALITA: Ele é um agente de tratamento também, né?
-BRUNO: Pegadinha! Não. Agentes de tratamento são só o controlador e o operador. O encarregado fica de fora.
+THALITA: O encarregado é a pessoa indicada pelo controlador e pelo operador como canal de comunicação com os titulares e com a ANPD, a Autoridade Nacional de Proteção de Dados.
+FRANCISCA: Ele é um agente de tratamento também, né?
+THALITA: Pegadinha! Não. Agentes de tratamento são só o controlador e o operador. O encarregado fica de fora.
 FRANCISCA: Tratamento é qualquer operação com dados: coleta, uso, acesso, armazenamento, compartilhamento, eliminação e tantas outras. Inclui até a simples consulta.
 THALITA: Mesmo só olhar o dado na tela?
 FRANCISCA: Mesmo assim. Acessar já é tratar.
-ANTONIO: Consentimento é a manifestação livre, informada e inequívoca do titular, para uma finalidade determinada.
-BRUNO: E consentimento genérico é nulo, artigo oitavo, parágrafo quarto. Se vier uma autorização vaga, para qualquer finalidade, a banca dirá que vale. Não vale.
-FRANCISCA: A ANPD é a autoridade responsável por zelar, implementar e fiscalizar a lei. Sua natureza é de autarquia especial, conforme a Lei quatorze mil quatrocentos e sessenta, de dois mil e vinte e dois.
-BRUNO: Atenção a um alerta da apostila: confira se houve alteração recente na denominação ou nas atribuições da ANPD. Uma medida provisória de dois mil e vinte e cinco, relacionada à proteção de crianças no ambiente digital, mexeu nesse assunto. Vale uma conferida antes da prova.
+THALITA: Consentimento é a manifestação livre, informada e inequívoca do titular, para uma finalidade determinada.
+FRANCISCA: E consentimento genérico é nulo, artigo oitavo, parágrafo quarto. Se vier uma autorização vaga, para qualquer finalidade, a banca dirá que vale. Não vale.
+THALITA: A ANPD é a autoridade responsável por zelar, implementar e fiscalizar a lei. Sua natureza é de autarquia especial, conforme a Lei quatorze mil quatrocentos e sessenta, de dois mil e vinte e dois.
+FRANCISCA: Atenção a um alerta da apostila: confira se houve alteração recente na denominação ou nas atribuições da ANPD. Uma medida provisória de dois mil e vinte e cinco, relacionada à proteção de crianças no ambiente digital, mexeu nesse assunto. Vale uma conferida antes da prova.
 THALITA: Resumo: dado pessoal é amplo; sensível tem rol próprio; controlador decide; operador executa; encarregado é só o canal.
-ANTONIO: Perfeito. Agora os princípios.
+FRANCISCA: Perfeito. Agora os princípios.
 THALITA: Dez princípios mais a boa-fé, certo?
 FRANCISCA: Isso, e já vamos listar todos eles.
 == SLIDE: Princípios do artigo sexto e bases legais
@@ -61,53 +61,53 @@ FRANCISCA: Isso, e já vamos listar todos eles.
 * Art. 7º: 10 bases legais; art. 11: dados sensíveis
 * Sensíveis: sem legítimo interesse, sem proteção do crédito
 * Bases não têm hierarquia
-ANTONIO: Além da boa-fé, o artigo sexto traz dez princípios. Finalidade: propósitos legítimos, específicos, explícitos e informados, sendo vedado tratamento posterior incompatível. Adequação: compatibilidade com a finalidade informada. Necessidade: o mínimo necessário.
+THALITA: Além da boa-fé, o artigo sexto traz dez princípios. Finalidade: propósitos legítimos, específicos, explícitos e informados, sendo vedado tratamento posterior incompatível. Adequação: compatibilidade com a finalidade informada. Necessidade: o mínimo necessário.
 FRANCISCA: Livre acesso: consulta facilitada e gratuita sobre forma, duração e integralidade dos dados. Qualidade dos dados: exatidão, clareza, relevância e atualização. Transparência: informações claras sobre o tratamento e os agentes, respeitados os segredos comercial e industrial.
-BRUNO: Segurança: medidas técnicas e administrativas contra acessos não autorizados e incidentes. Prevenção: evitar danos. Não discriminação: vedado tratamento para fins discriminatórios ilícitos ou abusivos. E por último responsabilização e prestação de contas: demonstrar medidas eficazes de cumprimento.
-THALITA: Dez é muita coisa. Tem mnemônico?
-BRUNO: Tem: F, A, N, L, Q, T, S, P, N, R. Finalidade, Adequação, Necessidade; Livre acesso, Qualidade, Transparência; Segurança, Prevenção, Não discriminação; Responsabilização.
-ANTONIO: Agora as bases legais. O artigo sétimo traz as hipóteses para dados comuns; o artigo onze, para dados sensíveis. Consentimento: vale nos dois, mas no sensível de forma específica e destacada, para finalidades específicas.
-FRANCISCA: Obrigação legal ou regulatória do controlador, execução de políticas públicas pela administração, estudos por órgão de pesquisa, com anonimização sempre que possível, exercício regular de direitos em processo judicial, administrativo ou arbitral, proteção da vida ou da incolumidade física e tutela da saúde: todas valem nos dois artigos.
-THALITA: E o que vale só para os dados comuns?
-BRUNO: Três bases não servem como base autônoma para dado sensível. Execução de contrato a pedido do titular, legítimo interesse do controlador ou de terceiro, e proteção do crédito. E o artigo onze tem uma exclusiva: prevenção à fraude e segurança do titular em identificação e autenticação eletrônica.
-THALITA: Então a questão-padrão é: tratamento de dado sensível fundado em legítimo interesse. Errado.
-BRUNO: Errado. E também é errado dizer que o consentimento é a única ou a principal base. As bases não têm hierarquia.
+THALITA: Segurança: medidas técnicas e administrativas contra acessos não autorizados e incidentes. Prevenção: evitar danos. Não discriminação: vedado tratamento para fins discriminatórios ilícitos ou abusivos. E por último responsabilização e prestação de contas: demonstrar medidas eficazes de cumprimento.
+FRANCISCA: Dez é muita coisa. Tem mnemônico?
+THALITA: Tem: F, A, N, L, Q, T, S, P, N, R. Finalidade, Adequação, Necessidade; Livre acesso, Qualidade, Transparência; Segurança, Prevenção, Não discriminação; Responsabilização.
+FRANCISCA: Agora as bases legais. O artigo sétimo traz as hipóteses para dados comuns; o artigo onze, para dados sensíveis. Consentimento: vale nos dois, mas no sensível de forma específica e destacada, para finalidades específicas.
+THALITA: Obrigação legal ou regulatória do controlador, execução de políticas públicas pela administração, estudos por órgão de pesquisa, com anonimização sempre que possível, exercício regular de direitos em processo judicial, administrativo ou arbitral, proteção da vida ou da incolumidade física e tutela da saúde: todas valem nos dois artigos.
+FRANCISCA: E o que vale só para os dados comuns?
+THALITA: Três bases não servem como base autônoma para dado sensível. Execução de contrato a pedido do titular, legítimo interesse do controlador ou de terceiro, e proteção do crédito. E o artigo onze tem uma exclusiva: prevenção à fraude e segurança do titular em identificação e autenticação eletrônica.
+FRANCISCA: Então a questão-padrão é: tratamento de dado sensível fundado em legítimo interesse. Errado.
+THALITA: Errado. E também é errado dizer que o consentimento é a única ou a principal base. As bases não têm hierarquia.
 FRANCISCA: E o Poder Público quase sempre usa obrigação legal ou execução de políticas públicas, sem consentimento.
 == SLIDE: Direitos do titular e Poder Público
 * Art. 18: confirmação, acesso, correção, portabilidade, revogação
 * Art. 23: informar hipóteses e indicar encarregado
 * Estatais: concorrência = regime privado
 * Transferência a entes privados: vedada, com exceções
-ANTONIO: Direitos do titular, artigo dezoito. Confirmação da existência de tratamento e acesso aos dados, de forma gratuita. Correção de dados incompletos, inexatos ou desatualizados. Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou ilícitos.
+THALITA: Direitos do titular, artigo dezoito. Confirmação da existência de tratamento e acesso aos dados, de forma gratuita. Correção de dados incompletos, inexatos ou desatualizados. Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou ilícitos.
 FRANCISCA: Portabilidade a outro fornecedor, mediante requisição expressa, respeitados os segredos comercial e industrial. Eliminação dos dados tratados com consentimento, salvo as hipóteses de conservação do artigo dezesseis. Informação sobre com quem os dados foram compartilhados, entidades públicas e privadas.
 THALITA: E sobre negar o consentimento?
-ANTONIO: Também: informação sobre a possibilidade de negar consentimento e suas consequências. Mais a revogação do consentimento a qualquer tempo, por procedimento gratuito e facilitado, e a revisão de decisão automatizada, no artigo vinte.
+FRANCISCA: Também: informação sobre a possibilidade de negar consentimento e suas consequências. Mais a revogação do consentimento a qualquer tempo, por procedimento gratuito e facilitado, e a revisão de decisão automatizada, no artigo vinte.
 THALITA: Resumo: confirmar, acessar, corrigir, anonimizar, portar, eliminar, saber com quem foi compartilhado, revogar e revisar.
 FRANCISCA: Agora o tratamento pelo Poder Público, artigos vinte e três a trinta e dois. As pessoas jurídicas de direito público, as mesmas do artigo primeiro da LAI, tratam dados para cumprir sua finalidade pública e suas competências legais.
-BRUNO: Deveres do artigo vinte e três: informar publicamente, de preferência no sítio eletrônico, as hipóteses, a base legal, a finalidade e as práticas de tratamento, e indicar encarregado.
-ANTONIO: Cartórios, ou seja, serviços notariais e de registro, recebem o mesmo tratamento das pessoas jurídicas de direito público.
+THALITA: Deveres do artigo vinte e três: informar publicamente, de preferência no sítio eletrônico, as hipóteses, a base legal, a finalidade e as práticas de tratamento, e indicar encarregado.
+FRANCISCA: Cartórios, ou seja, serviços notariais e de registro, recebem o mesmo tratamento das pessoas jurídicas de direito público.
 THALITA: E as estatais?
 FRANCISCA: Empresa pública e sociedade de economia mista que atuam em concorrência seguem o regime das empresas privadas. Quando executam política pública, seguem o regime do Poder Público. É o artigo vinte e quatro.
-BRUNO: Os dados devem ser mantidos em formato estruturado para uso compartilhado, é a interoperabilidade, artigo vinte e cinco. E a transferência a entes privados é vedada, salvo execução descentralizada de atividade pública, dados acessíveis publicamente, previsão legal ou contrato ou convênio, prevenção de fraudes ou proteção do titular.
-ANTONIO: Quanto ao controle, a ANPD pode pedir informações e relatórios de impacto e enviar informe com medidas para cessar a violação.
+THALITA: Os dados devem ser mantidos em formato estruturado para uso compartilhado, é a interoperabilidade, artigo vinte e cinco. E a transferência a entes privados é vedada, salvo execução descentralizada de atividade pública, dados acessíveis publicamente, previsão legal ou contrato ou convênio, prevenção de fraudes ou proteção do titular.
+FRANCISCA: Quanto ao controle, a ANPD pode pedir informações e relatórios de impacto e enviar informe com medidas para cessar a violação.
 THALITA: Em suma: público informa, indica encarregado e só repassa ao privado nas exceções.
 == SLIDE: Segurança, responsabilidade e sanções
 * Art. 46: privacy by design; art. 48: comunicar incidente
 * Art. 42: operador responde solidariamente se descumprir a lei
 * Multa: até 2% do faturamento, teto de R$ 50 milhões por infração
 * Órgão público não sofre multa (art. 52, § 3º)
-ANTONIO: Segurança, artigo quarenta e seis: medidas técnicas e administrativas desde a concepção, a chamada privacy by design. Incidente, artigo quarenta e oito: o controlador comunica à ANPD e ao titular o incidente que possa causar risco ou dano relevante, em prazo razoável fixado pela ANPD. A apostila lembra que o regulamento fala em três dias úteis, mas convém conferir.
-FRANCISCA: Responsabilidade civil, artigo quarenta e dois: quem causar dano repara. O operador responde solidariamente se descumprir a lei ou as instruções lícitas do controlador. E as excludentes, artigo quarenta e três: não realizou o tratamento, não houve violação, ou culpa exclusiva do titular ou de terceiro.
-THALITA: Agora as sanções do artigo cinquenta e dois.
-BRUNO: Advertência, com prazo para correção. Multa simples, de até dois por cento do faturamento no Brasil no último exercício, limitada a cinquenta milhões de reais por infração. Multa diária, respeitado o mesmo teto. Publicização da infração, bloqueio e eliminação dos dados.
-ANTONIO: Ainda a suspensão parcial do funcionamento do banco de dados, por até seis meses, prorrogáveis por igual período, a suspensão da atividade de tratamento, com o mesmo prazo, e a proibição parcial ou total da atividade.
+FRANCISCA: Segurança, artigo quarenta e seis: medidas técnicas e administrativas desde a concepção, a chamada privacy by design. Incidente, artigo quarenta e oito: o controlador comunica à ANPD e ao titular o incidente que possa causar risco ou dano relevante, em prazo razoável fixado pela ANPD. A apostila lembra que o regulamento fala em três dias úteis, mas convém conferir.
+THALITA: Responsabilidade civil, artigo quarenta e dois: quem causar dano repara. O operador responde solidariamente se descumprir a lei ou as instruções lícitas do controlador. E as excludentes, artigo quarenta e três: não realizou o tratamento, não houve violação, ou culpa exclusiva do titular ou de terceiro.
+FRANCISCA: Agora as sanções do artigo cinquenta e dois.
+THALITA: Advertência, com prazo para correção. Multa simples, de até dois por cento do faturamento no Brasil no último exercício, limitada a cinquenta milhões de reais por infração. Multa diária, respeitado o mesmo teto. Publicização da infração, bloqueio e eliminação dos dados.
+FRANCISCA: Ainda a suspensão parcial do funcionamento do banco de dados, por até seis meses, prorrogáveis por igual período, a suspensão da atividade de tratamento, com o mesmo prazo, e a proibição parcial ou total da atividade.
 THALITA: E órgão público também leva multa?
-BRUNO: Essa é a pegadinha. Órgão público não sofre multa da ANPD, artigo cinquenta e dois, parágrafo terceiro. Nem a simples nem a diária. Sofre as demais sanções, sem prejuízo das leis oito mil cento e doze, de mil novecentos e noventa, oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois, e doze mil quinhentos e vinte e sete, de dois mil e onze.
-FRANCISCA: E as sanções dependem de processo administrativo com ampla defesa, aplicadas de forma gradativa, isolada ou cumulativa.
-THALITA: Dá um exemplo para fixar?
-FRANCISCA: Um hospital privado vaza prontuários, dados sensíveis de saúde, de cinco mil pacientes. O faturamento anual no Brasil é de quatro bilhões de reais. Dois por cento seriam oitenta milhões, mas o teto é cinquenta milhões por infração.
-THALITA: E se fosse um hospital estadual?
-FRANCISCA: A ANPD poderia advertir, publicizar a infração e suspender o banco de dados, mas não poderia multar.
-BRUNO: Isso cai muito: multa para público, errado.
-ANTONIO: Muito bem. Agora vamos treinar tudo isso com as questões comentadas no estilo FCC.
-THALITA: Bora errar aqui para acertar na prova!
+FRANCISCA: Essa é a pegadinha. Órgão público não sofre multa da ANPD, artigo cinquenta e dois, parágrafo terceiro. Nem a simples nem a diária. Sofre as demais sanções, sem prejuízo das leis oito mil cento e doze, de mil novecentos e noventa, oito mil quatrocentos e vinte e nove, de mil novecentos e noventa e dois, e doze mil quinhentos e vinte e sete, de dois mil e onze.
+THALITA: E as sanções dependem de processo administrativo com ampla defesa, aplicadas de forma gradativa, isolada ou cumulativa.
+FRANCISCA: Dá um exemplo para fixar?
+THALITA: Um hospital privado vaza prontuários, dados sensíveis de saúde, de cinco mil pacientes. O faturamento anual no Brasil é de quatro bilhões de reais. Dois por cento seriam oitenta milhões, mas o teto é cinquenta milhões por infração.
+FRANCISCA: E se fosse um hospital estadual?
+THALITA: A ANPD poderia advertir, publicizar a infração e suspender o banco de dados, mas não poderia multar.
+FRANCISCA: Isso cai muito: multa para público, errado.
+THALITA: Muito bem. Agora vamos treinar tudo isso com as questões comentadas no estilo FCC.
+FRANCISCA: Bora errar aqui para acertar na prova!

@@ -6,10 +6,10 @@ SEGMENTO s184
 * Reclamação escrita em 2 vias com documentos (art. 787)
 FRANCISCA: Terminamos os prazos. Agora a distribuição, artigos setecentos e oitenta e três a setecentos e oitenta e oito, onde houver mais de uma Vara. A distribuição é pela ordem rigorosa de apresentação, com registro em livro rubricado e recibo ao interessado com partes, data, objeto e Vara.
 THALITA: E a reclamação verbal?
-BRUNO: Pelo artigo setecentos e oitenta e seis, é distribuída antes de ser reduzida a termo. O reclamante tem cinco dias para comparecer e reduzi-la, salvo força maior, sob a pena do artigo setecentos e trinta e um.
-ANTONIO: Quem não comparece em cinco dias perde, por seis meses, o direito de reclamar. É a perempção provisória. A mesma pena atinge quem der causa a dois arquivamentos seguidos, artigo setecentos e trinta e dois.
-THALITA: Cinco dias e seis meses.
-BRUNO: A FCC troca por quarenta e oito horas, dez dias, um ano.
+FRANCISCA: Pelo artigo setecentos e oitenta e seis, é distribuída antes de ser reduzida a termo. O reclamante tem cinco dias para comparecer e reduzi-la, salvo força maior, sob a pena do artigo setecentos e trinta e um.
+THALITA: Quem não comparece em cinco dias perde, por seis meses, o direito de reclamar. É a perempção provisória. A mesma pena atinge quem der causa a dois arquivamentos seguidos, artigo setecentos e trinta e dois.
+FRANCISCA: Cinco dias e seis meses.
+THALITA: A FCC troca por quarenta e oito horas, dez dias, um ano.
 FRANCISCA: A reclamação escrita é em duas vias, acompanhada desde logo dos documentos em que se fundar, artigo setecentos e oitenta e sete. E o artigo setecentos e oitenta e oito manda a remessa à Vara com o bilhete de distribuição.
 THALITA: Fechei: verbal, distribui, reduz em cinco dias, ou perde seis meses.
 == SLIDE: Valor da causa e pedido líquido
@@ -17,12 +17,12 @@ THALITA: Fechei: verbal, distribui, reduz em cinco dias, ou perde seis meses.
 * § 3º: pedido sem esses requisitos é extinto sem mérito
 * IN 41/2018: valor estimado, arts. 291 a 293 CPC
 * Lei 5.584/1970, art. 2º: impugnação e revisão ao Presidente do TRT
-ANTONIO: O artigo oitocentos e quarenta, parágrafo primeiro, exige que a reclamação escrita contenha designação do juízo, qualificação das partes, breve exposição dos fatos, pedido certo, determinado e com indicação de valor, data e assinatura.
-BRUNO: O parágrafo terceiro diz que os pedidos que não atendam a isso serão julgados extintos sem resolução do mérito.
-THALITA: Então tenho de apontar o valor exato de cada pedido?
-FRANCISCA: Não exatamente. A Instrução Normativa quarenta e um do TST esclarece que o valor é estimado, observados, no que couber, os artigos duzentos e noventa e um a duzentos e noventa e três do CPC. E a SBDI-um entende que a estimativa não limita a condenação.
-ANTONIO: Quando o valor é indeterminado, pelo artigo segundo da Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, o juiz fixa o valor da causa antes da instrução, se não houver acordo.
-BRUNO: A impugnação é feita em razões finais. Mantido o valor, cabe pedido de revisão ao Presidente do TRT em quarenta e oito horas, sem efeito suspensivo, julgado também em quarenta e oito horas.
+FRANCISCA: O artigo oitocentos e quarenta, parágrafo primeiro, exige que a reclamação escrita contenha designação do juízo, qualificação das partes, breve exposição dos fatos, pedido certo, determinado e com indicação de valor, data e assinatura.
+THALITA: O parágrafo terceiro diz que os pedidos que não atendam a isso serão julgados extintos sem resolução do mérito.
+FRANCISCA: Então tenho de apontar o valor exato de cada pedido?
+THALITA: Não exatamente. A Instrução Normativa quarenta e um do TST esclarece que o valor é estimado, observados, no que couber, os artigos duzentos e noventa e um a duzentos e noventa e três do CPC. E a SBDI-um entende que a estimativa não limita a condenação.
+FRANCISCA: Quando o valor é indeterminado, pelo artigo segundo da Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, o juiz fixa o valor da causa antes da instrução, se não houver acordo.
+THALITA: A impugnação é feita em razões finais. Mantido o valor, cabe pedido de revisão ao Presidente do TRT em quarenta e oito horas, sem efeito suspensivo, julgado também em quarenta e oito horas.
 FRANCISCA: Para causas de até dois salários mínimos, o parágrafo terceiro dispensa o resumo dos depoimentos. E o parágrafo quarto diz que, salvo matéria constitucional, nenhum recurso cabe das sentenças de alçada, considerando-se o salário mínimo da data do ajuizamento.
 THALITA: Então a sentença de alçada só tem recurso por matéria constitucional.
 == SLIDE: Alçada, súmulas e os três ritos
@@ -30,63 +30,63 @@ THALITA: Então a sentença de alçada só tem recurso por matéria constitucion
 * Súmula 71: alçada fixada na data do ajuizamento
 * Súmula 365: não se aplica em rescisória e mandado de segurança
 * Sumário até 2; sumaríssimo até 40; ordinário acima de 40 salários mínimos
-BRUNO: Súmula trezentos e cinquenta e seis do TST: o artigo segundo, parágrafos terceiro e quarto, da Lei cinco mil quinhentos e oitenta e quatro foi recepcionado pela Constituição, sendo lícita a fixação da alçada com base no salário mínimo.
-ANTONIO: Súmula setenta e um: a alçada é fixada pelo valor da causa na data do ajuizamento, desde que não impugnado, e é inalterável no curso do processo. E a Súmula trezentos e sessenta e cinco: não se aplica alçada em ação rescisória e em mandado de segurança.
-THALITA: Agora os ritos.
-FRANCISCA: O sumário, ou de alçada, vai até dois salários mínimos, e é irrecorrível, salvo matéria constitucional. O sumaríssimo, do artigo oitocentos e cinquenta e dois-A, vai até quarenta salários mínimos, exclui a Administração direta, autárquica e fundacional, não admite citação por edital e permite até duas testemunhas.
-BRUNO: O ordinário vale acima de quarenta salários mínimos, ou quando há ente público no polo. Admite até três testemunhas, e seis no inquérito para apuração de falta grave.
+FRANCISCA: Súmula trezentos e cinquenta e seis do TST: o artigo segundo, parágrafos terceiro e quarto, da Lei cinco mil quinhentos e oitenta e quatro foi recepcionado pela Constituição, sendo lícita a fixação da alçada com base no salário mínimo.
+THALITA: Súmula setenta e um: a alçada é fixada pelo valor da causa na data do ajuizamento, desde que não impugnado, e é inalterável no curso do processo. E a Súmula trezentos e sessenta e cinco: não se aplica alçada em ação rescisória e em mandado de segurança.
+FRANCISCA: Agora os ritos.
+THALITA: O sumário, ou de alçada, vai até dois salários mínimos, e é irrecorrível, salvo matéria constitucional. O sumaríssimo, do artigo oitocentos e cinquenta e dois-A, vai até quarenta salários mínimos, exclui a Administração direta, autárquica e fundacional, não admite citação por edital e permite até duas testemunhas.
+FRANCISCA: O ordinário vale acima de quarenta salários mínimos, ou quando há ente público no polo. Admite até três testemunhas, e seis no inquérito para apuração de falta grave.
 THALITA: Macete: dois, quarenta e acima de quarenta. E testemunhas: duas no sumaríssimo, três no ordinário.
-ANTONIO: Agora o assunto seguinte: custas e emolumentos.
+FRANCISCA: Agora o assunto seguinte: custas e emolumentos.
 == SLIDE: Custas no processo de conhecimento
 * Dois por cento; mínimo de R$ 10,64; máximo de 4 vezes o teto do RGPS
 * Base: condenação ou acordo; senão, valor da causa; indeterminado, o que o juiz fixar
 * Paga o vencido, no prazo recursal; acordo em partes iguais
 * Dissídio coletivo: vencidas, solidariamente
-FRANCISCA: As custas do conhecimento, no artigo setecentos e oitenta e nove, incidem à base de dois por cento, observado o mínimo de dez reais e sessenta e quatro centavos e o máximo de quatro vezes o limite máximo dos benefícios do regime geral. O teto foi criado pela Reforma de dois mil e dezessete.
-THALITA: Dois por cento sobre o quê?
-BRUNO: Depende. Havendo acordo ou condenação, sobre o respectivo valor. Havendo extinção sem mérito ou improcedência total, sobre o valor da causa. Na procedência de ação declaratória ou constitutiva, sobre o valor da causa. E, quando o valor for indeterminado, sobre o que o juiz fixar.
-ANTONIO: A lógica: havendo valor econômico reconhecido, incide sobre ele. Não havendo, sobre o valor da causa.
-FRANCISCA: Quem paga é o vencido, depois do trânsito em julgado. Havendo recurso, pagas e comprovadas dentro do prazo recursal. No acordo, em partes iguais, se de outra forma não for convencionado. No dissídio coletivo, as vencidas respondem solidariamente. E nas ações plúrimas, sobre o valor global, Súmula trinta e seis do TST.
-THALITA: Exemplo com número, por favor!
-ANTONIO: Acordo de vinte mil reais sem cláusula sobre custas: quatrocentos reais, duzentos de cada parte. Improcedência total com valor da causa de trinta mil: seiscentos reais pelo reclamante, salvo gratuidade. Condenação de três milhões: dois por cento seriam sessenta mil, mas incide o teto, que em dois mil e vinte e cinco era de trinta e dois mil, seiscentos e vinte e nove reais e sessenta e quatro centavos.
-BRUNO: O teto do RGPS é reajustado todo ano, então confira o valor de dois mil e vinte e seis. Na prova, memorize a fórmula, e não o número. E as trocas típicas: um por cento ou três por cento, dez vezes o teto, custas do acordo pelo reclamado, ou comprovação em cinco dias após a interposição. Tudo errado.
+THALITA: As custas do conhecimento, no artigo setecentos e oitenta e nove, incidem à base de dois por cento, observado o mínimo de dez reais e sessenta e quatro centavos e o máximo de quatro vezes o limite máximo dos benefícios do regime geral. O teto foi criado pela Reforma de dois mil e dezessete.
+FRANCISCA: Dois por cento sobre o quê?
+THALITA: Depende. Havendo acordo ou condenação, sobre o respectivo valor. Havendo extinção sem mérito ou improcedência total, sobre o valor da causa. Na procedência de ação declaratória ou constitutiva, sobre o valor da causa. E, quando o valor for indeterminado, sobre o que o juiz fixar.
+FRANCISCA: A lógica: havendo valor econômico reconhecido, incide sobre ele. Não havendo, sobre o valor da causa.
+THALITA: Quem paga é o vencido, depois do trânsito em julgado. Havendo recurso, pagas e comprovadas dentro do prazo recursal. No acordo, em partes iguais, se de outra forma não for convencionado. No dissídio coletivo, as vencidas respondem solidariamente. E nas ações plúrimas, sobre o valor global, Súmula trinta e seis do TST.
+FRANCISCA: Exemplo com número, por favor!
+THALITA: Acordo de vinte mil reais sem cláusula sobre custas: quatrocentos reais, duzentos de cada parte. Improcedência total com valor da causa de trinta mil: seiscentos reais pelo reclamante, salvo gratuidade. Condenação de três milhões: dois por cento seriam sessenta mil, mas incide o teto, que em dois mil e vinte e cinco era de trinta e dois mil, seiscentos e vinte e nove reais e sessenta e quatro centavos.
+FRANCISCA: O teto do RGPS é reajustado todo ano, então confira o valor de dois mil e vinte e seis. Na prova, memorize a fórmula, e não o número. E as trocas típicas: um por cento ou três por cento, dez vezes o teto, custas do acordo pelo reclamado, ou comprovação em cinco dias após a interposição. Tudo errado.
 == SLIDE: Execução, emolumentos e isenções
 * Art. 789-A: custas na execução, do executado, ao final
 * Art. 789-B: emolumentos pagos pelo requerente
 * Art. 790-A: União, Estados, DF, Municípios e autarquias; MPT
 * Conselhos profissionais pagam; ente isento reembolsa (Súmula 25, IV)
-FRANCISCA: Na execução, o artigo setecentos e oitenta e nove-A fixa custas por ato, como arrematação, adjudicação e remição, cinco por cento até mil novecentos e quinze reais e trinta e oito centavos, e agravo de petição e embargos à execução, quarenta e quatro reais e vinte e seis centavos. São sempre do executado e pagas ao final, por isso não são pressuposto do agravo de petição.
-THALITA: E emolumentos?
-BRUNO: Certidões, cópias e autenticações, artigo setecentos e oitenta e nove-B, suportados pelo requerente. Macete: conhecimento paga o vencido, em percentual; execução paga o executado, ao final, por tabela; emolumentos paga o requerente, por tabela.
-ANTONIO: Pelo artigo setecentos e noventa-A, são isentos de custas, além dos beneficiários da justiça gratuita: a União, os Estados, o Distrito Federal, os Municípios e respectivas autarquias e fundações públicas que não explorem atividade econômica, e o Ministério Público do Trabalho.
-FRANCISCA: A isenção não alcança as entidades fiscalizadoras do exercício profissional, como CREA, CRM e CRC, que pagam custas. E o ente isento, se vencido, reembolsa as despesas antecipadas pelo vencedor, Súmula vinte e cinco, item quatro.
-THALITA: E a massa falida?
-BRUNO: A Súmula oitenta e seis: não há deserção por falta de custas ou depósito. Já a empresa em liquidação extrajudicial paga e deposita. Sociedade de economia mista, também, Súmula cento e setenta.
+THALITA: Na execução, o artigo setecentos e oitenta e nove-A fixa custas por ato, como arrematação, adjudicação e remição, cinco por cento até mil novecentos e quinze reais e trinta e oito centavos, e agravo de petição e embargos à execução, quarenta e quatro reais e vinte e seis centavos. São sempre do executado e pagas ao final, por isso não são pressuposto do agravo de petição.
+FRANCISCA: E emolumentos?
+THALITA: Certidões, cópias e autenticações, artigo setecentos e oitenta e nove-B, suportados pelo requerente. Macete: conhecimento paga o vencido, em percentual; execução paga o executado, ao final, por tabela; emolumentos paga o requerente, por tabela.
+FRANCISCA: Pelo artigo setecentos e noventa-A, são isentos de custas, além dos beneficiários da justiça gratuita: a União, os Estados, o Distrito Federal, os Municípios e respectivas autarquias e fundações públicas que não explorem atividade econômica, e o Ministério Público do Trabalho.
+THALITA: A isenção não alcança as entidades fiscalizadoras do exercício profissional, como CREA, CRM e CRC, que pagam custas. E o ente isento, se vencido, reembolsa as despesas antecipadas pelo vencedor, Súmula vinte e cinco, item quatro.
+FRANCISCA: E a massa falida?
+THALITA: A Súmula oitenta e seis: não há deserção por falta de custas ou depósito. Já a empresa em liquidação extrajudicial paga e deposita. Sociedade de economia mista, também, Súmula cento e setenta.
 FRANCISCA: Empresa em recuperação judicial paga custas, mas é isenta do depósito recursal, artigo oitocentos e noventa e nove, parágrafo décimo. A entidade filantrópica também. Já entidade sem fins lucrativos, empregador doméstico, microempreendedor individual, microempresa e empresa de pequeno porte pagam, com depósito pela metade.
 THALITA: Pegadinha: recuperação judicial isenta de custas e depósito? Errado, só do depósito.
-ANTONIO: Exato. O privilégio amplo é da massa falida.
+FRANCISCA: Exato. O privilégio amplo é da massa falida.
 == SLIDE: Revisão rápida de custas e isenções
 * Custas: dois por cento, com mínimo e teto
 * Execução: paga o executado, ao final
 * Recuperação judicial: isenta só do depósito
 * Massa falida: sem deserção (Súmula 86)
 THALITA: Deixa eu testar se aprendi. Custas do conhecimento são dois por cento, com mínimo e com teto de quatro vezes o limite do regime geral. Quem paga é o vencido, dentro do prazo do recurso, e no acordo cada parte paga metade.
-BRUNO: Certo. E na execução?
+FRANCISCA: Certo. E na execução?
 THALITA: Paga o executado, ao final, por tabela, e por isso não é pressuposto do agravo de petição. Emolumentos, o requerente. Recuperação judicial, isenta só do depósito, e massa falida, nem deserção tem.
 FRANCISCA: Muito bem! Resumo correto.
 THALITA: Só fiquei na dúvida de uma coisa: conselho profissional é isento, né, por ser autarquia?
-ANTONIO: Pegadinha, Thalita! Não é isento. Conselho de fiscalização profissional paga custas, pelo parágrafo único do artigo setecentos e noventa-A.
+FRANCISCA: Pegadinha, Thalita! Não é isento. Conselho de fiscalização profissional paga custas, pelo parágrafo único do artigo setecentos e noventa-A.
 THALITA: Então autarquia comum é isenta, mas conselho profissional paga. Agora fixei.
-ANTONIO: Perfeito.
+FRANCISCA: Perfeito.
 == SLIDE: Preparo e deserção
 * Súmula 25: vencedor que perde no 2º grau paga custas sem intimação
 * Súmula 128: depósito a cada recurso até atingir a condenação
 * OJ 140: recolhimento insuficiente, 5 dias para complementar
 * Ausência total de preparo não se confunde com diferença a menor
-BRUNO: Sobre preparo e deserção, três enunciados. Súmula vinte e cinco: o vencedor em primeiro grau que perde no segundo paga as custas da sentença independentemente de intimação, e o reembolso é devido mesmo que o vencido seja isento.
+THALITA: Sobre preparo e deserção, três enunciados. Súmula vinte e cinco: o vencedor em primeiro grau que perde no segundo paga as custas da sentença independentemente de intimação, e o reembolso é devido mesmo que o vencido seja isento.
 FRANCISCA: Súmula cento e vinte e oito: depósito integral a cada recurso, até atingir a condenação. Na condenação solidária, o depósito de um aproveita aos demais, se o depositante não pedir exclusão da lide.
 THALITA: E se eu pagar a menos?
-ANTONIO: Orientação Jurisprudencial cento e quarenta da SBDI-um: recolhimento insuficiente de custas ou depósito só gera deserção se, concedido o prazo de cinco dias do artigo mil e sete, parágrafo segundo, do CPC, o recorrente não complementar e comprovar.
-BRUNO: Atenção: a orientação trata de diferença a menor, não de ausência total de preparo.
-THALITA: Diferença a menor, cinco dias para complementar. Ausência total, deserção.
-FRANCISCA: Fechamos custas e preparo. O próximo tema é o das partes e procuradores, da massa falida e recuperação judicial, do litisconsórcio, da assistência judiciária e da justiça gratuita.
+FRANCISCA: Orientação Jurisprudencial cento e quarenta da SBDI-um: recolhimento insuficiente de custas ou depósito só gera deserção se, concedido o prazo de cinco dias do artigo mil e sete, parágrafo segundo, do CPC, o recorrente não complementar e comprovar.
+THALITA: Atenção: a orientação trata de diferença a menor, não de ausência total de preparo.
+FRANCISCA: Diferença a menor, cinco dias para complementar. Ausência total, deserção.
+THALITA: Fechamos custas e preparo. O próximo tema é o das partes e procuradores, da massa falida e recuperação judicial, do litisconsórcio, da assistência judiciária e da justiça gratuita.

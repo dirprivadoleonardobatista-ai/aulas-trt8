@@ -6,28 +6,28 @@ SEGMENTO s061
 * Inalistáveis: estrangeiros e conscritos
 FRANCISCA: Com a nacionalidade resolvida, passamos aos direitos políticos, nos artigos catorze a dezesseis. Os direitos políticos ativos são o direito de votar, a capacidade eleitoral ativa, que nasce com o alistamento. Os passivos são o direito de ser votado, a elegibilidade. Há ainda os negativos: inelegibilidades e privação, que pode ser perda ou suspensão.
 THALITA: E a cassação?
-ANTONIO: Vedada. A privação só ocorre nas hipóteses do artigo quinze. A soberania popular se exerce pelo sufrágio universal, voto direto e secreto, com valor igual para todos, e por plebiscito, referendo e iniciativa popular.
-BRUNO: Vamos à tabela do alistamento e do voto, no artigo catorze, parágrafos primeiro e segundo. Para os maiores de dezoito anos, alistamento e voto são obrigatórios. Para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito, são facultativos.
-THALITA: E quem não pode se alistar?
-FRANCISCA: Os estrangeiros e os conscritos durante o serviço militar obrigatório. São inalistáveis.
-BRUNO: Pegadinha importante. O voto é obrigatório, mas a obrigatoriedade do voto não é cláusula pétrea. O que é pétreo é o voto direto, secreto, universal e periódico, no artigo sessenta, parágrafo quarto, inciso segundo.
+FRANCISCA: Vedada. A privação só ocorre nas hipóteses do artigo quinze. A soberania popular se exerce pelo sufrágio universal, voto direto e secreto, com valor igual para todos, e por plebiscito, referendo e iniciativa popular.
+THALITA: Vamos à tabela do alistamento e do voto, no artigo catorze, parágrafos primeiro e segundo. Para os maiores de dezoito anos, alistamento e voto são obrigatórios. Para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito, são facultativos.
+FRANCISCA: E quem não pode se alistar?
+THALITA: Os estrangeiros e os conscritos durante o serviço militar obrigatório. São inalistáveis.
+FRANCISCA: Pegadinha importante. O voto é obrigatório, mas a obrigatoriedade do voto não é cláusula pétrea. O que é pétreo é o voto direto, secreto, universal e periódico, no artigo sessenta, parágrafo quarto, inciso segundo.
 THALITA: Eu achava que como o voto é obrigatório, tinha proteção pétrea.
-ANTONIO: Muita gente acha, mas não tem. Por isso, em tese, uma emenda poderia tornar o voto facultativo.
-FRANCISCA: Outra pegadinha: o analfabeto pode votar, porque o voto dele é facultativo, mas é inelegível. Pode votar, não pode ser votado.
-THALITA: Entendi. Analfabeto vota se quiser, mas não se candidata.
-BRUNO: E conscrito é inalistável: não vota durante o serviço militar obrigatório.
+FRANCISCA: Muita gente acha, mas não tem. Por isso, em tese, uma emenda poderia tornar o voto facultativo.
+THALITA: Outra pegadinha: o analfabeto pode votar, porque o voto dele é facultativo, mas é inelegível. Pode votar, não pode ser votado.
+FRANCISCA: Entendi. Analfabeto vota se quiser, mas não se candidata.
+THALITA: E conscrito é inalistável: não vota durante o serviço militar obrigatório.
 == SLIDE: Condições de elegibilidade e idades mínimas
 * Nacionalidade, plenos direitos políticos, alistamento, domicílio e filiação
 * 35 anos: Presidente, Vice e Senador
 * 30 anos: Governador e Vice
 * 21 anos: Deputado, Prefeito, juiz de paz; 18 anos: Vereador
-ANTONIO: As condições de elegibilidade estão no artigo catorze, parágrafo terceiro. Nacionalidade brasileira, e o português equiparado também pode, com reciprocidade. Pleno exercício dos direitos políticos. Alistamento eleitoral. Domicílio eleitoral na circunscrição, com prazo fixado em lei. Filiação partidária. E a idade mínima.
+FRANCISCA: As condições de elegibilidade estão no artigo catorze, parágrafo terceiro. Nacionalidade brasileira, e o português equiparado também pode, com reciprocidade. Pleno exercício dos direitos políticos. Alistamento eleitoral. Domicílio eleitoral na circunscrição, com prazo fixado em lei. Filiação partidária. E a idade mínima.
 THALITA: Filiação partidária. Então não existe candidatura avulsa?
 FRANCISCA: No sistema atual, não. É condição de elegibilidade estar filiado a partido.
-BRUNO: Agora a tabela de idades, que é decoreba pura. Trinta e cinco anos: Presidente, Vice-Presidente e Senador. Trinta anos: Governador e Vice-Governador. Vinte e um anos: Deputado Federal, Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz. Dezoito anos: Vereador.
-THALITA: Macete: de cima para baixo, trinta e cinco, trinta, vinte e um, dezoito. Senador junto com o Presidente.
-FRANCISCA: E as trocas típicas da FCC: Senador com trinta anos, errado. Prefeito com vinte e cinco ou trinta, errado, é vinte e um. Governador com trinta e cinco, errado, é trinta. Juiz de paz com dezoito ou vinte e cinco, errado, é vinte e um.
-ANTONIO: E quando se mede a idade? Pela lei das eleições, a idade é aferida na data da posse, salvo quando for de dezoito anos, que é aferida na data-limite do registro da candidatura.
+THALITA: Agora a tabela de idades, que é decoreba pura. Trinta e cinco anos: Presidente, Vice-Presidente e Senador. Trinta anos: Governador e Vice-Governador. Vinte e um anos: Deputado Federal, Estadual ou Distrital, Prefeito, Vice-Prefeito e juiz de paz. Dezoito anos: Vereador.
+FRANCISCA: Macete: de cima para baixo, trinta e cinco, trinta, vinte e um, dezoito. Senador junto com o Presidente.
+THALITA: E as trocas típicas da FCC: Senador com trinta anos, errado. Prefeito com vinte e cinco ou trinta, errado, é vinte e um. Governador com trinta e cinco, errado, é trinta. Juiz de paz com dezoito ou vinte e cinco, errado, é vinte e um.
+FRANCISCA: E quando se mede a idade? Pela lei das eleições, a idade é aferida na data da posse, salvo quando for de dezoito anos, que é aferida na data-limite do registro da candidatura.
 THALITA: Então o vereador de dezoito anos precisa ter dezoito já no registro, e os demais só precisam completar até a posse.
 FRANCISCA: Isso mesmo.
 == SLIDE: Inelegibilidades constitucionais
@@ -35,17 +35,17 @@ FRANCISCA: Isso mesmo.
 * Reeleição: um único período subsequente, só para o Executivo
 * Desincompatibilização: renúncia até 6 meses antes, para outros cargos
 * Militar e inelegibilidade legal por lei complementar
-BRUNO: Passemos às inelegibilidades constitucionais, no artigo catorze, parágrafos quarto a nono. A absoluta, do parágrafo quarto, atinge inalistáveis e analfabetos para qualquer cargo. Só a Constituição cria inelegibilidade absoluta.
-THALITA: E a reeleição?
-FRANCISCA: Parágrafo quinto: o Presidente, Governadores, Prefeitos e quem os houver sucedido ou substituído no curso do mandato podem ser reeleitos para um único período subsequente. Vale só para o Executivo. Parlamentares podem ser reeleitos indefinidamente.
-ANTONIO: O parágrafo sexto trata da desincompatibilização: para concorrer a outros cargos, os chefes do Executivo devem renunciar até seis meses antes do pleito. Para a reeleição ao mesmo cargo, não há renúncia.
+THALITA: Passemos às inelegibilidades constitucionais, no artigo catorze, parágrafos quarto a nono. A absoluta, do parágrafo quarto, atinge inalistáveis e analfabetos para qualquer cargo. Só a Constituição cria inelegibilidade absoluta.
+FRANCISCA: E a reeleição?
+THALITA: Parágrafo quinto: o Presidente, Governadores, Prefeitos e quem os houver sucedido ou substituído no curso do mandato podem ser reeleitos para um único período subsequente. Vale só para o Executivo. Parlamentares podem ser reeleitos indefinidamente.
+FRANCISCA: O parágrafo sexto trata da desincompatibilização: para concorrer a outros cargos, os chefes do Executivo devem renunciar até seis meses antes do pleito. Para a reeleição ao mesmo cargo, não há renúncia.
 THALITA: Então o prefeito que quer ser governador precisa renunciar seis meses antes, mas o que quer se reeleger prefeito, não.
 FRANCISCA: Exato. E atenção para conferir eventual emenda posterior sobre a reeleição, porque o tema já foi alvo de propostas.
-BRUNO: O parágrafo oitavo trata do militar alistável, que é elegível. Com menos de dez anos de serviço, afasta-se da atividade. Com mais de dez, é agregado pela autoridade superior e, se eleito, passa para a inatividade no ato da diplomação.
-THALITA: Mas o militar pode se filiar a partido?
-BRUNO: Não pode estar filiado enquanto na ativa. Basta o registro da candidatura.
-ANTONIO: E o parágrafo nono: lei complementar estabelecerá outros casos de inelegibilidade e os prazos de cessação, para proteger a probidade administrativa, a moralidade e a normalidade das eleições. É a Lei Complementar sessenta e quatro, de mil novecentos e noventa, alterada pela Lei Complementar cento e trinta e cinco, de dois mil e dez, a Lei da Ficha Limpa.
-BRUNO: Lei ordinária não pode criar inelegibilidade. Só lei complementar.
+THALITA: O parágrafo oitavo trata do militar alistável, que é elegível. Com menos de dez anos de serviço, afasta-se da atividade. Com mais de dez, é agregado pela autoridade superior e, se eleito, passa para a inatividade no ato da diplomação.
+FRANCISCA: Mas o militar pode se filiar a partido?
+THALITA: Não pode estar filiado enquanto na ativa. Basta o registro da candidatura.
+FRANCISCA: E o parágrafo nono: lei complementar estabelecerá outros casos de inelegibilidade e os prazos de cessação, para proteger a probidade administrativa, a moralidade e a normalidade das eleições. É a Lei Complementar sessenta e quatro, de mil novecentos e noventa, alterada pela Lei Complementar cento e trinta e cinco, de dois mil e dez, a Lei da Ficha Limpa.
+THALITA: Lei ordinária não pode criar inelegibilidade. Só lei complementar.
 == SLIDE: Inelegibilidade reflexa e ação de impugnação de mandato
 * Cônjuge e parentes até o 2º grau do titular, na jurisdição dele
 * Exceção: parente já titular de mandato e candidato à reeleição
@@ -53,45 +53,45 @@ BRUNO: Lei ordinária não pode criar inelegibilidade. Só lei complementar.
 * AIME: 15 dias da diplomação, segredo de justiça
 FRANCISCA: A inelegibilidade reflexa está no parágrafo sétimo. No território de jurisdição do titular, são inelegíveis o cônjuge e os parentes consanguíneos ou afins até o segundo grau, ou por adoção, do Presidente, do Governador, do Prefeito ou de quem os haja substituído nos seis meses anteriores à eleição.
 THALITA: Existe alguma exceção?
-ANTONIO: Sim: se o parente já for titular de mandato eletivo e candidato à reeleição.
-BRUNO: Na jurisprudência, a Súmula Vinculante dezoito diz que a dissolução da sociedade ou do vínculo conjugal no curso do mandato não afasta a inelegibilidade reflexa. Mas o Supremo afastou a aplicação da súmula quando o vínculo se extingue por morte do titular. E a inelegibilidade abrange união estável e relação homoafetiva.
-THALITA: Então se o prefeito se divorcia no meio do mandato, a ex-mulher continua inelegível?
-BRUNO: Continua, segundo a Súmula Vinculante dezoito.
+FRANCISCA: Sim: se o parente já for titular de mandato eletivo e candidato à reeleição.
+THALITA: Na jurisprudência, a Súmula Vinculante dezoito diz que a dissolução da sociedade ou do vínculo conjugal no curso do mandato não afasta a inelegibilidade reflexa. Mas o Supremo afastou a aplicação da súmula quando o vínculo se extingue por morte do titular. E a inelegibilidade abrange união estável e relação homoafetiva.
+FRANCISCA: Então se o prefeito se divorcia no meio do mandato, a ex-mulher continua inelegível?
+THALITA: Continua, segundo a Súmula Vinculante dezoito.
 FRANCISCA: Um exemplo. Márcio é Prefeito de Belém. Sua irmã, parente de segundo grau, quer ser vereadora em Belém: é inelegível, salvo se já for vereadora candidata à reeleição. E para deputada federal? A jurisdição do Prefeito é o Município. Para cargo cuja circunscrição é o Estado, a doutrina e o Tribunal Superior Eleitoral admitem a candidatura.
-ANTONIO: Mas se Márcio fosse Governador do Pará, a irmã não poderia concorrer a deputada pelo Pará, nem a vereadora em qualquer município paraense.
-THALITA: A jurisdição do titular define onde o parente fica inelegível.
-BRUNO: Agora a ação de impugnação de mandato eletivo, parágrafos dez e onze. O prazo é de quinze dias, contados da diplomação. O fundamento é abuso do poder econômico, corrupção ou fraude, com provas. Tramita em segredo de justiça, e o autor responde se agir de forma temerária ou de má-fé.
-THALITA: Quinze dias da diplomação, segredo de justiça.
+THALITA: Mas se Márcio fosse Governador do Pará, a irmã não poderia concorrer a deputada pelo Pará, nem a vereadora em qualquer município paraense.
+FRANCISCA: A jurisdição do titular define onde o parente fica inelegível.
+THALITA: Agora a ação de impugnação de mandato eletivo, parágrafos dez e onze. O prazo é de quinze dias, contados da diplomação. O fundamento é abuso do poder econômico, corrupção ou fraude, com provas. Tramita em segredo de justiça, e o autor responde se agir de forma temerária ou de má-fé.
+FRANCISCA: Quinze dias da diplomação, segredo de justiça.
 == SLIDE: Perda e suspensão dos direitos políticos e anterioridade eleitoral
 * Cassação vedada; art. 15 é taxativo
 * Perda: cancelamento da naturalização, recusa de obrigação a todos imposta
 * Suspensão: incapacidade absoluta, condenação criminal, improbidade
 * Art. 16: lei eleitoral só vale se a eleição for após um ano
-ANTONIO: O artigo quinze veda a cassação e enumera cinco hipóteses de privação. Primeira: cancelamento da naturalização por sentença transitada em julgado, que é perda. Segunda: incapacidade civil absoluta, que é suspensão. Terceira: condenação criminal transitada em julgado, enquanto durarem seus efeitos, suspensão.
+THALITA: O artigo quinze veda a cassação e enumera cinco hipóteses de privação. Primeira: cancelamento da naturalização por sentença transitada em julgado, que é perda. Segunda: incapacidade civil absoluta, que é suspensão. Terceira: condenação criminal transitada em julgado, enquanto durarem seus efeitos, suspensão.
 FRANCISCA: Quarta: recusa de cumprir obrigação a todos imposta ou prestação alternativa, do artigo quinto, inciso oito, que é perda para a maioria da doutrina, embora alguns sustentem suspensão. Confira a posição adotada pela banca. Quinta: improbidade administrativa, do artigo trinta e sete, parágrafo quarto, que é suspensão.
 THALITA: Como eu diferencio perda de suspensão?
-BRUNO: Perda é quando a pessoa deixa de ser cidadã por vínculo, como a naturalização cancelada, ou pela recusa à obrigação geral, e o retorno depende de novo ato. Suspensão é temporária e cessa sozinha com o fim da causa: a incapacidade, a pena, a sanção de improbidade.
-FRANCISCA: Na jurisprudência, a Súmula nove do Tribunal Superior Eleitoral diz que a suspensão por condenação criminal cessa com o cumprimento ou a extinção da pena, sem necessidade de reabilitação nem de prova de reparação dos danos. E o Supremo, no Tema trezentos e setenta, decidiu que a suspensão incide também quando a pena privativa de liberdade é substituída por restritiva de direitos.
-ANTONIO: E depois do Estatuto da Pessoa com Deficiência, só os menores de dezesseis anos são absolutamente incapazes, o que esvazia o inciso segundo.
+FRANCISCA: Perda é quando a pessoa deixa de ser cidadã por vínculo, como a naturalização cancelada, ou pela recusa à obrigação geral, e o retorno depende de novo ato. Suspensão é temporária e cessa sozinha com o fim da causa: a incapacidade, a pena, a sanção de improbidade.
+THALITA: Na jurisprudência, a Súmula nove do Tribunal Superior Eleitoral diz que a suspensão por condenação criminal cessa com o cumprimento ou a extinção da pena, sem necessidade de reabilitação nem de prova de reparação dos danos. E o Supremo, no Tema trezentos e setenta, decidiu que a suspensão incide também quando a pena privativa de liberdade é substituída por restritiva de direitos.
+FRANCISCA: E depois do Estatuto da Pessoa com Deficiência, só os menores de dezesseis anos são absolutamente incapazes, o que esvazia o inciso segundo.
 THALITA: Então a incapacidade absoluta praticamente não existe mais para adulto.
-BRUNO: Pois é, lembra da nossa aula de deficiência.
-FRANCISCA: Agora o artigo dezesseis: a lei que alterar o processo eleitoral entra em vigor na data de sua publicação, mas não se aplica à eleição que ocorra até um ano da data de sua vigência.
-THALITA: Quer dizer que a lei vale na hora?
-FRANCISCA: Vige de imediato, mas a eficácia para o pleito fica bloqueada se a eleição ocorrer em menos de um ano. Não há vacatio legis obrigatória. O Supremo aplicou isso à Lei Complementar cento e trinta e cinco: a Ficha Limpa não valeu para dois mil e dez. E estende a regra a mudanças bruscas de jurisprudência do Tribunal Superior Eleitoral. Para o Supremo, é garantia individual do eleitor e cláusula pétrea.
+FRANCISCA: Pois é, lembra da nossa aula de deficiência.
+THALITA: Agora o artigo dezesseis: a lei que alterar o processo eleitoral entra em vigor na data de sua publicação, mas não se aplica à eleição que ocorra até um ano da data de sua vigência.
+FRANCISCA: Quer dizer que a lei vale na hora?
+THALITA: Vige de imediato, mas a eficácia para o pleito fica bloqueada se a eleição ocorrer em menos de um ano. Não há vacatio legis obrigatória. O Supremo aplicou isso à Lei Complementar cento e trinta e cinco: a Ficha Limpa não valeu para dois mil e dez. E estende a regra a mudanças bruscas de jurisprudência do Tribunal Superior Eleitoral. Para o Supremo, é garantia individual do eleitor e cláusula pétrea.
 == SLIDE: Partidos políticos: liberdade, autonomia e fidelidade
 * Livre criação; caráter nacional; sem recursos ou subordinação estrangeira
 * Pessoa jurídica de direito privado: registro civil e depois TSE
 * Coligação só nas majoritárias; federação permitida
 * Fidelidade: perde o mandato deputado e vereador, não cargo majoritário
-BRUNO: Passemos aos partidos políticos, no artigo dezessete. É livre a criação, fusão, incorporação e extinção, resguardados a soberania, o regime democrático, o pluripartidarismo e os direitos fundamentais. Preceitos: caráter nacional; proibição de receber recursos de entidade ou governo estrangeiros ou de subordinação a eles; prestação de contas à Justiça Eleitoral; funcionamento parlamentar conforme a lei.
+FRANCISCA: Passemos aos partidos políticos, no artigo dezessete. É livre a criação, fusão, incorporação e extinção, resguardados a soberania, o regime democrático, o pluripartidarismo e os direitos fundamentais. Preceitos: caráter nacional; proibição de receber recursos de entidade ou governo estrangeiros ou de subordinação a eles; prestação de contas à Justiça Eleitoral; funcionamento parlamentar conforme a lei.
 THALITA: Qual a natureza jurídica do partido?
 FRANCISCA: Pessoa jurídica de direito privado, parágrafo segundo. Adquire personalidade pelo registro civil e depois registra o estatuto no Tribunal Superior Eleitoral. Pegadinha: não é o registro no Tribunal Superior Eleitoral que cria a personalidade.
-ANTONIO: Pela autonomia, parágrafo primeiro, o partido define sua estrutura interna, seus órgãos, e pode formar coligações apenas nas eleições majoritárias. Estão vedadas nas proporcionais, desde a Emenda Constitucional noventa e sete, de dois mil e dezessete. Não há verticalização obrigatória. Os estatutos fixam disciplina e fidelidade.
-BRUNO: Atenção: coligação para vereador ou deputado é vedada. Já a federação partidária é permitida, pela Lei catorze mil duzentos e oito, de dois mil e vinte e um, com permanência mínima de quatro anos.
+THALITA: Pela autonomia, parágrafo primeiro, o partido define sua estrutura interna, seus órgãos, e pode formar coligações apenas nas eleições majoritárias. Estão vedadas nas proporcionais, desde a Emenda Constitucional noventa e sete, de dois mil e dezessete. Não há verticalização obrigatória. Os estatutos fixam disciplina e fidelidade.
+FRANCISCA: Atenção: coligação para vereador ou deputado é vedada. Já a federação partidária é permitida, pela Lei catorze mil duzentos e oito, de dois mil e vinte e um, com permanência mínima de quatro anos.
 THALITA: E o partido pode ter organização paramilitar?
 FRANCISCA: Não. O parágrafo quarto veda. Agora a fidelidade, no parágrafo sexto, com a Emenda Constitucional cento e onze, de dois mil e vinte e um: deputados e vereadores que se desligarem do partido perdem o mandato, salvo anuência do partido ou justa causa prevista em lei.
-BRUNO: E a fidelidade não alcança cargos majoritários, segundo o Supremo, na ADI cinco mil e oitenta e um. Justa causa na lei dos partidos, artigo vinte e dois A: desvio do programa, grave discriminação pessoal e janela partidária de trinta dias.
-ANTONIO: Quanto à participação feminina, parágrafos sétimo e oitavo, com a Emenda cento e dezessete, de dois mil e vinte e dois: mínimo de cinco por cento do fundo partidário em programas para mulheres, e mínimo de trinta por cento dos recursos de campanha e do tempo de propaganda para candidatas, proporcional ao número delas. Confira os acréscimos da Emenda cento e trinta e três, de dois mil e vinte e quatro, sobre pessoas pretas e pardas.
+THALITA: E a fidelidade não alcança cargos majoritários, segundo o Supremo, na ADI cinco mil e oitenta e um. Justa causa na lei dos partidos, artigo vinte e dois A: desvio do programa, grave discriminação pessoal e janela partidária de trinta dias.
+FRANCISCA: Quanto à participação feminina, parágrafos sétimo e oitavo, com a Emenda cento e dezessete, de dois mil e vinte e dois: mínimo de cinco por cento do fundo partidário em programas para mulheres, e mínimo de trinta por cento dos recursos de campanha e do tempo de propaganda para candidatas, proporcional ao número delas. Confira os acréscimos da Emenda cento e trinta e três, de dois mil e vinte e quatro, sobre pessoas pretas e pardas.
 THALITA: Cinco por cento do fundo, trinta por cento da campanha.
 == SLIDE: Cláusula de barreira ou de desempenho
 * Acesso ao fundo partidário e ao tempo gratuito de rádio e TV
@@ -100,10 +100,10 @@ THALITA: Cinco por cento do fundo, trinta por cento da campanha.
 * Eleito por partido que não atingiu pode migrar sem perda do mandato
 FRANCISCA: Por fim, a cláusula de barreira, ou de desempenho, nos parágrafos terceiro e quinto do artigo dezessete. Só têm acesso ao fundo partidário e ao tempo gratuito de rádio e televisão os partidos que atingirem, alternativamente, um dos requisitos. A regra definitiva vale a partir da legislatura seguinte às eleições de dois mil e trinta.
 THALITA: Quais são os requisitos?
-BRUNO: Primeiro, no mínimo três por cento dos votos válidos para a Câmara dos Deputados, distribuídos em pelo menos um terço das unidades da Federação, com no mínimo dois por cento em cada uma. Ou segundo, pelo menos quinze deputados federais eleitos, distribuídos em pelo menos um terço das unidades da Federação.
-ANTONIO: Na transição, pela Emenda noventa e sete, em dois mil e dezoito eram um e meio por cento dos votos e nove deputados. Em dois mil e vinte e dois, dois por cento e onze deputados. Em dois mil e vinte e seis, dois e meio por cento, com um e meio por cento em cada unidade, e treze deputados. Em dois mil e trinta, três por cento e quinze deputados.
-THALITA: Os deputados sobem de dois em dois: nove, onze, treze, quinze.
-FRANCISCA: Bom macete. E o parágrafo quinto garante ao eleito por partido que não superou a cláusula a manutenção do mandato e a faculdade de se filiar a outro partido que a tenha superado, sem perda do mandato.
-BRUNO: Mas essa migração não conta para a divisão do fundo partidário nem do tempo de rádio e televisão. E a cláusula não impede o funcionamento do partido nem a posse dos eleitos. Restringe apenas recursos e propaganda.
+FRANCISCA: Primeiro, no mínimo três por cento dos votos válidos para a Câmara dos Deputados, distribuídos em pelo menos um terço das unidades da Federação, com no mínimo dois por cento em cada uma. Ou segundo, pelo menos quinze deputados federais eleitos, distribuídos em pelo menos um terço das unidades da Federação.
+THALITA: Na transição, pela Emenda noventa e sete, em dois mil e dezoito eram um e meio por cento dos votos e nove deputados. Em dois mil e vinte e dois, dois por cento e onze deputados. Em dois mil e vinte e seis, dois e meio por cento, com um e meio por cento em cada unidade, e treze deputados. Em dois mil e trinta, três por cento e quinze deputados.
+FRANCISCA: Os deputados sobem de dois em dois: nove, onze, treze, quinze.
+THALITA: Bom macete. E o parágrafo quinto garante ao eleito por partido que não superou a cláusula a manutenção do mandato e a faculdade de se filiar a outro partido que a tenha superado, sem perda do mandato.
+FRANCISCA: Mas essa migração não conta para a divisão do fundo partidário nem do tempo de rádio e televisão. E a cláusula não impede o funcionamento do partido nem a posse dos eleitos. Restringe apenas recursos e propaganda.
 THALITA: Então partido que não passa na barreira continua existindo, só perde dinheiro e tempo de propaganda.
-ANTONIO: Exatamente. Com a teoria de direitos políticos pronta, vamos à parte prática da aula: as questões comentadas estilo FCC.
+FRANCISCA: Exatamente. Com a teoria de direitos políticos pronta, vamos à parte prática da aula: as questões comentadas estilo FCC.

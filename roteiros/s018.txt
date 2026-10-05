@@ -4,28 +4,28 @@ SEGMENTO s018
 * Em problemas de média, trabalhe com a soma
 * Amplitude, desvio médio, variância e desvio padrão
 * Somar constante desloca a média e não altera a dispersão
-ANTONIO: Depois de proporção e porcentagem, entramos em estatística descritiva e leitura de gráficos. Começamos pelas medidas de posição: média, moda e mediana.
-FRANCISCA: A média simples é a soma dos valores dividida pela quantidade, e é sensível a valores extremos. A ponderada é a soma de cada valor vezes seu peso, dividida pela soma dos pesos. Notas seis, sete e oito, com pesos dois, três e cinco, dão setenta e três sobre dez, sete vírgula três, enquanto a média simples seria sete.
-THALITA: E quando eu uso a ponderada?
-BRUNO: Sempre que juntar grupos de tamanhos diferentes. Turma de vinte alunos com média sete e turma de trinta com média oito: a média geral é trezentos e oitenta sobre cinquenta, sete vírgula seis. A média das médias, sete vírgula cinco, é o erro da alternativa.
-ANTONIO: Moda é o valor mais frequente, pode haver mais de uma, ou nenhuma. Mediana é o valor central do rol ordenado, e com quantidade par é a média dos dois centrais. Ordene antes, e ela não é afetada por extremos.
-FRANCISCA: Uma dica para os problemas: trabalhe com a soma, que é média vezes quantidade. A média de dez números é quinze, soma cento e cinquenta. Acrescentando vinte e seis, são cento e setenta e seis sobre onze, dezesseis.
-THALITA: Beleza. Então, quando mudam os valores, eu refaço a soma e divido pela nova quantidade, e não pela antiga. Faz sentido, porque é a média que depende da soma, não o contrário. E as medidas de dispersão?
-BRUNO: Amplitude é maior menos menor. Desvio médio é a média dos módulos dos desvios em relação à média. Variância é a média dos quadrados dos desvios, e fica na unidade ao quadrado; na amostral, divide-se pela quantidade menos um. Desvio padrão é a raiz da variância, na mesma unidade dos dados.
-ANTONIO: Dados dois, quatro, quatro, seis e nove. Média cinco, moda quatro, mediana quatro, amplitude sete. Os desvios somam sempre zero. Desvio médio, dois. Soma dos quadrados, vinte e oito: variância populacional cinco vírgula seis, e amostral sete.
-FRANCISCA: Propriedade muito cobrada: somar uma constante a todos os valores, como um abono, desloca média, moda e mediana, mas não altera amplitude, desvio padrão nem variância. Multiplicar por uma constante multiplica a média e o desvio padrão, e a variância pelo quadrado.
+FRANCISCA: Depois de proporção e porcentagem, entramos em estatística descritiva e leitura de gráficos. Começamos pelas medidas de posição: média, moda e mediana.
+THALITA: A média simples é a soma dos valores dividida pela quantidade, e é sensível a valores extremos. A ponderada é a soma de cada valor vezes seu peso, dividida pela soma dos pesos. Notas seis, sete e oito, com pesos dois, três e cinco, dão setenta e três sobre dez, sete vírgula três, enquanto a média simples seria sete.
+FRANCISCA: E quando eu uso a ponderada?
+THALITA: Sempre que juntar grupos de tamanhos diferentes. Turma de vinte alunos com média sete e turma de trinta com média oito: a média geral é trezentos e oitenta sobre cinquenta, sete vírgula seis. A média das médias, sete vírgula cinco, é o erro da alternativa.
+FRANCISCA: Moda é o valor mais frequente, pode haver mais de uma, ou nenhuma. Mediana é o valor central do rol ordenado, e com quantidade par é a média dos dois centrais. Ordene antes, e ela não é afetada por extremos.
+THALITA: Uma dica para os problemas: trabalhe com a soma, que é média vezes quantidade. A média de dez números é quinze, soma cento e cinquenta. Acrescentando vinte e seis, são cento e setenta e seis sobre onze, dezesseis.
+FRANCISCA: Beleza. Então, quando mudam os valores, eu refaço a soma e divido pela nova quantidade, e não pela antiga. Faz sentido, porque é a média que depende da soma, não o contrário. E as medidas de dispersão?
+THALITA: Amplitude é maior menos menor. Desvio médio é a média dos módulos dos desvios em relação à média. Variância é a média dos quadrados dos desvios, e fica na unidade ao quadrado; na amostral, divide-se pela quantidade menos um. Desvio padrão é a raiz da variância, na mesma unidade dos dados.
+FRANCISCA: Dados dois, quatro, quatro, seis e nove. Média cinco, moda quatro, mediana quatro, amplitude sete. Os desvios somam sempre zero. Desvio médio, dois. Soma dos quadrados, vinte e oito: variância populacional cinco vírgula seis, e amostral sete.
+THALITA: Propriedade muito cobrada: somar uma constante a todos os valores, como um abono, desloca média, moda e mediana, mas não altera amplitude, desvio padrão nem variância. Multiplicar por uma constante multiplica a média e o desvio padrão, e a variância pelo quadrado.
 == SLIDE: Tabelas de frequência e leitura de gráficos
 * Mediana: valor central dos servidores ordenados
 * Frequência acumulada mostra a posição
 * Setor: ângulo igual à fração vezes trezentos e sessenta graus
 * Antes de calcular, leia título, legenda, unidade e fonte
-THALITA: Agora tabela de frequência. Sempre me enrolo.
-BRUNO: Exemplo: faltas no mês, de zero a três, para vinte servidores, com cinco, oito, quatro e três servidores. A moda é uma falta, de maior frequência, oito. Para a mediana, são vinte servidores, os centrais são o décimo e o décimo primeiro. A acumulada mostra que as posições seis a treze valem uma falta, mediana um. A média é vinte e cinco sobre vinte, um vírgula vinte e cinco falta.
-ANTONIO: E o erro mais explorado é tomar a mediana como o centro da coluna de valores, zero, um, dois e três, que daria um e meio. A mediana é o valor central dos vinte servidores ordenados.
+FRANCISCA: Agora tabela de frequência. Sempre me enrolo.
+THALITA: Exemplo: faltas no mês, de zero a três, para vinte servidores, com cinco, oito, quatro e três servidores. A moda é uma falta, de maior frequência, oito. Para a mediana, são vinte servidores, os centrais são o décimo e o décimo primeiro. A acumulada mostra que as posições seis a treze valem uma falta, mediana um. A média é vinte e cinco sobre vinte, um vírgula vinte e cinco falta.
+FRANCISCA: E o erro mais explorado é tomar a mediana como o centro da coluna de valores, zero, um, dois e três, que daria um e meio. A mediana é o valor central dos vinte servidores ordenados.
 THALITA: Entendi. Posição pela acumulada, e não pelo valor.
 FRANCISCA: Gráficos. No de setores, o ângulo é a parte sobre o total vezes trezentos e sessenta, e um por cento vale três vírgula seis graus. Noventa graus é vinte e cinco por cento, e não noventa. Em barras, o eixo que não começa no zero exagera as diferenças. Em linhas, inclinação maior é variação absoluta maior, não necessariamente percentual.
-BRUNO: No histograma, as colunas são contíguas para classes de valores, e a área é proporcional à frequência. Com classes de amplitudes diferentes, compare áreas, não alturas. Em infográficos, cuidado com unidades, mil ou milhões, base da porcentagem e notas de rodapé.
-ANTONIO: Exemplo: gráfico de setores sobre quatrocentos processos, setor Execução com cinquenta e quatro graus. Cinquenta e quatro sobre trezentos e sessenta dá quinze por cento, que são sessenta processos. Inversamente, vinte por cento ocupa setenta e dois graus.
-FRANCISCA: Antes de calcular, leia título, legenda, unidade e fonte. A maioria se resolve com regra de três ou porcentagem simples, o difícil é extrair o número certo.
-THALITA: Perfeito. Agora vamos treinar com questões?
-ANTONIO: Vamos. No próximo bloco, a primeira parte das questões comentadas de Matemática, estilo FCC.
+THALITA: No histograma, as colunas são contíguas para classes de valores, e a área é proporcional à frequência. Com classes de amplitudes diferentes, compare áreas, não alturas. Em infográficos, cuidado com unidades, mil ou milhões, base da porcentagem e notas de rodapé.
+FRANCISCA: Exemplo: gráfico de setores sobre quatrocentos processos, setor Execução com cinquenta e quatro graus. Cinquenta e quatro sobre trezentos e sessenta dá quinze por cento, que são sessenta processos. Inversamente, vinte por cento ocupa setenta e dois graus.
+THALITA: Antes de calcular, leia título, legenda, unidade e fonte. A maioria se resolve com regra de três ou porcentagem simples, o difícil é extrair o número certo.
+FRANCISCA: Perfeito. Agora vamos treinar com questões?
+THALITA: Vamos. No próximo bloco, a primeira parte das questões comentadas de Matemática, estilo FCC.

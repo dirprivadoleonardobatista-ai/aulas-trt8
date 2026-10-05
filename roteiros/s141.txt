@@ -7,12 +7,12 @@ SEGMENTO s141
 * Responsabilidade subsidiária; quarentena de 18 meses (art. 5º-D)
 * Gabarito: E
 FRANCISCA: Vamos à segunda parte das questões. Questão oito, Analista Judiciário: sobre a prestação de serviços a terceiros na Lei seis mil e dezenove, qual alternativa está correta?
-BRUNO: A letra A: a contratante será sempre pessoa jurídica de direito privado. A letra bê: é vedada a transferência da atividade principal. A letra cê: aos empregados da prestadora é obrigatoriamente assegurado salário equivalente ao da contratante. A letra dê: a contratante responde solidariamente. A letra E: o empregado dispensado pela contratante não pode prestar-lhe serviços como empregado de prestadora antes de dezoito meses da dispensa.
-ANTONIO: Pausa para você pensar.
+THALITA: A letra A: a contratante será sempre pessoa jurídica de direito privado. A letra bê: é vedada a transferência da atividade principal. A letra cê: aos empregados da prestadora é obrigatoriamente assegurado salário equivalente ao da contratante. A letra dê: a contratante responde solidariamente. A letra E: o empregado dispensado pela contratante não pode prestar-lhe serviços como empregado de prestadora antes de dezoito meses da dispensa.
+FRANCISCA: Pausa para você pensar.
 THALITA: Eu marco a cê, porque tratamento igual parece justo.
 FRANCISCA: Justo, mas facultativo. A isonomia salarial pode ser pactuada, no artigo quarto C, parágrafo primeiro, e não é obrigatória.
-BRUNO: A letra A confunde os papéis: a contratante pode ser pessoa física ou jurídica, artigo quinto A, e a exigência de pessoa jurídica de direito privado é da prestadora, artigo quarto A. A letra bê erra porque se admite a terceirização de quaisquer atividades, inclusive a principal, conforme a ADPF trezentos e vinte e quatro e o Tema setecentos e vinte e cinco. A letra dê erra porque a responsabilidade é subsidiária.
-ANTONIO: A letra E traz a quarentena do artigo quinto D, sem exceção para aposentados, que está no quinto C. Gabarito: E.
+THALITA: A letra A confunde os papéis: a contratante pode ser pessoa física ou jurídica, artigo quinto A, e a exigência de pessoa jurídica de direito privado é da prestadora, artigo quarto A. A letra bê erra porque se admite a terceirização de quaisquer atividades, inclusive a principal, conforme a ADPF trezentos e vinte e quatro e o Tema setecentos e vinte e cinco. A letra dê erra porque a responsabilidade é subsidiária.
+FRANCISCA: A letra E traz a quarentena do artigo quinto D, sem exceção para aposentados, que está no quinto C. Gabarito: E.
 == SLIDE: Questão 9: a Administração como tomadora
 * ADC 16 e Tema 246: sem transferência automática
 * Tema 1118: culpa provada; inércia após notificação formal
@@ -20,40 +20,40 @@ ANTONIO: A letra E traz a quarentena do artigo quinto D, sem exceção para apos
 * Sem concurso, não há vínculo com o ente público
 * Gabarito: bê
 THALITA: Questão nove! Essa é de Administração Pública, que acabamos de ver.
-ANTONIO: Tereza, empregada da empresa Ômega Limpeza, prestou serviços em órgão federal. Dispensada sem receber verbas rescisórias, ajuizou ação contra a Ômega e a União.
-BRUNO: A letra A: a União responde subsidiariamente de forma automática. A letra bê: só responde se demonstrada conduta culposa na fiscalização, não bastando a inversão do ônus da prova, e, se responsabilizada, a condenação abrange todas as verbas do período. A letra cê: responde solidariamente pela contratação irregular. A letra dê: forma-se vínculo direto com a União. A letra E: nunca responde, pelo artigo setenta e um da Lei oito mil seiscentos e sessenta e seis.
+FRANCISCA: Tereza, empregada da empresa Ômega Limpeza, prestou serviços em órgão federal. Dispensada sem receber verbas rescisórias, ajuizou ação contra a Ômega e a União.
+THALITA: A letra A: a União responde subsidiariamente de forma automática. A letra bê: só responde se demonstrada conduta culposa na fiscalização, não bastando a inversão do ônus da prova, e, se responsabilizada, a condenação abrange todas as verbas do período. A letra cê: responde solidariamente pela contratação irregular. A letra dê: forma-se vínculo direto com a União. A letra E: nunca responde, pelo artigo setenta e um da Lei oito mil seiscentos e sessenta e seis.
 FRANCISCA: Pausa para pensar.
 THALITA: Eu penso na E, porque o artigo setenta e um diz que a Administração não responde.
-BRUNO: O Supremo não afastou toda responsabilidade, Thalita. Ela existe quando comprovada a culpa.
-FRANCISCA: A letra A erra porque a ADC dezesseis e o Tema duzentos e quarenta e seis vedam a transferência automática. A letra cê erra: não há solidariedade pelos encargos trabalhistas na terceirização com a Administração. A letra dê erra porque sem concurso não há vínculo com o ente público, artigo trinta e sete, inciso dois, e Súmula trezentos e trinta e um, item dois.
-ANTONIO: A letra bê é a correta: Súmula trezentos e trinta e um, itens cinco e seis, lida conforme o Tema mil cento e dezoito: culpa provada, e a inércia após notificação formal caracteriza negligência. Gabarito: bê.
+FRANCISCA: O Supremo não afastou toda responsabilidade, Thalita. Ela existe quando comprovada a culpa.
+THALITA: A letra A erra porque a ADC dezesseis e o Tema duzentos e quarenta e seis vedam a transferência automática. A letra cê erra: não há solidariedade pelos encargos trabalhistas na terceirização com a Administração. A letra dê erra porque sem concurso não há vínculo com o ente público, artigo trinta e sete, inciso dois, e Súmula trezentos e trinta e um, item dois.
+FRANCISCA: A letra bê é a correta: Súmula trezentos e trinta e um, itens cinco e seis, lida conforme o Tema mil cento e dezoito: culpa provada, e a inércia após notificação formal caracteriza negligência. Gabarito: bê.
 == SLIDE: Questão 10: direitos do trabalhador doméstico
 * Parágrafo único do art. 7º da Constituição
 * Estendidos: 13º, hora extra de 50%, licença de 120 dias, aviso prévio
 * NÃO estendido: piso salarial proporcional (inciso 5)
 * Gabarito: dê
-BRUNO: Questão dez, Técnico Judiciário, e atenção: ela pede o que NÃO é direito dos domésticos, pelo parágrafo único do artigo sétimo da Constituição.
+THALITA: Questão dez, Técnico Judiciário, e atenção: ela pede o que NÃO é direito dos domésticos, pelo parágrafo único do artigo sétimo da Constituição.
 FRANCISCA: A letra A: décimo terceiro com base na remuneração integral. A letra bê: hora extra com acréscimo mínimo de cinquenta por cento. A letra cê: licença à gestante de cento e vinte dias. A letra dê: piso salarial proporcional à extensão e à complexidade do trabalho. A letra E: aviso prévio proporcional, de no mínimo trinta dias.
-ANTONIO: Pausa para você pensar. Lembre: a questão pede a exceção.
-THALITA: Eu marco a E, porque aviso prévio proporcional parece coisa só de empregado comum.
-BRUNO: Não. O aviso prévio proporcional está no inciso vinte e um, que consta do parágrafo único. A letra E é direito do doméstico.
+THALITA: Pausa para você pensar. Lembre: a questão pede a exceção.
+FRANCISCA: Eu marco a E, porque aviso prévio proporcional parece coisa só de empregado comum.
+THALITA: Não. O aviso prévio proporcional está no inciso vinte e um, que consta do parágrafo único. A letra E é direito do doméstico.
 FRANCISCA: Também constam o décimo terceiro, no inciso oito, a hora extra, no inciso dezesseis, e a licença à gestante, no inciso dezoito. As letras A, bê e cê são direitos assegurados.
-ANTONIO: O piso salarial, do inciso cinco, não foi estendido aos domésticos. Gabarito: dê.
-THALITA: Macete: doméstico não tem piso proporcional, mas tem décimo terceiro, hora extra, licença e aviso prévio.
+THALITA: O piso salarial, do inciso cinco, não foi estendido aos domésticos. Gabarito: dê.
+FRANCISCA: Macete: doméstico não tem piso proporcional, mas tem décimo terceiro, hora extra, licença e aviso prévio.
 == SLIDE: Questão 11: o art. 8º da CLT
 * Direito comum: fonte subsidiária (§1º)
 * Súmulas não criam obrigações nem restringem direitos (§2º)
 * Convenção e acordo: intervenção mínima (§3º)
 * Meios de integração: jurisprudência, analogia, equidade
 * Gabarito: cê
-FRANCISCA: Questão onze. Nos termos do artigo oitavo da CLT, com a Lei treze mil quatrocentos e sessenta e sete, qual alternativa é correta?
-BRUNO: A letra A: o direito comum só se aplica quando expressamente autorizado. A letra bê: súmulas do TST podem criar obrigações para suprir lacunas. A letra cê: no exame de convenção ou acordo coletivo, a Justiça do Trabalho analisa exclusivamente a conformidade dos elementos essenciais do negócio jurídico, com intervenção mínima na autonomia da vontade coletiva. A letra dê: enunciados dos TRTs podem restringir direitos legais. A letra E: na falta de disposições, o juiz decide exclusivamente por analogia.
-ANTONIO: Pausa para pensar.
-THALITA: Eu acho que é a E, porque analogia é o método mais conhecido.
-ANTONIO: O caput prevê vários meios: jurisprudência, analogia, equidade, princípios, usos e costumes e direito comparado. A letra E erra por dizer exclusivamente.
+THALITA: Questão onze. Nos termos do artigo oitavo da CLT, com a Lei treze mil quatrocentos e sessenta e sete, qual alternativa é correta?
+FRANCISCA: A letra A: o direito comum só se aplica quando expressamente autorizado. A letra bê: súmulas do TST podem criar obrigações para suprir lacunas. A letra cê: no exame de convenção ou acordo coletivo, a Justiça do Trabalho analisa exclusivamente a conformidade dos elementos essenciais do negócio jurídico, com intervenção mínima na autonomia da vontade coletiva. A letra dê: enunciados dos TRTs podem restringir direitos legais. A letra E: na falta de disposições, o juiz decide exclusivamente por analogia.
+THALITA: Pausa para pensar.
+FRANCISCA: Eu acho que é a E, porque analogia é o método mais conhecido.
+THALITA: O caput prevê vários meios: jurisprudência, analogia, equidade, princípios, usos e costumes e direito comparado. A letra E erra por dizer exclusivamente.
 FRANCISCA: A letra A erra porque o parágrafo primeiro faz do direito comum fonte subsidiária, sem exigir autorização caso a caso. As letras bê e dê erram porque o parágrafo segundo veda que súmulas e enunciados criem obrigações ou restrinjam direitos legais.
-BRUNO: A letra cê é o parágrafo terceiro. Gabarito: cê.
-THALITA: Macete: súmula não cria obrigação nem tira direito; e a Justiça respeita a vontade coletiva.
+THALITA: A letra cê é o parágrafo terceiro. Gabarito: cê.
+FRANCISCA: Macete: súmula não cria obrigação nem tira direito; e a Justiça respeita a vontade coletiva.
 == SLIDE: Questão 12: revista íntima
 * CLT, art. 373-A, VI e Lei 13.271/2016
 * Protege empregadas e clientes
@@ -61,13 +61,13 @@ THALITA: Macete: súmula não cria obrigação nem tira direito; e a Justiça re
 * Alcança empresas privadas e a Administração
 * Consentimento ou pessoa do mesmo sexo não validam
 * Gabarito: A
-BRUNO: Questão doze, Técnico Judiciário. A Beta Comércio instituiu revista diária em empregadas e clientes do sexo feminino, com retirada parcial de roupas em sala reservada. Qual alternativa está correta?
+THALITA: Questão doze, Técnico Judiciário. A Beta Comércio instituiu revista diária em empregadas e clientes do sexo feminino, com retirada parcial de roupas em sala reservada. Qual alternativa está correta?
 FRANCISCA: A letra A: a prática é vedada, com multa de vinte mil reais, revertida aos órgãos de proteção dos direitos da mulher, em dobro na reincidência. A letra bê: lícita para clientes. A letra cê: lícita se prevista no regulamento, como poder fiscalizatório. A letra dê: a vedação só alcança empresas privadas. A letra E: lícita se feita por pessoa do mesmo sexo e com consentimento escrito.
-ANTONIO: Pausa para você pensar.
-THALITA: Eu escolheria a E: se tem consentimento, deveria valer.
-BRUNO: Não, Thalita. A revista íntima é vedada independentemente de quem a faça ou de consentimento.
+THALITA: Pausa para você pensar.
+FRANCISCA: Eu escolheria a E: se tem consentimento, deveria valer.
+THALITA: Não, Francisca. A revista íntima é vedada independentemente de quem a faça ou de consentimento.
 FRANCISCA: A letra bê erra porque a Lei treze mil duzentos e setenta e um protege funcionárias e clientes. A letra cê erra porque o poder regulamentar não pode contrariar vedação legal nem a intimidade, do artigo quinto, inciso dez. A letra dê erra porque a lei alcança também órgãos e entidades da administração direta e indireta.
-ANTONIO: A letra A reúne a Lei treze mil duzentos e setenta e um e o artigo trezentos e setenta e três A, inciso seis. Gabarito: A.
+THALITA: A letra A reúne a Lei treze mil duzentos e setenta e um e o artigo trezentos e setenta e três A, inciso seis. Gabarito: A.
 == SLIDE: Questão 13: dono da obra e subempreitada
 * Dono da obra: sem responsabilidade (OJ 191), salvo construtora ou incorporadora
 * Art. 455: reclamar contra o empreiteiro principal
@@ -75,22 +75,22 @@ ANTONIO: A letra A reúne a Lei treze mil duzentos e setenta e um e o artigo tre
 * IRR Tema 6: culpa na escolha do empreiteiro
 * Gabarito: E
 FRANCISCA: Questão treze, Oficial de Justiça. Carlos, pessoa física, contratou o empreiteiro Jonas para construir sua casa. Jonas subcontratou parte dos serviços à empresa Sigma, que não pagou seus empregados.
-BRUNO: A letra A: Carlos responde solidariamente, por ser o beneficiário final. A letra bê: os empregados só podem demandar a Sigma. A letra cê: Jonas responde, mas sem regresso. A letra dê: Carlos responde subsidiariamente em qualquer hipótese. A letra E: os empregados da Sigma podem reclamar contra Jonas, que tem ação regressiva contra a Sigma e retenção de valores a ela devidos; em regra, Carlos não responde.
-ANTONIO: Pausa para pensar.
+THALITA: A letra A: Carlos responde solidariamente, por ser o beneficiário final. A letra bê: os empregados só podem demandar a Sigma. A letra cê: Jonas responde, mas sem regresso. A letra dê: Carlos responde subsidiariamente em qualquer hipótese. A letra E: os empregados da Sigma podem reclamar contra Jonas, que tem ação regressiva contra a Sigma e retenção de valores a ela devidos; em regra, Carlos não responde.
+FRANCISCA: Pausa para pensar.
 THALITA: Eu penso na A, porque o dono da obra é quem lucra.
 FRANCISCA: Pela Orientação Jurisprudencial cento e noventa e um da SDI um, o dono da obra não responde, salvo se for construtora ou incorporadora. A letra A está errada.
-BRUNO: A letra bê erra porque o artigo quatrocentos e cinquenta e cinco garante reclamação contra o empreiteiro principal. A letra cê erra porque o parágrafo único do mesmo artigo assegura ação regressiva e retenção. A letra dê erra porque pelo Tema seis do TST a responsabilidade subsidiária do dono da obra depende de contratação de empreiteiro inidôneo, a culpa na escolha, e não ocorre em qualquer hipótese.
-ANTONIO: A letra E é a correta. Gabarito: E.
+THALITA: A letra bê erra porque o artigo quatrocentos e cinquenta e cinco garante reclamação contra o empreiteiro principal. A letra cê erra porque o parágrafo único do mesmo artigo assegura ação regressiva e retenção. A letra dê erra porque pelo Tema seis do TST a responsabilidade subsidiária do dono da obra depende de contratação de empreiteiro inidôneo, a culpa na escolha, e não ocorre em qualquer hipótese.
+FRANCISCA: A letra E é a correta. Gabarito: E.
 == SLIDE: Questão 14 e resumo relâmpago
 * Cooperativa sem subordinação: sem vínculo (art. 442, par. único)
 * Estágio superior: 6 horas diárias e 30 semanais (Lei 11.788/2008)
 * Serviço voluntário: sem vínculo (Lei 9.608/1998)
 * Resumo: terceirização, Administração, sucessão, grupo
-BRUNO: Última questão: a catorze, Analista Judiciário. Três situações. Um: Lúcia participa de cooperativa de trabalho e presta serviços a tomadores, sem subordinação a eles. Dois: Renato, estagiário de nível superior, tem jornada de oito horas diárias e quarenta semanais durante o período letivo, sem previsão no projeto pedagógico. Três: Sérgio presta serviços não remunerados, por termo de adesão, a associação assistencial sem fins lucrativos, recebendo ressarcimento de despesas comprovadas.
+THALITA: Última questão: a catorze, Analista Judiciário. Três situações. Um: Lúcia participa de cooperativa de trabalho e presta serviços a tomadores, sem subordinação a eles. Dois: Renato, estagiário de nível superior, tem jornada de oito horas diárias e quarenta semanais durante o período letivo, sem previsão no projeto pedagógico. Três: Sérgio presta serviços não remunerados, por termo de adesão, a associação assistencial sem fins lucrativos, recebendo ressarcimento de despesas comprovadas.
 FRANCISCA: Há relação de emprego, ou risco de seu reconhecimento, apenas em qual delas? A: um. Bê: dois. Cê: três. Dê: um e dois. E: dois e três.
-ANTONIO: Pausa para pensar.
-THALITA: Eu acho que é a três, porque Sérgio presta serviço sem contrato de emprego, e é arriscado.
-FRANCISCA: A situação três é serviço voluntário válido, da Lei nove mil seiscentos e oito, de mil novecentos e noventa e oito: o ressarcimento de despesas não gera vínculo. A situação um também não gera vínculo, sem subordinação, pelo parágrafo único do artigo quatrocentos e quarenta e dois.
-BRUNO: A situação dois é a problemática. Para nível superior, o limite é de seis horas diárias e trinta semanais, e quarenta horas só nos períodos sem aulas presenciais e com previsão no projeto pedagógico. O descumprimento gera vínculo, pela Lei onze mil setecentos e oitenta e oito. Gabarito: bê.
+THALITA: Pausa para pensar.
+FRANCISCA: Eu acho que é a três, porque Sérgio presta serviço sem contrato de emprego, e é arriscado.
+THALITA: A situação três é serviço voluntário válido, da Lei nove mil seiscentos e oito, de mil novecentos e noventa e oito: o ressarcimento de despesas não gera vínculo. A situação um também não gera vínculo, sem subordinação, pelo parágrafo único do artigo quatrocentos e quarenta e dois.
+FRANCISCA: A situação dois é a problemática. Para nível superior, o limite é de seis horas diárias e trinta semanais, e quarenta horas só nos períodos sem aulas presenciais e com previsão no projeto pedagógico. O descumprimento gera vínculo, pela Lei onze mil setecentos e oitenta e oito. Gabarito: bê.
 THALITA: Resumo relâmpago da aula: terceirização lícita em qualquer atividade, mas a contratante responde subsidiariamente; Administração só responde com culpa provada; dono da obra, em regra, não responde; sucessor responde por tudo; grupo econômico não se forma só por sócios em comum; e a revista íntima é proibida, com multa de vinte mil reais.
-ANTONIO: Excelente, Thalita. Bons estudos e até a próxima aula!
+FRANCISCA: Excelente, Thalita. Bons estudos e até a próxima aula!

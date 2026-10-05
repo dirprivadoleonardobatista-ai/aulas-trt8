@@ -4,33 +4,32 @@ SEGMENTO s160
 * Doméstico: 8% mais 3,2% de antecipação da indenização
 * Afastamentos com depósito: serviço militar e acidente
 * Aviso prévio indenizado: incide FGTS (Súmula 305)
-ANTONIO: Olá, pessoal, bem-vindos à aula quarenta e sete do nosso curso para o TRT da oitava região. Estamos em Direito do Trabalho, no bloco sobre remuneração, FGTS, prescrição, saúde e proteções especiais. Hoje vemos o FGTS e a prescrição com decadência, depois renúncia e transação, segurança e medicina do trabalho, e acidente do trabalho com dano extrapatrimonial.
-THALITA: Oi, gente, sou a Thalita, concurseira. Vou perguntar tudo que me confunde.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei e a jurisprudência.
-BRUNO: E eu sou o Bruno, especialista em FCC. Mostro as pegadinhas.
-ANTONIO: Vamos ao FGTS, da Lei oito mil e trinta e seis, de mil novecentos e noventa. O empregador deposita todo mês oito por cento da remuneração paga ou devida no mês anterior. Para o aprendiz, a alíquota é de dois por cento.
-THALITA: E até quando deposita?
-FRANCISCA: Até o dia vinte do mês seguinte. O prazo passou do dia sete para o dia vinte pela Lei catorze mil quatrocentos e trinta e oito, de dois mil e vinte e dois, aplicável a partir da implantação do FGTS Digital, em dois mil e vinte e quatro. Vale conferir a redação vigente do artigo quinze e o calendário de transição.
-BRUNO: O prazo é pegadinha porque muita gente ainda lembra do dia sete. Se a prova for atual, dia vinte.
+FRANCISCA: Olá, pessoal, bem-vindos à aula quarenta e sete do nosso curso para o TRT da oitava região. Estamos em Direito do Trabalho, no bloco sobre remuneração, FGTS, prescrição, saúde e proteções especiais. Hoje vemos o FGTS e a prescrição com decadência, depois renúncia e transação, segurança e medicina do trabalho, e acidente do trabalho com dano extrapatrimonial.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Vamos ao FGTS, da Lei oito mil e trinta e seis, de mil novecentos e noventa. O empregador deposita todo mês oito por cento da remuneração paga ou devida no mês anterior. Para o aprendiz, a alíquota é de dois por cento.
+FRANCISCA: E até quando deposita?
+THALITA: Até o dia vinte do mês seguinte. O prazo passou do dia sete para o dia vinte pela Lei catorze mil quatrocentos e trinta e oito, de dois mil e vinte e dois, aplicável a partir da implantação do FGTS Digital, em dois mil e vinte e quatro. Vale conferir a redação vigente do artigo quinze e o calendário de transição.
+FRANCISCA: O prazo é pegadinha porque muita gente ainda lembra do dia sete. Se a prova for atual, dia vinte.
 THALITA: E o doméstico?
-ANTONIO: O doméstico tem oito por cento mais três vírgula dois por cento, que é a antecipação da indenização compensatória, pela Lei Complementar cento e cinquenta, de dois mil e quinze. Esse valor fica em conta separada. Na dispensa sem justa causa ou na rescisão indireta, vai ao empregado e substitui a multa de quarenta por cento. Na justa causa, no pedido de demissão, na aposentadoria ou na morte, é levantado pelo empregador. Na culpa recíproca, divide-se pela metade.
-FRANCISCA: Alguns afastamentos mantêm o depósito: o serviço militar obrigatório e a licença por acidente do trabalho, artigo quinze, parágrafo quinto. E, pela Súmula trezentos e cinco do TST, o FGTS incide também sobre o aviso prévio indenizado.
-THALITA: Macete: oito, dois para o aprendiz, oito mais três vírgula dois para o doméstico, dia vinte.
+FRANCISCA: O doméstico tem oito por cento mais três vírgula dois por cento, que é a antecipação da indenização compensatória, pela Lei Complementar cento e cinquenta, de dois mil e quinze. Esse valor fica em conta separada. Na dispensa sem justa causa ou na rescisão indireta, vai ao empregado e substitui a multa de quarenta por cento. Na justa causa, no pedido de demissão, na aposentadoria ou na morte, é levantado pelo empregador. Na culpa recíproca, divide-se pela metade.
+THALITA: Alguns afastamentos mantêm o depósito: o serviço militar obrigatório e a licença por acidente do trabalho, artigo quinze, parágrafo quinto. E, pela Súmula trezentos e cinco do TST, o FGTS incide também sobre o aviso prévio indenizado.
+FRANCISCA: Macete: oito, dois para o aprendiz, oito mais três vírgula dois para o doméstico, dia vinte.
 == SLIDE: Multas, saques e a Orientação Jurisprudencial 42
 * Multa de 40%: dispensa sem justa causa e rescisão indireta
 * Multa de 20%: culpa recíproca, força maior e acordo
 * OJ 42: multa sobre todos os depósitos, sem dedução dos saques
 * Pedido de demissão e justa causa não autorizam saque
-BRUNO: Multas. A multa de quarenta por cento é devida na dispensa sem justa causa e na rescisão indireta. É calculada sobre todos os depósitos do contrato, atualizados e com juros, artigo dezoito, parágrafo primeiro. A multa de vinte por cento é na culpa recíproca ou na força maior reconhecida pela Justiça do Trabalho, e também no acordo do artigo quatrocentos e oitenta e quatro-A da CLT, com saque de até oitenta por cento e sem seguro-desemprego.
-THALITA: Pegadinha clássica: culpa recíproca, quarenta por cento?
-BRUNO: Errado. É vinte por cento. A banca adora trocar.
+THALITA: Multas. A multa de quarenta por cento é devida na dispensa sem justa causa e na rescisão indireta. É calculada sobre todos os depósitos do contrato, atualizados e com juros, artigo dezoito, parágrafo primeiro. A multa de vinte por cento é na culpa recíproca ou na força maior reconhecida pela Justiça do Trabalho, e também no acordo do artigo quatrocentos e oitenta e quatro-A da CLT, com saque de até oitenta por cento e sem seguro-desemprego.
+FRANCISCA: Pegadinha clássica: culpa recíproca, quarenta por cento?
+THALITA: Errado. É vinte por cento. A banca adora trocar.
 FRANCISCA: Dois detalhes de jurisprudência. A Orientação Jurisprudencial quarenta e dois da SDI-1 diz que a multa de quarenta por cento incide sobre todos os depósitos do contrato, sem dedução dos saques ocorridos. E a Súmula duzentos e seis diz que a prescrição das parcelas remuneratórias alcança o respectivo recolhimento do FGTS: o FGTS reflexo segue a sorte do principal.
-ANTONIO: Um aviso: a contribuição social de dez por cento da Lei Complementar cento e dez, de dois mil e um, foi extinta pela Lei treze mil novecentos e trinta e dois, de dois mil e dezenove. Não se confunde com a multa de quarenta por cento, que é do empregado.
-THALITA: E quando posso sacar o FGTS?
-FRANCISCA: As principais hipóteses do artigo vinte: despedida sem justa causa, inclusive indireta, culpa recíproca e força maior; extinção por acordo, limitado a oitenta por cento; extinção da empresa ou falecimento do empregador individual; aposentadoria concedida pela Previdência; falecimento do trabalhador, para dependentes ou sucessores; moradia própria no Sistema Financeiro da Habitação; fora do regime do FGTS por três anos ininterruptos; término de contrato a prazo, inclusive temporário.
-ANTONIO: Ainda: doenças graves, como neoplasia maligna, HIV e estágio terminal, do trabalhador ou de dependente; idade de setenta anos ou mais; desastre natural, em área com situação de emergência ou calamidade; e o saque-aniversário, opção anual da Lei treze mil novecentos e trinta e dois. Quem opta pelo saque-aniversário não saca o saldo na dispensa, só a multa.
+THALITA: Um aviso: a contribuição social de dez por cento da Lei Complementar cento e dez, de dois mil e um, foi extinta pela Lei treze mil novecentos e trinta e dois, de dois mil e dezenove. Não se confunde com a multa de quarenta por cento, que é do empregado.
+FRANCISCA: E quando posso sacar o FGTS?
+THALITA: As principais hipóteses do artigo vinte: despedida sem justa causa, inclusive indireta, culpa recíproca e força maior; extinção por acordo, limitado a oitenta por cento; extinção da empresa ou falecimento do empregador individual; aposentadoria concedida pela Previdência; falecimento do trabalhador, para dependentes ou sucessores; moradia própria no Sistema Financeiro da Habitação; fora do regime do FGTS por três anos ininterruptos; término de contrato a prazo, inclusive temporário.
+FRANCISCA: Ainda: doenças graves, como neoplasia maligna, HIV e estágio terminal, do trabalhador ou de dependente; idade de setenta anos ou mais; desastre natural, em área com situação de emergência ou calamidade; e o saque-aniversário, opção anual da Lei treze mil novecentos e trinta e dois. Quem opta pelo saque-aniversário não saca o saldo na dispensa, só a multa.
 THALITA: Então o saque-aniversário é uma troca: eu levo uma parte todo ano, e se for dispensada recebo a multa, mas o saldo fica preso. Entendi. E nas doenças graves, vale também para dependente, né? Vou guardar como lista: dispensa, acordo, aposentadoria, morte, moradia, idade, doença e desastre.
-BRUNO: E o que não autoriza saque: pedido de demissão e justa causa. Anote.
+FRANCISCA: E o que não autoriza saque: pedido de demissão e justa causa. Anote.
 == SLIDE: Prescrição do FGTS e Súmula 362
 * STF, ARE 709.212: prescrição quinquenal, superada a trintenária
 * Súmula 362, I: ciência da lesão a partir de 13/11/2014, 5 anos
@@ -38,38 +37,38 @@ BRUNO: E o que não autoriza saque: pedido de demissão e justa causa. Anote.
 * Exemplo de Carla: depósitos anteriores a 13/11/2014 prescritos
 THALITA: Dizem que a prescrição do FGTS mudou. O que mudou?
 FRANCISCA: Antes era de trinta anos. O Supremo, no ARE setecentos e nove mil duzentos e doze, Tema seiscentos e oito, decidiu que a prescrição para cobrança do FGTS não depositado é quinquenal, conforme o artigo sétimo, inciso vinte e nove, da Constituição, superada a trintenária, com modulação.
-ANTONIO: A Súmula trezentos e sessenta e dois do TST traduz a modulação. Item um: para ciência da lesão a partir de treze de novembro de dois mil e quatorze, prescrição de cinco anos, observado o biênio após a extinção do contrato. Item dois: para prazo já em curso em treze de novembro de dois mil e quatorze, aplica-se o que se consumar primeiro, trinta anos do termo inicial ou cinco anos a partir de treze de novembro de dois mil e quatorze.
-THALITA: Isso ficou abstrato. Dá um exemplo?
-FRANCISCA: Carla teve FGTS não depositado desde janeiro de dois mil e dez e ajuizou ação em março de dois mil e vinte. O prazo estava em curso em treze de novembro de dois mil e quatorze. Trinta anos do termo inicial iriam até dois mil e quarenta. Cinco anos a partir de treze de novembro de dois mil e quatorze vencem em treze de novembro de dois mil e dezenove. Esse segundo prazo se consuma primeiro.
-THALITA: Ah, agora entendi. Compara-se as duas datas e vale a que chega antes. Como dois mil e dezenove vem antes de dois mil e quarenta, vale dois mil e dezenove. E como ela só ajuizou em dois mil e vinte, ficou de fora o que era anterior ao corte.
-BRUNO: Então a pretensão está prescrita quanto aos depósitos anteriores a treze de novembro de dois mil e quatorze. Os posteriores ainda podem ser cobrados, dentro da regra dos cinco anos do ajuizamento.
-THALITA: Macete: dois mil e quatorze é a data de corte; o que vem depois é cinco anos, o que já corria é o que acabar primeiro.
+THALITA: A Súmula trezentos e sessenta e dois do TST traduz a modulação. Item um: para ciência da lesão a partir de treze de novembro de dois mil e quatorze, prescrição de cinco anos, observado o biênio após a extinção do contrato. Item dois: para prazo já em curso em treze de novembro de dois mil e quatorze, aplica-se o que se consumar primeiro, trinta anos do termo inicial ou cinco anos a partir de treze de novembro de dois mil e quatorze.
+FRANCISCA: Isso ficou abstrato. Dá um exemplo?
+THALITA: Carla teve FGTS não depositado desde janeiro de dois mil e dez e ajuizou ação em março de dois mil e vinte. O prazo estava em curso em treze de novembro de dois mil e quatorze. Trinta anos do termo inicial iriam até dois mil e quarenta. Cinco anos a partir de treze de novembro de dois mil e quatorze vencem em treze de novembro de dois mil e dezenove. Esse segundo prazo se consuma primeiro.
+FRANCISCA: Ah, agora entendi. Compara-se as duas datas e vale a que chega antes. Como dois mil e dezenove vem antes de dois mil e quarenta, vale dois mil e dezenove. E como ela só ajuizou em dois mil e vinte, ficou de fora o que era anterior ao corte.
+THALITA: Então a pretensão está prescrita quanto aos depósitos anteriores a treze de novembro de dois mil e quatorze. Os posteriores ainda podem ser cobrados, dentro da regra dos cinco anos do ajuizamento.
+FRANCISCA: Macete: dois mil e quatorze é a data de corte; o que vem depois é cinco anos, o que já corria é o que acabar primeiro.
 == SLIDE: Prescrição trabalhista: bienal e quinquenal, Súmula 308
 * Art. 11: cinco anos, até o limite de dois anos após a extinção
 * Bienal: da extinção, projetada pelo aviso prévio (OJ 83)
 * Quinquenal: para trás, a partir do ajuizamento
 * Súmula 308: não conta da data da extinção do contrato
-ANTONIO: Prescrição trabalhista. Artigo onze da CLT e artigo sétimo, inciso vinte e nove, da Constituição: a pretensão sobre créditos resultantes da relação de trabalho prescreve em cinco anos, até o limite de dois anos após a extinção do contrato. A Emenda Constitucional vinte e oito, de dois mil, unificou urbanos e rurais.
-THALITA: Como dois prazos convivem?
-FRANCISCA: O bienal é contado da extinção do contrato, projetada pelo aviso prévio, inclusive indenizado, pela Orientação Jurisprudencial oitenta e três da SDI-1. É o prazo para ajuizar a ação. O quinquenal é contado para trás a partir do ajuizamento, e delimita quais parcelas podem ser cobradas. O parágrafo primeiro do artigo onze exclui as ações meramente declaratórias de anotação para fins previdenciários.
-BRUNO: A Súmula trezentos e oito do TST, item um, esclarece: respeitado o biênio, a prescrição alcança as pretensões anteriores a cinco anos contados da data do ajuizamento, e não da data da extinção. A banca troca isso. E o item dois diz que a ampliação para cinco anos pela Constituição de oitenta e oito não atinge pretensões já alcançadas pela prescrição bienal quando da promulgação.
+THALITA: Prescrição trabalhista. Artigo onze da CLT e artigo sétimo, inciso vinte e nove, da Constituição: a pretensão sobre créditos resultantes da relação de trabalho prescreve em cinco anos, até o limite de dois anos após a extinção do contrato. A Emenda Constitucional vinte e oito, de dois mil, unificou urbanos e rurais.
+FRANCISCA: Como dois prazos convivem?
+THALITA: O bienal é contado da extinção do contrato, projetada pelo aviso prévio, inclusive indenizado, pela Orientação Jurisprudencial oitenta e três da SDI-1. É o prazo para ajuizar a ação. O quinquenal é contado para trás a partir do ajuizamento, e delimita quais parcelas podem ser cobradas. O parágrafo primeiro do artigo onze exclui as ações meramente declaratórias de anotação para fins previdenciários.
+FRANCISCA: A Súmula trezentos e oito do TST, item um, esclarece: respeitado o biênio, a prescrição alcança as pretensões anteriores a cinco anos contados da data do ajuizamento, e não da data da extinção. A banca troca isso. E o item dois diz que a ampliação para cinco anos pela Constituição de oitenta e oito não atinge pretensões já alcançadas pela prescrição bienal quando da promulgação.
 THALITA: Dá exemplo?
 FRANCISCA: Bruno foi dispensado em dez de março de dois mil e vinte e quatro, com aviso indenizado de trinta dias, projetado até nove de abril de dois mil e vinte e quatro. O prazo bienal vai até nove de abril de dois mil e vinte e seis. Se ele ajuizou em cinco de fevereiro de dois mil e vinte e seis, pode cobrar parcelas a partir de cinco de fevereiro de dois mil e vinte e um. Se ajuizasse em vinte de abril de dois mil e vinte e seis, tudo estaria prescrito.
-ANTONIO: Memorize: dois anos para ajuizar, cinco anos para trás.
+THALITA: Memorize: dois anos para ajuizar, cinco anos para trás.
 == SLIDE: Prescrição total e parcial, interrupção e suspensão
 * Total: direito só do contrato ou regulamento, ato único
 * Parcial: parcela também assegurada por lei (art. 11, § 2º)
 * Interrupção: só ajuizamento, pedidos idênticos (art. 11, § 3º)
 * Comissão de Conciliação Prévia e acordo extrajudicial: suspendem
-BRUNO: Prescrição total e parcial. O parágrafo segundo do artigo onze, que positivou a Súmula duzentos e noventa e quatro, diz que em pretensão de prestações sucessivas decorrente de alteração ou descumprimento do pactuado a prescrição é total, exceto quando o direito à parcela esteja também assegurado por preceito de lei.
+FRANCISCA: Prescrição total e parcial. O parágrafo segundo do artigo onze, que positivou a Súmula duzentos e noventa e quatro, diz que em pretensão de prestações sucessivas decorrente de alteração ou descumprimento do pactuado a prescrição é total, exceto quando o direito à parcela esteja também assegurado por preceito de lei.
 THALITA: Qual a lógica?
 FRANCISCA: Se o direito nasce só do contrato ou do regulamento e foi suprimido por um ato único do empregador, a lesão é única: prescrição total, contada do ato. Se a parcela tem fonte legal, a lesão se renova mês a mês: prescrição parcial, só as parcelas anteriores a cinco anos. Exemplos de total: supressão de gratificação ajustada e reenquadramento, Súmula duzentos e setenta e cinco, item dois. De parcial: equiparação salarial, Súmula seis, item nove; desvio de função, Súmula duzentos e setenta e cinco, item um; diferenças de adicional legal.
-ANTONIO: Interrupção. O parágrafo terceiro diz que a interrupção só ocorre pelo ajuizamento de reclamação trabalhista, mesmo em juízo incompetente, ainda que extinta sem resolução do mérito, e só para pedidos idênticos. É o ajuizamento, não a citação. Reiniciam-se os prazos bienal e quinquenal, e a interrupção ocorre uma única vez.
-THALITA: Então se eu ajuizei, a ação foi arquivada e eu ajuízo de novo, a segunda vez não interrompe de novo. E só vale para o que eu pedi antes, certo? Pedido novo não é beneficiado.
-BRUNO: A Súmula duzentos e sessenta e oito confirma para reclamação arquivada. A Orientação Jurisprudencial trezentos e cinquenta e nove diz que a ação do sindicato como substituto interrompe, ainda que ele seja declarado ilegítimo. A Orientação Jurisprudencial trezentos e noventa e dois admite o protesto judicial, mas confira a compatibilidade com o "somente" do parágrafo terceiro.
+THALITA: Interrupção. O parágrafo terceiro diz que a interrupção só ocorre pelo ajuizamento de reclamação trabalhista, mesmo em juízo incompetente, ainda que extinta sem resolução do mérito, e só para pedidos idênticos. É o ajuizamento, não a citação. Reiniciam-se os prazos bienal e quinquenal, e a interrupção ocorre uma única vez.
+FRANCISCA: Então se eu ajuizei, a ação foi arquivada e eu ajuízo de novo, a segunda vez não interrompe de novo. E só vale para o que eu pedi antes, certo? Pedido novo não é beneficiado.
+THALITA: A Súmula duzentos e sessenta e oito confirma para reclamação arquivada. A Orientação Jurisprudencial trezentos e cinquenta e nove diz que a ação do sindicato como substituto interrompe, ainda que ele seja declarado ilegítimo. A Orientação Jurisprudencial trezentos e noventa e dois admite o protesto judicial, mas confira a compatibilidade com o "somente" do parágrafo terceiro.
 FRANCISCA: Suspensão: a Comissão de Conciliação Prévia suspende desde a provocação, artigo seiscentos e vinte e cinco-G. O acordo extrajudicial suspende quanto aos direitos especificados, e volta a correr no dia útil seguinte ao trânsito da decisão que nega homologação, artigo oitocentos e cinquenta e cinco-E.
 THALITA: E menor de dezoito anos?
-ANTONIO: Contra o menor de dezoito anos não corre prescrição, artigo quatrocentos e quarenta. Para contratos descontínuos, o prazo de dois anos conta da extinção do último contrato, se houver soma de períodos, Súmula cento e cinquenta e seis. E a prescrição intercorrente é de dois anos, a partir do descumprimento de determinação judicial na execução, artigo onze-A.
+FRANCISCA: Contra o menor de dezoito anos não corre prescrição, artigo quatrocentos e quarenta. Para contratos descontínuos, o prazo de dois anos conta da extinção do último contrato, se houver soma de períodos, Súmula cento e cinquenta e seis. E a prescrição intercorrente é de dois anos, a partir do descumprimento de determinação judicial na execução, artigo onze-A.
 == SLIDE: Prescrição de ofício e decadência
 * Prescrição de ofício incompatível, exceto intercorrente (art. 11-A, § 2º)
 * Súmula 153: não se conhece de prescrição não arguida na instância ordinária
@@ -77,9 +76,9 @@ ANTONIO: Contra o menor de dezoito anos não corre prescrição, artigo quatroce
 * Decadência não se interrompe nem se suspende
 THALITA: Falando de prescrição, o juiz pode reconhecer de ofício?
 FRANCISCA: O artigo quatrocentos e oitenta e sete, inciso dois, do CPC permite. Mas a jurisprudência majoritária do TST entende incompatível com o processo do trabalho a pronúncia de ofício da prescrição bienal ou quinquenal, por contrariar o princípio protetivo. A exceção legal é a prescrição intercorrente, artigo onze-A, parágrafo segundo.
-BRUNO: E a Súmula cento e cinquenta e três diz que não se conhece de prescrição não arguida na instância ordinária. Ou seja, não pode ser alegada pela primeira vez em recurso de revista.
-ANTONIO: Agora a decadência. Inquérito para apuração de falta grave: trinta dias da suspensão do empregado estável, artigo oitocentos e cinquenta e três e Súmula quatrocentos e três do STF. Inquérito por abandono de emprego: conta-se do momento em que o empregado pretendeu retornar, Súmula sessenta e dois do TST.
-FRANCISCA: Ação rescisória: dois anos do trânsito em julgado da última decisão, artigo novecentos e setenta e cinco do CPC e Súmula cem do TST. Mandado de segurança: cento e vinte dias da ciência do ato, artigo vinte e três da Lei doze mil e dezesseis, de dois mil e nove.
-BRUNO: Regra de ouro: decadência não se interrompe nem se suspende, artigo duzentos e sete do Código Civil. A FCC troca o prazo do inquérito, trinta dias, pelo da rescisória, dois anos. Fique atento.
+THALITA: E a Súmula cento e cinquenta e três diz que não se conhece de prescrição não arguida na instância ordinária. Ou seja, não pode ser alegada pela primeira vez em recurso de revista.
+FRANCISCA: Agora a decadência. Inquérito para apuração de falta grave: trinta dias da suspensão do empregado estável, artigo oitocentos e cinquenta e três e Súmula quatrocentos e três do STF. Inquérito por abandono de emprego: conta-se do momento em que o empregado pretendeu retornar, Súmula sessenta e dois do TST.
+THALITA: Ação rescisória: dois anos do trânsito em julgado da última decisão, artigo novecentos e setenta e cinco do CPC e Súmula cem do TST. Mandado de segurança: cento e vinte dias da ciência do ato, artigo vinte e três da Lei doze mil e dezesseis, de dois mil e nove.
+FRANCISCA: Regra de ouro: decadência não se interrompe nem se suspende, artigo duzentos e sete do Código Civil. A FCC troca o prazo do inquérito, trinta dias, pelo da rescisória, dois anos. Fique atento.
 THALITA: Macete: inquérito trinta, rescisória dois anos, mandado de segurança cento e vinte dias.
-ANTONIO: Muito bem. E agora que vimos como o tempo corta os direitos, vamos ver o que pode ou não ser renunciado ou transacionado no Direito do Trabalho, e os meios extrajudiciais de solução de conflitos.
+FRANCISCA: Muito bem. E agora que vimos como o tempo corta os direitos, vamos ver o que pode ou não ser renunciado ou transacionado no Direito do Trabalho, e os meios extrajudiciais de solução de conflitos.

@@ -4,15 +4,14 @@ SEGMENTO s166
 * Prêmio: liberalidade por desempenho superior (§4º)
 * Comissões integram o salário (§1º)
 * Gabarito: C
-ANTONIO: Chegamos às questões comentadas no estilo FCC. Funciona assim: leio o enunciado resumido, dou uma pausa para você pensar, e comentamos cada alternativa. Questão um, analista judiciário. Pela CLT, com a Reforma, quanto à natureza das parcelas pagas ao empregado.
+FRANCISCA: Chegamos às questões comentadas no estilo FCC. Funciona assim: leio o enunciado resumido, dou uma pausa para você pensar, e comentamos cada alternativa. Questão um, analista judiciário. Pela CLT, com a Reforma, quanto à natureza das parcelas pagas ao empregado.
 THALITA: Alternativa A: diárias para viagem integram a remuneração quando excederem cinquenta por cento do salário mensal.
-BRUNO: Pausa para você pensar. Errada! A regra dos cinquenta por cento foi suprimida. As diárias, ainda que habituais, não integram a remuneração, artigo quatrocentos e cinquenta e sete, parágrafo segundo.
-FRANCISCA: Alternativa B: o auxílio-alimentação, inclusive quando pago em dinheiro, não integra a remuneração. Também errada. O parágrafo segundo exclui o auxílio-alimentação, mas com a ressalva "vedado seu pagamento em dinheiro". Pago em pecúnia, tem natureza salarial.
-THALITA: C: os prêmios, liberalidades concedidas por desempenho superior ao ordinariamente esperado, ainda que habituais, não integram a remuneração nem são base de encargo.
-ANTONIO: Correta. Conjuga o "ainda que habituais" do parágrafo segundo com o conceito de prêmio do parágrafo quarto.
-BRUNO: Alternativa D: as comissões não integram o salário por serem variáveis. Errada: comissões integram o salário, parágrafo primeiro. E a E: abonos integram o salário se pagos por mais de seis meses consecutivos. Errada: abonos não integram, ainda que habituais.
+FRANCISCA: Pausa para você pensar. Errada! A regra dos cinquenta por cento foi suprimida. As diárias, ainda que habituais, não integram a remuneração, artigo quatrocentos e cinquenta e sete, parágrafo segundo.
+THALITA: Alternativa B: o auxílio-alimentação, inclusive quando pago em dinheiro, não integra a remuneração. Também errada. O parágrafo segundo exclui o auxílio-alimentação, mas com a ressalva "vedado seu pagamento em dinheiro". Pago em pecúnia, tem natureza salarial.
+FRANCISCA: C: os prêmios, liberalidades concedidas por desempenho superior ao ordinariamente esperado, ainda que habituais, não integram a remuneração nem são base de encargo.
+THALITA: Correta. Conjuga o "ainda que habituais" do parágrafo segundo com o conceito de prêmio do parágrafo quarto.
+FRANCISCA: Alternativa D: as comissões não integram o salário por serem variáveis. Errada: comissões integram o salário, parágrafo primeiro. E a E: abonos integram o salário se pagos por mais de seis meses consecutivos. Errada: abonos não integram, ainda que habituais.
 THALITA: Gabarito C. Macete: ainda que habituais para as cinco parcelas, e dinheiro no auxílio-alimentação vira salário.
-
 == SLIDE: Questão 2: salário-utilidade
 * I: habitação 25% e alimentação 20% do salário contratual: certa
 * II: transporte para o trabalho não é salário em qualquer percurso: item falso
@@ -20,55 +19,51 @@ THALITA: Gabarito C. Macete: ainda que habituais para as cinco parcelas, e dinhe
 * Gabarito: A
 FRANCISCA: Questão dois, técnico judiciário. Três afirmações sobre salário-utilidade. Primeira: habitação e alimentação como salário-utilidade não podem exceder, respectivamente, vinte e cinco e vinte por cento do salário contratual.
 THALITA: Isso eu sei! Parágrafo terceiro do artigo quatrocentos e cinquenta e oito. A primeira é verdadeira.
-ANTONIO: Segunda: o transporte para o deslocamento ao trabalho e retorno não é salário apenas quando o percurso não for servido por transporte público. Pense antes de responder.
-BRUNO: Falsa. O inciso três do parágrafo segundo diz "em percurso servido ou não por transporte público". Nos dois casos o transporte não é salário.
+FRANCISCA: Segunda: o transporte para o deslocamento ao trabalho e retorno não é salário apenas quando o percurso não for servido por transporte público. Pense antes de responder.
+THALITA: Falsa. O inciso três do parágrafo segundo diz "em percurso servido ou não por transporte público". Nos dois casos o transporte não é salário.
 FRANCISCA: Terceira: o veículo fornecido, indispensável para o trabalho, tem natureza salarial se também usado em atividades particulares. Falsa, pela Súmula trezentos e sessenta e sete, item um: não tem natureza salarial, ainda que usado também em atividades particulares.
 THALITA: Então só a primeira está correta, alternativa A.
-BRUNO: Isso. B erra por incluir a segunda; C erra por incluir segunda e terceira; D erra por incluir a terceira; E erra por incluir todas.
-ANTONIO: Gabarito A.
-
+FRANCISCA: Isso. B erra por incluir a segunda; C erra por incluir segunda e terceira; D erra por incluir a terceira; E erra por incluir todas.
+THALITA: Gabarito A.
 == SLIDE: Questão 3: adiantamento do décimo terceiro com as férias
 * Adiantamento: fevereiro a novembro
 * Não obriga pagamento no mesmo mês a todos
 * Com as férias: requerimento em janeiro
 * Segunda parcela: até 20 de dezembro
 * Gabarito: E
-THALITA: Questão três. A Joana, da Alfa, quer receber o adiantamento da gratificação natalina com as férias que gozará em julho de dois mil e vinte e seis. De acordo com a Lei quatro mil setecentos e quarenta e nove.
-BRUNO: Pausa para pensar. A: o adiantamento pode ser pago em qualquer mês entre janeiro e dezembro. Errada, é entre fevereiro e novembro.
-ANTONIO: B: o empregador é obrigado a pagar o adiantamento no mesmo mês a todos os empregados. Errada. O parágrafo primeiro do artigo segundo diz que não está obrigado.
-FRANCISCA: C: Joana deve requerer o adiantamento com as férias até março. Errada, o requerimento é em janeiro. D: a segunda parcela deve ser paga até trinta de dezembro. Errada, é até vinte.
-THALITA: E: o adiantamento será pago com as férias se Joana o requerer em janeiro. Correta! Literalidade do artigo segundo, parágrafo segundo.
-BRUNO: Gabarito E. Observe o padrão: a banca troca janeiro por março, vinte por trinta, e fevereiro a novembro por janeiro a dezembro.
-
+FRANCISCA: Questão três. A Joana, da Alfa, quer receber o adiantamento da gratificação natalina com as férias que gozará em julho de dois mil e vinte e seis. De acordo com a Lei quatro mil setecentos e quarenta e nove.
+THALITA: Pausa para pensar. A: o adiantamento pode ser pago em qualquer mês entre janeiro e dezembro. Errada, é entre fevereiro e novembro.
+FRANCISCA: B: o empregador é obrigada a pagar o adiantamento no mesmo mês a todos os empregados. Errada. O parágrafo primeiro do artigo segundo diz que não está obrigada.
+THALITA: C: Joana deve requerer o adiantamento com as férias até março. Errada, o requerimento é em janeiro. D: a segunda parcela deve ser paga até trinta de dezembro. Errada, é até vinte.
+FRANCISCA: E: o adiantamento será pago com as férias se Joana o requerer em janeiro. Correta! Literalidade do artigo segundo, parágrafo segundo.
+THALITA: Gabarito E. Observe o padrão: a banca troca janeiro por março, vinte por trinta, e fevereiro a novembro por janeiro a dezembro.
 == SLIDE: Questão 4: equiparação salarial
 * Carla e Diego: mesma função, mesmo estabelecimento, igual produtividade
 * Diferença no empregador: 3 anos (limite 4)
 * Diferença na função: 6 meses (limite 2 anos)
 * Sem quadro de carreira
 * Gabarito: B
-ANTONIO: Questão quatro. Carla e Diego exercem idêntica função na Beta, no mesmo estabelecimento, com igual produtividade e mesma perfeição técnica. Diego, que ganha mais, tem cinco anos de empresa e um ano e seis meses na função; Carla tem dois anos de empresa e um na função. Não há quadro de carreira.
-FRANCISCA: Faça as contas. Tempo no empregador: cinco menos dois, três anos. Tempo na função: um ano e seis meses menos um ano, seis meses.
-THALITA: Tenho o limite: quatro anos no empregador e dois anos na função. Três é menor que quatro e seis meses é menor que dois anos. Então tem direito à equiparação, alternativa B?
-BRUNO: Sim. Vamos às erradas. A diz que a diferença de tempo para o empregador supera dois anos. Errada, o limite para o empregador é quatro.
-ANTONIO: C: considera-se exclusivamente o tempo no emprego. Errada, a lei exige os dois critérios. D: basta o mesmo município ou região metropolitana, ainda que estabelecimentos distintos. Errada, depois da Reforma exige-se o mesmo estabelecimento empresarial.
-FRANCISCA: E: só teria direito se o paradigma tivesse obtido a vantagem em ação judicial própria. Errada, não há esse requisito. O parágrafo quinto apenas veda o paradigma remoto, mesmo que o contemporâneo tenha obtido a vantagem judicialmente.
-THALITA: Gabarito B.
-
+FRANCISCA: Questão quatro. Carla e Diego exercem idêntica função na Beta, no mesmo estabelecimento, com igual produtividade e mesma perfeição técnica. Diego, que ganha mais, tem cinco anos de empresa e um ano e seis meses na função; Carla tem dois anos de empresa e um na função. Não há quadro de carreira.
+THALITA: Faça as contas. Tempo no empregador: cinco menos dois, três anos. Tempo na função: um ano e seis meses menos um ano, seis meses.
+FRANCISCA: Tenho o limite: quatro anos no empregador e dois anos na função. Três é menor que quatro e seis meses é menor que dois anos. Então tem direito à equiparação, alternativa B?
+THALITA: Sim. Vamos às erradas. A diz que a diferença de tempo para o empregador supera dois anos. Errada, o limite para o empregador é quatro.
+FRANCISCA: C: considera-se exclusivamente o tempo no emprego. Errada, a lei exige os dois critérios. D: basta o mesmo município ou região metropolitana, ainda que estabelecimentos distintos. Errada, depois da Reforma exige-se o mesmo estabelecimento empresarial.
+THALITA: E: só teria direito se o paradigma tivesse obtido a vantagem em ação judicial própria. Errada, não há esse requisito. O parágrafo quinto apenas veda o paradigma remoto, mesmo que o contemporâneo tenha obtido a vantagem judicialmente.
+FRANCISCA: Gabarito B.
 == SLIDE: Questão 5: prescrição trabalhista
 * I: Súmula 308, I: a quinquenal conta-se do ajuizamento: certa
 * II: arquivamento interrompe só os pedidos idênticos: falsa
 * III: art. 11, §2º: prestações sucessivas, prescrição total: certa
 * IV: art. 440: contra menor de 18 não corre: certa
 * Gabarito: D
-BRUNO: Questão cinco, sobre prescrição. Quatro afirmações. Primeira: respeitado o biênio subsequente à extinção do contrato, a prescrição quinquenal conta-se do ajuizamento da reclamação, e não da extinção do contrato.
-THALITA: Eu acho que é certa, Súmula trezentos e oito, item um.
-FRANCISCA: Isso. Segunda: a reclamação arquivada interrompe a prescrição em relação a todos os pedidos relativos ao mesmo contrato, ainda que não idênticos.
-ANTONIO: Falsa. O artigo onze, parágrafo terceiro, e a Súmula duzentos e sessenta e oito dizem que a interrupção alcança apenas os pedidos idênticos.
-BRUNO: Terceira: prestações sucessivas decorrentes de alteração ou descumprimento do pactuado, a prescrição é total, exceto quando o direito à parcela esteja assegurado também por preceito de lei. Correta, artigo onze, parágrafo segundo.
+THALITA: Questão cinco, sobre prescrição. Quatro afirmações. Primeira: respeitado o biênio subsequente à extinção do contrato, a prescrição quinquenal conta-se do ajuizamento da reclamação, e não da extinção do contrato.
+FRANCISCA: Eu acho que é certa, Súmula trezentos e oito, item um.
+THALITA: Isso. Segunda: a reclamação arquivada interrompe a prescrição em relação a todos os pedidos relativos ao mesmo contrato, ainda que não idênticos.
+FRANCISCA: Falsa. O artigo onze, parágrafo terceiro, e a Súmula duzentos e sessenta e oito dizem que a interrupção alcança apenas os pedidos idênticos.
+THALITA: Terceira: prestações sucessivas decorrentes de alteração ou descumprimento do pactuado, a prescrição é total, exceto quando o direito à parcela esteja assegurado também por preceito de lei. Correta, artigo onze, parágrafo segundo.
 FRANCISCA: Quarta: contra menores de dezoito anos não corre nenhum prazo de prescrição. Correta, artigo quatrocentos e quarenta.
 THALITA: Então estão certas a primeira, a terceira e a quarta, alternativa D. Se eu tivesse caído na A, B, C ou E, teria sido por acreditar na segunda.
-ANTONIO: Exato, todas as demais incluem o item dois. Gabarito D.
-
+FRANCISCA: Exato, todas as demais incluem o item dois. Gabarito D.
 == SLIDE: Questão 6: FGTS
 * Culpa recíproca: indenização de 20%
 * Aprendiz: depósito de 2%
@@ -76,55 +71,53 @@ ANTONIO: Exato, todas as demais incluem o item dois. Gabarito D.
 * Pedido de demissão não autoriza saque
 * Multa sobre todos os depósitos, sem deduzir saques
 THALITA: Questão seis, técnico judiciário. Sobre o FGTS, conforme a Lei oito mil e trinta e seis e as jurisprudências do TST e do STF. A: na culpa recíproca reconhecida pela Justiça do Trabalho, a indenização é de vinte por cento.
-BRUNO: Correta. Artigo dezoito, parágrafo segundo: culpa recíproca ou força maior, vinte por cento. É o gabarito A.
-ANTONIO: Vamos às erradas. B: depósito do aprendiz de oito por cento. Errada, para o aprendiz é dois por cento, artigo quinze, parágrafo sétimo.
+FRANCISCA: Correta. Artigo dezoito, parágrafo segundo: culpa recíproca ou força maior, vinte por cento. É o gabarito A.
+THALITA: Vamos às erradas. B: depósito do aprendiz de oito por cento. Errada, para o aprendiz é dois por cento, artigo quinze, parágrafo sétimo.
 FRANCISCA: C: prescrição trintenária, observado o biênio, para ciência após novembro de dois mil e catorze. Errada. Para ciência da lesão a partir de treze de novembro de dois mil e catorze, a prescrição é quinquenal, ARE setecentos e nove mil duzentos e doze, e Súmula trezentos e sessenta e dois, item um.
 THALITA: D: o pedido de demissão autoriza a movimentação da conta. Errada, o pedido de demissão não está entre as hipóteses de saque do artigo vinte.
-BRUNO: E: a multa de quarenta por cento é calculada sobre o saldo existente na data da rescisão, deduzidos os saques. Errada! A multa incide sobre todos os depósitos do contrato, sem dedução dos saques, OJ quarenta e dois da SDI-um e artigo dezoito, parágrafo primeiro.
+FRANCISCA: E: a multa de quarenta por cento é calculada sobre o saldo existente na data da rescisão, deduzidos os saques. Errada! A multa incide sobre todos os depósitos do contrato, sem dedução dos saques, OJ quarenta e dois da SDI-um e artigo dezoito, parágrafo primeiro.
 THALITA: Gabarito A.
-
 == SLIDE: Questão 7: Comissões de Conciliação Prévia
 * Composição: mínimo 2, máximo 10 membros (art. 625-B)
 * Prazo da sessão: 10 dias (art. 625-F)
 * Garantia só para representantes dos empregados
 * Termo: título executivo extrajudicial, quitação geral salvo ressalvas
 * Tentativa suspende a prescrição (art. 625-G)
-ANTONIO: Questão sete, oficial de justiça. Sobre as Comissões de Conciliação Prévia. A: instituídas na empresa, serão compostas de no mínimo quatro e no máximo doze membros.
-BRUNO: Errada. O mínimo é dois e o máximo é dez, artigo seiscentos e vinte e cinco B.
+FRANCISCA: Questão sete, oficial de justiça. Sobre as Comissões de Conciliação Prévia. A: instituídas na empresa, serão compostas de no mínimo quatro e no máximo doze membros.
+THALITA: Errada. O mínimo é dois e o máximo é dez, artigo seiscentos e vinte e cinco B.
 FRANCISCA: B: prazo de trinta dias para a sessão de conciliação. Errada. O prazo é de dez dias, artigo seiscentos e vinte e cinco F.
 THALITA: C: garantia de emprego aos membros indicados pelo empregador e aos eleitos pelos empregados, até um ano após o mandato.
-BRUNO: Errada. A garantia é só dos representantes dos empregados, titulares e suplentes, artigo seiscentos e vinte e cinco B, parágrafo primeiro.
-ANTONIO: D: aceita a conciliação, lavra-se termo que é título executivo extrajudicial e tem eficácia liberatória geral, exceto quanto às parcelas expressamente ressalvadas. Correta. É a literalidade do artigo seiscentos e vinte e cinco E, parágrafo único.
+FRANCISCA: Errada. A garantia é só dos representantes dos empregados, titulares e suplentes, artigo seiscentos e vinte e cinco B, parágrafo primeiro.
+THALITA: D: aceita a conciliação, lavra-se termo que é título executivo extrajudicial e tem eficácia liberatória geral, exceto quanto às parcelas expressamente ressalvadas. Correta. É a literalidade do artigo seiscentos e vinte e cinco E, parágrafo único.
 FRANCISCA: E: a provocação interrompe a prescrição, que recomeça por inteiro. Errada. É suspensão, e o prazo volta a fluir pelo que lhe resta, artigo seiscentos e vinte e cinco G.
 THALITA: Gabarito D. Macete: mínimo dois, máximo dez, prazo dez dias, suspende, garantia só dos eleitos.
-
 == SLIDE: Questões 8, 9 e 10: acordo extrajudicial, adicionais e CIPA
 * Q8: petição suspende a prescrição até o trânsito da decisão que negar homologação (art. 855-E)
 * Q9: sem cumulação de adicionais (art. 193, §2º; IRR Tema 17); gabarito E
 * Q10: ADCT art. 10, II, "a"; Súmula 339, I; gabarito B
 * Advogado comum vedado (art. 855-B, §1º)
-BRUNO: Questão oito. Márcio e a Gama querem homologação de acordo extrajudicial. A: podem ter o mesmo advogado com concordância do trabalhador. Errada, as partes não podem ter advogado comum, artigo oitocentos e cinquenta e cinco B, parágrafo primeiro.
-FRANCISCA: B: o juiz analisa em trinta dias e obrigatoriamente designa audiência. Errada. O prazo é de quinze dias e a audiência é designada se entender necessário. C: a petição suspende a prescrição quanto aos direitos especificados, que volta a fluir no dia útil seguinte ao trânsito em julgado da decisão que negar a homologação. Correta, artigo oitocentos e cinquenta e cinco E.
-THALITA: D: homologação é direito líquido e certo, tutelável por mandado de segurança. Errada, Súmula quatrocentos e dezoito. E: a petição afasta a multa do artigo quatrocentos e setenta e sete, parágrafo oitavo. Errada, artigo oitocentos e cinquenta e cinco C.
-ANTONIO: Questão nove. Bruno, da Delta, trabalha exposto a agente químico em grau médio e tem contato intermitente com inflamáveis. A: direito a ambos os adicionais por fatos geradores distintos. Errada, o IRR Tema dezessete veda a cumulação, artigo cento e noventa e três, parágrafo segundo.
-BRUNO: B: periculosidade indevida porque intermitente equivale a eventual. Errada, o intermitente gera direito, Súmula trezentos e sessenta e quatro. C: insalubridade de vinte por cento sobre o salário-base. Errada, a base é o salário mínimo. D: periculosidade sobre salário com gratificações e prêmios. Errada, a base exclui. E: opção por um dos adicionais, periculosidade de trinta por cento sem acréscimos. Correta, gabarito E.
-FRANCISCA: Questão dez, CIPA. A: presidente eleito pelos empregados e vice designado pelo empregador. Errada, inverteu. C: mandato de dois anos. Errada, é um ano com uma reeleição. D: indenização se extinto o estabelecimento. Errada, Súmula trezentos e trinta e nove, item dois. E: garantia aos representantes do empregador. Errada. B: suplente eleito tem garantia desde o registro da candidatura até um ano após o mandato. Correta.
-THALITA: Gabaritos: oito é C, nove é E, dez é B.
+FRANCISCA: Questão oito. Márcio e a Gama querem homologação de acordo extrajudicial. A: podem ter o mesmo advogado com concordância do trabalhador. Errada, as partes não podem ter advogado comum, artigo oitocentos e cinquenta e cinco B, parágrafo primeiro.
+THALITA: B: o juiz analisa em trinta dias e obrigatoriamente designa audiência. Errada. O prazo é de quinze dias e a audiência é designada se entender necessário. C: a petição suspende a prescrição quanto aos direitos especificados, que volta a fluir no dia útil seguinte ao trânsito em julgado da decisão que negar a homologação. Correta, artigo oitocentos e cinquenta e cinco E.
+FRANCISCA: D: homologação é direito líquido e certo, tutelável por mandado de segurança. Errada, Súmula quatrocentos e dezoito. E: a petição afasta a multa do artigo quatrocentos e setenta e sete, parágrafo oitavo. Errada, artigo oitocentos e cinquenta e cinco C.
+THALITA: Questão nove. Bruno, da Delta, trabalha exposto a agente químico em grau médio e tem contato intermitente com inflamáveis. A: direito a ambos os adicionais por fatos geradores distintos. Errada, o IRR Tema dezessete veda a cumulação, artigo cento e noventa e três, parágrafo segundo.
+FRANCISCA: B: periculosidade indevida porque intermitente equivale a eventual. Errada, o intermitente gera direito, Súmula trezentos e sessenta e quatro. C: insalubridade de vinte por cento sobre o salário-base. Errada, a base é o salário mínimo. D: periculosidade sobre salário com gratificações e prêmios. Errada, a base exclui. E: opção por um dos adicionais, periculosidade de trinta por cento sem acréscimos. Correta, gabarito E.
+THALITA: Questão dez, CIPA. A: presidente eleito pelos empregados e vice designado pelo empregador. Errada, inverteu. C: mandato de dois anos. Errada, é um ano com uma reeleição. D: indenização se extinto o estabelecimento. Errada, Súmula trezentos e trinta e nove, item dois. E: garantia aos representantes do empregador. Errada. B: suplente eleito tem garantia desde o registro da candidatura até um ano após o mandato. Correta.
+FRANCISCA: Gabaritos: oito é C, nove é E, dez é B.
 == SLIDE: Revisão das pegadinhas das dez questões
 * Números trocados: 50%, 20 e 30 de dezembro, 2 e 4 anos, 2 e 8%
 * Verbos trocados: interrompe x suspende; dolo x culpa
 * Pessoas trocadas: empregador x empregados na CIPA e na CCP
 * Súmulas: 367, 308, 268, 339, 418
-ANTONIO: Vamos revisar o padrão das dez questões, porque a FCC repete a lógica. Primeiro padrão: troca de números. Cinquenta por cento nas diárias, que não existe mais. Trinta de dezembro em vez de vinte. Dois anos em vez de quatro para o tempo no empregador. Oito por cento do FGTS do aprendiz em vez de dois.
-THALITA: E o prazo de trinta dias na Comissão de Conciliação Prévia, que na verdade é de dez dias. E o mínimo de quatro membros, que na verdade é dois.
-FRANCISCA: Segundo padrão: troca de verbos. A tentativa de conciliação prévia suspende a prescrição, e não interrompe. A reclamação arquivada interrompe a prescrição, mas só em relação aos pedidos idênticos. No desconto por dano, dolo dispensa acordo; culpa exige acordo prévio.
-BRUNO: Terceiro padrão: troca de pessoas. Na CIPA, o empregador designa o presidente e os empregados elegem o vice, e só os representantes dos empregados têm garantia de emprego. Na Comissão de Conciliação Prévia, igualmente, a garantia é só dos representantes dos empregados.
+THALITA: Vamos revisar o padrão das dez questões, porque a FCC repete a lógica. Primeiro padrão: troca de números. Cinquenta por cento nas diárias, que não existe mais. Trinta de dezembro em vez de vinte. Dois anos em vez de quatro para o tempo no empregador. Oito por cento do FGTS do aprendiz em vez de dois.
+FRANCISCA: E o prazo de trinta dias na Comissão de Conciliação Prévia, que na verdade é de dez dias. E o mínimo de quatro membros, que na verdade é dois.
+THALITA: Segundo padrão: troca de verbos. A tentativa de conciliação prévia suspende a prescrição, e não interrompe. A reclamação arquivada interrompe a prescrição, mas só em relação aos pedidos idênticos. No desconto por dano, dolo dispensa acordo; culpa exige acordo prévio.
+FRANCISCA: Terceiro padrão: troca de pessoas. Na CIPA, o empregador designa o presidente e os empregados elegem o vice, e só os representantes dos empregados têm garantia de emprego. Na Comissão de Conciliação Prévia, igualmente, a garantia é só dos representantes dos empregados.
 THALITA: E o veículo indispensável para o trabalho, que a banca diz ser salário porque o empregado usa também para passear. Súmula trezentos e sessenta e sete: continua sem natureza salarial.
-ANTONIO: Quarto padrão: o texto antigo contra o novo. Mesma localidade em vez de mesmo estabelecimento. Cobrança da base do adicional de insalubridade sobre o salário-base em vez do salário mínimo. Homologação de acordo extrajudicial como direito líquido e certo, quando é faculdade do juiz.
-FRANCISCA: Quinto: a lógica do tempo. A prescrição não corre contra menor de dezoito anos. A quinquenal conta-se do ajuizamento, respeitado o biênio. E, no FGTS, para ciência da lesão a partir de treze de novembro de dois mil e catorze, a prescrição é quinquenal, não trintenária.
-BRUNO: Último lembrete: a multa do FGTS é sobre todos os depósitos do contrato, sem deduzir saques. Na culpa recíproca, vinte por cento.
-FRANCISCA: E mais um cuidado com o acordo extrajudicial, artigo oitocentos e cinquenta e cinco B: as partes não podem ter advogado comum. O prazo do juiz é de quinze dias, e a audiência só ocorre se ele entender necessário.
-ANTONIO: E na questão dos adicionais, guarde a regra de ouro: insalubridade e periculosidade não se acumulam. O empregado escolhe o mais favorável. Se escolher a periculosidade, são trinta por cento sobre o salário básico, sem gratificações, prêmios ou participação nos lucros.
-BRUNO: Contato intermitente com inflamável gera direito; só o contato eventual afasta o adicional, Súmula trezentos e sessenta e quatro. Muito candidato erra trocando intermitente por eventual.
-THALITA: Meu resumo: números, verbos, pessoas, texto antigo, e tempo. Se eu conferir esses cinco pontos em cada alternativa, acerto muito mais.
-ANTONIO: Perfeito. Respire e vamos à segunda rodada de questões comentadas.
+FRANCISCA: Quarto padrão: o texto antigo contra o novo. Mesma localidade em vez de mesmo estabelecimento. Cobrança da base do adicional de insalubridade sobre o salário-base em vez do salário mínimo. Homologação de acordo extrajudicial como direito líquido e certo, quando é faculdade do juiz.
+THALITA: Quinto: a lógica do tempo. A prescrição não corre contra menor de dezoito anos. A quinquenal conta-se do ajuizamento, respeitado o biênio. E, no FGTS, para ciência da lesão a partir de treze de novembro de dois mil e catorze, a prescrição é quinquenal, não trintenária.
+FRANCISCA: Último lembrete: a multa do FGTS é sobre todos os depósitos do contrato, sem deduzir saques. Na culpa recíproca, vinte por cento.
+THALITA: E mais um cuidado com o acordo extrajudicial, artigo oitocentos e cinquenta e cinco B: as partes não podem ter advogado comum. O prazo do juiz é de quinze dias, e a audiência só ocorre se ele entender necessário.
+FRANCISCA: E na questão dos adicionais, guarde a regra de ouro: insalubridade e periculosidade não se acumulam. O empregado escolhe o mais favorável. Se escolher a periculosidade, são trinta por cento sobre o salário básico, sem gratificações, prêmios ou participação nos lucros.
+THALITA: Contato intermitente com inflamável gera direito; só o contato eventual afasta o adicional, Súmula trezentos e sessenta e quatro. Muito candidato erra trocando intermitente por eventual.
+FRANCISCA: Meu resumo: números, verbos, pessoas, texto antigo, e tempo. Se eu conferir esses cinco pontos em cada alternativa, acerto muito mais.
+THALITA: Perfeito. Respire e vamos à segunda rodada de questões comentadas.

@@ -4,59 +4,57 @@ SEGMENTO s203
 * Impenhorabilidade: art. 833 do CPC, doze incisos
 * Móveis da casa, vestuário, salários, ferramentas de trabalho
 * Ressalvas: alto valor e acima do padrão médio
-ANTONIO: Olá, pessoal! Bem-vindos à aula cinquenta e nove de Direito Processual do Trabalho, a parte dois da execução trabalhista, com foco no oficial de justiça. Hoje vamos ver bens impenhoráveis e bem de família, defesas na execução, expropriação, custas e prazos, e fechamos com questões comentadas. Eu sou o Antônio.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase e a jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra e onde ela arma as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira. Pergunto o que você perguntaria e fecho com macetes.
-ANTONIO: Vamos começar pelos bens impenhoráveis. O oficial de justiça penhora bens do executado, mas a lei protege alguns. O rol está no artigo oitocentos e trinta e três do Código de Processo Civil, com doze incisos, e vale na execução trabalhista.
+FRANCISCA: Olá, pessoal! Bem-vindos à aula cinquenta e nove de Direito Processual do Trabalho, a parte dois da execução trabalhista, com foco no oficial de justiça. Hoje vamos ver bens impenhoráveis e bem de família, defesas na execução, expropriação, custas e prazos, e fechamos com questões comentadas. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos começar pelos bens impenhoráveis. O oficial de justiça penhora bens do executado, mas a lei protege alguns. O rol está no artigo oitocentos e trinta e três do Código de Processo Civil, com doze incisos, e vale na execução trabalhista.
 THALITA: Doze? Eu preciso decorar todos?
-BRUNO: Preciso dizer que a FCC cobra os mais comuns, então vale conhecer o espírito de cada um. Francisca, começa.
-FRANCISCA: O inciso um protege os bens inalienáveis e os declarados, por ato voluntário, não sujeitos à execução. O inciso dois, os móveis e utilidades domésticas que guarnecem a residência, salvo os de elevado valor ou acima do padrão médio de vida. O inciso três, vestuário e pertences de uso pessoal, salvo os de elevado valor.
-ANTONIO: O inciso quatro é o mais famoso: salários, vencimentos, subsídios, soldos, proventos, pensões, pecúlios, montepios, ganhos de autônomo e honorários de profissional liberal. Já o inciso cinco protege livros, máquinas, ferramentas e instrumentos necessários ou úteis ao exercício da profissão.
+FRANCISCA: Preciso dizer que a FCC cobra os mais comuns, então vale conhecer o espírito de cada um. Thalita, começa.
+THALITA: O inciso um protege os bens inalienáveis e os declarados, por ato voluntário, não sujeitos à execução. O inciso dois, os móveis e utilidades domésticas que guarnecem a residência, salvo os de elevado valor ou acima do padrão médio de vida. O inciso três, vestuário e pertences de uso pessoal, salvo os de elevado valor.
+FRANCISCA: O inciso quatro é o mais famoso: salários, vencimentos, subsídios, soldos, proventos, pensões, pecúlios, montepios, ganhos de autônomo e honorários de profissional liberal. Já o inciso cinco protege livros, máquinas, ferramentas e instrumentos necessários ou úteis ao exercício da profissão.
 THALITA: Então o torno do marceneiro é impenhorável?
 FRANCISCA: Em regra sim, se necessário ou útil à profissão. E há uma ressalva no parágrafo terceiro: máquinas agrícolas respondem por dívida trabalhista, alimentar ou previdenciária, ou se foram dadas em garantia.
-BRUNO: Os demais incisos: seguro de vida; materiais de obras em andamento, salvo se a própria obra for penhorada; pequena propriedade rural trabalhada pela família; recursos públicos recebidos por entidades privadas para aplicação em educação, saúde ou assistência social; poupança até quarenta salários mínimos; recursos do fundo partidário; e créditos de alienação de unidades em incorporação, vinculados à obra.
-THALITA: Macete: casa, roupa, salário, ferramenta, seguro, obra, roça, verba pública, poupança até quarenta, partido e incorporação.
+THALITA: Os demais incisos: seguro de vida; materiais de obras em andamento, salvo se a própria obra for penhorada; pequena propriedade rural trabalhada pela família; recursos públicos recebidos por entidades privadas para aplicação em educação, saúde ou assistência social; poupança até quarenta salários mínimos; recursos do fundo partidário; e créditos de alienação de unidades em incorporação, vinculados à obra.
+FRANCISCA: Macete: casa, roupa, salário, ferramenta, seguro, obra, roça, verba pública, poupança até quarenta, partido e incorporação.
 == SLIDE: Salário, poupança e dívida alimentar
 * Art. 833, §2º: incisos IV e X cedem ao crédito alimentar
 * Crédito trabalhista é alimentar: penhora parcial de salário e poupança
 * Limite: até 50% dos ganhos líquidos (art. 529, §3º)
 * §1º: impenhorabilidade não vale contra a dívida do próprio bem
 * Art. 834: frutos e rendimentos de bens inalienáveis são penhoráveis
-ANTONIO: Agora o ponto que a banca ama: as relativizações. O parágrafo segundo do artigo oitocentos e trinta e três diz que a impenhorabilidade do inciso quatro, que é a dos salários, e do inciso dez, que é a da poupança, não se aplica à penhora para pagamento de prestação alimentícia, independentemente de sua origem.
-THALITA: Mas crédito trabalhista é alimentar, né? Então dá para penhorar salário?
-FRANCISCA: É a leitura atual. A expressão "independentemente de sua origem" abriu a possibilidade de penhora parcial do salário e da poupança do devedor trabalhista, observado o limite de até cinquenta por cento dos ganhos líquidos, pelo artigo quinhentos e vinte e nove, parágrafo terceiro. Também não são protegidas as importâncias que excedam cinquenta salários mínimos mensais.
-BRUNO: Atenção à pegadinha: a questão pode dizer que salário é absolutamente impenhorável. Errado. Em regra é impenhorável, mas a regra cede para dívida alimentar.
-ANTONIO: E o parágrafo primeiro traz outra exceção: nenhuma impenhorabilidade é oponível à execução de dívida relativa ao próprio bem, inclusive àquela contraída para a sua aquisição.
-THALITA: Tipo um financiamento do próprio carro?
-FRANCISCA: Isso. Quem financiou o bem não pode alegar impenhorabilidade contra o credor desse financiamento.
-BRUNO: Mais um dispositivo cobrado: o artigo oitocentos e trinta e quatro. À falta de outros bens, podem ser penhorados os frutos e rendimentos dos bens inalienáveis. Se a banca disser que frutos de bens inalienáveis são absolutamente impenhoráveis, é erro.
+THALITA: Agora o ponto que a banca ama: as relativizações. O parágrafo segundo do artigo oitocentos e trinta e três diz que a impenhorabilidade do inciso quatro, que é a dos salários, e do inciso dez, que é a da poupança, não se aplica à penhora para pagamento de prestação alimentícia, independentemente de sua origem.
+FRANCISCA: Mas crédito trabalhista é alimentar, né? Então dá para penhorar salário?
+THALITA: É a leitura atual. A expressão "independentemente de sua origem" abriu a possibilidade de penhora parcial do salário e da poupança do devedor trabalhista, observado o limite de até cinquenta por cento dos ganhos líquidos, pelo artigo quinhentos e vinte e nove, parágrafo terceiro. Também não são protegidas as importâncias que excedam cinquenta salários mínimos mensais.
+FRANCISCA: Atenção à pegadinha: a questão pode dizer que salário é absolutamente impenhorável. Errado. Em regra é impenhorável, mas a regra cede para dívida alimentar.
+THALITA: E o parágrafo primeiro traz outra exceção: nenhuma impenhorabilidade é oponível à execução de dívida relativa ao próprio bem, inclusive àquela contraída para a sua aquisição.
+FRANCISCA: Tipo um financiamento do próprio carro?
+THALITA: Isso. Quem financiou o bem não pode alegar impenhorabilidade contra o credor desse financiamento.
+FRANCISCA: Mais um dispositivo cobrado: o artigo oitocentos e trinta e quatro. À falta de outros bens, podem ser penhorados os frutos e rendimentos dos bens inalienáveis. Se a banca disser que frutos de bens inalienáveis são absolutamente impenhoráveis, é erro.
 == SLIDE: Bem de família legal: Lei 8.009
 * Imóvel residencial próprio do casal ou da entidade familiar é impenhorável
 * Inclui construções, benfeitorias e móveis quitados
 * Vários imóveis: protege-se o de menor valor (art. 5º)
 * Má-fé na compra de imóvel mais valioso: sem proteção (art. 4º)
-ANTONIO: Vamos ao bem de família legal, na Lei oito mil e nove, de mil novecentos e noventa. O artigo primeiro diz que o imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responde por dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges, pais ou filhos que sejam seus proprietários e nele residam.
-THALITA: Só a casa?
-FRANCISCA: Não só. A proteção alcança as construções, plantações, benfeitorias e os móveis quitados que guarnecem a casa. Ficam de fora os veículos, as obras de arte e os adornos suntuosos, conforme o artigo segundo.
-BRUNO: Duas regras que aparecem em prova. Primeira: se a família tem vários imóveis residenciais, protege-se o de menor valor, salvo se outro foi registrado para esse fim, artigo quinto. Segunda: quem, estando insolvente, compra de má-fé um imóvel mais valioso para mudar a residência não é protegido, artigo quarto.
+THALITA: Vamos ao bem de família legal, na Lei oito mil e nove, de mil novecentos e noventa. O artigo primeiro diz que o imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responde por dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges, pais ou filhos que sejam seus proprietários e nele residam.
+FRANCISCA: Só a casa?
+THALITA: Não só. A proteção alcança as construções, plantações, benfeitorias e os móveis quitados que guarnecem a casa. Ficam de fora os veículos, as obras de arte e os adornos suntuosos, conforme o artigo segundo.
+FRANCISCA: Duas regras que aparecem em prova. Primeira: se a família tem vários imóveis residenciais, protege-se o de menor valor, salvo se outro foi registrado para esse fim, artigo quinto. Segunda: quem, estando insolvente, compra de má-fé um imóvel mais valioso para mudar a residência não é protegido, artigo quarto.
 THALITA: Então não adianta comprar uma mansão na véspera da execução.
 FRANCISCA: Exato. E o Superior Tribunal de Justiça tem súmulas importantes. A trezentos e sessenta e quatro protege também solteiros, separados e viúvos. A quatrocentos e oitenta e seis diz que é impenhorável o único imóvel locado a terceiros, se a renda reverte para a subsistência ou moradia da família.
-BRUNO: E a quatrocentos e quarenta e nove diz que vaga de garagem com matrícula própria não é bem de família. Pegadinha clássica.
-ANTONIO: Fique também com a ressalva da apostila: imóvel de alto valor. A lei não o exclui, e a jurisprudência majoritária mantém a impenhorabilidade, embora haja decisões que admitam penhora com reserva de valor para nova moradia. Confira o entendimento antes de marcar.
+THALITA: E a quatrocentos e quarenta e nove diz que vaga de garagem com matrícula própria não é bem de família. Pegadinha clássica.
+FRANCISCA: Fique também com a ressalva da apostila: imóvel de alto valor. A lei não o exclui, e a jurisprudência majoritária mantém a impenhorabilidade, embora haja decisões que admitam penhora com reserva de valor para nova moradia. Confira o entendimento antes de marcar.
 == SLIDE: Exceções do artigo 3º e bem de família voluntário
 * Crédito trabalhista comum não é exceção
 * Inciso I revogado pela LC 150/2015: nem o doméstico penhora
 * Exceções: financiamento, pensão, tributos do imóvel, hipoteca, crime, fiança de locação
 * Bem de família voluntário: até 1/3 do patrimônio líquido
-FRANCISCA: Agora as exceções do artigo terceiro da Lei oito mil e nove. O caput já deixa claro: a impenhorabilidade é oponível em qualquer processo, inclusive o trabalhista, salvo nas hipóteses da lei. Ou seja, o crédito trabalhista comum não é exceção.
-THALITA: E o empregado doméstico? Eu lembro que ele podia penhorar a casa do patrão.
-FRANCISCA: Lembrava certo, mas mudou. O inciso um, que excepcionava os créditos de trabalhadores da própria residência, foi revogado pela Lei Complementar cento e cinquenta, de dois mil e quinze. Nem o empregado doméstico penhora mais o bem de família do empregador.
-BRUNO: Esse é um dos preferidos da banca. Se a alternativa diz que o doméstico pode penhorar o imóvel do empregador, está errada hoje.
-ANTONIO: As exceções que restam: financiamento para construção ou aquisição do imóvel; pensão alimentícia, resguardada a meação do cônjuge ou companheiro coproprietário; impostos, taxas e contribuições devidos em função do imóvel; hipoteca dada em garantia real pela entidade familiar; imóvel adquirido com produto de crime ou para execução de sentença penal condenatória de ressarcimento, indenização ou perdimento; e fiança em contrato de locação.
-THALITA: E a fiança? Dá para penhorar a casa do fiador?
-BRUNO: Dá. A Súmula quinhentos e quarenta e nove do Superior Tribunal de Justiça diz que é válida a penhora do bem de família do fiador de locação, e o Supremo estendeu isso também à locação comercial, no tema mil cento e vinte e sete.
-ANTONIO: Por fim, o bem de família voluntário, do Código Civil. É instituído por escritura pública ou testamento, até um terço do patrimônio líquido, e só isenta de dívidas posteriores, salvo tributos do prédio e condomínio.
+THALITA: Agora as exceções do artigo terceiro da Lei oito mil e nove. O caput já deixa claro: a impenhorabilidade é oponível em qualquer processo, inclusive o trabalhista, salvo nas hipóteses da lei. Ou seja, o crédito trabalhista comum não é exceção.
+FRANCISCA: E o empregado doméstico? Eu lembro que ele podia penhorar a casa do patrão.
+THALITA: Lembrava certo, mas mudou. O inciso um, que excepcionava os créditos de trabalhadores da própria residência, foi revogado pela Lei Complementar cento e cinquenta, de dois mil e quinze. Nem o empregado doméstico penhora mais o bem de família do empregador.
+FRANCISCA: Esse é um dos preferidos da banca. Se a alternativa diz que o doméstico pode penhorar o imóvel do empregador, está errada hoje.
+THALITA: As exceções que restam: financiamento para construção ou aquisição do imóvel; pensão alimentícia, resguardada a meação do cônjuge ou companheiro coproprietário; impostos, taxas e contribuições devidos em função do imóvel; hipoteca dada em garantia real pela entidade familiar; imóvel adquirido com produto de crime ou para execução de sentença penal condenatória de ressarcimento, indenização ou perdimento; e fiança em contrato de locação.
+FRANCISCA: E a fiança? Dá para penhorar a casa do fiador?
+THALITA: Dá. A Súmula quinhentos e quarenta e nove do Superior Tribunal de Justiça diz que é válida a penhora do bem de família do fiador de locação, e o Supremo estendeu isso também à locação comercial, no tema mil cento e vinte e sete.
+FRANCISCA: Por fim, o bem de família voluntário, do Código Civil. É instituído por escritura pública ou testamento, até um terço do patrimônio líquido, e só isenta de dívidas posteriores, salvo tributos do prédio e condomínio.
 THALITA: Macete: legal é automático e vale para dívidas, voluntário é por escritura, um terço e só para dívida futura.
 == SLIDE: Embargos à execução e impugnação à liquidação
 * Art. 884: 5 dias após garantia ou penhora; Fazenda, 30 dias
@@ -66,12 +64,12 @@ THALITA: Macete: legal é automático e vale para dívidas, voluntário é por e
 * Recurso: agravo de petição, 8 dias
 FRANCISCA: Passamos às defesas. Os embargos à execução estão no artigo oitocentos e oitenta e quatro: garantida a execução ou penhorados os bens, o executado tem cinco dias para embargar, e o exequente tem igual prazo para impugnação. Para a Fazenda Pública, o prazo é de trinta dias.
 THALITA: Cinco dias a partir da penhora?
-BRUNO: A partir da garantia da execução ou da penhora. O prazo só abre depois disso. E atenção: antes dos embargos, elaborada a conta, o juízo deve abrir prazo comum de oito dias para impugnação fundamentada, sob pena de preclusão, no artigo oitocentos e setenta e nove, parágrafo segundo.
-ANTONIO: A matéria de defesa, pelo parágrafo primeiro, é restrita às alegações de cumprimento da decisão ou do acordo, quitação ou prescrição da dívida.
+FRANCISCA: A partir da garantia da execução ou da penhora. O prazo só abre depois disso. E atenção: antes dos embargos, elaborada a conta, o juízo deve abrir prazo comum de oito dias para impugnação fundamentada, sob pena de preclusão, no artigo oitocentos e setenta e nove, parágrafo segundo.
+THALITA: A matéria de defesa, pelo parágrafo primeiro, é restrita às alegações de cumprimento da decisão ou do acordo, quitação ou prescrição da dívida.
 FRANCISCA: Com um detalhe: a prescrição aqui é a superveniente à sentença, hoje a intercorrente, do artigo onze, letra A: dois anos, contados do descumprimento de determinação judicial pelo exequente, declarável de ofício. E o rol é complementado pelo CPC: excesso de execução, penhora incorreta, inexigibilidade do título.
 THALITA: O parágrafo terceiro diz que só nos embargos à penhora o executado pode impugnar a sentença de liquidação, certo?
-BRUNO: Certo. Também há audiência para prova testemunhal em até cinco dias, se o juiz entender necessária, e embargos e impugnações dos credores trabalhista e previdenciário são julgados na mesma sentença.
-ANTONIO: Ainda no artigo oitocentos e oitenta e quatro, o parágrafo quinto considera inexigível o título fundado em lei declarada inconstitucional pelo Supremo, e o parágrafo sexto, trazido pela Reforma, dispensa a garantia ou a penhora para as entidades filantrópicas e para aqueles que compõem ou compuseram a diretoria dessas instituições.
+FRANCISCA: Certo. Também há audiência para prova testemunhal em até cinco dias, se o juiz entender necessária, e embargos e impugnações dos credores trabalhista e previdenciário são julgados na mesma sentença.
+THALITA: Ainda no artigo oitocentos e oitenta e quatro, o parágrafo quinto considera inexigível o título fundado em lei declarada inconstitucional pelo Supremo, e o parágrafo sexto, trazido pela Reforma, dispensa a garantia ou a penhora para as entidades filantrópicas e para aqueles que compõem ou compuseram a diretoria dessas instituições.
 FRANCISCA: O recurso dessa sentença é o agravo de petição, em oito dias, delimitando matérias e valores.
 THALITA: Deixa eu resumir para fixar. Embargos, cinco dias depois da garantia. Matéria restrita: cumprimento, quitação ou prescrição, mais o que o CPC acrescenta. Fazenda tem trinta dias. Filantrópica não precisa garantir. Recurso, agravo de petição em oito dias. Está certo assim?
 == SLIDE: Pré-executividade e embargos de terceiro
@@ -80,13 +78,13 @@ THALITA: Deixa eu resumir para fixar. Embargos, cinco dias depois da garantia. M
 * Embargos de terceiro: 5 dias após ato e antes da carta
 * Súmula 419 do TST: julgamento no juízo deprecado
 * Contestação em 15 dias; custas ao final
-BRUNO: A exceção de pré-executividade é petição simples, sem garantia e sem prazo preclusivo, para matéria de ordem pública com prova pré-constituída, sem dilação probatória. A Súmula trezentos e noventa e três do STJ cuida disso. A rejeição é decisão interlocutória, irrecorrível de imediato, Súmula duzentos e catorze do TST. O acolhimento que extingue a execução desafia agravo de petição.
+FRANCISCA: A exceção de pré-executividade é petição simples, sem garantia e sem prazo preclusivo, para matéria de ordem pública com prova pré-constituída, sem dilação probatória. A Súmula trezentos e noventa e três do STJ cuida disso. A rejeição é decisão interlocutória, irrecorrível de imediato, Súmula duzentos e catorze do TST. O acolhimento que extingue a execução desafia agravo de petição.
 THALITA: Então não precisa garantir o juízo para usar?
-BRUNO: Não precisa, mas só vale para matéria que o juiz poderia conhecer de ofício e provada de plano.
-ANTONIO: Agora os embargos de terceiro, nos artigos seiscentos e setenta e quatro a seiscentos e oitenta e um do CPC. O legitimado é quem não é parte e sofre constrição, ou ameaça de constrição, sobre bem que possui ou sobre o qual tem direito incompatível. Equiparam-se a terceiro o cônjuge que defende bens próprios ou a meação, o adquirente de bem em alienação declarada ineficaz por fraude à execução, e quem sofre constrição por desconsideração sem ter participado do incidente.
+FRANCISCA: Não precisa, mas só vale para matéria que o juiz poderia conhecer de ofício e provada de plano.
+THALITA: Agora os embargos de terceiro, nos artigos seiscentos e setenta e quatro a seiscentos e oitenta e um do CPC. O legitimado é quem não é parte e sofre constrição, ou ameaça de constrição, sobre bem que possui ou sobre o qual tem direito incompatível. Equiparam-se a terceiro o cônjuge que defende bens próprios ou a meação, o adquirente de bem em alienação declarada ineficaz por fraude à execução, e quem sofre constrição por desconsideração sem ter participado do incidente.
 FRANCISCA: Na execução há dois limites cumulativos, pelo artigo seiscentos e setenta e cinco: até cinco dias depois da adjudicação, da alienação ou da arrematação, e sempre antes da assinatura da carta.
 THALITA: Cinco dias e antes da carta. E quem julga?
 FRANCISCA: Competente é o juízo que ordenou a constrição, em autos apartados. Quando a constrição foi por carta precatória, a Súmula quatrocentos e dezenove do TST diz que os embargos são oferecidos no juízo deprecado, salvo se o deprecante indicou o bem ou se a carta já foi devolvida.
-BRUNO: Alerta de prova: a redação antiga atribuía o julgamento ao deprecante. A de dois mil e dezesseis inverteu a regra. Alternativa com o texto antigo está errada.
-ANTONIO: Existe liminar para suspender a constrição, a contestação é em quinze dias, o recurso é agravo de petição, e as custas são pagas ao final. Lembre ainda das súmulas oitenta e quatro e trezentos e setenta e cinco do STJ: posse de compromisso de compra e venda sem registro autoriza os embargos, e a fraude à execução exige registro da penhora ou prova de má-fé do adquirente.
+THALITA: Alerta de prova: a redação antiga atribuía o julgamento ao deprecante. A de dois mil e dezesseis inverteu a regra. Alternativa com o texto antigo está errada.
+FRANCISCA: Existe liminar para suspender a constrição, a contestação é em quinze dias, o recurso é agravo de petição, e as custas são pagas ao final. Lembre ainda das súmulas oitenta e quatro e trezentos e setenta e cinco do STJ: posse de compromisso de compra e venda sem registro autoriza os embargos, e a fraude à execução exige registro da penhora ou prova de má-fé do adquirente.
 THALITA: Macete: terceiro, cinco dias e antes da carta. Vamos agora ver como o bem é vendido, na expropriação.

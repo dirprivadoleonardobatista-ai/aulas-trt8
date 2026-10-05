@@ -6,44 +6,41 @@ SEGMENTO s117
 * Rescisão: falta grave, acumulação ilegal, excesso de despesa, insuficiência de desempenho
 FRANCISCA: Vimos o regime estatutário e o constitucional. Agora o emprego público. O empregado público é celetista, mas não é empregado comum: ingressa por concurso, submete-se ao teto, quando a estatal depende de recursos públicos, e à vedação de acumulação.
 THALITA: E qual lei regula isso?
-ANTONIO: Para a Administração federal direta, autárquica e fundacional, a Lei nove mil novecentos e sessenta e dois, de dois mil. Ela diz que o pessoal de emprego público é regido pela CLT e pela legislação trabalhista correlata, naquilo que a lei não dispuser em contrário. Os empregos são criados por lei, e é vedada essa criação para cargos em comissão.
-BRUNO: O ingresso é por concurso de provas ou de provas e títulos, conforme a complexidade do emprego. E a rescisão unilateral tem hipóteses fechadas, no artigo terceiro.
-THALITA: Quais são?
-FRANCISCA: Quatro. Falta grave, do artigo quatrocentos e oitenta e dois da CLT. Acumulação ilegal de cargos, empregos ou funções. Redução de quadro por excesso de despesa com pessoal. E insuficiência de desempenho, apurada em procedimento com ao menos um recurso hierárquico com efeito suspensivo, apreciado em trinta dias, com prévio conhecimento dos padrões mínimos exigidos.
-THALITA: Então não dá para demitir um celetista da administração direta só porque o chefe quis.
-ANTONIO: Exatamente. Agora, atenção: esse regime vale para a Administração direta, autárquica e fundacional.
-
+FRANCISCA: Para a Administração federal direta, autárquica e fundacional, a Lei nove mil novecentos e sessenta e dois, de dois mil. Ela diz que o pessoal de emprego público é regido pela CLT e pela legislação trabalhista correlata, naquilo que a lei não dispuser em contrário. Os empregos são criados por lei, e é vedada essa criação para cargos em comissão.
+THALITA: O ingresso é por concurso de provas ou de provas e títulos, conforme a complexidade do emprego. E a rescisão unilateral tem hipóteses fechadas, no artigo terceiro.
+FRANCISCA: Quais são?
+THALITA: Quatro. Falta grave, do artigo quatrocentos e oitenta e dois da CLT. Acumulação ilegal de cargos, empregos ou funções. Redução de quadro por excesso de despesa com pessoal. E insuficiência de desempenho, apurada em procedimento com ao menos um recurso hierárquico com efeito suspensivo, apreciado em trinta dias, com prévio conhecimento dos padrões mínimos exigidos.
+FRANCISCA: Então não dá para demitir um celetista da administração direta só porque o chefe quis.
+THALITA: Exatamente. Agora, atenção: esse regime vale para a Administração direta, autárquica e fundacional.
 == SLIDE: Empregados de estatais e o Tema 1022
 * Celetista da direta, autarquia ou fundação: estabilidade do art. 41
 * Empresa pública e sociedade de economia mista: sem estabilidade
 * Tema 1022: dispensa motivada, sem processo administrativo
 * Contratação sem concurso é nula (Súmula 363 TST)
 * Teto para estatais que recebem recursos públicos
-BRUNO: Para empresas públicas e sociedades de economia mista, o entendimento é outro. Pela Súmula trezentos e noventa do TST, o servidor celetista da administração direta, autárquica ou fundacional tem a estabilidade do artigo quarenta e um. O empregado de empresa pública ou sociedade de economia mista, ainda que concursado, não tem.
+FRANCISCA: Para empresas públicas e sociedades de economia mista, o entendimento é outro. Pela Súmula trezentos e noventa do TST, o servidor celetista da administração direta, autárquica ou fundacional tem a estabilidade do artigo quarenta e um. O empregado de empresa pública ou sociedade de economia mista, ainda que concursado, não tem.
 THALITA: Mas então a estatal demite quando quiser? Eu chutaria que sim, já que não há estabilidade.
-BRUNO: Chute errado, Thalita. Não mais. O Tema mil e vinte e dois do Supremo, de dois mil e vinte e quatro, diz que as estatais, sejam prestadoras de serviço público ou exploradoras de atividade econômica, ainda que em regime concorrencial, têm o dever de motivar, em ato formal, a demissão dos empregados concursados.
-FRANCISCA: Não se exige processo administrativo. E a motivação deve ser um fundamento razoável, sem necessidade de enquadrar na justa causa trabalhista. Os efeitos foram modulados para dispensas posteriores à ata do julgamento.
-THALITA: Então: motivar, sim. Processo administrativo, não. Justa causa, não precisa.
-BRUNO: Perfeito. As trocas da FCC: dizer que o dever de motivar vale apenas para prestadoras de serviço público, que era a lógica antiga dos Correios; exigir processo administrativo disciplinar; ou exigir enquadramento no artigo quatrocentos e oitenta e dois da CLT. Todas erradas.
-ANTONIO: Outros pontos: a contratação sem concurso é nula, e gera direito só à contraprestação pactuada e aos depósitos do FGTS, pela Súmula trezentos e sessenta e três do TST.
+FRANCISCA: Chute errado, Thalita. Não mais. O Tema mil e vinte e dois do Supremo, de dois mil e vinte e quatro, diz que as estatais, sejam prestadoras de serviço público ou exploradoras de atividade econômica, ainda que em regime concorrencial, têm o dever de motivar, em ato formal, a demissão dos empregados concursados.
+THALITA: Não se exige processo administrativo. E a motivação deve ser um fundamento razoável, sem necessidade de enquadrar na justa causa trabalhista. Os efeitos foram modulados para dispensas posteriores à ata do julgamento.
+FRANCISCA: Então: motivar, sim. Processo administrativo, não. Justa causa, não precisa.
+THALITA: Perfeito. As trocas da FCC: dizer que o dever de motivar vale apenas para prestadoras de serviço público, que era a lógica antiga dos Correios; exigir processo administrativo disciplinar; ou exigir enquadramento no artigo quatrocentos e oitenta e dois da CLT. Todas erradas.
+FRANCISCA: Outros pontos: a contratação sem concurso é nula, e gera direito só à contraprestação pactuada e aos depósitos do FGTS, pela Súmula trezentos e sessenta e três do TST.
 THALITA: Então a súmula fala em nulidade, mas o trabalhador não fica sem receber nada, certo?
-ANTONIO: Certo, ele recebe as horas trabalhadas e o FGTS.
-FRANCISCA: O teto remuneratório se aplica às estatais que recebem recursos da União, Estados, Distrito Federal ou Municípios para despesas de pessoal ou custeio em geral. E a estatal exploradora de atividade econômica segue o regime próprio das empresas privadas quanto aos direitos trabalhistas.
-
+FRANCISCA: Certo, ele recebe as horas trabalhadas e o FGTS.
+THALITA: O teto remuneratório se aplica às estatais que recebem recursos da União, Estados, Distrito Federal ou Municípios para despesas de pessoal ou custeio em geral. E a estatal exploradora de atividade econômica segue o regime próprio das empresas privadas quanto aos direitos trabalhistas.
 == SLIDE: Greve dos servidores: eficácia limitada e solução do Supremo
 * Art. 37, VII: lei específica ainda não editada
 * MI 670, 708 e 712: aplicar Lei 7.783/1989 no que couber
 * Competência: STJ, TRF ou TJ; Justiça comum para celetistas
 * Militares: sindicalização e greve vedadas
-THALITA: Falando em direitos, e a greve do servidor? Pode?
-ANTONIO: O artigo trinta e sete, inciso sete, diz que o direito de greve será exercido nos termos e nos limites definidos em lei específica. É norma de eficácia limitada.
+FRANCISCA: Falando em direitos, e a greve do servidor? Pode?
+THALITA: O artigo trinta e sete, inciso sete, diz que o direito de greve será exercido nos termos e nos limites definidos em lei específica. É norma de eficácia limitada.
 FRANCISCA: E a lei específica, que é lei ordinária, nunca foi editada. Antes da Emenda dezenove, falava-se em lei complementar. Diante da omissão, o Supremo, nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze, de dois mil e sete, mandou aplicar, no que couber, a Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, a lei de greve da iniciativa privada, e também a lei sete mil setecentos e um, de mil novecentos e oitenta e oito.
 THALITA: Então servidor pode fazer greve, usando a lei dos privados provisoriamente.
-BRUNO: Isso. E tem a competência. Para estatutários, greve de âmbito nacional ou em mais de uma região vai para o Superior Tribunal de Justiça. Restrita a uma região ou estado, vai ao tribunal regional federal ou ao tribunal de justiça. Para celetistas da administração direta, autárquica e fundacional, a Justiça comum, federal ou estadual, julga a abusividade da greve, pelo Tema quinhentos e quarenta e quatro.
+FRANCISCA: Isso. E tem a competência. Para estatutários, greve de âmbito nacional ou em mais de uma região vai para o Superior Tribunal de Justiça. Restrita a uma região ou estado, vai ao tribunal regional federal ou ao tribunal de justiça. Para celetistas da administração direta, autárquica e fundacional, a Justiça comum, federal ou estadual, julga a abusividade da greve, pelo Tema quinhentos e quarenta e quatro.
 THALITA: E militar?
-ANTONIO: Militares não podem fazer greve nem se sindicalizar. É vedação constitucional expressa, no artigo cento e quarenta e dois, parágrafo terceiro, inciso quatro.
-BRUNO: A pegadinha é dizer que o direito de greve do servidor é de eficácia plena. Errado. É limitada, mas a omissão foi suprida pelo Supremo.
-
+FRANCISCA: Militares não podem fazer greve nem se sindicalizar. É vedação constitucional expressa, no artigo cento e quarenta e dois, parágrafo terceiro, inciso quatro.
+THALITA: A pegadinha é dizer que o direito de greve do servidor é de eficácia plena. Errado. É limitada, mas a omissão foi suprida pelo Supremo.
 == SLIDE: Desconto dos dias parados e segurança pública
 * Tema 531: desconto obrigatório; compensação por acordo
 * Desconto incabível se a greve decorreu de conduta ilícita do Poder Público
@@ -51,10 +48,10 @@ BRUNO: A pegadinha é dizer que o direito de greve do servidor é de eficácia p
 * Exemplo: greve de dez dias no TRT
 FRANCISCA: Agora o desconto. O Tema quinhentos e trinta e um do Supremo diz que a Administração deve descontar os dias de paralisação, pela suspensão do vínculo funcional. É permitida a compensação mediante acordo.
 THALITA: Então se fizer greve, perde o salário dos dias parados.
-BRUNO: Em regra, sim. Mas há uma exceção: o desconto é incabível se ficar demonstrado que a greve foi provocada por conduta ilícita do próprio Poder Público.
-ANTONIO: Um exemplo: os servidores de um tribunal do trabalho fazem greve de dez dias por reajuste. Não houve conduta ilícita do tribunal. O desconto dos dez dias é devido. Mas, se a Administração e a entidade sindical firmarem acordo de compensação, as horas podem ser repostas e o desconto afastado.
-THALITA: Então a compensação depende de acordo, não é automática.
-FRANCISCA: Isso mesmo. Agora o Tema quinhentos e quarenta e um: o exercício do direito de greve, sob qualquer forma, é vedado aos policiais civis e a todos os servidores que atuem diretamente na área de segurança pública. E é obrigatória a participação do Poder Público em mediação instaurada pelos órgãos classistas dessas carreiras.
-BRUNO: Atenção ao critério: é funcional. A tese fala em servidores que atuem diretamente na área de segurança pública. A polícia judicial não integra o rol do artigo cento e quarenta e quatro da Constituição, e se a vedação a alcança não está pacificado. Em prova, siga a literalidade da tese.
+FRANCISCA: Em regra, sim. Mas há uma exceção: o desconto é incabível se ficar demonstrado que a greve foi provocada por conduta ilícita do próprio Poder Público.
+THALITA: Um exemplo: os servidores de um tribunal do trabalho fazem greve de dez dias por reajuste. Não houve conduta ilícita do tribunal. O desconto dos dez dias é devido. Mas, se a Administração e a entidade sindical firmarem acordo de compensação, as horas podem ser repostas e o desconto afastado.
+FRANCISCA: Então a compensação depende de acordo, não é automática.
+THALITA: Isso mesmo. Agora o Tema quinhentos e quarenta e um: o exercício do direito de greve, sob qualquer forma, é vedado aos policiais civis e a todos os servidores que atuem diretamente na área de segurança pública. E é obrigatória a participação do Poder Público em mediação instaurada pelos órgãos classistas dessas carreiras.
+FRANCISCA: Atenção ao critério: é funcional. A tese fala em servidores que atuem diretamente na área de segurança pública. A polícia judicial não integra o rol do artigo cento e quarenta e quatro da Constituição, e se a vedação a alcança não está pacificado. Em prova, siga a literalidade da tese.
 THALITA: Fechou. Greve vedada para segurança pública e militares, mas permitida, com desconto, para os demais.
-ANTONIO: Muito bem. Com o regime constitucional e a greve resolvidos, passamos à própria Lei oito mil cento e doze: disposições preliminares, requisitos, concurso e formas de provimento.
+FRANCISCA: Muito bem. Com o regime constitucional e a greve resolvidos, passamos à própria Lei oito mil cento e doze: disposições preliminares, requisitos, concurso e formas de provimento.

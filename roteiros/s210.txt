@@ -4,19 +4,17 @@ SEGMENTO s210
 * Embargos infringentes: SDC, decisão não unânime em dissídio coletivo
 * Embargos de divergência: SDI-1, contra acórdão de Turma
 * Art. 894 da CLT
-ANTONIO: Olá, pessoal! Bem-vindos à aula sessenta e um de Direito Processual do Trabalho, a parte dois dos recursos, do PJe e dos precedentes. Hoje vamos ver embargos no TST, agravos, recurso extraordinário, recurso adesivo e figuras afins. Depois, o Processo Judicial Eletrônico e a Reforma Trabalhista no processo, e, por fim, a uniformização de jurisprudência e os precedentes obrigatórios. Eu sou o Antônio.
-FRANCISCA: Eu sou a Francisca, professora. Trago a lei em paráfrase e a jurisprudência.
-BRUNO: Eu sou o Bruno, especialista em FCC. Mostro como a banca cobra.
-THALITA: Eu sou a Thalita, concurseira. Pergunto, resumo e às vezes erro de propósito para vocês me corrigirem.
-ANTONIO: Vamos começar pelos embargos no TST, no artigo oitocentos e noventa e quatro da CLT. São duas espécies. Os embargos infringentes e os embargos de divergência.
+FRANCISCA: Olá, pessoal! Bem-vindos à aula sessenta e um de Direito Processual do Trabalho, a parte dois dos recursos, do PJe e dos precedentes. Hoje vamos ver embargos no TST, agravos, recurso extraordinário, recurso adesivo e figuras afins. Depois, o Processo Judicial Eletrônico e a Reforma Trabalhista no processo, e, por fim, a uniformização de jurisprudência e os precedentes obrigatórios. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos começar pelos embargos no TST, no artigo oitocentos e noventa e quatro da CLT. São duas espécies. Os embargos infringentes e os embargos de divergência.
 THALITA: Qual a diferença?
 FRANCISCA: Os infringentes cabem contra decisão não unânime em dissídio coletivo de competência originária do TST, aquele que excede a área de um Tribunal Regional, inclusive extensão ou revisão de sentença normativa. São julgados pela Seção de Dissídios Coletivos, a SDC.
-BRUNO: Os embargos de divergência cabem contra acórdão de Turma que diverge de outra Turma ou da Seção de Dissídios Individuais, a SDI um, ou que contraria súmula ou orientação jurisprudencial do TST, ou súmula vinculante do Supremo. Quem julga é a SDI um.
-THALITA: Então macete: coletivo, infringentes, SDC. Individual, divergência, SDI um.
-ANTONIO: Perfeito. A FCC cobra muito qual órgão julga qual embargo.
+THALITA: Os embargos de divergência cabem contra acórdão de Turma que diverge de outra Turma ou da Seção de Dissídios Individuais, a SDI um, ou que contraria súmula ou orientação jurisprudencial do TST, ou súmula vinculante do Supremo. Quem julga é a SDI um.
+FRANCISCA: Então macete: coletivo, infringentes, SDC. Individual, divergência, SDI um.
+THALITA: Perfeito. A FCC cobra muito qual órgão julga qual embargo.
 FRANCISCA: Há regras complementares. O parágrafo segundo exige divergência atual: não serve divergência superada por súmula do TST ou do Supremo, ou por iterativa e notória jurisprudência do TST. O parágrafo terceiro diz que o relator nega seguimento se a decisão embargada seguir tese de repetitivo, repercussão geral, súmula, orientação jurisprudencial ou súmula vinculante, ou se faltar pressuposto extrínseco.
-BRUNO: E dessa negativa monocrática cabe agravo em oito dias, parágrafo quarto. No sumaríssimo, a Súmula quatrocentos e cinquenta e oito admite embargos por divergência entre Turmas sobre o mesmo dispositivo constitucional ou matéria sumulada.
-ANTONIO: Duas súmulas para guardar: a trezentos e cinquenta e três, que em regra veda embargos contra decisão de Turma em agravo, salvo exceções como pressupostos extrínsecos e multas processuais, e a cento e vinte e seis, que veda o reexame de fatos e provas.
+THALITA: E dessa negativa monocrática cabe agravo em oito dias, parágrafo quarto. No sumaríssimo, a Súmula quatrocentos e cinquenta e oito admite embargos por divergência entre Turmas sobre o mesmo dispositivo constitucional ou matéria sumulada.
+FRANCISCA: Duas súmulas para guardar: a trezentos e cinquenta e três, que em regra veda embargos contra decisão de Turma em agravo, salvo exceções como pressupostos extrínsecos e multas processuais, e a cento e vinte e seis, que veda o reexame de fatos e provas.
 THALITA: Macete: fatos e provas, nem pensar. Súmula cento e vinte e seis.
 == SLIDE: Agravo de instrumento
 * Art. 897, b: só contra despacho que denega seguimento a recurso
@@ -24,15 +22,15 @@ THALITA: Macete: fatos e provas, nem pensar. Súmula cento e vinte e seis.
 * Depósito: 50% do depósito do recurso que se quer destrancar (art. 899, §7º)
 * Dispensa: RR contra decisão contrária a súmula ou OJ (§8º)
 * IN 40: admissão parcial do RR exige agravo quanto ao resto
-BRUNO: Passamos ao agravo de instrumento, artigo oitocentos e noventa e sete, letra B. Esse é o recurso mais mal entendido. Ele cabe exclusivamente contra despachos que denegam seguimento a recurso, seja recurso ordinário, revista, agravo de petição ou adesivo. Não serve para atacar interlocutórias em geral.
+FRANCISCA: Passamos ao agravo de instrumento, artigo oitocentos e noventa e sete, letra B. Esse é o recurso mais mal entendido. Ele cabe exclusivamente contra despachos que denegam seguimento a recurso, seja recurso ordinário, revista, agravo de petição ou adesivo. Não serve para atacar interlocutórias em geral.
 THALITA: No processo civil o agravo de instrumento ataca interlocutória. No trabalho não?
 FRANCISCA: Não. No trabalho, interlocutória em regra é irrecorrível de imediato. O agravo de instrumento só destranca recurso. O prazo é de oito dias, e ele é julgado pelo tribunal que seria competente para julgar o recurso trancado. Provido o agravo, o órgão julga em seguida o recurso principal.
-ANTONIO: O efeito é devolutivo, e o prolator do despacho pode se retratar. Agora o depósito: cinquenta por cento do valor do depósito do recurso que se pretende destrancar, artigo oitocentos e noventa e nove, parágrafo sétimo.
-THALITA: Cinquenta por cento sempre?
-BRUNO: Há dispensa no parágrafo oitavo: o agravo que visa destrancar recurso de revista contra decisão que contraria jurisprudência uniforme do TST em súmula ou orientação jurisprudencial não exige depósito.
+THALITA: O efeito é devolutivo, e o prolator do despacho pode se retratar. Agora o depósito: cinquenta por cento do valor do depósito do recurso que se pretende destrancar, artigo oitocentos e noventa e nove, parágrafo sétimo.
+FRANCISCA: Cinquenta por cento sempre?
+THALITA: Há dispensa no parágrafo oitavo: o agravo que visa destrancar recurso de revista contra decisão que contraria jurisprudência uniforme do TST em súmula ou orientação jurisprudencial não exige depósito.
 FRANCISCA: Exemplo: o teto do depósito da revista é de vinte e seis mil reais em determinado ano. A Gama Limitada, empresa de grande porte, condenada em oitenta mil, depositou treze mil no recurso ordinário, e a revista foi trancada. Para agravar, deposita cinquenta por cento de vinte e seis mil: treze mil reais. Se fosse pequeno porte, os valores cairiam à metade.
-ANTONIO: Um alerta importante: o agravo de instrumento contra o trancamento de agravo de petição não suspende a execução. E a Instrução Normativa quarenta, de dois mil e dezesseis, cancelou a Súmula duzentos e oitenta e cinco.
-BRUNO: Hoje, admitida parcialmente a revista, a parte deve interpor agravo de instrumento quanto aos temas não admitidos, sob pena de preclusão. E se o despacho omitiu algum tema, cabem embargos de declaração ao próprio prolator, também sob pena de preclusão.
+THALITA: Um alerta importante: o agravo de instrumento contra o trancamento de agravo de petição não suspende a execução. E a Instrução Normativa quarenta, de dois mil e dezesseis, cancelou a Súmula duzentos e oitenta e cinco.
+FRANCISCA: Hoje, admitida parcialmente a revista, a parte deve interpor agravo de instrumento quanto aos temas não admitidos, sob pena de preclusão. E se o despacho omitiu algum tema, cabem embargos de declaração ao próprio prolator, também sob pena de preclusão.
 THALITA: Macete: admitiu pela metade, agrava o resto. Omitiu, embarga.
 == SLIDE: Agravo de petição
 * Art. 897, a: recurso das decisões na execução, 8 dias
@@ -42,12 +40,12 @@ THALITA: Macete: admitiu pela metade, agrava o resto. Omitiu, embarga.
 * RR só por ofensa direta à Constituição (Súmula 266)
 FRANCISCA: Agora o agravo de petição, o recurso da execução, artigo oitocentos e noventa e sete, letra A. Cabe contra a sentença de embargos à execução, de impugnação à liquidação, de embargos de terceiro na execução e contra decisões terminativas da execução. O prazo é de oito dias.
 THALITA: E decisão interlocutória na execução?
-ANTONIO: Segue a mesma regra da Súmula duzentos e catorze: não cabe agravo de petição imediato contra decisão meramente interlocutória.
-BRUNO: O ponto de prova é o pressuposto específico do parágrafo primeiro: o agravante deve delimitar, justificadamente, as matérias e os valores impugnados. Sem isso, o recurso não é conhecido.
+FRANCISCA: Segue a mesma regra da Súmula duzentos e catorze: não cabe agravo de petição imediato contra decisão meramente interlocutória.
+THALITA: O ponto de prova é o pressuposto específico do parágrafo primeiro: o agravante deve delimitar, justificadamente, as matérias e os valores impugnados. Sem isso, o recurso não é conhecido.
 FRANCISCA: Exemplo: execução de cinquenta mil reais contra a Delta Sociedade Anônima. A executada impugna apenas os reflexos de horas extras, doze mil reais, demonstrando o cálculo. Os trinta e oito mil restantes são incontroversos e podem ser liberados de imediato ao exequente, nos próprios autos ou por carta de sentença.
 THALITA: Então o que não foi impugnado já pode ser executado.
-ANTONIO: Exato. A Súmula quatrocentos e dezesseis do TST confirma: o prosseguimento da execução quanto aos tópicos não impugnados não viola direito líquido e certo, então não cabe mandado de segurança para paralisá-la.
-BRUNO: Sobre o julgamento, o parágrafo terceiro diz que cabe à Turma do Tribunal Regional a que se subordina o juiz prolator. Quanto ao preparo, não há depósito se o juízo já está garantido, Súmula cento e vinte e oito, inciso dois. As custas da execução são pagas ao final pelo executado.
+FRANCISCA: Exato. A Súmula quatrocentos e dezesseis do TST confirma: o prosseguimento da execução quanto aos tópicos não impugnados não viola direito líquido e certo, então não cabe mandado de segurança para paralisá-la.
+THALITA: Sobre o julgamento, o parágrafo terceiro diz que cabe à Turma do Tribunal Regional a que se subordina o juiz prolator. Quanto ao preparo, não há depósito se o juízo já está garantido, Súmula cento e vinte e oito, inciso dois. As custas da execução são pagas ao final pelo executado.
 FRANCISCA: E o recurso seguinte é a revista, só por ofensa direta e literal à Constituição, artigo oitocentos e noventa e seis, parágrafo segundo, e Súmula duzentos e sessenta e seis.
 THALITA: Macete: agravo de petição, delimita matérias e valores, e a revista só por violação direta da Constituição.
 == SLIDE: Agravo interno, regimental e recurso extraordinário
@@ -56,27 +54,27 @@ THALITA: Macete: agravo de petição, delimita matérias e valores, e a revista 
 * OJ 412: erro grosseiro contra decisão colegiada
 * RE: 15 dias, repercussão geral, recusa por 2/3 dos ministros
 * Art. 893, §2º: RE não impede a execução
-ANTONIO: Vamos ao agravo interno. Cabe contra decisão monocrática do relator, com base no artigo mil e vinte e um do CPC, aplicando-se o artigo novecentos e trinta e dois ao processo do trabalho, Súmula quatrocentos e trinta e cinco. No processo do trabalho o prazo é de oito dias, Instrução Normativa trinta e nove.
+FRANCISCA: Vamos ao agravo interno. Cabe contra decisão monocrática do relator, com base no artigo mil e vinte e um do CPC, aplicando-se o artigo novecentos e trinta e dois ao processo do trabalho, Súmula quatrocentos e trinta e cinco. No processo do trabalho o prazo é de oito dias, Instrução Normativa trinta e nove.
 THALITA: E se o agravo for besteira?
 FRANCISCA: Se for manifestamente inadmissível ou improcedente, em votação unânime, o órgão aplica multa de um a cinco por cento do valor atualizado da causa, parágrafo quarto do artigo mil e vinte e um do CPC.
-BRUNO: O agravo regimental está nos regimentos internos, contra decisões de presidentes, corregedores e relatores. E a Orientação Jurisprudencial quatrocentos e doze da SDI um diz que agravo interno ou regimental contra decisão colegiada é erro grosseiro: não se conhece nem se converte.
-ANTONIO: Agora o recurso extraordinário. Cabe contra decisão de única ou última instância que contrarie a Constituição, artigo cento e dois, inciso três. O prazo é de quinze dias.
-FRANCISCA: Exige repercussão geral, que só pode ser recusada pela manifestação de dois terços dos ministros do Supremo, parágrafo terceiro do artigo cento e dois da Constituição.
-THALITA: Dois terços para recusar, certo? Não para admitir?
-BRUNO: Certo. Para recusar. A banca inverte isso. E um detalhe: o artigo oitocentos e noventa e três, parágrafo segundo, da CLT diz que a interposição de recurso para o Supremo não impede a execução do julgado.
-THALITA: Macete: RE quinze dias, repercussão geral só cai com dois terços, e não suspende a execução.
+THALITA: O agravo regimental está nos regimentos internos, contra decisões de presidentes, corregedores e relatores. E a Orientação Jurisprudencial quatrocentos e doze da SDI um diz que agravo interno ou regimental contra decisão colegiada é erro grosseiro: não se conhece nem se converte.
+FRANCISCA: Agora o recurso extraordinário. Cabe contra decisão de única ou última instância que contrarie a Constituição, artigo cento e dois, inciso três. O prazo é de quinze dias.
+THALITA: Exige repercussão geral, que só pode ser recusada pela manifestação de dois terços dos ministros do Supremo, parágrafo terceiro do artigo cento e dois da Constituição.
+FRANCISCA: Dois terços para recusar, certo? Não para admitir?
+THALITA: Certo. Para recusar. A banca inverte isso. E um detalhe: o artigo oitocentos e noventa e três, parágrafo segundo, da CLT diz que a interposição de recurso para o Supremo não impede a execução do julgado.
+FRANCISCA: Macete: RE quinze dias, repercussão geral só cai com dois terços, e não suspende a execução.
 == SLIDE: Recurso adesivo e pedido de revisão do valor da causa
 * Súmula 283: RO, AP, RR e embargos admitem adesão
 * Prazo de 8 dias; sem pertinência temática; sucumbência recíproca
 * Não cabe em ED nem em AI
 * Valor da causa: impugnar nas razões finais; revisão ao Presidente do TRT em 48 horas
 * Alçada: até 2 salários mínimos
-FRANCISCA: O recurso adesivo está na Súmula duzentos e oitenta e três. É compatível com o processo do trabalho. O prazo é de oito dias, o das contrarrazões, e cabe no recurso ordinário, no agravo de petição, na revista e nos embargos.
-THALITA: O adesivo precisa ter a ver com a matéria do principal?
-ANTONIO: Não. A pertinência temática é desnecessária. O pressuposto é a sucumbência recíproca. Mas ele segue a sorte do principal: desistência ou inadmissão deste prejudica o adesivo, artigo novecentos e noventa e sete, parágrafo segundo, inciso três, do CPC.
-BRUNO: Alerta de prova: não cabe adesivo em embargos de declaração nem em agravo de instrumento. A súmula enumera apenas recurso ordinário, agravo de petição, revista e embargos.
-FRANCISCA: Agora o pedido de revisão do valor da causa, da Lei cinco mil quinhentos e oitenta e quatro, artigo segundo. Se a inicial não indica valor, o juiz o fixa antes da instrução. Qualquer parte pode impugnar nas razões finais. Mantido o valor, cabe pedido de revisão ao Presidente do TRT em quarenta e oito horas.
-ANTONIO: Sem efeito suspensivo, instruído com cópia da inicial e da ata, e julgado em quarenta e oito horas. Lembre também que as causas de até dois salários mínimos são de alçada: sem recurso, salvo matéria constitucional. A alçada considera o valor da data do ajuizamento, Súmula setenta e um, e não se aplica à ação rescisória e ao mandado de segurança, Súmula trezentos e sessenta e cinco.
+THALITA: O recurso adesivo está na Súmula duzentos e oitenta e três. É compatível com o processo do trabalho. O prazo é de oito dias, o das contrarrazões, e cabe no recurso ordinário, no agravo de petição, na revista e nos embargos.
+FRANCISCA: O adesivo precisa ter a ver com a matéria do principal?
+THALITA: Não. A pertinência temática é desnecessária. O pressuposto é a sucumbência recíproca. Mas ele segue a sorte do principal: desistência ou inadmissão deste prejudica o adesivo, artigo novecentos e noventa e sete, parágrafo segundo, inciso três, do CPC.
+FRANCISCA: Alerta de prova: não cabe adesivo em embargos de declaração nem em agravo de instrumento. A súmula enumera apenas recurso ordinário, agravo de petição, revista e embargos.
+THALITA: Agora o pedido de revisão do valor da causa, da Lei cinco mil quinhentos e oitenta e quatro, artigo segundo. Se a inicial não indica valor, o juiz o fixa antes da instrução. Qualquer parte pode impugnar nas razões finais. Mantido o valor, cabe pedido de revisão ao Presidente do TRT em quarenta e oito horas.
+FRANCISCA: Sem efeito suspensivo, instruído com cópia da inicial e da ata, e julgado em quarenta e oito horas. Lembre também que as causas de até dois salários mínimos são de alçada: sem recurso, salvo matéria constitucional. A alçada considera o valor da data do ajuizamento, Súmula setenta e um, e não se aplica à ação rescisória e ao mandado de segurança, Súmula trezentos e sessenta e cinco.
 THALITA: Macete: adesivo, quatro recursos e oito dias. Revisão do valor, quarenta e oito horas.
 == SLIDE: Reexame necessário, juízo de admissibilidade e correição parcial
 * Reexame contra a Fazenda: DL 779/1969 e Súmula 303
@@ -84,12 +82,12 @@ THALITA: Macete: adesivo, quatro recursos e oito dias. Revisão do valor, quaren
 * OJ 334: sem RR do ente público que não recorreu
 * Duplo juízo de admissibilidade
 * Correição parcial: medida administrativa, não é recurso
-BRUNO: Reexame necessário, ou remessa necessária, contra a Fazenda Pública, Decreto-Lei setecentos e setenta e nove, de mil novecentos e sessenta e nove, e Súmula trezentos e três do TST. Não há reexame se a condenação não ultrapassar mil salários mínimos para a União e suas autarquias e fundações; quinhentos para Estados, Distrito Federal, suas autarquias e fundações e Municípios capitais; e cem para os demais Municípios e suas autarquias e fundações.
+FRANCISCA: Reexame necessário, ou remessa necessária, contra a Fazenda Pública, Decreto-Lei setecentos e setenta e nove, de mil novecentos e sessenta e nove, e Súmula trezentos e três do TST. Não há reexame se a condenação não ultrapassar mil salários mínimos para a União e suas autarquias e fundações; quinhentos para Estados, Distrito Federal, suas autarquias e fundações e Municípios capitais; e cem para os demais Municípios e suas autarquias e fundações.
 THALITA: Mil, quinhentos, cem.
 FRANCISCA: Macete: União, Estado e capital, demais Municípios. Também não há reexame se a decisão seguir súmula ou orientação jurisprudencial do TST, acórdão do Supremo ou do TST em repetitivos, IRDR ou IAC, ou orientação vinculante do próprio ente público.
-ANTONIO: Em ação rescisória, a decisão do Tribunal Regional desfavorável ao ente público se sujeita a reexame, ressalvadas essas hipóteses. No mandado de segurança, só há reexame se o ente for parte prejudicada pela concessão da ordem.
-BRUNO: A Orientação Jurisprudencial trezentos e trinta e quatro da SDI um: o ente público que não interpôs recurso ordinário voluntário não pode interpor revista contra o acórdão que manteve a sentença em reexame necessário, salvo se a condenação foi agravada no Tribunal Regional. É preclusão lógica.
-FRANCISCA: Sobre a admissibilidade, o duplo juízo: o órgão de origem examina, e o órgão de destino reexamina sem ficar vinculado. A revista é admitida pela Presidência ou Vice do Tribunal Regional, em decisão fundamentada, sem exame de transcendência. O relator pode negar seguimento a recurso inadmissível ou contrário a precedente, Súmula quatrocentos e trinta e cinco.
-THALITA: E a correição parcial, o que é?
-ANTONIO: É medida administrativa contra ato do juiz que tumultua a ordem processual, quando não há recurso específico, julgada pelo Corregedor. Prazo usual de cinco dias, previsto nos regimentos, e vale conferir a redação vigente. Não é recurso: não reforma decisão de mérito.
-THALITA: Entendi. Pedido de revisão e correição não são recursos em sentido técnico. Vamos agora ao Processo Judicial Eletrônico e à Reforma Trabalhista.
+THALITA: Em ação rescisória, a decisão do Tribunal Regional desfavorável ao ente público se sujeita a reexame, ressalvadas essas hipóteses. No mandado de segurança, só há reexame se o ente for parte prejudicada pela concessão da ordem.
+FRANCISCA: A Orientação Jurisprudencial trezentos e trinta e quatro da SDI um: o ente público que não interpôs recurso ordinário voluntário não pode interpor revista contra o acórdão que manteve a sentença em reexame necessário, salvo se a condenação foi agravada no Tribunal Regional. É preclusão lógica.
+THALITA: Sobre a admissibilidade, o duplo juízo: o órgão de origem examina, e o órgão de destino reexamina sem ficar vinculado. A revista é admitida pela Presidência ou Vice do Tribunal Regional, em decisão fundamentada, sem exame de transcendência. O relator pode negar seguimento a recurso inadmissível ou contrário a precedente, Súmula quatrocentos e trinta e cinco.
+FRANCISCA: E a correição parcial, o que é?
+THALITA: É medida administrativa contra ato do juiz que tumultua a ordem processual, quando não há recurso específico, julgada pelo Corregedor. Prazo usual de cinco dias, previsto nos regimentos, e vale conferir a redação vigente. Não é recurso: não reforma decisão de mérito.
+FRANCISCA: Entendi. Pedido de revisão e correição não são recursos em sentido técnico. Vamos agora ao Processo Judicial Eletrônico e à Reforma Trabalhista.

@@ -8,10 +8,10 @@ SEGMENTO s125
 * Gabarito: A
 FRANCISCA: Vamos à segunda parte das questões. A décima segunda trata do direito de greve dos servidores, segundo o Supremo Tribunal Federal. A letra A diz que a Administração deve descontar os dias de paralisação, permitida a compensação em caso de acordo, sendo o desconto incabível se a greve foi provocada por conduta ilícita do Poder Público. A letra bê, que a greve é vedada a todos os servidores civis. A letra cê, que a lei específica já foi editada. A letra dê, que policiais civis podem fazer greve com percentual mínimo em serviço. E a letra E, que a Justiça do Trabalho julga a abusividade da greve de servidores celetistas.
 THALITA: Pausa para pensar, galera! Eu vou na letra cê, porque eu lembro de uma lei de greve.
-BRUNO: Essa lembrança é da Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, que é a lei de greve da iniciativa privada. O Supremo, nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze, mandou aplicá-la aos servidores, no que couber. Por isso a lei específica do artigo trinta e sete, inciso sete, ainda não existe. A letra cê está errada.
-ANTONIO: A letra bê também erra: a greve não é vedada a todos, ela é direito dos servidores, aguardando regulamentação. A letra dê erra porque policiais civis e quem atua diretamente na segurança pública não podem fazer greve sob nenhuma forma, no Tema quinhentos e quarenta e um.
+FRANCISCA: Essa lembrança é da Lei sete mil setecentos e oitenta e três, de mil novecentos e oitenta e nove, que é a lei de greve da iniciativa privada. O Supremo, nos mandados de injunção seiscentos e setenta, setecentos e oito e setecentos e doze, mandou aplicá-la aos servidores, no que couber. Por isso a lei específica do artigo trinta e sete, inciso sete, ainda não existe. A letra cê está errada.
+THALITA: A letra bê também erra: a greve não é vedada a todos, ela é direito dos servidores, aguardando regulamentação. A letra dê erra porque policiais civis e quem atua diretamente na segurança pública não podem fazer greve sob nenhuma forma, no Tema quinhentos e quarenta e um.
 FRANCISCA: A letra E erra porque a competência para julgar greve de servidores é da Justiça comum, federal ou estadual, conforme o Tema quinhentos e quarenta e quatro.
-BRUNO: Sobra a letra A, que é a tese do Tema quinhentos e trinta e um: o desconto é a regra, com compensação possível por acordo, e fica afastado se a greve foi provocada por conduta ilícita do Poder Público. Gabarito: A.
+THALITA: Sobra a letra A, que é a tese do Tema quinhentos e trinta e um: o desconto é a regra, com compensação possível por acordo, e fica afastado se a greve foi provocada por conduta ilícita do Poder Público. Gabarito: A.
 == SLIDE: Questão 13: dispensa em estatal concorrencial
 * Estatal em regime concorrencial: sem estabilidade do art. 41
 * Súmula 390, II, do TST
@@ -19,12 +19,12 @@ BRUNO: Sobra a letra A, que é a tese do Tema quinhentos e trinta e um: o descon
 * Basta motivação razoável, em ato formal
 * Sem processo administrativo e sem justa causa
 * Gabarito: E
-ANTONIO: Décima terceira. A Beta Sociedade Anônima, economia mista exploradora de atividade econômica em regime concorrencial, quer dispensar Bruno, empregado admitido por concurso. Segundo o Supremo e o TST, qual alternativa é correta?
+FRANCISCA: Décima terceira. A Beta Sociedade Anônima, economia mista exploradora de atividade econômica em regime concorrencial, quer dispensar Bruno, empregado admitido por concurso. Segundo o Supremo e o TST, qual alternativa é correta?
 THALITA: Eu li todas e acho que a letra A tem a lógica: entrou por concurso, tem estabilidade, não é?
 FRANCISCA: Boa tentativa, mas a Súmula trezentos e noventa, item dois, do TST diz que empregado de empresa pública ou sociedade de economia mista não tem a estabilidade do artigo quarenta e um. Ela é do servidor estatutário.
-BRUNO: Agora as outras. A letra bê diz que o dever de motivar vale só para as prestadoras de serviço público. Errado: o Tema mil e vinte e dois alcança também as exploradoras de atividade econômica, ainda que em regime concorrencial. A letra cê exige processo administrativo disciplinar com ampla defesa. Errado, o tema não exige. E a letra dê pede enquadramento em justa causa do artigo quatrocentos e oitenta e dois da CLT. Também errado.
-THALITA: Então a letra E! Motivar em ato formal, com fundamento razoável, sem processo nem justa causa. Entendi?
-ANTONIO: Exatamente. É a tese do Tema mil e vinte e dois. Gabarito: E.
+THALITA: Agora as outras. A letra bê diz que o dever de motivar vale só para as prestadoras de serviço público. Errado: o Tema mil e vinte e dois alcança também as exploradoras de atividade econômica, ainda que em regime concorrencial. A letra cê exige processo administrativo disciplinar com ampla defesa. Errado, o tema não exige. E a letra dê pede enquadramento em justa causa do artigo quatrocentos e oitenta e dois da CLT. Também errado.
+FRANCISCA: Então a letra E! Motivar em ato formal, com fundamento razoável, sem processo nem justa causa. Entendi?
+THALITA: Exatamente. É a tese do Tema mil e vinte e dois. Gabarito: E.
 FRANCISCA: Lembre assim: a estatal precisa explicar por que dispensa, mas não precisa de um processo disciplinar.
 == SLIDE: Questão 14: carreiras do Judiciário e fechamento
 * Progressão: padrão a padrão, interstício de 1 ano
@@ -33,10 +33,10 @@ FRANCISCA: Lembre assim: a estatal precisa explicar por que dispensa, mas não p
 * Promoção: interstício, avaliação e curso
 * Títulos do AQ não se acumulam: vale o maior
 * Gabarito: bê
-BRUNO: Última questão da aula, a décima quarta, sobre a Lei onze mil quatrocentos e dezesseis. A letra A diz que progressão é de classe para classe, com interstício de dois anos. A letra bê, que a GAE é exclusiva do Analista com atribuições de execução de mandados e atos externos, e vale trinta e cinco por cento do vencimento básico. A letra cê, que o mínimo é cinquenta por cento das funções comissionadas. A letra dê, que a promoção dispensa avaliação. E a letra E, que doutor e mestre recebem os dois percentuais.
-THALITA: Eu corro para a bê, que é a mais completa e tem os números que a gente acabou de ver!
-FRANCISCA: Acertou. É o artigo dezesseis combinado com o artigo quarto, parágrafo primeiro. As outras: a A erra porque progressão é de padrão para padrão, com um ano. A cê troca os percentuais: funções comissionadas, oitenta por cento; cargos em comissão, cinquenta.
-BRUNO: A dê erra porque a promoção exige interstício, avaliação formal e curso de aperfeiçoamento. E a letra E erra porque os títulos não se acumulam: recebe-se o maior.
-ANTONIO: Gabarito: bê.
-THALITA: Resumo relâmpago do que mais cai na FCC: reconsideração não se renova; prescrição é interrompida, nunca suspensa; prazo de recurso é trinta dias; progressão pede avaliação, promoção pede avaliação mais curso; funções, oitenta por cento; cargos, cinquenta; e títulos de adicional, só o maior.
-ANTONIO: Excelente resumo, Thalita. Até a próxima aula, bons estudos a todos!
+THALITA: Última questão da aula, a décima quarta, sobre a Lei onze mil quatrocentos e dezesseis. A letra A diz que progressão é de classe para classe, com interstício de dois anos. A letra bê, que a GAE é exclusiva do Analista com atribuições de execução de mandados e atos externos, e vale trinta e cinco por cento do vencimento básico. A letra cê, que o mínimo é cinquenta por cento das funções comissionadas. A letra dê, que a promoção dispensa avaliação. E a letra E, que doutor e mestre recebem os dois percentuais.
+FRANCISCA: Eu corro para a bê, que é a mais completa e tem os números que a gente acabou de ver!
+THALITA: Acertou. É o artigo dezesseis combinado com o artigo quarto, parágrafo primeiro. As outras: a A erra porque progressão é de padrão para padrão, com um ano. A cê troca os percentuais: funções comissionadas, oitenta por cento; cargos em comissão, cinquenta.
+FRANCISCA: A dê erra porque a promoção exige interstício, avaliação formal e curso de aperfeiçoamento. E a letra E erra porque os títulos não se acumulam: recebe-se o maior.
+THALITA: Gabarito: bê.
+FRANCISCA: Resumo relâmpago do que mais cai na FCC: reconsideração não se renova; prescrição é interrompida, nunca suspensa; prazo de recurso é trinta dias; progressão pede avaliação, promoção pede avaliação mais curso; funções, oitenta por cento; cargos, cinquenta; e títulos de adicional, só o maior.
+THALITA: Excelente resumo, Francisca. Até a próxima aula, bons estudos a todos!

@@ -5,19 +5,17 @@ SEGMENTO s049
 * Estabelecimentos abertos ao público e privados de uso coletivo
 * Impedir ou dificultar é discriminação: interdição e multa
 * Decreto 5.904/2006: identificação, treinadores, vedada a focinheira
-ANTONIO: Olá, pessoal, bem-vindos à aula quinze, de Noções sobre Direitos das Pessoas com Deficiência. Esta é a segunda parte da disciplina. Hoje vamos ver a legislação complementar, que traz o cão-guia, a acessibilidade, a prioridade de atendimento, o símbolo da surdez e a lei de apoio e integração, além das reservas de vagas em concursos e a cota em empresas. Depois, resolvemos questões no estilo da FCC. Eu sou o Antônio.
-FRANCISCA: Eu sou a Francisca, professora, e trago a lei em paráfrase.
-BRUNO: Eu sou o Bruno, especialista em FCC, e mostro onde a banca arma.
-THALITA: E eu sou a Thalita, concurseira. Esse tema tem muito número, então vou pedir ajuda para decorar!
-ANTONIO: Vamos começar pela Lei onze mil cento e vinte e seis, de dois mil e cinco, a lei do cão-guia. O titular é a pessoa com deficiência visual, cegueira ou baixa visão, acompanhada de cão-guia.
-FRANCISCA: O direito é ingressar e permanecer com o animal em todos os meios de transporte e em estabelecimentos abertos ao público, de uso público e privados de uso coletivo. Vale em todas as modalidades de transporte coletivo de passageiros, inclusive o internacional com origem no Brasil.
-THALITA: Então restaurante, shopping e cinema também entram?
-FRANCISCA: Entram, porque são estabelecimentos privados de uso coletivo, como também hotéis.
-BRUNO: É aqui que a FCC tenta restringir o direito. Ela escreve que só vale em transporte público, ou só em estabelecimento público, ou mediante autorização do proprietário, ou desde que o animal use focinheira. Todas erradas.
-ANTONIO: E quem tenta impedir ou dificultar o exercício do direito comete ato de discriminação, punido com interdição e multa.
-THALITA: Interdição e multa. Anotado.
-FRANCISCA: O regulamento é o Decreto cinco mil novecentos e quatro, de dois mil e seis. Ele trata da identificação do cão, com arreio com alça, plaqueta, carteira de vacinação e documento de habilitação. Estende o direito a treinadores, instrutores e famílias de acolhimento na fase de socialização. E veda exigir focinheira.
-BRUNO: Valores de multa e restrições em ambientes que exijam esterilização, como centros cirúrgicos e UTIs, estão no regulamento. Vale conferir a redação vigente.
+FRANCISCA: Olá, pessoal, bem-vindos à aula quinze, de Noções sobre Direitos das Pessoas com Deficiência. Esta é a segunda parte da disciplina. Hoje vamos ver a legislação complementar, que traz o cão-guia, a acessibilidade, a prioridade de atendimento, o símbolo da surdez e a lei de apoio e integração, além das reservas de vagas em concursos e a cota em empresas. Depois, resolvemos questões no estilo da FCC. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Vamos começar pela Lei onze mil cento e vinte e seis, de dois mil e cinco, a lei do cão-guia. O titular é a pessoa com deficiência visual, cegueira ou baixa visão, acompanhada de cão-guia.
+THALITA: O direito é ingressar e permanecer com o animal em todos os meios de transporte e em estabelecimentos abertos ao público, de uso público e privados de uso coletivo. Vale em todas as modalidades de transporte coletivo de passageiros, inclusive o internacional com origem no Brasil.
+FRANCISCA: Então restaurante, shopping e cinema também entram?
+THALITA: Entram, porque são estabelecimentos privados de uso coletivo, como também hotéis.
+FRANCISCA: É aqui que a FCC tenta restringir o direito. Ela escreve que só vale em transporte público, ou só em estabelecimento público, ou mediante autorização do proprietário, ou desde que o animal use focinheira. Todas erradas.
+THALITA: E quem tenta impedir ou dificultar o exercício do direito comete ato de discriminação, punido com interdição e multa.
+FRANCISCA: Interdição e multa. Anotado.
+THALITA: O regulamento é o Decreto cinco mil novecentos e quatro, de dois mil e seis. Ele trata da identificação do cão, com arreio com alça, plaqueta, carteira de vacinação e documento de habilitação. Estende o direito a treinadores, instrutores e famílias de acolhimento na fase de socialização. E veda exigir focinheira.
+FRANCISCA: Valores de multa e restrições em ambientes que exijam esterilização, como centros cirúrgicos e UTIs, estão no regulamento. Vale conferir a redação vigente.
 THALITA: Macete: cão-guia entra em tudo, sem focinheira e sem autorização.
 == SLIDE: Lei de acessibilidade
 * Lei 10.098/2000: normas gerais e critérios básicos de acessibilidade
@@ -25,46 +23,46 @@ THALITA: Macete: cão-guia entra em tudo, sem focinheira e sem autorização.
 * Semáforos: sinal sonoro suave e intermitente (art. 9º)
 * Edifícios de uso coletivo: 1 acesso, 1 itinerário e 1 banheiro acessíveis (art. 11)
 * Comunicação: intérpretes de Libras; subtitulação (arts. 17 a 19)
-ANTONIO: A segunda lei é a de número dez mil e noventa e oito, de dois mil. Ela trata de normas gerais e critérios básicos de acessibilidade para pessoas com deficiência ou com mobilidade reduzida, pela supressão de barreiras em vias, espaços públicos, mobiliário urbano, edifícios, transporte e comunicação. É o artigo primeiro.
+FRANCISCA: A segunda lei é a de número dez mil e noventa e oito, de dois mil. Ela trata de normas gerais e critérios básicos de acessibilidade para pessoas com deficiência ou com mobilidade reduzida, pela supressão de barreiras em vias, espaços públicos, mobiliário urbano, edifícios, transporte e comunicação. É o artigo primeiro.
 THALITA: E os números que costumam cair?
 FRANCISCA: No estacionamento, artigo sétimo, as vagas reservadas e sinalizadas, próximas aos acessos de pedestres, correspondem a dois por cento do total, no mínimo uma.
-BRUNO: Dois por cento, mínimo uma. A banca troca por cinco por cento ou por dez por cento.
+THALITA: Dois por cento, mínimo uma. A banca troca por cinco por cento ou por dez por cento.
 FRANCISCA: Nos semáforos, artigo nono, o sinal sonoro é suave, intermitente e sem estridência, ou alternativo, para a travessia de pessoas com deficiência visual, conforme o fluxo e a periculosidade da via.
 THALITA: Sinal sonoro suave, não estridente. E nos edifícios?
-ANTONIO: Nos edifícios de uso coletivo, artigo onze, exige-se ao menos um acesso livre de barreiras, um itinerário que comunique todas as dependências e um banheiro acessível.
-BRUNO: Ao menos um de cada. A banca pode escrever "todos os acessos", e aí erra.
+FRANCISCA: Nos edifícios de uso coletivo, artigo onze, exige-se ao menos um acesso livre de barreiras, um itinerário que comunique todas as dependências e um banheiro acessível.
+THALITA: Ao menos um de cada. A banca pode escrever "todos os acessos", e aí erra.
 FRANCISCA: Nos locais de espetáculos, artigo doze, há espaços para usuários de cadeira de rodas e lugares específicos para pessoas com deficiência auditiva e visual, inclusive acompanhante.
-ANTONIO: E, na comunicação, artigos dezessete a dezenove, o poder público elimina barreiras, forma intérpretes de Libras e guias-intérpretes, e a radiodifusão adota linguagem de sinais ou subtitulação.
-THALITA: Macete da acessibilidade: dois por cento das vagas, um acesso, um itinerário, um banheiro.
+THALITA: E, na comunicação, artigos dezessete a dezenove, o poder público elimina barreiras, forma intérpretes de Libras e guias-intérpretes, e a radiodifusão adota linguagem de sinais ou subtitulação.
+FRANCISCA: Macete da acessibilidade: dois por cento das vagas, um acesso, um itinerário, um banheiro.
 == SLIDE: Prioridade de atendimento
 * Lei 10.048/2000 e Decreto 5.296/2004
 * Beneficiários: PcD, idosos, gestantes, lactantes, obesos, doadores de sangue
 * Obrigados: repartições, concessionárias e instituições financeiras
 * Prioridade: tratamento diferenciado e atendimento imediato
 * Emergência em saúde: avaliação médica
-FRANCISCA: Agora a prioridade de atendimento, na Lei dez mil e quarenta e oito, de dois mil, regulamentada pelo Decreto cinco mil duzentos e noventa e seis, de dois mil e quatro. Os beneficiários, no artigo primeiro, são as pessoas com deficiência, incluídas as com transtorno do espectro autista, as pessoas idosas, com sessenta anos ou mais, gestantes, lactantes, pessoas com criança de colo, obesos, pessoas com mobilidade reduzida e doadores de sangue.
-THALITA: Os maiores de oitenta anos têm alguma regra especial?
-ANTONIO: Têm prioridade especial sobre os demais idosos, pelo Estatuto da Pessoa Idosa. Obesos foram incluídos pela Lei Brasileira de Inclusão, e pessoas com mobilidade reduzida e doadores de sangue, por lei de dois mil e vinte e três. O dispositivo muda com frequência, então confira a redação vigente.
-BRUNO: Os obrigados são as repartições públicas, as concessionárias de serviço público e as instituições financeiras, artigo segundo. No transporte coletivo, há assentos reservados e identificados, artigo terceiro.
-FRANCISCA: O conteúdo da prioridade, no artigo sexto do decreto, é tratamento diferenciado mais atendimento imediato. O tratamento diferenciado inclui assentos preferenciais, mobiliário rebaixado, atendimento em Libras, pessoal capacitado, sinalização e aviso do direito, e admissão de cão-guia.
-THALITA: E atendimento imediato é furar a fila?
-ANTONIO: É prestado antes de qualquer outro, mas depois de concluído o atendimento em andamento. Não interrompe quem já está sendo atendido.
-BRUNO: Pegadinha: na emergência em saúde, a prioridade fica condicionada à avaliação médica da gravidade dos casos.
-FRANCISCA: As sanções: servidor, penalidades do estatuto; concessionária, multa por veículo sem acessibilidade; instituição financeira, penalidades da Lei quatro mil quinhentos e noventa e cinco, de mil novecentos e sessenta e quatro.
-THALITA: Macete: prioridade é tratamento diferenciado mais atendimento imediato, depois do atendimento em andamento.
+THALITA: Agora a prioridade de atendimento, na Lei dez mil e quarenta e oito, de dois mil, regulamentada pelo Decreto cinco mil duzentos e noventa e seis, de dois mil e quatro. Os beneficiários, no artigo primeiro, são as pessoas com deficiência, incluídas as com transtorno do espectro autista, as pessoas idosas, com sessenta anos ou mais, gestantes, lactantes, pessoas com criança de colo, obesos, pessoas com mobilidade reduzida e doadores de sangue.
+FRANCISCA: Os maiores de oitenta anos têm alguma regra especial?
+THALITA: Têm prioridade especial sobre os demais idosos, pelo Estatuto da Pessoa Idosa. Obesos foram incluídos pela Lei Brasileira de Inclusão, e pessoas com mobilidade reduzida e doadores de sangue, por lei de dois mil e vinte e três. O dispositivo muda com frequência, então confira a redação vigente.
+FRANCISCA: Os obrigados são as repartições públicas, as concessionárias de serviço público e as instituições financeiras, artigo segundo. No transporte coletivo, há assentos reservados e identificados, artigo terceiro.
+THALITA: O conteúdo da prioridade, no artigo sexto do decreto, é tratamento diferenciado mais atendimento imediato. O tratamento diferenciado inclui assentos preferenciais, mobiliário rebaixado, atendimento em Libras, pessoal capacitado, sinalização e aviso do direito, e admissão de cão-guia.
+FRANCISCA: E atendimento imediato é furar a fila?
+THALITA: É prestado antes de qualquer outro, mas depois de concluído o atendimento em andamento. Não interrompe quem já está sendo atendido.
+FRANCISCA: Pegadinha: na emergência em saúde, a prioridade fica condicionada à avaliação médica da gravidade dos casos.
+THALITA: As sanções: servidor, penalidades do estatuto; concessionária, multa por veículo sem acessibilidade; instituição financeira, penalidades da Lei quatro mil quinhentos e noventa e cinco, de mil novecentos e sessenta e quatro.
+FRANCISCA: Macete: prioridade é tratamento diferenciado mais atendimento imediato, depois do atendimento em andamento.
 == SLIDE: Categorias de deficiência e súmulas do STJ
 * Física: comprometimento da função física; sem deformidades estéticas
 * Auditiva: perda bilateral de 41 dB ou mais
 * Visual: cegueira (0,05); baixa visão (0,3 a 0,05); campo visual até 60º
 * Intelectual: antes dos 18 anos, duas ou mais habilidades adaptativas
 * Súmula 377 (visão monocular) e Súmula 552 (surdez unilateral)
-ANTONIO: Vamos às categorias de deficiência, do Decreto cinco mil duzentos e noventa e seis e do Decreto três mil duzentos e noventa e oito, de mil novecentos e noventa e nove. A física é a alteração de segmentos do corpo com comprometimento da função física, como paraplegia, tetraparesia, amputação, paralisia cerebral, nanismo e ostomia. Deformidades estéticas ficam de fora.
-THALITA: E a auditiva?
-BRUNO: É a perda bilateral, parcial ou total, de quarenta e um decibéis ou mais, aferida por audiograma nas frequências de quinhentos, mil, dois mil e três mil hertz.
+THALITA: Vamos às categorias de deficiência, do Decreto cinco mil duzentos e noventa e seis e do Decreto três mil duzentos e noventa e oito, de mil novecentos e noventa e nove. A física é a alteração de segmentos do corpo com comprometimento da função física, como paraplegia, tetraparesia, amputação, paralisia cerebral, nanismo e ostomia. Deformidades estéticas ficam de fora.
+FRANCISCA: E a auditiva?
+THALITA: É a perda bilateral, parcial ou total, de quarenta e um decibéis ou mais, aferida por audiograma nas frequências de quinhentos, mil, dois mil e três mil hertz.
 FRANCISCA: A visual: cegueira é acuidade igual ou menor que zero vírgula zero cinco no melhor olho, com a melhor correção. Baixa visão fica entre zero vírgula três e zero vírgula zero cinco. E há o campo visual somado igual ou menor que sessenta graus.
-ANTONIO: A mental, ou intelectual, é o funcionamento intelectual significativamente inferior à média, manifestado antes dos dezoito anos, com limitações em duas ou mais habilidades adaptativas. A múltipla é a associação de duas ou mais deficiências. E a mobilidade reduzida é de quem, sem se enquadrar como pessoa com deficiência, tem dificuldade de movimentar-se, permanente ou temporariamente.
-THALITA: Quarenta e um decibéis, zero vírgula cinco, dezoito anos. Já anotei.
-BRUNO: Duas súmulas do STJ: a trezentos e setenta e sete diz que o portador de visão monocular pode concorrer às vagas reservadas, o que a Lei catorze mil cento e vinte e seis, de dois mil e vinte e um, confirmou. A quinhentos e cinquenta e dois diz que a surdez unilateral não qualifica o candidato.
+THALITA: A mental, ou intelectual, é o funcionamento intelectual significativamente inferior à média, manifestado antes dos dezoito anos, com limitações em duas ou mais habilidades adaptativas. A múltipla é a associação de duas ou mais deficiências. E a mobilidade reduzida é de quem, sem se enquadrar como pessoa com deficiência, tem dificuldade de movimentar-se, permanente ou temporariamente.
+FRANCISCA: Quarenta e um decibéis, zero vírgula cinco, dezoito anos. Já anotei.
+THALITA: Duas súmulas do STJ: a trezentos e setenta e sete diz que o portador de visão monocular pode concorrer às vagas reservadas, o que a Lei catorze mil cento e vinte e seis, de dois mil e vinte e um, confirmou. A quinhentos e cinquenta e dois diz que a surdez unilateral não qualifica o candidato.
 FRANCISCA: Mas atenção: a Lei catorze mil setecentos e sessenta e oito, de dois mil e vinte e três, incluiu a perda auditiva unilateral total no conceito legal, o que tensiona a Súmula quinhentos e cinquenta e dois. Confira a posição atual do STJ.
 THALITA: Macete: visão monocular pode, surdez unilateral não, mas a lei nova tensiona.
 == SLIDE: Símbolo da surdez e lei de apoio e integração
@@ -73,15 +71,15 @@ THALITA: Macete: visão monocular pode, surdez unilateral não, mas a lei nova t
 * Lei 7.853/1989: ação civil pública; MP intervém obrigatoriamente
 * Legitimados: MP, Defensoria, entes, associação com mais de 1 ano
 * Coisa julgada erga omnes; remessa necessária
-ANTONIO: A Lei oito mil cento e sessenta, de mil novecentos e noventa e um, trata do símbolo da surdez. É obrigatória a afixação visível do Símbolo Internacional de Surdez em locais e serviços acessíveis a pessoas com deficiência auditiva.
-FRANCISCA: Vedada qualquer modificação ou acréscimo ao desenho do anexo. O uso é exclusivo para indicar local ou serviço habilitado. A exceção é a reprodução em publicações de interesse da pessoa surda, como adesivos para veículos que ela conduza.
-BRUNO: Não confunda: a Lei sete mil quatrocentos e cinco, de mil novecentos e oitenta e cinco, é o Símbolo Internacional de Acesso, do cadeirante. A oito mil cento e sessenta é o da surdez. E a Lei catorze mil seiscentos e vinte e quatro, de dois mil e vinte e três, é o cordão de girassóis, para deficiências ocultas.
+FRANCISCA: A Lei oito mil cento e sessenta, de mil novecentos e noventa e um, trata do símbolo da surdez. É obrigatória a afixação visível do Símbolo Internacional de Surdez em locais e serviços acessíveis a pessoas com deficiência auditiva.
+THALITA: Vedada qualquer modificação ou acréscimo ao desenho do anexo. O uso é exclusivo para indicar local ou serviço habilitado. A exceção é a reprodução em publicações de interesse da pessoa surda, como adesivos para veículos que ela conduza.
+FRANCISCA: Não confunda: a Lei sete mil quatrocentos e cinco, de mil novecentos e oitenta e cinco, é o Símbolo Internacional de Acesso, do cadeirante. A oito mil cento e sessenta é o da surdez. E a Lei catorze mil seiscentos e vinte e quatro, de dois mil e vinte e três, é o cordão de girassóis, para deficiências ocultas.
 THALITA: Girassol é deficiência oculta, cadeirante é acesso, surdez é a oito mil cento e sessenta. Entendi!
-ANTONIO: Agora a Lei sete mil oitocentos e cinquenta e três, de mil novecentos e oitenta e nove, e o Decreto três mil duzentos e noventa e oito. O decreto instituiu a Política Nacional para a Integração da Pessoa Portadora de Deficiência.
-FRANCISCA: Na ação civil pública, os legitimados são o Ministério Público, a Defensoria, a União, os Estados, o Distrito Federal, os Municípios, a associação constituída há mais de um ano, e autarquia, empresa pública, fundação ou sociedade de economia mista com finalidade institucional de proteção à pessoa com deficiência.
-BRUNO: O Ministério Público intervém obrigatoriamente nas ações públicas, coletivas ou individuais, sobre interesses ligados à deficiência, e pode instaurar inquérito civil.
+FRANCISCA: Agora a Lei sete mil oitocentos e cinquenta e três, de mil novecentos e oitenta e nove, e o Decreto três mil duzentos e noventa e oito. O decreto instituiu a Política Nacional para a Integração da Pessoa Portadora de Deficiência.
+THALITA: Na ação civil pública, os legitimados são o Ministério Público, a Defensoria, a União, os Estados, o Distrito Federal, os Municípios, a associação constituída há mais de um ano, e autarquia, empresa pública, fundação ou sociedade de economia mista com finalidade institucional de proteção à pessoa com deficiência.
+FRANCISCA: O Ministério Público intervém obrigatoriamente nas ações públicas, coletivas ou individuais, sobre interesses ligados à deficiência, e pode instaurar inquérito civil.
 THALITA: E a coisa julgada?
-ANTONIO: É erga omnes, salvo improcedência por insuficiência de provas, quando cabe nova ação com nova prova. E a sentença de carência ou improcedência sujeita-se ao duplo grau.
+FRANCISCA: É erga omnes, salvo improcedência por insuficiência de provas, quando cabe nova ação com nova prova. E a sentença de carência ou improcedência sujeita-se ao duplo grau.
 THALITA: Macete: associação, mais de um ano; Ministério Público sempre intervém.
 == SLIDE: Crimes da Lei 7.853, artigo 8º
 * Reclusão de 2 a 5 anos, e multa
@@ -91,39 +89,39 @@ THALITA: Macete: associação, mais de um ano; Ministério Público sempre inter
 * §1º: aumento de 1/3 se vítima menor de 18 anos
 FRANCISCA: Os crimes do artigo oitavo, com a redação dada pela Lei Brasileira de Inclusão, têm pena de reclusão de dois a cinco anos, e multa. O primeiro é recusar, cobrar valor adicional, suspender, procrastinar, cancelar ou fazer cessar inscrição de aluno em escola pública ou privada por causa da deficiência.
 THALITA: E o segundo?
-BRUNO: Obstar inscrição em concurso público ou acesso a cargo ou emprego público em razão da deficiência. O terceiro é negar ou obstar emprego, trabalho ou promoção.
-ANTONIO: O quarto: recusar, retardar ou dificultar internação, ou deixar de prestar assistência médico-hospitalar e ambulatorial. O quinto: descumprir, retardar ou frustrar ordem judicial expedida na ação civil. E o sexto: recusar, retardar ou omitir dados técnicos indispensáveis à ação civil pública, quando requisitados.
+FRANCISCA: Obstar inscrição em concurso público ou acesso a cargo ou emprego público em razão da deficiência. O terceiro é negar ou obstar emprego, trabalho ou promoção.
+THALITA: O quarto: recusar, retardar ou dificultar internação, ou deixar de prestar assistência médico-hospitalar e ambulatorial. O quinto: descumprir, retardar ou frustrar ordem judicial expedida na ação civil. E o sexto: recusar, retardar ou omitir dados técnicos indispensáveis à ação civil pública, quando requisitados.
 FRANCISCA: Os parágrafos: pena aumentada de um terço se a vítima for menor de dezoito anos. Se o administrador adota deliberadamente critérios subjetivos para indeferir inscrição, aprovação ou estágio probatório, não se afasta sua responsabilidade patrimonial pessoal.
-BRUNO: O parágrafo terceiro dá as mesmas penas a quem impede ou dificulta o ingresso em plano privado de saúde, inclusive cobrando valor diferenciado. E o parágrafo quarto aumenta de um terço se o crime ocorrer em atendimento de urgência e emergência.
-THALITA: Vou comparar com a Lei Brasileira de Inclusão. Aqui é dois a cinco anos?
-BRUNO: Exato, e vale um alerta: a pena da Lei sete mil oitocentos e cinquenta e três, dois a cinco anos, é igual à da discriminação pela mídia na Lei Brasileira de Inclusão. A discriminação simples, na lei brasileira, é de um a três anos. A FCC troca as duas.
-THALITA: Macete: aqui, dois a cinco; discriminação simples da LBI, um a três.
+THALITA: O parágrafo terceiro dá as mesmas penas a quem impede ou dificulta o ingresso em plano privado de saúde, inclusive cobrando valor diferenciado. E o parágrafo quarto aumenta de um terço se o crime ocorrer em atendimento de urgência e emergência.
+FRANCISCA: Vou comparar com a Lei Brasileira de Inclusão. Aqui é dois a cinco anos?
+THALITA: Exato, e vale um alerta: a pena da Lei sete mil oitocentos e cinquenta e três, dois a cinco anos, é igual à da discriminação pela mídia na Lei Brasileira de Inclusão. A discriminação simples, na lei brasileira, é de um a três anos. A FCC troca as duas.
+FRANCISCA: Macete: aqui, dois a cinco; discriminação simples da LBI, um a três.
 == SLIDE: Reserva de vagas em concursos públicos
 * CF, art. 37, VIII: reserva percentual por lei
 * Lei 8.112, art. 5º, § 2º: até 20% das vagas; atribuições compatíveis
 * Decreto 9.508/2018: no mínimo 5%; arredonda para cima
 * Horário especial sem compensação (art. 98, §§ 2º e 3º)
 * STF: Tema 1097 e MS 26.310
-ANTONIO: Vamos às reservas de vagas. O artigo trinta e sete, inciso oito, da Constituição manda a lei reservar percentual dos cargos e empregos públicos para pessoas com deficiência. É norma de eficácia limitada quanto ao percentual, deixado à lei de cada ente.
+THALITA: Vamos às reservas de vagas. O artigo trinta e sete, inciso oito, da Constituição manda a lei reservar percentual dos cargos e empregos públicos para pessoas com deficiência. É norma de eficácia limitada quanto ao percentual, deixado à lei de cada ente.
 FRANCISCA: No plano federal, combinam-se o teto da Lei oito mil cento e doze e o piso do Decreto nove mil quinhentos e oito, de dois mil e dezoito. A Lei oito mil cento e doze, artigo quinto, parágrafo segundo, prevê inscrição para cargo com atribuições compatíveis com a deficiência e reserva de até vinte por cento das vagas.
-BRUNO: O decreto fixa o mínimo de cinco por cento das vagas na administração federal, direta e indireta, inclusive contratação temporária. A fração é arredondada para o primeiro número inteiro subsequente. Mesmas condições de conteúdo, avaliação, horário, local e nota mínima, com adaptações e tempo adicional mediante requerimento.
-THALITA: Então a regra é: mínimo cinco por cento, máximo vinte por cento, arredonda para cima?
-ANTONIO: Isso. Os dispositivos sobre concurso do Decreto três mil duzentos e noventa e oito foram revogados pelo Decreto nove mil quinhentos e oito.
+THALITA: O decreto fixa o mínimo de cinco por cento das vagas na administração federal, direta e indireta, inclusive contratação temporária. A fração é arredondada para o primeiro número inteiro subsequente. Mesmas condições de conteúdo, avaliação, horário, local e nota mínima, com adaptações e tempo adicional mediante requerimento.
+FRANCISCA: Então a regra é: mínimo cinco por cento, máximo vinte por cento, arredonda para cima?
+THALITA: Isso. Os dispositivos sobre concurso do Decreto três mil duzentos e noventa e oito foram revogados pelo Decreto nove mil quinhentos e oito.
 FRANCISCA: Na Lei oito mil cento e doze, artigo noventa e oito, parágrafos segundo e terceiro, o servidor com deficiência tem horário especial, comprovada a necessidade por junta médica, sem compensação. Estende-se ao servidor com cônjuge, filho ou dependente com deficiência.
-BRUNO: O STF, no Tema mil e noventa e sete, estendeu o horário especial sem compensação a servidores estaduais e municipais com filho ou dependente com deficiência. E, no Mandado de Segurança vinte e seis mil trezentos e dez, decidiu que o arredondamento para cima não pode levar a reserva a ultrapassar o limite de vinte por cento.
-THALITA: Macete: cinco mínimo, vinte máximo, arredonda para cima, sem passar de vinte.
+THALITA: O STF, no Tema mil e noventa e sete, estendeu o horário especial sem compensação a servidores estaduais e municipais com filho ou dependente com deficiência. E, no Mandado de Segurança vinte e seis mil trezentos e dez, decidiu que o arredondamento para cima não pode levar a reserva a ultrapassar o limite de vinte por cento.
+FRANCISCA: Macete: cinco mínimo, vinte máximo, arredonda para cima, sem passar de vinte.
 == SLIDE: Cota em empresas privadas
 * Lei 8.213/1991, art. 93
 * 100 a 200: 2%; 201 a 500: 3%; 501 a 1.000: 4%; acima de 1.000: 5%
 * Dispensa só após contratar substituto semelhante
 * Contrato a termo de mais de 90 dias
 * Aprendiz com deficiência não conta
-ANTONIO: Por fim, a cota em empresas privadas, artigo noventa e três da Lei oito mil duzentos e treze, de mil novecentos e noventa e um. Até noventa e nove empregados, não há obrigação legal. De cem a duzentos, dois por cento. De duzentos e um a quinhentos, três por cento. De quinhentos e um a mil, quatro por cento. De mil e um em diante, cinco por cento. A cota é de pessoas com deficiência habilitadas ou beneficiários reabilitados do INSS.
-THALITA: Dois, três, quatro, cinco. Fácil, mas me dá um exemplo.
-FRANCISCA: A empresa Beta Sociedade Anônima tem seiscentos e quarenta empregados. Precisa de quatro por cento, que dá vinte e cinco vírgula seis, ou seja, vinte e seis pessoas, porque a fração arredonda para cima, segundo a prática da fiscalização.
-BRUNO: Regra importante, parágrafo primeiro: a dispensa imotivada, ou ao fim de contrato a termo de mais de noventa dias, só pode ocorrer após a contratação de substituto em condição semelhante.
+THALITA: Por fim, a cota em empresas privadas, artigo noventa e três da Lei oito mil duzentos e treze, de mil novecentos e noventa e um. Até noventa e nove empregados, não há obrigação legal. De cem a duzentos, dois por cento. De duzentos e um a quinhentos, três por cento. De quinhentos e um a mil, quatro por cento. De mil e um em diante, cinco por cento. A cota é de pessoas com deficiência habilitadas ou beneficiários reabilitados do INSS.
+FRANCISCA: Dois, três, quatro, cinco. Fácil, mas me dá um exemplo.
+THALITA: A empresa Beta Sociedade Anônima tem seiscentos e quarenta empregados. Precisa de quatro por cento, que dá vinte e cinco vírgula seis, ou seja, vinte e seis pessoas, porque a fração arredonda para cima, segundo a prática da fiscalização.
+FRANCISCA: Regra importante, parágrafo primeiro: a dispensa imotivada, ou ao fim de contrato a termo de mais de noventa dias, só pode ocorrer após a contratação de substituto em condição semelhante.
 THALITA: Então se a Beta dispensar a Ana, que tem deficiência, sem antes contratar substituto, a dispensa é nula?
 FRANCISCA: Pode ser anulada, com reintegração. A jurisprudência do TST considera essa regra uma garantia indireta de emprego, que protege o grupo, e não uma estabilidade pessoal. Há ainda precedentes que afastam multa administrativa quando a empresa comprova esforço efetivo e frustrado para preencher a cota.
-BRUNO: Fiscalização pelo Ministério do Trabalho, parágrafo segundo. E, para a cota, conta só a contratação direta: o aprendiz com deficiência não se computa, parágrafo terceiro.
-THALITA: Macete: cem a duzentos, dois por cento, e sobe um por cento a cada faixa. Mais de mil, cinco por cento.
-ANTONIO: Terminamos a teoria. No próximo tema, vamos treinar com as questões comentadas, no estilo da FCC.
+THALITA: Fiscalização pelo Ministério do Trabalho, parágrafo segundo. E, para a cota, conta só a contratação direta: o aprendiz com deficiência não se computa, parágrafo terceiro.
+FRANCISCA: Macete: cem a duzentos, dois por cento, e sobe um por cento a cada faixa. Mais de mil, cinco por cento.
+THALITA: Terminamos a teoria. No próximo tema, vamos treinar com as questões comentadas, no estilo da FCC.

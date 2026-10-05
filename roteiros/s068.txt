@@ -4,13 +4,13 @@ SEGMENTO s068
 * Espontâneas: integridade nacional, invasão, ordem pública, finanças
 * Provocadas: coação, lei federal, ordem judicial, princípios sensíveis
 * Dívida fundada: mais de dois anos consecutivos
-ANTONIO: Vimos Estados, Municípios, Distrito Federal e Territórios. Agora o último tema da aula: a intervenção, que é a supressão temporária e excepcional da autonomia de um ente, só nas hipóteses taxativas da Constituição. A regra é a não intervenção. A União intervém nos Estados e no Distrito Federal, pelo artigo trinta e quatro, e nos Municípios de Território. O Estado intervém nos seus Municípios, pelo artigo trinta e cinco.
+FRANCISCA: Vimos Estados, Municípios, Distrito Federal e Territórios. Agora o último tema da aula: a intervenção, que é a supressão temporária e excepcional da autonomia de um ente, só nas hipóteses taxativas da Constituição. A regra é a não intervenção. A União intervém nos Estados e no Distrito Federal, pelo artigo trinta e quatro, e nos Municípios de Território. O Estado intervém nos seus Municípios, pelo artigo trinta e cinco.
 THALITA: E a União pode intervir direto num Município de um Estado?
-BRUNO: Nunca. Município situado em Estado, só o Estado intervém. Questão que afirmar intervenção federal em Município de Estado está errada.
-FRANCISCA: As hipóteses espontâneas, em que o Presidente age por iniciativa própria: preservar a integridade nacional, rechaçar invasão estrangeira ou de uma unidade federada em outra, encerrar grave comprometimento da ordem pública, e reorganizar as finanças do ente que suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo força maior, ou deixar de repassar aos Municípios as receitas tributárias.
-THALITA: E as provocadas?
-ANTONIO: Para assegurar o livre exercício dos Poderes estaduais, por solicitação do Legislativo ou do Executivo coacto, ou por requisição do STF se a coação atingir o Judiciário. Para garantir a execução de lei federal, por requisição do STF após representação do Procurador-Geral da República. Para garantir o cumprimento de ordem ou decisão judicial, por requisição do STF, do STJ ou do TSE. E para assegurar os princípios sensíveis, por requisição do STF, na chamada ADI interventiva.
-BRUNO: Os princípios sensíveis: forma republicana, sistema representativo e regime democrático; direitos da pessoa humana; autonomia municipal; prestação de contas; e aplicação do mínimo da receita de impostos em ensino e saúde.
+FRANCISCA: Nunca. Município situado em Estado, só o Estado intervém. Questão que afirmar intervenção federal em Município de Estado está errada.
+THALITA: As hipóteses espontâneas, em que o Presidente age por iniciativa própria: preservar a integridade nacional, rechaçar invasão estrangeira ou de uma unidade federada em outra, encerrar grave comprometimento da ordem pública, e reorganizar as finanças do ente que suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo força maior, ou deixar de repassar aos Municípios as receitas tributárias.
+FRANCISCA: E as provocadas?
+THALITA: Para assegurar o livre exercício dos Poderes estaduais, por solicitação do Legislativo ou do Executivo coacto, ou por requisição do STF se a coação atingir o Judiciário. Para garantir a execução de lei federal, por requisição do STF após representação do Procurador-Geral da República. Para garantir o cumprimento de ordem ou decisão judicial, por requisição do STF, do STJ ou do TSE. E para assegurar os princípios sensíveis, por requisição do STF, na chamada ADI interventiva.
+FRANCISCA: Os princípios sensíveis: forma republicana, sistema representativo e regime democrático; direitos da pessoa humana; autonomia municipal; prestação de contas; e aplicação do mínimo da receita de impostos em ensino e saúde.
 THALITA: Tem macete para decorar?
 FRANCISCA: "Forma, direitos, autonomia, contas e mínimo". Forma republicana, direitos da pessoa humana, autonomia municipal, prestação de contas e mínimo em ensino e saúde.
 == SLIDE: Solicitação, requisição e controle político
@@ -19,34 +19,34 @@ FRANCISCA: "Forma, direitos, autonomia, contas e mínimo". Forma republicana, di
 * Decreto: amplitude, prazo, condições e interventor
 * Controle do Congresso em vinte e quatro horas
 * Dispensa quando basta suspender o ato impugnado
-BRUNO: A pegadinha mais cobrada: solicitação e requisição. Solicitação é o pedido do Poder Legislativo ou Executivo coacto, e o Presidente avalia: ato discricionário. Requisição é ordem judicial, e o Presidente deve decretar: ato vinculado.
-THALITA: Então se o Judiciário é coagido, é requisição; se o Legislativo é coagido, é solicitação. E execução de lei federal?
-FRANCISCA: Requisição do STF, mediante representação do Procurador-Geral da República, desde a Emenda quarenta e cinco, de dois mil e quatro. Antes, era do STJ.
-ANTONIO: O Presidente ouve o Conselho da República e o Conselho de Defesa Nacional, mas os pareceres são opinativos. O decreto define a amplitude, o prazo e as condições de execução e, se for o caso, nomeia interventor, mas a nomeação não é obrigatória.
-BRUNO: O controle político: o decreto é submetido ao Congresso Nacional, ou à Assembleia, em vinte e quatro horas. Se o Legislativo estiver em recesso, é convocado extraordinariamente no mesmo prazo. O Congresso pode aprovar ou suspender a intervenção.
+THALITA: A pegadinha mais cobrada: solicitação e requisição. Solicitação é o pedido do Poder Legislativo ou Executivo coacto, e o Presidente avalia: ato discricionário. Requisição é ordem judicial, e o Presidente deve decretar: ato vinculado.
+FRANCISCA: Então se o Judiciário é coagido, é requisição; se o Legislativo é coagido, é solicitação. E execução de lei federal?
+THALITA: Requisição do STF, mediante representação do Procurador-Geral da República, desde a Emenda quarenta e cinco, de dois mil e quatro. Antes, era do STJ.
+FRANCISCA: O Presidente ouve o Conselho da República e o Conselho de Defesa Nacional, mas os pareceres são opinativos. O decreto define a amplitude, o prazo e as condições de execução e, se for o caso, nomeia interventor, mas a nomeação não é obrigatória.
+THALITA: O controle político: o decreto é submetido ao Congresso Nacional, ou à Assembleia, em vinte e quatro horas. Se o Legislativo estiver em recesso, é convocado extraordinariamente no mesmo prazo. O Congresso pode aprovar ou suspender a intervenção.
 FRANCISCA: Mas há dispensa: nos casos de lei federal, ordem judicial e princípios sensíveis, se o decreto apenas suspender a execução do ato impugnado e isso bastar para restabelecer a normalidade, não há controle do Congresso nem interventor. Exemplo: o STF julga procedente representação contra o Estado Gama por lei que viola direitos humanos, e o decreto suspende a lei. Se não bastar, amplia-se a medida e passa pelo controle.
 THALITA: E durante a intervenção federal, a Constituição não pode ser emendada, certo?
-ANTONIO: Certo, é um limite circunstancial. Cessados os motivos, as autoridades afastadas voltam aos cargos, salvo impedimento legal.
+FRANCISCA: Certo, é um limite circunstancial. Cessados os motivos, as autoridades afastadas voltam aos cargos, salvo impedimento legal.
 == SLIDE: Intervenção estadual nos Municípios: artigo trinta e cinco
 * Dívida fundada por dois anos consecutivos
 * Falta de prestação de contas
 * Não aplicação do mínimo em ensino e saúde
 * TJ provê representação do PGJ; Súmula 637
 * Precatórios: descumprimento voluntário e intencional
-FRANCISCA: Intervenção estadual no Município, artigo trinta e cinco. Quatro hipóteses. Dívida fundada não paga por dois anos consecutivos, sem força maior. Falta de prestação das contas devidas. Não aplicação do mínimo da receita municipal em ensino e saúde. E o provimento, pelo Tribunal de Justiça, de representação para assegurar princípios da Constituição Estadual ou para executar lei, ordem ou decisão judicial.
-BRUNO: A diferença que a FCC explora: no artigo trinta e quatro é "mais de dois anos"; no trinta e cinco, "por dois anos". A representação é do Procurador-Geral de Justiça, e o decreto é do Governador, dispensado o controle da Assembleia se bastar suspender o ato.
+THALITA: Intervenção estadual no Município, artigo trinta e cinco. Quatro hipóteses. Dívida fundada não paga por dois anos consecutivos, sem força maior. Falta de prestação das contas devidas. Não aplicação do mínimo da receita municipal em ensino e saúde. E o provimento, pelo Tribunal de Justiça, de representação para assegurar princípios da Constituição Estadual ou para executar lei, ordem ou decisão judicial.
+FRANCISCA: A diferença que a FCC explora: no artigo trinta e quatro é "mais de dois anos"; no trinta e cinco, "por dois anos". A representação é do Procurador-Geral de Justiça, e o decreto é do Governador, dispensado o controle da Assembleia se bastar suspender o ato.
 THALITA: Cabe recurso se o Tribunal de Justiça defere a intervenção?
-ANTONIO: Não cabe recurso extraordinário. A Súmula seiscentos e trinta e sete do STF diz que a decisão tem natureza político-administrativa.
-FRANCISCA: E em pedidos por precatórios não pagos, inclusive trabalhistas, o STF exige descumprimento voluntário e intencional. A mera insuficiência de recursos não autoriza a intervenção.
-BRUNO: E lembre: Município de Estado, só o Estado intervém; Município de Território, a União.
+FRANCISCA: Não cabe recurso extraordinário. A Súmula seiscentos e trinta e sete do STF diz que a decisão tem natureza político-administrativa.
+THALITA: E em pedidos por precatórios não pagos, inclusive trabalhistas, o STF exige descumprimento voluntário e intencional. A mera insuficiência de recursos não autoriza a intervenção.
+FRANCISCA: E lembre: Município de Estado, só o Estado intervém; Município de Território, a União.
 == SLIDE: Resumo relâmpago da aula
 * Entes autônomos, não soberanos; Território não é ente
 * PUTEF, CAPACETE de PM, privativa x concorrente
 * Estados, DF e Municípios: números e pegadinhas
 * Intervenção: solicitação x requisição
 THALITA: Hora do resumo relâmpago do que mais cai na FCC. Primeiro, o artigo dezoito: quatro entes, todos autônomos, nenhum soberano, e Território não é ente. A criação de Município exige lei complementar federal para o período, estudos, plebiscito e lei estadual. No artigo dezenove, lembre RE-DO-DI.
-ANTONIO: Fez bem em guardar. E nas competências?
+FRANCISCA: Fez bem em guardar. E nas competências?
 THALITA: Artigo vinte e um é fazer, indelegável; artigo vinte e dois é legislar, delegável por lei complementar, com o CAPACETE de PM; artigo vinte e três é comum, com verbos de ação; artigo vinte e quatro é concorrente, com PUTEF, e lei federal superveniente suspende a estadual, não revoga.
-BRUNO: Mais três: gás canalizado é do Estado, e o Distrito Federal não se divide em Municípios, mas tem Judiciário e polícias mantidos pela União.
+FRANCISCA: Mais três: gás canalizado é do Estado, e o Distrito Federal não se divide em Municípios, mas tem Judiciário e polícias mantidos pela União.
 THALITA: E, nos números, a lei orgânica é dois turnos, dez dias, dois terços; segundo turno acima de duzentos mil eleitores. Por fim, a intervenção: a regra é a não intervenção, a solicitação é discricionária, a requisição é vinculada, e a União nunca intervém direto em Município de Estado.
-ANTONIO: É isso, pessoal, revisem as pegadinhas, e até a próxima aula!
+FRANCISCA: É isso, pessoal, revisem as pegadinhas, e até a próxima aula!

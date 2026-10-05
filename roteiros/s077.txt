@@ -4,91 +4,91 @@ SEGMENTO s077
 * Mais de 35 e menos de 70 anos; brasileiro nato
 * Nomeação pelo Presidente, após maioria absoluta do Senado
 * A CF não exige bacharelado nem carreira na magistratura
-ANTONIO: Depois das regras gerais do Judiciário, vamos aos tribunais de cúpula. Começamos pelo Supremo Tribunal Federal, o guardião da Constituição, que atua pelo controle concentrado, pelo recurso extraordinário com repercussão geral, pela súmula vinculante e pela reclamação. Depois vêm o CNJ e o STJ, artigos cento e um a cento e cinco.
+FRANCISCA: Depois das regras gerais do Judiciário, vamos aos tribunais de cúpula. Começamos pelo Supremo Tribunal Federal, o guardião da Constituição, que atua pelo controle concentrado, pelo recurso extraordinário com repercussão geral, pela súmula vinculante e pela reclamação. Depois vêm o CNJ e o STJ, artigos cento e um a cento e cinco.
 THALITA: Primeira pergunta de prova: quantos Ministros o Supremo tem?
 FRANCISCA: Onze, conforme o artigo cento e um. Cidadãos com mais de trinta e cinco e menos de setenta anos, de notável saber jurídico e reputação ilibada.
-BRUNO: E o brasileiro nato é exigido. O artigo doze, parágrafo terceiro, inciso quatro, reserva o cargo de Ministro do Supremo a brasileiro nato. Se a questão disser "brasileiro nato ou naturalizado", errado.
-THALITA: E a nomeação? Eu lembro que o Senado participa.
-FRANCISCA: Isso. Nomeação pelo Presidente da República, depois de aprovação pela maioria absoluta do Senado.
-ANTONIO: Um detalhe que a banca explora: a Constituição não exige bacharelado em Direito nem carreira na magistratura para ser Ministro. Exige notável saber jurídico e reputação ilibada.
-BRUNO: Então se a alternativa afirmar que só pode ser nomeado juiz de carreira, a FCC quer a sua marcação como errada.
-THALITA: Resumindo: onze, mais de trinta e cinco e menos de setenta, nato, maioria absoluta do Senado.
+THALITA: E o brasileiro nato é exigido. O artigo doze, parágrafo terceiro, inciso quatro, reserva o cargo de Ministro do Supremo a brasileiro nato. Se a questão disser "brasileiro nato ou naturalizado", errado.
+FRANCISCA: E a nomeação? Eu lembro que o Senado participa.
+THALITA: Isso. Nomeação pelo Presidente da República, depois de aprovação pela maioria absoluta do Senado.
+FRANCISCA: Um detalhe que a banca explora: a Constituição não exige bacharelado em Direito nem carreira na magistratura para ser Ministro. Exige notável saber jurídico e reputação ilibada.
+THALITA: Então se a alternativa afirmar que só pode ser nomeado juiz de carreira, a FCC quer a sua marcação como errada.
+FRANCISCA: Resumindo: onze, mais de trinta e cinco e menos de setenta, nato, maioria absoluta do Senado.
 == SLIDE: STF: competência originária
 * Controle: ADI, ADC, ADPF e cautelar nas ADIs
 * Penal: crimes comuns do Presidente, Vice, Congresso e PGR
 * HC, MS, HD e MI de autoridades específicas
 * Federativa: conflitos entre União e Estados; extradição; reclamação
-ANTONIO: Competência originária do Supremo, artigo cento e dois, inciso um. Primeiro grupo, o controle: ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual, ação declaratória de constitucionalidade de lei ou ato federal, e a arguição de descumprimento de preceito fundamental, com medida cautelar nas ADIs.
+THALITA: Competência originária do Supremo, artigo cento e dois, inciso um. Primeiro grupo, o controle: ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual, ação declaratória de constitucionalidade de lei ou ato federal, e a arguição de descumprimento de preceito fundamental, com medida cautelar nas ADIs.
 FRANCISCA: Segundo grupo, o penal. O Supremo julga, nos crimes comuns, o Presidente, o Vice, os membros do Congresso, os próprios Ministros e o Procurador-Geral da República. E, nos crimes comuns e de responsabilidade, os Ministros de Estado, os Comandantes das Forças Armadas, ressalvado o artigo cinquenta e dois, inciso um, os membros dos Tribunais Superiores, do Tribunal de Contas da União e os chefes de missão diplomática permanente.
 THALITA: Quanta gente. Como decorar?
-BRUNO: Pense em altas autoridades da República. A FCC cobra com troca de uma autoridade por outra. Por exemplo, dizer que o Supremo julga governadores. Não julga: governador é no STJ.
-FRANCISCA: Terceiro grupo, as ações constitucionais. Habeas corpus dessas autoridades. Mandado de segurança e habeas data contra atos do Presidente, das Mesas da Câmara e do Senado, do TCU, do Procurador-Geral e do próprio Supremo. E mandado de injunção quando a norma faltante for atribuição de autoridades máximas, como o Presidente, o Congresso, as Mesas, o TCU, os Tribunais Superiores ou o Supremo.
-THALITA: E o quarto grupo?
-ANTONIO: Federativo e outros: conflitos entre a União e os Estados ou o Distrito Federal, inclusive de administração indireta; litígio de Estado estrangeiro com a União, Estados, Distrito Federal ou Territórios; extradição; revisão criminal e rescisória de seus julgados; reclamação; ações em que toda a magistratura seja interessada; e conflitos de competência entre o STJ e quaisquer tribunais ou entre Tribunais Superiores. Também ações contra o CNJ e contra o CNMP.
-BRUNO: Pegadinha: conflito de competência entre o TST e um TRT a ele vinculado não é do Supremo. Entre o TST e o STJ, é do Supremo.
+FRANCISCA: Pense em altas autoridades da República. A FCC cobra com troca de uma autoridade por outra. Por exemplo, dizer que o Supremo julga governadores. Não julga: governador é no STJ.
+THALITA: Terceiro grupo, as ações constitucionais. Habeas corpus dessas autoridades. Mandado de segurança e habeas data contra atos do Presidente, das Mesas da Câmara e do Senado, do TCU, do Procurador-Geral e do próprio Supremo. E mandado de injunção quando a norma faltante for atribuição de autoridades máximas, como o Presidente, o Congresso, as Mesas, o TCU, os Tribunais Superiores ou o Supremo.
+FRANCISCA: E o quarto grupo?
+THALITA: Federativo e outros: conflitos entre a União e os Estados ou o Distrito Federal, inclusive de administração indireta; litígio de Estado estrangeiro com a União, Estados, Distrito Federal ou Territórios; extradição; revisão criminal e rescisória de seus julgados; reclamação; ações em que toda a magistratura seja interessada; e conflitos de competência entre o STJ e quaisquer tribunais ou entre Tribunais Superiores. Também ações contra o CNJ e contra o CNMP.
+FRANCISCA: Pegadinha: conflito de competência entre o TST e um TRT a ele vinculado não é do Supremo. Entre o TST e o STJ, é do Supremo.
 == SLIDE: Recursos ao STF e repercussão geral
 * Recurso ordinário: HC, MS, HD e MI denegatórios; crime político
 * Extraordinário: causa decidida em única ou última instância
 * Repercussão geral: recusa só por 2/3 (oito Ministros)
 * Lei local contestada em face de lei federal: cabe RE
-ANTONIO: Agora os recursos. O recurso ordinário vai ao Supremo contra habeas corpus, mandado de segurança, habeas data e mandado de injunção decididos em única instância pelos Tribunais Superiores, quando a decisão for denegatória. E também nos casos de crime político.
-THALITA: Denegatória, então se concedeu, não cabe.
-FRANCISCA: Exato. Já o recurso extraordinário cabe contra causa decidida em única ou última instância quando a decisão contrariar a Constituição, declarar inconstitucional tratado ou lei federal, julgar válida lei ou ato de governo local contestado em face da Constituição, ou julgar válida lei local contestada em face de lei federal.
-BRUNO: A última hipótese é cobrada porque parece coisa do STJ. Lei local contra lei federal, quando válida a lei local, a questão é do recurso extraordinário.
+THALITA: Agora os recursos. O recurso ordinário vai ao Supremo contra habeas corpus, mandado de segurança, habeas data e mandado de injunção decididos em única instância pelos Tribunais Superiores, quando a decisão for denegatória. E também nos casos de crime político.
+FRANCISCA: Denegatória, então se concedeu, não cabe.
+THALITA: Exato. Já o recurso extraordinário cabe contra causa decidida em única ou última instância quando a decisão contrariar a Constituição, declarar inconstitucional tratado ou lei federal, julgar válida lei ou ato de governo local contestado em face da Constituição, ou julgar válida lei local contestada em face de lei federal.
+FRANCISCA: A última hipótese é cobrada porque parece coisa do STJ. Lei local contra lei federal, quando válida a lei local, a questão é do recurso extraordinário.
 THALITA: E a repercussão geral?
-ANTONIO: Artigo cento e dois, parágrafo terceiro: o recorrente deve demonstrar a repercussão geral das questões constitucionais discutidas, e o Supremo só pode recusar o recurso pela manifestação de dois terços de seus membros, ou seja, oito Ministros.
-BRUNO: Troca clássica: maioria absoluta no lugar de dois terços.
-THALITA: Dois terços recusa, e dois terços também aprova súmula vinculante. Vou ver isso já.
+FRANCISCA: Artigo cento e dois, parágrafo terceiro: o recorrente deve demonstrar a repercussão geral das questões constitucionais discutidas, e o Supremo só pode recusar o recurso pela manifestação de dois terços de seus membros, ou seja, oito Ministros.
+THALITA: Troca clássica: maioria absoluta no lugar de dois terços.
+FRANCISCA: Dois terços recusa, e dois terços também aprova súmula vinculante. Vou ver isso já.
 == SLIDE: Legitimados da ADI e da ADC
 * Universais: Presidente, Mesas do Senado e da Câmara, PGR, OAB, partido
 * Especiais: Mesa de Assembleia, Governador, confederação, entidade nacional
 * Especiais precisam de pertinência temática
 * PGR ouvido; AGU defende o ato (art. 103)
-ANTONIO: Primeiro, legitimados da ADI e da ADC, artigo cento e três. Há dois grupos. Os universais, que não precisam demonstrar pertinência temática: Presidente da República, Mesas do Senado e da Câmara, Procurador-Geral da República, Conselho Federal da OAB e partido político com representação no Congresso.
+THALITA: Primeiro, legitimados da ADI e da ADC, artigo cento e três. Há dois grupos. Os universais, que não precisam demonstrar pertinência temática: Presidente da República, Mesas do Senado e da Câmara, Procurador-Geral da República, Conselho Federal da OAB e partido político com representação no Congresso.
 FRANCISCA: Os especiais precisam de pertinência temática, ou seja, de relação entre o objeto da ação e sua finalidade. São a Mesa de Assembleia Legislativa ou da Câmara Legislativa do Distrito Federal, o Governador de Estado ou do Distrito Federal, a confederação sindical e a entidade de classe de âmbito nacional.
-BRUNO: Atenção: sindicato e federação não propõem ADI. Só confederação sindical. E, segundo o Supremo, central sindical também não.
-THALITA: Então "federação sindical propõe ADI", errado.
-BRUNO: Errado. E mais: o PGR deve ser ouvido previamente em todos os processos de competência do Supremo, e o Advogado-Geral da União defende o ato impugnado, conforme o artigo cento e três, parágrafos primeiro e terceiro.
+THALITA: Atenção: sindicato e federação não propõem ADI. Só confederação sindical. E, segundo o Supremo, central sindical também não.
+FRANCISCA: Então "federação sindical propõe ADI", errado.
+THALITA: Errado. E mais: o PGR deve ser ouvido previamente em todos os processos de competência do Supremo, e o Advogado-Geral da União defende o ato impugnado, conforme o artigo cento e três, parágrafos primeiro e terceiro.
 FRANCISCA: Um macete é separar quem tem mandato popular ou chefe de Poder, que são os universais, de quem representa interesse específico, que precisa demonstrar pertinência.
 THALITA: Universais são os que representam a República toda. Especiais, só um pedaço. E esse macete me ajuda a não errar a lista inteira de nove legitimados na hora da prova.
-ANTONIO: Boa imagem, Thalita.
+FRANCISCA: Boa imagem, Thalita.
 THALITA: Então se a questão disser que a Mesa da Assembleia Legislativa propõe ADI sem precisar de pertinência temática, eu marco errado, porque ela é especial. E se disser que o partido político precisa de pertinência, também errado, ele é universal. Pronto, agora a súmula vinculante, que eu sempre confundo com a súmula comum.
 == SLIDE: Súmula vinculante e reclamação (art. 103-A)
 * Só o STF aprova, revisa ou cancela, por 2/3 dos membros
 * Matéria constitucional, controvérsia atual, grave insegurança
 * Vincula Judiciário e administração; não o Legislativo
 * Reclamação: Supremo anula ato ou cassa decisão
-ANTONIO: Súmula vinculante, artigo cento e três-A. Quem aprova é somente o Supremo, de ofício ou por provocação, por dois terços de seus membros, oito de onze, para aprovar, revisar ou cancelar.
+FRANCISCA: Súmula vinculante, artigo cento e três-A. Quem aprova é somente o Supremo, de ofício ou por provocação, por dois terços de seus membros, oito de onze, para aprovar, revisar ou cancelar.
 THALITA: E o que precisa existir antes?
 FRANCISCA: Reiteradas decisões sobre matéria constitucional, e uma controvérsia atual que cause grave insegurança jurídica e relevante multiplicação de processos sobre a mesma questão.
-BRUNO: Sobre efeitos: a súmula vincula os demais órgãos do Judiciário e a administração pública direta e indireta, federal, estadual e municipal, a partir da publicação na imprensa oficial. Não vincula o Poder Legislativo em sua função de legislar, nem o próprio Supremo, que pode revisá-la.
-THALITA: Quem pode pedir revisão ou cancelamento?
-FRANCISCA: Os mesmos legitimados da ADI, mais os previstos na Lei onze mil quatrocentos e dezessete, de dois mil e seis: Defensor Público-Geral da União, Tribunais Superiores, Tribunais de Justiça, Tribunais Regionais Federais, os Tribunais Regionais do Trabalho, os Regionais Eleitorais e os tribunais militares. O Município, só de forma incidental.
-ANTONIO: A reclamação cabe contra ato ou decisão que contrarie a súmula ou a aplique indevidamente. Se procedente, o Supremo anula o ato administrativo ou cassa a decisão judicial e determina que outra seja proferida.
-BRUNO: E contra ato da administração, só depois de esgotadas as vias administrativas. É o artigo sétimo, parágrafo primeiro, da mesma lei.
-THALITA: Anula o ato administrativo, cassa a decisão judicial. Anulo ato, cassa decisão.
+THALITA: Sobre efeitos: a súmula vincula os demais órgãos do Judiciário e a administração pública direta e indireta, federal, estadual e municipal, a partir da publicação na imprensa oficial. Não vincula o Poder Legislativo em sua função de legislar, nem o próprio Supremo, que pode revisá-la.
+FRANCISCA: Quem pode pedir revisão ou cancelamento?
+THALITA: Os mesmos legitimados da ADI, mais os previstos na Lei onze mil quatrocentos e dezessete, de dois mil e seis: Defensor Público-Geral da União, Tribunais Superiores, Tribunais de Justiça, Tribunais Regionais Federais, os Tribunais Regionais do Trabalho, os Regionais Eleitorais e os tribunais militares. O Município, só de forma incidental.
+FRANCISCA: A reclamação cabe contra ato ou decisão que contrarie a súmula ou a aplique indevidamente. Se procedente, o Supremo anula o ato administrativo ou cassa a decisão judicial e determina que outra seja proferida.
+THALITA: E contra ato da administração, só depois de esgotadas as vias administrativas. É o artigo sétimo, parágrafo primeiro, da mesma lei.
+FRANCISCA: Anula o ato administrativo, cassa a decisão judicial. Anulo ato, cassa decisão.
 == SLIDE: CNJ: composição
 * 15 membros, mandato de 2 anos, uma recondução
 * Presidente do STF preside; nomeação pelo Presidente da República
 * Cada superior indica seu ministro, juiz de 2º e de 1º grau
 * Corregedor Nacional: Ministro do STJ
-ANTONIO: Conselho Nacional de Justiça, artigo cento e três-B. Quinze membros, mandato de dois anos, admitida uma recondução. Preside o Presidente do Supremo, e, nas ausências, o Vice-Presidente do Supremo.
+THALITA: Conselho Nacional de Justiça, artigo cento e três-B. Quinze membros, mandato de dois anos, admitida uma recondução. Preside o Presidente do Supremo, e, nas ausências, o Vice-Presidente do Supremo.
 FRANCISCA: Os demais membros são nomeados pelo Presidente da República, depois de aprovação pela maioria absoluta do Senado. Se a indicação for omissa, o Supremo escolhe.
 THALITA: Quem indica quem? Eu sempre me perco.
-BRUNO: Tem uma regra de simetria. Cada tribunal superior indica um ministro seu, um juiz de segundo grau e um de primeiro grau do seu ramo. O STJ indica o Ministro do STJ, o juiz de TRF e o juiz federal. O TST indica o Ministro do TST, o juiz de TRT e o juiz do trabalho. E o Supremo indica o desembargador de Tribunal de Justiça e o juiz estadual.
-FRANCISCA: Faltam o Ministério Público e a sociedade. O Procurador-Geral indica um membro do MPU e um de MP estadual, este escolhido entre nomes indicados pelos órgãos estaduais. A OAB indica dois advogados. E dois cidadãos de notável saber jurídico e reputação ilibada, um pela Câmara e um pelo Senado.
-THALITA: Simetria: Supremo, estadual; STJ, federal; TST, trabalhista.
-ANTONIO: E o Corregedor Nacional é o Ministro do STJ, excluído da distribuição de processos no STJ. O Procurador-Geral e o Presidente do Conselho Federal da OAB oficiam junto ao CNJ, mas não são membros dele.
-BRUNO: Troca típica: mandato de três anos, vedada a recondução, Corregedor ministro do TST, PGR integrando o CNJ. Todas erradas.
+FRANCISCA: Tem uma regra de simetria. Cada tribunal superior indica um ministro seu, um juiz de segundo grau e um de primeiro grau do seu ramo. O STJ indica o Ministro do STJ, o juiz de TRF e o juiz federal. O TST indica o Ministro do TST, o juiz de TRT e o juiz do trabalho. E o Supremo indica o desembargador de Tribunal de Justiça e o juiz estadual.
+THALITA: Faltam o Ministério Público e a sociedade. O Procurador-Geral indica um membro do MPU e um de MP estadual, este escolhido entre nomes indicados pelos órgãos estaduais. A OAB indica dois advogados. E dois cidadãos de notável saber jurídico e reputação ilibada, um pela Câmara e um pelo Senado.
+FRANCISCA: Simetria: Supremo, estadual; STJ, federal; TST, trabalhista.
+THALITA: E o Corregedor Nacional é o Ministro do STJ, excluído da distribuição de processos no STJ. O Procurador-Geral e o Presidente do Conselho Federal da OAB oficiam junto ao CNJ, mas não são membros dele.
+FRANCISCA: Troca típica: mandato de três anos, vedada a recondução, Corregedor ministro do TST, PGR integrando o CNJ. Todas erradas.
 == SLIDE: CNJ: competências e o STJ
 * CNJ controla atuação administrativa, financeira e disciplinar
 * Não julga processos nem tem competência sobre o STF
 * Revisão disciplinar: julgados há menos de 1 ano
 * STJ: mínimo de 33 Ministros; recurso especial; relevância
-ANTONIO: As competências do CNJ estão no parágrafo quarto do artigo cento e três-B. Ele controla a atuação administrativa e financeira do Judiciário e o cumprimento dos deveres funcionais dos juízes. Não julga processos, não revê decisões jurisdicionais e não tem competência sobre o Supremo. A competência disciplinar é originária e concorrente com a dos tribunais.
+THALITA: As competências do CNJ estão no parágrafo quarto do artigo cento e três-B. Ele controla a atuação administrativa e financeira do Judiciário e o cumprimento dos deveres funcionais dos juízes. Não julga processos, não revê decisões jurisdicionais e não tem competência sobre o Supremo. A competência disciplinar é originária e concorrente com a dos tribunais.
 FRANCISCA: Resumindo os incisos: zelar pela autonomia e expedir atos regulamentares; zelar pelo artigo trinta e sete e rever atos administrativos, sem prejuízo do TCU; receber reclamações contra membros e órgãos, inclusive cartórios, avocar processos disciplinares e aplicar sanções com ampla defesa; representar ao Ministério Público em crime contra a administração ou abuso de autoridade.
-BRUNO: Dois prazos: revisão de processos disciplinares julgados há menos de um ano, e relatório estatístico semestral. Mais o relatório anual, que integra a mensagem do Presidente do Supremo ao Congresso. Trocar "semestral" por "anual" ou "um ano" por "dois anos" é a pegadinha.
-THALITA: E o STJ? Tenho que fechar.
-FRANCISCA: No mínimo trinta e três Ministros, de trinta e cinco a menos de setenta anos, nomeados pelo Presidente com aprovação da maioria absoluta do Senado. Um terço de juízes de TRF, um terço de desembargadores de Tribunal de Justiça e um terço, em partes iguais, de advogados e membros do Ministério Público.
-BRUNO: O recurso especial cobre decisão que contrarie lei federal ou tratado, julgue válido ato de governo local contestado em face de lei federal, ou dê interpretação divergente à lei federal. E, desde a Emenda cento e vinte e cinco, de dois mil e vinte e dois, exige demonstração de relevância, com recusa por dois terços.
-ANTONIO: Exemplo: conflito de competência entre um juiz do trabalho de Belém e um juiz estadual de Macapá é do STJ. Entre duas Varas do Trabalho da oitava região, o TRT. Entre regiões diferentes, o TST. E é exatamente na Justiça do Trabalho que entramos agora.
+THALITA: Dois prazos: revisão de processos disciplinares julgados há menos de um ano, e relatório estatístico semestral. Mais o relatório anual, que integra a mensagem do Presidente do Supremo ao Congresso. Trocar "semestral" por "anual" ou "um ano" por "dois anos" é a pegadinha.
+FRANCISCA: E o STJ? Tenho que fechar.
+THALITA: No mínimo trinta e três Ministros, de trinta e cinco a menos de setenta anos, nomeados pelo Presidente com aprovação da maioria absoluta do Senado. Um terço de juízes de TRF, um terço de desembargadores de Tribunal de Justiça e um terço, em partes iguais, de advogados e membros do Ministério Público.
+FRANCISCA: O recurso especial cobre decisão que contrarie lei federal ou tratado, julgue válido ato de governo local contestado em face de lei federal, ou dê interpretação divergente à lei federal. E, desde a Emenda cento e vinte e cinco, de dois mil e vinte e dois, exige demonstração de relevância, com recusa por dois terços.
+THALITA: Exemplo: conflito de competência entre um juiz do trabalho de Belém e um juiz estadual de Macapá é do STJ. Entre duas Varas do Trabalho da oitava região, o TRT. Entre regiões diferentes, o TST. E é exatamente na Justiça do Trabalho que entramos agora.

@@ -4,65 +4,65 @@ SEGMENTO s015
 * Cada linha e cada coluna tem um único certo
 * Comece pelas pistas afirmativas; depois cruze com as condicionais
 * Exemplo: Ana, Bruno e Carla, setores e cidades
-ANTONIO: Fechada a lógica proposicional, vamos às estruturas lógicas de relações. Há três famílias de problemas: associação, verdades e mentiras, e ordenação. Começamos pela associação, e a ferramenta é a tabela-gabarito: pessoas contra atributos, com X nas exclusões e marca de certeza nas confirmações. Cada linha e cada coluna tem uma única certeza.
+FRANCISCA: Fechada a lógica proposicional, vamos às estruturas lógicas de relações. Há três famílias de problemas: associação, verdades e mentiras, e ordenação. Começamos pela associação, e a ferramenta é a tabela-gabarito: pessoas contra atributos, com X nas exclusões e marca de certeza nas confirmações. Cada linha e cada coluna tem uma única certeza.
 THALITA: Dá um exemplo, por favor, que assim eu entendo.
 FRANCISCA: Ana, Bruno e Carla trabalham, um em cada setor: Protocolo, Secretaria e Gabinete. E moram, um em cada cidade: Belém, Macapá e Santarém. Pistas: um, Ana não trabalha no Gabinete. Dois, quem trabalha no Protocolo mora em Santarém. Três, Bruno mora em Belém. Quatro, Carla não trabalha no Protocolo. Cinco, quem mora em Macapá não trabalha na Secretaria.
-BRUNO: Comece pelas afirmativas. Bruno mora em Belém. Pela pista dois, quem é do Protocolo mora em Santarém, então Bruno não é do Protocolo. A pista quatro tira Carla. Logo Ana está no Protocolo, e por dois mora em Santarém.
-THALITA: Sobra Macapá para Carla, certo? E a cinco diz que quem mora em Macapá não é da Secretaria, então Carla é do Gabinete e Bruno da Secretaria.
-ANTONIO: Perfeito. Ana, Protocolo e Santarém. Bruno, Secretaria e Belém. Carla, Gabinete e Macapá. Veja a dica: pistas do tipo quem faz X tem Y ligam duas colunas de atributos. Use-as para eliminar pessoas que já têm outro valor.
-BRUNO: Na prova, comece pelas pistas afirmativas e só depois cruze com as condicionais. Quem começa pelas condicionais se perde.
+THALITA: Comece pelas afirmativas. Bruno mora em Belém. Pela pista dois, quem é do Protocolo mora em Santarém, então Bruno não é do Protocolo. A pista quatro tira Carla. Logo Ana está no Protocolo, e por dois mora em Santarém.
+FRANCISCA: Sobra Macapá para Carla, certo? E a cinco diz que quem mora em Macapá não é da Secretaria, então Carla é do Gabinete e Bruno da Secretaria.
+THALITA: Perfeito. Ana, Protocolo e Santarém. Bruno, Secretaria e Belém. Carla, Gabinete e Macapá. Veja a dica: pistas do tipo quem faz X tem Y ligam duas colunas de atributos. Use-as para eliminar pessoas que já têm outro valor.
+FRANCISCA: Na prova, comece pelas pistas afirmativas e só depois cruze com as condicionais. Quem começa pelas condicionais se perde.
 == SLIDE: Verdades e mentiras
 * Hipótese por culpado: poucos suspeitos
 * Par contraditório: exatamente uma das falas é verdadeira
 * Quem acusa quem mente: falas com valores opostos
 * Sempre conferir contando as verdades
-FRANCISCA: Verdades e mentiras. Três técnicas. A primeira: hipótese por culpado, quando há poucos suspeitos. Supõe cada um culpado e conta quantas falas ficam verdadeiras. Fica a hipótese que bate com o enunciado.
-THALITA: E a segunda?
-BRUNO: Par contraditório. Quando duas falas se negam, exatamente uma delas é verdadeira, e isso fixa o valor das demais. A terceira: quem diz que fulano está mentindo. As duas falas têm valores opostos.
-ANTONIO: Exemplo. Um vaso foi quebrado por um de três irmãos, e apenas um diz a verdade. André diz: foi o Beto. Beto diz: não fui eu. Caio diz: não fui eu.
+THALITA: Verdades e mentiras. Três técnicas. A primeira: hipótese por culpado, quando há poucos suspeitos. Supõe cada um culpado e conta quantas falas ficam verdadeiras. Fica a hipótese que bate com o enunciado.
+FRANCISCA: E a segunda?
+THALITA: Par contraditório. Quando duas falas se negam, exatamente uma delas é verdadeira, e isso fixa o valor das demais. A terceira: quem diz que fulano está mentindo. As duas falas têm valores opostos.
+FRANCISCA: Exemplo. Um vaso foi quebrado por um de três irmãos, e apenas um diz a verdade. André diz: foi o Beto. Beto diz: não fui eu. Caio diz: não fui eu.
 THALITA: André e Beto se contradizem, então um deles fala a verdade.
 FRANCISCA: Exato. E como só há uma verdade, Caio mente. Se a fala de Caio, não fui eu, é falsa, então foi Caio.
-BRUNO: Confira sempre: André falso, Beto verdadeiro, Caio falso. Uma verdade só. Culpado: Caio. A FCC monta alternativas que satisfazem parte das condições, tipo o culpado certo com o sincero errado. Por isso conte as verdades no fim.
-THALITA: Macete meu: duas falas que se negam, uma é verdade; as outras mentem.
+THALITA: Confira sempre: André falso, Beto verdadeiro, Caio falso. Uma verdade só. Culpado: Caio. A FCC monta alternativas que satisfazem parte das condições, tipo o culpado certo com o sincero errado. Por isso conte as verdades no fim.
+FRANCISCA: Macete meu: duas falas que se negam, uma é verdade; as outras mentem.
 == SLIDE: Ordenação e posições
 * Antes de: desigualdade; imediatamente antes: bloco fixo
 * Entre X e Y há duas pessoas: posições diferem em três
 * Mesa circular: defina o sentido e fixe uma cadeira
 * Exemplo: cinco processos A, B, C, D, E
-ANTONIO: Ordenação. Transforme as pistas em desigualdades e blocos. X chegou antes de Y: X menor que Y, sem serem vizinhos. X chegou imediatamente antes de Y: bloco fixo. Entre X e Y há duas pessoas: as posições diferem em três.
-THALITA: E X não é o primeiro nem o último?
-FRANCISCA: X ocupa posição intermediária. Em mesa circular, defina o sentido, horário ou anti-horário, e fixe X numa cadeira. Só então use à direita de.
-BRUNO: Exemplo. Cinco processos, A, B, C, D, E, protocolados em sequência. C antes de A. A antes de D. B imediatamente depois de D. E foi o último.
-ANTONIO: E ocupa a quinta posição. Restam as quatro primeiras para C, A, D e o bloco D, B. D precisa de dois antes dele, C e A, e de B logo após. Então D é o terceiro, B o quarto, C o primeiro, A o segundo.
-THALITA: Ordem: C, A, D, B, E. Única.
-BRUNO: Atenção: sempre verifique todas as pistas na ordem encontrada. A FCC põe alternativas que cumprem quase todas.
+THALITA: Ordenação. Transforme as pistas em desigualdades e blocos. X chegou antes de Y: X menor que Y, sem serem vizinhos. X chegou imediatamente antes de Y: bloco fixo. Entre X e Y há duas pessoas: as posições diferem em três.
+FRANCISCA: E X não é o primeiro nem o último?
+THALITA: X ocupa posição intermediária. Em mesa circular, defina o sentido, horário ou anti-horário, e fixe X numa cadeira. Só então use à direita de.
+FRANCISCA: Exemplo. Cinco processos, A, B, C, D, E, protocolados em sequência. C antes de A. A antes de D. B imediatamente depois de D. E foi o último.
+THALITA: E ocupa a quinta posição. Restam as quatro primeiras para C, A, D e o bloco D, B. D precisa de dois antes dele, C e A, e de B logo após. Então D é o terceiro, B o quarto, C o primeiro, A o segundo.
+FRANCISCA: Ordem: C, A, D, B, E. Única.
+THALITA: Atenção: sempre verifique todas as pistas na ordem encontrada. A FCC põe alternativas que cumprem quase todas.
 == SLIDE: Pegadinhas das relações lógicas
 * Conferir a resposta final contra todas as pistas
 * Desenhar a tabela antes de pensar na resposta
 * Não confundir antes de com imediatamente antes de
 FRANCISCA: Resumindo as armadilhas dessa família de questões. Na associação, a banca esconde a pista decisiva numa condicional. Nas verdades e mentiras, ela oferece o culpado certo com a leitura errada das falas. Na ordenação, ela mistura antes com imediatamente antes.
 THALITA: Então a regra é sempre desenhar a tabela, nunca resolver de cabeça.
-BRUNO: Isso. E confira a resposta final contra todas as pistas, uma por uma, antes de marcar a alternativa. Dois minutos de conferência salvam a questão.
+FRANCISCA: Isso. E confira a resposta final contra todas as pistas, uma por uma, antes de marcar a alternativa. Dois minutos de conferência salvam a questão.
 == SLIDE: Sequências numéricas e de letras
 * Roteiro: diferenças, razões, padrão alternado, ciclos, letras
 * PA, PG, diferenças crescentes, intercalada, Fibonacci
 * Fórmulas: termo geral e soma da PA; termo geral da PG
 * Letras: posição no alfabeto; 23 ou 26 letras?
-ANTONIO: Raciocínio sequencial. Toda sequência esconde uma lei de formação. Roteiro: primeiro, diferenças entre termos vizinhos; segundo, razões; terceiro, padrão alternado ou duas sequências intercaladas; quarto, ciclos, com resto da divisão; quinto, letras, convertidas em posição no alfabeto.
+THALITA: Raciocínio sequencial. Toda sequência esconde uma lei de formação. Roteiro: primeiro, diferenças entre termos vizinhos; segundo, razões; terceiro, padrão alternado ou duas sequências intercaladas; quarto, ciclos, com resto da divisão; quinto, letras, convertidas em posição no alfabeto.
 FRANCISCA: Exemplos. PA: cinco, oito, onze, quatorze; soma três; próximo dezessete. PG: três, seis, doze, vinte e quatro; vezes dois; próximo quarenta e oito. Diferenças crescentes: um, dois, cinco, dez, dezessete, vinte e seis; somam um, três, cinco, sete, nove; próximo, trinta e sete.
-BRUNO: Alternada: três, sete, seis, dez, nove, treze, doze: mais quatro, menos um; próximo, dezesseis. Intercalada: dois, cinquenta, quatro, quarenta e cinco, oito, quarenta, dezesseis: ímpares dobram, pares perdem cinco; próximo, trinta e cinco. Quadrados: um, quatro, nove, dezesseis; próximo, trinta e seis.
-THALITA: E as fórmulas?
-ANTONIO: Termo da PA: a primeiro mais n menos um vezes a razão. Termo da PG: primeiro vezes razão elevada a n menos um. Soma da PA: primeiro mais último, vezes n, dividido por dois. Exemplo: centésimo termo de cinco, oito, onze: cinco mais noventa e nove vezes três, dá trezentos e dois.
+THALITA: Alternada: três, sete, seis, dez, nove, treze, doze: mais quatro, menos um; próximo, dezesseis. Intercalada: dois, cinquenta, quatro, quarenta e cinco, oito, quarenta, dezesseis: ímpares dobram, pares perdem cinco; próximo, trinta e cinco. Quadrados: um, quatro, nove, dezesseis; próximo, trinta e seis.
+FRANCISCA: E as fórmulas?
+THALITA: Termo da PA: a primeiro mais n menos um vezes a razão. Termo da PG: primeiro vezes razão elevada a n menos um. Soma da PA: primeiro mais último, vezes n, dividido por dois. Exemplo: centésimo termo de cinco, oito, onze: cinco mais noventa e nove vezes três, dá trezentos e dois.
 FRANCISCA: Sequência alternada: separe posições ímpares e pares. Cada subsequência costuma ser uma PA simples.
-BRUNO: Letras: A é um, B dois, até Z, vinte e seis. Cuidado: provas antigas da FCC usavam o alfabeto de vinte e três letras, sem K, W e Y. Leia o enunciado. Exemplo: A, C, F, J, O são as posições um, três, seis, dez, quinze; somam dois, três, quatro, cinco; próximo, vinte e um, a letra U.
+THALITA: Letras: A é um, B dois, até Z, vinte e seis. Cuidado: provas antigas da FCC usavam o alfabeto de vinte e três letras, sem K, W e Y. Leia o enunciado. Exemplo: A, C, F, J, O são as posições um, três, seis, dez, quinze; somam dois, três, quatro, cinco; próximo, vinte e um, a letra U.
 == SLIDE: Ciclos, figuras e conceitos
 * Ciclo: o resto da divisão dá a posição
 * Seta que gira: noventa graus tem período quatro
 * Formação de conceitos, discriminação e analogia
 * Intruso: onze, dezessete, vinte e três, vinte e sete, trinta e um
-ANTONIO: Quando um bloco se repete, o n-ésimo elemento é o de posição igual ao resto de n dividido pelo tamanho do ciclo. Resto zero é o último elemento do ciclo. Exemplo: a palavra TRTPARA repetida. Qual a centésima letra? O ciclo tem sete letras. Cem é sete vezes catorze mais dois. Resto dois: a segunda letra, R.
+FRANCISCA: Quando um bloco se repete, o n-ésimo elemento é o de posição igual ao resto de n dividido pelo tamanho do ciclo. Resto zero é o último elemento do ciclo. Exemplo: a palavra TRTPARA repetida. Qual a centésima letra? O ciclo tem sete letras. Cem é sete vezes catorze mais dois. Resto dois: a segunda letra, R.
 THALITA: E nas figuras? Uma seta que gira?
 FRANCISCA: Gira noventa graus a cada passo: período quatro, resto de n por quatro. Gira quarenta e cinco graus: período oito. Cor que alterna preto e branco: período dois, par ou ímpar. Figura que ganha um lado a cada passo não tem ciclo: número de lados é dois mais n.
-BRUNO: Agora três tarefas. Formação de conceitos: descobrir a característica comum de um grupo, testando classe gramatical, número de letras, paridade, primos. Discriminação: achar o intruso. Analogia: A está para B assim como C está para quê; descreva a relação em palavras e aplique.
-THALITA: Intruso em onze, dezessete, vinte e três, vinte e sete, trinta e um? São todos ímpares... ah, primos! Menos o vinte e sete.
-ANTONIO: Isso, vinte e sete é três ao cubo. Fechamos relações lógicas e sequências. No próximo bloco, orientação temporal e espacial, números inteiros e racionais, MMC e MDC, e frações.
+THALITA: Agora três tarefas. Formação de conceitos: descobrir a característica comum de um grupo, testando classe gramatical, número de letras, paridade, primos. Discriminação: achar o intruso. Analogia: A está para B assim como C está para quê; descreva a relação em palavras e aplique.
+FRANCISCA: Intruso em onze, dezessete, vinte e três, vinte e sete, trinta e um? São todos ímpares... ah, primos! Menos o vinte e sete.
+THALITA: Isso, vinte e sete é três ao cubo. Fechamos relações lógicas e sequências. No próximo bloco, orientação temporal e espacial, números inteiros e racionais, MMC e MDC, e frações.

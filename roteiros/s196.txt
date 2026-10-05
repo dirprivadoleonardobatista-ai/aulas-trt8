@@ -4,59 +4,56 @@ SEGMENTO s196
 * Termo de conciliação: decisão irrecorrível
 * Exceção: Previdência, hoje União, quanto às contribuições
 * Só rescisória desfaz o acordo (Súmula 259); trânsito na homologação (Súmula 100, V)
-ANTONIO: Saímos do mandado de segurança e da ação civil pública e voltamos ao coração do processo: a sentença. Pela CLT, o juiz só decide depois de rejeitada a proposta de conciliação, artigo oitocentos e trinta e um. Se as partes se conciliam, o termo que for lavrado vale como decisão irrecorrível.
+FRANCISCA: Saímos do mandado de segurança e da ação civil pública e voltamos ao coração do processo: a sentença. Pela CLT, o juiz só decide depois de rejeitada a proposta de conciliação, artigo oitocentos e trinta e um. Se as partes se conciliam, o termo que for lavrado vale como decisão irrecorrível.
 THALITA: Irrecorrível para todo mundo? Então se eu me arrependi do acordo, não tenho recurso nenhum?
 FRANCISCA: Para as partes, não. A única exceção é a Previdência Social, quanto às contribuições que lhe forem devidas. Hoje essa ressalva se refere à União, por meio da Receita Federal, que pode recorrer em relação às contribuições e à discriminação das parcelas.
-BRUNO: E quem quer desfazer o acordo tem um caminho só: a ação rescisória, Súmula duzentos e cinquenta e nove do TST. A FCC adora trocar isso por recurso ordinário. Está errado. Recurso não cabe; rescisória cabe.
-THALITA: E o acordo transita em julgado quando? Só depois de um prazo?
-ANTONIO: Não. Pela Súmula cem, item cinco, do TST, o termo de conciliação homologado transita em julgado na própria data da homologação. Sem espera e sem prazo.
-THALITA: Então o macete é: acordo, trânsito imediato, só a rescisória desfaz, e só a União recorre.
-FRANCISCA: Isso mesmo, você resumiu muito bem. E o motivo da ressalva é simples: as partes podem combinar o que quiserem entre si, mas não podem prejudicar o crédito previdenciário.
-BRUNO: Guarde também a palavra "decisão". O termo de conciliação não é um contrato qualquer. A lei diz que ele vale como decisão, e por isso a via para atacá-lo é a mesma de uma decisão de mérito transitada em julgado.
-
+THALITA: E quem quer desfazer o acordo tem um caminho só: a ação rescisória, Súmula duzentos e cinquenta e nove do TST. A FCC adora trocar isso por recurso ordinário. Está errado. Recurso não cabe; rescisória cabe.
+FRANCISCA: E o acordo transita em julgado quando? Só depois de um prazo?
+THALITA: Não. Pela Súmula cem, item cinco, do TST, o termo de conciliação homologado transita em julgado na própria data da homologação. Sem espera e sem prazo.
+FRANCISCA: Então o macete é: acordo, trânsito imediato, só a rescisória desfaz, e só a União recorre.
+THALITA: Isso mesmo, você resumiu muito bem. E o motivo da ressalva é simples: as partes podem combinar o que quiserem entre si, mas não podem prejudicar o crédito previdenciário.
+FRANCISCA: Guarde também a palavra "decisão". O termo de conciliação não é um contrato qualquer. A lei diz que ele vale como decisão, e por isso a via para atacá-lo é a mesma de uma decisão de mérito transitada em julgado.
 == SLIDE: Requisitos da sentença e natureza das parcelas
 * Art. 832: partes, resumo do pedido e da defesa, provas, fundamentos, conclusão
 * Procedência: prazo e condições de cumprimento (§1º)
 * Custas sempre mencionadas (§2º)
 * Natureza jurídica das parcelas e contribuição previdenciária (§3º)
 * Parcela remuneratória: base mensal não inferior ao salário mínimo ou piso
-ANTONIO: Vamos aos requisitos, artigo oitocentos e trinta e dois. Na decisão devem constar o nome das partes, o resumo do pedido e da defesa, a apreciação das provas, os fundamentos e a conclusão. Em termos práticos, relatório, fundamentação e dispositivo.
-THALITA: E se o juiz condenar o reclamado? Ele só manda pagar e pronto?
-FRANCISCA: Não. Quando concluir pela procedência do pedido, o juiz determina o prazo e as condições para o cumprimento, parágrafo primeiro. E a decisão mencionará sempre as custas que devam ser pagas pela parte vencida, parágrafo segundo.
-BRUNO: Olha o advérbio: sempre. Se a alternativa disser que as custas só são mencionadas quando houver recurso, está errada. Toda decisão menciona as custas.
+THALITA: Vamos aos requisitos, artigo oitocentos e trinta e dois. Na decisão devem constar o nome das partes, o resumo do pedido e da defesa, a apreciação das provas, os fundamentos e a conclusão. Em termos práticos, relatório, fundamentação e dispositivo.
+FRANCISCA: E se o juiz condenar o reclamado? Ele só manda pagar e pronto?
+THALITA: Não. Quando concluir pela procedência do pedido, o juiz determina o prazo e as condições para o cumprimento, parágrafo primeiro. E a decisão mencionará sempre as custas que devam ser pagas pela parte vencida, parágrafo segundo.
+FRANCISCA: Olha o advérbio: sempre. Se a alternativa disser que as custas só são mencionadas quando houver recurso, está errada. Toda decisão menciona as custas.
 THALITA: Anotei: prazo e condições na procedência, custas sempre.
 FRANCISCA: Agora a parte previdenciária. As decisões cognitivas ou homologatórias devem sempre indicar a natureza jurídica das parcelas da condenação ou do acordo, inclusive o limite de responsabilidade de cada parte pelo recolhimento da contribuição previdenciária, se for o caso, parágrafo terceiro.
-ANTONIO: A União é intimada das homologações de acordo que tenham parcela indenizatória e pode recorrer quanto às contribuições e à discriminação das parcelas. Além disso, a Lei treze mil oitocentos e setenta e seis, de dois mil e dezenove, incluiu os parágrafos três-A e três-B.
-BRUNO: Resumo da regra: salvo quando o pedido se limitar a verbas exclusivamente indenizatórias, a parcela remuneratória não pode ter base mensal inferior ao salário mínimo, ou ao piso da categoria, se houver. É para evitar acordo que rotula tudo como indenizatório.
+THALITA: A União é intimada das homologações de acordo que tenham parcela indenizatória e pode recorrer quanto às contribuições e à discriminação das parcelas. Além disso, a Lei treze mil oitocentos e setenta e seis, de dois mil e dezenove, incluiu os parágrafos três-A e três-B.
+FRANCISCA: Resumo da regra: salvo quando o pedido se limitar a verbas exclusivamente indenizatórias, a parcela remuneratória não pode ter base mensal inferior ao salário mínimo, ou ao piso da categoria, se houver. É para evitar acordo que rotula tudo como indenizatório.
 THALITA: Ou seja, não adianta chamar tudo de indenização para fugir da contribuição.
-ANTONIO: Exatamente.
-
+FRANCISCA: Exatamente.
 == SLIDE: Erros materiais, publicação e prazo recursal
 * Erros materiais: de ofício ou a requerimento, antes da execução (art. 833)
 * Publicação na própria audiência (art. 834)
 * Súmula 30: ata não juntada em 48h, prazo conta da intimação
 * Súmula 197: ausente intimado, prazo conta da publicação
 * Revel: notificação na forma do art. 841, §1º (art. 852)
-FRANCISCA: Ainda no assunto das sentenças, temos três regras curtas. Primeira: erros ou enganos de escrita, de datilografia ou de cálculo podem ser corrigidos de ofício ou a requerimento, antes da execução, artigo oitocentos e trinta e três.
-THALITA: Então o juiz corrige sozinho, sem ninguém pedir?
-FRANCISCA: Pode. Erro material não depende de provocação. Segunda regra: a publicação da sentença considera-se feita na própria audiência, artigo oitocentos e trinta e quatro. O prazo para recurso, em regra, corre dali.
-BRUNO: E aqui entram duas súmulas que a banca ama. Súmula trinta do TST: se a ata não for juntada ao processo em quarenta e oito horas, contadas da audiência de julgamento, o prazo para recurso passa a contar da data em que a parte receber a intimação da sentença.
+THALITA: Ainda no assunto das sentenças, temos três regras curtas. Primeira: erros ou enganos de escrita, de datilografia ou de cálculo podem ser corrigidos de ofício ou a requerimento, antes da execução, artigo oitocentos e trinta e três.
+FRANCISCA: Então o juiz corrige sozinho, sem ninguém pedir?
+THALITA: Pode. Erro material não depende de provocação. Segunda regra: a publicação da sentença considera-se feita na própria audiência, artigo oitocentos e trinta e quatro. O prazo para recurso, em regra, corre dali.
+FRANCISCA: E aqui entram duas súmulas que a banca ama. Súmula trinta do TST: se a ata não for juntada ao processo em quarenta e oito horas, contadas da audiência de julgamento, o prazo para recurso passa a contar da data em que a parte receber a intimação da sentença.
 THALITA: Quarenta e oito horas para juntar a ata. Se estourar, vale a intimação.
-ANTONIO: Isso. E a Súmula cento e noventa e sete: a parte que foi intimada para a audiência em prosseguimento, onde a sentença seria proferida, mas não compareceu, tem o prazo contado da publicação da sentença. Ela não ganha prazo extra por ter faltado.
-FRANCISCA: Terceira regra, o revel. Ao revel a sentença é notificada na forma do artigo oitocentos e quarenta e um, parágrafo primeiro, por força do artigo oitocentos e cinquenta e dois.
-BRUNO: Pegadinha clássica: dizer que a Súmula trinta conta o prazo da audiência mesmo sem a ata. É o contrário. Sem ata em quarenta e oito horas, conta da intimação.
-
+FRANCISCA: Isso. E a Súmula cento e noventa e sete: a parte que foi intimada para a audiência em prosseguimento, onde a sentença seria proferida, mas não compareceu, tem o prazo contado da publicação da sentença. Ela não ganha prazo extra por ter faltado.
+THALITA: Terceira regra, o revel. Ao revel a sentença é notificada na forma do artigo oitocentos e quarenta e um, parágrafo primeiro, por força do artigo oitocentos e cinquenta e dois.
+FRANCISCA: Pegadinha clássica: dizer que a Súmula trinta conta o prazo da audiência mesmo sem a ata. É o contrário. Sem ata em quarenta e oito horas, conta da intimação.
 == SLIDE: Embargos de declaração e coisa julgada
 * Embargos de declaração: 5 dias, julgamento na 1ª audiência ou sessão seguinte
 * Efeito modificativo: omissão, contradição, manifesto equívoco nos pressupostos extrínsecos
 * Vista à parte contrária em 5 dias; interrompem o prazo
 * Protelatórios: multa até 2%; reiteração até 10%
 * Coisa julgada: arts. 502 a 506 CPC; sentença normativa só formal (Súmula 397)
-ANTONIO: Os embargos de declaração estão no artigo oitocentos e noventa e sete-A. Prazo de cinco dias, julgamento na primeira audiência ou sessão subsequente. O efeito modificativo só é admitido em omissão, contradição e manifesto equívoco no exame dos pressupostos extrínsecos do recurso.
-THALITA: E obscuridade? Eu sempre ouvi falar de obscuridade, omissão e contradição.
-FRANCISCA: Boa pergunta. O caput não menciona obscuridade entre as hipóteses de efeito modificativo. Ela continua sendo vício embargável, por aplicação do Código de Processo Civil, mas o efeito modificativo legal fica restrito àquelas três situações.
-BRUNO: Mais três regras. Erro material se corrige de ofício ou a requerimento. Efeito modificativo exige vista à parte contrária em cinco dias, sob pena de nulidade, Orientação Jurisprudencial cento e quarenta e dois da SDI-1. E os embargos interrompem o prazo para outros recursos, de ambas as partes.
+THALITA: Os embargos de declaração estão no artigo oitocentos e noventa e sete-A. Prazo de cinco dias, julgamento na primeira audiência ou sessão subsequente. O efeito modificativo só é admitido em omissão, contradição e manifesto equívoco no exame dos pressupostos extrínsecos do recurso.
+FRANCISCA: E obscuridade? Eu sempre ouvi falar de obscuridade, omissão e contradição.
+THALITA: Boa pergunta. O caput não menciona obscuridade entre as hipóteses de efeito modificativo. Ela continua sendo vício embargável, por aplicação do Código de Processo Civil, mas o efeito modificativo legal fica restrito àquelas três situações.
+FRANCISCA: Mais três regras. Erro material se corrige de ofício ou a requerimento. Efeito modificativo exige vista à parte contrária em cinco dias, sob pena de nulidade, Orientação Jurisprudencial cento e quarenta e dois da SDI-1. E os embargos interrompem o prazo para outros recursos, de ambas as partes.
 THALITA: Interrompem, não suspendem. Reinicia do zero.
-BRUNO: Exato. Exceto quando intempestivos, com representação irregular ou sem assinatura. E para pessoa jurídica de direito público o prazo é em dobro. Se forem protelatórios, multa de até dois por cento do valor atualizado da causa, e até dez por cento na reiteração.
-ANTONIO: Fechando com a coisa julgada. A material é a autoridade que torna imutável a decisão de mérito não mais sujeita a recurso, artigo quinhentos e dois do CPC. Fazem coisa julgada a questão principal decidida, não os motivos nem a verdade dos fatos, e só entre as partes.
+FRANCISCA: Exato. Exceto quando intempestivos, com representação irregular ou sem assinatura. E para pessoa jurídica de direito público o prazo é em dobro. Se forem protelatórios, multa de até dois por cento do valor atualizado da causa, e até dez por cento na reiteração.
+THALITA: Fechando com a coisa julgada. A material é a autoridade que torna imutável a decisão de mérito não mais sujeita a recurso, artigo quinhentos e dois do CPC. Fazem coisa julgada a questão principal decidida, não os motivos nem a verdade dos fatos, e só entre as partes.
 FRANCISCA: A sentença normativa faz só coisa julgada formal, Súmula trezentos e noventa e sete. E há a relativização: título fundado em lei declarada inconstitucional pelo STF pode ser inexigível, artigo oitocentos e oitenta e quatro, parágrafo quinto, da CLT. Isso nos leva à liquidação e aos dissídios coletivos.

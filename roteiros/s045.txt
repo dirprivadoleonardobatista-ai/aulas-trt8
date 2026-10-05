@@ -4,16 +4,15 @@ SEGMENTO s045
 * LBI (Lei 13.146/2015): conceito, igualdade e prioridade
 * Direitos fundamentais, acessibilidade, informação e acesso à justiça
 * Capacidade civil, curatela, tomada de decisão apoiada e crimes
-ANTONIO: Olá, pessoal, bem-vindos à aula catorze: Noções sobre Direitos das Pessoas com Deficiência, primeira parte. Hoje vemos a inclusão, o modelo social e a base constitucional. Em seguida, a Lei Brasileira de Inclusão, a LBI, com conceito, igualdade e prioridade, os direitos fundamentais, a acessibilidade, o acesso à justiça, e por fim capacidade civil, curatela, tomada de decisão apoiada e crimes.
-THALITA: Eu sou a Thalita, concurseira, e vou perguntar o que você perguntaria.
-FRANCISCA: Eu sou a Francisca, professora, e trago a lei em paráfrase e os exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC, e mostro as pegadinhas da banca.
-ANTONIO: Primeiro a mudança de paradigma: do modelo médico para o modelo social, ou biopsicossocial. No modelo médico, a deficiência está no corpo da pessoa, com doença ou lesão. A resposta era tratamento, cura, assistência e tutela. A avaliação era exclusivamente médica, e a deficiência mental gerava incapacidade.
-THALITA: E no modelo social?
-FRANCISCA: O problema está na interação entre o impedimento e as barreiras do ambiente. A resposta é eliminar barreiras, garantir acessibilidade, adaptação razoável e autonomia. A avaliação é biopsicossocial, por equipe multiprofissional e interdisciplinar. E a deficiência não afeta a capacidade civil, de modo que apoio e curatela são excepcionais.
-BRUNO: O marco do modelo antigo é a redação original do Código Civil de dois mil e dois e o Decreto três mil duzentos e noventa e oito, de mil novecentos e noventa e nove. O marco do modelo novo é a Convenção de Nova York e a Lei treze mil cento e quarenta e seis, de dois mil e quinze.
+FRANCISCA: Olá, pessoal, bem-vindos à aula catorze: Noções sobre Direitos das Pessoas com Deficiência, primeira parte. Hoje vemos a inclusão, o modelo social e a base constitucional. Em seguida, a Lei Brasileira de Inclusão, a LBI, com conceito, igualdade e prioridade, os direitos fundamentais, a acessibilidade, o acesso à justiça, e por fim capacidade civil, curatela, tomada de decisão apoiada e crimes.
+THALITA: Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Primeiro a mudança de paradigma: do modelo médico para o modelo social, ou biopsicossocial. No modelo médico, a deficiência está no corpo da pessoa, com doença ou lesão. A resposta era tratamento, cura, assistência e tutela. A avaliação era exclusivamente médica, e a deficiência mental gerava incapacidade.
+FRANCISCA: E no modelo social?
+THALITA: O problema está na interação entre o impedimento e as barreiras do ambiente. A resposta é eliminar barreiras, garantir acessibilidade, adaptação razoável e autonomia. A avaliação é biopsicossocial, por equipe multiprofissional e interdisciplinar. E a deficiência não afeta a capacidade civil, de modo que apoio e curatela são excepcionais.
+FRANCISCA: O marco do modelo antigo é a redação original do Código Civil de dois mil e dois e o Decreto três mil duzentos e noventa e oito, de mil novecentos e noventa e nove. O marco do modelo novo é a Convenção de Nova York e a Lei treze mil cento e quarenta e seis, de dois mil e quinze.
 THALITA: E o termo certo hoje é pessoa com deficiência, né?
-BRUNO: Sim. Mas a Constituição ainda usa a expressão antiga, pessoa portadora de deficiência, e a FCC reproduz a letra constitucional sem considerar isso erro.
+FRANCISCA: Sim. Mas a Constituição ainda usa a expressão antiga, pessoa portadora de deficiência, e a FCC reproduz a letra constitucional sem considerar isso erro.
 == SLIDE: Convenção de Nova York
 * Assinada em 30/3/2007; DL 186/2008; Decreto 6.949/2009
 * Rito do art. 5º, § 3º, CF: 3/5, dois turnos, cada Casa
@@ -21,27 +20,27 @@ BRUNO: Sim. Mas a Constituição ainda usa a expressão antiga, pessoa portadora
 * Princípios: dignidade, não discriminação, inclusão, acessibilidade
 THALITA: A Convenção de Nova York tem status de quê?
 FRANCISCA: De emenda constitucional. Foi assinada em trinta de março de dois mil e sete, com Protocolo Facultativo. O Congresso a aprovou pelo Decreto Legislativo cento e oitenta e seis, de dois mil e oito, pelo rito do artigo quinto, parágrafo terceiro: cada Casa, dois turnos, três quintos dos votos. A promulgação foi pelo Decreto seis mil novecentos e quarenta e nove, de dois mil e nove.
-ANTONIO: Foi o primeiro tratado de direitos humanos com essa hierarquia no Brasil. O outro é o Tratado de Marraqueche, sobre acesso a obras publicadas por pessoas cegas, com deficiência visual ou com outras dificuldades para ler textos impressos. A Convenção serve de parâmetro de controle de constitucionalidade, e a LBI se declara fundada nela.
-BRUNO: Duas pegadinhas. Primeira: dizer que tem status supralegal. Errado. Supralegal é o tratado de direitos humanos aprovado pelo rito comum, posição do STF desde o Recurso Extraordinário quatrocentos e sessenta e seis mil trezentos e quarenta e três. Segunda: trocar o quórum. É três quintos, em dois turnos, em cada Casa. Não é maioria absoluta nem dois terços.
+THALITA: Foi o primeiro tratado de direitos humanos com essa hierarquia no Brasil. O outro é o Tratado de Marraqueche, sobre acesso a obras publicadas por pessoas cegas, com deficiência visual ou com outras dificuldades para ler textos impressos. A Convenção serve de parâmetro de controle de constitucionalidade, e a LBI se declara fundada nela.
+FRANCISCA: Duas pegadinhas. Primeira: dizer que tem status supralegal. Errado. Supralegal é o tratado de direitos humanos aprovado pelo rito comum, posição do STF desde o Recurso Extraordinário quatrocentos e sessenta e seis mil trezentos e quarenta e três. Segunda: trocar o quórum. É três quintos, em dois turnos, em cada Casa. Não é maioria absoluta nem dois terços.
 THALITA: Macete: Nova York passou pelo rito qualificado, então vale como emenda.
 FRANCISCA: Os princípios do artigo terceiro: dignidade e autonomia, não discriminação, participação e inclusão plena, respeito à diferença, igualdade de oportunidades, acessibilidade, igualdade entre homens e mulheres com deficiência e respeito ao desenvolvimento das capacidades das crianças e à sua identidade.
 THALITA: A acessibilidade é condição prévia para exercer os demais direitos. Gostei dessa. Então, se a questão disser que a Convenção equivale a lei ordinária, ou que é supralegal, eu marco errado, e anoto que o certo é equivalente a emenda constitucional, certo? E o rito é o do parágrafo terceiro do artigo quinto?
-ANTONIO: Essa é a ideia central: sem acessibilidade, nenhum outro direito é exercido de verdade.
+FRANCISCA: Essa é a ideia central: sem acessibilidade, nenhum outro direito é exercido de verdade.
 == SLIDE: Dispositivos constitucionais cobrados
 * Art. 23, II: competência comum; art. 24, XIV: concorrente
 * Art. 37, VIII: reserva de cargos definida em lei
 * Art. 203, V: BPC; art. 208, III: atendimento preferencialmente na rede regular
 * Art. 227, § 2º, constrói; art. 244 adapta
-FRANCISCA: Vamos à Constituição. O artigo sétimo, inciso trinta e um, proíbe discriminação quanto a salário e critérios de admissão do trabalhador com deficiência. O artigo vinte e três, inciso dois, dá competência comum a União, Estados, DF e Municípios para cuidar da saúde, da assistência pública e da proteção das pessoas com deficiência. O artigo vinte e quatro, inciso catorze, é competência concorrente para legislar.
-BRUNO: Trocar comum por privativa da União é erro típico. O artigo vinte e quatro cita União, Estados e DF, e os Municípios suplementam pelo artigo trinta, inciso dois. Macete: vinte e três cuida, vinte e quatro legisla.
+THALITA: Vamos à Constituição. O artigo sétimo, inciso trinta e um, proíbe discriminação quanto a salário e critérios de admissão do trabalhador com deficiência. O artigo vinte e três, inciso dois, dá competência comum a União, Estados, DF e Municípios para cuidar da saúde, da assistência pública e da proteção das pessoas com deficiência. O artigo vinte e quatro, inciso catorze, é competência concorrente para legislar.
+FRANCISCA: Trocar comum por privativa da União é erro típico. O artigo vinte e quatro cita União, Estados e DF, e os Municípios suplementam pelo artigo trinta, inciso dois. Macete: vinte e três cuida, vinte e quatro legisla.
 THALITA: E concurso público? Quanto é a reserva?
-ANTONIO: O artigo trinta e sete, inciso oito, reserva percentual de cargos e empregos, com critérios definidos em lei. A Constituição não fixa o percentual. Ele vem da lei, como a Lei oito mil cento e doze, até vinte por cento, e do Decreto nove mil quinhentos e oito, de dois mil e dezoito, com mínimo de cinco por cento.
-FRANCISCA: Nos precatórios, artigo cem, parágrafo segundo, há preferência para titulares com deficiência, até o triplo do valor da requisição de pequeno valor. O restante segue a ordem cronológica. Na assistência social, artigo duzentos e três, inciso quatro, habilitação e reabilitação; e inciso cinco, um salário mínimo mensal à pessoa com deficiência sem meios de se manter, o BPC, que é assistencial e não exige contribuição.
-BRUNO: Na educação, artigo duzentos e oito, inciso três: atendimento educacional especializado, preferencialmente na rede regular. A alternativa errada típica diz exclusivamente em escolas especiais.
+FRANCISCA: O artigo trinta e sete, inciso oito, reserva percentual de cargos e empregos, com critérios definidos em lei. A Constituição não fixa o percentual. Ele vem da lei, como a Lei oito mil cento e doze, até vinte por cento, e do Decreto nove mil quinhentos e oito, de dois mil e dezoito, com mínimo de cinco por cento.
+THALITA: Nos precatórios, artigo cem, parágrafo segundo, há preferência para titulares com deficiência, até o triplo do valor da requisição de pequeno valor. O restante segue a ordem cronológica. Na assistência social, artigo duzentos e três, inciso quatro, habilitação e reabilitação; e inciso cinco, um salário mínimo mensal à pessoa com deficiência sem meios de se manter, o BPC, que é assistencial e não exige contribuição.
+FRANCISCA: Na educação, artigo duzentos e oito, inciso três: atendimento educacional especializado, preferencialmente na rede regular. A alternativa errada típica diz exclusivamente em escolas especiais.
 THALITA: Deixa eu resumir os macetes até aqui. Vinte e três cuida, vinte e quatro legisla. Vinte e sete constrói, duzentos e quarenta e quatro adapta. A Constituição não fixa o percentual de vagas em concurso, a lei é que fixa. O BPC é um salário mínimo e não exige contribuição. Faltou alguma coisa?
-BRUNO: Faltou a educação, que é preferencialmente na rede regular. Com isso você cobre os pontos mais cobrados. E acessibilidade de prédios?
+FRANCISCA: Faltou a educação, que é preferencialmente na rede regular. Com isso você cobre os pontos mais cobrados. E acessibilidade de prédios?
 THALITA: Foi o que eu ia perguntar!
-ANTONIO: O artigo duzentos e vinte e sete, parágrafo segundo, trata das normas para construir o que será novo. O artigo duzentos e quarenta e quatro trata da adaptação do que já existe. Macete: duzentos e vinte e sete constrói, duzentos e quarenta e quatro adapta. O artigo duzentos e vinte e sete, parágrafo primeiro, inciso dois, inclui o jovem com deficiência, desde a Emenda sessenta e cinco.
-FRANCISCA: Um exemplo: um Município exige rampas e balcões rebaixados nas agências bancárias locais. A norma é válida, porque o Município suplementa a legislação em assunto de interesse local, dentro de matéria concorrente e de competência material comum. E o STF, na ADI cinco mil trezentos e cinquenta e sete, declarou constitucionais os dispositivos da LBI que obrigam escolas privadas a oferecer educação inclusiva sem repassar custos adicionais às famílias.
-THALITA: Agora vamos aos detalhes da própria lei, né?
-ANTONIO: Isso. No próximo tema, a LBI: conceito, definições, igualdade e prioridade.
+FRANCISCA: O artigo duzentos e vinte e sete, parágrafo segundo, trata das normas para construir o que será novo. O artigo duzentos e quarenta e quatro trata da adaptação do que já existe. Macete: duzentos e vinte e sete constrói, duzentos e quarenta e quatro adapta. O artigo duzentos e vinte e sete, parágrafo primeiro, inciso dois, inclui o jovem com deficiência, desde a Emenda sessenta e cinco.
+THALITA: Um exemplo: um Município exige rampas e balcões rebaixados nas agências bancárias locais. A norma é válida, porque o Município suplementa a legislação em assunto de interesse local, dentro de matéria concorrente e de competência material comum. E o STF, na ADI cinco mil trezentos e cinquenta e sete, declarou constitucionais os dispositivos da LBI que obrigam escolas privadas a oferecer educação inclusiva sem repassar custos adicionais às famílias.
+FRANCISCA: Agora vamos aos detalhes da própria lei, né?
+THALITA: Isso. No próximo tema, a LBI: conceito, definições, igualdade e prioridade.

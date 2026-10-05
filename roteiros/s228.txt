@@ -5,36 +5,36 @@ SEGMENTO s228
 * Sucessão: alienação do bem litigioso não muda a legitimidade
 * Ato atentatório: multa até 20% ao Estado
 * Má-fé: multa de mais de 1% e menos de 10% à parte contrária
-ANTONIO: Falamos do juiz, dos auxiliares e do Ministério Público. Agora entramos nas partes, nos procuradores e no litisconsórcio, que a FCC cobra com muito carinho.
+FRANCISCA: Falamos do juiz, dos auxiliares e do Ministério Público. Agora entramos nas partes, nos procuradores e no litisconsórcio, que a FCC cobra com muito carinho.
 THALITA: Começa pelo curador especial, que eu sempre confundo com o curador do Código Civil.
 FRANCISCA: É figura processual, artigo setenta e dois. O juiz nomeia ao incapaz sem representante ou em conflito com ele; ao réu preso revel; e ao revel citado por edital ou por hora certa, enquanto não constituir advogado. A função é exercida pela Defensoria Pública.
-BRUNO: Se faltar representação regular, o juiz suspende o processo e dá prazo para sanar. Não sanado, o autor tem o processo extinto, o réu sofre a revelia, e o terceiro é excluído ou fica revel.
-THALITA: E se alguém vende o bem que está em discussão? A ação acaba?
-ANTONIO: Não. A alienação do bem litigioso não altera a legitimidade das partes. O adquirente só sucede se o adversário concordar. Sem a concordância, entra como assistente litisconsorcial.
+THALITA: Se faltar representação regular, o juiz suspende o processo e dá prazo para sanar. Não sanado, o autor tem o processo extinto, o réu sofre a revelia, e o terceiro é excluído ou fica revel.
+FRANCISCA: E se alguém vende o bem que está em discussão? A ação acaba?
+THALITA: Não. A alienação do bem litigioso não altera a legitimidade das partes. O adquirente só sucede se o adversário concordar. Sem a concordância, entra como assistente litisconsorcial.
 FRANCISCA: Se a parte morre, sucedem o espólio ou os herdeiros. E o advogado que renuncia continua representando o mandante por mais dez dias, para evitar prejuízo.
-BRUNO: Agora o quadro que mais cai: deveres contra má-fé. O ato atentatório, artigo setenta e sete, é descumprir ou embaraçar decisões, ou inovar ilegalmente no bem litigioso. A multa é de até vinte por cento do valor da causa, e vai para a União ou o Estado.
-THALITA: E a litigância de má-fé?
-FRANCISCA: Vem dos artigos oitenta e oitenta e um: lide contra lei expressa ou fato incontroverso, alterar a verdade, objetivo ilegal, resistência injustificada, temeridade, incidente infundado e recurso protelatório. A multa é superior a um por cento e inferior a dez por cento do valor corrigido, mais indenização, honorários e despesas, em favor da parte contrária.
-ANTONIO: Se o valor da causa for irrisório, as duas multas podem chegar a dez salários mínimos. Advogados, Ministério Público e Defensoria não sofrem a multa do ato atentatório; o juiz oficia ao órgão de classe.
+THALITA: Agora o quadro que mais cai: deveres contra má-fé. O ato atentatório, artigo setenta e sete, é descumprir ou embaraçar decisões, ou inovar ilegalmente no bem litigioso. A multa é de até vinte por cento do valor da causa, e vai para a União ou o Estado.
+FRANCISCA: E a litigância de má-fé?
+THALITA: Vem dos artigos oitenta e oitenta e um: lide contra lei expressa ou fato incontroverso, alterar a verdade, objetivo ilegal, resistência injustificada, temeridade, incidente infundado e recurso protelatório. A multa é superior a um por cento e inferior a dez por cento do valor corrigido, mais indenização, honorários e despesas, em favor da parte contrária.
+FRANCISCA: Se o valor da causa for irrisório, as duas multas podem chegar a dez salários mínimos. Advogados, Ministério Público e Defensoria não sofrem a multa do ato atentatório; o juiz oficia ao órgão de classe.
 THALITA: Atentatório, vinte por cento, para o Estado. Má-fé, entre um e dez, para a parte.
-BRUNO: A má-fé pode ser reconhecida de ofício. E, se houver vários litigantes de má-fé, cada um responde pelo seu interesse, ou solidariamente os que se coligaram.
+FRANCISCA: A má-fé pode ser reconhecida de ofício. E, se houver vários litigantes de má-fé, cada um responde pelo seu interesse, ou solidariamente os que se coligaram.
 == SLIDE: Honorários e gratuidade da justiça
 * Regra geral: 10% a 20% sobre condenação, proveito ou valor da causa
 * Fazenda Pública: faixas escalonadas, de 10% a 20% até 200 salários
 * Pessoa jurídica deve provar a necessidade (Súmula 481 STJ)
 * Gratuidade: condição suspensiva por 5 anos
-ANTONIO: Honorários, artigo oitenta e cinco. A regra geral é de dez a vinte por cento sobre a condenação, o proveito econômico ou o valor atualizado da causa.
-THALITA: E quando a Fazenda Pública é parte?
-FRANCISCA: Aí entram as faixas. Até duzentos salários mínimos, dez a vinte por cento. De duzentos a dois mil, oito a dez. De dois mil a vinte mil, cinco a oito. De vinte mil a cem mil, três a cinco. Acima de cem mil, um a três.
-BRUNO: E as faixas são escalonadas. Exemplo: a Fazenda é condenada em trezentos salários mínimos. Sobre os primeiros duzentos, entre dez e vinte por cento. Sobre os cem excedentes, entre oito e dez.
+THALITA: Honorários, artigo oitenta e cinco. A regra geral é de dez a vinte por cento sobre a condenação, o proveito econômico ou o valor atualizado da causa.
+FRANCISCA: E quando a Fazenda Pública é parte?
+THALITA: Aí entram as faixas. Até duzentos salários mínimos, dez a vinte por cento. De duzentos a dois mil, oito a dez. De dois mil a vinte mil, cinco a oito. De vinte mil a cem mil, três a cinco. Acima de cem mil, um a três.
+FRANCISCA: E as faixas são escalonadas. Exemplo: a Fazenda é condenada em trezentos salários mínimos. Sobre os primeiros duzentos, entre dez e vinte por cento. Sobre os cem excedentes, entre oito e dez.
 THALITA: Entendi. Então não aplico oito a dez por cento sobre os trezentos inteiros.
-ANTONIO: Exato. A equidade só vale quando o proveito econômico for inestimável ou irrisório, ou o valor da causa muito baixo. Os honorários pertencem ao advogado, têm natureza alimentar e não se compensam.
-FRANCISCA: O réu que reconhece o pedido e cumpre integralmente a prestação paga só metade dos honorários, artigo noventa, parágrafo quarto.
-BRUNO: Agora a gratuidade, artigos noventa e oito a cento e dois. Pode ser concedida a pessoa natural ou jurídica, brasileira ou estrangeira. Só a pessoa natural tem presunção de veracidade. A pessoa jurídica precisa provar, Súmula quatrocentos e oitenta e um do STJ.
+FRANCISCA: Exato. A equidade só vale quando o proveito econômico for inestimável ou irrisório, ou o valor da causa muito baixo. Os honorários pertencem ao advogado, têm natureza alimentar e não se compensam.
+THALITA: O réu que reconhece o pedido e cumpre integralmente a prestação paga só metade dos honorários, artigo noventa, parágrafo quarto.
+FRANCISCA: Agora a gratuidade, artigos noventa e oito a cento e dois. Pode ser concedida a pessoa natural ou jurídica, brasileira ou estrangeira. Só a pessoa natural tem presunção de veracidade. A pessoa jurídica precisa provar, Súmula quatrocentos e oitenta e um do STJ.
 THALITA: E posso pedir a gratuidade em qualquer momento?
 FRANCISCA: Na inicial, na contestação, no ingresso de terceiro, no recurso, ou em petição simples superveniente. O indeferimento exige elementos nos autos e oportunidade para provar. Ter advogado particular não impede a gratuidade.
-ANTONIO: A sucumbência fica sob condição suspensiva de exigibilidade por cinco anos. As multas processuais continuam devidas.
-BRUNO: A impugnação é em quinze dias, sem suspender o processo, e contra indeferimento ou revogação cabe agravo de instrumento.
+THALITA: A sucumbência fica sob condição suspensiva de exigibilidade por cinco anos. As multas processuais continuam devidas.
+FRANCISCA: A impugnação é em quinze dias, sem suspender o processo, e contra indeferimento ou revogação cabe agravo de instrumento.
 THALITA: Cinco anos de condição suspensiva e multas devidas. Gravei.
 == SLIDE: Litisconsórcio e assistência
 * Facultativo (art. 113) e necessário (art. 114)
@@ -42,48 +42,48 @@ THALITA: Cinco anos de condição suspensiva e multas devidas. Gravei.
 * Sentença sem litisconsorte necessário: nula se unitário, ineficaz nos demais
 * Assistência simples x litisconsorcial (arts. 119 a 124)
 FRANCISCA: Litisconsórcio é a pluralidade de partes. Pode ser ativo, passivo ou misto. O facultativo, artigo cento e treze, nasce da comunhão, da conexão ou da afinidade de questões.
-BRUNO: O necessário, artigo cento e catorze, é exigido por lei ou pela natureza da relação. E o unitário, artigo cento e dezesseis, exige decisão uniforme para todos.
-THALITA: Então necessário e unitário são a mesma coisa?
-ANTONIO: Não, e essa é a pegadinha. Necessário diz respeito à obrigatoriedade da formação. Unitário diz respeito ao resultado uniforme. Pode haver litisconsórcio necessário simples, por exemplo.
+THALITA: O necessário, artigo cento e catorze, é exigido por lei ou pela natureza da relação. E o unitário, artigo cento e dezesseis, exige decisão uniforme para todos.
+FRANCISCA: Então necessário e unitário são a mesma coisa?
+THALITA: Não, e essa é a pegadinha. Necessário diz respeito à obrigatoriedade da formação. Unitário diz respeito ao resultado uniforme. Pode haver litisconsórcio necessário simples, por exemplo.
 FRANCISCA: Se a sentença é proferida sem litisconsorte necessário, é nula se o litisconsórcio for unitário, e ineficaz para os não citados nos demais casos, artigo cento e quinze.
-BRUNO: E o multitudinário: o juiz pode limitar o litisconsórcio facultativo, e o pedido de limitação interrompe o prazo de resposta.
-THALITA: Passando para a intervenção de terceiros: são cinco modalidades?
-ANTONIO: Assistência, denunciação da lide, chamamento ao processo, incidente de desconsideração da personalidade jurídica e amicus curiae. Oposição e nomeação à autoria deixaram de ser intervenções.
+THALITA: E o multitudinário: o juiz pode limitar o litisconsórcio facultativo, e o pedido de limitação interrompe o prazo de resposta.
+FRANCISCA: Passando para a intervenção de terceiros: são cinco modalidades?
+THALITA: Assistência, denunciação da lide, chamamento ao processo, incidente de desconsideração da personalidade jurídica e amicus curiae. Oposição e nomeação à autoria deixaram de ser intervenções.
 FRANCISCA: Na assistência simples, o terceiro tem interesse jurídico em que a sentença favoreça uma parte. Ele auxilia, mas não impede desistência, renúncia ou transação do assistido. Se o assistido fica omisso, atua como substituto processual.
-BRUNO: Na litisconsorcial, a sentença influirá na relação entre o terceiro e o adversário do assistido, e ele atua com autonomia, como litisconsorte. Em ambas, a impugnação ao pedido é em quinze dias.
-THALITA: Simples auxilia, litisconsorcial atua como parte. Anotado.
-ANTONIO: Agora as intervenções provocadas.
+THALITA: Na litisconsorcial, a sentença influirá na relação entre o terceiro e o adversário do assistido, e ele atua com autonomia, como litisconsorte. Em ambas, a impugnação ao pedido é em quinze dias.
+FRANCISCA: Simples auxilia, litisconsorcial atua como parte. Anotado.
+THALITA: Agora as intervenções provocadas.
 == SLIDE: Denunciação, chamamento, desconsideração e amicus curiae
 * Denunciação: autor ou réu; evicção e regresso
 * Chamamento: só o réu, na contestação; fiador e devedores solidários
 * IDPJ: suspende o processo; resposta em 15 dias
 * Amicus curiae: decisão irrecorrível; pessoa natural pode atuar
-BRUNO: Denunciação da lide, artigos cento e vinte e cinco a cento e vinte e nove. Pode ser feita pelo autor, na inicial, ou pelo réu, na contestação. Cabe ao alienante imediato, em caso de evicção, e a quem deve indenizar por lei ou contrato.
-FRANCISCA: É facultativa. Admite uma só denunciação sucessiva. Se o denunciante vence, a regressiva fica prejudicada. Se perde, julga-se a regressiva. E se indeferida ou não promovida, o regresso é por ação autônoma.
-THALITA: E o chamamento ao processo?
-ANTONIO: Só o réu pode promover, na contestação. Cabe contra o afiançado, os demais fiadores e os demais devedores solidários. A citação ocorre em trinta dias, ou dois meses se noutra comarca. A sentença vale como título para quem pagar.
-BRUNO: Então, na questão em que Carla, fiadora, quer trazer o devedor afiançado: chamamento ao processo, na contestação.
+FRANCISCA: Denunciação da lide, artigos cento e vinte e cinco a cento e vinte e nove. Pode ser feita pelo autor, na inicial, ou pelo réu, na contestação. Cabe ao alienante imediato, em caso de evicção, e a quem deve indenizar por lei ou contrato.
+THALITA: É facultativa. Admite uma só denunciação sucessiva. Se o denunciante vence, a regressiva fica prejudicada. Se perde, julga-se a regressiva. E se indeferida ou não promovida, o regresso é por ação autônoma.
+FRANCISCA: E o chamamento ao processo?
+THALITA: Só o réu pode promover, na contestação. Cabe contra o afiançado, os demais fiadores e os demais devedores solidários. A citação ocorre em trinta dias, ou dois meses se noutra comarca. A sentença vale como título para quem pagar.
+FRANCISCA: Então, na questão em que Carla, fiadora, quer trazer o devedor afiançado: chamamento ao processo, na contestação.
 THALITA: Macete: chamamento é do réu, denunciação é de qualquer um.
 FRANCISCA: O incidente de desconsideração, artigos cento e trinta e três a cento e trinta e sete, é requerido pela parte ou pelo Ministério Público, em todas as fases. Admite a desconsideração inversa. Suspende o processo, salvo se pedido na inicial, com resposta em quinze dias, e a decisão é interlocutória.
-ANTONIO: Acolhido o pedido, a alienação posterior é ineficaz perante o requerente. E o amicus curiae, artigo cento e trinta e oito, intervém por relevância, especificidade do tema ou repercussão social, com representatividade adequada.
-BRUNO: A decisão que o admite é irrecorrível. A manifestação é em quinze dias. Não altera a competência. Só recorre por embargos de declaração, e da decisão que julgar o incidente de resolução de demandas repetitivas. Pessoa natural pode ser amicus curiae.
+THALITA: Acolhido o pedido, a alienação posterior é ineficaz perante o requerente. E o amicus curiae, artigo cento e trinta e oito, intervém por relevância, especificidade do tema ou repercussão social, com representatividade adequada.
+FRANCISCA: A decisão que o admite é irrecorrível. A manifestação é em quinze dias. Não altera a competência. Só recorre por embargos de declaração, e da decisão que julgar o incidente de resolução de demandas repetitivas. Pessoa natural pode ser amicus curiae.
 THALITA: Amicus pode ser gente de verdade, não só instituição. Gostei.
-ANTONIO: Agora a competência, que é grande campeã de prova.
+FRANCISCA: Agora a competência, que é grande campeã de prova.
 == SLIDE: Competência: absoluta, relativa e foro
 * Absoluta: matéria, pessoa e função; de ofício e a qualquer tempo
 * Relativa: valor e território; não se conhece de ofício (Súmula 33 STJ)
 * Conexão, continência e prevenção
 * Foro de eleição: instrumento escrito, negócio determinado
 * Foro abusivo: ineficaz de ofício antes da citação
-FRANCISCA: Fixa-se a competência no registro ou na distribuição, artigo quarenta e três. Competência absoluta decorre de matéria, pessoa e função. Não se prorroga, é inderrogável, e o juiz a conhece de ofício, a qualquer tempo, sem preclusão. Cabe até ação rescisória.
-BRUNO: A relativa decorre de valor e território. O juiz não pode conhecê-la de ofício, Súmula trinta e três do STJ. Se o réu não alega, prorroga-se. Pode ser modificada por conexão, continência, eleição e prorrogação. Toda incompetência se alega em preliminar de contestação.
+THALITA: Fixa-se a competência no registro ou na distribuição, artigo quarenta e três. Competência absoluta decorre de matéria, pessoa e função. Não se prorroga, é inderrogável, e o juiz a conhece de ofício, a qualquer tempo, sem preclusão. Cabe até ação rescisória.
+FRANCISCA: A relativa decorre de valor e território. O juiz não pode conhecê-la de ofício, Súmula trinta e três do STJ. Se o réu não alega, prorroga-se. Pode ser modificada por conexão, continência, eleição e prorrogação. Toda incompetência se alega em preliminar de contestação.
 THALITA: Mas existe exceção ao de ofício na relativa?
-ANTONIO: Existe: o foro de eleição abusivo. E o Ministério Público também pode alegar a incompetência relativa.
-FRANCISCA: Alguns foros de pegadinha: ação pessoal, domicílio do réu; direito real imobiliário, situação da coisa; inventário, último domicílio do falecido; alimentos, domicílio do alimentando; idoso, residência do idoso; reparação de dano, lugar do ato ou fato.
-BRUNO: Contra a União, o autor escolhe: seu domicílio, o local do fato, a situação da coisa ou o Distrito Federal. No divórcio, primeiro o domicílio do guardião do filho incapaz, depois o último domicílio do casal.
+FRANCISCA: Existe: o foro de eleição abusivo. E o Ministério Público também pode alegar a incompetência relativa.
+THALITA: Alguns foros de pegadinha: ação pessoal, domicílio do réu; direito real imobiliário, situação da coisa; inventário, último domicílio do falecido; alimentos, domicílio do alimentando; idoso, residência do idoso; reparação de dano, lugar do ato ou fato.
+FRANCISCA: Contra a União, o autor escolhe: seu domicílio, o local do fato, a situação da coisa ou o Distrito Federal. No divórcio, primeiro o domicílio do guardião do filho incapaz, depois o último domicílio do casal.
 THALITA: Conexão e continência, qual a diferença?
-ANTONIO: Conexão: pedido ou causa de pedir comum, com reunião, salvo se um já foi sentenciado. Continência: mesmas partes e causa de pedir, com pedido mais amplo em uma. Se a continente é anterior, extingue a contida. Prevenção se dá no registro ou na distribuição.
-FRANCISCA: Foro de eleição, artigo sessenta e três, na redação da lei catorze mil oitocentos e setenta e nove, de dois mil e vinte e quatro. Exige instrumento escrito, negócio determinado, e vínculo com domicílio, residência ou local da obrigação.
-BRUNO: Abusivo antes da citação: juiz declara ineficaz de ofício e remete ao foro do réu. Depois da citação, o réu alega na contestação, sob pena de preclusão. A contestação pode ser protocolada no domicílio do réu.
+FRANCISCA: Conexão: pedido ou causa de pedir comum, com reunião, salvo se um já foi sentenciado. Continência: mesmas partes e causa de pedir, com pedido mais amplo em uma. Se a continente é anterior, extingue a contida. Prevenção se dá no registro ou na distribuição.
+THALITA: Foro de eleição, artigo sessenta e três, na redação da lei catorze mil oitocentos e setenta e nove, de dois mil e vinte e quatro. Exige instrumento escrito, negócio determinado, e vínculo com domicílio, residência ou local da obrigação.
+FRANCISCA: Abusivo antes da citação: juiz declara ineficaz de ofício e remete ao foro do réu. Depois da citação, o réu alega na contestação, sob pena de preclusão. A contestação pode ser protocolada no domicílio do réu.
 THALITA: Resumo: absoluta, de ofício; relativa, só se o réu alegar. Bora para os atos processuais!
-ANTONIO: Exatamente: atos, prazos, citação e a extinção do processo.
+FRANCISCA: Exatamente: atos, prazos, citação e a extinção do processo.

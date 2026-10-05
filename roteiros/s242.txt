@@ -5,27 +5,27 @@ SEGMENTO s242
 * Controle externo pelo Legislativo, comissão mista
 * PNI no Decreto 8.793/2016; DNISP na segurança pública
 * ABIN saiu do GSI para a Casa Civil em 2023
-ANTONIO: Depois de falar de crises, passamos a inteligência. A Lei oito mil novecentos e noventa e três, de mil novecentos e noventa e nove, institui o Sistema Brasileiro de Inteligência, o SISBIN, com a ABIN como órgão central.
+FRANCISCA: Depois de falar de crises, passamos a inteligência. A Lei oito mil novecentos e noventa e três, de mil novecentos e noventa e nove, institui o Sistema Brasileiro de Inteligência, o SISBIN, com a ABIN como órgão central.
 THALITA: Mas o que é inteligência, na prova?
 FRANCISCA: É obter, analisar e difundir conhecimento para assessorar o processo decisório. Já a contrainteligência neutraliza a inteligência adversa. O controle externo é do Poder Legislativo, por uma comissão mista.
-BRUNO: A banca gosta de trocar o controle: dizer que é do Judiciário ou só do Executivo. Errado, é o Legislativo.
-THALITA: Então a inteligência produz conhecimento para a decisão, e a contrainteligência protege o próprio conhecimento.
-FRANCISCA: E neutraliza espionagem, sabotagem e vazamento. Boa síntese. Ainda temos o Decreto oito mil setecentos e noventa e três, de dois mil e dezesseis, que traz a Política Nacional de Inteligência, e a DNISP, a doutrina da inteligência de segurança pública, ligada ao subsistema SISP.
-ANTONIO: Um alerta: a vinculação da ABIN mudou em dois mil e vinte e três. Saiu do Gabinete de Segurança Institucional e foi para a Casa Civil. Confira a estrutura vigente antes da prova.
-BRUNO: Se a questão for antiga, a resposta antiga pode estar desatualizada. Leia o enunciado com o ano em mente.
+THALITA: A banca gosta de trocar o controle: dizer que é do Judiciário ou só do Executivo. Errado, é o Legislativo.
+FRANCISCA: Então a inteligência produz conhecimento para a decisão, e a contrainteligência protege o próprio conhecimento.
+THALITA: E neutraliza espionagem, sabotagem e vazamento. Boa síntese. Ainda temos o Decreto oito mil setecentos e noventa e três, de dois mil e dezesseis, que traz a Política Nacional de Inteligência, e a DNISP, a doutrina da inteligência de segurança pública, ligada ao subsistema SISP.
+FRANCISCA: Um alerta: a vinculação da ABIN mudou em dois mil e vinte e três. Saiu do Gabinete de Segurança Institucional e foi para a Casa Civil. Confira a estrutura vigente antes da prova.
+THALITA: Se a questão for antiga, a resposta antiga pode estar desatualizada. Leia o enunciado com o ano em mente.
 == SLIDE: Tipos de conhecimento e fontes
 * Informe: juízo, opinião, passado e presente
 * Informação: raciocínio, certeza
 * Apreciação: raciocínio, opinião, projeção limitada
 * Estimativa: raciocínio, opinião, futuro
 * HUMINT, SIGINT, IMINT e OSINT; avaliação, por exemplo, B2
-ANTONIO: Os tipos de conhecimento são quatro: informe, informação, apreciação e estimativa. Cada um combina operação mental, estado da mente e tempo.
-BRUNO: O informe resulta de juízo, expressa opinião e trata de passado ou presente. A informação resulta de raciocínio e expressa certeza, também sobre passado ou presente.
+FRANCISCA: Os tipos de conhecimento são quatro: informe, informação, apreciação e estimativa. Cada um combina operação mental, estado da mente e tempo.
+THALITA: O informe resulta de juízo, expressa opinião e trata de passado ou presente. A informação resulta de raciocínio e expressa certeza, também sobre passado ou presente.
 FRANCISCA: A apreciação resulta de raciocínio, expressa opinião e admite projeção limitada. A estimativa resulta de raciocínio, expressa opinião e olha para o futuro.
 THALITA: Macete: só a informação tem certeza, só a estimativa fala do futuro?
-BRUNO: Exato. E o dado é matéria-prima bruta, ainda não tratada pela metodologia. Só vira conhecimento depois de processado.
-FRANCISCA: As fontes: humana, HUMINT, como colaborador e entrevista. De sinais, SIGINT, comunicações e emissões eletrônicas. De imagens, IMINT, foto, satélite e câmeras. E abertas, OSINT, imprensa, redes sociais e bases públicas.
-ANTONIO: A avaliação usa letras para a fonte, da A, inteiramente idônea, à F, não avaliável, e números para o conteúdo, do um, confirmado, ao seis, não avaliável. Por exemplo, B dois.
+FRANCISCA: Exato. E o dado é matéria-prima bruta, ainda não tratada pela metodologia. Só vira conhecimento depois de processado.
+THALITA: As fontes: humana, HUMINT, como colaborador e entrevista. De sinais, SIGINT, comunicações e emissões eletrônicas. De imagens, IMINT, foto, satélite e câmeras. E abertas, OSINT, imprensa, redes sociais e bases públicas.
+FRANCISCA: A avaliação usa letras para a fonte, da A, inteiramente idônea, à F, não avaliável, e números para o conteúdo, do um, confirmado, ao seis, não avaliável. Por exemplo, B dois.
 THALITA: Então letra é a fonte, número é o conteúdo. Fonte B, conteúdo dois.
 == SLIDE: Ciclo de produção do conhecimento
 * Planejamento: assunto, usuário, prazo, aspectos a conhecer
@@ -33,11 +33,11 @@ THALITA: Então letra é a fonte, número é o conteúdo. Fonte B, conteúdo doi
 * Processamento: avaliação, análise, integração, interpretação
 * Formalização e difusão
 * Necessidade de conhecer
-ANTONIO: O ciclo tem quatro fases. Planejamento, reunião, processamento e formalização com difusão.
-FRANCISCA: No planejamento se define o assunto, o usuário, o prazo e os aspectos a conhecer. Na reunião há duas ações: a coleta, de dados disponíveis e abertos, e a busca, de dados negados, por meio de operações.
-THALITA: Coleta é o que está aberto, busca é o que alguém esconde. Anoto assim.
-BRUNO: A pegadinha é trocar coleta e busca. Na busca, se vai atrás do dado negado.
-ANTONIO: No processamento, que é análise e síntese, entram avaliação, análise, integração e interpretação. Por fim, o conhecimento é formalizado em documento adequado e difundido a quem tem necessidade de conhecer.
+FRANCISCA: O ciclo tem quatro fases. Planejamento, reunião, processamento e formalização com difusão.
+THALITA: No planejamento se define o assunto, o usuário, o prazo e os aspectos a conhecer. Na reunião há duas ações: a coleta, de dados disponíveis e abertos, e a busca, de dados negados, por meio de operações.
+FRANCISCA: Coleta é o que está aberto, busca é o que alguém esconde. Anoto assim.
+THALITA: A pegadinha é trocar coleta e busca. Na busca, se vai atrás do dado negado.
+FRANCISCA: No processamento, que é análise e síntese, entram avaliação, análise, integração e interpretação. Por fim, o conhecimento é formalizado em documento adequado e difundido a quem tem necessidade de conhecer.
 THALITA: E se eu fosse da área, mas não precisasse do documento, posso ler?
 FRANCISCA: Não. Necessidade de conhecer limita o acesso ao indispensável à função, ainda que você tenha credencial.
 == SLIDE: Segurança da informação e grau de sigilo
@@ -46,78 +46,78 @@ FRANCISCA: Não. Necessidade de conhecer limita o acesso ao indispensável à fu
 * Compartimentação limita o dano do vazamento
 * LAI: ultrassecreta 25, secreta 15, reservada 5 anos
 * Não existe grau confidencial na LAI
-BRUNO: A Política Nacional de Segurança da Informação, Decreto nove mil seiscentos e trinta e sete, de dois mil e dezoito, abrange segurança cibernética, defesa cibernética, segurança física e proteção de dados organizacionais.
-ANTONIO: Os atributos são cinco. Confidencialidade: acesso só por autorizados. Integridade: informação não alterada indevidamente. Disponibilidade: acessível quando necessário.
-BRUNO: Autenticidade é origem ou autoria comprovada. E irretratabilidade, ou não repúdio, é o autor não poder negar a autoria, como na assinatura digital.
-THALITA: Assinatura digital é irretratabilidade, então. E compartimentação?
-FRANCISCA: Divide o conhecimento em partes, para limitar o dano se houver vazamento. É regra de conduta, não atributo.
-ANTONIO: Agora a Lei de Acesso à Informação, no artigo vinte e quatro. Ultrassecreta, vinte e cinco anos, prorrogável uma única vez. Secreta, quinze anos. Reservada, cinco anos.
+THALITA: A Política Nacional de Segurança da Informação, Decreto nove mil seiscentos e trinta e sete, de dois mil e dezoito, abrange segurança cibernética, defesa cibernética, segurança física e proteção de dados organizacionais.
+FRANCISCA: Os atributos são cinco. Confidencialidade: acesso só por autorizados. Integridade: informação não alterada indevidamente. Disponibilidade: acessível quando necessário.
+THALITA: Autenticidade é origem ou autoria comprovada. E irretratabilidade, ou não repúdio, é o autor não poder negar a autoria, como na assinatura digital.
+FRANCISCA: Assinatura digital é irretratabilidade, então. E compartimentação?
+THALITA: Divide o conhecimento em partes, para limitar o dano se houver vazamento. É regra de conduta, não atributo.
+FRANCISCA: Agora a Lei de Acesso à Informação, no artigo vinte e quatro. Ultrassecreta, vinte e cinco anos, prorrogável uma única vez. Secreta, quinze anos. Reservada, cinco anos.
 THALITA: Eu lembrava de confidencial também. Seria o quarto grau?
-BRUNO: Não! Pegadinha clássica. Não existe grau confidencial na LAI. Vencido o prazo, ou ocorrido o evento fixado como termo, a informação se torna pública automaticamente.
-FRANCISCA: A informação pessoal tem regime próprio, com restrição de até cem anos, no artigo trinta e um. E as ameaças exploram vulnerabilidades: engenharia social, phishing, malware e descarte inadequado.
+FRANCISCA: Não! Pegadinha clássica. Não existe grau confidencial na LAI. Vencido o prazo, ou ocorrido o evento fixado como termo, a informação se torna pública automaticamente.
+THALITA: A informação pessoal tem regime próprio, com restrição de até cem anos, no artigo trinta e um. E as ameaças exploram vulnerabilidades: engenharia social, phishing, malware e descarte inadequado.
 == SLIDE: Cerimonial e símbolos nacionais
 * Decreto 70.274/1972: precedência e cerimonial público
 * Honra à direita do anfitrião ou de quem preside
 * Governadores: Bahia, Rio de Janeiro, Maranhão, Pará
 * Lei 5.700/1971: bandeira, hasteamento, luto
 * Símbolos: bandeira, hino, armas e selo nacionais
-ANTONIO: Cerimonial. O Decreto setenta mil duzentos e setenta e quatro, de mil novecentos e setenta e dois, trata do cerimonial público e da ordem geral de precedência. A posição de honra é à direita do anfitrião ou de quem preside.
+FRANCISCA: Cerimonial. O Decreto setenta mil duzentos e setenta e quatro, de mil novecentos e setenta e dois, trata do cerimonial público e da ordem geral de precedência. A posição de honra é à direita do anfitrião ou de quem preside.
 THALITA: Quem preside no estado?
 FRANCISCA: O Governador, salvo se o Presidente da República estiver presente. E os Governadores se precedem pela ordem de constituição histórica dos Estados: Bahia, Rio de Janeiro, Maranhão, Pará, e assim por diante.
-BRUNO: A banca troca o critério por população ou por ordem alfabética. Errado. É histórico. Confira no decreto a lista completa.
+THALITA: A banca troca o critério por população ou por ordem alfabética. Errado. É histórico. Confira no decreto a lista completa.
 FRANCISCA: Os símbolos da República são a bandeira, o hino, as armas e o selo nacionais, no artigo treze, parágrafo primeiro, da Constituição. A Lei cinco mil e setecentos, de mil novecentos e setenta e um, regula a forma e o uso.
-ANTONIO: O lugar de honra da Bandeira é o central, ou o mais próximo do centro, à direita do dispositivo. A Nacional sobe primeiro e desce por último. À noite, só se estiver iluminada. Em luto, meio-mastro.
-THALITA: Primeiro a subir, último a descer, iluminada à noite.
+THALITA: O lugar de honra da Bandeira é o central, ou o mais próximo do centro, à direita do dispositivo. A Nacional sobe primeiro e desce por último. À noite, só se estiver iluminada. Em luto, meio-mastro.
+FRANCISCA: Primeiro a subir, último a descer, iluminada à noite.
 == SLIDE: Pegadinhas de inteligência e sigilo
 * Só a informação expressa certeza
 * Só a estimativa projeta o futuro
 * Não existe grau confidencial na LAI
 * Negociador não decide, mas a inteligência assessora quem decide
-ANTONIO: Antes das questões, quatro pegadinhas que resumem este bloco. Primeira: só a informação expressa certeza. Segunda: só a estimativa projeta o futuro.
+THALITA: Antes das questões, quatro pegadinhas que resumem este bloco. Primeira: só a informação expressa certeza. Segunda: só a estimativa projeta o futuro.
 FRANCISCA: Terceira: a LAI não tem grau confidencial, só ultrassecreta, secreta e reservada. E quarta: a inteligência assessora a decisão, mas não decide no lugar de quem tem a competência.
 THALITA: Então se a alternativa trouxer certeza na apreciação, ou confidencial na LAI, eu desconfio na hora.
-BRUNO: Desconfie mesmo. É assim que a banca monta as alternativas erradas.
+FRANCISCA: Desconfie mesmo. É assim que a banca monta as alternativas erradas.
 == SLIDE: Questões comentadas, primeira parte
 * Questão 1: conter, isolar e negociar
 * Questão 2: ameaça exótica, grau quatro
 * Questão 3: prazos 25, 15 e 5 anos
 * Questão 4: classes C, D e K
 * Questão 5: estimativa e futuro
-ANTONIO: Vamos treinar. Questão um. Um homem armado mantém servidores reféns no fórum. Na resposta imediata, a equipe deve fazer o quê? Pausa para você pensar.
-THALITA: Eu marco B: conter, isolar e iniciar a negociação.
-BRUNO: Correta. A A é fase posterior, plano específico e resolução. A C erra: troca de reféns é inegociável. A D coloca o posto de comando no perímetro interno, e ele fica entre os perímetros. A E dá ao negociador a decisão, mas quem decide é o gerente.
-ANTONIO: Questão dois. Ameaça com artefato químico, que exige recursos externos, inclusive federais. Qual o grau? Pense um pouco.
+THALITA: Vamos treinar. Questão um. Um homem armado mantém servidores reféns no fórum. Na resposta imediata, a equipe deve fazer o quê? Pausa para você pensar.
+FRANCISCA: Eu marco B: conter, isolar e iniciar a negociação.
+THALITA: Correta. A A é fase posterior, plano específico e resolução. A C erra: troca de reféns é inegociável. A D coloca o posto de comando no perímetro interno, e ele fica entre os perímetros. A E dá ao negociador a decisão, mas quem decide é o gerente.
+FRANCISCA: Questão dois. Ameaça com artefato químico, que exige recursos externos, inclusive federais. Qual o grau? Pense um pouco.
 THALITA: Grau quatro, ameaça exótica.
 FRANCISCA: Isso, letra D. A A, grau um, resolve com recursos locais. A B, grau dois, com recursos locais especializados. A C, grau três, não envolve agentes químicos. E a E troca o número do grau, dizendo três para exótica.
-BRUNO: Questão três. Prazos máximos de ultrassecreta, secreta e reservada, respectivamente. Pausa para pensar.
-THALITA: Vinte e cinco, quinze e cinco. Letra A.
-ANTONIO: Correta, artigo vinte e quatro da LAI. As outras trazem prazos inexistentes. A C erra ao dizer dez para a secreta. E na E, cem anos é o limite da informação pessoal.
+THALITA: Questão três. Prazos máximos de ultrassecreta, secreta e reservada, respectivamente. Pausa para pensar.
+FRANCISCA: Vinte e cinco, quinze e cinco. Letra A.
+THALITA: Correta, artigo vinte e quatro da LAI. As outras trazem prazos inexistentes. A C erra ao dizer dez para a secreta. E na E, cem anos é o limite da informação pessoal.
 FRANCISCA: Questão quatro. Três itens. Um: classe C, equipamento energizado, usa gás carbônico. Dois: classe D, a água é mais indicada. Três: classe K, agente saponificante. Pense antes de responder.
 THALITA: O um está certo, o dois está errado porque água em metal pirofórico agrava, e o três está certo. Letra E.
-BRUNO: Perfeito. A A omite o três. A B só tem o dois, errado. A C inclui o dois. A D inclui o dois e exclui o um.
-ANTONIO: Questão cinco. Conhecimento por raciocínio, opinião sobre a evolução futura de um fato. É o quê?
-THALITA: Estimativa, letra C.
-BRUNO: Certo. O informe é de juízo e olha passado e presente. A informação expressa certeza. A apreciação só projeta de forma limitada. E dado é matéria-prima, não conhecimento.
+FRANCISCA: Perfeito. A A omite o três. A B só tem o dois, errado. A C inclui o dois. A D inclui o dois e exclui o um.
+THALITA: Questão cinco. Conhecimento por raciocínio, opinião sobre a evolução futura de um fato. É o quê?
+FRANCISCA: Estimativa, letra C.
+THALITA: Certo. O informe é de juízo e olha passado e presente. A informação expressa certeza. A apreciação só projeta de forma limitada. E dado é matéria-prima, não conhecimento.
 == SLIDE: Questões comentadas, segunda parte e resumo final
 * Questão 6: escalão avançado
 * Questão 7: seguro transfere o risco
 * Questão 8: assinatura digital, irretratabilidade
 * Questão 9: precedência histórica dos Estados
 * Questão 10: validade do risco
-ANTONIO: Questão seis. A equipe que chega antes ao local do evento do desembargador, para vistoriar acessos, saídas e hospital de referência. Qual escalão?
+FRANCISCA: Questão seis. A equipe que chega antes ao local do evento do desembargador, para vistoriar acessos, saídas e hospital de referência. Qual escalão?
 THALITA: Avançado, letra A.
 FRANCISCA: Certo. O aproximado envolve fisicamente o protegido. O velado se mistura ao público. Cerrado é sinônimo de aproximado. E reserva não é escalão de vistoria prévia.
-BRUNO: Questão sete. O tribunal contrata seguro do prédio do fórum. Qual estratégia de tratamento de risco? Pausa para pensar.
-THALITA: Transferir, letra D.
-ANTONIO: Correta, o seguro repassa o ônus financeiro a terceiro. Evitar exige abandonar a atividade. Aceitar é conviver sem agir. Mitigar reduz probabilidade ou impacto. E o seguro não elimina a vulnerabilidade.
+THALITA: Questão sete. O tribunal contrata seguro do prédio do fórum. Qual estratégia de tratamento de risco? Pausa para pensar.
+FRANCISCA: Transferir, letra D.
+THALITA: Correta, o seguro repassa o ônus financeiro a terceiro. Evitar exige abandonar a atividade. Aceitar é conviver sem agir. Mitigar reduz probabilidade ou impacto. E o seguro não elimina a vulnerabilidade.
 FRANCISCA: Questão oito. A assinatura digital impede o signatário de negar a autoria do ofício. Que atributo é esse?
 THALITA: Irretratabilidade, letra B.
-BRUNO: Isso. Confidencialidade restringe acesso, disponibilidade garante acesso, integridade protege contra alteração, e compartimentação é regra de conduta.
-ANTONIO: Questão nove. Cerimonial público e símbolos. Qual afirmação é correta? Pense nas alternativas.
-THALITA: A E: entre Governadores, a precedência segue a ordem histórica dos Estados.
-FRANCISCA: Correto. A honra é à direita, não à esquerda. A Bandeira sobe primeiro e desce por último. O critério não é populacional. E à noite só se estiver iluminada.
-BRUNO: Questão dez. O gerente avalia se o risco da invasão tática é compensado pela redução da ameaça aos reféns. Qual critério?
+FRANCISCA: Isso. Confidencialidade restringe acesso, disponibilidade garante acesso, integridade protege contra alteração, e compartimentação é regra de conduta.
+THALITA: Questão nove. Cerimonial público e símbolos. Qual afirmação é correta? Pense nas alternativas.
+FRANCISCA: A E: entre Governadores, a precedência segue a ordem histórica dos Estados.
+THALITA: Correto. A honra é à direita, não à esquerda. A Bandeira sobe primeiro e desce por último. O critério não é populacional. E à noite só se estiver iluminada.
+FRANCISCA: Questão dez. O gerente avalia se o risco da invasão tática é compensado pela redução da ameaça aos reféns. Qual critério?
 THALITA: Validade do risco, letra C.
-ANTONIO: Certo. Necessidade pergunta se a ação é indispensável. As aceitabilidades tratam de ética e ordenamento. E compressão de tempo é característica da crise, não critério de ação.
+FRANCISCA: Certo. Necessidade pergunta se a ação é indispensável. As aceitabilidades tratam de ética e ordenamento. E compressão de tempo é característica da crise, não critério de ação.
 THALITA: Então o resumo relâmpago do que mais cai na FCC: plano em três níveis, estratégico, tático e operacional. FAR é falsa aceitação, o erro grave. Classe C não usa água. O posto de comando fica entre os perímetros, e o negociador não decide. Conter é impedir a expansão, isolar é cortar o contato. Só a informação tem certeza, só a estimativa fala do futuro. A LAI tem vinte e cinco, quinze e cinco anos, e não existe confidencial. Honra à direita, e a Bandeira sobe primeiro.
-ANTONIO: Foi um prazer estudar com vocês. Até a próxima aula, e bons estudos!
+FRANCISCA: Foi um prazer estudar com vocês. Até a próxima aula, e bons estudos!

@@ -4,13 +4,13 @@ SEGMENTO s206
 * Reclamação plúrima: crédito de cada reclamante (OJ 9)
 * Fazenda: 30 dias para impugnar, sem garantia
 * Protesto, BNDT, órgãos de crédito: 45 dias da citação, sem garantia (art. 883-A)
-ANTONIO: Vimos nove questões. Vamos às últimas cinco. Questão dez: o Município X, sem lei própria sobre obrigações de pequeno valor, foi condenado definitivamente. O que é correto? A, citação para pagar em quarenta e oito horas ou garantir, sob pena de penhora de bens dominicais. B, pequeno valor até sessenta salários mínimos. C, na reclamação plúrima, somam-se os créditos de todos. D, cinco dias para embargar, após garantir o juízo. E, pequeno valor até trinta salários mínimos, e a Fazenda impugna em trinta dias, sem garantia.
-FRANCISCA: Pausa para pensar. Lembre que bem público não se penhora.
-THALITA: Eu arrisco a B, sessenta salários mínimos.
-BRUNO: Sessenta é o teto da União. Para Municípios sem lei própria, é trinta salários mínimos, artigo oitenta e sete, inciso dois, do ADCT. Gabarito, letra E, com o prazo de trinta dias da Fazenda, sem garantia, artigo primeiro, letra B, da Lei nove mil quatrocentos e noventa e quatro, e artigo quinhentos e trinta e cinco do CPC.
+FRANCISCA: Vimos nove questões. Vamos às últimas cinco. Questão dez: o Município X, sem lei própria sobre obrigações de pequeno valor, foi condenado definitivamente. O que é correto? A, citação para pagar em quarenta e oito horas ou garantir, sob pena de penhora de bens dominicais. B, pequeno valor até sessenta salários mínimos. C, na reclamação plúrima, somam-se os créditos de todos. D, cinco dias para embargar, após garantir o juízo. E, pequeno valor até trinta salários mínimos, e a Fazenda impugna em trinta dias, sem garantia.
+THALITA: Pausa para pensar. Lembre que bem público não se penhora.
+FRANCISCA: Eu arrisco a B, sessenta salários mínimos.
+THALITA: Sessenta é o teto da União. Para Municípios sem lei própria, é trinta salários mínimos, artigo oitenta e sete, inciso dois, do ADCT. Gabarito, letra E, com o prazo de trinta dias da Fazenda, sem garantia, artigo primeiro, letra B, da Lei nove mil quatrocentos e noventa e quatro, e artigo quinhentos e trinta e cinco do CPC.
 FRANCISCA: A letra A erra: bens públicos são impenhoráveis, e o pagamento se faz por precatório ou requisição de pequeno valor. A letra C erra: na reclamação plúrima, considera-se o crédito de cada reclamante, Orientação Jurisprudencial nove do Pleno. A letra D erra o prazo e a garantia.
-ANTONIO: Questão onze: a decisão transitada em julgado só pode ser levada a protesto, gerar inscrição em órgãos de proteção ao crédito ou no Banco Nacional de Devedores Trabalhistas depois de transcorrido qual prazo?
-BRUNO: A, quarenta e cinco dias da citação, se não houver garantia. B, quinze dias da intimação da liquidação. C, quarenta e cinco dias da penhora, com ou sem garantia. D, trinta dias do trânsito. E, quarenta e oito horas da citação.
+THALITA: Questão onze: a decisão transitada em julgado só pode ser levada a protesto, gerar inscrição em órgãos de proteção ao crédito ou no Banco Nacional de Devedores Trabalhistas depois de transcorrido qual prazo?
+FRANCISCA: A, quarenta e cinco dias da citação, se não houver garantia. B, quinze dias da intimação da liquidação. C, quarenta e cinco dias da penhora, com ou sem garantia. D, trinta dias do trânsito. E, quarenta e oito horas da citação.
 THALITA: Quarenta e cinco dias da citação, sem garantia. Letra A, certo?
 FRANCISCA: Certo, literalidade do artigo oitocentos e oitenta e três, letra A. Os quinze dias da letra B são do cumprimento de sentença do CPC. Na letra C, o termo inicial é a citação, e havendo garantia as medidas não se aplicam. A letra D troca prazo e termo inicial. E as quarenta e oito horas da letra E são para pagar ou garantir.
 == SLIDE: Questão 12: oficial de justiça, arrombamento e depositário
@@ -18,24 +18,24 @@ FRANCISCA: Certo, literalidade do artigo oitocentos e oitenta e três, letra A. 
 * Arrombamento: ordem do juiz, 2 oficiais, auto com 2 testemunhas (art. 846)
 * Auto de penhora: art. 838 do CPC
 * Prisão do depositário infiel: ilícita (SV 25)
-BRUNO: Questão doze, do Oficial de Justiça. Paulo recebeu mandado de penhora e avaliação contra a Gama Limitada. Item um: não encontrando bens penhoráveis, deve descrever na certidão os bens que guarnecem o estabelecimento, independentemente de determinação expressa. Item dois: se o representante fechar as portas para obstar a penhora, pode arrombá-las por ato próprio, com auto assinado por uma testemunha. Item três: o auto de penhora indica dia, mês, ano e lugar, nomes do exequente e do executado, descrição dos bens e nomeação do depositário. Item quatro: o depositário que desviar o bem pode ter prisão civil decretada nos próprios autos.
-ANTONIO: Pense item por item.
+THALITA: Questão doze, do Oficial de Justiça. Paulo recebeu mandado de penhora e avaliação contra a Gama Limitada. Item um: não encontrando bens penhoráveis, deve descrever na certidão os bens que guarnecem o estabelecimento, independentemente de determinação expressa. Item dois: se o representante fechar as portas para obstar a penhora, pode arrombá-las por ato próprio, com auto assinado por uma testemunha. Item três: o auto de penhora indica dia, mês, ano e lugar, nomes do exequente e do executado, descrição dos bens e nomeação do depositário. Item quatro: o depositário que desviar o bem pode ter prisão civil decretada nos próprios autos.
+FRANCISCA: Pense item por item.
 THALITA: Item dois me parece prático. Se fechou a porta, o oficial arromba.
 FRANCISCA: Aí está a pegadinha. O oficial comunica o fato ao juiz e pede ordem de arrombamento, que é cumprida por dois oficiais, com auto assinado por duas testemunhas, artigo oitocentos e quarenta e seis do CPC. Não é ato próprio, e não é uma testemunha só. Item dois, falso.
-BRUNO: O item um é verdadeiro, artigo oitocentos e trinta e seis, parágrafo primeiro, do CPC. O item três também, artigo oitocentos e trinta e oito. O item quatro contraria a Súmula Vinculante vinte e cinco do Supremo: é ilícita a prisão civil do depositário infiel. Então só um e três: letra C.
-ANTONIO: A letra A inclui o dois. A letra B só tem falsos. A letra D inclui o quatro. A letra E inclui os dois falsos.
+THALITA: O item um é verdadeiro, artigo oitocentos e trinta e seis, parágrafo primeiro, do CPC. O item três também, artigo oitocentos e trinta e oito. O item quatro contraria a Súmula Vinculante vinte e cinco do Supremo: é ilícita a prisão civil do depositário infiel. Então só um e três: letra C.
+FRANCISCA: A letra A inclui o dois. A letra B só tem falsos. A letra D inclui o quatro. A letra E inclui os dois falsos.
 THALITA: Macete: arrombamento precisa do juiz, dois oficiais e duas testemunhas. Depositário infiel, nunca preso.
 == SLIDE: Questão 13: títulos executivos e iniciativa da execução
 * Art. 876: inclui termos da CCP e TACs do MPT
 * Art. 878: execução de ofício só se sem advogado
 * SV 53 e Súmula 368, I: só sentenças condenatórias e acordos homologados
 * Art. 877-A: competência do juiz da matéria
-ANTONIO: Questão treze. Sobre títulos executivos e iniciativa da execução, o que é correto? A, os termos da Comissão de Conciliação Prévia não são executáveis na Justiça do Trabalho. B, a execução é promovida pelas partes, de ofício só quando sem advogado, sem prejuízo da execução de ofício das contribuições sociais das condenações e acordos. C, a execução de ofício é a regra, mesmo com advogado. D, a competência para contribuições alcança sentenças meramente declaratórias de vínculo. E, é competente o juiz do domicílio do exequente, à escolha dele.
-BRUNO: Pausa para pensar.
-THALITA: Eu desconfio da A, mas não sei dizer por quê.
-FRANCISCA: O artigo oitocentos e setenta e seis inclui expressamente, entre os títulos, os termos de conciliação das Comissões de Conciliação Prévia e os termos de ajuste de conduta firmados perante o Ministério Público do Trabalho. A letra A é falsa.
-BRUNO: A letra B é o gabarito. Artigo oitocentos e setenta e oito, combinado com o parágrafo único do oitocentos e setenta e seis, e a Súmula Vinculante cinquenta e três.
-ANTONIO: A letra C erra: depois da Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, a execução de ofício ficou restrita às partes sem advogado. A letra D erra: a Súmula Vinculante cinquenta e três e a Súmula trezentos e sessenta e oito, inciso um, do TST limitam a execução às sentenças condenatórias em pecúnia e aos acordos homologados, e não alcançam sentenças meramente declaratórias.
+FRANCISCA: Questão treze. Sobre títulos executivos e iniciativa da execução, o que é correto? A, os termos da Comissão de Conciliação Prévia não são executáveis na Justiça do Trabalho. B, a execução é promovida pelas partes, de ofício só quando sem advogado, sem prejuízo da execução de ofício das contribuições sociais das condenações e acordos. C, a execução de ofício é a regra, mesmo com advogado. D, a competência para contribuições alcança sentenças meramente declaratórias de vínculo. E, é competente o juiz do domicílio do exequente, à escolha dele.
+THALITA: Pausa para pensar.
+FRANCISCA: Eu desconfio da A, mas não sei dizer por quê.
+THALITA: O artigo oitocentos e setenta e seis inclui expressamente, entre os títulos, os termos de conciliação das Comissões de Conciliação Prévia e os termos de ajuste de conduta firmados perante o Ministério Público do Trabalho. A letra A é falsa.
+FRANCISCA: A letra B é o gabarito. Artigo oitocentos e setenta e oito, combinado com o parágrafo único do oitocentos e setenta e seis, e a Súmula Vinculante cinquenta e três.
+THALITA: A letra C erra: depois da Lei treze mil quatrocentos e sessenta e sete, de dois mil e dezessete, a execução de ofício ficou restrita às partes sem advogado. A letra D erra: a Súmula Vinculante cinquenta e três e a Súmula trezentos e sessenta e oito, inciso um, do TST limitam a execução às sentenças condenatórias em pecúnia e aos acordos homologados, e não alcançam sentenças meramente declaratórias.
 FRANCISCA: A letra E erra: é competente o juiz que teria competência para o processo de conhecimento da matéria, artigo oitocentos e setenta e sete, letra A.
 THALITA: Macete: de ofício só sem advogado; contribuição só de condenação em dinheiro ou acordo.
 == SLIDE: Questão 14 e revisão relâmpago
@@ -43,13 +43,13 @@ THALITA: Macete: de ofício só sem advogado; contribuição só de condenação
 * Art. 892: indeterminado, só até o ingresso na execução
 * Remição: preço igual ao valor da condenação
 * Custas: 5% até R$ 1.915,38; embargos de terceiro pagas ao final
-ANTONIO: Última questão. Sobre execução trabalhista, o que é correto? A, remição ao executado que oferecer o maior lance da praça. B, custas dos embargos de terceiro recolhidas antecipadamente, sob pena de deserção. C, nas prestações sucessivas por tempo indeterminado, a execução compreende todas as vencidas e vincendas. D, nas prestações sucessivas por tempo determinado, a execução pelo não pagamento de uma compreende as que lhe sucederem. E, nos autos de arrematação, adjudicação e remição, custas de dez por cento sem limite.
-FRANCISCA: Pausa para pensar.
-THALITA: Eu iria na A. Se ele iguala o maior lance, ele remite.
-BRUNO: Já vimos hoje: na Justiça do Trabalho a remição só vale se o executado oferece preço igual ao valor da condenação, artigo treze da Lei cinco mil quinhentos e oitenta e quatro. A letra A está errada.
-ANTONIO: A letra D é o gabarito, literalidade do artigo oitocentos e noventa e um. A letra C erra o artigo oitocentos e noventa e dois: nas prestações por tempo indeterminado, a execução compreende inicialmente as devidas até a data do ingresso na execução.
-FRANCISCA: A letra B erra porque, na execução, as custas são do executado e pagas ao final, artigo setecentos e oitenta e nove, letra A. E a letra E erra o percentual: são cinco por cento, até mil novecentos e quinze reais e trinta e oito centavos.
-THALITA: Agora o resumo relâmpago do que mais cai na FCC nesta aula. Primeiro: citação na execução pelo oficial de justiça, quarenta e oito horas para pagar ou garantir, e edital depois de duas procuras em quarenta e oito horas. Segundo: edital da praça, vinte dias; sinal de vinte por cento; saldo em vinte e quatro horas. Terceiro: remição só pelo valor total da condenação. Quarto: embargos à execução, cinco dias depois da garantia, trinta para a Fazenda; filantrópicas dispensadas. Quinto: embargos de terceiro, cinco dias depois do ato e antes da carta, no juízo deprecado. Sexto: bem de família, nem o doméstico penhora mais; fiança de locação pode. Sétimo: salário e poupança cedem a prestação alimentícia; seguro de vida nunca. Oitavo: sócio retirante, subsidiário, dois anos, na ordem. Nono: protesto e BNDT, quarenta e cinco dias da citação, sem garantia.
-BRUNO: Muito bem, Thalita. Só lembre que Município sem lei própria tem pequeno valor de trinta salários mínimos.
-THALITA: Anotado! Trinta para Município, sessenta para a União.
-ANTONIO: Chegamos ao fim da aula. Bons estudos e até a próxima!
+FRANCISCA: Última questão. Sobre execução trabalhista, o que é correto? A, remição ao executado que oferecer o maior lance da praça. B, custas dos embargos de terceiro recolhidas antecipadamente, sob pena de deserção. C, nas prestações sucessivas por tempo indeterminado, a execução compreende todas as vencidas e vincendas. D, nas prestações sucessivas por tempo determinado, a execução pelo não pagamento de uma compreende as que lhe sucederem. E, nos autos de arrematação, adjudicação e remição, custas de dez por cento sem limite.
+THALITA: Pausa para pensar.
+FRANCISCA: Eu iria na A. Se ele iguala o maior lance, ele remite.
+THALITA: Já vimos hoje: na Justiça do Trabalho a remição só vale se o executado oferece preço igual ao valor da condenação, artigo treze da Lei cinco mil quinhentos e oitenta e quatro. A letra A está errada.
+FRANCISCA: A letra D é o gabarito, literalidade do artigo oitocentos e noventa e um. A letra C erra o artigo oitocentos e noventa e dois: nas prestações por tempo indeterminado, a execução compreende inicialmente as devidas até a data do ingresso na execução.
+THALITA: A letra B erra porque, na execução, as custas são do executado e pagas ao final, artigo setecentos e oitenta e nove, letra A. E a letra E erra o percentual: são cinco por cento, até mil novecentos e quinze reais e trinta e oito centavos.
+FRANCISCA: Agora o resumo relâmpago do que mais cai na FCC nesta aula. Primeiro: citação na execução pelo oficial de justiça, quarenta e oito horas para pagar ou garantir, e edital depois de duas procuras em quarenta e oito horas. Segundo: edital da praça, vinte dias; sinal de vinte por cento; saldo em vinte e quatro horas. Terceiro: remição só pelo valor total da condenação. Quarto: embargos à execução, cinco dias depois da garantia, trinta para a Fazenda; filantrópicas dispensadas. Quinto: embargos de terceiro, cinco dias depois do ato e antes da carta, no juízo deprecado. Sexto: bem de família, nem o doméstico penhora mais; fiança de locação pode. Sétimo: salário e poupança cedem a prestação alimentícia; seguro de vida nunca. Oitavo: sócio retirante, subsidiário, dois anos, na ordem. Nono: protesto e BNDT, quarenta e cinco dias da citação, sem garantia.
+THALITA: Muito bem, Francisca. Só lembre que Município sem lei própria tem pequeno valor de trinta salários mínimos.
+FRANCISCA: Anotado! Trinta para Município, sessenta para a União.
+THALITA: Chegamos ao fim da aula. Bons estudos e até a próxima!

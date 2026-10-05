@@ -6,31 +6,31 @@ SEGMENTO s180
 * Subsidiária: lacuna total; supletiva: regra incompleta (art. 15 CPC)
 FRANCISCA: Vimos o Ministério Público e os princípios do processo do trabalho. Agora uma pergunta prática: quando a CLT não resolve o problema processual, para onde olhamos? É a aplicação subsidiária e supletiva do Código de Processo Civil.
 THALITA: Eu sei que o CPC entra quando a CLT é omissa. É só isso?
-ANTONIO: Não é só isso. O artigo setecentos e sessenta e nove da CLT diz que, nos casos omissos, o direito processual comum é fonte subsidiária, exceto naquilo em que for incompatível. Há dois requisitos cumulativos: omissão e compatibilidade com os princípios do processo do trabalho. Faltando um deles, o CPC não entra.
-BRUNO: Essa palavra, cumulativos, é a chave da questão. A banca escreve omissão ou compatibilidade, e está errado. São os dois ao mesmo tempo.
+FRANCISCA: Não é só isso. O artigo setecentos e sessenta e nove da CLT diz que, nos casos omissos, o direito processual comum é fonte subsidiária, exceto naquilo em que for incompatível. Há dois requisitos cumulativos: omissão e compatibilidade com os princípios do processo do trabalho. Faltando um deles, o CPC não entra.
+THALITA: Essa palavra, cumulativos, é a chave da questão. A banca escreve omissão ou compatibilidade, e está errado. São os dois ao mesmo tempo.
 FRANCISCA: E a doutrina admite omissão não só normativa, a falta de regra, mas também a ontológica, quando a regra envelheceu, e a axiológica, quando a regra gera solução injusta. Essa visão fundamenta a aplicação supletiva do artigo quinze do CPC.
 THALITA: Peraí, qual a diferença entre subsidiária e supletiva?
-ANTONIO: Subsidiária preenche lacuna total: a CLT nada diz. Exemplos: tutela provisória, amicus curiae e ação rescisória. Supletiva completa regra que existe, mas é incompleta. Exemplo: a fundamentação da sentença, em que o artigo quatrocentos e oitenta e nove do CPC completa o artigo oitocentos e trinta e dois da CLT.
+FRANCISCA: Subsidiária preenche lacuna total: a CLT nada diz. Exemplos: tutela provisória, amicus curiae e ação rescisória. Supletiva completa regra que existe, mas é incompleta. Exemplo: a fundamentação da sentença, em que o artigo quatrocentos e oitenta e nove do CPC completa o artigo oitocentos e trinta e dois da CLT.
 THALITA: Então, subsidiária é quando não há nada; supletiva é quando há pouco.
-BRUNO: Perfeito. E na execução a ordem é diferente. Pelo artigo oitocentos e oitenta e nove da CLT, aplicam-se primeiro a CLT, depois a Lei seis mil oitocentos e trinta, de mil novecentos e oitenta, que é a execução fiscal, e só depois o CPC. Já a penhora tem remissão direta, pelo artigo oitocentos e oitenta e dois, à ordem preferencial do artigo oitocentos e trinta e cinco do CPC.
-FRANCISCA: Resumindo: conhecimento, CLT e depois processo comum; execução, CLT, execução fiscal e depois CPC. E o artigo quinze do CPC aplica o código supletiva e subsidiariamente na ausência de normas.
+FRANCISCA: Perfeito. E na execução a ordem é diferente. Pelo artigo oitocentos e oitenta e nove da CLT, aplicam-se primeiro a CLT, depois a Lei seis mil oitocentos e trinta, de mil novecentos e oitenta, que é a execução fiscal, e só depois o CPC. Já a penhora tem remissão direta, pelo artigo oitocentos e oitenta e dois, à ordem preferencial do artigo oitocentos e trinta e cinco do CPC.
+THALITA: Resumindo: conhecimento, CLT e depois processo comum; execução, CLT, execução fiscal e depois CPC. E o artigo quinze do CPC aplica o código supletiva e subsidiariamente na ausência de normas.
 == SLIDE: IN 39/2016 do TST: o que se aplica e o que não se aplica
 * Aplicam-se: saneamento de representação, amicus curiae, tutela provisória, art. 489, decisão-surpresa
 * Aplicam-se: ônus dinâmico (art. 373, §§ 1º e 2º), art. 833, art. 835, penhora on-line, rescisória, IRDR
 * Não se aplicam: art. 63 (foro), art. 190 (negócio atípico), art. 334 (audiência prévia), art. 335
 * Também não: art. 362, III; art. 373, §§ 3º e 4º; art. 942; art. 944; art. 1.010, § 3º; arts. 1.043 e 1.044
 * Superados: dias úteis (art. 775 CLT) e prescrição intercorrente (art. 11-A CLT)
-ANTONIO: A Instrução Normativa trinta e nove, de dois mil e dezesseis, do TST, lista dispositivos do CPC aplicáveis e inaplicáveis. Começamos pelos aplicáveis. O saneamento de incapacidade processual e de irregularidade de representação, do artigo setenta e seis, parágrafos primeiro e segundo, e o amicus curiae, do artigo cento e trinta e oito.
-BRUNO: Os poderes do juiz, do artigo cento e trinta e nove, aplicam-se, exceto o inciso sétimo. A tutela provisória, dos artigos duzentos e noventa e quatro a trezentos e onze. E a distribuição dinâmica do ônus da prova, artigo trezentos e setenta e três, parágrafos primeiro e segundo.
+FRANCISCA: A Instrução Normativa trinta e nove, de dois mil e dezesseis, do TST, lista dispositivos do CPC aplicáveis e inaplicáveis. Começamos pelos aplicáveis. O saneamento de incapacidade processual e de irregularidade de representação, do artigo setenta e seis, parágrafos primeiro e segundo, e o amicus curiae, do artigo cento e trinta e oito.
+THALITA: Os poderes do juiz, do artigo cento e trinta e nove, aplicam-se, exceto o inciso sétimo. A tutela provisória, dos artigos duzentos e noventa e quatro a trezentos e onze. E a distribuição dinâmica do ônus da prova, artigo trezentos e setenta e três, parágrafos primeiro e segundo.
 FRANCISCA: Também se aplicam a fundamentação da sentença, artigo quatrocentos e oitenta e nove, e a vedação de decisão-surpresa, artigos nono e dez. As impenhorabilidades, artigo oitocentos e trinta e três, e a ordem de penhora, oitocentos e trinta e cinco. A penhora on-line, artigo oitocentos e cinquenta e quatro.
 THALITA: E ação rescisória e reclamação?
-ANTONIO: Aplicam-se: a rescisória, nos artigos novecentos e sessenta e seis a novecentos e setenta e cinco, e a reclamação, nos artigos novecentos e oitenta e oito a novecentos e noventa e três. Também o IRDR, o IAC e a desconsideração da personalidade jurídica.
+FRANCISCA: Aplicam-se: a rescisória, nos artigos novecentos e sessenta e seis a novecentos e setenta e cinco, e a reclamação, nos artigos novecentos e oitenta e oito a novecentos e noventa e três. Também o IRDR, o IAC e a desconsideração da personalidade jurídica.
 THALITA: Agora vem a lista do que não aplica, que é o que cai.
-BRUNO: Exatamente. A instrução, no artigo segundo, afasta a modificação de competência territorial e a eleição de foro, artigo sessenta e três do CPC. O negócio jurídico processual atípico, artigo cento e noventa. A audiência prévia de conciliação ou mediação, artigo trezentos e trinta e quatro. E o prazo de contestação do CPC, artigo trezentos e trinta e cinco.
-FRANCISCA: Também ficam de fora o adiamento da audiência por atraso superior a trinta minutos, artigo trezentos e sessenta e dois, inciso terceiro, e a distribuição diversa do ônus da prova por convenção das partes, artigo trezentos e setenta e três, parágrafos terceiro e quarto. A técnica de julgamento ampliado em decisão não unânime, artigo novecentos e quarenta e dois, e as notas taquigráficas substituindo o acórdão, novecentos e quarenta e quatro.
-THALITA: Falta o final da lista, eu acho.
-ANTONIO: Falta: a dispensa de juízo de admissibilidade na origem, artigo mil e dez, parágrafo terceiro, e os embargos de divergência do CPC, artigos mil e quarenta e três e mil e quarenta e quatro.
-BRUNO: Mas atenção a duas pegadinhas de atualização: a contagem de prazo em dias úteis e a prescrição intercorrente do CPC estavam entre as inaplicáveis, mas foram superadas. A Reforma passou a prever os dias úteis no artigo setecentos e setenta e cinco da CLT e a prescrição intercorrente no onze-A. Outras armadilhas: dizer que a audiência do artigo trezentos e trinta e quatro se aplica, ou que as partes podem eleger foro no contrato de trabalho. Ambas erradas, pois a competência territorial segue o artigo seiscentos e cinquenta e um.
+FRANCISCA: Exatamente. A instrução, no artigo segundo, afasta a modificação de competência territorial e a eleição de foro, artigo sessenta e três do CPC. O negócio jurídico processual atípico, artigo cento e noventa. A audiência prévia de conciliação ou mediação, artigo trezentos e trinta e quatro. E o prazo de contestação do CPC, artigo trezentos e trinta e cinco.
+THALITA: Também ficam de fora o adiamento da audiência por atraso superior a trinta minutos, artigo trezentos e sessenta e dois, inciso terceiro, e a distribuição diversa do ônus da prova por convenção das partes, artigo trezentos e setenta e três, parágrafos terceiro e quarto. A técnica de julgamento ampliado em decisão não unânime, artigo novecentos e quarenta e dois, e as notas taquigráficas substituindo o acórdão, novecentos e quarenta e quatro.
+FRANCISCA: Falta o final da lista, eu acho.
+THALITA: Falta: a dispensa de juízo de admissibilidade na origem, artigo mil e dez, parágrafo terceiro, e os embargos de divergência do CPC, artigos mil e quarenta e três e mil e quarenta e quatro.
+FRANCISCA: Mas atenção a duas pegadinhas de atualização: a contagem de prazo em dias úteis e a prescrição intercorrente do CPC estavam entre as inaplicáveis, mas foram superadas. A Reforma passou a prever os dias úteis no artigo setecentos e setenta e cinco da CLT e a prescrição intercorrente no onze-A. Outras armadilhas: dizer que a audiência do artigo trezentos e trinta e quatro se aplica, ou que as partes podem eleger foro no contrato de trabalho. Ambas erradas, pois a competência territorial segue o artigo seiscentos e cinquenta e um.
 THALITA: Então vou guardar assim: audiência prévia do CPC, foro de eleição e negócio processual atípico não entram. Tutela provisória, ônus dinâmico, rescisória e penhora on-line entram. E dias úteis e prescrição intercorrente já estão na própria CLT, não dependem mais do CPC.
 == SLIDE: Prescrição e decadência no processo
 * Prescrição: arguida até a instância ordinária; não em revista (Súm. 153 TST)
@@ -39,25 +39,25 @@ THALITA: Então vou guardar assim: audiência prévia do CPC, foro de eleição 
 * Decadência: inquérito de falta grave, 30 dias; rescisória, 2 anos; mandado de segurança, 120 dias
 FRANCISCA: Passemos à prescrição e à decadência. A prescrição trabalhista, quinquenal e limitada a dois anos após a extinção do contrato, é estudada no bloco de Direito do Trabalho. Aqui vemos os pontos processuais.
 THALITA: O primeiro, eu acho, é até quando posso alegar a prescrição.
-ANTONIO: Até a instância ordinária. No máximo, nas razões ou contrarrazões do recurso ordinário. Pela Súmula cento e cinquenta e três do TST, não se conhece da prescrição arguida pela primeira vez em recurso de revista.
-BRUNO: A interrupção ocorre somente pelo ajuizamento da reclamação, ainda que em juízo incompetente e mesmo se extinta sem resolução de mérito. Mas só quanto aos pedidos idênticos. É o artigo onze, parágrafo terceiro, e a Súmula duzentos e sessenta e oito.
-THALITA: Se o processo anterior pediu horas extras e agora peço adicional noturno, a interrupção vale?
-BRUNO: Não, porque são pedidos diferentes. A interrupção só alcança os idênticos.
+FRANCISCA: Até a instância ordinária. No máximo, nas razões ou contrarrazões do recurso ordinário. Pela Súmula cento e cinquenta e três do TST, não se conhece da prescrição arguida pela primeira vez em recurso de revista.
+THALITA: A interrupção ocorre somente pelo ajuizamento da reclamação, ainda que em juízo incompetente e mesmo se extinta sem resolução de mérito. Mas só quanto aos pedidos idênticos. É o artigo onze, parágrafo terceiro, e a Súmula duzentos e sessenta e oito.
+FRANCISCA: Se o processo anterior pediu horas extras e agora peço adicional noturno, a interrupção vale?
+THALITA: Não, porque são pedidos diferentes. A interrupção só alcança os idênticos.
 FRANCISCA: Quanto à pronúncia de ofício da prescrição, a jurisprudência majoritária do TST a considera incompatível com o processo do trabalho na fase de conhecimento. A apostila marca esse ponto para conferir.
-ANTONIO: Agora os prazos decadenciais. No inquérito para apuração de falta grave, o prazo é de trinta dias contados da suspensão do empregado, artigo oitocentos e cinquenta e três e Súmula quatrocentos e três do Supremo. Na ação rescisória, dois anos do trânsito em julgado, artigo novecentos e setenta e cinco do CPC. No mandado de segurança, cento e vinte dias da ciência do ato, artigo vinte e três da Lei doze mil e dezesseis, de dois mil e nove.
-THALITA: Macete: trinta, dois anos, cento e vinte. Inquérito, rescisória, mandado de segurança.
+THALITA: Agora os prazos decadenciais. No inquérito para apuração de falta grave, o prazo é de trinta dias contados da suspensão do empregado, artigo oitocentos e cinquenta e três e Súmula quatrocentos e três do Supremo. Na ação rescisória, dois anos do trânsito em julgado, artigo novecentos e setenta e cinco do CPC. No mandado de segurança, cento e vinte dias da ciência do ato, artigo vinte e três da Lei doze mil e dezesseis, de dois mil e nove.
+FRANCISCA: Macete: trinta, dois anos, cento e vinte. Inquérito, rescisória, mandado de segurança.
 == SLIDE: Prescrição intercorrente (art. 11-A CLT)
 * Prazo de 2 anos; termo inicial: exequente descumpre ordem judicial (art. 11-A, § 1º)
 * Declarável de ofício ou a requerimento, em qualquer grau (art. 11-A, § 2º)
 * Intertemporal: só ordens posteriores a 11/11/2017; Súm. 114 TST superada
 * Inércia do Judiciário não gera prescrição; exige omissão do exequente
-BRUNO: Chegamos à prescrição intercorrente, artigo onze-A da CLT. Antes da Reforma, a Súmula cento e catorze do TST a negava na Justiça do Trabalho, enquanto a Súmula trezentos e vinte e sete do Supremo a admitia. O artigo onze-A pôs fim à controvérsia.
-ANTONIO: Prazo de dois anos. O termo inicial é quando o exequente deixa de cumprir determinação judicial no curso da execução. E pode ser declarada a requerimento ou de ofício, em qualquer grau de jurisdição.
+THALITA: Chegamos à prescrição intercorrente, artigo onze-A da CLT. Antes da Reforma, a Súmula cento e catorze do TST a negava na Justiça do Trabalho, enquanto a Súmula trezentos e vinte e sete do Supremo a admitia. O artigo onze-A pôs fim à controvérsia.
+FRANCISCA: Prazo de dois anos. O termo inicial é quando o exequente deixa de cumprir determinação judicial no curso da execução. E pode ser declarada a requerimento ou de ofício, em qualquer grau de jurisdição.
 THALITA: Então se o processo ficou parado porque a secretaria demorou, também prescreve?
 FRANCISCA: Não. A inércia do Judiciário não gera prescrição intercorrente: exige-se omissão do exequente diante de ordem judicial. E, pela Instrução Normativa quarenta e um, só conta a partir de descumprimento de determinação feita depois de onze de novembro de dois mil e dezessete.
-BRUNO: Exemplo: em dez de março de dois mil e vinte e dois, o juiz intimou o Bruno, exequente, a indicar bens da executada Ômega Ltda., e ele ficou inerte. O prazo de dois anos corre dali; em dez de março de dois mil e vinte e quatro, o juiz pode declarar de ofício a prescrição e extinguir a execução.
-THALITA: E as trocas típicas da prova?
-ANTONIO: Prazo de cinco anos ou de um ano; somente a requerimento do executado; apenas no primeiro grau; termo inicial no trânsito em julgado. Todas erradas. O correto é dois anos, de ofício ou a requerimento, qualquer grau, a partir do descumprimento de ordem judicial pelo exequente.
+THALITA: Exemplo: em dez de março de dois mil e vinte e dois, o juiz intimou o Bruno, exequente, a indicar bens da executada Ômega Ltda., e ele ficou inerte. O prazo de dois anos corre dali; em dez de março de dois mil e vinte e quatro, o juiz pode declarar de ofício a prescrição e extinguir a execução.
+FRANCISCA: E as trocas típicas da prova?
+THALITA: Prazo de cinco anos ou de um ano; somente a requerimento do executado; apenas no primeiro grau; termo inicial no trânsito em julgado. Todas erradas. O correto é dois anos, de ofício ou a requerimento, qualquer grau, a partir do descumprimento de ordem judicial pelo exequente.
 FRANCISCA: E a Súmula cento e catorze está superada pelo artigo onze-A para os processos alcançados pela nova regra. A apostila manda conferir se foi cancelada formalmente ou mantida para situações pretéritas.
 THALITA: Entendi tudo. Agora é hora de testar tudo isso nas questões, no estilo da banca.
-ANTONIO: Vamos a elas.
+FRANCISCA: Vamos a elas.

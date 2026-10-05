@@ -5,80 +5,75 @@ SEGMENTO s200
 * Judiciais e extrajudiciais
 * Recurso sem efeito suspensivo: porta da execução provisória
 * CDA de multa administrativa: rito da LEF, exequente a União
-ANTONIO: Olá, pessoal, boas-vindas! Aqui é o Antônio e esta é a aula cinquenta e oito do nosso curso, de Direito Processual do Trabalho, dedicada à execução trabalhista com foco no Oficial de Justiça. Hoje vemos os títulos executivos, a iniciativa, a competência, as fontes subsidiárias e a execução provisória. Depois, as execuções especiais, a desconsideração da personalidade jurídica e o sócio retirante.
-FRANCISCA: Oi, gente! Sou a Francisca, professora, e vou trazer a lei em paráfrase, a jurisprudência e os exemplos.
-BRUNO: E eu sou o Bruno, especialista em FCC. Vou mostrar como a banca cobra e onde estão as pegadinhas.
-THALITA: Eu sou a Thalita, concurseira, e vou perguntar o que você perguntaria. Vamos começar?
-ANTONIO: Vamos. Primeiro: quais são os títulos que podem ser executados na Justiça do Trabalho? O artigo oitocentos e setenta e seis lista as decisões passadas em julgado, ou das quais não tenha havido recurso com efeito suspensivo, os acordos quando não cumpridos, os termos de ajuste de conduta firmados perante o Ministério Público do Trabalho e os termos de conciliação firmados perante as Comissões de Conciliação Prévia.
-THALITA: Então tem título judicial e extrajudicial no mesmo artigo?
-FRANCISCA: Isso. São judiciais a sentença e o acordo homologado. São extrajudiciais o termo de ajuste de conduta e o termo da comissão de conciliação prévia, incluídos pela Lei nove mil novecentos e cinquenta e oito, de dois mil. E a expressão recurso sem efeito suspensivo é justamente a porta da execução provisória.
-BRUNO: Na tabela da apostila, vale gravar cinco linhas. Sentença transitada: execução definitiva. Sentença com recurso sem efeito suspensivo: provisória, até a penhora. Acordo não cumprido: o termo vale como decisão irrecorrível para as partes. TAC e termo da comissão: extrajudiciais. E a certidão de dívida ativa de multa administrativa trabalhista, também extrajudicial.
+FRANCISCA: Olá, pessoal, boas-vindas! Esta é a aula cinquenta e oito do nosso curso, de Direito Processual do Trabalho, dedicada à execução trabalhista com foco no Oficial de Justiça. Hoje vemos os títulos executivos, a iniciativa, a competência, as fontes subsidiárias e a execução provisória. Depois, as execuções especiais, a desconsideração da personalidade jurídica e o sócio retirante.
+THALITA: Oi, gente! Eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: Vamos. Primeiro: quais são os títulos que podem ser executados na Justiça do Trabalho? O artigo oitocentos e setenta e seis lista as decisões passadas em julgado, ou das quais não tenha havido recurso com efeito suspensivo, os acordos quando não cumpridos, os termos de ajuste de conduta firmados perante o Ministério Público do Trabalho e os termos de conciliação firmados perante as Comissões de Conciliação Prévia.
+FRANCISCA: Então tem título judicial e extrajudicial no mesmo artigo?
+THALITA: Isso. São judiciais a sentença e o acordo homologado. São extrajudiciais o termo de ajuste de conduta e o termo da comissão de conciliação prévia, incluídos pela Lei nove mil novecentos e cinquenta e oito, de dois mil. E a expressão recurso sem efeito suspensivo é justamente a porta da execução provisória.
+FRANCISCA: Na tabela da apostila, vale gravar cinco linhas. Sentença transitada: execução definitiva. Sentença com recurso sem efeito suspensivo: provisória, até a penhora. Acordo não cumprido: o termo vale como decisão irrecorrível para as partes. TAC e termo da comissão: extrajudiciais. E a certidão de dívida ativa de multa administrativa trabalhista, também extrajudicial.
 THALITA: Essa última eu não conhecia. Quem é o exequente?
-ANTONIO: A União. É a multa aplicada pela fiscalização do trabalho, com base no artigo cento e catorze, inciso sétimo, da Constituição, e a cobrança segue o rito da Lei de Execução Fiscal.
-BRUNO: A FCC gosta de perguntar se o termo de ajuste de conduta do MPT é título judicial. Não é. É extrajudicial, mas dá ensejo à execução na Justiça do Trabalho.
-THALITA: Macete: judicial, sentença e acordo homologado; extrajudicial, TAC, comissão e certidão.
-
+FRANCISCA: A União. É a multa aplicada pela fiscalização do trabalho, com base no artigo cento e catorze, inciso sétimo, da Constituição, e a cobrança segue o rito da Lei de Execução Fiscal.
+THALITA: A FCC gosta de perguntar se o termo de ajuste de conduta do MPT é título judicial. Não é. É extrajudicial, mas dá ensejo à execução na Justiça do Trabalho.
+FRANCISCA: Macete: judicial, sentença e acordo homologado; extrajudicial, TAC, comissão e certidão.
 == SLIDE: Contribuições previdenciárias e iniciativa
 * Contribuições: execução de ofício (art. 876, parágrafo único; SV 53)
 * Súmula 368, I: só sentença condenatória em pecúnia e valores do acordo
 * Art. 878: execução promovida pelas partes
 * De ofício só sem advogado; jus postulandi pode
 * Contribuições previdenciárias: sempre de ofício
-FRANCISCA: O parágrafo único do artigo oitocentos e setenta e seis diz que a Justiça do Trabalho executa de ofício as contribuições sociais relativas ao objeto da condenação nas sentenças que proferir e nos acordos que homologar. A Súmula Vinculante cinquenta e três do STF confirma que a competência da Justiça do Trabalho alcança essa execução.
-THALITA: Mas se o juiz reconhece só o vínculo de emprego, ele já executa as contribuições do período?
-BRUNO: Aí a Súmula trezentos e sessenta e oito, item primeiro, do TST responde que não. A competência se limita às sentenças condenatórias em pecúnia e aos valores do acordo que integrem o salário de contribuição. Sentença só declaratória de vínculo não gera execução de contribuições na Justiça do Trabalho.
-ANTONIO: Agora a iniciativa, artigo oitocentos e setenta e oito: a execução será promovida pelas partes, e a execução de ofício, pelo juiz ou pelo Presidente do Tribunal, só ocorre quando as partes não estiverem representadas por advogado.
-FRANCISCA: Antes da Reforma, qualquer interessado ou o próprio juiz podia promover a execução. Hoje, com advogado nos autos, o juiz não inicia a execução do crédito trabalhista. A Instrução Normativa quarenta e um do TST aplica o mesmo limite à instauração de ofício do incidente de desconsideração.
-THALITA: Quer dizer: com advogado, só se o credor pedir. Sem advogado, o juiz pode agir sozinho.
-BRUNO: Isso. Parte exercendo o jus postulandi, artigo setecentos e noventa e um, pode ter execução de ofício. E as contribuições previdenciárias são sempre de ofício, mesmo com advogado.
-ANTONIO: Exatamente: o parágrafo único do artigo oitocentos e setenta e seis é exceção ao artigo oitocentos e setenta e oito.
-BRUNO: E aqui mora a pegadinha: a alternativa dirá que, após a Reforma, a Justiça do Trabalho não executa mais nada de ofício. Errado! As contribuições sociais continuam sendo executadas de ofício.
-THALITA: Entendi: advogado, só a pedido; contribuição, sempre de ofício.
-
+THALITA: O parágrafo único do artigo oitocentos e setenta e seis diz que a Justiça do Trabalho executa de ofício as contribuições sociais relativas ao objeto da condenação nas sentenças que proferir e nos acordos que homologar. A Súmula Vinculante cinquenta e três do STF confirma que a competência da Justiça do Trabalho alcança essa execução.
+FRANCISCA: Mas se o juiz reconhece só o vínculo de emprego, ele já executa as contribuições do período?
+THALITA: Aí a Súmula trezentos e sessenta e oito, item primeiro, do TST responde que não. A competência se limita às sentenças condenatórias em pecúnia e aos valores do acordo que integrem o salário de contribuição. Sentença só declaratória de vínculo não gera execução de contribuições na Justiça do Trabalho.
+FRANCISCA: Agora a iniciativa, artigo oitocentos e setenta e oito: a execução será promovida pelas partes, e a execução de ofício, pelo juiz ou pelo Presidente do Tribunal, só ocorre quando as partes não estiverem representadas por advogado.
+THALITA: Antes da Reforma, qualquer interessado ou o próprio juiz podia promover a execução. Hoje, com advogado nos autos, o juiz não inicia a execução do crédito trabalhista. A Instrução Normativa quarenta e um do TST aplica o mesmo limite à instauração de ofício do incidente de desconsideração.
+FRANCISCA: Quer dizer: com advogado, só se o credor pedir. Sem advogado, o juiz pode agir sozinho.
+THALITA: Isso. Parte exercendo o jus postulandi, artigo setecentos e noventa e um, pode ter execução de ofício. E as contribuições previdenciárias são sempre de ofício, mesmo com advogado.
+FRANCISCA: Exatamente: o parágrafo único do artigo oitocentos e setenta e seis é exceção ao artigo oitocentos e setenta e oito.
+THALITA: E aqui mora a pegadinha: a alternativa dirá que, após a Reforma, a Justiça do Trabalho não executa mais nada de ofício. Errado! As contribuições sociais continuam sendo executadas de ofício.
+FRANCISCA: Entendi: advogado, só a pedido; contribuição, sempre de ofício.
 == SLIDE: Competência e fontes subsidiárias
 * Art. 877: quem conciliou ou julgou originariamente
 * Competência originária do TRT: executa o Presidente
 * Art. 877-A: título extrajudicial, juiz competente para o conhecimento
 * Art. 889: subsidiária é a Lei de Execução Fiscal
 * Depois, CPC; nomeação de bens segue o art. 835 do CPC (art. 882)
-ANTONIO: Quem executa? O artigo oitocentos e setenta e sete diz que é competente o juiz ou o Presidente do Tribunal que tiver conciliado ou julgado originariamente o dissídio. Para título extrajudicial, o artigo oitocentos e setenta e sete-A manda aplicar o juiz que teria competência para o processo de conhecimento relativo à matéria.
-THALITA: E o Presidente do Tribunal entra quando?
-FRANCISCA: Nas causas de competência originária do TRT, como a ação rescisória. Para o termo de ajuste de conduta e o termo da comissão de conciliação prévia, aplica-se o critério territorial do artigo seiscentos e cinquenta e um como se houvesse reclamação.
-BRUNO: Resumo: quem julgou ou conciliou, executa. É a regra clássica, e a banca pode trocar por vara do domicílio do exequente. Não é.
+THALITA: Quem executa? O artigo oitocentos e setenta e sete diz que é competente o juiz ou o Presidente do Tribunal que tiver conciliado ou julgado originariamente o dissídio. Para título extrajudicial, o artigo oitocentos e setenta e sete-A manda aplicar o juiz que teria competência para o processo de conhecimento relativo à matéria.
+FRANCISCA: E o Presidente do Tribunal entra quando?
+THALITA: Nas causas de competência originária do TRT, como a ação rescisória. Para o termo de ajuste de conduta e o termo da comissão de conciliação prévia, aplica-se o critério territorial do artigo seiscentos e cinquenta e um como se houvesse reclamação.
+FRANCISCA: Resumo: quem julgou ou conciliou, executa. É a regra clássica, e a banca pode trocar por vara do domicílio do exequente. Não é.
 THALITA: Beleza. E se a CLT é omissa na execução, aplico o quê?
-ANTONIO: Pelo artigo oitocentos e oitenta e nove, aplica-se a Lei de Execução Fiscal, a Lei seis mil oitocentos e trinta, de mil novecentos e oitenta. Só depois vem o Código de Processo Civil.
-FRANCISCA: Na fase de conhecimento a fonte subsidiária é o processo comum, artigo setecentos e sessenta e nove. Na execução, primeiro a CLT e a Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, depois a LEF, e por fim o CPC.
-BRUNO: Exceção expressa: a nomeação de bens pelo executado segue o artigo oitocentos e trinta e cinco do Código de Processo Civil, por força do artigo oitocentos e oitenta e dois. A FCC adora cobrar essa ordem de fontes.
+FRANCISCA: Pelo artigo oitocentos e oitenta e nove, aplica-se a Lei de Execução Fiscal, a Lei seis mil oitocentos e trinta, de mil novecentos e oitenta. Só depois vem o Código de Processo Civil.
+THALITA: Na fase de conhecimento a fonte subsidiária é o processo comum, artigo setecentos e sessenta e nove. Na execução, primeiro a CLT e a Lei cinco mil quinhentos e oitenta e quatro, de mil novecentos e setenta, depois a LEF, e por fim o CPC.
+FRANCISCA: Exceção expressa: a nomeação de bens pelo executado segue o artigo oitocentos e trinta e cinco do Código de Processo Civil, por força do artigo oitocentos e oitenta e dois. A FCC adora cobrar essa ordem de fontes.
 THALITA: Macete: na execução, primeiro a LEF, depois o CPC. No conhecimento, direto o CPC.
-
 == SLIDE: Ordem de penhora: LEF e CPC
 * Dinheiro é sempre o primeiro
 * LEF, art. 11: dinheiro, títulos, pedras e metais, imóveis, navios e aeronaves, veículos
 * CPC, art. 835: dinheiro, títulos, veículos, imóveis, móveis, semoventes
 * Pedras e metais preciosos: 3º na LEF, 11º no CPC
 * O juiz pode alterar a ordem dos demais itens (art. 835, §1º)
-ANTONIO: Falando em nomeação de bens, vamos comparar as duas ordens. Na Lei de Execução Fiscal, o artigo onze lista, nesta ordem: dinheiro; título da dívida pública e título de crédito com cotação em bolsa; pedras e metais preciosos; imóveis; navios e aeronaves; veículos; móveis ou semoventes; direitos e ações.
+FRANCISCA: Falando em nomeação de bens, vamos comparar as duas ordens. Na Lei de Execução Fiscal, o artigo onze lista, nesta ordem: dinheiro; título da dívida pública e título de crédito com cotação em bolsa; pedras e metais preciosos; imóveis; navios e aeronaves; veículos; móveis ou semoventes; direitos e ações.
 THALITA: E no Código de Processo Civil, é igual?
 FRANCISCA: Não. No artigo oitocentos e trinta e cinco, o primeiro é dinheiro, em espécie, depósito ou aplicação financeira. Depois, títulos da dívida pública com cotação em mercado, títulos e valores mobiliários com cotação, veículos de via terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves. Depois, ações e quotas de sociedades, percentual do faturamento, pedras e metais preciosos, direitos aquisitivos e outros direitos.
-BRUNO: Troca favorita da banca: pedras e metais preciosos são terceiro na LEF, mas décimo primeiro no CPC. Quem lê a alternativa com a ordem trocada entre as duas leis perde ponto.
-THALITA: E o que é igual nas duas?
-ANTONIO: Dinheiro é sempre o primeiro. No CPC, a penhora em dinheiro é prioritária, e o juiz pode alterar a ordem dos demais itens, parágrafo primeiro do artigo oitocentos e trinta e cinco.
+THALITA: Troca favorita da banca: pedras e metais preciosos são terceiro na LEF, mas décimo primeiro no CPC. Quem lê a alternativa com a ordem trocada entre as duas leis perde ponto.
+FRANCISCA: E o que é igual nas duas?
+THALITA: Dinheiro é sempre o primeiro. No CPC, a penhora em dinheiro é prioritária, e o juiz pode alterar a ordem dos demais itens, parágrafo primeiro do artigo oitocentos e trinta e cinco.
 FRANCISCA: Repare que o CPC tem treze incisos e a LEF só oito, e que o CPC trouxe bens modernos, como o percentual do faturamento e direitos aquisitivos de promessa de compra e venda.
-BRUNO: Dica de prova: se a questão pergunta a gradação, veja primeiro qual lei ela cita. Cada lei tem sua ordem.
-THALITA: Resumindo: dinheiro sempre primeiro; veículos sobem no CPC; pedras descem no CPC.
-
+THALITA: Dica de prova: se a questão pergunta a gradação, veja primeiro qual lei ela cita. Cada lei tem sua ordem.
+FRANCISCA: Resumindo: dinheiro sempre primeiro; veículos sobem no CPC; pedras descem no CPC.
 == SLIDE: Execução provisória e garantias
 * Execução provisória trabalhista: até a penhora (art. 899)
 * Súmula 417, após 2016: penhora em dinheiro é prioritária
 * Seguro-garantia e fiança: débito + 30% (art. 835, §2º, CPC; OJ 59 SDI-2)
 * Depósito recursal substituível (art. 899, §11)
-FRANCISCA: Segue a execução provisória. O artigo oitocentos e noventa e nove diz que os recursos têm efeito meramente devolutivo, permitida a execução provisória até a penhora. O credor pode liquidar, citar e penhorar antes do trânsito em julgado, mas a expropriação e o levantamento dependem, pela letra da CLT, do trânsito.
-THALITA: E o Código de Processo Civil não permite levantar dinheiro na provisória?
-BRUNO: Os artigos quinhentos e vinte e quinhentos e vinte e um permitem, com caução. Mas a aplicação ao processo do trabalho é controvertida. Para a FCC, a resposta segura é a letra: até a penhora. Confira a posição atual do TST.
-ANTONIO: Súmula quatrocentos e dezessete do TST. Item primeiro: não fere direito líquido e certo a penhora em dinheiro, pois é prioritária e obedece à gradação do artigo oitocentos e trinta e cinco. Item segundo: em execução definitiva, havendo discordância do credor, o executado não tem direito a que o dinheiro fique depositado no próprio banco.
-FRANCISCA: O item terceiro foi cancelado. Ele dizia que, na execução provisória, a penhora em dinheiro feria direito líquido e certo quando nomeados outros bens. A nova redação atinge as penhoras feitas a partir de dezoito de março de dois mil e dezesseis, data da vigência do CPC.
-THALITA: E o seguro-garantia, serve como dinheiro?
-BRUNO: Serve se cobrir o débito mais trinta por cento, parágrafo segundo do artigo oitocentos e trinta e cinco do CPC e Orientação Jurisprudencial cinquenta e nove da SDI-2. Exemplo: débito de cem mil reais, e a apólice da Alfa Limitada precisa cobrir pelo menos cento e trinta mil reais para substituir a penhora de um imóvel.
-ANTONIO: E o depósito recursal pode ser substituído por fiança bancária ou seguro-garantia, parágrafo décimo primeiro do artigo oitocentos e noventa e nove, nos termos do Ato Conjunto de dois mil e dezenove, alterado em dois mil e vinte. Confira a redação vigente.
+THALITA: Segue a execução provisória. O artigo oitocentos e noventa e nove diz que os recursos têm efeito meramente devolutivo, permitida a execução provisória até a penhora. O credor pode liquidar, citar e penhorar antes do trânsito em julgado, mas a expropriação e o levantamento dependem, pela letra da CLT, do trânsito.
+FRANCISCA: E o Código de Processo Civil não permite levantar dinheiro na provisória?
+THALITA: Os artigos quinhentos e vinte e quinhentos e vinte e um permitem, com caução. Mas a aplicação ao processo do trabalho é controvertida. Para a FCC, a resposta segura é a letra: até a penhora. Confira a posição atual do TST.
+FRANCISCA: Súmula quatrocentos e dezessete do TST. Item primeiro: não fere direito líquido e certo a penhora em dinheiro, pois é prioritária e obedece à gradação do artigo oitocentos e trinta e cinco. Item segundo: em execução definitiva, havendo discordância do credor, o executado não tem direito a que o dinheiro fique depositado no próprio banco.
+THALITA: O item terceiro foi cancelado. Ele dizia que, na execução provisória, a penhora em dinheiro feria direito líquido e certo quando nomeados outros bens. A nova redação atinge as penhoras feitas a partir de dezoito de março de dois mil e dezesseis, data da vigência do CPC.
+FRANCISCA: E o seguro-garantia, serve como dinheiro?
+THALITA: Serve se cobrir o débito mais trinta por cento, parágrafo segundo do artigo oitocentos e trinta e cinco do CPC e Orientação Jurisprudencial cinquenta e nove da SDI-2. Exemplo: débito de cem mil reais, e a apólice da Alfa Limitada precisa cobrir pelo menos cento e trinta mil reais para substituir a penhora de um imóvel.
+FRANCISCA: E o depósito recursal pode ser substituído por fiança bancária ou seguro-garantia, parágrafo décimo primeiro do artigo oitocentos e noventa e nove, nos termos do Ato Conjunto de dois mil e dezenove, alterado em dois mil e vinte. Confira a redação vigente.
 THALITA: Macete: provisória vai até a penhora, e seguro vale cento e trinta por cento do débito.
 FRANCISCA: Muito bem. Agora, vamos às execuções especiais, como prestações sucessivas e Fazenda Pública, e depois à desconsideração da personalidade jurídica.

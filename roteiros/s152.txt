@@ -5,88 +5,82 @@ SEGMENTO s152
 * Súmula 366: estourou o limite, conta-se tudo
 * Divisores: 220, 200 e 180
 * Súmula 449 e a Lei 10.243/2001
-ANTONIO: Olá, pessoal! Bem-vindos à aula quarenta e quatro do nosso curso para o TRT da Oitava Região. Hoje abrimos a terceira parte de Direito do Trabalho: duração do trabalho, descansos, férias e teletrabalho. Eu sou o Antônio, professor.
-FRANCISCA: Eu sou a Francisca, também professora. Vou trazer a lei em paráfrase, a jurisprudência e os exemplos.
-BRUNO: Eu sou o Bruno, especialista em FCC. Meu papel é mostrar como a banca cobra e onde estão as pegadinhas.
-THALITA: E eu sou a Thalita, concurseira como vocês. Vou perguntar o que está na cabeça de quem estuda, e fazer os resumos.
-ANTONIO: Nesta aula vamos ver a jornada e seus limites, os descansos, o trabalho noturno e o extraordinário, depois compensação, banco de horas e doze por trinta e seis, salário mínimo e piso, e por fim as férias. Começando pela jornada.
-FRANCISCA: A regra geral é a da Constituição, no artigo sétimo, inciso treze, repetida no artigo cinquenta e oito da CLT: até oito horas diárias e quarenta e quatro semanais. Lei, contrato ou norma coletiva podem fixar um limite menor.
-THALITA: E o salário-hora, como se calcula?
-BRUNO: Pelo divisor. Duzentos e vinte para quem trabalha quarenta e quatro horas semanais, duzentos para quarenta horas, conforme a Súmula quatrocentos e trinta e um, e cento e oitenta para jornada de seis horas diárias. Guarde esses três números.
-ANTONIO: Agora a tolerância no registro de ponto. O parágrafo primeiro do artigo cinquenta e oito diz que não se descontam nem se pagam variações de até cinco minutos em cada marcação, observado o máximo de dez minutos por dia.
+FRANCISCA: Olá, pessoal! Bem-vindos à aula quarenta e quatro do nosso curso para o TRT da Oitava Região. Hoje abrimos a terceira parte de Direito do Trabalho: duração do trabalho, descansos, férias e teletrabalho. Eu sou a Francisca, professora, e vou explicar cada tema com calma, com a lei e com exemplos.
+THALITA: E eu sou a Thalita. Vou fazer as perguntas que você faria, mostrar como a FCC cobra e resumir o que mais importa.
+FRANCISCA: Nesta aula vamos ver a jornada e seus limites, os descansos, o trabalho noturno e o extraordinário, depois compensação, banco de horas e doze por trinta e seis, salário mínimo e piso, e por fim as férias. Começando pela jornada.
+THALITA: A regra geral é a da Constituição, no artigo sétimo, inciso treze, repetida no artigo cinquenta e oito da CLT: até oito horas diárias e quarenta e quatro semanais. Lei, contrato ou norma coletiva podem fixar um limite menor.
+FRANCISCA: E o salário-hora, como se calcula?
+THALITA: Pelo divisor. Duzentos e vinte para quem trabalha quarenta e quatro horas semanais, duzentos para quarenta horas, conforme a Súmula quatrocentos e trinta e um, e cento e oitenta para jornada de seis horas diárias. Guarde esses três números.
+FRANCISCA: Agora a tolerância no registro de ponto. O parágrafo primeiro do artigo cinquenta e oito diz que não se descontam nem se pagam variações de até cinco minutos em cada marcação, observado o máximo de dez minutos por dia.
 THALITA: E se passar disso? Paga só o que passou?
-BRUNO: Não! Aí está a pegadinha da Súmula trezentos e sessenta e seis: ultrapassado o limite, paga-se como extra a totalidade do tempo, não só o excesso.
-FRANCISCA: Vamos ao exemplo. Jornada das oito às dezessete horas. Bruno marca sete e cinquenta e seis na entrada e dezessete e quatro na saída. São quatro minutos mais quatro, oito minutos: nada devido.
-THALITA: E se ele marcar sete e cinquenta e dois e dezessete e três?
-FRANCISCA: Oito minutos na entrada, passando de cinco, mais três na saída: onze minutos no total, acima de dez. São devidos os onze minutos inteiros, não apenas o excesso.
-BRUNO: E uma norma coletiva que amplie esses cinco minutos não vale, desde a Lei dez mil duzentos e quarenta e três, de dois mil e um. É a Súmula quatrocentos e quarenta e nove, embora haja discussão atual por causa do artigo seiscentos e onze A e do Tema mil e quarenta e seis do STF.
-ANTONIO: E atenção: a parte final da Súmula trezentos e sessenta e seis, sobre troca de uniforme, lanche e higiene, colide com o artigo quarto, parágrafo segundo, da CLT. Para fatos depois de onze de novembro de dois mil e dezessete, prevalece a lei.
-
+FRANCISCA: Não! Aí está a pegadinha da Súmula trezentos e sessenta e seis: ultrapassado o limite, paga-se como extra a totalidade do tempo, não só o excesso.
+THALITA: Vamos ao exemplo. Jornada das oito às dezessete horas. Bruno marca sete e cinquenta e seis na entrada e dezessete e quatro na saída. São quatro minutos mais quatro, oito minutos: nada devido.
+FRANCISCA: E se ele marcar sete e cinquenta e dois e dezessete e três?
+THALITA: Oito minutos na entrada, passando de cinco, mais três na saída: onze minutos no total, acima de dez. São devidos os onze minutos inteiros, não apenas o excesso.
+FRANCISCA: E uma norma coletiva que amplie esses cinco minutos não vale, desde a Lei dez mil duzentos e quarenta e três, de dois mil e um. É a Súmula quatrocentos e quarenta e nove, embora haja discussão atual por causa do artigo seiscentos e onze A e do Tema mil e quarenta e seis do STF.
+THALITA: E atenção: a parte final da Súmula trezentos e sessenta e seis, sobre troca de uniforme, lanche e higiene, colide com o artigo quarto, parágrafo segundo, da CLT. Para fatos depois de onze de novembro de dois mil e dezessete, prevalece a lei.
 == SLIDE: Tempo à disposição e fim das horas in itinere
 * Art. 4º: tempo à disposição do empregador
 * Art. 4º, §2º: permanência por escolha própria não conta
 * Troca de uniforme só conta se obrigatória no local
 * Art. 58, §2º: trajeto não é jornada
 * IRR Tema 23 do TST: aplicação aos contratos em curso
-THALITA: Antes de seguir: o que conta como jornada? Se eu fico na empresa depois do expediente, é hora extra?
-ANTONIO: A CLT adota o critério do tempo à disposição, artigo quarto. Conta o período em que o empregado aguarda ou executa ordens. A Reforma recortou desse conceito a permanência na empresa por escolha própria.
+FRANCISCA: Antes de seguir: o que conta como jornada? Se eu fico na empresa depois do expediente, é hora extra?
+THALITA: A CLT adota o critério do tempo à disposição, artigo quarto. Conta o período em que o empregado aguarda ou executa ordens. A Reforma recortou desse conceito a permanência na empresa por escolha própria.
 FRANCISCA: O parágrafo segundo lista o que não é tempo à disposição: proteção pessoal em caso de insegurança nas vias ou mau tempo; práticas religiosas; descanso; lazer; estudo; alimentação; relacionamento social; higiene pessoal; e troca de roupa quando não for obrigatória no local.
-BRUNO: Quando continua sendo tempo à disposição? Aguardar ou executar ordens, troca de uniforme obrigatória no local, treinamentos e reuniões convocados. E a banca tem uma pegadinha: dizer que a troca de uniforme sempre integra a jornada. Errado. Só se for obrigatória no local de trabalho.
-THALITA: Então se eu levo o uniforme de casa e me troco por conveniência, não conta?
-FRANCISCA: Isso. Agora, as horas in itinere. O parágrafo segundo do artigo cinquenta e oito diz que o tempo gasto da residência até a efetiva ocupação do posto de trabalho, e no retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não é computado na jornada.
-ANTONIO: Ou seja, acabaram as horas in itinere, que vinham da antiga Súmula noventa. O trajeto não conta mesmo em condução do empregador e mesmo em local de difícil acesso. O antigo parágrafo terceiro, sobre microempresas e empresas de pequeno porte, foi revogado.
-BRUNO: A pegadinha clássica: "o transporte fornecido para local de difícil acesso gera horas in itinere". Depois da Reforma, errado.
-THALITA: Mas e quem já estava contratado? A regra nova vale para eles?
-FRANCISCA: Vale. No incidente de recursos repetitivos, Tema vinte e três, o TST decidiu que a Lei treze mil quatrocentos e sessenta e sete se aplica aos contratos em curso quanto aos fatos geradores ocorridos a partir da sua vigência. Por exemplo, trajeto e intervalo depois de onze de novembro de dois mil e dezessete.
-THALITA: Resumo: tempo à disposição é ordem, não escolha. Trajeto, nunca conta. Uniforme, só se obrigatório.
-
+THALITA: Quando continua sendo tempo à disposição? Aguardar ou executar ordens, troca de uniforme obrigatória no local, treinamentos e reuniões convocados. E a banca tem uma pegadinha: dizer que a troca de uniforme sempre integra a jornada. Errado. Só se for obrigatória no local de trabalho.
+FRANCISCA: Então se eu levo o uniforme de casa e me troco por conveniência, não conta?
+THALITA: Isso. Agora, as horas in itinere. O parágrafo segundo do artigo cinquenta e oito diz que o tempo gasto da residência até a efetiva ocupação do posto de trabalho, e no retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não é computado na jornada.
+FRANCISCA: Ou seja, acabaram as horas in itinere, que vinham da antiga Súmula noventa. O trajeto não conta mesmo em condução do empregador e mesmo em local de difícil acesso. O antigo parágrafo terceiro, sobre microempresas e empresas de pequeno porte, foi revogado.
+THALITA: A pegadinha clássica: "o transporte fornecido para local de difícil acesso gera horas in itinere". Depois da Reforma, errado.
+FRANCISCA: Mas e quem já estava contratado? A regra nova vale para eles?
+THALITA: Vale. No incidente de recursos repetitivos, Tema vinte e três, o TST decidiu que a Lei treze mil quatrocentos e sessenta e sete se aplica aos contratos em curso quanto aos fatos geradores ocorridos a partir da sua vigência. Por exemplo, trajeto e intervalo depois de onze de novembro de dois mil e dezessete.
+FRANCISCA: Resumo: tempo à disposição é ordem, não escolha. Trajeto, nunca conta. Uniforme, só se obrigatório.
 == SLIDE: Turnos ininterruptos de revezamento
 * Alternância entre turnos que abrangem dia e noite
 * Jornada de 6h, salvo negociação coletiva (art. 7º, XIV, CF)
 * Ampliação até 8h só por norma coletiva (Súmula 423)
 * OJ 360: dois turnos bastam
 * "Ininterrupto" qualifica o revezamento do trabalhador
-ANTONIO: Terceiro ponto: turnos ininterruptos de revezamento. É a alternância periódica do trabalhador entre turnos que cobrem horários diurno e noturno, o que agride o relógio biológico. Por isso a jornada cai para seis horas, salvo negociação coletiva, artigo sétimo, inciso catorze, da Constituição.
-BRUNO: E aqui a FCC cobra a palavra "ininterrupto". Ela qualifica o revezamento do trabalhador, e não a atividade da empresa. Uma fábrica que funciona vinte e quatro horas por dia não gera, por si só, turno ininterrupto de revezamento.
+THALITA: Terceiro ponto: turnos ininterruptos de revezamento. É a alternância periódica do trabalhador entre turnos que cobrem horários diurno e noturno, o que agride o relógio biológico. Por isso a jornada cai para seis horas, salvo negociação coletiva, artigo sétimo, inciso catorze, da Constituição.
+FRANCISCA: E aqui a FCC cobra a palavra "ininterrupto". Ela qualifica o revezamento do trabalhador, e não a atividade da empresa. Uma fábrica que funciona vinte e quatro horas por dia não gera, por si só, turno ininterrupto de revezamento.
 THALITA: Então basta que eu mude de turno, ainda que a empresa não funcione sem parar?
 FRANCISCA: Exatamente. A Orientação Jurisprudencial trezentos e sessenta da SDI-um diz que basta a alternância em dois turnos que abranjam, no todo ou em parte, os períodos diurno e noturno, sendo irrelevante a empresa funcionar ininterruptamente.
-ANTONIO: A ampliação para oito horas exige negociação coletiva regular, Súmula quatrocentos e vinte e três. Nesse caso, a sétima e a oitava horas não são extras.
-BRUNO: E nunca por acordo individual! A banca troca "negociação coletiva" por "acordo individual" para armar a pegadinha.
+THALITA: A ampliação para oito horas exige negociação coletiva regular, Súmula quatrocentos e vinte e três. Nesse caso, a sétima e a oitava horas não são extras.
+FRANCISCA: E nunca por acordo individual! A banca troca "negociação coletiva" por "acordo individual" para armar a pegadinha.
 THALITA: Os intervalos de descanso e o repouso semanal descaracterizam o turno?
 FRANCISCA: Não, Súmula trezentos e sessenta: intervalo intrajornada e repouso semanal não descaracterizam o turno ininterrupto.
-BRUNO: Para o horista sem norma coletiva, as horas além da sexta são pagas como extras, com adicional, OJ duzentos e setenta e cinco. E a hora noturna reduzida se aplica ao turno ininterrupto, OJ trezentos e noventa e cinco.
-THALITA: Macete: revezamento é do trabalhador, seis horas, oito só por norma coletiva.
-
+THALITA: Para o horista sem norma coletiva, as horas além da sexta são pagas como extras, com adicional, OJ duzentos e setenta e cinco. E a hora noturna reduzida se aplica ao turno ininterrupto, OJ trezentos e noventa e cinco.
+FRANCISCA: Macete: revezamento é do trabalhador, seis horas, oito só por norma coletiva.
 == SLIDE: Regime de tempo parcial e trabalho fora do controle
 * Art. 58-A: 30h sem extras ou 26h com até 6 extras
 * Salário proporcional; extras com adicional de 50%
 * Férias pela tabela do art. 130; abono permitido
 * Art. 62: externo incompatível, gerentes e teletrabalho por tarefa
 * Gerente: salário do cargo ao menos 40% acima do efetivo
-ANTONIO: Agora o regime de tempo parcial, artigo cinquenta e oito A. São duas modalidades que a FCC adora cruzar: trinta horas semanais sem horas suplementares, ou até vinte e seis horas com possibilidade de até seis horas suplementares por semana, no máximo trinta e duas trabalhadas.
+THALITA: Agora o regime de tempo parcial, artigo cinquenta e oito A. São duas modalidades que a FCC adora cruzar: trinta horas semanais sem horas suplementares, ou até vinte e seis horas com possibilidade de até seis horas suplementares por semana, no máximo trinta e duas trabalhadas.
 FRANCISCA: O salário é proporcional ao de quem cumpre tempo integral nas mesmas funções. Os empregados atuais podem adotar o regime por opção perante a empresa, na forma de instrumento coletivo. As extras têm adicional de cinquenta por cento. A compensação deve ocorrer até a semana imediatamente posterior; se não, são pagas na folha do mês seguinte.
-BRUNO: Nas férias, vale a tabela comum do artigo cento e trinta, com abono de um terço permitido. A Reforma revogou o artigo cento e trinta A, que previa férias reduzidas, e a vedação ao abono.
-THALITA: Então trinta sem extras ou vinte e seis com até seis. Já anotei.
-ANTONIO: Passemos aos excluídos do controle de jornada, artigo sessenta e dois. Inciso primeiro: o empregado externo, quando a atividade é incompatível com a fixação de horário, e isso deve estar anotado na carteira e no registro.
-BRUNO: Pegadinha: "todo externo está excluído". Errado. Se há rastreador, roteiro fixo ou outro meio de controle, tem direito às horas extras.
-FRANCISCA: O inciso segundo traz gerentes, diretores e chefes de departamento ou filial, desde que o salário do cargo, com a gratificação, seja pelo menos quarenta por cento superior ao salário efetivo. O inciso terceiro inclui o teletrabalhador por produção ou tarefa, pela Lei catorze mil quatrocentos e quarenta e dois, de dois mil e vinte e dois.
-BRUNO: A FCC troca quarenta por cento por um terço, que é o padrão do bancário de confiança, artigo duzentos e vinte e quatro, parágrafo segundo. Esse, com gratificação de pelo menos um terço, tem jornada de oito horas, com extras além da oitava, Súmula cento e dois, item quatro.
+THALITA: Nas férias, vale a tabela comum do artigo cento e trinta, com abono de um terço permitido. A Reforma revogou o artigo cento e trinta A, que previa férias reduzidas, e a vedação ao abono.
+FRANCISCA: Então trinta sem extras ou vinte e seis com até seis. Já anotei.
+THALITA: Passemos aos excluídos do controle de jornada, artigo sessenta e dois. Inciso primeiro: o empregado externo, quando a atividade é incompatível com a fixação de horário, e isso deve estar anotado na carteira e no registro.
+FRANCISCA: Pegadinha: "todo externo está excluído". Errado. Se há rastreador, roteiro fixo ou outro meio de controle, tem direito às horas extras.
+THALITA: O inciso segundo traz gerentes, diretores e chefes de departamento ou filial, desde que o salário do cargo, com a gratificação, seja pelo menos quarenta por cento superior ao salário efetivo. O inciso terceiro inclui o teletrabalhador por produção ou tarefa, pela Lei catorze mil quatrocentos e quarenta e dois, de dois mil e vinte e dois.
+FRANCISCA: A FCC troca quarenta por cento por um terço, que é o padrão do bancário de confiança, artigo duzentos e vinte e quatro, parágrafo segundo. Esse, com gratificação de pelo menos um terço, tem jornada de oito horas, com extras além da oitava, Súmula cento e dois, item quatro.
 THALITA: E o gerente-geral de agência?
 FRANCISCA: Presume-se enquadrado no artigo sessenta e dois, inciso dois, Súmula duzentos e oitenta e sete.
-
 == SLIDE: Controle de ponto e Súmula 338
 * Art. 74: obrigatório para mais de 20 trabalhadores
 * Meios: manual, mecânico ou eletrônico; pré-assinalação do intervalo
 * Ponto por exceção: acordo individual escrito ou coletivo
 * Súmula 338: não apresentar controles gera presunção relativa
 * Cartões britânicos são inválidos como prova
-ANTONIO: Fechamos o primeiro tema com o controle de ponto, artigo setenta e quatro. É obrigatório em estabelecimentos com mais de vinte trabalhadores, número alterado pela Lei treze mil oitocentos e setenta e quatro, de dois mil e dezenove. Antes eram mais de dez.
-THALITA: E como se registra?
-FRANCISCA: Manual, mecânico ou eletrônico, sendo permitida a pré-assinalação do período de repouso. No trabalho externo, o registro fica em poder do empregado. E o ponto por exceção pode ser adotado por acordo individual escrito, convenção ou acordo coletivo.
-BRUNO: Agora a Súmula trezentos e trinta e oito, que a banca adora. Primeiro: se o empregador obrigado a manter os controles não os apresentar sem justificativa, presume-se relativamente verdadeira a jornada alegada pelo empregado. Relativamente! Pode ser desfeita com prova em contrário.
+THALITA: Fechamos o primeiro tema com o controle de ponto, artigo setenta e quatro. É obrigatório em estabelecimentos com mais de vinte trabalhadores, número alterado pela Lei treze mil oitocentos e setenta e quatro, de dois mil e dezenove. Antes eram mais de dez.
+FRANCISCA: E como se registra?
+THALITA: Manual, mecânico ou eletrônico, sendo permitida a pré-assinalação do período de repouso. No trabalho externo, o registro fica em poder do empregado. E o ponto por exceção pode ser adotado por acordo individual escrito, convenção ou acordo coletivo.
+FRANCISCA: Agora a Súmula trezentos e trinta e oito, que a banca adora. Primeiro: se o empregador obrigada a manter os controles não os apresentar sem justificativa, presume-se relativamente verdadeira a jornada alegada pelo empregado. Relativamente! Pode ser desfeita com prova em contrário.
 THALITA: E o segundo item?
-BRUNO: A presunção de jornada fixada em instrumento normativo também admite prova em contrário. E o terceiro: cartões com horários uniformes, os chamados britânicos, são inválidos como prova, e o ônus passa para o empregador.
-ANTONIO: Um alerta da apostila: o item primeiro da súmula ainda fala em mais de dez empregados, mas a lei hoje exige mais de vinte trabalhadores. Confira sempre se há atualização do texto sumular.
-THALITA: Resumo relâmpago do tema. Oito horas por dia, quarenta e quatro por semana. Tolerância de cinco minutos por marcação, dez por dia, e se passar paga tudo. Trajeto não conta. Revezamento é seis horas. Tempo parcial é trinta ou vinte e seis. Gerente é quarenta por cento. Ponto, acima de vinte.
-FRANCISCA: Muito bom. Próximo passo: os períodos de descanso, o trabalho noturno e o trabalho extraordinário.
-BRUNO: Que é um dos temas que mais caem na FCC. Vamos lá!
+FRANCISCA: A presunção de jornada fixada em instrumento normativo também admite prova em contrário. E o terceiro: cartões com horários uniformes, os chamados britânicos, são inválidos como prova, e o ônus passa para o empregador.
+THALITA: Um alerta da apostila: o item primeiro da súmula ainda fala em mais de dez empregados, mas a lei hoje exige mais de vinte trabalhadores. Confira sempre se há atualização do texto sumular.
+FRANCISCA: Resumo relâmpago do tema. Oito horas por dia, quarenta e quatro por semana. Tolerância de cinco minutos por marcação, dez por dia, e se passar paga tudo. Trajeto não conta. Revezamento é seis horas. Tempo parcial é trinta ou vinte e seis. Gerente é quarenta por cento. Ponto, acima de vinte.
+THALITA: Muito bom. Próximo passo: os períodos de descanso, o trabalho noturno e o trabalho extraordinário.
+FRANCISCA: Que é um dos temas que mais caem na FCC. Vamos lá!
