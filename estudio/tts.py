@@ -21,9 +21,13 @@ TAXA = 24000          # Hz, mono, 16 bits: o que o edge-tts entrega
 # voz, tom, ritmo. Opcao E aprovada no teste: -7% e tom natural (voz lenta + tom
 # grave fazia a voz engolir o final das palavras). Ritmo real medido abaixo, por
 # minuto articulando (medido a 0%: Francisca 167, Thalita 176).
+# A personagem THALITA usa a voz Seraphina: a voz Thalita (e as outras femininas
+# multilingues, Ava e Vivienne) apaga a ultima vogal atona no fim da frase
+# ("marco" sai "marc", queda de ~24 dB, sem a vogal); nenhum ritmo, tom ou
+# pontuacao corrige. Francisca e Seraphina mantem a silaba final (~-12 dB).
 VOZES_TTS = {
-    "FRANCISCA": ("pt-BR-FranciscaNeural",           "+0Hz",  "-7%"),
-    "THALITA":   ("pt-BR-ThalitaMultilingualNeural", "+0Hz",  "-7%"),
+    "FRANCISCA": ("pt-BR-FranciscaNeural",             "+0Hz",  "-7%"),
+    "THALITA":   ("de-DE-SeraphinaMultilingualNeural", "+0Hz",  "-7%"),
 }
 
 # silencio ACRESCENTADO depois da pontuacao (a voz ja faz de 0 a 0,3 s)

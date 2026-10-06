@@ -45,6 +45,6 @@ Para refazer uma aula já publicada: Actions → producao → Run workflow → i
 | Antônio | pt-BR-AntonioNeural, tom -10 Hz | professor, conduz |
 | Francisca | pt-BR-FranciscaNeural, tom -8 Hz | professora, lei e exemplos |
 | Bruno | en-US-BrianMultilingualNeural, tom -6 Hz | especialista em FCC |
-| Thalita | pt-BR-ThalitaMultilingualNeural, tom -10 Hz | concurseira, perguntas e resumos |
+| Thalita | de-DE-SeraphinaMultilingualNeural (a voz Thalita apagava o fim das frases) | concurseira, perguntas e resumos |
 
 Para trocar uma voz, edite `VOZES_TTS` em `estudio/tts.py`.

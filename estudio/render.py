@@ -27,7 +27,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SAIDA = os.path.join(RAIZ, "saida")
 CACHE = os.path.join(RAIZ, ".cache_tts")
 TAG = "aulas"
-VERSAO = 3          # suba quando mudar o visual: as aulas publicadas antes sao refeitas
+VERSAO = 4          # suba quando mudar o visual ou a voz: as aulas publicadas antes sao refeitas
 
 # Pausas pensadas para quem ouve absorver (referencia medida: sustentacao oral
 # humana, 127 palavras/min e uma pausa a cada ~3 s; aqui, mais calmo ainda).
